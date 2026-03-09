@@ -4,14 +4,18 @@ import json
 import re
 import requests
 import datetime
+import random
 from urllib.parse import urljoin
 
 # ================= 全局配置 =================
-# 1. 模型与 API 配置
-AI_MODEL = "gemini-2.5-flash"
+# 1. 模型配置
+# 优先使用 OpenRouter 的阶跃星辰模型
+OPENROUTER_MODEL = "stepfun/step-3.5-flash:free"
+# 备用谷歌模型
+GEMINI_MODEL = "gemini-1.5-flash"
+
+OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-# 注意：API URL 保持与你提供的 curl 格式一致
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{AI_MODEL}:generateContent?key={GEMINI_API_KEY}"
 
 # 2. 目标数据源
 SOURCES = [
@@ -22,37 +26,67 @@ SOURCES = [
 # 3. 输出配置
 OUTPUT_DIR = "data"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "daily_ai_news.json")
-NEWS_COUNT = 10  # 最终保留条数
+NEWS_COUNT = 10 
 
 # ===========================================
 
-def call_gemini_api(prompt):
-    """使用原生 REST API 调用 Gemini 3 Flash"""
-    headers = {'Content-Type': 'application/json'}
+def call_openrouter(prompt):
+    """调用 OpenRouter (Step 3.5 Flash)"""
+    if not OPENROUTER_API_KEY:
+        return ""
+    
+    print(f"🤖 尝试使用 OpenRouter ({OPENROUTER_MODEL})...")
+    url = "https://openrouter.ai/api/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "Content-Type": "application/json"
+    }
     payload = {
-        "contents": [
-            {
-                "parts": [{"text": prompt}]
-            }
-        ],
-        "generationConfig": {
-            "temperature": 0.3,
-            "topP": 0.8,
-            "topK": 40
-        }
+        "model": OPENROUTER_MODEL,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.3
     }
     
     try:
-        response = requests.post(GEMINI_URL, headers=headers, json=payload, timeout=60)
-        res_json = response.json()
-        if "candidates" in res_json:
-            return res_json["candidates"][0]["content"]["parts"][0]["text"]
+        response = requests.post(url, headers=headers, json=payload, timeout=60)
+        if response.status_code == 200:
+            return response.json()['choices'][0]['message']['content']
         else:
-            print(f"❌ API 返回错误: {res_json}")
-            return ""
+            print(f"⚠️ OpenRouter 报错: {response.status_code}")
     except Exception as e:
-        print(f"❌ 请求 Gemini 出错: {e}")
+        print(f"❌ OpenRouter 请求异常: {e}")
+    return ""
+
+def call_gemini(prompt):
+    """调用 Google Gemini (作为备用)"""
+    if not GEMINI_API_KEY:
         return ""
+    
+    print(f"🔄 切换至备用模型 Google Gemini ({GEMINI_MODEL})...")
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
+    headers = {'Content-Type': 'application/json'}
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.3}
+    }
+    
+    try:
+        response = requests.post(url, headers=headers, json=payload, timeout=60)
+        if response.status_code == 200:
+            return response.json()["candidates"][0]["content"]["parts"][0]["text"]
+    except Exception as e:
+        print(f"❌ Gemini 请求异常: {e}")
+    return ""
+
+def call_ai_api(prompt):
+    """统一模型分发器：先 OpenRouter，后 Gemini"""
+    # 1. 尝试 OpenRouter
+    res = call_openrouter(prompt)
+    if res: return res
+    
+    # 2. 失败后尝试 Gemini
+    res = call_gemini(prompt)
+    return res
 
 def fetch_jina_content(url):
     """使用 Jina 读取网页 Markdown 内容"""
@@ -72,83 +106,59 @@ def clean_json_string(text):
     """提取 Markdown 代码块中的 JSON"""
     if not text: return ""
     text = text.strip()
-    # 尝试匹配 ```json ... ``` 或 ``` ... ```
     match = re.search(r'```(?:json)?\s*(\[.*?\]|\{.*?\})\s*```', text, re.DOTALL)
-    if match:
-        return match.group(1).strip()
-    # 如果没有代码块，尝试直接寻找最外层的 [ 或 {
+    if match: return match.group(1).strip()
     match = re.search(r'(\[.*\]|\{.*\})', text, re.DOTALL)
-    if match:
-        return match.group(1).strip()
-    return text
+    return match.group(1).strip() if match else text
 
 def get_news_list(all_markdown):
-    """第一步：从混合内容中提取新闻候选"""
+    """第一步：提取候选"""
     today = (datetime.datetime.utcnow() + datetime.timedelta(hours=8)).strftime("%Y-%m-%d")
-    
-    # 使用 {{ 和 }} 来转义 f-string 中的大括号
     prompt = f"""
-    分析以下网页内容，筛选出今日({today})最新发布的 AI 行业动态。
-    要求：
-    1. 严格去除重复：如果多篇文章描述同一个模型发布或事件，只保留一个。
-    2. 优先选择重磅消息。
-    3. 严格返回以下 JSON 数组格式，不要有其他解释：
-    [
-        {{"title": "原标题", "url": "链接"}}
-    ]
-    
+    分析以下内容，筛选出今日({today})最新的 15 条 AI 行业动态。
+    要求：去重，严格返回 JSON 数组格式：
+    [ {{"title": "原标题", "url": "链接"}} ]
     内容来源：
-    {all_markdown[:25000]}
+    {all_markdown[:20000]}
     """
-    raw_res = call_gemini_api(prompt)
-    cleaned = clean_json_string(raw_res)
+    raw_res = call_ai_api(prompt)
     try:
-        return json.loads(cleaned)[:15]
-    except Exception as e:
-        print(f"解析新闻列表 JSON 失败: {e}")
+        return json.loads(clean_json_string(raw_res))
+    except:
         return []
 
 def rewrite_article(title, url, context_md):
     """第二步：AI 深度重写"""
-    print(f"  📝 正在处理: {title}")
+    print(f"  📝 正在重写: {title}")
     
     detail_md = fetch_jina_content(url)
     if not detail_md or len(detail_md) < 500:
-        detail_md = f"标题: {title}\n上下文内容: {context_md[:3000]}"
+        detail_md = f"标题: {title}\n摘要: {context_md[:2000]}"
         
     prompt = f"""
-    你是一名资深的科技媒体主编。请根据以下素材，撰写一篇具有科技报道风格的新闻简报。
-    
-    要求：
-    1. 重新拟定标题：专业、客观且极客风格。
-    2. 重写内容：250字以内，分析其技术意义或行业影响。
-    3. 提取配图：找出一个相关的图片 URL（若有）。
-    4. 语言：中文。
-    
-    素材：
+    作为科技媒体主编，请根据素材撰写一篇 250 字以内的科技风报道。
+    要求：重新拟定极客风格标题，分析技术影响。
+    素材内容：
     {detail_md[:10000]}
     
-    请严格返回 JSON 格式：
+    必须返回 JSON：
     {{
         "资讯标题": "新标题",
         "内容": "报道内容",
         "配图": ["图片URL"]
     }}
     """
-    
-    raw_res = call_gemini_api(prompt)
-    cleaned = clean_json_string(raw_res)
+    raw_res = call_ai_api(prompt)
     try:
-        return json.loads(cleaned)
+        return json.loads(clean_json_string(raw_res))
     except:
         return None
 
 def main():
-    if not GEMINI_API_KEY:
-        print("❌ 未检测到 GEMINI_API_KEY")
+    if not OPENROUTER_API_KEY and not GEMINI_API_KEY:
+        print("❌ 未设置任何 API KEY")
         return
 
-    # 1. 抓取主页内容
     full_content = ""
     for url in SOURCES:
         content = fetch_jina_content(url)
@@ -156,36 +166,28 @@ def main():
             full_content += f"\n\n--- Source: {url} ---\n{content}"
         time.sleep(2)
 
-    # 2. 获取候选列表
     candidates = get_news_list(full_content)
-    print(f"✅ 找到 {len(candidates)} 条候选新闻")
+    if not candidates:
+        candidates = []
 
-    # 3. 逐条重写
     final_results = []
     seen_titles = set()
 
     for item in candidates:
-        if len(final_results) >= NEWS_COUNT:
-            break
-            
+        if len(final_results) >= NEWS_COUNT: break
         rewritten = rewrite_article(item['title'], item['url'], full_content)
-        
         if rewritten and rewritten.get("内容"):
-            # 二次去重检测
             new_title = rewritten.get("资讯标题")
             if new_title not in seen_titles:
                 final_results.append(rewritten)
                 seen_titles.add(new_title)
                 time.sleep(2)
 
-    # 4. 保存
-    if final_results:
-        if not os.path.exists(OUTPUT_DIR): os.makedirs(OUTPUT_DIR)
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(final_results, f, ensure_ascii=False, indent=4)
-        print(f"🚀 任务成功，已更新 {len(final_results)} 条报道。")
-    else:
-        print("❌ 未生成有效内容。")
+    if not os.path.exists(OUTPUT_DIR): os.makedirs(OUTPUT_DIR)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(final_results, f, ensure_ascii=False, indent=4)
+    
+    print(f"🚀 任务结束，已生成 {len(final_results)} 条 AI 报道")
 
 if __name__ == "__main__":
     main()
