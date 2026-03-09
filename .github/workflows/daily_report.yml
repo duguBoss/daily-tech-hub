@@ -29,6 +29,7 @@ jobs:
       - name: Run AI News Script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: python daily_ai_news.py
 
       - name: Commit and Push changes
