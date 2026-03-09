@@ -35,7 +35,17 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # 确保文件夹存在，即使脚本没生成文件，git add 也不会报 pathspec 错误
+          mkdir -p data
+          touch data/daily_ai_news.json 
+          
           git add data/daily_ai_news.json
-          # 如果文件没有变化（内容一致），git commit 会报错，使用 || exit 0 忽略
-          git commit -m "Update Daily AI News: $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
-          git push
+          
+          # 只有在有内容变化时才 commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Daily AI News: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
