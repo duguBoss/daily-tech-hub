@@ -9,10 +9,8 @@ from urllib.parse import urljoin
 
 # ================= 全局配置 =================
 # 1. 模型配置
-# 优先使用 OpenRouter 的阶跃星辰模型
 OPENROUTER_MODEL = "stepfun/step-3.5-flash:free"
-# 备用谷歌模型
-GEMINI_MODEL = "gemini-1.5-flash"
+GEMINI_MODEL = "gemini-3.1-flash-lite-preview"
 
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
@@ -30,164 +28,151 @@ NEWS_COUNT = 10
 
 # ===========================================
 
-def call_openrouter(prompt):
-    """调用 OpenRouter (Step 3.5 Flash)"""
-    if not OPENROUTER_API_KEY:
-        return ""
-    
-    print(f"🤖 尝试使用 OpenRouter ({OPENROUTER_MODEL})...")
-    url = "https://openrouter.ai/api/v1/chat/completions"
-    headers = {
-        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
-        "Content-Type": "application/json"
+def get_current_date_info():
+    """获取北京时间的年、月、日、年月路径"""
+    beijing_now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
+    year = beijing_now.strftime("%Y")
+    month = beijing_now.strftime("%m")
+    day = beijing_now.strftime("%d")
+    return {
+        "year": year,
+        "month": month,
+        "day": day,
+        "date_str": beijing_now.strftime("%Y-%m-%d"),
+        "path_aibot": f"{year}/{month}",
+        "path_chinaz": f"{year}/{month}{day}" # 预判 chinaz 可能是当日日期
     }
-    payload = {
-        "model": OPENROUTER_MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.3
-    }
-    
-    try:
-        response = requests.post(url, headers=headers, json=payload, timeout=60)
-        if response.status_code == 200:
-            return response.json()['choices'][0]['message']['content']
-        else:
-            print(f"⚠️ OpenRouter 报错: {response.status_code}")
-    except Exception as e:
-        print(f"❌ OpenRouter 请求异常: {e}")
-    return ""
 
-def call_gemini(prompt):
-    """调用 Google Gemini (作为备用)"""
-    if not GEMINI_API_KEY:
-        return ""
+def filter_valid_images(image_list, date_info):
+    """
+    严格过滤图片地址：
+    1. https://ai-bot.cn/wp-content/uploads/YYYY/MM/...
+    2. https://upload.chinaz.com/YYYY/MM...
+    """
+    year = date_info['year']
+    month = date_info['month']
     
-    print(f"🔄 切换至备用模型 Google Gemini ({GEMINI_MODEL})...")
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
-    headers = {'Content-Type': 'application/json'}
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.3}
-    }
+    # 允许 chinaz 匹配当前月开头的任何日期 (如 2025/0309)
+    regex_aibot = rf"https://ai-bot\.cn/wp-content/uploads/{year}/{month}/"
+    regex_chinaz = rf"https://upload\.chinaz\.com/{year}/{month}"
     
-    try:
-        response = requests.post(url, headers=headers, json=payload, timeout=60)
-        if response.status_code == 200:
-            return response.json()["candidates"][0]["content"]["parts"][0]["text"]
-    except Exception as e:
-        print(f"❌ Gemini 请求异常: {e}")
-    return ""
+    valid_images = []
+    for img in image_list:
+        if re.search(regex_aibot, img) or re.search(regex_chinaz, img):
+            valid_images.append(img)
+    return valid_images
 
 def call_ai_api(prompt):
-    """统一模型分发器：先 OpenRouter，后 Gemini"""
-    # 1. 尝试 OpenRouter
-    res = call_openrouter(prompt)
-    if res: return res
+    """调用 API 分发器（先 OpenRouter 后 Gemini）"""
+    # 尝试 OpenRouter
+    if OPENROUTER_API_KEY:
+        try:
+            url = "https://openrouter.ai/api/v1/chat/completions"
+            headers = {"Authorization": f"Bearer {OPENROUTER_API_KEY}", "Content-Type": "application/json"}
+            payload = {"model": OPENROUTER_MODEL, "messages": [{"role": "user", "content": prompt}], "temperature": 0.3}
+            response = requests.post(url, headers=headers, json=payload, timeout=60)
+            if response.status_code == 200:
+                return response.json()['choices'][0]['message']['content']
+        except: pass
     
-    # 2. 失败后尝试 Gemini
-    res = call_gemini(prompt)
-    return res
+    # 备用 Gemini
+    if GEMINI_API_KEY:
+        try:
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
+            payload = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"temperature": 0.3}}
+            response = requests.post(url, headers={'Content-Type': 'application/json'}, json=payload, timeout=60)
+            if response.status_code == 200:
+                return response.json()["candidates"][0]["content"]["parts"][0]["text"]
+        except: pass
+    return ""
 
 def fetch_jina_content(url):
-    """使用 Jina 读取网页 Markdown 内容"""
+    """读取网页内容"""
     print(f"🌐 正在抓取: {url}")
-    jina_url = f"https://r.jina.ai/{url}"
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "X-Return-Format": "markdown"
-    }
+    headers = {"X-Return-Format": "markdown"}
     try:
-        resp = requests.get(jina_url, headers=headers, timeout=40)
+        resp = requests.get(f"https://r.jina.ai/{url}", headers=headers, timeout=40)
         return resp.text if resp.status_code == 200 else ""
-    except:
-        return ""
+    except: return ""
 
 def clean_json_string(text):
-    """提取 Markdown 代码块中的 JSON"""
     if not text: return ""
-    text = text.strip()
     match = re.search(r'```(?:json)?\s*(\[.*?\]|\{.*?\})\s*```', text, re.DOTALL)
     if match: return match.group(1).strip()
     match = re.search(r'(\[.*\]|\{.*\})', text, re.DOTALL)
     return match.group(1).strip() if match else text
 
-def get_news_list(all_markdown):
-    """第一步：提取候选"""
-    today = (datetime.datetime.utcnow() + datetime.timedelta(hours=8)).strftime("%Y-%m-%d")
-    prompt = f"""
-    分析以下内容，筛选出今日({today})最新的 15 条 AI 行业动态。
-    要求：去重，严格返回 JSON 数组格式：
-    [ {{"title": "原标题", "url": "链接"}} ]
-    内容来源：
-    {all_markdown[:20000]}
-    """
-    raw_res = call_ai_api(prompt)
-    try:
-        return json.loads(clean_json_string(raw_res))
-    except:
-        return []
-
-def rewrite_article(title, url, context_md):
-    """第二步：AI 深度重写"""
+def rewrite_article(title, url, date_info):
+    """深度重写并严格寻找符合路径的图片"""
     print(f"  📝 正在重写: {title}")
-    
     detail_md = fetch_jina_content(url)
-    if not detail_md or len(detail_md) < 500:
-        detail_md = f"标题: {title}\n摘要: {context_md[:2000]}"
-        
+    
+    # 告知 AI 具体的图片匹配规则
     prompt = f"""
-    作为科技媒体主编，请根据素材撰写一篇 250 字以内的科技风报道。
-    要求：重新拟定极客风格标题，分析技术影响。
+    作为科技主编，请根据素材重写新闻，并从【文章原始Markdown】中找出符合规则的图片。
+    
+    规则：
+    1. 图片必须以 https://ai-bot.cn/wp-content/uploads/{date_info['year']}/{date_info['month']}/ 开头
+    2. 或以 https://upload.chinaz.com/{date_info['year']}/{date_info['month']} 开头
+    3. 重写风格：科技媒体、极客、专业。200字左右。
+    
     素材内容：
     {detail_md[:10000]}
     
-    必须返回 JSON：
+    请严格返回 JSON：
     {{
-        "资讯标题": "新标题",
+        "资讯标题": "重写后的标题",
         "内容": "报道内容",
-        "配图": ["图片URL"]
+        "候选图片": ["从文中找到的所有图片URL"]
     }}
     """
     raw_res = call_ai_api(prompt)
     try:
-        return json.loads(clean_json_string(raw_res))
+        data = json.loads(clean_json_string(raw_res))
+        # 在 Python 层进行最终正则过滤，确保万无一失
+        final_images = filter_valid_images(data.get("候选图片", []), date_info)
+        return {
+            "资讯标题": data.get("资讯标题"),
+            "内容": data.get("内容"),
+            "配图": final_images[:1] # 只取一张最符合的
+        }
     except:
         return None
 
 def main():
-    if not OPENROUTER_API_KEY and not GEMINI_API_KEY:
-        print("❌ 未设置任何 API KEY")
-        return
+    date_info = get_current_date_info()
+    print(f"📅 当前处理日期路径: {date_info['year']}/{date_info['month']}")
 
-    full_content = ""
+    # 1. 抓取列表
+    full_home_content = ""
     for url in SOURCES:
-        content = fetch_jina_content(url)
-        if content:
-            full_content += f"\n\n--- Source: {url} ---\n{content}"
+        full_home_content += f"\n{fetch_jina_content(url)}"
         time.sleep(2)
 
-    candidates = get_news_list(full_content)
-    if not candidates:
-        candidates = []
+    # 2. 提取新闻列表
+    list_prompt = f"分析以下内容，提取今日({date_info['date_str']})最新的15条AI新闻标题和URL。返回 JSON 数组: [{{'title':'','url':''}}]\n内容:\n{full_home_content[:20000]}"
+    candidates = []
+    try:
+        candidates = json.loads(clean_json_string(call_ai_api(list_prompt)))
+    except: pass
 
+    # 3. 循环重写
     final_results = []
     seen_titles = set()
-
     for item in candidates:
         if len(final_results) >= NEWS_COUNT: break
-        rewritten = rewrite_article(item['title'], item['url'], full_content)
-        if rewritten and rewritten.get("内容"):
-            new_title = rewritten.get("资讯标题")
-            if new_title not in seen_titles:
-                final_results.append(rewritten)
-                seen_titles.add(new_title)
+        res = rewrite_article(item['title'], item['url'], date_info)
+        if res and res.get("内容"):
+            if res["资讯标题"] not in seen_titles:
+                final_results.append(res)
+                seen_titles.add(res["资讯标题"])
                 time.sleep(2)
 
-    if not os.path.exists(OUTPUT_DIR): os.makedirs(OUTPUT_DIR)
+    # 4. 保存
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(final_results, f, ensure_ascii=False, indent=4)
-    
-    print(f"🚀 任务结束，已生成 {len(final_results)} 条 AI 报道")
+    print(f"🚀 任务完成，成功生成 {len(final_results)} 条带合规图片的报道")
 
 if __name__ == "__main__":
     main()
