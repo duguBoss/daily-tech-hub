@@ -8,7 +8,7 @@ from urllib.parse import urljoin
 
 # ================= 全局配置 =================
 # 1. 模型与 API 配置
-AI_MODEL = "gemini-3-flash-preview"
+AI_MODEL = "gemini-2.5-flash"
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 # 注意：API URL 保持与你提供的 curl 格式一致
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{AI_MODEL}:generateContent?key={GEMINI_API_KEY}"
