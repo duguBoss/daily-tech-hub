@@ -2,53 +2,59 @@ name: Daily AI News Update
 
 on:
   schedule:
-    # 北京时间 20:00 是 UTC 时间 12:00
-    - cron: '0 12 * * *'
-  workflow_dispatch: # 允许手动点击按钮触发执行
+    # Beijing time 20:00 = UTC 12:00
+    - cron: "0 12 * * *"
+  workflow_dispatch:
 
 jobs:
   build_and_run:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 赋予 Action 推送代码到仓库的权限
+      contents: write
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: "3.10"
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Install Playwright browsers
-        run: |
-          playwright install chromium
-          playwright install-deps chromium
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests
+          fi
 
       - name: Run AI News Script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        run: python daily_ai_news.py
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+          GITHUB_SHA: ${{ github.sha }}
+        run: python daily_news_scraper.py
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
-          # 确保文件夹存在，即使脚本没生成文件，git add 也不会报 pathspec 错误
+
           mkdir -p data
-          touch data/daily_ai_news.json 
-          
+          mkdir -p assets/news_images
+          touch data/daily_ai_news.json
+
           git add data/daily_ai_news.json
-          
-          # 只有在有内容变化时才 commit
+          git add assets/news_images
+
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
