@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "阿里云推出智能体协作平台，原无影协同系统已正式开启内测",
-    "内容": "阿里云旗下的多智能体协作平台已更名为联合虚拟系统，该平台专注于提升多智能体之间的协同工作效率，目前已面向特定用户群体开启内测，旨在打造更加高效的企业级人工智能应用生态。",
+    "资讯标题": "阿里云发布智能体协作平台，原无影系列产品正式更名为云爪",
+    "内容": "阿里云旗下的多智能体协作平台今日正式更名为云爪，并开启了小范围内部测试。作为一款高效的协同工具，该平台致力于为企业用户提供更加专业、流畅的人工智能自动化任务处理方案。",
     "来源站点": "AI工具集",
     "来源": "AI工具集",
     "发布日期": "2026-03-10",
@@ -12,8 +12,8 @@
     "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2026/03/JVS-Claw-website.png"
   },
   {
-    "资讯标题": "智谱推出澳龙系统：国内首个实现一键安装本地版智能体框架",
-    "内容": "智谱发布的澳龙系统是国内首个支持个人电脑一键部署的智能体平台。用户仅需一分钟即可完成安装，并可在常用办公软件中直接通过指令调度人工智能执行各类复杂任务，大幅降低了本地化使用的门槛。",
+    "资讯标题": "智谱推出澳龙系统：国内首个实现一键部署的本地智能体开发框架",
+    "内容": "智谱最新发布澳龙系统，这是国内首款支持个人电脑一键安装的本地开源智能体框架。用户仅需一分钟即可完成环境部署，并能在即时通讯软件中直接指派人工智能执行任务，大幅降低了智能体开发与应用的使用门槛。",
     "来源站点": "AI工具集",
     "来源": "智谱",
     "发布日期": "2026-03-10",
@@ -24,80 +24,8 @@
     "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2026/03/AutoClaw-website1.png"
   },
   {
-    "资讯标题": "腾讯推出智能桌面工作台，免部署版本人工智能助手正式上线",
-    "内容": "腾讯近期正式发布了其原生的桌面智能工作台。作为腾讯自主研发的轻量化人工智能助手，该工具无需复杂的部署流程，用户即可直接在桌面上调用强大的模型能力，显著提升办公自动化水平。",
-    "来源站点": "AI工具集",
-    "来源": "腾讯云",
-    "发布日期": "2026-03-09",
-    "原文链接": "https://ai-bot.cn/sites/73160.html",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c8e2fa9b7afdc9a009a420ba6eab3a74.png",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c8e2fa9b7afdc9a009a420ba6eab3a74.png",
-    "配图仓库路径": "assets/news_images/c8e2fa9b7afdc9a009a420ba6eab3a74.png",
-    "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2026/03/WorkBuddy-website-2.png"
-  },
-  {
-    "资讯标题": "达摩院研发新型脂肪肝筛查模型，高风险病灶检出率显著翻倍",
-    "内容": "阿里巴巴达摩院联合多家权威医疗机构，共同研发出一种用于脂肪肝筛查的智能模型。该研究成果已发表在国际期刊上，通过人工智能技术辅助医生进行早期筛查，可将高风险病灶的检出率提升一倍，有效预防疾病恶化。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/zh/news/26035",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5e8d22e1362afc254aa5bdad59af7a6b.png",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5e8d22e1362afc254aa5bdad59af7a6b.png",
-    "配图仓库路径": "assets/news_images/5e8d22e1362afc254aa5bdad59af7a6b.png",
-    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390866179034590474602389.png"
-  },
-  {
-    "资讯标题": "火山引擎云端平台正式上线，提供开箱即用的生产级助手服务",
-    "内容": "火山引擎发布的云端智能平台解决了人工智能应用中环境配置复杂、资源消耗大等痛点。该平台提供七乘二十四小时在线服务，通过集成自研模型，为企业用户构建稳定、高效且具备生产能力的智能助理系统。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/zh/news/26042",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8c1cb0755f0fecb5df3d1a73572a3ea7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8c1cb0755f0fecb5df3d1a73572a3ea7.jpg",
-    "配图仓库路径": "assets/news_images/8c1cb0755f0fecb5df3d1a73572a3ea7.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390866524367814779828058.jpg"
-  },
-  {
-    "资讯标题": "开源社区关注度突破二十八万，智能体框架新增记忆热插拔功能",
-    "内容": "开源智能体项目热度持续攀升，项目累计关注量已突破二十八万。最新发布的版本引入了上下文引擎插件与分布式绑定功能，并全面兼容当前顶尖的大型语言模型，助力开发者构建具备长效记忆能力的智能应用。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/zh/news/26036",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/890145e7b8c91aafd4b6d8be32ab6052.png",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/890145e7b8c91aafd4b6d8be32ab6052.png",
-    "配图仓库路径": "assets/news_images/890145e7b8c91aafd4b6d8be32ab6052.png",
-    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390866227904463478968812.png"
-  },
-  {
-    "资讯标题": "开源智能体能力排行榜出炉，多款主流模型真实战力大比拼",
-    "内容": "近日一份聚焦真实场景的智能体性能排行榜引发关注。该榜单通过统一的测试标准，评估了各大主流模型在实际编码任务中的执行成功率，为广大开发者在选择适合自身需求的人工智能方案时提供了重要参考依据。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/zh/news/26044",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7cafb3073926c062df989275231ddf9a.png",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7cafb3073926c062df989275231ddf9a.png",
-    "配图仓库路径": "assets/news_images/7cafb3073926c062df989275231ddf9a.png",
-    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390866582423123395117813.png"
-  },
-  {
-    "资讯标题": "小红书发布图像编辑模型最新版，成功攻克多元素融合难题",
-    "内容": "小红书团队近日发布了图像编辑模型的升级版本，其更新节奏显著加快。该模型在保持前代优势的基础上，重点攻克了人像美妆、多元素融合以及保持图像特征一致性等复杂技术难题，进一步提升了多模态内容的生成质量。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/zh/news/26024",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
-    "配图仓库路径": "assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201907152222434146_3.jpg"
-  },
-  {
-    "资讯标题": "从入门到专业：一句话描述即可生成高品质海报的艺术技能",
-    "内容": "近期一款广受好评的人工智能艺术设计工具走红，用户只需输入一段描述，即可让系统自动生成书籍封面、专辑海报等高质量视觉内容。该工具无需用户具备专业设计背景，通过自动调配视觉风格，生成效果足以媲美专业水准。",
+    "资讯标题": "零基础实现大师级视觉设计，一句描述即可生成精美海报图像",
+    "内容": "一款全新的海报设计智能插件近期走红。用户无需掌握复杂的专业绘图软件，仅需通过一句自然语言描述，人工智能即可自动匹配艺术风格并生成高质量的商业海报、书籍封面或社交媒体配图，效果直逼专业水平。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-09",
@@ -108,15 +36,87 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0309/6390865177777432793482958.png"
   },
   {
-    "资讯标题": "人工智能成人模式再度推迟上线，官方表示优先优化核心性能",
-    "内容": "原定于年初上线的生成式人工智能成人内容模式再次推迟。开发商回应称，目前资源优先用于提升模型的基础智商与主动交互能力，对于此类特定领域功能的开发与审查，仍需更多时间进行评估与技术储备。",
+    "资讯标题": "阿里达摩院研发新型人工智能模型，大幅提升早期脂肪肝筛查效率",
+    "内容": "阿里达摩院联合多家权威医疗机构研发出脂肪肝筛查人工智能模型。该研究成果已发表在国际期刊上。该模型能显著提升脂肪肝的高风险检出率，帮助患者在早期发现病变，从而有效预防肝脏疾病的进一步恶化。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/zh/news/26035",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5e8d22e1362afc254aa5bdad59af7a6b.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5e8d22e1362afc254aa5bdad59af7a6b.png",
+    "配图仓库路径": "assets/news_images/5e8d22e1362afc254aa5bdad59af7a6b.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390866179034590474602389.png"
+  },
+  {
+    "资讯标题": "腾讯研发智能体一键启动工具，实现微信与聊天软件双端无缝对接",
+    "内容": "腾讯正在内测一款名为快爪的一键启动工具，旨在降低人工智能智能体的接入难度。该产品支持在本地电脑快速部署，并实现与主流社交软件的深度集成，让用户能通过聊天窗口便捷控制智能体处理日常事务。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/zh/news/26029",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a216c48d1e5409b22fb51c56e6d36f6d.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a216c48d1e5409b22fb51c56e6d36f6d.png",
+    "配图仓库路径": "assets/news_images/a216c48d1e5409b22fb51c56e6d36f6d.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390865198058195222486705.png"
+  },
+  {
+    "资讯标题": "聊天机器人深度交互模式再次延期，官方称将优先提升逻辑思维能力",
+    "内容": "原定于第一季度推出的深度交互模式再次延期。公司高层确认，目前资源将优先用于提升模型的核心逻辑推理与智力水平。至于更具争议的个性化交互功能，官方表示需要更多时间进行调试与审核。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-09",
     "原文链接": "https://www.aibase.com/zh/news/26021",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94ead9c7f00cb7d5082089e37d9a353b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94ead9c7f00cb7d5082089e37d9a353b.jpg",
-    "配图仓库路径": "assets/news_images/94ead9c7f00cb7d5082089e37d9a353b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304191404445689_1.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/578de0e7aa21c16ce6e42afc4643b02d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/578de0e7aa21c16ce6e42afc4643b02d.jpg",
+    "配图仓库路径": "assets/news_images/578de0e7aa21c16ce6e42afc4643b02d.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0310/6390874726201242672962382.jpg"
+  },
+  {
+    "资讯标题": "火山引擎云端智能体平台正式上线，集成自研高性能大模型服务",
+    "内容": "火山引擎正式发布云端智能体平台，旨在解决生产环境中环境配置复杂、资源消耗大及会话不稳定等难题。该平台支持全天候在线服务，实现了开箱即用，为企业提供生产级别的自动化执行能力。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/zh/news/26042",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8c1cb0755f0fecb5df3d1a73572a3ea7.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8c1cb0755f0fecb5df3d1a73572a3ea7.jpg",
+    "配图仓库路径": "assets/news_images/8c1cb0755f0fecb5df3d1a73572a3ea7.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390866524367814779828058.jpg"
+  },
+  {
+    "资讯标题": "开源智能体社区热度飙升，重大版本更新引入记忆热插拔与新模型",
+    "内容": "备受关注的开源智能体项目近期发布核心版本，收藏量突破二十八万。此次升级引入了上下文引擎插件与分布式绑定功能，实现了对顶级模型的全面兼容。开发者表示，项目正逐步从实验阶段走向规模化应用。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/zh/news/26036",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/890145e7b8c91aafd4b6d8be32ab6052.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/890145e7b8c91aafd4b6d8be32ab6052.png",
+    "配图仓库路径": "assets/news_images/890145e7b8c91aafd4b6d8be32ab6052.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390866227904463478968812.png"
+  },
+  {
+    "资讯标题": "小红书发布图像编辑模型最新版本，攻克复杂元素融合与一致性难题",
+    "内容": "小红书智能团队近日发布图像编辑模型最新版，重点提升了多模态处理能力。该模型在保持前代优势的基础上，针对图像编辑中的身份一致性、多元素无缝融合以及美妆风格参考等核心技术难点取得了实质性突破。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/zh/news/26024",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
+    "配图仓库路径": "assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201907152222434146_3.jpg"
+  },
+  {
+    "资讯标题": "人工智能编程实力对决：行业首份智能体执行能力排行榜正式公布",
+    "内容": "一份权威的编程智能体能力排行榜引发行业关注。该榜单通过标准化评测，在真实应用场景下测试了各大模型在代码编写与任务执行方面的成功率，为广大开发者提供了极具价值的硬核选型参考。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/zh/news/26044",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7cafb3073926c062df989275231ddf9a.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7cafb3073926c062df989275231ddf9a.png",
+    "配图仓库路径": "assets/news_images/7cafb3073926c062df989275231ddf9a.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390866582423123395117813.png"
   }
 ]
