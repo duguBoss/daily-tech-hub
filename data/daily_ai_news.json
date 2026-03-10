@@ -1,30 +1,148 @@
 [
-    {
-        "资讯标题": "微软重磅发布 Phi-4-Reasoning-Vision-15B：SLM 领域首个具备“自主深度思考”的视觉推理模型",
-        "内容": "在模型参数与推理性能的博弈中，微软再次刷新了边界。今日，微软 AI 研发团队正式开源 Phi-4-Reasoning-Vision-15B，这是一款针对视觉感知与逻辑推理深度融合所优化的 150 亿参数小语言模型 (SLM)。\n\n核心技术突破在于该模型引入了“动态推理感知架构”。不同于传统视觉模型仅限于单纯的图像特征提取（即“看图说话”），Phi-4-Reasoning-Vision 具备了结构化的多步骤推理能力。其最硬核的特性在于“双模切换机制”：模型能够根据任务复杂度自主判定执行策略——在 OCR 或基础元素定位场景下，它会选择高效路径输出以压榨延迟；而在涉及数学逻辑、复杂图表分析的场景时，则自动触发多步推理链（CoT）进行深度解析。\n\n该模型在计算机智能体（AI Agents）领域具有里程碑意义。通过将屏幕截图与自然语言指令映射为标准化边界框坐标（Bounding Box），Phi-4-Reasoning-Vision 能够赋予自动化脚本精准的 UI 操作交互能力，为构建端侧自动化工作流提供了强力引擎。\n\n技术指标参考：\n- 模型架构：视觉推理混合模型\n- 核心优势：高分辨率感知 + 任务自适应推理链\n- 应用场景：GUI 自动化、复杂图表解析、端侧 Agent 开发\n\n目前，该模型权重已同步登陆 Hugging Face，开发者现可获取并进行微调部署。这标志着小语言模型在多模态理解与自主决策能力上迈出了实质性的一步，为端侧设备实现高度“智力化”铺平了道路。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/3/9aa0bbc1-4bf2-4fd1-b72d-cb3ba4cab1b2.png?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "谷歌 AI 性能极速跃迁：Gemini 3.1 Flash-Lite 登场，首字响应暴涨 2.5 倍",
-        "内容": "谷歌日前正式发布轻量级 AI 模型 Gemini 3.1 Flash-Lite，宣告了其 Gemini 3 系列在实时交互与性价比维度的全新基准。该模型现已通过 Google AI Studio API 及 Vertex AI 平台向开发者与企业用户全面开放。\n\n**核心性能突破：**\n根据 Artificial Analysis 的基准测试，Gemini 3.1 Flash-Lite 的首字响应速度（TTFT）较前代 2.5 Flash 实现了 2.5 倍的跨越式提升，吞吐量（Throughput）同步攀升 45%。凭借 1432 的 Elo 高分，该模型在 GPQA Diamond 与 MMMU Pro 等核心推理基准测试中表现亮眼，性能表现已触及部分大规模参数模型的边界。\n\n**极致成本架构：**\n为了下沉 AI 应用开发门槛，谷歌给出了极具杀伤力的定价方案：百万级输入 Tokens 仅需 0.25 美元，输出成本为 1.50 美元，致力于在高性能与低运营成本间找到最佳平衡点。\n\n**硬核新特性：Thinking Levels（思考层级）：**\n本次升级最显著的亮点在于引入了“思考层级”动态调节机制。开发者可根据场景需求实时配置算力策略：在基础翻译或文本审核等轻量任务中压低思考深度以榨取响应效率；在处理 UI 生成、复杂逻辑推理或数据分析等高算力场景时，通过提升思考层级激发模型深层推理潜力。\n\n目前，包括 Latitude、Cartwheel 在内的多家技术企业已率先将其整合进生产环境，验证了其在处理复杂指令集时的精准度与处理效率。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/927230_240.jpg"
-        ]
-    },
-    {
-        "资讯标题": "Perplexity Computer 正式发布：多模型协同代理系统上线，开启 Agentic Workflow 生产力新纪元",
-        "内容": "Perplexity 今日正式推出其重磅级 AI 交互终端 —— Perplexity Computer。该系统打破了单一模型交互的局限，通过集成多元化的前沿大模型，打造出一套具备完整自主执行能力的 Agentic Workflow（代理工作流）环境。\n\n技术架构亮点如下：\n1. 异构模型编排：核心驱动采用 Opus 4.6，并动态调度 Gemini、Grok、ChatGPT 5.2 等头部模型，辅以 Nano Banana（图像）与 Veo 3.1（视频）模型，实现任务的最优解匹配。\n2. 自动化 Agent 协同：用户只需定义任务目标，系统即可自动拆解并生成专用子智能体（Sub-agents），通过沙盒环境无缝执行跨平台的 Web 搜索、数据处理、API 调用及文档生成任务。\n3. 安全隔离架构：每个任务流程均在独立的 Sandbox 环境内运行，保障了文件系统及工具链的操作安全与隔离性。\n\n作为对标 Claude Cowork 的深度协同方案，Perplexity Computer 已被整合进 Max 订阅套餐，定价 200 美元/月。这是 AI 从“内容生成”迈向“任务闭环”的重要里程碑，标志着自动化作业流正式进入生产力级应用阶段。",
-        "配图": [
-            "https://img.ithome.com/newsuploadfiles/2026/2/86b8c471-9a2f-427a-afbc-c4017bc60c55.jpg?x-bce-process=image/quality,q_75/format,f_webp"
-        ]
-    },
-    {
-        "资讯标题": "DeepMind重磅发布：Lyria 3——全栈多模态AI音乐生成引擎深度解析",
-        "内容": "### 核心摘要\nGoogle DeepMind 正式发布新一代音频生成模型 **Lyria 3**，该模型已深度集成于 Gemini 生态。Lyria 3 不仅是一个生成工具，更是一个实现了作词、作曲、编曲、演唱全流程端到端建模的音频神经网络，标志着多模态创作在工程落地上的新高度。\n\n### 技术栈架构\n* **统一端到端架构**：摒弃了传统的“提示词-歌词-旋律”分离式流水线，Lyria 3 采用单一神经网络架构，确保了语义、情绪与节奏的实时同步与精准映射。\n* **多模态解析能力**：模型核心支持文本、图像及视频的跨模态输入，通过视觉语言模型（VLM）提取场景情绪向量，作为音频生成的条件约束。\n* **SynthID 数字水印**：集成不可逆的频域数字指纹技术，实现 AI 生成内容的溯源与防伪校验，保障内容资产安全性。\n* **版权防护引擎**：引入大规模音频指纹比对算法，在推理阶段动态过滤相似度极高的侵权样本，防止模型直接克隆特定艺术家的音色库。\n\n### 关键功能特性\n1. **全自动化创作**：支持 Zero-shot 生成模式，输入一段描述或视觉素材，即可输出包含词曲的人声作品。\n2. **精细化参数控制**：允许用户在推理侧干预节奏（Tempo）、情绪基调及音色风格，实现生产级的可控性。\n3. **Nano Banana 可视化适配**：配套自动生成符合音频意境的封面视觉艺术，补齐了多媒体作品的视觉拼图。\n4. **多语种全覆盖**：首发支持英、德、西、法、印、日、韩、葡八大语种，覆盖主流全球市场需求。\n\n### 应用部署与生态\n* **集成路径**：现已嵌入 Gemini 应用与 YouTube Dream Track 创作链条。\n* **技术生态**：通过 Gemini 接口开放 API 访问，支持 MP3/MP4 输出格式，是短视频配乐、播客生产及独立游戏配乐的极佳解决方案。\n* **验证机制**：用户可利用内置检测工具对音频进行 SynthID 解码，确认作品的 AI 生成基因。\n\n### 极客评价\nLyria 3 的出现进一步降低了音乐工业创作的门槛，它将复杂的编曲逻辑抽象为提示词工程，为创作者提供了一个具备版权合规性且可控的实验平台。对于短视频开发者与独立创作人而言，这是一套具备生产力变革意义的“作曲辅助系统”。\n\n**项目详情访问**：[deepmind.google/models/lyria/](https://deepmind.google/models/lyria/)",
-        "配图": [
-            "https://ai-bot.cn/wp-content/uploads/2026/01/LiblibAI-banner-0127.png"
-        ]
-    }
+  {
+    "资讯标题": "智谱发布AutoClaw（澳龙）：国内首个一键安装本地版OpenClaw",
+    "内容": "智谱正式上线AutoClaw（中文名”澳龙”），成为国内首个支持一键安装的本地版OpenClaw工具。产品预置50+热门Skills，支持macOS和Windows双平台，1分钟即可完成部署，一键接入飞书等即时通讯工具。AutoClaw内置智谱专为Agent场景优化的Pony-Alpha-2模型（内测中），集成AutoGLM Browser-Use浏览器操作能力，可稳定执行多步骤、跨页面的复杂任务。",
+    "来源站点": "AI工具集",
+    "来源": "智谱",
+    "发布日期": "2026-03-10",
+    "原文链接": "https://mp.weixin.qq.com/s/ksLlPO58gnHgm2W-zVi4Rw",
+    "配图": []
+  },
+  {
+    "资讯标题": "腾讯WorkBuddy正式上线：免部署版”小龙虾”AI智能体来了",
+    "内容": "WorkBuddy是腾讯推出的AI原生桌面智能体工作台，是腾讯版",
+    "来源站点": "AI工具集",
+    "来源": "腾讯云",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://ai-bot.cn/sites/73160.html",
+    "配图": [
+      "https://ai-bot.cn/wp-content/uploads/2026/03/WorkBuddy-logo.png"
+    ]
+  },
+  {
+    "资讯标题": "扣子Coze推出AI Agent中文社区InStreet，全面开放内测",
+    "内容": "扣子Coze宣布AI Agent中文社区 InStreet 全面开放内测，定位为”OpenClaw养虾第一站”。该社区仅允许Agent发帖互动，人类用户可围观学习。InStreet 提供Skill技能分享、积分排行榜、虚拟炒股竞技场等功能，已积累超1.1万条评论和1.6万点赞。",
+    "来源站点": "AI工具集",
+    "来源": "扣子Coze",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://mp.weixin.qq.com/s/DVhQ_mWNtn9P39ydlmtyUg",
+    "配图": []
+  },
+  {
+    "资讯标题": "小红书开源FireRed-Image-Edit v1.1：OOTD元素融合，人像一致性大幅提升",
+    "内容": "小红书Super Intelligence团队发布图像编辑模型FireRed-Image-Edit 1.1版本，距离1.0发布不到一个月。新版本在ID一致性编辑、多元素融合（支持10余种元素智能组合）、人像美妆（数十种风格）、字体风格参考及老照片修复等方面显著增强。",
+    "来源站点": "AI工具集",
+    "来源": "小红书技术REDtech",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://mp.weixin.qq.com/s/fu7QWtGtv4u0BFF4EiwiJQ",
+    "配图": []
+  },
+  {
+    "资讯标题": "OpenClaw 3.8版本发布：12+安全漏洞修复+三大新功能",
+    "内容": "OpenClaw团队连夜推出2026.3.8版本。本次更新新增ACP来源识别、openclaw备份机制及Telegram假冒清除三大功能，修复12个以上安全漏洞。同时带来GPT-5.4前向兼容（支持105万Token上下文）、Brave搜索强化、Talk语音模式静默等待优化等改进，针对macOS和Android端进行专项优化与安全加固。",
+    "来源站点": "AI工具集",
+    "来源": "机器之心",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://mp.weixin.qq.com/s/raShzy4kFbYaSFoPRcbNqQ",
+    "配图": []
+  },
+  {
+    "资讯标题": "阿里达摩院发布 MAOSS 模型：利用 AI 筛查脂肪肝，高风险检出率翻倍",
+    "内容": "Alibaba DAMO Academy announced that it has jointly developed an AI model for fatty liver screening called MAOSS with multiple institutions, including the Shengj",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/news/26035",
+    "配图": [
+      "https://pic.chinaz.com/picmap/thumb/202603091435116275_0.jpg"
+    ]
+  },
+  {
+    "资讯标题": "火山引擎发布 ArkClaw:云端 SaaS 版 OpenClaw 正式上线，集成豆包大模型",
+    "内容": "Volcano Engine announced on March 9, 2026, the official launch of ArkClaw, a ready-to-use cloud SaaS version of the OpenClaw platform, designed to address core",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/news/26042",
+    "配图": [
+      "https://pic.chinaz.com/picmap/thumb/202603091435116275_0.jpg"
+    ]
+  },
+  {
+    "资讯标题": "消息称腾讯内测QClaw一键启动包:支持微信QQ双端接入OpenClaw智能体",
+    "内容": "On March 9, 2026, Tencent was reported to be testing a product called QClaw, an OpenClaw one-click startup package, aimed at lowering the entry barrier for AI o",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/news/26029",
+    "配图": [
+      "https://pic.chinaz.com/picmap/thumb/202603091435116275_0.jpg"
+    ]
+  },
+  {
+    "资讯标题": "小红书新款AI编辑模型FireRed-Image-Edit v1.1开源，攻克ID一致性与复杂融合难题",
+    "内容": "On March 9, 2026, the Super Intelligence team of Xiaohongshu officially released the image editing model FireRed-Image-Edit v1.1. This update was released less",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/news/26024",
+    "配图": [
+      "https://pic.chinaz.com/picmap/thumb/202603091435116275_0.jpg"
+    ]
+  },
+  {
+    "资讯标题": "从0到大师：用这个AI Skill，一句描述就能生成惊艳海报",
+    "内容": "The latest super practical skill making waves in the AI community is here! It's called qiaomu-mondo-poster-design. With just one sentence, AI can help you creat",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/news/26028",
+    "配图": [
+      "https://pic.chinaz.com/picmap/thumb/202603091435116275_0.jpg"
+    ]
+  },
+  {
+    "资讯标题": "Star 量破 28 万：OpenClaw 发布重大更新，正式支持 GPT-5.4 与“记忆热插拔”",
+    "内容": "The highly anticipated open-source agent project OpenClaw released its core version 2026.3.7 on Sunday. This update not only introduced powerful features such a",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/news/26036",
+    "配图": [
+      "https://pic.chinaz.com/picmap/thumb/202603091435116275_0.jpg"
+    ]
+  },
+  {
+    "资讯标题": "OpenClaw 2026.3.7 版本更新：支持GPT-5.4，彻底解决智能体“断片”难题",
+    "内容": "This Sunday, the hottest open-source AI agent project in the AI circle, OpenClaw, once again dropped a major bomb. As its GitHub Star count broke through the 28",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/news/26039",
+    "配图": [
+      "https://pic.chinaz.com/picmap/thumb/202603091435116275_0.jpg"
+    ]
+  },
+  {
+    "资讯标题": "ChatGPT“成人模式”又跳票！奥特曼：先把智商搞上去，搞颜色再等等",
+    "内容": "OpenAI Again Postpones Controversial Feature: Resources Prioritized for Personalization and Proactive InteractionIn the AI community, whether \"inappropriate con",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/news/26021",
+    "配图": [
+      "https://pic.chinaz.com/picmap/thumb/202603091435116275_0.jpg"
+    ]
+  },
+  {
+    "资讯标题": "AI编码Agent真实战力大比拼！OpenClaw“小龙虾”排行榜出炉",
+    "内容": "Recently, a new evaluation titled \"OpenClaw AI Agent Crab Ability Ranking\" has gone viral in the AI circle. This ranking focuses on real-world scenarios and spe",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-09",
+    "原文链接": "https://www.aibase.com/news/26044",
+    "配图": [
+      "https://pic.chinaz.com/picmap/thumb/202603091435116275_0.jpg"
+    ]
+  }
 ]
