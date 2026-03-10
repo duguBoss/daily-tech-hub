@@ -1,148 +1,122 @@
 [
   {
-    "资讯标题": "智谱发布AutoClaw（澳龙）：国内首个一键安装本地版OpenClaw",
-    "内容": "智谱正式上线AutoClaw（中文名”澳龙”），成为国内首个支持一键安装的本地版OpenClaw工具。产品预置50+热门Skills，支持macOS和Windows双平台，1分钟即可完成部署，一键接入飞书等即时通讯工具。AutoClaw内置智谱专为Agent场景优化的Pony-Alpha-2模型（内测中），集成AutoGLM Browser-Use浏览器操作能力，可稳定执行多步骤、跨页面的复杂任务。",
+    "资讯标题": "阿里云推出智能体协作平台，原无影协同系统已正式开启内测",
+    "内容": "阿里云旗下的多智能体协作平台已更名为联合虚拟系统，该平台专注于提升多智能体之间的协同工作效率，目前已面向特定用户群体开启内测，旨在打造更加高效的企业级人工智能应用生态。",
+    "来源站点": "AI工具集",
+    "来源": "AI工具集",
+    "发布日期": "2026-03-10",
+    "原文链接": "https://ai-bot.cn/jvs-claw/",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/db652e8d47043486330d55c61fada2ec.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/db652e8d47043486330d55c61fada2ec.png",
+    "配图仓库路径": "assets/news_images/db652e8d47043486330d55c61fada2ec.png",
+    "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2026/03/JVS-Claw-website.png"
+  },
+  {
+    "资讯标题": "智谱推出澳龙系统：国内首个实现一键安装本地版智能体框架",
+    "内容": "智谱发布的澳龙系统是国内首个支持个人电脑一键部署的智能体平台。用户仅需一分钟即可完成安装，并可在常用办公软件中直接通过指令调度人工智能执行各类复杂任务，大幅降低了本地化使用的门槛。",
     "来源站点": "AI工具集",
     "来源": "智谱",
     "发布日期": "2026-03-10",
-    "原文链接": "https://mp.weixin.qq.com/s/ksLlPO58gnHgm2W-zVi4Rw",
-    "配图": []
+    "原文链接": "https://ai-bot.cn/sites/73229.html",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/06f2b8bf3427861c93fcf2b1937eab2f.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/06f2b8bf3427861c93fcf2b1937eab2f.png",
+    "配图仓库路径": "assets/news_images/06f2b8bf3427861c93fcf2b1937eab2f.png",
+    "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2026/03/AutoClaw-website1.png"
   },
   {
-    "资讯标题": "腾讯WorkBuddy正式上线：免部署版”小龙虾”AI智能体来了",
-    "内容": "WorkBuddy是腾讯推出的AI原生桌面智能体工作台，是腾讯版",
+    "资讯标题": "腾讯推出智能桌面工作台，免部署版本人工智能助手正式上线",
+    "内容": "腾讯近期正式发布了其原生的桌面智能工作台。作为腾讯自主研发的轻量化人工智能助手，该工具无需复杂的部署流程，用户即可直接在桌面上调用强大的模型能力，显著提升办公自动化水平。",
     "来源站点": "AI工具集",
     "来源": "腾讯云",
     "发布日期": "2026-03-09",
     "原文链接": "https://ai-bot.cn/sites/73160.html",
-    "配图": [
-      "https://ai-bot.cn/wp-content/uploads/2026/03/WorkBuddy-website-2.png"
-    ]
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c8e2fa9b7afdc9a009a420ba6eab3a74.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c8e2fa9b7afdc9a009a420ba6eab3a74.png",
+    "配图仓库路径": "assets/news_images/c8e2fa9b7afdc9a009a420ba6eab3a74.png",
+    "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2026/03/WorkBuddy-website-2.png"
   },
   {
-    "资讯标题": "扣子Coze推出AI Agent中文社区InStreet，全面开放内测",
-    "内容": "扣子Coze宣布AI Agent中文社区 InStreet 全面开放内测，定位为”OpenClaw养虾第一站”。该社区仅允许Agent发帖互动，人类用户可围观学习。InStreet 提供Skill技能分享、积分排行榜、虚拟炒股竞技场等功能，已积累超1.1万条评论和1.6万点赞。",
-    "来源站点": "AI工具集",
-    "来源": "扣子Coze",
-    "发布日期": "2026-03-09",
-    "原文链接": "https://mp.weixin.qq.com/s/DVhQ_mWNtn9P39ydlmtyUg",
-    "配图": []
-  },
-  {
-    "资讯标题": "小红书开源FireRed-Image-Edit v1.1：OOTD元素融合，人像一致性大幅提升",
-    "内容": "小红书Super Intelligence团队发布图像编辑模型FireRed-Image-Edit 1.1版本，距离1.0发布不到一个月。新版本在ID一致性编辑、多元素融合（支持10余种元素智能组合）、人像美妆（数十种风格）、字体风格参考及老照片修复等方面显著增强。",
-    "来源站点": "AI工具集",
-    "来源": "小红书技术REDtech",
-    "发布日期": "2026-03-09",
-    "原文链接": "https://mp.weixin.qq.com/s/fu7QWtGtv4u0BFF4EiwiJQ",
-    "配图": []
-  },
-  {
-    "资讯标题": "OpenClaw 3.8版本发布：12+安全漏洞修复+三大新功能",
-    "内容": "OpenClaw团队连夜推出2026.3.8版本。本次更新新增ACP来源识别、openclaw备份机制及Telegram假冒清除三大功能，修复12个以上安全漏洞。同时带来GPT-5.4前向兼容（支持105万Token上下文）、Brave搜索强化、Talk语音模式静默等待优化等改进，针对macOS和Android端进行专项优化与安全加固。",
-    "来源站点": "AI工具集",
-    "来源": "机器之心",
-    "发布日期": "2026-03-09",
-    "原文链接": "https://mp.weixin.qq.com/s/raShzy4kFbYaSFoPRcbNqQ",
-    "配图": []
-  },
-  {
-    "资讯标题": "阿里达摩院发布 MAOSS 模型：利用 AI 筛查脂肪肝，高风险检出率翻倍",
-    "内容": "Alibaba DAMO Academy announced that it has jointly developed an AI model for fatty liver screening called MAOSS with multiple institutions, including the Shengj",
+    "资讯标题": "达摩院研发新型脂肪肝筛查模型，高风险病灶检出率显著翻倍",
+    "内容": "阿里巴巴达摩院联合多家权威医疗机构，共同研发出一种用于脂肪肝筛查的智能模型。该研究成果已发表在国际期刊上，通过人工智能技术辅助医生进行早期筛查，可将高风险病灶的检出率提升一倍，有效预防疾病恶化。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/news/26035",
-    "配图": [
-      "https://upload.chinaz.com/2026/0309/6390866179034590474602389.png"
-    ]
+    "原文链接": "https://www.aibase.com/zh/news/26035",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5e8d22e1362afc254aa5bdad59af7a6b.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5e8d22e1362afc254aa5bdad59af7a6b.png",
+    "配图仓库路径": "assets/news_images/5e8d22e1362afc254aa5bdad59af7a6b.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390866179034590474602389.png"
   },
   {
-    "资讯标题": "火山引擎发布 ArkClaw:云端 SaaS 版 OpenClaw 正式上线，集成豆包大模型",
-    "内容": "Volcano Engine announced on March 9, 2026, the official launch of ArkClaw, a ready-to-use cloud SaaS version of the OpenClaw platform, designed to address core",
+    "资讯标题": "火山引擎云端平台正式上线，提供开箱即用的生产级助手服务",
+    "内容": "火山引擎发布的云端智能平台解决了人工智能应用中环境配置复杂、资源消耗大等痛点。该平台提供七乘二十四小时在线服务，通过集成自研模型，为企业用户构建稳定、高效且具备生产能力的智能助理系统。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/news/26042",
-    "配图": [
-      "https://upload.chinaz.com/2026/0309/6390866524367814779828058.jpg"
-    ]
+    "原文链接": "https://www.aibase.com/zh/news/26042",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8c1cb0755f0fecb5df3d1a73572a3ea7.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8c1cb0755f0fecb5df3d1a73572a3ea7.jpg",
+    "配图仓库路径": "assets/news_images/8c1cb0755f0fecb5df3d1a73572a3ea7.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390866524367814779828058.jpg"
   },
   {
-    "资讯标题": "消息称腾讯内测QClaw一键启动包:支持微信QQ双端接入OpenClaw智能体",
-    "内容": "On March 9, 2026, Tencent was reported to be testing a product called QClaw, an OpenClaw one-click startup package, aimed at lowering the entry barrier for AI o",
+    "资讯标题": "开源社区关注度突破二十八万，智能体框架新增记忆热插拔功能",
+    "内容": "开源智能体项目热度持续攀升，项目累计关注量已突破二十八万。最新发布的版本引入了上下文引擎插件与分布式绑定功能，并全面兼容当前顶尖的大型语言模型，助力开发者构建具备长效记忆能力的智能应用。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/news/26029",
-    "配图": [
-      "https://upload.chinaz.com/2026/0309/6390865198058195222486705.png"
-    ]
+    "原文链接": "https://www.aibase.com/zh/news/26036",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/890145e7b8c91aafd4b6d8be32ab6052.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/890145e7b8c91aafd4b6d8be32ab6052.png",
+    "配图仓库路径": "assets/news_images/890145e7b8c91aafd4b6d8be32ab6052.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390866227904463478968812.png"
   },
   {
-    "资讯标题": "小红书新款AI编辑模型FireRed-Image-Edit v1.1开源，攻克ID一致性与复杂融合难题",
-    "内容": "On March 9, 2026, the Super Intelligence team of Xiaohongshu officially released the image editing model FireRed-Image-Edit v1.1. This update was released less",
+    "资讯标题": "开源智能体能力排行榜出炉，多款主流模型真实战力大比拼",
+    "内容": "近日一份聚焦真实场景的智能体性能排行榜引发关注。该榜单通过统一的测试标准，评估了各大主流模型在实际编码任务中的执行成功率，为广大开发者在选择适合自身需求的人工智能方案时提供了重要参考依据。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/news/26024",
-    "配图": [
-      "https://upload.chinaz.com/2026/0310/6390873054064097731919737.png"
-    ]
+    "原文链接": "https://www.aibase.com/zh/news/26044",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7cafb3073926c062df989275231ddf9a.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7cafb3073926c062df989275231ddf9a.png",
+    "配图仓库路径": "assets/news_images/7cafb3073926c062df989275231ddf9a.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390866582423123395117813.png"
   },
   {
-    "资讯标题": "从0到大师：用这个AI Skill，一句描述就能生成惊艳海报",
-    "内容": "The latest super practical skill making waves in the AI community is here! It's called qiaomu-mondo-poster-design. With just one sentence, AI can help you creat",
+    "资讯标题": "小红书发布图像编辑模型最新版，成功攻克多元素融合难题",
+    "内容": "小红书团队近日发布了图像编辑模型的升级版本，其更新节奏显著加快。该模型在保持前代优势的基础上，重点攻克了人像美妆、多元素融合以及保持图像特征一致性等复杂技术难题，进一步提升了多模态内容的生成质量。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/news/26028",
-    "配图": [
-      "https://upload.chinaz.com/2026/0309/6390865177777432793482958.png"
-    ]
+    "原文链接": "https://www.aibase.com/zh/news/26024",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
+    "配图仓库路径": "assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201907152222434146_3.jpg"
   },
   {
-    "资讯标题": "Star 量破 28 万：OpenClaw 发布重大更新，正式支持 GPT-5.4 与“记忆热插拔”",
-    "内容": "The highly anticipated open-source agent project OpenClaw released its core version 2026.3.7 on Sunday. This update not only introduced powerful features such a",
+    "资讯标题": "从入门到专业：一句话描述即可生成高品质海报的艺术技能",
+    "内容": "近期一款广受好评的人工智能艺术设计工具走红，用户只需输入一段描述，即可让系统自动生成书籍封面、专辑海报等高质量视觉内容。该工具无需用户具备专业设计背景，通过自动调配视觉风格，生成效果足以媲美专业水准。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/news/26036",
-    "配图": [
-      "https://upload.chinaz.com/2026/0309/6390866227904463478968812.png"
-    ]
+    "原文链接": "https://www.aibase.com/zh/news/26028",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6a4f2991b736da46932c1bf0b7512034.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6a4f2991b736da46932c1bf0b7512034.png",
+    "配图仓库路径": "assets/news_images/6a4f2991b736da46932c1bf0b7512034.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0309/6390865177777432793482958.png"
   },
   {
-    "资讯标题": "OpenClaw 2026.3.7 版本更新：支持GPT-5.4，彻底解决智能体“断片”难题",
-    "内容": "This Sunday, the hottest open-source AI agent project in the AI circle, OpenClaw, once again dropped a major bomb. As its GitHub Star count broke through the 28",
+    "资讯标题": "人工智能成人模式再度推迟上线，官方表示优先优化核心性能",
+    "内容": "原定于年初上线的生成式人工智能成人内容模式再次推迟。开发商回应称，目前资源优先用于提升模型的基础智商与主动交互能力，对于此类特定领域功能的开发与审查，仍需更多时间进行评估与技术储备。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/news/26039",
-    "配图": [
-      "https://upload.chinaz.com/2026/0309/6390866279940367717450496.png"
-    ]
-  },
-  {
-    "资讯标题": "ChatGPT“成人模式”又跳票！奥特曼：先把智商搞上去，搞颜色再等等",
-    "内容": "OpenAI Again Postpones Controversial Feature: Resources Prioritized for Personalization and Proactive InteractionIn the AI community, whether \"inappropriate con",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/news/26021",
-    "配图": [
-      "https://upload.chinaz.com/2026/0310/6390873227069413025409595.png"
-    ]
-  },
-  {
-    "资讯标题": "AI编码Agent真实战力大比拼！OpenClaw“小龙虾”排行榜出炉",
-    "内容": "Recently, a new evaluation titled \"OpenClaw AI Agent Crab Ability Ranking\" has gone viral in the AI circle. This ranking focuses on real-world scenarios and spe",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-09",
-    "原文链接": "https://www.aibase.com/news/26044",
-    "配图": [
-      "https://upload.chinaz.com/2026/0309/6390866582423123395117813.png"
-    ]
+    "原文链接": "https://www.aibase.com/zh/news/26021",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94ead9c7f00cb7d5082089e37d9a353b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94ead9c7f00cb7d5082089e37d9a353b.jpg",
+    "配图仓库路径": "assets/news_images/94ead9c7f00cb7d5082089e37d9a353b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304191404445689_1.jpg"
   }
 ]
