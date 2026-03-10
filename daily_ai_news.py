@@ -86,35 +86,55 @@ def main():
     # 1. 获取所有链接数据
     all_links = []
     for src in SOURCES:
-        logging.info(f"🌐 抓取列表页: {src}")
-        all_links.extend(get_list_data(src))
+        try:
+            logging.info(f"🌐 抓取列表页: {src}")
+            all_links.extend(get_list_data(src))
+        except Exception as e:
+            logging.error(f"抓取列表页 {src} 失败: {e}")
     
-    # 2. AI 筛选新闻列表
-    logging.info("🤖 AI 正在筛选新闻列表...")
-    list_prompt = f"从以下链接中筛选今天或昨天发布的AI新闻标题和URL。返回纯 JSON 数组: [{{'title': '...', 'url': '...'}}]。链接列表: {json.dumps(all_links[:100])}"
+    # 2. AI 筛选新闻列表 (放宽限制，改为提取最新的15条)
+    logging.info(f"🤖 AI 正在从 {len(all_links)} 个链接中筛选 AI 新闻...")
+    list_prompt = f"""
+    你是新闻筛选专家。从以下链接中，选出15条与【AI、人工智能、大模型、AI应用】最相关的新闻。
+    请忽略日期限制，只要是前沿AI资讯即可。
+    返回纯 JSON 数组: [{{'title': '...', 'url': '...'}}]。
+    链接列表: {json.dumps(all_links[:120])}
+    """
     
     list_res = call_gemini(list_prompt)
     clean_list = clean_json_string(list_res)
+    
     if not clean_list:
-        logging.error("无法解析新闻列表，原始输出:")
-        logging.error(list_res)
+        logging.error(f"无法解析新闻列表，AI 回复: {list_res[:200]}")
         return
         
-    candidates = json.loads(clean_list)
-    logging.info(f"✅ 找到 {len(candidates)} 条新闻")
+    try:
+        candidates = json.loads(clean_list)
+        logging.info(f"✅ AI 推荐了 {len(candidates)} 条新闻进行处理")
+    except Exception as e:
+        logging.error(f"JSON解析错误: {e}")
+        return
 
-    # 3. 循环处理
+    # 3. 循环处理 (增加重试)
     final_data = []
-    for item in candidates[:8]: # 限制 8 条
-        res = process_article(item['title'], item['url'])
-        if res:
-            final_data.append(res)
-            logging.info(f"✅ 处理成功: {item['title']}")
-        time.sleep(2)
+    for item in candidates:
+        if len(final_data) >= 8: break # 目标是8条
+        
+        try:
+            res = process_article(item['title'], item['url'])
+            if res:
+                final_data.append(res)
+                logging.info(f"✅ 处理成功 [{len(final_data)}/8]: {item['title']}")
+            else:
+                logging.warning(f"⚠️ 处理失败或无效内容: {item['title']}")
+        except Exception as e:
+            logging.error(f"处理 {item['title']} 时发生意外: {e}")
+            
+        time.sleep(3) # 增加延迟，防止被反爬
         
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
-    logging.info(f"🚀 任务完成，保存 {len(final_data)} 条新闻")
+    logging.info(f"🚀 任务完成，最终保存 {len(final_data)} 条数据")
 
 if __name__ == "__main__":
     main()
