@@ -638,6 +638,26 @@ def chunked(sequence: Sequence[Dict], size: int) -> List[List[Dict]]:
     return [list(sequence[index:index + size]) for index in range(0, len(sequence), size)]
 
 
+def has_concrete_news_elements(title: str, content: str) -> bool:
+    combined = f"{compact_text(title)} {compact_text(content)}"
+    action_hits = len(
+        re.findall(
+            r"(发布|推出|上线|升级|更新|接入|支持|开放|完成|获批|融资|收购|推出|开源|测试|上线|推出|发布)",
+            combined,
+        )
+    )
+    subject_hits = len(re.findall(r"[A-Za-z0-9]{2,}|[\u4e00-\u9fff]{2,}", combined))
+    return action_hits >= 1 and subject_hits >= 4
+
+
+def rewrite_overlap_score(original_title: str, original_content: str, rewritten_title: str, rewritten_content: str) -> float:
+    original_tokens = set(tokenize_for_dedupe(f"{original_title} {original_content}"))
+    rewritten_tokens = set(tokenize_for_dedupe(f"{rewritten_title} {rewritten_content}"))
+    if not original_tokens or not rewritten_tokens:
+        return 0.0
+    return len(original_tokens & rewritten_tokens) / max(1, len(rewritten_tokens))
+
+
 def rewrite_items_to_chinese(items: List[Dict]) -> List[Dict]:
     if not items:
         return items
@@ -653,12 +673,16 @@ def rewrite_items_to_chinese(items: List[Dict]) -> List[Dict]:
             for index, item in enumerate(batch)
         ]
         prompt = (
-            "你是中文科技日报编辑。请将下面数组中的每条新闻标题和内容改写为自然、准确的纯中文。"
+            "你是中文科技日报编辑。请将下面数组中的每条新闻标题和内容改写为自然、准确、具体的纯中文。"
             "标题和内容必须保持同一条新闻事实，不允许串条，不允许改写成别的事件。"
-            "不要出现任何英文字母、英文缩写、英文品牌名、英文模型名。"
-            "必要时请用自然中文意译。"
+            "每条新闻都必须明确写出三件事：是谁，做了什么，带来了什么具体结果或影响。"
+            "标题禁止写成空泛总结、使用场景总结、价值判断或宣传语。"
+            "标题必须优先交代具体主体、具体动作、关键对象，例如谁发布了什么、谁完成了什么融资、哪个产品新增了什么功能。"
+            "如果原文说的是产品更新、融资、发布、开源、测试、接入、合作，标题和内容里必须明确出现对应事件，不能只写成“体验升级”“能力增强”“实现分离”等抽象结果。"
+            "不要出现任何英文字母、英文缩写、英文品牌名、英文模型名。必要时请用自然中文意译。"
             "标题控制在 18 到 34 个中文字符。"
             "内容控制在 70 到 110 个中文字符。"
+            "内容首句必须直接说明核心新闻事实，优先按“主体 + 动作 + 对象/结果”表达。"
             "返回 JSON："
             '{"items":[{"index":0,"title":"...","content":"..."}]}'
             "\n输入："
@@ -676,6 +700,10 @@ def rewrite_items_to_chinese(items: List[Dict]) -> List[Dict]:
             if not title or not content:
                 continue
             if re.search(r"[A-Za-z]", title) or re.search(r"[A-Za-z]", content):
+                continue
+            if not has_concrete_news_elements(title, content):
+                continue
+            if rewrite_overlap_score(item["资讯标题"], item["内容"], title, content) < 0.18:
                 continue
 
             new_item = dict(item)
