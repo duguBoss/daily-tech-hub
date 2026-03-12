@@ -10,6 +10,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Dict, List, Optional, Sequence, Tuple
 from urllib.parse import urljoin, urlparse
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -39,6 +40,7 @@ REQUEST_TIMEOUT = 30
 MIN_CONTENT_LENGTH = 80
 MAX_CONTENT_LENGTH = 360
 TARGET_CONTENT_LENGTH = 300
+SHANGHAI_TZ = ZoneInfo("Asia/Shanghai")
 REQUEST_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -86,6 +88,20 @@ def build_session() -> requests.Session:
 def ensure_dirs() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     IMAGE_DIR.mkdir(parents=True, exist_ok=True)
+
+
+def cleanup_images_if_saturday() -> None:
+    current_time = datetime.now(SHANGHAI_TZ)
+    if current_time.weekday() != 5:
+        return
+
+    removed_count = 0
+    for path in IMAGE_DIR.iterdir():
+        if path.is_file():
+            path.unlink()
+            removed_count += 1
+
+    logging.info("周六清理历史图片 %s 个文件", removed_count)
 
 
 def require_gemini_api_key() -> None:
@@ -829,6 +845,7 @@ def sort_items(items: List[Dict]) -> List[Dict]:
 
 def main() -> None:
     ensure_dirs()
+    cleanup_images_if_saturday()
     require_gemini_api_key()
     target_dates = parse_target_dates(days=2)
     session = build_session()
