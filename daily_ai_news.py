@@ -5,9 +5,10 @@ import logging
 import mimetypes
 import os
 import re
+from collections import Counter
 from datetime import datetime, timedelta
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Sequence, Tuple
 from urllib.parse import urljoin, urlparse
 
 import requests
@@ -35,6 +36,8 @@ GITHUB_REF_NAME = os.environ.get("GITHUB_REF_NAME", "").strip()
 GITHUB_SHA = os.environ.get("GITHUB_SHA", "").strip()
 
 REQUEST_TIMEOUT = 30
+MIN_CONTENT_LENGTH = 40
+MAX_CONTENT_LENGTH = 140
 REQUEST_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -42,6 +45,29 @@ REQUEST_HEADERS = {
         "Chrome/133.0.0.0 Safari/537.36"
     )
 }
+DEDUPLE_LATIN_STOPWORDS = {
+    "with",
+    "from",
+    "that",
+    "this",
+    "into",
+    "over",
+    "more",
+    "than",
+    "will",
+}
+GENERIC_CONTENT_PATTERNS = [
+    r"^每日.*?(快讯|资讯|新闻)",
+    r"^点击.*?查看",
+    r"^原标题[:：]",
+    r"本文.*?(转载|来源)",
+    r"欢迎.*?(关注|订阅)",
+]
+ARTICLE_BLOCK_PATTERNS = [
+    r'<article\b[^>]*>(.*?)</article>',
+    r'<div\b[^>]+class="[^"]*(?:entry-content|article-content|post-content|single-content|content-body|news-content)[^"]*"[^>]*>(.*?)</div>',
+    r'<section\b[^>]+class="[^"]*(?:entry-content|article-content|post-content|single-content|content-body|news-content)[^"]*"[^>]*>(.*?)</section>',
+]
 
 
 def build_session() -> requests.Session:
@@ -59,7 +85,7 @@ def ensure_dirs() -> None:
 def require_gemini_api_key() -> None:
     if not GEMINI_API_KEY:
         raise RuntimeError(
-            "缺少 GEMINI_API_KEY。当前任务要求 AI 纯中文改写和 AI 语义去重，"
+            "缺少 GEMINI_API_KEY。当前任务要求 AI 中文改写与语义去重，"
             "未配置该环境变量时不会输出结果。"
         )
 
@@ -67,10 +93,16 @@ def require_gemini_api_key() -> None:
 def clean_text(value: str) -> str:
     value = html.unescape(value or "")
     value = re.sub(r"<br\s*/?>", "\n", value, flags=re.I)
+    value = re.sub(r"</p\s*>", "\n", value, flags=re.I)
     value = re.sub(r"<.*?>", "", value, flags=re.S)
     value = value.replace("\u200b", "").replace("\xa0", " ")
-    value = re.sub(r"\s+", " ", value)
+    value = re.sub(r"[ \t\r\f\v]+", " ", value)
+    value = re.sub(r"\n+", "\n", value)
     return value.strip()
+
+
+def compact_text(value: str) -> str:
+    return re.sub(r"\s+", " ", clean_text(value))
 
 
 def normalize_url(base_url: str, raw_url: str) -> str:
@@ -126,7 +158,10 @@ def call_gemini_json(prompt: str) -> Dict:
     )
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"responseMimeType": "application/json"},
+        "generationConfig": {
+            "temperature": 0.2,
+            "responseMimeType": "application/json",
+        },
     }
     response = requests.post(url, json=payload, timeout=90)
     response.raise_for_status()
@@ -194,22 +229,151 @@ def extract_best_image(base_url: str, html_text: str) -> str:
     return candidates[0][2]
 
 
+def extract_meta_content(html_text: str, key: str) -> str:
+    patterns = [
+        rf'<meta[^>]+property="{re.escape(key)}"[^>]+content="([^"]+)"',
+        rf'<meta[^>]+content="([^"]+)"[^>]+property="{re.escape(key)}"',
+        rf'<meta[^>]+name="{re.escape(key)}"[^>]+content="([^"]+)"',
+        rf'<meta[^>]+content="([^"]+)"[^>]+name="{re.escape(key)}"',
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, html_text, re.I | re.S)
+        if match:
+            return compact_text(match.group(1))
+    return ""
+
+
+def strip_noise_lines(text: str) -> str:
+    lines = [line.strip() for line in clean_text(text).splitlines()]
+    kept = []
+    for line in lines:
+        if len(line) < 8:
+            continue
+        if any(re.search(pattern, line) for pattern in GENERIC_CONTENT_PATTERNS):
+            continue
+        kept.append(line)
+    return "\n".join(kept).strip()
+
+
+def extract_article_text(html_text: str) -> str:
+    candidates: List[str] = []
+    for pattern in ARTICLE_BLOCK_PATTERNS:
+        for match in re.finditer(pattern, html_text, re.I | re.S):
+            text = strip_noise_lines(match.group(1))
+            if len(text) >= 80:
+                candidates.append(text)
+    if not candidates:
+        paragraphs = re.findall(r"<p\b[^>]*>(.*?)</p>", html_text, re.I | re.S)
+        merged = "\n".join(strip_noise_lines(part) for part in paragraphs)
+        merged = strip_noise_lines(merged)
+        if len(merged) >= 80:
+            candidates.append(merged)
+    if not candidates:
+        return ""
+    candidates.sort(key=len, reverse=True)
+    return candidates[0]
+
+
+def split_sentences(text: str) -> List[str]:
+    parts = re.split(r"[。！？!?；;\n]+", clean_text(text))
+    return [part.strip(" ，,：:") for part in parts if len(part.strip()) >= 8]
+
+
+def choose_content_excerpt(description: str, article_text: str) -> str:
+    desc = compact_text(description)
+    article = clean_text(article_text)
+    sentence_parts = split_sentences(article)
+
+    candidates: List[str] = []
+    if desc:
+        candidates.append(desc)
+
+    if sentence_parts:
+        excerpt = "。".join(sentence_parts[:2]).strip()
+        if excerpt:
+            if not excerpt.endswith(("。", "！", "？")):
+                excerpt += "。"
+            candidates.append(excerpt)
+
+    for candidate in candidates:
+        candidate = compact_text(candidate)
+        if len(candidate) >= MIN_CONTENT_LENGTH:
+            return candidate[:MAX_CONTENT_LENGTH]
+    return ""
+
+
+def title_tokens(value: str) -> set:
+    text = compact_text(value).lower()
+    text = re.sub(r"https?://\S+", " ", text)
+    text = re.sub(r"\s*-\s*[^-]{1,20}$", " ", text)
+    tokens = re.findall(r"[a-z0-9]{2,}|[\u4e00-\u9fff]{2,}", text)
+    return set(tokens)
+
+
+def title_similarity(left: str, right: str) -> float:
+    left_tokens = title_tokens(left)
+    right_tokens = title_tokens(right)
+    if not left_tokens or not right_tokens:
+        return 0.0
+    return len(left_tokens & right_tokens) / len(left_tokens | right_tokens)
+
+
+def choose_canonical_title(source_title: str, page_title: str) -> str:
+    source_title = compact_text(source_title)
+    page_title = compact_text(page_title)
+    if not page_title:
+        return source_title
+    if not source_title:
+        return page_title
+    if title_similarity(source_title, page_title) >= 0.35:
+        return page_title if len(page_title) >= len(source_title) else source_title
+    return source_title
+
+
 def fetch_page_data(session: requests.Session, url: str) -> Dict[str, str]:
     html_text = fetch_html(session, url)
     data: Dict[str, str] = {"html": html_text}
 
-    title_match = re.search(r'<meta[^>]+property="og:title"[^>]+content="([^"]+)"', html_text, re.I | re.S)
-    desc_match = re.search(r'<meta[^>]+property="og:description"[^>]+content="([^"]+)"', html_text, re.I | re.S)
+    page_title = (
+        extract_meta_content(html_text, "og:title")
+        or extract_meta_content(html_text, "twitter:title")
+        or compact_text(re.search(r"<title>(.*?)</title>", html_text, re.I | re.S).group(1))
+        if re.search(r"<title>(.*?)</title>", html_text, re.I | re.S)
+        else ""
+    )
+    description = (
+        extract_meta_content(html_text, "og:description")
+        or extract_meta_content(html_text, "description")
+        or extract_meta_content(html_text, "twitter:description")
+    )
+    article_text = extract_article_text(html_text)
 
-    if title_match:
-        data["title"] = clean_text(title_match.group(1))
-    if desc_match:
-        data["description"] = clean_text(desc_match.group(1))
+    if page_title:
+        data["title"] = page_title
+    if description:
+        data["description"] = description
+    if article_text:
+        data["article_text"] = article_text
+        excerpt = choose_content_excerpt(description, article_text)
+        if excerpt:
+            data["content"] = excerpt
+    elif description:
+        data["content"] = compact_text(description)[:MAX_CONTENT_LENGTH]
 
     image = extract_best_image(url, html_text)
     if image:
         data["image"] = image
     return data
+
+
+def is_valid_item(title: str, content: str, image: str) -> bool:
+    if not title or not content or not image:
+        return False
+    if len(compact_text(content)) < MIN_CONTENT_LENGTH:
+        return False
+    if any(re.search(pattern, content) for pattern in GENERIC_CONTENT_PATTERNS):
+        return False
+    return True
 
 
 def parse_ai_bot(session: requests.Session, target_dates: List[datetime.date]) -> List[Dict]:
@@ -242,9 +406,9 @@ def parse_ai_bot(session: requests.Session, target_dates: List[datetime.date]) -
             if not url or "mp.weixin.qq.com" in url:
                 continue
 
-            title = clean_text(match.group(2))
-            summary = clean_text(match.group(3))
-            source = clean_text(match.group(4))
+            list_title = compact_text(match.group(2))
+            list_summary = compact_text(match.group(3))
+            source = compact_text(match.group(4))
 
             try:
                 page_data = fetch_page_data(session, url)
@@ -252,20 +416,23 @@ def parse_ai_bot(session: requests.Session, target_dates: List[datetime.date]) -
                 logging.warning("跳过抓取失败的 AI工具集详情页: %s - %s", url, exc)
                 continue
 
+            title = choose_canonical_title(list_title, page_data.get("title", ""))
+            content = page_data.get("content") or list_summary
             image = page_data.get("image", "")
-            content = page_data.get("description") or summary
-            if not image or not content:
+            if not is_valid_item(title, content, image):
                 continue
 
             results.append(
                 {
                     "资讯标题": title,
-                    "内容": content,
+                    "内容": compact_text(content),
                     "来源站点": "AI工具集",
                     "来源": source or "AI工具集",
                     "发布日期": news_date.isoformat(),
                     "原文链接": url,
                     "原始配图链接": image,
+                    "原始标题": list_title,
+                    "详情页标题": page_data.get("title", ""),
                 }
             )
 
@@ -348,20 +515,24 @@ def parse_aibase(session: requests.Session, target_dates: List[datetime.date]) -
                 logging.warning("跳过抓取失败的 AIbase 详情页: %s - %s", news_url, exc)
                 continue
 
+            list_title = compact_text(ailog["title"])
+            title = choose_canonical_title(list_title, page_data.get("title", ""))
+            content = page_data.get("content", "")
             image = page_data.get("image", "")
-            content = page_data.get("description", "")
-            if not image or not content:
+            if not is_valid_item(title, content, image):
                 continue
 
             results.append(
                 {
-                    "资讯标题": ailog["title"],
-                    "内容": content,
+                    "资讯标题": title,
+                    "内容": compact_text(content),
                     "来源站点": "AIbase",
                     "来源": "AIbase",
                     "发布日期": card_date.isoformat(),
                     "原文链接": news_url,
                     "原始配图链接": image,
+                    "原始标题": list_title,
+                    "详情页标题": page_data.get("title", ""),
                 }
             )
 
@@ -369,44 +540,148 @@ def parse_aibase(session: requests.Session, target_dates: List[datetime.date]) -
     return results
 
 
+def normalize_dedupe_text(value: str) -> str:
+    text = compact_text(value).lower()
+    text = re.sub(r"https?://\S+", " ", text)
+    text = re.sub(r"[^\w\u4e00-\u9fff]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def tokenize_for_dedupe(value: str) -> List[str]:
+    text = normalize_dedupe_text(value)
+    return re.findall(r"[a-z0-9]{2,}|[\u4e00-\u9fff]{2,}", text)
+
+
+def named_tokens(value: str) -> set:
+    tokens = set()
+    for token in re.findall(r"[a-z0-9]{3,}", compact_text(value).lower()):
+        if token in DEDUPLE_LATIN_STOPWORDS:
+            continue
+        tokens.add(token)
+    return tokens
+
+
+def fingerprint_text(title: str, content: str) -> str:
+    tokens = tokenize_for_dedupe(title) + tokenize_for_dedupe(content)
+    if not tokens:
+        return ""
+    counts = Counter(tokens)
+    common = [token for token, _ in counts.most_common(12)]
+    return "|".join(common)
+
+
+def content_similarity(left: Dict, right: Dict) -> float:
+    left_tokens = set(tokenize_for_dedupe(left["资讯标题"] + " " + left["内容"]))
+    right_tokens = set(tokenize_for_dedupe(right["资讯标题"] + " " + right["内容"]))
+    if not left_tokens or not right_tokens:
+        return 0.0
+    return len(left_tokens & right_tokens) / len(left_tokens | right_tokens)
+
+
+def quality_score(item: Dict) -> Tuple[int, int, int]:
+    return (
+        len(item.get("内容", "")),
+        len(item.get("资讯标题", "")),
+        1 if item.get("详情页标题") else 0,
+    )
+
+
+def heuristic_dedupe(items: List[Dict]) -> List[Dict]:
+    if not items:
+        return items
+
+    by_url: Dict[str, Dict] = {}
+    for item in items:
+        current = by_url.get(item["原文链接"])
+        if not current or quality_score(item) > quality_score(current):
+            by_url[item["原文链接"]] = item
+    unique_items = list(by_url.values())
+
+    unique_items.sort(key=quality_score, reverse=True)
+    kept: List[Dict] = []
+    seen_fingerprints = set()
+    for item in unique_items:
+        fp = fingerprint_text(item["资讯标题"], item["内容"])
+        if fp and fp in seen_fingerprints:
+            continue
+
+        duplicated = False
+        for kept_item in kept:
+            same_title = title_similarity(item["资讯标题"], kept_item["资讯标题"]) >= 0.3
+            same_content = content_similarity(item, kept_item) >= 0.42
+            source_title_match = title_similarity(
+                item.get("原始标题", item["资讯标题"]),
+                kept_item.get("原始标题", kept_item["资讯标题"]),
+            ) >= 0.3
+            shared_named_tokens = named_tokens(item["资讯标题"]) & named_tokens(kept_item["资讯标题"])
+            same_named_event = len(shared_named_tokens) >= 2
+            if (
+                (same_title and same_content)
+                or (source_title_match and same_content)
+                or same_named_event
+            ):
+                duplicated = True
+                break
+
+        if duplicated:
+            continue
+
+        if fp:
+            seen_fingerprints.add(fp)
+        kept.append(item)
+
+    logging.info("规则去重后剩余 %s 条", len(kept))
+    return kept
+
+
+def chunked(sequence: Sequence[Dict], size: int) -> List[List[Dict]]:
+    return [list(sequence[index:index + size]) for index in range(0, len(sequence), size)]
+
+
 def rewrite_items_to_chinese(items: List[Dict]) -> List[Dict]:
     if not items:
         return items
 
-    payload = [
-        {"index": index, "title": item["资讯标题"], "content": item["内容"]}
-        for index, item in enumerate(items)
-    ]
-    prompt = (
-        "你是中文科技日报编辑。请将下面数组中的每条新闻标题和内容改写为纯中文。"
-        "不要出现任何英文字母、英文缩写、英文品牌名、英文模型名。"
-        "必要时请用自然的中文意译。"
-        "标题控制在 18 到 36 个中文字符。"
-        "内容控制在 70 到 120 个中文字符。"
-        "返回 JSON："
-        '{"items":[{"index":0,"title":"...","content":"..."}]}'
-        "\n输入："
-        f"{json.dumps(payload, ensure_ascii=False)}"
-    )
-    result = call_gemini_json(prompt)
-    rewritten_map = {item["index"]: item for item in result["items"]}
-
     rewritten_items: List[Dict] = []
-    for index, item in enumerate(items):
-        rewritten = rewritten_map.get(index)
-        if not rewritten:
-            continue
-        title = clean_text(str(rewritten.get("title", "")))
-        content = clean_text(str(rewritten.get("content", "")))
-        if not title or not content:
-            continue
-        if re.search(r"[A-Za-z]", title) or re.search(r"[A-Za-z]", content):
-            continue
+    for batch in chunked(items, 12):
+        payload = [
+            {
+                "index": index,
+                "title": item["资讯标题"],
+                "content": item["内容"],
+            }
+            for index, item in enumerate(batch)
+        ]
+        prompt = (
+            "你是中文科技日报编辑。请将下面数组中的每条新闻标题和内容改写为自然、准确的纯中文。"
+            "标题和内容必须保持同一条新闻事实，不允许串条，不允许改写成别的事件。"
+            "不要出现任何英文字母、英文缩写、英文品牌名、英文模型名。"
+            "必要时请用自然中文意译。"
+            "标题控制在 18 到 34 个中文字符。"
+            "内容控制在 70 到 110 个中文字符。"
+            "返回 JSON："
+            '{"items":[{"index":0,"title":"...","content":"..."}]}'
+            "\n输入："
+            f"{json.dumps(payload, ensure_ascii=False)}"
+        )
+        result = call_gemini_json(prompt)
+        rewritten_map = {item["index"]: item for item in result.get("items", []) if "index" in item}
 
-        new_item = dict(item)
-        new_item["资讯标题"] = title
-        new_item["内容"] = content
-        rewritten_items.append(new_item)
+        for index, item in enumerate(batch):
+            rewritten = rewritten_map.get(index)
+            if not rewritten:
+                continue
+            title = compact_text(str(rewritten.get("title", "")))
+            content = compact_text(str(rewritten.get("content", "")))
+            if not title or not content:
+                continue
+            if re.search(r"[A-Za-z]", title) or re.search(r"[A-Za-z]", content):
+                continue
+
+            new_item = dict(item)
+            new_item["资讯标题"] = title
+            new_item["内容"] = content
+            rewritten_items.append(new_item)
 
     return rewritten_items
 
@@ -415,33 +690,44 @@ def dedupe_items_with_ai(items: List[Dict]) -> List[Dict]:
     if not items:
         return items
 
-    payload = [
-        {
-            "index": index,
-            "title": item["资讯标题"],
-            "content": item["内容"],
-            "source": item["来源站点"],
-            "date": item["发布日期"],
+    kept_indices = set()
+    for batch in chunked(items, 20):
+        payload = [
+            {
+                "index": index,
+                "title": item["资讯标题"],
+                "content": item["内容"],
+                "source": item["来源站点"],
+                "date": item["发布日期"],
+                "original_title": item.get("原始标题", ""),
+            }
+            for index, item in enumerate(batch)
+        ]
+        prompt = (
+            "你是科技新闻去重编辑。请从下面新闻数组中删除语义重复、主体相同、只是换了表述的重复报道。"
+            "判断时同时参考标题、原始标题和内容，保留信息更完整的一条。"
+            "不同公司、不同产品、不同投融资主体、不同功能发布，不算重复。"
+            "返回 JSON："
+            '{"keep_indices":[0,2,5]}'
+            "\n输入："
+            f"{json.dumps(payload, ensure_ascii=False)}"
+        )
+        result = call_gemini_json(prompt)
+        batch_keep = {
+            index
+            for index in result.get("keep_indices", [])
+            if isinstance(index, int) and 0 <= index < len(batch)
         }
-        for index, item in enumerate(items)
-    ]
-    prompt = (
-        "你是科技新闻去重编辑。请从下面新闻数组中删除语义重复、主体相同、只是换了表述的重复报道。"
-        "保留信息最完整的一条。"
-        "返回 JSON："
-        '{"keep_indices":[0,2,5]}'
-        "\n输入："
-        f"{json.dumps(payload, ensure_ascii=False)}"
-    )
-    result = call_gemini_json(prompt)
-    keep_indices = {
-        index
-        for index in result.get("keep_indices", [])
-        if isinstance(index, int) and 0 <= index < len(items)
-    }
-    if not keep_indices:
+        if not batch_keep:
+            batch_keep = set(range(len(batch)))
+        for index in batch_keep:
+            kept_indices.add(id(batch[index]))
+
+    deduped = [item for item in items if id(item) in kept_indices]
+    if not deduped:
         raise RuntimeError("AI 去重结果为空，停止输出，避免生成无效数据。")
-    return [item for index, item in enumerate(items) if index in keep_indices]
+    logging.info("AI 去重后剩余 %s 条", len(deduped))
+    return deduped
 
 
 def guess_extension(image_url: str, content_type: str) -> str:
@@ -539,11 +825,13 @@ def main() -> None:
     if not all_items:
         raise RuntimeError("没有抓取到可验证的完整新闻数据。")
 
-    rewritten_items = rewrite_items_to_chinese(all_items)
+    filtered_items = heuristic_dedupe(all_items)
+    rewritten_items = rewrite_items_to_chinese(filtered_items)
     if not rewritten_items:
-        raise RuntimeError("AI 纯中文改写后没有留下有效数据。")
+        raise RuntimeError("AI 中文改写后没有留下有效数据。")
 
-    deduped_items = dedupe_items_with_ai(rewritten_items)
+    deduped_items = heuristic_dedupe(rewritten_items)
+    deduped_items = dedupe_items_with_ai(deduped_items)
     downloaded_items = attach_downloaded_images(session, deduped_items)
     final_items = sort_items(downloaded_items)
 
