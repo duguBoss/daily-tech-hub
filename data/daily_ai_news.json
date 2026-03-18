@@ -1,5 +1,137 @@
 [
   {
+    "资讯标题": "Midjourney推出Midjourney V8模型",
+    "内容": "AI图像和插画生成工具 Midjourney 是人工智能研究实验室 Midjourney, Inc. 推出的AI图像生成工具，可根据输入的文本提示生成图像。程序最早于2022年7月12日进入公开测试阶段，用户可通过 Discord 的机器人指令进行操作，创作出许多不同风格的图像作品。工具持续迭代升级模型（如 MidjourneyV7、MidjourneyV8 等），其国内官方中文版为：悠船。Midjourney 支持多种艺术风格、画面比例和参数调节，广泛应用于设计、插画、概念艺术等领域。Midjourney 目前提供有四个订阅级别，按年支付可享受 20% 的折扣。每个订阅计划都包括访问 Midjourney 会员图库、官方 Discord、一般商业使用等。",
+    "来源站点": "AI工具集",
+    "来源": "AI工具集",
+    "发布日期": "2026-03-18",
+    "原文链接": "https://ai-bot.cn/sites/56.html",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/98f3e3b52be0c74307eff90110bd010c.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/98f3e3b52be0c74307eff90110bd010c.png",
+    "配图仓库路径": "assets/news_images/98f3e3b52be0c74307eff90110bd010c.png",
+    "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2023/03/midjourney-discord.png"
+  },
+  {
+    "资讯标题": "阿里云宣布AI算力与存储产品涨价:最高涨幅34%，平头哥真武系列在列",
+    "内容": "阿里云宣布AI算力与存储产品涨价:最高涨幅34%，平头哥真武系列在列AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 18, 2026383月18日，阿里云官方宣布上调旗下AI算力及存储产品价格，最高涨幅达34%，此举标志着大模型应用爆发期云基础设施成本进入动态调整阶段。本次调价涵盖了底层算力卡与高性能存储等核心产品线。其中，平头哥真武810E等算力卡产品价格上涨5%至34%，专为智算场景设计的底层文件存储产品CPFS（智算版）涨幅亦达到30%。阿里云方面表示，全球AI需求持续激增导致供应链成本上升，是此次价格波动的直接诱因。值得注意的是，Token调用量的指数级增长成为本轮调价背后的关键变量。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-18",
+    "原文链接": "https://www.aibase.com/zh/news/26333",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f620ce5e0faff44863e35ca17f463afc.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f620ce5e0faff44863e35ca17f463afc.jpg",
+    "配图仓库路径": "assets/news_images/f620ce5e0faff44863e35ca17f463afc.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201812141716269868_4.jpg"
+  },
+  {
+    "资讯标题": "苹果发布 LiTo 大模型：单图秒变 3D，光影还原度提升 37%",
+    "内容": "苹果发布 LiTo 大模型：单图秒变 3D，光影还原度提升 37%AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 18, 202639苹果 AI 研究团队近日推出了名为 LiTo（表面光场标记化）的3D 生成大模型。该技术攻克了3D 重建领域的长期难题，实现了仅凭一张平面图像即可生成具有高保真光影效果的完整3D 对象。LiTo 的核心在于创新性地应用了潜在空间（Latent Space）及首创的统一3D 潜在表示法: 高效编码:将复杂的表面光场数据压缩为紧凑的向量集，通过数学描述掌握物体几何形状与光线交互的物理规律。双向机制:采用编码器-解码器架构。编码器负责提取几何结构与外观特征。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-18",
+    "原文链接": "https://www.aibase.com/zh/news/26316",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e13e1bf9c1fb54586a5eb7b4311f94a9.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e13e1bf9c1fb54586a5eb7b4311f94a9.png",
+    "配图仓库路径": "assets/news_images/e13e1bf9c1fb54586a5eb7b4311f94a9.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0318/6390942223299266774303559.png"
+  },
+  {
+    "资讯标题": "腾讯 QClaw 迎重大更新:微信小程序入口上线，步入 AI Agent 极简时代",
+    "内容": "腾讯 QClaw 迎重大更新:微信小程序入口上线，步入 AI Agent 极简时代AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 18, 202666腾讯云正式发布了 QClaw 的 v0.1.9版本。作为首个深度适配微信生态的“龙虾”智能体（AI Agent），本次更新将原有的微信客服号入口全面升级为小程序，大幅降低了普通用户使用 AI 执行复杂电脑任务的门槛。微信入口升级:跨设备交互更丝滑新版本将 QClaw 的交互核心转移至微信小程序，实现了手机与电脑的无缝联动: 文件互传:用户可以直接在手机端通过小程序接收或上传电脑端文件。原生多模态:即将支持语音、图片等微信原生交互，实现“发一句话，电脑就开始干活”的体验。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-18",
+    "原文链接": "https://www.aibase.com/zh/news/26319",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/08a2bac73787c08d80d03dc4974f378c.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/08a2bac73787c08d80d03dc4974f378c.png",
+    "配图仓库路径": "assets/news_images/08a2bac73787c08d80d03dc4974f378c.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0318/6390942350396744773857794.png"
+  },
+  {
+    "资讯标题": "男二以下或用AI演员 导演于正发声称真人表演无法被技术替代",
+    "内容": "男二以下或用AI演员 导演于正发声称真人表演无法被技术替代AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 18, 202618近日，关于“男二以下角色采用AI演员”的讨论冲上社交平台热搜榜首，标志着生成式AI技术对影视生产流程的渗透已从特效辅助深度进入角色替代阶段。知名编剧于正对此公开回应，直指真人表演的不可替代性。目前，AI演员凭借数字生成技术已能完成高难度动作及特殊形象塑造，并在短剧制作中展现出显著的降本增效优势，大幅缩短了开发周期。然而，技术红利背后的局限性也日益凸显:数字化算法在传递情感深度与生命温度方面仍显匮乏，观众的心理防御机制使得AI形象难以建立同类间的情感共鸣。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-18",
+    "原文链接": "https://www.aibase.com/zh/news/26340",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3a0586a31658561ce76f892cfc01dde1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3a0586a31658561ce76f892cfc01dde1.jpg",
+    "配图仓库路径": "assets/news_images/3a0586a31658561ce76f892cfc01dde1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202307261637370592_6.jpg"
+  },
+  {
+    "资讯标题": "模型也会“套娃”？MiniMax 发布 M2.7：首个深度参与自我迭代的国产大模型",
+    "内容": "模型也会“套娃”。MiniMax 发布 M2.7：首个深度参与自我迭代的国产大模型AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 18, 2026197人工智能的进化速度，正在从“月更”向“自进化”跨越。3 月 18 日，MiniMax正式发布了其首个深度参与迭代自身的新版本模型——MiniMax M2.7。这标志着模型开发进入了一个新阶段：大模型不再仅仅由人类程序员喂养，而是开始学会“自己带自己”。据介绍，MiniMax M2.7的核心突破在于其极强的自主构建能力。它能够自行构建复杂的 Agent Harness（智能体测试框架），并依托 Agent Teams（智能体协作）、复杂 Skills 以及 Tool Search tool 等底层能力，独立完成高度复杂的生产力任务。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-18",
+    "原文链接": "https://www.aibase.com/zh/news/26335",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
+    "配图仓库路径": "assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558233072_8.jpg"
+  },
+  {
+    "资讯标题": "微信里也能“养龙虾”了！腾讯 QClaw 接入小程序：文件互传、多模态交互全开启",
+    "内容": "微信里也能“养龙虾”了。腾讯 QClaw 接入小程序：文件互传、多模态交互全开启AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 18, 202630智能体（Agent）的竞争已经从“比参数”进化到了“比入口”。3月18日，腾讯云宣布其 AI 智能体产品 QClaw（腾讯龙虾） 迎来重磅更新。此次升级最大的亮点在于，QClaw正式打通微信生态，入口从原有的微信客服号全面升级为 微信小程序。这一改变意味着用户与 AI 智能体的交互变得更加“丝滑”: 文件互传: 用户现在可以直接在小程序内接收QClaw从电脑端发送的文件。多模态潜力: 未来还将支持语音、图片等微信原生交互，让 AI 真正像一个微信好友一样帮你干活。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-18",
+    "原文链接": "https://www.aibase.com/zh/news/26337",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c6db8d7c87205a2818cf62c82cf7cfb3.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c6db8d7c87205a2818cf62c82cf7cfb3.png",
+    "配图仓库路径": "assets/news_images/c6db8d7c87205a2818cf62c82cf7cfb3.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0318/6390944487716753135635187.png"
+  },
+  {
+    "资讯标题": "字节跳动发布爪爪安全工具及规范，强化大模型企业内网访问管控",
+    "内容": "字节跳动安全团队近日正式发布《开放爪爪安全规范和使用指引》，并同步推出面向员工的合规工具“爪爪”，旨在通过标准化手段解决大模型工具在企业内网环境下的安全治理难题。该工具基于火山引擎企业版构建，实现了公司账号体系下的统一身份认证、访问控制与权限管理，为员工安全调用内部资源提供底层支撑。针对大模型应用中常见的访问控制失效、提示词注入、敏感信息泄露、供应链漏洞及恶意插件投毒等五类典型安全风险，规范提出了明确的技术防范要求。字节安全团队强调，该云端托管平台已完成安全基线配置，能有效收敛攻击面并实现持续运维监控。在部署层面，公司严禁在核心生产环境安装此类工具，且不建议在办公电脑本地部署，确需使用则必须严格遵循合规指引。此举标志着头部企业在推动人工智能提效的同时，正加速完善大模型应用的安全合规基座，为行业提供了人工智能应用",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-18",
+    "原文链接": "https://www.aibase.com/zh/news/26334",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0a7b446d0e50a09e7097ce1793d768ae.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0a7b446d0e50a09e7097ce1793d768ae.jpg",
+    "配图仓库路径": "assets/news_images/0a7b446d0e50a09e7097ce1793d768ae.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202603101646528492_0.jpg"
+  },
+  {
+    "资讯标题": "一杯奶茶钱，定制专属AI？灵光“代搓应用”服务成为年轻人副业新选择",
+    "内容": "一杯奶茶钱，定制专属AI。灵光“代搓应用”服务成为年轻人副业新选择AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 18, 202638一杯奶茶钱，就能请人开发一款专属AI应用。这听起来像天方夜谭，却在闲鱼、小红书等平台上，成了不少年轻人眼中的赚钱新门路。记者近日发现，围绕灵光App等国产AI工具，一批没有编程背景的普通人正化身“数字个体户”，将生活经验转化为小生意。在这里，没有动辄几万块的开发费，只有接地气的“手搓服务”:5元调试bug、8元提优化建议、19.9元包揽全流程定制，还有卖家靠卖“个人成长打卡”类应用月销近千单……这种被网友称为“手搓应用”的副业正在兴起。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-18",
+    "原文链接": "https://www.aibase.com/zh/news/26332",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/90524c95455f382cc0d31e8acdb6a784.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/90524c95455f382cc0d31e8acdb6a784.png",
+    "配图仓库路径": "assets/news_images/90524c95455f382cc0d31e8acdb6a784.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0318/6390943980332775759168198.png"
+  },
+  {
+    "资讯标题": "Unsloth Studio 发布：首个本地可视化大模型微调平台，显存占用降低 70%",
+    "内容": "Unsloth Studio 发布：首个本地可视化大模型微调平台，显存占用降低 70%AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 18, 202618知名高性能微调库 Unsloth AI 正式推出了 Unsloth Studio。这是一款开源、无代码的本地可视化界面，旨在大幅降低软件工程师微调大语言模型（LLM）的门槛，让开发者彻底告别复杂的 CUDA 环境配置与高昂的硬件成本。Unsloth Studio 的底层采用了由 Triton 语言编写的定制化反向传播内核，相比标准微调框架实现了质的飞跃: 训练速度翻倍:训练效率提升了2倍。显存节省70%:在不损失模型精度的前提下，大幅减少了对 GPU 显存的依赖。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-18",
+    "原文链接": "https://www.aibase.com/zh/news/26338",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/09a8162af53fd582fe05184a70d4d4c9.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/09a8162af53fd582fe05184a70d4d4c9.png",
+    "配图仓库路径": "assets/news_images/09a8162af53fd582fe05184a70d4d4c9.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0318/6390944585586909715449930.png"
+  },
+  {
+    "资讯标题": "OpenAI 发布最强小模型：GPT-5.4 mini 与 nano 登场，性能直逼满血版",
+    "内容": "OpenAI 发布最强小模型：GPT-5.4 mini 与 nano 登场，性能直逼满血版AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 18, 202648OpenAI 正式发布了两款全新的小型 AI 模型——GPT-5.4mini 与 GPT-5.4nano。这两款模型专为高频、低延迟的任务场景量身定制，标志着小型模型在保持轻量化的同时，在性能上实现了质的飞跃。核心亮点:低延迟与高效率的完美平衡官方强调，在代码辅助、系统截图解析及实时图像推理等对响应速度要求极高的场景中，GPT-5.4系列小模型表现优异: GPT-5.4mini:在代码编写、逻辑推理及多模态理解方面远超前代，运行速度提升了2倍以上。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-18",
+    "原文链接": "https://www.aibase.com/zh/news/26310",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/671069cc649f649c1e85346b1ea8c8ab.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/671069cc649f649c1e85346b1ea8c8ab.png",
+    "配图仓库路径": "assets/news_images/671069cc649f649c1e85346b1ea8c8ab.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0318/6390942123866781349284530.png"
+  },
+  {
     "资讯标题": "Manus桌面端推出My Computer功能，支持Mac 和Win系统",
     "内容": "蝴蝶效应公司推出的首款自主通用AI Agent Manus 是蝴蝶效应公司推出的全球首个自主通用 AI Agent，支持通过自主行动完成任务和交付成果。Manus 运行在一个拥有互联网访问权限、持久文件系统和软件安装能力的沙盒环境中，能独立工作、记住长期任务的上下文。Manus 提供多种功能，包括设计视图、广泛研究、数据分析与可视化以及媒体处理等，最新版本 Manus 1.6 引入性能更强的 Max Agent，优化电子表格处理和 Web 开发能力，新增移动开发功能。Manus 可通过云浏览器和集成功能与外部工具无缝协作，帮助用户高效完成复杂任务。",
     "来源站点": "AI工具集",
@@ -12,8 +144,20 @@
     "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2025/12/Manus-website4.png"
   },
   {
+    "资讯标题": "阿里开源Fun-CineForge ：首个电影级多模态配音大模型及大规模数据集问世",
+    "内容": "阿里开源Fun-CineForge ：首个电影级多模态配音大模型及大规模数据集问世AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202647近日，由阿里巴巴通义实验室（Tongyi Lab）语音团队与中国科学技术大学联合打造的 Fun-CineForge 项目正式宣布开源。该项目针对影视剧配音中的口型同步、音色迁移及情感表达等核心难题，推出了一套端到端的生产流水线及大模型解决方案。核心突破:解决影视配音“出戏”痛点传统的 AI 配音往往面临口型对不上、情感机械以及难以适应复杂影视场景（如对白、多人混响）的问题。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-17",
+    "原文链接": "https://www.aibase.com/zh/news/26299",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1e92196c993c83e7a1972be4ea878f89.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1e92196c993c83e7a1972be4ea878f89.png",
+    "配图仓库路径": "assets/news_images/1e92196c993c83e7a1972be4ea878f89.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0317/6390935729035066275817325.png"
+  },
+  {
     "资讯标题": "钉钉发布“悟空”AI原生平台，阿里加速B端AI Agent战略布局",
-    "内容": "钉钉发布“悟空”AI原生平台，阿里加速B端AI Agent战略布局AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 2026733月17日，钉钉在“2026AI钉钉2.0年度新品发布会”上正式推出AI原生工作平台——“悟空”。该平台由钉钉创始人、CEO陈航发布，标志着阿里巴巴在企业级AI Agent市场的战略构想正式进入落地阶段。作为一款全天候AI助手，“悟空”支持PC与移动端双端运行，用户可通过钉钉直接下达复杂指令。其核心技术逻辑在于打破物理办公限制，实现24小时不间断自主工作，使AI Agent真正深入企业的实际工作流。与此同时，阿里巴巴集团在组织架构上进行了重大调整。",
+    "内容": "钉钉发布“悟空”AI原生平台，阿里加速B端AI Agent战略布局AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 20261003月17日，钉钉在“2026AI钉钉2.0年度新品发布会”上正式推出AI原生工作平台——“悟空”。该平台由钉钉创始人、CEO陈航发布，标志着阿里巴巴在企业级AI Agent市场的战略构想正式进入落地阶段。作为一款全天候AI助手，“悟空”支持PC与移动端双端运行，用户可通过钉钉直接下达复杂指令。其核心技术逻辑在于打破物理办公限制，实现24小时不间断自主工作，使AI Agent真正深入企业的实际工作流。与此同时，阿里巴巴集团在组织架构上进行了重大调整。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-17",
@@ -25,7 +169,7 @@
   },
   {
     "资讯标题": "终结繁琐操作！PixVerse 推出开发者专属 CLI：在终端一键“敲出”大片",
-    "内容": "PixVerse 推出开发者专属 CLI：在终端一键“敲出”大片AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202619对于 AI 内容创作者和开发者来说，频繁在代码编辑器和浏览器窗口之间切换，正成为制约生产力的最大瓶颈。为了打破这一僵局，PixVerse近日正式发布了面向开发者的命令行界面工具——PixVerse CLI。这款工具的初衷非常明确:让视频和图像生成彻底融入开发者的原生工作流。通过PixVerse CLI，用户无需打开任何网页界面，只需在终端输入一行简单的命令，即可直接调用PixVerse平台的所有顶尖模型。PixVerse CLI 的硬核实力体现在以下几个维度: 全能力覆盖: 支持文生图、文生视频、图生视频、音频合成以及图像放大等全套功能。",
+    "内容": "PixVerse 推出开发者专属 CLI：在终端一键“敲出”大片AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202636对于 AI 内容创作者和开发者来说，频繁在代码编辑器和浏览器窗口之间切换，正成为制约生产力的最大瓶颈。为了打破这一僵局，PixVerse近日正式发布了面向开发者的命令行界面工具——PixVerse CLI。这款工具的初衷非常明确:让视频和图像生成彻底融入开发者的原生工作流。通过PixVerse CLI，用户无需打开任何网页界面，只需在终端输入一行简单的命令，即可直接调用PixVerse平台的所有顶尖模型。PixVerse CLI 的硬核实力体现在以下几个维度: 全能力覆盖: 支持文生图、文生视频、图生视频、音频合成以及图像放大等全套功能。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-17",
@@ -36,20 +180,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0317/6390935580014523319387616.png"
   },
   {
-    "资讯标题": "澄清了！博纳影业回应：博乐AI暂未接入 OpenClaw 部署",
-    "内容": "博纳影业回应：博乐AI暂未接入 OpenClaw 部署AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202623随着 AI 智能体（Agent）概念在资本市场持续高烧，不少投资者开始关注影视巨头在这一领域的最新布局。3 月 17 日，针对投资者关于“博纳 AI 短剧应用是否也能部署在 OpenClaw 上”的提问，博纳影业 在投资者互动平台做出了明确回应。公司表示，目前一直高度关注 OpenClaw 等前沿创新产品，并持续保持对新领域的观察与探索。但就现阶段而言，公司自研的“博乐AI一键短剧”产品并不涉及 OpenClaw 的部署应用。作为国内影视行业的领军企业，博纳影业近年来在“AI+影视”赛道动作频频。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-17",
-    "原文链接": "https://www.aibase.com/zh/news/26300",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bbabdbf13b0519714ed26a472df3379a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bbabdbf13b0519714ed26a472df3379a.jpg",
-    "配图仓库路径": "assets/news_images/bbabdbf13b0519714ed26a472df3379a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202501221012149362_0.jpg"
-  },
-  {
     "资讯标题": "港大团队重磅开源！一行命令让任意软件秒变AI Agent“原生工具”，再见UI自动化崩溃噩梦",
-    "内容": "港大团队重磅开源。一行命令让任意软件秒变AI Agent“原生工具”，再见UI自动化崩溃噩梦AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202611随着AI Agent的快速发展，让大模型直接操控专业软件（如图像编辑、3D建模、办公套件等）已成为开发者社区的痛点。传统的UI自动化方案容易崩溃，手动编写脚本对接又耗时费力。香港大学数据智能实验室(HKUDS)近日推出开源项目CLI-Anything，彻底颠覆这一现状:只需一条命令，就能将任意软件转化为AI Agent可直接调用的结构化命令行工具，真正实现“Agent-Native”软件生态。",
+    "内容": "港大团队重磅开源。一行命令让任意软件秒变AI Agent“原生工具”，再见UI自动化崩溃噩梦AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202637随着AI Agent的快速发展，让大模型直接操控专业软件（如图像编辑、3D建模、办公套件等）已成为开发者社区的痛点。传统的UI自动化方案容易崩溃，手动编写脚本对接又耗时费力。香港大学数据智能实验室(HKUDS)近日推出开源项目CLI-Anything，彻底颠覆这一现状:只需一条命令，就能将任意软件转化为AI Agent可直接调用的结构化命令行工具，真正实现“Agent-Native”软件生态。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-17",
@@ -60,8 +192,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0317/6390935466436962661786550.png"
   },
   {
-    "资讯标题": "智谱发布 GLM-5-Turbo：专为“龙虾”智能体优化的实干型基座模型",
-    "内容": "智谱发布 GLM-5-Turbo：专为“龙虾”智能体优化的实干型基座模型AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202620智谱 AI 近日正式发布了全新基座模型 GLM-5-Turbo。该模型针对开源智能体“龙虾”（OpenClaw）场景进行了深度重塑，旨在解决通用大模型在长链路、复杂任务中容易“失速”的痛点，将 AI 从简单的提效工具进化为全天候命的数字劳动力。底层进化:破除长任务失速为了让模型更“能干活”，研发团队通过真实的智能体工作流重新构造了训练数据，重点强化了四项核心能力: 稳定工具调用:增强对外部 Skills 的调用精度，确保关键环节不掉链子。复杂指令拆解:精准识别目标并规划步骤，支持多智能体高效协同。",
+    "资讯标题": "智谱发布基座模型五代极速版，专为龙虾智能体优化并提升长任务执行效率",
+    "内容": "智谱人工智能近日正式发布全新基座模型五代极速版，该模型针对开源智能体“龙虾”场景进行深度重塑，旨在解决通用大模型在长链路与复杂任务中容易失速的痛点。研发团队通过真实智能体工作流重构训练数据，重点强化了稳定工具调用、复杂指令拆解、时间维度感知及高吞吐执行四项核心能力。在同步发布的智能体评测基准测试中，该模型在代码开发、数据分析等领域表现优异，获得多家头部互联网企业测评团队认可，在工具调用准确度与幻觉控制方面处于行业领先水平。在生态落地方面，该模型已适配机械革命的龙虾盒子硬件，并配套推出企业级安全体系，通过可视化监控与审计日志确保数据安全。目前，模型已在智谱开放平台上线，并提供限时额度消耗优惠，助力用户将人工智能从简单提效工具升级为全天候数字劳动力。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-17",
@@ -73,7 +205,7 @@
   },
   {
     "资讯标题": "普通人零基础拍大片！“Vibe Editing”火爆出圈：扔素材+聊天，AI秒出朋友圈爆款视频",
-    "内容": "普通人零基础拍大片。“Vibe Editing”火爆出圈：扔素材+聊天，AI秒出朋友圈爆款视频AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202621随着AI从“会写代码”进化到“懂氛围”，一种名为Vibe Editing（氛围编辑）的全新视频创作方式正在社交媒体和创作者圈迅速走红。与“Vibe Coding”针对程序员用自然语言写代码相反，Vibe Editing专为编程小白、普通上班族和社交达人设计。",
+    "内容": "普通人零基础拍大片。“Vibe Editing”火爆出圈：扔素材+聊天，AI秒出朋友圈爆款视频AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202674随着AI从“会写代码”进化到“懂氛围”，一种名为Vibe Editing（氛围编辑）的全新视频创作方式正在社交媒体和创作者圈迅速走红。与“Vibe Coding”针对程序员用自然语言写代码相反，Vibe Editing专为编程小白、普通上班族和社交达人设计。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-17",
@@ -85,7 +217,7 @@
   },
   {
     "资讯标题": "国家安全部发布开源智能体龙虾安全养殖手册以应对潜在风险",
-    "内容": "近日，国家安全部发布《龙虾安全养殖手册》，针对近期爆火的开源人工智能智能体工具龙虾提出安全警示。龙虾作为一款深度整合通信软件的数字员工，具备自主执行指令、插件生态丰富、自我进化及主动服务等核心功能，能实现远程操控与自动化任务处理。然而，国安部指出该工具存在四大核心安全隐患：用户赋予其最高权限可能导致主机被接管、敏感数据面临窃取风险、智能体可能被利用篡改言论传播虚假信息，以及恶意插件投毒具有极高隐蔽性。对此，官方建议用户遵循最小权限原则，在隔离环境中运行，并定期检查权限配置与插件来源，对敏感数据进行加密处理。目前，部分院校已要求彻底卸载该工具。监管部门强调，只有在安全可控的前提下，这款开源智能体才能真正发挥生产力价值，避免沦为安全漏洞。",
+    "内容": "近日，国家安全部正式发布《龙虾安全养殖手册》，针对近期爆火的开源人工智能智能体工具龙虾所引发的安全隐患提出警示。龙虾作为一款深度整合通信软件的数字员工，具备自主落地执行、插件生态丰富、自我进化及主动服务等核心功能，能通过聊天程序远程执行指令并管理文件。然而，国安部指出该工具存在四大核心风险：用户赋予其最高权限可能导致主机被接管；处理敏感信息易引发数据窃取；智能体自主发声功能可能被利用篡改言论；且恶意插件投毒具有极高隐蔽性。对此，官方建议用户遵循最小权限原则，在专用虚拟机或沙箱等隔离环境中运行，并定期检查权限配置与插件来源。目前，部分院校已要求彻底卸载该工具。监管部门强调，只有在安全可控的前提下，这款开源智能体才能真正成为高效的生产力工具，用户务必加强合规运行与操作审计，防范潜在的安全反噬。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-17",
@@ -96,8 +228,20 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202603101647491013_0.jpg"
   },
   {
+    "资讯标题": "博纳影业回应投资者提问：博乐人工智能短剧产品暂未接入开源智能体框架",
+    "内容": "博纳影业近日在投资者互动平台明确回应，公司自研的博乐人工智能一键短剧产品目前并未接入开源智能体框架开放爪进行部署。针对近期投资者关于博纳人工智能短剧应用是否部署在开放爪上的提问，公司表示虽然高度关注该前沿创新产品，并持续保持对新领域的观察与探索，但现阶段双方并无相关部署应用。作为国内影视行业领军企业，博纳影业近年来在人工智能加影视赛道布局频繁，其自研的博乐人工智能旨在通过生成式技术简化短剧创作流程，实现从创意到成片的高效产出。此次澄清明确了公司目前在人工智能智能体技术应用上的具体路径。尽管未与该开源框架建立直接关联，但博纳影业对新技术的开放态度，仍引发市场对其未来智能化转型的持续关注。在人工智能生成内容时代，传统影视公司如何利用工具链优化内容生产逻辑，将是决定其行业竞争位次的关键因素。",
+    "来源站点": "AIbase",
+    "来源": "AIbase",
+    "发布日期": "2026-03-17",
+    "原文链接": "https://www.aibase.com/zh/news/26300",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
+    "配图仓库路径": "assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558233072_8.jpg"
+  },
+  {
     "资讯标题": "单图秒变 3D！苹果发布 LiTo 大模型：光影质感拉满，Vision Pro 的神队友来了？",
-    "内容": "苹果发布 LiTo 大模型：光影质感拉满，Vision Pro 的神队友来了。AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202646在3D 重建这个一直被视为“硬骨头”的 AI 领域，苹果公司刚刚秀出了一项足以改变游戏规则的黑科技。据最新报道，苹果AI 研究团队发布了一项名为 LiTo（表面光场标记化） 的最新模型。它的核心突破在于:仅凭一张普通的2D 平面图像，就能重建出完整的3D 对象，且细节还原度达到了物理级别的真实感。长期以来，单图生成3D 模型最大的痛点在于“光影的一致性”。当你旋转视角时，物体表面的反射、高光往往会变得扭曲或失真。而LiTo模型通过引入创新的“潜在空间”（Latent Space）表示法，成功攻克了这一难题。",
+    "内容": "苹果发布 LiTo 大模型：光影质感拉满，Vision Pro 的神队友来了。AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202650在3D 重建这个一直被视为“硬骨头”的 AI 领域，苹果公司刚刚秀出了一项足以改变游戏规则的黑科技。据最新报道，苹果AI 研究团队发布了一项名为 LiTo（表面光场标记化） 的最新模型。它的核心突破在于:仅凭一张普通的2D 平面图像，就能重建出完整的3D 对象，且细节还原度达到了物理级别的真实感。长期以来，单图生成3D 模型最大的痛点在于“光影的一致性”。当你旋转视角时，物体表面的反射、高光往往会变得扭曲或失真。而LiTo模型通过引入创新的“潜在空间”（Latent Space）表示法，成功攻克了这一难题。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-17",
@@ -109,7 +253,7 @@
   },
   {
     "资讯标题": "养龙虾不如养赛博骡子？全球首个自进化 AI “MuleRun”正式发布",
-    "内容": "养龙虾不如养赛博骡子。全球首个自进化 AI “MuleRun”正式发布AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202652随着“龙虾”（OpenClaw）部署门槛过高、安全隐患频发，AI 智能体市场迎来新变局。昨日，全球首个自进化个人 AI —— MuleRun“赛博骡子” 正式上线。这款产品主打“免部署、全天候在线、自进化”，试图彻底终结普通用户在本地折逸养虾的时代。相比 OpenClaw 复杂的环境配置，MuleRun彻底砍掉了部署环节。用户只需打开网页，即可获得一个独立的云端虚拟机。这意味着即使电脑关机，你的“赛博骡子”依然能在云端7×24小时不间断执行任务。",
+    "内容": "养龙虾不如养赛博骡子。全球首个自进化 AI “MuleRun”正式发布AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 2026144随着“龙虾”（OpenClaw）部署门槛过高、安全隐患频发，AI 智能体市场迎来新变局。昨日，全球首个自进化个人 AI —— MuleRun“赛博骡子” 正式上线。这款产品主打“免部署、全天候在线、自进化”，试图彻底终结普通用户在本地折逸养虾的时代。相比 OpenClaw 复杂的环境配置，MuleRun彻底砍掉了部署环节。用户只需打开网页，即可获得一个独立的云端虚拟机。这意味着即使电脑关机，你的“赛博骡子”依然能在云端7×24小时不间断执行任务。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-17",
@@ -121,7 +265,7 @@
   },
   {
     "资讯标题": "一键部署你的私有 AI“爪子”:NVIDIA 发布 NemoClaw 彻底打通 OpenClaw 生态",
-    "内容": "一键部署你的私有 AI“爪子”:NVIDIA 发布 NemoClaw 彻底打通 OpenClaw 生态AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202635NVIDIA 今日重磅宣布推出 NVIDIA NemoClaw™ 堆栈，这是一项专为 OpenClaw 代理平台打造的技术突破。通过该堆栈，全球开发者与用户仅需一条简单的命令，即可完成NVIDIA Nemotron™模型与新一代 NVIDIA OpenShell™ 运行时的安装与部署。重塑 AI 代理的“操作系统” NVIDIA 创始人兼首席执行官黄仁勋将 OpenClaw 誉为“个人人工智能的操作系统”，称其地位等同于 PC 时代的 Mac 或 Windows。",
+    "内容": "一键部署你的私有 AI“爪子”:NVIDIA 发布 NemoClaw 彻底打通 OpenClaw 生态AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 17, 202653NVIDIA 今日重磅宣布推出 NVIDIA NemoClaw™ 堆栈，这是一项专为 OpenClaw 代理平台打造的技术突破。通过该堆栈，全球开发者与用户仅需一条简单的命令，即可完成NVIDIA Nemotron™模型与新一代 NVIDIA OpenShell™ 运行时的安装与部署。重塑 AI 代理的“操作系统” NVIDIA 创始人兼首席执行官黄仁勋将 OpenClaw 誉为“个人人工智能的操作系统”，称其地位等同于 PC 时代的 Mac 或 Windows。",
     "来源站点": "AIbase",
     "来源": "AIbase",
     "发布日期": "2026-03-17",
@@ -130,101 +274,5 @@
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/62b9e13e0dbd0f3c9f62b9537b1ee823.jpg",
     "配图仓库路径": "assets/news_images/62b9e13e0dbd0f3c9f62b9537b1ee823.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/201811151633429961_46.jpg"
-  },
-  {
-    "资讯标题": "通义开源首个影视级配音大模型：AI 终于学会了“有感情地说话”",
-    "内容": "通义开源首个影视级配音大模型：AI 终于学会了“有感情地说话”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 16, 202661在 AIGC 横扫图像与文字领域后，影视行业的最后一个“人工堡垒”——配音，正在被阿里通义实验室攻破。3月16日，通义实验室正式发布并开源了全球首个支持影视级、多场景配音的多模态大模型 Fun-CineForge。长期以来，AI 配音始终难以撕掉“机械感”和“播音腔”的标签。尤其在影视剧场景中，角色的情感爆发、环境音的杂糅以及口型同步，一直是 AI 难以逾越的鸿沟。而Fun-CineForge的出现，正是为了终结这一难题。这款大模型采用了革命性的“数据+模型”一体化设计。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-16",
-    "原文链接": "https://www.aibase.com/zh/news/26255",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bbabdbf13b0519714ed26a472df3379a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bbabdbf13b0519714ed26a472df3379a.jpg",
-    "配图仓库路径": "assets/news_images/bbabdbf13b0519714ed26a472df3379a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202501221012149362_0.jpg"
-  },
-  {
-    "资讯标题": "行业首个！腾讯发布“龙虾管家”，为本地 AI Agent 打造安全沙箱",
-    "内容": "腾讯发布“龙虾管家”，为本地 AI Agent 打造安全沙箱AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 16, 202674腾讯电脑管家在发布的18.0核心版本中，正式推出了行业首个针对本地 AI 智能体的安全防护功能——“龙虾管家·AI 安全沙箱”。这一功能旨在解决 AI Agent 在本地部署时可能面临的权限滥用、恶意注入及隐私泄露等安全隐患。“龙虾管家”的核心在于其构建的“安全隔离虾房”。通过沙箱隔离技术，系统能够严格管控 AI 对底层资源的访问权限，拦截异常的支付行为或系统级文件修改指令。同时，它还具备 AI 实时运行保护能力，能够对 Prompt（提示词）和 Skills(技能包)进行深度监测，有效识别并阻断注入式攻击。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-16",
-    "原文链接": "https://www.aibase.com/zh/news/26241",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a4a75b4729f3520a3443ab91df62e9be.png",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a4a75b4729f3520a3443ab91df62e9be.png",
-    "配图仓库路径": "assets/news_images/a4a75b4729f3520a3443ab91df62e9be.png",
-    "原始配图链接": "https://upload.chinaz.com/2026/0316/6390925828200797955790955.png"
-  },
-  {
-    "资讯标题": "百万 Token 时代开启！Claude 一夜拆掉 AI 编程天花板：代码库、哈利波特都能一次吞下？",
-    "内容": "百万 Token 时代开启。Claude 一夜拆掉 AI 编程天花板：代码库、哈利波特都能一次吞下。AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 16, 202642在 AI 编程的军备竞赛中，Anthropic刚刚投下了一枚足以改写战局的“核武”。就在今日，Claude正式宣布其 100万 Token 上下文窗口 全面上线。这不仅是一个数字的堆砌，更意味着 AI 真正拥有了“超长工作记忆”。100万 Token 是什么概念。它相当于一次性读完750万个英文单词，或者把整套《哈利·波特》系列翻上7倍。对于开发者来说，这简直是梦寐以求的“神器”。以前，面对庞大的代码库，你不得不手动切分文件、做有损摘要，生怕 AI “转头就忘”。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-16",
-    "原文链接": "https://www.aibase.com/zh/news/26226",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/21ecd8bac2f238590be6e08e38ffa06f.png",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/21ecd8bac2f238590be6e08e38ffa06f.png",
-    "配图仓库路径": "assets/news_images/21ecd8bac2f238590be6e08e38ffa06f.png",
-    "原始配图链接": "https://upload.chinaz.com/2026/0316/6390924953557835544744629.png"
-  },
-  {
-    "资讯标题": "清华重磅开源！OpenMAIC打造AI多智能体虚拟课堂，一键把任何主题变身沉浸式互动教室",
-    "内容": "OpenMAIC打造AI多智能体虚拟课堂，一键把任何主题变身沉浸式互动教室AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 16, 202671清华大学研究团队近日正式开源OpenMAIC（Open Multi-Agent Interactive Classroom），这是一个由大语言模型驱动的多智能体互动课堂平台。该项目将任意主题或文档瞬间转化为完整的沉浸式学习体验，标志着在线教育从“看视频慕课”时代正式迈向“与AI共同上课”的全新阶段。目前平台已支持免费在线体验，并已在GitHub上开放全部代码，迅速引发全球AI教育圈热议。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-16",
-    "原文链接": "https://www.aibase.com/zh/news/26249",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5c0f184a5bbb27276f3d63554bcafa0f.png",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5c0f184a5bbb27276f3d63554bcafa0f.png",
-    "配图仓库路径": "assets/news_images/5c0f184a5bbb27276f3d63554bcafa0f.png",
-    "原始配图链接": "https://upload.chinaz.com/2026/0316/6390926845243393374994090.png"
-  },
-  {
-    "资讯标题": "有赞回应315“AI投毒”传闻:GEO涉事产品非旗下投资公司开发",
-    "内容": "有赞回应315“AI投毒”传闻:GEO涉事产品非旗下投资公司开发AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 16, 202630今日，有赞发布官方声明，澄清其投资企业与央视3·15晚会曝光的“AI投毒”事件无涉，并明确划定AI营销业务的安全合规边界。针对媒体将晚会点名的GEO相关产品与有赞投资的“南京小裂变网络科技有限公司”进行关联报道，有赞回应称，2021年对小裂变的投资仅限于企业微信生态工具开发，双方在GEO业务上不存在任何股权、业务或技术关联。经核实，涉嫌通过自动化手段篡改大模型生成结果的“力擎GEO优化系统”并非小裂变开发或运营。此次事件揭示了“GEO（生成式引擎优化）”概念在非法产业链中的异化。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-16",
-    "原文链接": "https://www.aibase.com/zh/news/26250",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/23245ab9c311d9edf6c78e3cf45b18c6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/23245ab9c311d9edf6c78e3cf45b18c6.jpg",
-    "配图仓库路径": "assets/news_images/23245ab9c311d9edf6c78e3cf45b18c6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202510241729133611_4.jpg"
-  },
-  {
-    "资讯标题": "抖音今年已处置一万四千个利用人工智能生成违规内容的账号",
-    "内容": "抖音平台近日针对利用人工智能技术生成色情低俗内容的违规行为展开专项治理，今年以来已累计处置违规内容四点二万条，并对一点四万个违规账号采取了禁言或封禁等梯次处罚。此次治理重点打击利用人工智能塑造虚假人设、发布性暗示视频进行导流的黑产团伙，部分违规者通过生成美女图片诱导用户跳转至第三方色情应用。目前，已有三百三十九个相关账号被无限期回收直播权限，某涉案四人团伙因涉嫌非法利用信息网络罪被依法刑事拘留。此外，平台已对八千四百二十一个持续发布此类内容的账号进行封禁或降权，并将相关违法线索移交公安机关。抖音强调，利用人工智能生成着装暴露的擦边内容已触犯平台公约及相关法律，未来将持续升级技术手段，提升对人工智能生成不良内容的识别与拦截能力，维护清朗网络空间。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-16",
-    "原文链接": "https://www.aibase.com/zh/news/26231",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bbabdbf13b0519714ed26a472df3379a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bbabdbf13b0519714ed26a472df3379a.jpg",
-    "配图仓库路径": "assets/news_images/bbabdbf13b0519714ed26a472df3379a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202501221012149362_0.jpg"
-  },
-  {
-    "资讯标题": "影视配音进入AI时代:通义实验室开源Fun-CineForge，首克多人对话难题",
-    "内容": "影视配音进入AI时代:通义实验室开源Fun-CineForge，首克多人对话难题AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 16, 202636传统的 AI 配音在面对影视、动画等高标准场景时，常因难以匹配复杂的情绪爆发和精准口型而遭遇瓶颈。针对这一痛点，通义实验室正式发布并开源了首个影视级多场景配音多模态大模型——Fun-CineForge。突破“声画脱节”:四大严苛维度的协同不同于仅依赖文字转语音的传统模型，Fun-CineForge 旨在攻克影视制作中的四大核心挑战: 口型同步: 实现合成语音与画面唇部运动的高度一致。情绪表达: 结合面部形象与指令描述，赋予声音拟人化的情感深度。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-16",
-    "原文链接": "https://www.aibase.com/zh/news/26251",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9b48da252eaa5393bdbb20a02e183318.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9b48da252eaa5393bdbb20a02e183318.jpg",
-    "配图仓库路径": "assets/news_images/9b48da252eaa5393bdbb20a02e183318.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0316/6390927149699474731436513.jpg"
-  },
-  {
-    "资讯标题": "字节跳动暂停Seedance2.0全球发布，法律合规挑战迫使AI视频模型延期",
-    "内容": "字节跳动暂停Seedance2.0全球发布，法律合规挑战迫使AI视频模型延期AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 16, 2026127字节跳动 近日传出已暂停其新一代AI视频生成模型 Seedance2.0 的全球发布计划。据 The Information 报道，尽管该模型已于今年2月在中国市场率先亮相，但原定于3月中旬开启的全球化进程因法律合规压力按下“暂停键”。Seedance2.0 此前凭借生成的极高逼真度视频在社交平台引发轰动，尤其是涉及汤姆·克鲁斯等影星的演示片段，在展现强大生成能力的同时，也迅速触发了影视行业的防御机制。迪士尼 等好莱坞制片方随即向字节跳动发出大量停止侵权通知函，指责其模型存在掠夺知识产权的风险。",
-    "来源站点": "AIbase",
-    "来源": "AIbase",
-    "发布日期": "2026-03-16",
-    "原文链接": "https://www.aibase.com/zh/news/26215",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2d2b064912632ba3b90fea3261c78ad4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2d2b064912632ba3b90fea3261c78ad4.jpg",
-    "配图仓库路径": "assets/news_images/2d2b064912632ba3b90fea3261c78ad4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201908052105504517_4.jpg"
   }
 ]
