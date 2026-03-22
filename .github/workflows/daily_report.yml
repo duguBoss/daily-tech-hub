@@ -51,8 +51,10 @@ jobs:
           mkdir -p data
           mkdir -p assets/news_images
           touch data/daily_ai_news.json
+          touch data/daily_ai_news_weixin.json
 
           git add data/daily_ai_news.json
+          git add data/daily_ai_news_weixin.json
           git add assets/news_images
 
           if git diff --staged --quiet; then

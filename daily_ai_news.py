@@ -24,6 +24,7 @@ logging.basicConfig(
 WORKDIR = Path(__file__).resolve().parent
 OUTPUT_DIR = WORKDIR / "data"
 OUTPUT_FILE = OUTPUT_DIR / "daily_ai_news.json"
+WEIXIN_TEMPLATE_FILE = OUTPUT_DIR / "daily_ai_news_weixin.json"
 IMAGE_DIR = WORKDIR / "assets" / "news_images"
 
 AI_BOT_URL = "https://ai-bot.cn/daily-ai-news/"
@@ -1011,11 +1012,10 @@ def build_weixin_html_template_alt(items: List[Dict]) -> Tuple[str, str]:
     return html_content, first_title
 
 
-def build_output_payload(items: List[Dict]) -> Dict:
+def build_weixin_payload(items: List[Dict]) -> Dict:
     html_content_v1, first_title = build_weixin_html_template(items)
     html_content_v2, first_title_v2 = build_weixin_html_template_alt(items)
     return {
-        "items": items,
         "wexinhtml": html_content_v2,
         "wexinhtml1": html_content_v1,
         "key1": first_title or first_title_v2,
@@ -1046,8 +1046,12 @@ def main() -> None:
         logging.warning("没有抓取到可验证的完整新闻数据，保留现有输出并退出。")
         if not OUTPUT_FILE.exists():
             with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
-                json.dump(build_output_payload([]), file, ensure_ascii=False, indent=2)
+                json.dump([], file, ensure_ascii=False, indent=2)
             logging.info("已写入空结果文件: %s", OUTPUT_FILE)
+        if not WEIXIN_TEMPLATE_FILE.exists():
+            with open(WEIXIN_TEMPLATE_FILE, "w", encoding="utf-8") as file:
+                json.dump(build_weixin_payload([]), file, ensure_ascii=False, indent=2)
+            logging.info("已写入空模板文件: %s", WEIXIN_TEMPLATE_FILE)
         return
     filtered_items = heuristic_dedupe(all_items)
     rewritten_items = rewrite_items_to_chinese(filtered_items)
@@ -1062,11 +1066,12 @@ def main() -> None:
     final_items = sort_items(downloaded_items)
     if not final_items:
         raise RuntimeError("图片下载后没有留下完整有效数据。")
-    output_payload = build_output_payload(final_items)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
-        json.dump(output_payload, file, ensure_ascii=False, indent=2)
+        json.dump(final_items, file, ensure_ascii=False, indent=2)
+    with open(WEIXIN_TEMPLATE_FILE, "w", encoding="utf-8") as file:
+        json.dump(build_weixin_payload(final_items), file, ensure_ascii=False, indent=2)
     logging.info("完成，最终输出 %s 条新闻到 %s", len(final_items), OUTPUT_FILE)
-    logging.info("微信模板字段 wexinhtml1 已写入 %s", OUTPUT_FILE)
+    logging.info("微信模板字段 wexinhtml/wexinhtml1 已写入 %s", WEIXIN_TEMPLATE_FILE)
 
 
 if __name__ == "__main__":
