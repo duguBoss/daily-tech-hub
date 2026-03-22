@@ -40,6 +40,7 @@ REQUEST_TIMEOUT = 30
 MIN_CONTENT_LENGTH = 80
 MAX_CONTENT_LENGTH = 360
 TARGET_CONTENT_LENGTH = 300
+FETCH_DAYS = max(2, int(os.environ.get("FETCH_DAYS", "4")))
 SHANGHAI_TZ = ZoneInfo("Asia/Shanghai")
 REQUEST_HEADERS = {
     "User-Agent": (
@@ -140,7 +141,7 @@ def fetch_html(session: requests.Session, url: str) -> str:
 
 
 def parse_target_dates(days: int = 2) -> List[datetime.date]:
-    today = datetime.now().date()
+    today = datetime.now(SHANGHAI_TZ).date()
     return [today - timedelta(days=offset) for offset in range(days)]
 
 
@@ -394,7 +395,7 @@ def is_valid_item(title: str, content: str, image: str) -> bool:
 def parse_ai_bot(session: requests.Session, target_dates: List[datetime.date]) -> List[Dict]:
     logging.info("抓取 AI工具集日报: %s", AI_BOT_URL)
     html_text = fetch_html(session, AI_BOT_URL)
-    today = datetime.now()
+    today = datetime.now(SHANGHAI_TZ)
     results: List[Dict] = []
     blocks = html_text.split('<div class="news-list">')[1:]
     item_pattern = re.compile(
@@ -496,6 +497,28 @@ def parse_aibase_ailog_items(raw_ailoglist: str) -> List[Dict]:
     return items
 
 
+def parse_aibase_addtime(value: str) -> Optional[datetime.date]:
+    text = compact_text(value)
+    if not text:
+        return None
+    try:
+        if text.endswith("Z"):
+            text = text[:-1] + "+00:00"
+        parsed = datetime.fromisoformat(text)
+        if parsed.tzinfo:
+            return parsed.astimezone(SHANGHAI_TZ).date()
+        return parsed.date()
+    except ValueError:
+        pass
+    match = re.search(r"(\d{4})[/-](\d{1,2})[/-](\d{1,2})", text)
+    if not match:
+        return None
+    try:
+        return datetime(int(match.group(1)), int(match.group(2)), int(match.group(3))).date()
+    except ValueError:
+        return None
+
+
 def parse_aibase(session: requests.Session, target_dates: List[datetime.date]) -> List[Dict]:
     logging.info("抓取 AIbase 日报: %s", AIBASE_DAILY_URL)
     html_text = fetch_html(session, AIBASE_DAILY_URL)
@@ -503,9 +526,8 @@ def parse_aibase(session: requests.Session, target_dates: List[datetime.date]) -
     cards = parse_aibase_daily_cards(segment)
     results: List[Dict] = []
     for card in cards:
-        try:
-            card_date = datetime.strptime(card["addtime"], "%Y/%m/%d %H:%M:%S").date()
-        except ValueError:
+        card_date = parse_aibase_addtime(card["addtime"])
+        if not card_date:
             continue
         if card_date not in target_dates:
             continue
@@ -948,17 +970,31 @@ def build_output_payload(items: List[Dict]) -> Dict:
     }
 
 
+def collect_raw_items(session: requests.Session, target_dates: List[datetime.date]) -> List[Dict]:
+    items: List[Dict] = []
+    items.extend(parse_ai_bot(session, target_dates))
+    items.extend(parse_aibase(session, target_dates))
+    return items
+
+
 def main() -> None:
     ensure_dirs()
     cleanup_images_if_saturday()
     require_gemini_api_key()
-    target_dates = parse_target_dates(days=2)
+    target_dates = parse_target_dates(days=FETCH_DAYS)
     session = build_session()
-    all_items: List[Dict] = []
-    all_items.extend(parse_ai_bot(session, target_dates))
-    all_items.extend(parse_aibase(session, target_dates))
+    all_items = collect_raw_items(session, target_dates)
+    if not all_items and FETCH_DAYS < 7:
+        fallback_days = 7
+        logging.warning("近 %s 天无数据，自动扩大抓取窗口到近 %s 天重试。", FETCH_DAYS, fallback_days)
+        all_items = collect_raw_items(session, parse_target_dates(days=fallback_days))
     if not all_items:
-        raise RuntimeError("没有抓取到可验证的完整新闻数据。")
+        logging.warning("没有抓取到可验证的完整新闻数据，保留现有输出并退出。")
+        if not OUTPUT_FILE.exists():
+            with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
+                json.dump(build_output_payload([]), file, ensure_ascii=False, indent=2)
+            logging.info("已写入空结果文件: %s", OUTPUT_FILE)
+        return
     filtered_items = heuristic_dedupe(all_items)
     rewritten_items = rewrite_items_to_chinese(filtered_items)
     if not rewritten_items:
