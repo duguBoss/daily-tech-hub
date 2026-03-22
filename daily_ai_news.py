@@ -959,12 +959,66 @@ def build_weixin_html_template(items: List[Dict]) -> Tuple[str, str]:
     return html_content, first_title
 
 
+def build_weixin_html_template_alt(items: List[Dict]) -> Tuple[str, str]:
+    if not items:
+        return "", ""
+
+    title_list_html = ""
+    content_html = ""
+    title_list: List[str] = []
+
+    for index, item in enumerate(items, 1):
+        title_raw = compact_text(item.get("资讯标题", ""))
+        content_raw = compact_text(item.get("内容", ""))
+        if not title_raw or not content_raw:
+            continue
+        title_list.append(title_raw)
+        title = html.escape(title_raw, quote=True)
+        content = html.escape(content_raw, quote=True)
+        title_list_html += (
+            '<section style="display:flex;align-items:flex-start;margin:0 0 10px;padding:10px 12px;background:#fff;border:1px solid #dbe4ff;border-radius:10px;">'
+            f'<span style="display:inline-block;min-width:28px;height:28px;line-height:28px;text-align:center;border-radius:50%;background:#1f57ff;color:#fff;font-size:13px;font-weight:700;margin-right:10px;">{index:02d}</span>'
+            f'<span style="font-size:15px;line-height:1.6;color:#13213a;font-weight:600;">{title}</span>'
+            "</section>"
+        )
+        content_html += (
+            '<section style="margin:14px 0;padding:16px;background:#fff;border:1px solid #dbe4ff;border-radius:12px;box-shadow:0 4px 14px rgba(20,61,173,.06);">'
+            f'<section style="font-size:17px;line-height:1.45;color:#0f1f4a;font-weight:700;margin-bottom:10px;">{index:02d}. {title}</section>'
+            f'<section style="font-size:15px;line-height:1.9;color:#25344f;text-align:justify;">{content}</section>'
+            "</section>"
+        )
+
+    first_title = title_list[0] if title_list else ""
+    html_content = (
+        '<section style="background:#f3f7ff;padding:20px 12px 26px;font-family:-apple-system,BlinkMacSystemFont,\'Helvetica Neue\',\'PingFang SC\',\'Microsoft YaHei\',sans-serif;">'
+        '<section style="background:linear-gradient(135deg,#0f3cc9,#2d6bff);padding:18px 14px;border-radius:14px;color:#fff;text-align:center;letter-spacing:.5px;">'
+        '<section style="font-size:23px;font-weight:800;line-height:1.2;">AI 科技快报</section>'
+        '<section style="font-size:12px;opacity:.92;margin-top:6px;">AI TECH BRIEF</section>'
+        "</section>"
+        '<section style="margin-top:16px;padding:14px 12px;background:#edf3ff;border:1px solid #d4e1ff;border-radius:12px;">'
+        '<section style="font-size:16px;font-weight:700;color:#12306f;margin-bottom:10px;">今日要点</section>'
+        f"{title_list_html}"
+        "</section>"
+        '<section style="margin-top:16px;">'
+        '<section style="font-size:16px;font-weight:700;color:#12306f;margin-bottom:8px;">详细速览</section>'
+        f"{content_html}"
+        "</section>"
+        "</section>"
+    )
+    html_content = re.sub(r"<!--.*?-->", "", html_content, flags=re.S)
+    html_content = re.sub(r"\s+", " ", html_content)
+    html_content = re.sub(r">\s+<", "><", html_content).strip()
+    return html_content, first_title
+
+
 def build_output_payload(items: List[Dict]) -> Dict:
-    html_content, first_title = build_weixin_html_template(items)
+    html_content_v1, first_title = build_weixin_html_template(items)
+    html_content_v2, first_title_v2 = build_weixin_html_template_alt(items)
     return {
         "items": items,
-        "wexinhtml1": html_content,
-        "key1": first_title,
+        "wexinhtml": html_content_v2,
+        "wexinhtml1": html_content_v1,
+        "key1": first_title or first_title_v2,
         "count": len(items),
         "generated_at": datetime.now(SHANGHAI_TZ).isoformat(timespec="seconds"),
     }
