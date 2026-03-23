@@ -1,7 +1,87 @@
 [
   {
-    "资讯标题": "阿里发布通义千问 Qwen3.5-Max-Preview，LM Arena排名跃升全球第五",
-    "内容": "3月20日，阿里通义千问发布旗舰级模型 Qwen3.5-Max-Preview，并在国际权威评测平台 LM Arena 取得1464分的综合得分，位列全球大模型公司排行榜第五位，稳居中国模型首位。该模型在数学能力、综合性能及复杂文本处理方面均跻身全球前十。Qwen3.5-Max-Preview 延续了该系列“小激活、大性能”的架构优势，在保持高效运行的同时实现了高性能表现。自除夕以来，Qwen3.5系列已开源从0.8B到397B共8种参数规模的模型。目前，Qwen3.5-Max-Preview 已作为预览版开放，阿里云将根据开发者社区反馈持续进行迭代优化。此次排名提升标志着国产大模型在国际顶尖竞技场中已进入第一梯队，进一步增强了国产模型在全球人工智能版图中的技术话语权。",
+    "资讯标题": "蚂蚁集团旗下上海云玚入股深圳跃然创新，加码AI玩具赛道布局",
+    "内容": "蚂蚁科技集团股份有限公司旗下全资子公司上海云玚企业管理咨询有限公司，近日正式入股深圳跃然创新科技有限公司，并推动该公司注册资本增至316.52万元。跃然创新成立于2021年，是一家专注于AI交互技术的初创企业，核心业务涵盖自研算法与硬件结合的智能化玩具开发，旨在实现与儿童的深度逻辑对话及情感互动。此次入股标志着蚂蚁集团正式切入AI玩具这一高频交互消费电子场景。蚂蚁集团将利用其在底层算力、数字支付及安全合规领域的生态积淀，为跃然创新的AI玩具产品提供后台支持。行业分析认为，随着生成式AI技术推动玩具产业从传统模式向智能陪伴转型，蚂蚁集团的入局将加速AI技术在终端消费电子领域的商业化落地，并进一步重塑AI玩具赛道的竞争格局。",
+    "发布日期": "2026-03-23",
+    "原文链接": "https://www.aibase.com/zh/news/26467",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "配图仓库路径": "assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308091546512360_0.jpg"
+  },
+  {
+    "资讯标题": "腾讯正式开启“腾讯AI问股”小程序限量内测，大模型接入证券咨询服务",
+    "内容": "腾讯近日正式开启“腾讯AI问股”小程序的限量内测，该产品由腾讯科技（北京）有限公司开发，旨在利用底层AI大模型能力，为投资者提供证券业务范畴内的专业咨询服务。目前该功能仅对受邀的“内测体验官”开放。作为腾讯理财生态的战略补充，“腾讯AI问股”与腾讯自选股、腾讯微证券及理财通形成协同，通过智能化交互降低投资决策门槛。在行业竞争层面，腾讯凭借微信生态的流量与触达优势入局，被视为搅动互联网券商与投顾市场的“鲶鱼”。此举不仅将加剧市场竞争，更有望倒逼行业加速AI技术迭代，推动财富管理从信息索引向深度决策辅助转型，标志着腾讯在互联网财富管理链路中补齐了智能服务短板。",
+    "发布日期": "2026-03-23",
+    "原文链接": "https://www.aibase.com/zh/news/26458",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c84393489a09e530748c3f9d0ea5ec3f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c84393489a09e530748c3f9d0ea5ec3f.jpg",
+    "配图仓库路径": "assets/news_images/c84393489a09e530748c3f9d0ea5ec3f.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0323/6390987182883057129987647.jpg"
+  },
+  {
+    "资讯标题": "美团开源5600亿参数MoE数学证明模型LongCat-Flash-Prover",
+    "内容": "美团正式开源5600亿参数的MoE模型LongCat-Flash-Prover，该模型专注于Lean4形式化数学推理任务。LongCat-Flash-Prover通过Agentic工具集成推理（TIR）技术，将复杂任务拆解为自动形式化、草图生成和定理证明三大核心能力。在训练架构上，该模型采用混合专家迭代框架，并结合HisPO强化学习算法以提升训练稳定性，同时引入防作弊机制保障推理过程的严谨性。性能表现方面，LongCat-Flash-Prover在MiniF2F-Test基准测试中达到SOTA水平，Pass@32准确率高达93.9%，在PutnamBench难题解决率上达到28.9%，显著超越现有开源模型。此次开源为形式化数学推理领域提供了高性能基座，有助于推动自动化定理证明技术的进一步发展与应用。",
+    "发布日期": "2026-03-23",
+    "原文链接": "https://ai-bot.cn/longcat-flash-prover/",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/58edf592e124eedffd0ec63540a0a2c5.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/58edf592e124eedffd0ec63540a0a2c5.png",
+    "配图仓库路径": "assets/news_images/58edf592e124eedffd0ec63540a0a2c5.png",
+    "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2026/03/LongCat-Flash-Prover-website.png"
+  },
+  {
+    "资讯标题": "网易云音乐全面接入 OpenClaw 生态，上线业内首个 AI Agent 音乐服务接口",
+    "内容": "网易云音乐正式宣布全面接入 OpenClaw 生态，将音乐推荐、搜索等核心能力封装为标准化 CLI 及自动化 Skill，成为业内首个向 AI Agent 深度开放核心服务能力的音乐平台。此次升级改变了传统数字音乐交互逻辑，开发者及用户可通过 IM 窗口以自然语言对话形式，远程调用并自由组合网易云音乐的底层服务。这些模块化的“音乐组件”可无缝嵌入数字空间与智能硬件，实现从“人找歌”到“意图驱动”的交互跨越。此举标志着音乐流媒体服务正从独立 App 形态向泛在化 AI 插件转型，通过开放标准化 API 与 Skill，音乐平台能快速接入车载、家居及办公等多元智能场景，在提升服务触达效率的同时，也为 AI 生态开发者提供了高质量的垂直领域素材。",
+    "发布日期": "2026-03-23",
+    "原文链接": "https://www.aibase.com/zh/news/26463",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0ed55d697ac4d599a7c4c7a23e9af680.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0ed55d697ac4d599a7c4c7a23e9af680.jpg",
+    "配图仓库路径": "assets/news_images/0ed55d697ac4d599a7c4c7a23e9af680.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201910212231453867_7.jpg"
+  },
+  {
+    "资讯标题": "字节跳动发布Seedance 2.0视频生成模型，登顶Artificial Analysis榜单",
+    "内容": "字节跳动正式在全球推出AI视频生成模型Seedance 2.0。该模型采用多模态统一架构，支持文本、图像、音频及视频多输入方式，可生成最高1080p分辨率的高保真视频，并实现原生音视频同步。在Artificial Analysis独立盲测排行榜中，Seedance 2.0以1269的Elo分数位居Text-to-Video类别榜首，在Image-to-Video领域亦领先于Google Veo3、OpenAI Sora及Kling等竞品。Seedance 2.0在复杂物理模拟、人物一致性及相机运动控制方面表现突出，适用于短视频、广告及影视制作。目前，用户可通过国际版Dreamina网页端、CapCut桌面版及移动端访问该模型。此次全球部署旨在降低高质量内容生产门槛，未来API的开放将进一步赋能开发者与企业级应用",
+    "发布日期": "2026-03-23",
+    "原文链接": "https://www.aibase.com/zh/news/26464",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ea0119180b41746c4949d04db8e6b6cb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ea0119180b41746c4949d04db8e6b6cb.jpg",
+    "配图仓库路径": "assets/news_images/ea0119180b41746c4949d04db8e6b6cb.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0323/6390987742567593804380989.jpg"
+  },
+  {
+    "资讯标题": "千问上线打车Skill功能，支持自然语言预约与个性化车辆匹配",
+    "内容": "3月23日，千问正式上线打车Skill，用户可通过自然语言一句话完成选车型、添加途经点及预约时间等操作。该功能支持“空气清新”、“驾驶平稳”等个性化需求匹配，并能自动识别复杂场景，如根据人数自动匹配商务车或为病人乘客筛选平稳驾驶车辆。在交互层面，千问支持行程中途添加途经点，并可与点外卖、订机酒等既有能力串联，实现跨服务执行。此外，系统具备记忆功能，支持“打车回家”等快捷指令及预约用车。行程结束后，用户可通过“支付宝AI付”完成支付。此次打车能力的接入，标志着千问“AI办事”功能向复杂生活场景的进一步延伸，通过理解用户意图实现更精准的出行服务。",
+    "发布日期": "2026-03-23",
+    "原文链接": "https://www.aibase.com/zh/news/26439",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7d6fc77723907e94a43baa2de69bde53.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7d6fc77723907e94a43baa2de69bde53.png",
+    "配图仓库路径": "assets/news_images/7d6fc77723907e94a43baa2de69bde53.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0323/6390985518879566411853009.png"
+  },
+  {
+    "资讯标题": "MiniMax升级推出Token Plan订阅计划，全面支持M2.7及全模态模型调用",
+    "内容": "MiniMax于2026年3月23日正式将Coding Plan升级为Token Plan，推出全球首个支持全模态模型的订阅计划。用户通过统一的Token Plan Key，即可调用包括M2.7编程模型、Hailuo视频模型、Speech语音模型、Music音乐模型及Image图像生成模型在内的全系多模态能力。在架构上，该计划延续了原编程模型用量标准，并为Plus及以上套餐用户新增独立的多模态调用额度。针对高并发需求，MiniMax同步推出Speech2.8及Hailuo2.3/2.3-Fast专用资源包，较按量付费模式成本降低约20%。为应对流量高峰，MiniMax引入动态调控机制，建议超高并发任务使用按量付费API模式。此次升级标志着MiniMax从单一编程工具向全场景创作生态转型，通过整合多模态能力，降低",
+    "发布日期": "2026-03-23",
+    "原文链接": "https://www.aibase.com/zh/news/26453",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3b5fbfdcfd40194bb0529c09751f1089.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3b5fbfdcfd40194bb0529c09751f1089.jpg",
+    "配图仓库路径": "assets/news_images/3b5fbfdcfd40194bb0529c09751f1089.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0323/6390986147510488121614510.jpg"
+  },
+  {
+    "资讯标题": "MiniMax 宣布旗下 AI Agent 产品 MaxClaw 正式接入个人微信",
+    "内容": "3月23日，MiniMax正式宣布旗下AI Agent产品MaxClaw已实现对个人微信端的接入支持。此次更新标志着MaxClaw完成了主流即时通讯工具的全面覆盖，目前已支持个人微信、企业微信、飞书、钉钉、Telegram及WhatsApp。通过将AI智能体直接嵌入用户日常社交与办公场景，MiniMax旨在降低AI使用门槛，为个人用户及小型团队提供更灵活的自动化办公解决方案。针对接入微信等社交平台的合规性问题，国家互联网应急中心已发布OpenClaw安全使用实践指南，引导开发者规范化利用AI插件能力。此次全渠道渗透不仅推动了MaxClaw从单一工具向常驻社交伙伴的转型，也进一步加速了AI智能体在即时通讯生态中的普及与应用。",
+    "发布日期": "2026-03-23",
+    "原文链接": "https://www.aibase.com/zh/news/26459",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "配图仓库路径": "assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308091546512360_0.jpg"
+  },
+  {
+    "资讯标题": "阿里发布通义千问 Qwen3.5-Max-Preview 模型，LM Arena 排名跃升全球第五",
+    "内容": "3月20日，阿里通义千问发布旗舰级模型 Qwen3.5-Max-Preview，并在全球大模型竞技平台 LM Arena 取得 1464 分的综合得分，位列全球第五，稳居中国大模型公司首位。该模型在数学能力、综合性能及复杂文本处理方面均跻身全球前十，展现了极强的逻辑推理与处理能力。Qwen3.5-Max-Preview 延续了该系列“小激活、大性能”的架构优势，在保持高效运行的同时实现了高性能表现。自除夕以来，Qwen3.5 系列已开源从 0.8B 到 397B 共 8 种参数规模的模型。目前，Qwen3.5-Max-Preview 已作为预览版开放，阿里云将根据开发者社区反馈持续进行迭代优化。此次排名提升标志着国产大模型在国际顶尖竞技场中已进入第一梯队，通过硬核性能表现进一步提升了在全球 AI 版图中的话语权",
     "发布日期": "2026-03-20",
     "原文链接": "https://www.aibase.com/zh/news/26393",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1fe5f2b583f543db515c20233eca82e1.png",
@@ -11,7 +91,7 @@
   },
   {
     "资讯标题": "谷歌启动macOS版Gemini原生应用Beta测试，引入桌面智能屏幕共享功能",
-    "内容": "谷歌近日正式启动macOS版Gemini原生应用的早期Beta测试，旨在通过深度整合苹果桌面操作系统，直接应对ChatGPT和Claude等竞品的桌面端竞争。该应用核心亮点在于引入“桌面智能”（Desktop Intelligence）功能，赋予Gemini深度理解用户桌面应用及屏幕内容的能力，预计将实现类似Android版Gemini Live的屏幕共享交互模式。测试版本已集成Nano Banana、Veo和Lyria模型，支持多媒体内容创建，并具备过往对话知识整合、上下文理解及实时网络搜索能力。相较于现有的PWA网页访问方式，原生应用将提供更深层次的系统级优化。目前该测试仅限受邀用户参与，谷歌尚未公布正式发布时间表。此举标志着Gemini正加速从移动端向桌面办公生态渗透，通过屏幕感知等差异化技术，进一步提升",
+    "内容": "谷歌近日正式启动macOS版Gemini原生应用程序的早期Beta测试，旨在通过深度整合苹果桌面操作系统，直接应对ChatGPT和Claude等竞品的桌面端竞争。该应用目前处于受邀测试阶段，核心亮点是引入“桌面智能”（Desktop Intelligence）功能，赋予Gemini深度理解桌面应用及屏幕内容的能力，预计将实现类似Gemini Live的屏幕共享交互模式。在多媒体创作方面，该应用集成了Nano Banana、Veo和Lyria等模型，支持过往对话的知识整合、上下文理解及实时网络搜索。相比现有的PWA访问方式，原生应用开发意味着谷歌正致力于提供更深层次的桌面AI优化体验。虽然谷歌尚未公布具体发布时间表，但该举措标志着生成式AI正加速从移动端向桌面办公生态渗透，桌面端AI应用竞争将进一步升级。",
     "发布日期": "2026-03-20",
     "原文链接": "https://www.aibase.com/zh/news/26407",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5660ecce34ff1d5cc899ef55ac4fa9a7.jpg",
@@ -20,18 +100,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202312070835429226_0.jpg"
   },
   {
-    "资讯标题": "设计软件独角兽Canva计划明年正式启动IPO并全面转型AI驱动生态",
-    "内容": "设计软件独角兽Canva计划于2027年正式启动IPO进程，标志着公司战略重心已从传统创意工具供应商全面转向AI驱动的内容创作生态系统。为应对OpenAI等巨头在工具类软件市场的竞争，Canva近期密集上线了一系列生成式AI功能，通过算法实现自动化排版、图像生成及创意协同，旨在降低个人用户及小型企业的专业设计门槛。Canva此前推迟上市并优先完成AI底层架构重组，旨在通过强化垂类AI设计能力筑牢护城河。此次IPO进程的启动，意味着Canva在人工智能转型路径上已进入关键的资本收割期，通过技术革新构建的AI生态将成为其上市后的核心竞争力。",
+    "资讯标题": "设计软件独角兽Canva拟于明年正式启动IPO进程",
+    "内容": "设计软件独角兽Canva计划于2027年正式启动IPO进程，此举标志着公司已进入AI转型后的资本收割期。Canva正致力于将平台从传统的创意工具供应商全面转型为AI驱动的内容创作生态系统。为应对OpenAI等巨头在工具类软件市场的竞争，Canva近期密集上线了一系列生成式AI功能，通过算法实现自动化排版、图像生成及创意协同，旨在降低个人及小型企业的设计门槛。此前，Canva推迟上市并优先完成AI底层架构重组，通过强化垂类AI设计能力筑牢护城河。此次IPO进程的推进，反映了Canva在AI技术重塑设计工作流背景下，对市场竞争力的深度布局与战略调整。",
     "发布日期": "2026-03-20",
     "原文链接": "https://www.aibase.com/zh/news/26409",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
-    "配图仓库路径": "assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202207271436142427_0.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "配图仓库路径": "assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308091546512360_0.jpg"
   },
   {
-    "资讯标题": "腾讯 QClaw 正式开启公测：无需邀请码，微信远程操控 PC 的 AI“小龙虾”来了",
-    "内容": "腾讯 QClaw 正式开启公测：无需邀请码，微信远程操控 PC 的 AI“小龙虾”来了AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 20, 2026290腾讯 AI 官方发布消息，宣布旗下 AI 助手产品QClaw正式进入开放公测阶段。此前仅限邀请的 beta 测试已结束，正式进入开放公测，用户无需任何邀请码即可直接下载使用。腾讯进一步介绍产品核心:“把🦞想象成 QClaw 里的数字小我。它能总结聊天、起草回复、安排会议、撰写文档。",
+    "资讯标题": "腾讯AI助手QClaw正式开启公测，支持微信远程操控PC与本地化部署",
+    "内容": "腾讯电脑管家团队研发的AI助手QClaw正式开启公测，用户无需邀请码即可下载使用。该产品基于开源OpenClaw框架，主打“微信直连+零门槛部署”，支持Mac与Windows系统。用户通过微信扫码绑定后，可在手机端远程操控PC执行网页搜索、文件读写、Shell命令、浏览器自动化及跨平台消息发送等任务。QClaw内置优质国产模型（含Kimi等），支持切换自定义模型，并接入ClawHub与GitHub生态，提供超5000种预定义技能。其核心优势在于微信生态的深度融合，通过语音或图片指令即可实现远程办公、文档处理及开发项目自动化。目前，QClaw公测期间Token费用由官方承担，用户可实现开箱即用，填补了普通用户对“能干活”AI Agent的需求，进一步强化了腾讯在本地AI助手赛道的布局。",
     "发布日期": "2026-03-20",
     "原文链接": "https://www.aibase.com/zh/news/26420",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7a30aa958a332fdd8c8c4390fd40bedd.png",
@@ -40,8 +120,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0320/6390961149643997505351872.png"
   },
   {
-    "资讯标题": "字节跳动旗下AI助手豆包开启内测，正式上线AI电商功能",
-    "内容": "2026年3月，字节跳动旗下AI助手豆包正式开启AI电商功能灰度测试，标志着大模型应用深度切入电商交易核心链路。该功能主打“一句话购物”体验，依托豆包大模型的自然语言理解与意图识别能力，用户仅需通过对话表达模糊需求，系统即可完成商品精准匹配、选购建议生成并直达下单页面。截至2025年底，豆包月活跃用户已达2.26亿，此次内测旨在将流量优势与抖音电商供应链深度整合，构建从内容心智到交易履约的全链路闭环。当前AI电商赛道竞争激烈，阿里、京东、美团等平台已实现规模化落地。随着豆包入局，电商交互范式正加速从“人找货”向“AI代办”转移，行业有望在2026年迎来AI购物规模化元年，但也面临信息幻觉、用户信任度及跨平台生态割裂等技术与商业挑战。",
+    "资讯标题": "字节跳动旗下豆包开启AI电商内测，主打一句话下单购物闭环",
+    "内容": "2026年3月，字节跳动旗下AI助手豆包正式开启AI电商功能灰度测试，标志着大模型应用深度切入电商交易核心链路。该功能依托豆包大模型的自然语言理解与意图识别能力，支持用户通过对话表达模糊需求，系统自动完成商品精准匹配、选购建议生成及直达下单页面的轻量化流程。截至2025年底，豆包月活跃用户已达2.26亿，此次内测旨在整合流量优势与抖音电商供应链，构建从内容心智到交易履约的全链路闭环。当前AI购物赛道竞争激烈，阿里、京东等平台已实现规模化落地。尽管行业仍面临信息幻觉、跨平台生态割裂等技术瓶颈，但随着豆包等应用的入局，电商范式正加速从“人找货”向“AI代办”转移，2026年有望成为AI购物规模化元年。",
     "发布日期": "2026-03-20",
     "原文链接": "https://www.aibase.com/zh/news/26405",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cb490bb7d1a56c43069058be7ed71dd6.jpg",
@@ -51,7 +131,7 @@
   },
   {
     "资讯标题": "Mistral AI 发布全能型大模型 Mistral Small 4，采用 MoE 架构并开源",
-    "内容": "Mistral AI 于3月16日正式发布全能型大模型 Mistral Small 4，该模型在单一架构内集成了旗舰级推理、多模态理解及编程能力。Mistral Small 4 采用 MoE（混合专家）架构，总参数量为 119B，激活参数仅 6B，支持 256k 超长上下文窗口，并以 Apache 2.0 协议开源。性能方面，该模型在延迟优化模式下端到端完成时间缩短 40%，吞吐优化模式下请求处理能力是 Small 3 的 3 倍，核心基准测试表现对标 GPT-OSS 120B。为保障运行效率，官方建议最低配置为 4× HGX H100 或 1× DGX B200，极致体验则推荐 4× HGX H200 或 2× DGX B200。此次发布旨在为开发者提供兼顾低延迟与高智能的统一解决方案，进一步强化了 Mist",
+    "内容": "Mistral AI 于 3 月 16 日正式发布 Mistral Small 4，这是其首款兼顾旗舰级推理、多模态理解及编程能力的全能型大模型。该模型采用 MoE（混合专家）架构，总参数量为 119B，激活参数仅 6B，支持 256k 超长上下文窗口，并以 Apache 2.0 协议开源。性能方面，在延迟优化模式下，端到端完成时间缩短 40%；吞吐优化模式下，每秒处理请求数是 Small 3 的 3 倍，核心基准测试表现不逊于 GPT-OSS 120B。Mistral Small 4 提供快速响应与深度推理两种模式，旨在降低企业级应用延迟。硬件部署方面，官方建议最低配置为 4× HGX H100 或 1× DGX B200，极致体验则推荐 4× HGX H200 或 2× DGX B200。此次发布标志着 M",
     "发布日期": "2026-03-20",
     "原文链接": "https://www.aibase.com/zh/news/26424",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f2ad765ebee54290379d1e503bdbd9a8.png",
@@ -60,8 +140,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0320/6390961664494611313103334.png"
   },
   {
-    "资讯标题": "ElevenLabs正式推出AI音乐交易市场并首创创作者分成商业模式",
-    "内容": "ElevenLabs于2026年3月19日正式上线AI音乐交易市场，允许用户利用ElevenCreative AI音乐模型创作、发布并销售曲目。该平台首创“创作者分成”模式，用户上传原创AI歌曲后，可从其他用户的下载、混音或授权行为中获取报酬。目前，ElevenLabs音乐模型已生成近1400万首歌曲。平台授权体系涵盖社交媒体、付费营销及线下使用三个层级，旨在满足内容创作者及游戏开发等多元需求。针对版权合规性，ElevenLabs在条款中明确不保证生成内容的独家性，且不提供法律担保，用户需自行承担第三方输出相似内容的风险。为规避侵权，平台严禁在提示词中使用真实艺人姓名或既有歌词。此举标志着ElevenLabs将语音克隆的变现模式拓展至音频全领域，试图通过内部商业闭环驱动AI内容的资产化，推动行业重心从模型竞赛转",
+    "资讯标题": "ElevenLabs正式推出AI音乐交易市场，首创创作者分成商业模式",
+    "内容": "ElevenLabs于2026年3月19日正式上线AI音乐交易市场，允许用户利用ElevenCreative AI音乐模型创作、发布并销售曲目。该平台首创“创作者分成”模式，用户上传原创AI歌曲后，可从其他用户的下载、混音或授权行为中获取收益。目前，ElevenLabs音乐模型已生成近1400万首歌曲。平台授权体系涵盖社交媒体、付费营销及线下使用三个层级，以满足内容创作者及游戏开发等多元需求。针对版权争议，ElevenLabs明确表示不保证生成内容的独家性，也不提供法律保护担保，用户需自行承担第三方输出相似内容的风险。为规避侵权，平台严禁使用真实艺人姓名或既有歌词作为提示词。此次布局标志着ElevenLabs将语音克隆的变现模式拓展至音频全领域，推动AI音乐从模型竞赛转向生态变现与存量激励。",
     "发布日期": "2026-03-20",
     "原文链接": "https://www.aibase.com/zh/news/26415",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/add718e8c989a255705e30aea1abbd31.jpg",
@@ -71,102 +151,12 @@
   },
   {
     "资讯标题": "Cursor 发布 Composer 2 编程模型，性能对标 GPT-5 且成本降低 90%",
-    "内容": "AI 代码编辑器 Cursor 正式发布第二代自研编程模型 Composer 2。根据 CursorBench 评测，Composer 2 得分从前代的 44.2 提升至 61.3，性能超越 Claude Opus 4.6（58.2），并紧追 GPT-5.4 Thinking（63.9）。该模型采用纯代码数据强化学习策略，专精于长程编码任务。在定价方面，Composer 2 标准版输入成本仅为每百万 Token 0.50 美元，较 Claude Opus 4.6 的 5.00 美元降幅达 90%。Cursor 联合创始人 Aman Sanger 表示，此举旨在摆脱对 OpenAI 和 Anthropic 等底层模型 API 的高度依赖，通过构建从编辑器到模型底座的完整护城河，应对竞争对手在 AI 编程领域的低价",
+    "内容": "AI 代码编辑器 Cursor 正式发布第二代自研编程大模型 Composer 2。根据 CursorBench 评测，Composer 2 得分达 61.3，超越 Claude Opus 4.6（58.2），并紧追 GPT-5.4 Thinking（63.9）。该模型采用纯代码数据强化学习策略，专精于长程编码任务。在定价方面，Composer 2 标准版输入成本仅为每百万 Token 0.50 美元，较 Claude Opus 4.6 的 5.00 美元降幅达 90%。Cursor 联合创始人 Aman Sanger 表示，此举旨在摆脱对 OpenAI 和 Anthropic 等底层模型 API 的依赖，通过构建从编辑器到模型底座的完整技术栈，应对竞争对手在 AI 编程领域的直接竞争。目前 Cursor 拥有",
     "发布日期": "2026-03-20",
     "原文链接": "https://www.aibase.com/zh/news/26417",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3c9caa725e7209070b3a41493e389967.png",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3c9caa725e7209070b3a41493e389967.png",
     "配图仓库路径": "assets/news_images/3c9caa725e7209070b3a41493e389967.png",
     "原始配图链接": "https://upload.chinaz.com/2026/0320/6390960242591921529959298.png"
-  },
-  {
-    "资讯标题": "阿里巴巴成立Alibaba Token Hub事业群并立项悟空AI原生工作平台",
-    "内容": "3月16日，阿里巴巴宣布成立Alibaba Token Hub (ATH) 事业群，由集团CEO吴泳铭亲自挂帅。该事业群整合了通义实验室、MaaS业务线、千问事业部、AI创新事业部及新成立的“悟空”事业部。作为核心突围产品，“悟空”定位为全球首个企业级AI原生工作平台，其核心逻辑在于通过Agent自主执行复杂任务，而非仅限于文本生成。该平台深度集成钉钉，旨在将AI嵌入企业工作流，并内置三大核心能力及覆盖十大行业的解决方案。此次组织架构调整标志着阿里AI战略从“卖模型”向“卖工作流”的商业模式转型，试图通过构建Token消耗闭环，解决大模型商业变现滞后的行业痛点，推动AI从成本中心向利润中心跨越。",
-    "发布日期": "2026-03-19",
-    "原文链接": "https://www.aibase.com/zh/news/26378",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
-    "配图仓库路径": "assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202207271436142427_0.jpg"
-  },
-  {
-    "资讯标题": "蚂蚁数科发布蚁天鉴2.0龙虾卫士，上线Claw安全套件1.0",
-    "内容": "蚂蚁数科于3月19日正式发布“蚁天鉴2.0-龙虾卫士”AI安全防护体系，并同步上线Claw安全套件1.0，旨在解决OpenClaw等自主执行型AI带来的权限越界、记忆污染及算力滥用等安全风险。该套件聚焦三大核心能力：通过精准识别拦截恶意诱导以对抗思想变异；基于CALIR五维模型框架对Skills插件进行合规扫描与行为审计；通过实时风险舆情播报实现安全态势感知。蚂蚁数科同步启动“龙虾AI安全守护计划”，为首批100家合作企业提供3个月、总计20万次的免费防护调用服务。蚂蚁数科大模型安全技术目前已入选IDC《中国大模型安全市场图谱》，在金融合规及越狱攻击等场景下达到SOTA效果，具备0-Day泛化修复能力。此举旨在为企业提供可解释、可控制、可追溯的AI智能体安全基石，推动AI生产力变革下的安全治理。",
-    "发布日期": "2026-03-19",
-    "原文链接": "https://www.aibase.com/zh/news/26386",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/176925c24470d9cf2ca1d0e5245af34c.png",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/176925c24470d9cf2ca1d0e5245af34c.png",
-    "配图仓库路径": "assets/news_images/176925c24470d9cf2ca1d0e5245af34c.png",
-    "原始配图链接": "https://upload.chinaz.com/2026/0319/6390953110045526183082564.png"
-  },
-  {
-    "资讯标题": "联想发布天禧AI Claw并开启内测，同步推出小新Pad Pro13 AI平板",
-    "内容": "3月18日，联想正式发布天禧AI Claw并启动内测，同时推出首款支持一键部署该系统的硬件新品——联想小新Pad Pro13。天禧AI Claw作为云主机产品，主打“零成本部署”与“开箱即用”，用户无需安装配置即可进入AI交互环境。该系统预置了覆盖办公、学习、娱乐等场景的专属Skills体系，通过全家桶式的插件集成，将碎片化功能转化为体系化能力。配套的小新Pad Pro13精准锚定AI学习场景，内置自动化笔记整理Skills，支持课件整理与知识点归纳的自动化处理。联想此次通过“端云一体”的软硬协同策略，旨在降低大众用户的使用门槛，推动AI应用从技术尝鲜向国民化普及阶段转型，将复杂的AI技术转化为触手可及的生产力工具。",
-    "发布日期": "2026-03-19",
-    "原文链接": "https://www.aibase.com/zh/news/26380",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5835db7e3cefd73d415c1d4b7bef8466.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5835db7e3cefd73d415c1d4b7bef8466.jpg",
-    "配图仓库路径": "assets/news_images/5835db7e3cefd73d415c1d4b7bef8466.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201811190949032329_8.jpg"
-  },
-  {
-    "资讯标题": "小米发布自研语音合成大模型 MiMo-V2-TTS，支持多情感与方言歌唱",
-    "内容": "3月19日，小米正式发布自研语音合成大模型 Xiaomi MiMo-V2-TTS。该模型基于自研 Audio Tokenizer 与多码本语音-文本联合建模架构，经上亿小时语音数据预训练，具备多粒度语音风格控制能力。在功能表现上，MiMo-V2-TTS 支持细腻的情感表达，能在单句内实现语气转折；具备高质量歌声合成能力，可精准还原音高与节奏；同时覆盖东北话、四川话、河南话、粤语及台湾腔等多种方言。该模型通过智能识别文本中的标点、语气词及强调标记，实现自动化语音表达，无需用户额外标注。小米计划后续将该模型与 MiMo-V2-Omni 多模态理解能力深度融合，并扩展至更多语种，旨在提升小米生态智能设备的交互体验，使其具备更强的“人味儿”与情感感染力。",
-    "发布日期": "2026-03-19",
-    "原文链接": "https://www.aibase.com/zh/news/26348",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/95ff81514e5c1f78715ff9826d13d490.png",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/95ff81514e5c1f78715ff9826d13d490.png",
-    "配图仓库路径": "assets/news_images/95ff81514e5c1f78715ff9826d13d490.png",
-    "原始配图链接": "https://upload.chinaz.com/2026/0319/6390950707394652494400384.png"
-  },
-  {
-    "资讯标题": "小云雀AI上线短剧Agent并搭载Seedance2.0，支持10万字剧本一键成片",
-    "内容": "3月19日，字节跳动旗下小云雀AI正式上线“短剧Agent”功能，成为全球首个搭载Seedance2.0算法的行业智能体。该Agent核心突破在于“故事理解”与“全局角色管理”能力，支持用户上传最高10万字的剧本，实现从剧本创作到视频成片的全流程自动化。在当前微短剧市场爆发及算力成本波动的背景下，Seedance2.0通过强化多模态理解与长文本处理能力，推动AI视频生产从单纯视觉生成向深度逻辑理解进化。华策影视、柠萌影视等头部公司已计划通过小云雀AI探索AI赋能内容创作的新路径。此次技术迭代标志着影视工业化进入“效率与匠心共生”的新阶段，将显著降低长篇叙事内容的数字化门槛，并重构短视频内容的供给侧生态。",
-    "发布日期": "2026-03-19",
-    "原文链接": "https://www.aibase.com/zh/news/26387",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a3c15018be000d14bd3736a18c5ea617.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a3c15018be000d14bd3736a18c5ea617.jpg",
-    "配图仓库路径": "assets/news_images/a3c15018be000d14bd3736a18c5ea617.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202303221104492061_0.jpg"
-  },
-  {
-    "资讯标题": "Midjourney V8开启测试：生成速度提升5倍并支持原生2K渲染",
-    "内容": "3月18日，Midjourney正式发布V8模型早期版本。此次架构更新显著提升了生成效率，图像生成速度较前代提升约5倍。功能方面，V8引入原生2K分辨率渲染的--hd模式，并新增--q4参数以增强图像连贯性。技术上，该模型优化了长文本指令遵循能力，特别是在图像内嵌文本渲染中通过引号识别提升了准确率。Midjourney坚持纯扩散模型架构，在处理极高逻辑要求的抽象指令时仍存在局限，官方建议用户配合--raw模式或风格参考功能使用。成本方面，运行高清及高连贯性模式时，单次作业耗时与费用均达到标准模式的4倍，且首发阶段暂不支持“放松模式”。Midjourney V8的发布标志着纯扩散模型在效率极限上的突破，但也反映出其在面对复杂逻辑控制需求时，相较于自回归混合架构模型所面临的算力溢价与技术挑战。",
-    "发布日期": "2026-03-19",
-    "原文链接": "https://www.aibase.com/zh/news/26373",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/76e8de55c44342cf4bdc8504e3c8bda2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/76e8de55c44342cf4bdc8504e3c8bda2.jpg",
-    "配图仓库路径": "assets/news_images/76e8de55c44342cf4bdc8504e3c8bda2.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0319/6390951600977621418324210.jpg"
-  },
-  {
-    "资讯标题": "Google Labs 发布 Stitch 重大更新，转型为 AI 原生软件设计工作台",
-    "内容": "2026年3月18日，Google Labs 发布 Stitch 重大更新，将产品定位从 UI 生成工具升级为“AI 原生软件设计画布”。此次升级核心包含五大功能：一是支持图片、文本、代码多模态输入的 AI 原生无限画布；二是具备项目级理解能力的 Agent Manager，支持多方向并行设计；三是深度集成语音交互的“Vibe Design”模式，支持实时修改与评审；四是静态设计秒变交互原型的即时原型生成功能；五是引入 DESIGN.md 标准，通过 Markdown 格式实现设计系统的一致性管理与复用。Stitch 现已支持从需求文档、手绘草图到代码片段的智能整合，并能自动推断交互逻辑。此次进化使 Stitch 从单纯的辅助工具转变为深度参与从意图捕捉到原型验证全流程的智能工作台，显著降低了设计门槛，并重塑了",
-    "发布日期": "2026-03-19",
-    "原文链接": "https://www.aibase.com/zh/news/26361",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/306acab8f34dc8bef900a737a717d1cd.png",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/306acab8f34dc8bef900a737a717d1cd.png",
-    "配图仓库路径": "assets/news_images/306acab8f34dc8bef900a737a717d1cd.png",
-    "原始配图链接": "https://upload.chinaz.com/2026/0319/6390950901635733622690690.png"
-  },
-  {
-    "资讯标题": "Axios 报告：谷歌 AI 搜索概览影响深远，小型内容网站流量骤降 60%",
-    "内容": "Axios 报告：谷歌 AI 搜索概览影响深远，小型内容网站流量骤降 60%AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 19, 202660科技媒体 Axios 近日发布了一份由 Chartbeat 撰写的数据报告，揭示了谷歌“AI 概览”（AI Overviews）功能对内容出版商造成的毁灭性冲击。报告指出，随着 AI 直接在搜索结果顶部生成答案，用户点击进入原始网站的需求正急剧萎缩。流量塌缩:小型网站成为最惨牺牲品数据显示，不同规模的网站均遭受了不同程度的推荐流量损失，其中抗风险能力最弱的小型出版商受创最重: 小型发布商（日均浏览量1k-1w）:过去两年内流失了高达 60% 的谷歌推荐流量。",
-    "发布日期": "2026-03-19",
-    "原文链接": "https://www.aibase.com/zh/news/26362",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ac2bb0eb62745196435eef171677cfa3.png",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ac2bb0eb62745196435eef171677cfa3.png",
-    "配图仓库路径": "assets/news_images/ac2bb0eb62745196435eef171677cfa3.png",
-    "原始配图链接": "https://upload.chinaz.com/2026/0319/6390950921046453232015409.png"
-  },
-  {
-    "资讯标题": "Anthropic 发布 Claude 3.6 Sonnet 模型并深陷 OpenClaw 版权争议",
-    "内容": "Anthropic 近日发布主力模型 Sonnet 4.6（Claude 3.6 更新版），旨在强化编程与自动化能力，推动从模型提供商向智能体平台转型。该模型支持 100 万 token 上下文窗口，提升了“计算机使用”（Computer Use）技能，并支持通过 MCP 连接器与 Excel 等办公平台深度集成，同时引入“思考过程”可视化功能。目前，Sonnet 4.6 已在 Claude.ai 及 API 平台上线。然而，此次发布伴随着严重的公关危机。Anthropic 因商标权问题强硬要求开源项目 OpenClaw（原 Clawdbot）更名，导致开发者 Peter Steinberger 被 OpenAI 聘用，OpenClaw 随之归入 OpenAI 旗下。业内分析认为，Anthropic 此举损害了",
-    "发布日期": "2026-03-19",
-    "原文链接": "https://www.aibase.com/zh/news/26388",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4b6e015eb1391820e7ca0e6727b50027.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4b6e015eb1391820e7ca0e6727b50027.jpg",
-    "配图仓库路径": "assets/news_images/4b6e015eb1391820e7ca0e6727b50027.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151728184402_5.jpg"
   }
 ]
