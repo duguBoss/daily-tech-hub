@@ -1,7 +1,67 @@
 [
   {
-    "资讯标题": "闲鱼正式发布AI相机功能，实现5秒商品自动识别与智能定价",
-    "内容": "闲鱼于3月25日正式发布“闲鱼AI相机”，通过AI技术简化二手商品挂牌流程，实现从拍照到发布的全链路自动化。该功能核心优势在于处理效率，用户仅需对商品拍照，系统即可在5秒内自动识别商品信息并生成描述，实现一键上架。针对卖家定价痛点，闲鱼联合通义千问训练了专用AI模型，通过构建海量商品知识库与估价体系，结合商品成色、型号等维度进行智能分析，计算出成交率最高的合理估价，从而提升撮合效率。随着卖家端“AI相机”与此前买家端“AI智搜”的补齐，闲鱼已正式打通交易双端的AI化路径。此次更新旨在降低二手交易门槛，通过科学定价与自动化发布，进一步提升二手市场的流通速率，让“随手卖”成为现实。",
+    "资讯标题": "钉钉正式发布悟空AI，实现双击即用的企业级数字员工部署",
+    "内容": "钉钉正式发布悟空AI，定位为企业级数字员工，旨在通过极致的低门槛策略降低办公AI部署难度。用户仅需官网下载安装包并双击即可完成配置，无需复杂环境部署或专业技术支持，实现五分钟上手。该产品采用拟人化交互界面，并引入“算粒”作为AI资源消耗的直观计量单位，每日免费赠送100个算粒。依托钉钉办公数据生态，悟空AI具备深度工作语境理解能力，可协助处理会议纪要、周报提炼等任务，同时强调严苛的数据隔离与隐私保护，解决企业对AI接管核心业务的安全顾虑。悟空AI的推出旨在为企业提供务实的办公AI解决方案，通过简化操作流程，帮助企业平稳过渡至AI辅助办公模式，缓解行业对复杂AI部署的焦虑。",
+    "发布日期": "2026-03-26",
+    "原文链接": "https://www.aibase.com/zh/news/26581",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f5e3ec2a1eeb6c14e7f002932b4833b1.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f5e3ec2a1eeb6c14e7f002932b4833b1.png",
+    "配图仓库路径": "assets/news_images/f5e3ec2a1eeb6c14e7f002932b4833b1.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0326/6391013103692215117585613.png"
+  },
+  {
+    "资讯标题": "谷歌DeepMind发布音乐创作模型Lyria 3 Pro，支持生成完整长曲",
+    "内容": "谷歌DeepMind于本周三正式发布音乐创作大模型Lyria 3 Pro，标志着AI音乐生成从短乐句迈向全曲创作。该模型核心突破在于具备强大的“结构意识”，支持用户编排包含前奏、主歌、副歌及桥段的完整歌曲架构，并能生成具备商业水准的长时值音频。在技术规格上，Lyria 3 Pro支持24-bit高保真音频输出，并依托多模态技术实现意图理解，用户仅需输入风格、情绪或节奏描述即可快速生成曲目。相较于前代产品，Lyria 3 Pro显著提升了对长音频逻辑的处理能力，缩短了音乐创作的初稿周期。对于行业而言，该模型的发布意味着AI正从辅助工具向独立制作人进化，能够处理复杂的音乐编排，对传统数字音乐生产线产生深远影响，进一步降低了专业音乐创作的门槛。",
+    "发布日期": "2026-03-26",
+    "原文链接": "https://www.aibase.com/zh/news/26569",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d7d22649de98ffeadc9d2cf0fb1fe7d5.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d7d22649de98ffeadc9d2cf0fb1fe7d5.jpg",
+    "配图仓库路径": "assets/news_images/d7d22649de98ffeadc9d2cf0fb1fe7d5.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202006031503487838_13.jpg"
+  },
+  {
+    "资讯标题": "蚂蚁集团发布 F2LLM-v2 系列 Embedding 模型，横扫 MTEB 榜单 11 项冠军",
+    "内容": "3月26日，蚂蚁集团 CodeFuse 团队联合上海交通大学正式发布 F2LLM-v2 系列 Embedding 模型。该系列模型在 MTEB 评测中横扫德语、法语、日语及代码检索等 11 项 SOTA，覆盖 430 个细分场景。F2LLM-v2 具备极强的多语种与代码理解能力，支持 282 种自然语言及 40 多种编程语言，训练数据源自 6000 万高质量清洗样本。该系列提供 80M 至 14B 全尺寸矩阵，其中 80M-330M 小模型通过模型裁剪与知识蒸馏技术适配移动端，并支持 8 维到全维度的动态维度调整。作为全开源项目，F2LLM-v2 已开放全部权重、代码及技术报告，旨在为全球开发者提供高性能、透明的语义表征底座，显著提升多语言 RAG 与代码助手开发的准确率与效率。",
+    "发布日期": "2026-03-26",
+    "原文链接": "https://www.aibase.com/zh/news/26586",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dcee9299093f6b12a208299c05834c3e.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dcee9299093f6b12a208299c05834c3e.png",
+    "配图仓库路径": "assets/news_images/dcee9299093f6b12a208299c05834c3e.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0326/6391013476120847483236580.png"
+  },
+  {
+    "资讯标题": "苹果联合威斯康星大学发布RubiCap图像描述框架，实现小模型性能反超",
+    "内容": "苹果公司联合威斯康星大学麦迪逊分校发布全新AI训练框架RubiCap，专为“密集图像描述”设计，旨在提升AI对图像细节的精准捕捉能力。该框架采用创新的强化学习机制，利用GPT-5和Gemini 2.5 Pro生成候选描述，并由Qwen2.5担任裁判进行打分反馈，通过结构化反馈修正模型错误。实验数据显示，RubiCap系列模型在20亿至70亿参数规模下表现卓越，其中70亿参数版本在盲测中排名最高，且幻觉错误率低于参数量达720亿的前沿大模型，30亿参数版本在部分指标上甚至反超70亿版本。该成果证明了高质量图像理解能力不完全依赖参数堆砌，科学的训练范式能显著提升紧凑型模型的效率与准确度，为计算机视觉领域提供了低成本、高精度的训练新路径。",
+    "发布日期": "2026-03-26",
+    "原文链接": "https://www.aibase.com/zh/news/26584",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e6de13c942671c7e5eef5d57420c54b6.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e6de13c942671c7e5eef5d57420c54b6.png",
+    "配图仓库路径": "assets/news_images/e6de13c942671c7e5eef5d57420c54b6.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0326/6391013404356267795902900.png"
+  },
+  {
+    "资讯标题": "快手发布2025年Q4财报：AIGC营销素材单季消耗达40亿元",
+    "内容": "快手-W发布2025年第四季度及全年业绩，财报显示其线上营销服务收入达236亿元，同比增长14.5%。AI技术已深度重塑其商业链路，其中AIGC营销素材在第四季度单季消耗金额高达40亿元。在技术驱动方面，生成式推荐大模型与智能出价模型的优化，直接带动国内线上营销收入提升约5%。此外，UAX全自动投放产品在非电商营销服务中的消耗渗透率已接近80%，活跃客户渗透率突破90%。快手通过大模型对用户意图的深度理解，实现了从营销素材自动化生成到广告投放自动化执行的全链路改造。此次财报数据表明，AI已从技术实验阶段进入商业实战阶段，成为驱动快手商业化增长的核心引擎，显著提升了广告主的转化效率与平台经营效率。",
+    "发布日期": "2026-03-26",
+    "原文链接": "https://www.aibase.com/zh/news/26550",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图仓库路径": "assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309201735148362_0.jpg"
+  },
+  {
+    "资讯标题": "字节跳动正式开源超级智能体编排框架DeerFlow2.0",
+    "内容": "字节跳动近日正式开源超级智能体编排框架DeerFlow2.0，该项目在GitHub已获44k Star并登顶Trending榜首。DeerFlow2.0定位为SuperAgent调度中心，核心特性包括：支持将复杂任务拆解为研究、规划、编码、审阅等角色的子代理编排系统；提供插件化设计的全能工具箱，支持自主调用搜索、爬虫及编码执行；内置安全沙盒文件系统，保障代码生成与文件重构的隔离运行；通过任务仓库实现上下文工程与长效记忆，提升复杂任务连续性。该框架具备极高兼容性，支持OpenAI、Claude Code、Codex及OpenRouter等主流模型，并可无缝接入MCP协议与主流IM渠道。DeerFlow2.0通过深度适配本土应用场景，为开发者提供了一套从企业级复杂任务到个人多步创作的稳定智能体编排解决方案。",
+    "发布日期": "2026-03-26",
+    "原文链接": "https://www.aibase.com/zh/news/26583",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/daba045173671fa970798234c5b25e41.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/daba045173671fa970798234c5b25e41.jpg",
+    "配图仓库路径": "assets/news_images/daba045173671fa970798234c5b25e41.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0326/6391013283681146628628222.jpg"
+  },
+  {
+    "资讯标题": "闲鱼正式发布AI相机功能，实现5秒商品自动识别与智能定价上架",
+    "内容": "闲鱼于3月25日正式发布“闲鱼AI相机”，通过AI技术简化二手商品挂牌流程，实现拍照后5秒内自动识别信息并完成一键上架。该功能旨在降低个人卖家发布门槛，提升交易效率。针对卖家定价难的痛点，闲鱼联合通义千问训练了专属AI模型，通过构建海量商品知识库与估价体系，结合商品成色、型号等维度进行智能分析，计算出成交率最高的合理价格，从而优化撮合效率。随着卖家端“AI相机”与此前买家端“AI智搜”的补齐，闲鱼已完成交易双端的AI化布局。此次更新通过技术手段解决了二手交易中信息录入繁琐与定价不透明的问题，不仅提升了卖家的发布体验，也通过科学定价机制促进了二手市场的商品流通速率，进一步完善了平台的智能化交易生态。",
     "发布日期": "2026-03-25",
     "原文链接": "https://www.aibase.com/zh/news/26547",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fb425165394c0e9b17084ca3e51a66df.jpg",
@@ -10,8 +70,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/201901250950115397_9.jpg"
   },
   {
-    "资讯标题": "腾讯元宝派电脑版正式上线:支持一键创建AI智能体与多端自动同步",
-    "内容": "腾讯元宝派电脑版正式上线:支持一键创建AI智能体与多端自动同步AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 25, 2026502026年3月25日，腾讯云宣布“元宝派”电脑版正式上线，该版本深度整合了桌面环境的交互特性，允许用户在PC端免费“一键创建”或接入已有AI智能体（Bot），为大模型社交与协作提供了更广阔的承载空间。本次更新核心聚焦于办公生产力的释放，通过实现电脑与手机端的自动同步，解决了跨设备创作时聊天记录与任务进度的断层痛点。技术层面，元宝派电脑版引入了多项原生化功能，包括支持共享屏幕与实时交流的并行处理，以及针对办公习惯优化的拖拽上传、一键截图及多端信息流转体系。",
+    "资讯标题": "腾讯元宝派电脑版正式上线，支持一键创建AI智能体与多端自动同步",
+    "内容": "2026年3月25日，腾讯云正式发布“元宝派”电脑版，深度整合桌面交互特性，支持用户在PC端免费一键创建或接入AI智能体（Bot）。该版本核心聚焦办公生产力，通过实现电脑与手机端的自动同步，解决了跨设备创作时的任务进度断层问题。技术层面，元宝派电脑版引入了原生化功能，包括共享屏幕与实时交流并行处理、拖拽上传、一键截图及多端信息流转体系。智能体在桌面版中以“派友”身份深度参与讨论，协助用户推进复杂任务。此次布局标志着腾讯元宝AI助手从轻量化对话向重度办公流转型，通过构建社交与AI协作共存的生态，打破大模型在垂直办公场景中的孤岛效应。桌面端作为高频创作主阵地，其功能迭代将推动AI智能体从单一工具向系统级协同能力演进，提升用户对AI原生应用的依赖度。",
     "发布日期": "2026-03-25",
     "原文链接": "https://www.aibase.com/zh/news/26539",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a97cfc0e3551b470a8642c4b47924011.jpg",
@@ -20,8 +80,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0325/6391004284838221504098139.jpg"
   },
   {
-    "资讯标题": "男子利用AI生成数十万首歌曲诈骗800万美元版税被定罪",
-    "内容": "2026年3月24日，美国纽约南区联邦检察官办公室宣布，北卡罗来纳州男子迈克尔·史密斯（Michael Smith）因利用AI生成数十万首音乐作品并骗取800万美元流媒体版税，已承认串谋实施电信诈骗。史密斯通过部署数千个虚假账户及自动化机器人程序，在Spotify、Apple Music、Amazon Music及YouTube Music等平台制造了数十亿次虚假播放量。为规避反作弊算法，他将播放量分散至海量曲库以逃避监管。此案凸显了生成式AI与自动化脚本结合对创作者经济的破坏，因流媒体平台采用共享资金池模式，此类虚假流量直接稀释了真实音乐人的合法收入。美国检察官杰伊·克莱顿表示，该案标志着利用AI进行大规模商业欺诈已受到法律严惩。此事件或将倒逼流媒体行业升级监测技术并重构版税结算机制，以应对AI时代非人类创作",
+    "资讯标题": "男子利用AI生成数十万首歌曲骗取800万美元版税被定罪",
+    "内容": "2026年3月24日，美国纽约南区联邦检察官办公室宣布，北卡罗来纳州男子迈克尔·史密斯（Michael Smith）因利用AI生成数十万首音乐并骗取800万美元流媒体版税，已承认串谋实施电信诈骗。史密斯通过部署数千个虚假账户及自动化机器人程序，在Spotify、Apple Music、Amazon Music及YouTube Music等平台制造了数十亿次虚假播放量。为规避反作弊算法，他将播放量分散至海量曲库中。此举利用流媒体平台的共享资金池模式，稀释了真实创作者的合法收入。该案凸显了生成式AI与自动化脚本结合对创作者经济的破坏，标志着此类AI商业欺诈受到法律严惩。行业专家指出，随着AI内容生产门槛降低，流媒体平台亟需升级监测技术，并可能倒逼版税结算机制重构，以应对“非人类创作”与“虚假消费”带来的治理挑战。",
     "发布日期": "2026-03-25",
     "原文链接": "https://www.aibase.com/zh/news/26524",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a8b107253ce4e9e4e2a4fbd24344f0ec.jpg",
@@ -30,18 +90,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202305251639277082_0.jpg"
   },
   {
-    "资讯标题": "OpenAI正式宣布终止Sora项目开发，与迪士尼10亿美元合作协议随之告吹",
-    "内容": "OpenAI于当地时间周二正式宣布停止视频生成工具Sora的后续开发与使用，并将逐步关闭相关服务。此次调整被视为OpenAI内部深度业务重组的一部分，旨在通过业务瘦身向资本市场展示更清晰的盈利能力。随着项目终止，OpenAI与迪士尼此前签署的10亿美元投资及IP授权协议宣告作废，双方涉及《星球大战》、漫威及皮克斯等核心IP的合作化为泡影。Sora团队表示，后续将公布具体的API接口下线时间表及用户内容保存方案。分析认为，OpenAI此举意在集中资源推进GPT-5及AI Agent生态建设，同时反映出其与微软在资源分配及战略重心上的分歧加剧。该决策标志着OpenAI在视频生成赛道的急流勇退，对好莱坞与AI巨头的合作模式及行业竞争格局产生深远影响。",
+    "资讯标题": "OpenAI正式宣布终止Sora项目开发，迪士尼10亿美元合作协议随之告吹",
+    "内容": "OpenAI于当地时间周二正式宣布停止视频生成工具Sora的后续开发与服务，这一决定标志着该明星产品正式下线。Sora团队已确认将逐步关闭服务，后续将公布具体的API接口下线时间表及用户内容保存方案。此次项目终止直接导致OpenAI与迪士尼的深度合作破裂，此前迪士尼原计划向OpenAI投资10亿美元，并授权其使用《星球大战》、漫威及皮克斯等核心IP进行内容创作。OpenAI官方表示，此次业务重组旨在优化投入产出比并降低监管风险，以便集中资源推进GPT-5及AI Agent生态建设。分析认为，该变动反映了OpenAI内部战略重心调整，以及与微软在资源分配上的分歧。随着Sora的关停，好莱坞与AI巨头的合作蜜月期提前结束，行业视频生成赛道的竞争格局或将迎来新一轮洗牌。",
     "发布日期": "2026-03-25",
     "原文链接": "https://www.aibase.com/zh/news/26521",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "配图仓库路径": "assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202503311400459639_0.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图仓库路径": "assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309201735148362_0.jpg"
   },
   {
-    "资讯标题": "MiniMax 搭建一整套 Office Skills，自进化解决文档生成痛点",
-    "内容": "MiniMax 搭建一整套 Office Skills，自进化解决文档生成痛点AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 25, 202641在 AI 办公领域，许多人都有过类似的尴尬：让 AI 生成一份报表，结果公式变成了死数字。让它修改 PPT 模板，结果排版乱成一团。针对“生成内容不可用”的行业顽疾，大模型厂商 MiniMax（稀宇科技）近日宣布正式开源其生产级办公文档引擎 Office Skills。这套基于 MIT 协议的代码，旨在让 AI 生成的 Word、Excel、PPT 和 PDF 真正达到“直接交付”的标准。底层重构：绕过“平庸”库，追求高保真控制 MiniMax 在技术选型上表现得相当硬核。",
+    "资讯标题": "MiniMax 正式开源生产级办公文档引擎 Office Skills，提升 AI 文档生成交付质量",
+    "内容": "MiniMax 近日正式开源生产级办公文档引擎 Office Skills，旨在解决 AI 生成 Word、Excel、PPT 及 PDF 文档时存在的格式错乱与数据不可用问题。该引擎基于 MIT 协议，通过底层技术重构实现高保真控制：Excel 处理摒弃 openpyxl，直接在 XML 层面操作以保留数据透视表与 VBA 宏；Word 采用微软 .NET OpenXML SDK 以支持复杂嵌套与修订追踪；PDF 与 PPT 则通过双引擎策略确保设计感与稳定性。此外，Office Skills 引入了 Execute → Evaluate → Fix 自进化机制，通过自动评测框架捕捉并修复结构、公式及版式错误，实现文档生成的逻辑闭环。该工具链的开源将推动办公 Agent 从原型演示向专业化交付转型，显著提升 ",
     "发布日期": "2026-03-25",
     "原文链接": "https://www.aibase.com/zh/news/26532",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1b0e222f6e559b11cb42808de77cd10a.png",
@@ -51,17 +111,17 @@
   },
   {
     "资讯标题": "Gap 联手谷歌接入 Gemini 平台，实现 AI 助手内原生结账功能",
-    "内容": "3月24日，Gap 宣布与谷歌达成战略合作，成为首个在 Gemini 平台内实现原生结账功能的主流时尚品牌。此次合作将 Gemini 从搜索引擎升级为交易终端，消费者在 AI 助手内即可完成选色、选码及支付，无需跳转至第三方网站或 App。该流程依托 Google Pay 提供底层支付支持，由谷歌负责大模型语义理解与前端交互，Gap 负责后端产品出货、配送及售后。此举标志着时尚零售业正式进入 AI 代理自动化购物阶段，AI 从单纯的导流工具转变为具备决策建议和交易能力的“数字店员”。对于行业而言，电商竞争逻辑正从网页权重转向 AI 助手推荐清单的精准度，品牌方通过“轻前端、重后端”模式降低了适配 AI 购物生态的门槛。",
+    "内容": "3月24日，Gap 宣布与谷歌达成战略合作，成为首个在 Gemini AI 助手内实现原生结账功能的主流时尚品牌。此次合作将 Gemini 从搜索引擎升级为交易终端，消费者在与 AI 对话获取穿搭建议时，可直接在 Gemini 对话框内完成 Gap 产品的选色、选码及支付。该功能依托 Google Pay 底层支持，用户无需跳转第三方网站或 App 即可完成一键结算。在分工上，谷歌负责提供 LLM 语义理解与前端交互，Gap 则负责后端产品出货、配送及售后。这一模式标志着时尚零售业正式进入 AI 代理自动化购物阶段，AI 从导流工具转变为具备决策与交易能力的“数字店员”。对于行业而言，未来电商竞争重心将从网页权重转向 AI 助手的推荐精准度，品牌需通过接入此类 Agent 提升在生成式 AI 生态中的曝光与转化",
     "发布日期": "2026-03-25",
     "原文链接": "https://www.aibase.com/zh/news/26525",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "配图仓库路径": "assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202503311400459639_0.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图仓库路径": "assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309201735148362_0.jpg"
   },
   {
-    "资讯标题": "AI 供应链遭投毒：Python 库 litellm 被植入恶意代码窃取敏感凭证",
-    "内容": "AI 开发者生态遭遇重大供应链攻击，GitHub 拥有超 4 万星的 Python 库 litellm 被发现遭恶意投毒。攻击者在 PyPI 版本 1.82.7 和 1.82.8 中植入恶意 .pth 文件，导致用户安装后即触发自动执行，窃取 SSH 密钥、AWS/GCP 云凭证、Kubernetes 密钥及大模型 API Key 等敏感信息。此次攻击源于漏洞扫描工具 Trivy 发布令牌被盗，导致攻击者 TeamPCP 绕过审查上传毒包。由于 litellm 是调用模型 API 的核心组件，包括 DSPy、MLflow、Open Interpreter 在内的 2000 多个 AI 工具受间接影响。因恶意代码触发指数级进程分叉导致系统崩溃，该行径才被开发者发现。安全专家建议立即运行 pip show lite",
+    "资讯标题": "AI 供应链遭投毒：Python 库 litellm 被植入恶意代码窃取 API Key",
+    "内容": "AI 开发者生态遭遇严重供应链攻击，GitHub 拥有超 4 万星的 Python 库 litellm 的 PyPI 版本 1.82.7 和 1.82.8 被植入恶意 .pth 文件。该恶意代码在安装后随 Python 进程自动执行，可窃取 SSH 密钥、AWS/GCP 云凭证、Kubernetes 密钥及大模型 API Key 等敏感信息。此次攻击源于攻击者 TeamPCP 攻陷漏洞扫描工具 Trivy 并盗取发布令牌，绕过代码审查直接上传毒包。因恶意代码触发指数级进程分叉导致系统崩溃，该投毒行为才被发现。由于 DSPy、MLflow 等 2000 多个 AI 工具间接依赖 litellm，影响范围广泛。安全专家建议开发者立即运行 pip show litellm 检查版本，若版本高于 1.82.6，应视为全",
     "发布日期": "2026-03-25",
     "原文链接": "https://www.aibase.com/zh/news/26529",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/962b04f54487676b2ebc12c1630ee416.png",
@@ -70,8 +130,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0325/6391002993655112882334240.png"
   },
   {
-    "资讯标题": "阿里达摩院发布高性能RISC-V CPU玄铁C950，首次实现原生支持千亿参数大模型",
-    "内容": "3月24日，阿里巴巴达摩院在2026玄铁RISC-V生态大会上发布高性能CPU玄铁C950。该处理器采用8指令译码、16级流水线及超1000条指令乱序窗口，最高主频达3.2GHz，SPECint2006单核跑分突破70，刷新全球RISC-V性能纪录。玄铁C950集成Vector与Matrix原生AI加速引擎，实现通用与AI算力深度融合，成为行业首款原生支持千亿参数大模型的CPU，实测可流畅运行Qwen3-235B及DeepSeek V3-671B等模型。该架构为AI Agent时代的服务器提供硬件支撑，性能较主流产品提升超30%。此外，达摩院正与中科院软件所、北京开源芯片研究院合作研发下一代开源香山CPU，并携手openKylin打造RISC-V原生AI操作系统，进一步推动RISC-V生态从边缘设备向高端服务器",
+    "资讯标题": "阿里巴巴达摩院发布玄铁 C950，全球首款原生支持千亿参数大模型的 RISC-V CPU",
+    "内容": "阿里巴巴达摩院在2026玄铁 RISC-V 生态大会上发布高性能 CPU 玄铁 C950，刷新全球 RISC-V 性能纪录。该处理器采用8指令译码、16级流水线及超1000条指令乱序窗口，最高主频达 3.2GHz，SPECint2006 单核跑分突破 70。玄铁 C950 集成 Vector 和 Matrix 原生 AI 加速引擎，实现通用与 AI 算力深度融合，成为行业首款原生支持千亿参数大模型（如 Qwen3-235B、DeepSeek V3-671B）的 CPU。在生态建设方面，达摩院与中科院软件所、北京开源芯片研究院合作研发下一代开源香山 CPU，并携手 openKylin 打造 RISC-V 原生 AI 操作系统。目前玄铁系列已落地超 200 款量产芯片，覆盖 AI 眼镜及电力工控等领域，为 AI A",
     "发布日期": "2026-03-24",
     "原文链接": "https://www.aibase.com/zh/news/26513",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5e48b5a9a792d468a0593a4d9e5e07ff.png",
@@ -80,18 +140,18 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0324/6390996370882017884380272.png"
   },
   {
-    "资讯标题": "西湖机器人公司发布人形机器人泰坦 o1，搭载全球首个动作泛化大模型GAE",
-    "内容": "3月23日，西湖大学孵化的西湖机器人公司正式发布人形机器人“泰坦 o1”，并推出全球首个动作泛化大模型——“GAE身外化身系统”。该系统作为机器人的“通用小脑”，赋予其人类般的动作适应能力，无需针对特定动作进行编程。泰坦 o1支持毫秒级动作复刻与远程同步操控，单人即可指挥成百上千台机器人协同作业。在应用层面，该系统具备零门槛上手特性，已在安徽卫视春晚完成“五禽戏”群控表演验证。据西湖大学王东林教授介绍，该自研算法在动作泛化与跨本体适配能力上领先国际同类技术约6个月。未来，泰坦 o1将重点布局消防救援、矿区作业及高空维护等高风险场景，标志着人形机器人正从展示型向具备复杂行为复刻能力的生产力工具转型。",
+    "资讯标题": "西湖机器人发布泰坦 o1人形机器人，搭载全球首个GAE通用小脑",
+    "内容": "3月23日，西湖大学孵化的西湖机器人公司正式发布人形机器人“泰坦 o1”，其核心亮点是内置了全球首个动作泛化大模型——“GAE身外化身系统”。该系统被定义为机器人的“通用小脑”，赋予了机器人人类般的动作适应能力，无需针对特定动作进行死板编程。在技术表现上，泰坦 o1支持毫秒级动作复刻与远程同步操控，单人即可指挥成百上千台机器人协同作业。据王东林教授介绍，该自研算法在动作泛化与跨本体适配能力上领先国际同类技术约6个月。泰坦 o1已在安徽卫视春晚完成群控表演验证，未来将重点部署于消防救援、矿区作业及高空维护等高风险场景。该系统的低门槛特性允许用户通过动捕设备或电脑实现“所想即所动”，标志着人形机器人正从展示型向具备行为复刻能力的生产力工具转型。",
     "发布日期": "2026-03-24",
     "原文链接": "https://www.aibase.com/zh/news/26491",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/24a0584373a9103906c9b567e02ec4b7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/24a0584373a9103906c9b567e02ec4b7.jpg",
-    "配图仓库路径": "assets/news_images/24a0584373a9103906c9b567e02ec4b7.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005221630161996_5.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/db7fa915da257a2ae30da9636c276887.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/db7fa915da257a2ae30da9636c276887.jpg",
+    "配图仓库路径": "assets/news_images/db7fa915da257a2ae30da9636c276887.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005261146525157_12.jpg"
   },
   {
-    "资讯标题": "美团龙猫发布开源数学定理证明模型 LongCat-Flash-Prover",
-    "内容": "美团龙猫发布开源数学定理证明模型 LongCat-Flash-ProverAIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 24, 2026432026年3月24日，美团龙猫（LongCat）团队正式开源专门用于数学形式化与定理证明的深度学习模型——LongCat-Flash-Prover。该模型针对大语言模型在严密逻辑推演中的短板，通过将形式化推理拆解为自动形式化（Auto-Formalization）、草稿生成(Sketching)与证明生成(Proving)三大原子能力，实现了从“概率预测答案”向“严谨逻辑证明”的范式转变。",
+    "资讯标题": "美团龙猫团队开源数学定理证明模型 LongCat-Flash-Prover",
+    "内容": "2026年3月24日，美团龙猫（LongCat）团队正式开源数学形式化与定理证明模型 LongCat-Flash-Prover。该模型通过自动形式化、草稿生成与证明生成三大原子能力，将推理从概率预测转向严谨逻辑证明。在 TIR（工具集成推理）策略支持下，该模型在 MiniF2F-Test 基准测试中以72次推理预算实现97.1%通过率，刷新开源 Prover 模型 SOTA 纪录，并在 MathOlympiad-Bench 等竞赛任务中表现领先。技术上，该模型采用基于 TIR 的“混合专家迭代”框架，集成 Lean4Server 校验与语义一致性检测，有效规避逻辑漏洞。训练阶段引入分层 Masking 与 Token 层面 Staleness 控制，提升了 MoE 架构下强化学习的稳定性。LongCat-Fla",
     "发布日期": "2026-03-24",
     "原文链接": "https://www.aibase.com/zh/news/26494",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/340f99df1c43f858f06b691148ef5fe3.jpg",
@@ -101,7 +161,7 @@
   },
   {
     "资讯标题": "国家数据局定调:Token官方中文名正式确认为“词元”",
-    "内容": "国家数据局定调:Token官方中文名正式确认为“词元”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 24, 2026330今日，中国政府网转发了《人民日报》援引国家数据局的文章，正式在官方语境下将大模型基础计量单位“Token”定名为“词元”。报道披露，我国人工智能行业日均词元调用量已突破140万亿次。这一权威定名不仅终结了长期以来学术界与产业界关于Token中文译名的争议，也标志着大模型技术标准语境在国家层面的进一步规范化。此前，针对Token的命名，行业内曾出现多种竞争性方案。",
+    "内容": "国家数据局定调:Token官方中文名正式确认为“词元”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 24, 2026386今日，中国政府网转发了《人民日报》援引国家数据局的文章，正式在官方语境下将大模型基础计量单位“Token”定名为“词元”。报道披露，我国人工智能行业日均词元调用量已突破140万亿次。这一权威定名不仅终结了长期以来学术界与产业界关于Token中文译名的争议，也标志着大模型技术标准语境在国家层面的进一步规范化。此前，针对Token的命名，行业内曾出现多种竞争性方案。",
     "发布日期": "2026-03-24",
     "原文链接": "https://www.aibase.com/zh/news/26506",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e14e0eb99105bf4db033c5726b0f47a6.jpg",
@@ -110,8 +170,18 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0324/6390995717342564313468581.jpg"
   },
   {
-    "资讯标题": "OpenAI向英国CMA申请将ChatGPT纳入安卓及Chrome默认搜索引擎名单",
-    "内容": "3月23日，OpenAI正式向英国竞争与市场管理局（CMA）提交申请，要求将ChatGPT纳入谷歌Android系统及Chrome浏览器的可选默认搜索引擎名单。OpenAI指出，随着用户转向对话式、多模态交互，具备联网检索能力的AI聊天机器人已实质承担搜索引擎职能，相关监管资格标准应涵盖具备“生成式搜索体验”的AI平台。目前，ChatGPT周活跃用户已达9亿，但尚未获得系统级原生选项。OpenAI认为，鉴于谷歌已在搜索结果中整合AI Overviews，ChatGPT应作为同等替代方案获得公平的市场准入权。若申请获批，将打破谷歌对核心流量入口的垄断，标志着生成式AI正式从第三方应用向底层操作系统渗透，有望重塑移动端搜索生态并加速全球搜索市场的去中心化进程。",
+    "资讯标题": "iPhone 17 Pro成功本地运行4000亿参数大模型，生成速度为0.6 token/秒",
+    "内容": "3月23日，iPhone 17 Pro成功在本地运行4000亿参数的大语言模型。尽管该设备仅配备12GB LPDDR5X内存，远低于模型所需的200GB内存门槛，但通过Flash-MoE开源项目实现了SSD数据流式传输至GPU，并利用MoE（混合专家模型）架构仅调用部分参数，从而突破了物理内存限制。实测显示，该模型生成速度仅为0.6 token/秒，即每1.5至2秒生成一个单词，且伴随高功耗与发热问题。此次测试证明了在手机端本地运行超大规模模型的可能性，为离线环境下的隐私保护与AI应用提供了技术参考。虽然目前距离实用化仍有差距，但该实验验证了通过算法优化与硬件迭代，未来智能手机有望实现本地运行顶级AI模型，成为随身携带的超级大脑。",
+    "发布日期": "2026-03-24",
+    "原文链接": "https://www.aibase.com/zh/news/26504",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图仓库路径": "assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309201735148362_0.jpg"
+  },
+  {
+    "资讯标题": "OpenAI 向英国 CMA 申请将 ChatGPT 纳入安卓及 Chrome 默认搜索引擎名单",
+    "内容": "3月23日，OpenAI 正式向英国竞争与市场管理局（CMA）提交申请，要求将 ChatGPT 纳入谷歌安卓系统及 Chrome 浏览器的可选默认搜索引擎名单。OpenAI 在申请中指出，随着用户交互习惯向对话式、多模态转变，具备联网检索能力的 AI 聊天机器人已实质承担搜索引擎职能，应被纳入“选择界面”的准入范畴。目前 ChatGPT 周活跃用户已达9亿，OpenAI 认为其应作为谷歌 AI Overviews 的同等替代方案获得公平的市场准入权。若申请获批，将打破谷歌对核心流量入口的垄断，标志着生成式 AI 正式从第三方应用向底层操作系统渗透。此举不仅将重塑移动端搜索生态，更可能推动监管机构重新定义“搜索服务”范畴，加速全球搜索市场的去中心化进程。",
     "发布日期": "2026-03-24",
     "原文链接": "https://www.aibase.com/zh/news/26487",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a19dc41af1681a26865af678b9cfa8be.jpg",
@@ -120,8 +190,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202508271022447421_0.jpg"
   },
   {
-    "资讯标题": "Meta收购AI智能体公司Dreamer团队，前小米全球副总裁雨果·巴拉回归",
-    "内容": "Meta正式吸纳AI初创公司Dreamer的创始人及核心团队，该团队将并入由首席AI官Alexandr Wang领导的Meta超级智能实验室，专注于Meta AI智能体及相关项目的研发。Dreamer由前Stripe CTO David Singleton及前小米全球副总裁Hugo Barra共同创立，旨在赋能用户创建个性化AI智能体。此次交易中，Dreamer保留独立法人实体地位，Meta获得其相关技术的非排他性许可。Hugo Barra曾任职于谷歌Android部门及Meta VR业务，此次回归标志着其重返Meta核心研发体系。该团队的加入将加速Meta在AI Agent领域的布局，旨在通过降低开发门槛，实现让数十亿用户创建软件的愿景。目前交易条款未披露，但Dreamer投资方已获得高于投资额的回报。",
+    "资讯标题": "Meta收购AI智能体公司Dreamer并招募前小米副总裁Hugo Barra",
+    "内容": "Meta已正式收购AI初创公司Dreamer，并将该团队纳入由首席AI官Alexandr Wang领导的Meta超级智能实验室，负责AI智能体及相关项目的研发。Dreamer由前Stripe CTO David Singleton及前小米全球副总裁Hugo Barra共同创立，旨在赋能用户创建个性化AI智能体。此次交易中，Dreamer将保留独立法人实体地位，Meta获得其相关技术的非排他性许可。Hugo Barra曾任职于谷歌Android部门及Meta VR业务，此次回归标志着其重返Meta核心技术团队。该收购旨在加速Meta在AI智能体领域的布局，通过整合Dreamer的技术与人才，推动实现让数十亿用户创建软件的愿景。目前协议具体财务条款未披露，但投资方已获得溢价回报。",
     "发布日期": "2026-03-24",
     "原文链接": "https://www.ithome.com/0/931/947.htm",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40b68326e26a701c31924aed1d00ff2a.webp",
@@ -131,7 +201,7 @@
   },
   {
     "资讯标题": "Luma AI 发布 Uni-1 图像模型，采用自回归架构同步生成文本与像素",
-    "内容": "Luma AI 发布 Uni-1 图像模型，采用自回归架构同步生成文本与像素AIbase基地发布于AI新闻资讯 · 2 分钟阅读 · Mar 24, 20267Luma Labs 于 3 月 23 日发布图像生成模型 Uni-1，这是该公司基于 Unified Intelligence 架构推出的首款公开模型。官网已开放免费试用，API 定价同步公布，企业接入通道将逐步上线。架构变化：从扩散模型到自回归 Uni-1 放弃了当前主流的扩散模型路线，转而使用 decoder-only 自回归 Transformer，将文本 token 与图像 token 交错排列成单一序列，在同一个前向传播中完成推理和像素生成。",
+    "内容": "Luma Labs 于 3 月 23 日正式发布 Uni-1 图像生成模型，这是其 Unified Intelligence 架构的首款公开产品。Uni-1 放弃了主流的扩散模型路线，转而采用 decoder-only 自回归 Transformer 架构，将文本与图像 token 交错排列，在单一前向传播中完成推理与像素生成，旨在消除传统多阶段生成中的信息损耗。该模型支持多参考图引导，在角色一致性、姿势控制及空间推理方面表现突出。基准测试显示，Uni-1 在 RISEBench 推理基准上总分 0.51，优于 Google Nano Banana 2 和 OpenAI GPT Image 1.5。API 采用 token 计费模式，2K 分辨率单张图像生成成本约 0.09 美元，企业级场景成本较竞品低 10%",
     "发布日期": "2026-03-24",
     "原文链接": "https://www.aibase.com/zh/news/26490",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e2be367b41531b337b5d2a4f5d9ec167.png",
@@ -140,18 +210,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0324/6390994298818891925463819.png"
   },
   {
-    "资讯标题": "Dreamina AI 重磅发布:Seedance2.0与 Seedream5.0Lite 正式上线",
-    "内容": "Dreamina AI 重磅发布:Seedance2.0与 Seedream5.0Lite 正式上线AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 24, 2026135CapCut 旗下 AI 创作平台 Dreamina AI 今日宣布，最新多模态视频模型 Dreamina Seedance2.0 和图像生成模型 Seedream5.0Lite 已正式上线，为用户带来更深层次的控制与更广阔的创作空间。Seedance2.0:多模态视频生成新突破作为一款先进的多模态视频模型，Seedance2.0支持图像、视频、文本三种输入方式，可在跨场景中实现极致一致性，表现力大幅提升且操控更加灵活，适合专业级视频创作需求。",
-    "发布日期": "2026-03-24",
-    "原文链接": "https://www.aibase.com/zh/news/26510",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "配图仓库路径": "assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202503311400459639_0.jpg"
-  },
-  {
-    "资讯标题": "Anthropic推出Claude电脑控制功能，支持macOS自动化操作",
-    "内容": "Anthropic正式为Claude Pro及Max订阅用户推出电脑控制功能，标志着Agentic AI进入实战阶段。该功能允许Claude直接接管macOS，通过模拟鼠标移动、点击及键盘输入，操作浏览器、开发工具或本地文件。Claude优先通过连接器调用Google日历、Slack等服务，若无对应工具，则通过屏幕识别执行任务。此外，新推出的Dispatch功能支持用户远程派遣指令，实现跨设备自动化。为保障安全，Anthropic采取了严格的权限确认机制，要求关键操作前获得用户许可，并内置提示词注入扫描与敏感应用禁用策略。目前该功能处于“研究预览”阶段，官方建议避免处理高度敏感数据。此举旨在通过闭源模型的逻辑优势与便捷的桌面接管能力，在Agentic AI领域建立竞争护城河，将PC转化为“个人执行器”。",
+    "资讯标题": "Anthropic推出Claude电脑控制功能，支持macOS直接操作与远程派遣",
+    "内容": "Anthropic近日宣布Claude助手正式具备直接控制用户电脑的能力，标志着Agentic AI进入实战阶段。该功能面向Claude Pro及Max订阅用户开放，支持在macOS环境下模拟鼠标点击、键盘输入及操作本地应用。Claude通过“连接器”调用Google日历、Slack等服务，若无接口则可直接识别屏幕界面执行任务。此外，新推出的Dispatch功能支持用户通过手机远程派遣任务。为保障安全，Anthropic设置了权限确认机制，要求关键操作前必须获得用户许可，并内置主动防御系统以扫描提示词注入风险。目前该功能处于“研究预览”阶段，官方建议避免处理高度敏感数据。此次更新旨在通过闭源模型的逻辑优势，在安全性与易用性间建立护城河，直接对标开源框架OpenClaw，推动PC向“个人执行器”转型。",
     "发布日期": "2026-03-24",
     "原文链接": "https://www.aibase.com/zh/news/26507",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7d3b0e89883010dcf7dcbe9fea1c6891.png",
@@ -160,38 +220,18 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0324/6390995841444811656482461.png"
   },
   {
-    "资讯标题": "4000 亿参数“生啃”成功！iPhone 17 Pro 挑战本地运行超大模型，但速度只有 0.6 token",
-    "内容": "4000 亿参数“生啃”成功。iPhone 17 Pro 挑战本地运行超大模型，但速度只有 0.6 tokenAIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 24, 202646智能手机的算力极限在哪里。苹果的最新旗舰iPhone17Pro刚刚给出了一个既令人震撼又略显尴尬的答案。3月23日，拥有 4000亿参数 的大语言模型在iPhone17Pro上成功跑通。要知道，即便经过量化压缩，此类模型通常也需要至少200GB 的内存才能运行，而iPhone17Pro的硬件配置仅为12GB LPDDR5X 内存。",
-    "发布日期": "2026-03-24",
-    "原文链接": "https://www.aibase.com/zh/news/26504",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "配图仓库路径": "assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202503311400459639_0.jpg"
-  },
-  {
-    "资讯标题": "蚂蚁集团入股跃然创新：AI 玩具赛道迎来“大厂”重量级玩家",
-    "内容": "蚂蚁集团入股跃然创新：AI 玩具赛道迎来“大厂”重量级玩家AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 23, 202641AI 浪潮正加速涌入儿童消费市场，这一次，巨头蚂蚁集团选择了在“AI 玩具”领域落子。近日，深圳跃然创新科技有限公司发生工商变更，新增蚂蚁科技集团股份有限公司旗下全资子公司上海云玚企业管理咨询有限公司为股东。与此同时，该公司的注册资本也增至316.52万元。深耕 AI 交互，跃然创新何许人也。成立于2021年的深圳跃然创新科技有限公司是一家典型的技术驱动型初创企业。其经营范围涵盖了软件开发、货物进出口等核心业务，但其最受资本关注的标签则是“AI 玩具”。",
+    "资讯标题": "蚂蚁集团旗下上海云玚入股深圳跃然创新，布局AI玩具赛道",
+    "内容": "蚂蚁科技集团股份有限公司旗下全资子公司上海云玚企业管理咨询有限公司，近日完成对深圳跃然创新科技有限公司的入股，跃然创新注册资本同步增至316.52万元。跃然创新成立于2021年，是一家专注于AI交互技术的初创企业，核心业务涵盖软件开发及AI玩具研发，致力于通过自研算法与硬件结合，实现儿童与玩具间的深度逻辑对话与情感互动。此次入股标志着蚂蚁集团正式切入AI玩具消费电子领域。行业分析认为，蚂蚁集团在底层算力、数字支付及安全合规领域的积淀，将为跃然创新的AI玩具提供后台支撑，加速AI大模型从云端生产力工具向终端消费场景的落地。随着大厂生态资源的注入，AI玩具赛道的商业化进程与技术迭代有望进一步提速，传统玩具行业正面临由算法驱动的范式转移。",
     "发布日期": "2026-03-23",
     "原文链接": "https://www.aibase.com/zh/news/26467",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "配图仓库路径": "assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202503311400459639_0.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图仓库路径": "assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309201735148362_0.jpg"
   },
   {
-    "资讯标题": "腾讯推出微信ClawBot插件，个人AI助手OpenClaw实现直连微信",
-    "内容": "腾讯正式推出微信ClawBot插件，实现个人AI助手OpenClaw（龙虾）与微信的私密连接。用户在微信“设置-插件”启用该功能，并通过设备端安装命令与二维码绑定后，即可在微信聊天界面直接向AI发送指令，处理学习、工作及内容创作任务。官方明确该通道为个人专用，不支持群聊，且不具备自动化操作微信账号权限，以确保安全性。除个人端外，腾讯同步推进企业级应用，QClaw、Workbuddy等产品已支持通过PC端扫码接入企业微信，腾讯云亦提供云端配置方案以降低集成门槛。此次发布标志着腾讯加速将大模型能力嵌入超级应用，推动“AI助手即服务”从独立工具向日常通讯场景渗透，为行业在社交生态内集成个人AI提供了新的技术路径。",
-    "发布日期": "2026-03-23",
-    "原文链接": "https://www.aibase.com/zh/news/26443",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a4cffce23fa0bd40b8cdcab8f723bcc2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a4cffce23fa0bd40b8cdcab8f723bcc2.jpg",
-    "配图仓库路径": "assets/news_images/a4cffce23fa0bd40b8cdcab8f723bcc2.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0323/6390985643517441101541847.jpg"
-  },
-  {
-    "资讯标题": "腾讯内测“AI问股”小程序:大模型全面接入证券咨询服务",
-    "内容": "腾讯内测“AI问股”小程序:大模型全面接入证券咨询服务AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 23, 202667近日，腾讯正式开启“腾讯AI问股”小程序的限量内测，标志着其在大模型驱动的证券投资服务领域迈出关键一步。该产品由腾讯科技（北京）有限公司开发，旨在利用底层AI大模型能力，为投资者提供证券业务范畴内的专业咨询服务。目前，该功能仅对受邀用户开放，需通过申请成为“内测体验官”方可接入。作为腾讯理财生态的最新补充，“腾讯AI问股”与现有的腾讯自选股、腾讯微证券及理财通等产品形成战略协同。其核心价值在于通过智能化交互降低普通用户的投资决策门槛，进一步补齐了腾讯在互联网财富管理链路中的智能服务短板。",
+    "资讯标题": "腾讯正式开启“AI问股”小程序限量内测，大模型全面接入证券咨询服务",
+    "内容": "腾讯近日正式开启“腾讯AI问股”小程序的限量内测，该产品由腾讯科技（北京）有限公司开发，旨在利用底层AI大模型能力，为投资者提供证券业务范畴内的专业咨询服务。目前该功能仅对受邀的“内测体验官”开放。作为腾讯理财生态的最新补充，“腾讯AI问股”与腾讯自选股、腾讯微证券及理财通等产品形成战略协同，核心价值在于通过智能化交互降低普通用户的投资决策门槛。在市场竞争层面，腾讯凭借微信生态的流量入口与用户触达优势入局，被视为搅动存量市场的“鲶鱼”。此举不仅加剧了互联网券商与投顾市场的竞争压力，更有望倒逼行业加速AI技术迭代与服务体验升级，推动财富管理市场进入生态协同与算法驱动的新阶段。",
     "发布日期": "2026-03-23",
     "原文链接": "https://www.aibase.com/zh/news/26458",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c84393489a09e530748c3f9d0ea5ec3f.jpg",
@@ -200,8 +240,18 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0323/6390987182883057129987647.jpg"
   },
   {
-    "资讯标题": "网易云音乐全面接入 OpenClaw 生态，上线业内首个 AI Agent 音乐服务接口",
-    "内容": "网易云音乐正式宣布全面接入 OpenClaw 生态，将音乐推荐、搜索等核心能力封装为标准化 CLI 及自动化 Skill，成为业内首个向 AI Agent 深度开放核心服务能力的音乐平台。此次升级改变了传统数字音乐交互逻辑，用户及开发者可通过 IM 窗口以自然语言对话形式，远程调用并自由组合网易云音乐的底层服务。这些模块化“音乐组件”可无缝嵌入数字空间与智能硬件，实现从“人找歌”向“意图驱动”的跨越。该举措标志着音乐流媒体服务正从独立 App 形态向泛在化 AI 插件转型，通过开放标准化 API 与 Skill，音乐平台能更高效地接入车载、家居及办公等多元智能场景，为 AI 生态开发者提供高质量垂直领域素材，进一步优化音乐服务的触达效率。",
+    "资讯标题": "腾讯推出微信ClawBot插件，个人AI助手OpenClaw实现直连微信聊天",
+    "内容": "腾讯正式推出微信ClawBot插件，实现个人AI助手OpenClaw（龙虾）与微信的私密连接。用户在微信“设置-插件”启用微信ClawBot后，通过设备安装命令及扫码绑定，即可在微信聊天界面直接向AI助手发送指令并获取回复，适用于学习、工作及内容创作场景。官方明确该通道为个人专用，不支持群聊，且不具备自动化操作微信账号权限，以保障安全性。此外，腾讯“龙虾”特攻队旗下的QClaw、Workbuddy等产品已支持企业微信绑定，腾讯云同步提供云端快捷配置方案，降低企业集成门槛。此次发布标志着腾讯加速将大模型能力嵌入超级应用，推动“AI助手即服务”向日常通讯场景渗透，为C端用户提供更即时的交互入口。",
+    "发布日期": "2026-03-23",
+    "原文链接": "https://www.aibase.com/zh/news/26443",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a4cffce23fa0bd40b8cdcab8f723bcc2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a4cffce23fa0bd40b8cdcab8f723bcc2.jpg",
+    "配图仓库路径": "assets/news_images/a4cffce23fa0bd40b8cdcab8f723bcc2.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0323/6390985643517441101541847.jpg"
+  },
+  {
+    "资讯标题": "网易云音乐全面接入OpenClaw，上线业内首个AI Agent音乐服务接口",
+    "内容": "网易云音乐正式宣布全面接入OpenClaw生态，并将其音乐推荐、搜索等核心能力封装为标准化CLI及自动化Skill，成为业内首个向AI Agent深度开放核心服务能力的音乐平台。此次升级改变了传统数字音乐交互逻辑，开发者及用户可通过IM窗口以自然语言对话形式，远程调用并自由组合网易云音乐的底层服务。这些模块化的“音乐组件”可无缝嵌入数字空间与智能硬件，实现从“人找歌”到“意图驱动”的交互跨越。此举标志着音乐流媒体服务正从独立App形态向泛在化AI插件转型，通过开放标准化API与Skill，网易云音乐能够快速接入车载、家居及办公等多元化智能场景，显著优化音乐服务的触达效率，并为AI生态开发者提供高质量的垂直领域素材。",
     "发布日期": "2026-03-23",
     "原文链接": "https://www.aibase.com/zh/news/26463",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0ed55d697ac4d599a7c4c7a23e9af680.jpg",
@@ -211,7 +261,7 @@
   },
   {
     "资讯标题": "字节跳动发布Seedance 2.0视频生成模型，登顶Artificial Analysis榜单",
-    "内容": "字节跳动正式在全球推出前沿AI视频生成模型Seedance 2.0。该模型采用多模态统一架构，支持文本、图像、音频及视频多输入方式，可生成最高1080p分辨率的高保真视频，并实现原生音视频同步。在Artificial Analysis的Text-to-Video盲测榜单中，Seedance 2.0以1269的Elo分数位居首位，在Image-to-Video领域亦领先于Google Veo3、OpenAI Sora及Kling等竞品。Seedance 2.0在复杂物理模拟、人物一致性及相机运动控制方面表现突出，适用于短视频、广告及影视制作。目前，用户可通过国际版Dreamina网页端、CapCut桌面版及移动端访问该模型。此次全球部署通过字节系生态降低了高质量视频创作门槛，未来API的开放将进一步赋能开发者与企",
+    "内容": "字节跳动旗下AI视频生成模型Seedance 2.0已正式全球上线。该模型采用多模态统一架构，支持文本、图像、音频及视频多输入方式，可生成最高1080p分辨率的高保真视频，并实现原生音视频同步。在Artificial Analysis的Text-to-Video盲测榜单中，Seedance 2.0以1269的Elo分数位居首位，在Image-to-Video领域亦领先于Google Veo3、OpenAI Sora及Kling等竞品。Seedance 2.0在复杂交互场景物理模拟、人物一致性及相机运动控制方面表现突出，适用于短视频、广告及影视制作。目前，用户可通过国际版Dreamina网页端及CapCut桌面与移动端访问体验。该模型的全球部署进一步降低了高质量AI视频创作门槛，字节跳动后续或将通过API开放赋能",
     "发布日期": "2026-03-23",
     "原文链接": "https://www.aibase.com/zh/news/26464",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ea0119180b41746c4949d04db8e6b6cb.jpg",
@@ -220,8 +270,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0323/6390987742567593804380989.jpg"
   },
   {
-    "资讯标题": "千问上线打车skill，可告诉AI“我要空气清新的车”",
-    "内容": "千问上线打车skill，可告诉AI“我要空气清新的车”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 23, 2026223月23日，千问上线打车能力，可一句话完成选车型、添加途经点、预约时间等操作，还支持“要空气清新的车，价格不超过30元”、“驾驶平稳”、“服务态度好”等个性化需求。即便是复杂需求，用户只需直接表达，千问都能理解意图并完成车辆匹配。例如，“我们一家人想去什刹海看夕阳，打车去，6个人”，系统可自动判断人数并匹配商务车。而对于“去医院、车上有病人、要开得稳的老司机”，千问则会优先推荐驾驶平稳的车，还可以给司机捎句话，请“提前开窗通风”。行程结束后，用户直接通过“支付宝AI付”即可完成支付。",
+    "资讯标题": "千问正式上线打车Skill，支持自然语言预约与个性化车辆匹配",
+    "内容": "3月23日，千问正式上线打车Skill，用户可通过自然语言一句话完成选车型、添加途经点及预约时间等操作。该功能支持“空气清新”、“驾驶平稳”等个性化需求，并能根据人数自动匹配商务车。在交互层面，千问不仅支持行程中途添加途经点，还具备记忆功能，可识别“回家”、“去公司”等指令。此外，打车能力已与点外卖、订机酒等生态服务打通，支持跨服务串联执行，行程结束后可通过“支付宝AI付”完成支付。此次更新是千问“AI办事”向复杂生活场景延伸的关键一步，旨在通过意图识别与多步骤指令执行，为用户提供更符合个人偏好的出行服务。",
     "发布日期": "2026-03-23",
     "原文链接": "https://www.aibase.com/zh/news/26439",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7d6fc77723907e94a43baa2de69bde53.png",
@@ -230,8 +280,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0323/6390985518879566411853009.png"
   },
   {
-    "资讯标题": "MiniMax发布Token Plan订阅计划，支持M2.7编程及全模态模型调用",
-    "内容": "MiniMax于2026年3月23日将原Coding Plan升级为Token Plan，推出全球首个支持全模态模型的订阅计划。用户通过统一的Token Plan Key，即可调用包括M2.7编程模型、Hailuo视频模型、Speech语音模型、Music音乐模型及Image图像生成模型在内的全系能力。在产品架构上，该计划延续了编程模型用量标准，并为Plus及以上套餐用户新增独立的多模态调用额度。针对高并发需求，MiniMax同步推出Speech2.8及Hailuo2.3/2.3-Fast专用资源包，成本较按量付费模式降低约20%。为应对流量高峰，MiniMax引入动态调控机制，建议超高并发任务转向按量付费API模式。此次升级标志着MiniMax从单一编程工具向全场景创作生态转型，通过整合多模态能力降低了开发者",
+    "资讯标题": "MiniMax升级推出Token Plan订阅计划，支持M2.7及全模态模型调用",
+    "内容": "MiniMax于2026年3月23日将原Coding Plan升级为Token Plan，推出全球首个支持全模态模型的订阅计划。用户通过统一的Token Plan Key，可调用包括M2.7编程模型、Hailuo视频模型、Speech语音模型、Music音乐模型及Image图像生成模型在内的全系能力。该计划延续了原编程模型用量标准，并为Plus及以上套餐用户提供独立的多模态调用额度。针对高并发需求，MiniMax同步推出Speech2.8及Hailuo2.3/2.3-Fast专用资源包，较按量付费模式成本降低约20%。为应对流量高峰，MiniMax引入动态调控机制，建议超高并发任务使用按量付费API模式。此次升级标志着MiniMax从单一编程工具向全场景创作生态转型，通过整合多模态能力降低了开发者构建复杂Age",
     "发布日期": "2026-03-23",
     "原文链接": "https://www.aibase.com/zh/news/26453",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3b5fbfdcfd40194bb0529c09751f1089.jpg",
@@ -241,12 +291,12 @@
   },
   {
     "资讯标题": "MiniMax 宣布旗下 AI Agent 产品 MaxClaw 正式接入个人微信",
-    "内容": "3月23日，MiniMax正式宣布旗下AI Agent产品MaxClaw已实现对个人微信端的接入支持。此次更新标志着MaxClaw完成了主流即时通讯工具的全面覆盖，目前已支持个人微信、企业微信、飞书、钉钉、Telegram及WhatsApp。通过将AI智能体直接嵌入用户日常社交与办公场景，MiniMax旨在降低AI使用门槛，为个人及小型团队提供更灵活的自动化办公方案。针对社交平台接入的安全性，国家互联网应急中心等机构已发布OpenClaw安全使用实践指南，引导开发者规范利用AI插件能力。此次全渠道布局意味着MaxClaw正从单一工具向常驻社交生态的智能伙伴转型，加速推动AI服务在即时通讯领域的渗透与普及。",
+    "内容": "3月23日，MiniMax正式宣布旗下AI Agent产品MaxClaw实现对个人微信端的接入支持。至此，MaxClaw已完成对个人微信、企业微信、飞书、钉钉、Telegram及WhatsApp等主流即时通讯工具的全面覆盖。此次接入旨在降低AI使用门槛，为个人用户及小型创业团队提供更灵活的自动化办公方案。针对社交平台接入的安全性，国家互联网应急中心等机构已发布OpenClaw安全使用实践指南，引导开发者规范化利用AI插件能力。MiniMax通过此次全渠道渗透，推动智能体从单一工具向常驻社交场景的伙伴角色转变，构建起无处不在的智能服务网络。",
     "发布日期": "2026-03-23",
     "原文链接": "https://www.aibase.com/zh/news/26459",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "配图仓库路径": "assets/news_images/b82ab55d3a84ba23216c18bbd208bd29.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202503311400459639_0.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图仓库路径": "assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309201735148362_0.jpg"
   }
 ]
