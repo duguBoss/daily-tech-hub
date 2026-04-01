@@ -1,7 +1,87 @@
 [
   {
-    "资讯标题": "阿里发布 Qwen 3.6 Plus 预览版并上线 OpenRouter，支持 100 万上下文免费调用",
-    "内容": "3月31日，阿里千问系列最新演进版 Qwen 3.6 Plus Preview 正式登陆聚合平台 OpenRouter，并向所有用户开放限时免费调用。该模型作为 Qwen Plus 系列的下一代预演，在底层架构上进行了深度优化，采用先进的混合架构以提升扩展性并降低推理能耗。相比 Qwen 3.5 系列，新模型在逻辑推理能力及 Agent Behavior 的可靠性上显著增强，在复杂问题解决、前端开发及代理编码等场景下表现优异。此次上线最大的亮点在于支持 100 万超长上下文处理能力，且无需充值即可通过 OpenRouter 账号直接调用。开发者可通过修改配置文件，将模型路径设置为 qwen/qwen3.6-plus-preview:free 并配置 API 密钥，即可在本地环境接入使用。这一举措为开发者提供了高",
+    "资讯标题": "高德正式全量开源通用机器人基座模型ABot-M0，刷新多项行业基准测试纪录",
+    "内容": "高德今日正式全量开源全球首个基于统一架构的机器人具身操作基座模型ABot-M0，旨在实现“一个通用大脑适配多种形态机器人”。该模型在Libero-Plus基准测试中任务成功率达80.5%，较Pi0提升近30%，并刷新了Libero与RoboCasa的SOTA纪录。此次开源涵盖三大维度：数据层面提供包含超600万条真实操作轨迹的UniACT数据集；算法层面公开动作流形学习（AML）算法与双流感知架构；模型层面提供端到端预训练模型及完整工具链。ABot-M0通过降低异构硬件适配门槛，旨在打破具身智能领域的数据孤岛，加速机器人技术从实验室向工业与家庭场景的落地应用，为开发者提供开箱即用的通用具身智能解决方案。",
+    "发布日期": "2026-04-01",
+    "原文链接": "https://www.aibase.com/zh/news/26764",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ccd7807421034efcd375f0e20fd00512.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ccd7807421034efcd375f0e20fd00512.jpg",
+    "配图仓库路径": "assets/news_images/ccd7807421034efcd375f0e20fd00512.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391065638521616924258267.jpg"
+  },
+  {
+    "资讯标题": "阿里发布图像生成模型 Wan2.7-Image，支持精准捏脸与长文本渲染",
+    "内容": "阿里大模型团队正式发布图像生成与编辑统一模型 Wan2.7-Image，该模型已在阿里云百炼平台上线 API 并开放官网体验。Wan2.7-Image 采用生成与理解统一的架构，在共享隐空间实现语义映射，显著提升了创作的精密控制能力。核心功能包括：支持虚拟角色“捏脸”，用户可精准控制骨相与五官细节；引入精准调色盘，支持参考图色彩复刻；支持 3K Token 超长文本渲染，可生成 A4 纸大小的复杂文字、表格或公式。在编辑层面，该模型支持交互式局部元素替换，并能确保多主体在组图生成中的风格与特征高度统一。此次升级标志着 AI 绘画从随机生成向工业级精密控制演进，将大幅降低短剧分镜、电商广告等专业领域的生产门槛。",
+    "发布日期": "2026-04-01",
+    "原文链接": "https://www.aibase.com/zh/news/26761",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0f51fc9c78c554fbd74a6124926441f6.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0f51fc9c78c554fbd74a6124926441f6.png",
+    "配图仓库路径": "assets/news_images/0f51fc9c78c554fbd74a6124926441f6.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391065556482377188101226.png"
+  },
+  {
+    "资讯标题": "谷歌发布视频生成模型 Veo3.1Lite，运营成本降低超50%并支持1080p输出",
+    "内容": "谷歌DeepMind于2026年3月31日正式发布视频生成模型Veo3.1Lite，在保持Veo3.1Fast同等生成速度的前提下，运营成本降低超过50%。该模型现已集成至Gemini API和Google AI Studio，支持4至8秒的文本转视频及图像转视频，提供720p（每秒0.05美元）与1080p（每秒0.08美元）两种分辨率选项，并适配多种画幅。谷歌同时宣布自4月7日起下调Veo3.1Fast价格，其4K分辨率生成成本将降至每秒0.30美元。此次定价调整旨在通过高商业能效比巩固开发者生态，标志着视频生成技术正加速从技术展示阶段迈向大规模商业化应用阶段，低成本与高效率成为开发者选择底座模型的核心指标。",
+    "发布日期": "2026-04-01",
+    "原文链接": "https://www.aibase.com/zh/news/26730",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f880f2a25afd196bed011133488761f1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f880f2a25afd196bed011133488761f1.jpg",
+    "配图仓库路径": "assets/news_images/f880f2a25afd196bed011133488761f1.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391063033504988148131892.jpg"
+  },
+  {
+    "资讯标题": "联想集团宣布转型AI原生公司，目标未来两个财年实现营收突破1000亿美元",
+    "内容": "联想集团在最新全球誓师大会上正式宣布转型为AI原生公司，标志着其业务逻辑将全面以人工智能为核心进行重构。联想将新财年定义为AI“交付”之年，重点聚焦混合式AI（端侧+云端）战略，通过全栈布局将AI能力具象化为创新产品与解决方案。公司管理层明确了未来两个财年的财务目标：力争实现营收突破1000亿美元，并达成5%以上的净利润率。此次转型旨在推动联想从传统硬件厂商向高利润率的AI原生实体演进，通过将PC等终端设备升级为具备主动思考与实时响应能力的AI Agent，重塑其在AI时代的行业生态主权。这一战略调整反映了传统IT产业正加速向“算力+算法”驱动的下半场转型，联想试图通过规模化应用验证，彻底摆脱硬件组装商的标签。",
+    "发布日期": "2026-04-01",
+    "原文链接": "https://www.aibase.com/zh/news/26762",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6ee4626477f828d6a47b2c9d9fcbf1c8.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6ee4626477f828d6a47b2c9d9fcbf1c8.png",
+    "配图仓库路径": "assets/news_images/6ee4626477f828d6a47b2c9d9fcbf1c8.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391066325364789478782913.png"
+  },
+  {
+    "资讯标题": "字节跳动 Seed 计划火热开启:2027届大模型天才抢夺战正式打响!",
+    "内容": "字节跳动 Seed 计划火热开启:2027届大模型天才抢夺战正式打响。AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 1, 20267 面对全球人工智能领域的激烈竞争，字节跳动（ByteDance）于2026年4月1日正式发布了 Seed2027届大模型人才校园招聘计划。该项目旨在全球范围内发掘并培养具备大模型研发潜力的顶尖学子，涵盖了正式校招及关键的实习岗位。此次招聘以“Seed”为名，寓意种子与希望。字节跳动表示，将通过该项目邀请优秀的年轻开发者加入，共同“向智能上限发起挑战”。这不仅是一次普通的人才招募，更是字节跳动在大模型底层技术、多模态架构以及前沿应用领域深耕布局的重要一环。",
+    "发布日期": "2026-04-01",
+    "原文链接": "https://www.aibase.com/zh/news/26754",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4599f0dd37e9176f6b35572f97478f89.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4599f0dd37e9176f6b35572f97478f89.jpg",
+    "配图仓库路径": "assets/news_images/4599f0dd37e9176f6b35572f97478f89.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391064945847248315354021.jpg"
+  },
+  {
+    "资讯标题": "OpenAI完成ChatGPT适配苹果CarPlay，支持车载语音交互",
+    "内容": "OpenAI已正式完成对苹果CarPlay的适配更新，iPhone用户现可通过车载中控屏与ChatGPT进行语音交互。该功能需用户将系统升级至iOS 26.4及以上版本。为确保行车安全，苹果对该应用实施了严格限制：交互界面禁止显示任何文字或图像，仅允许使用标准化语音控制面板，且操作界面最多设置四个功能按钮。目前ChatGPT在CarPlay中仅限于逻辑对话服务，尚不具备车辆硬件控制权（如空调、车窗调节）及iPhone系统设置权限，且不支持特定口令远程唤醒，需手动点击图标启动。此次接入标志着第三方语音助手类目在CarPlay车载端的正式破冰，推动车载系统从简单的手机映射工具向具备实时思考能力的智能副驾转型，预计Claude等其他模型也将陆续跟进。",
+    "发布日期": "2026-04-01",
+    "原文链接": "https://www.aibase.com/zh/news/26737",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5abc15d2745932e3e6ef4595a670b830.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5abc15d2745932e3e6ef4595a670b830.png",
+    "配图仓库路径": "assets/news_images/5abc15d2745932e3e6ef4595a670b830.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391063239277375286513234.png"
+  },
+  {
+    "资讯标题": "ClawHub 推出官方中国镜像站！国内 AI Agent 开发者访问技能库再无延迟",
+    "内容": "ClawHub 推出官方中国镜像站。国内 AI Agent 开发者访问技能库再无延迟AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 1, 202649AIbase 报道4月1日消息，OpenClaw 生态的核心技能注册中心 ClawHub 正式上线官方中国镜像，地址为 **https://mirror-cn.clawhub.com**。这一举措旨在为中国用户提供更快速、稳定的技能访问体验，显著降低跨境网络延迟带来的困扰。ClawHub 是什么。“AI Agent 的 npm 仓库”ClawHub 是 OpenClaw AI Agent 框架的官方技能市场，被广泛称为“AI Agent 的 npm”。",
+    "发布日期": "2026-04-01",
+    "原文链接": "https://www.aibase.com/zh/news/26760",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9cca4ff7d85167d8f8206ab4b8fe0c8b.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9cca4ff7d85167d8f8206ab4b8fe0c8b.png",
+    "配图仓库路径": "assets/news_images/9cca4ff7d85167d8f8206ab4b8fe0c8b.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391065525396702121292657.png"
+  },
+  {
+    "资讯标题": "Anthropic因npm发包疏忽导致Claude Code五万行源码泄露",
+    "内容": "Anthropic近日因在npm发包时未删除关键.map文件，导致其命令行工具Claude Code的完整源代码意外公开。此次泄露涉及近两千份文件及超过50万行TypeScript代码，目前源码已被开发者备份至GitHub。泄露代码揭示了两个未发布的核心项目：代号BUDDY的像素风赛博宠物功能，具备拟人化性格设定；以及代号KAIROS的“永远在线的克劳德”，该功能引入仿生学“夜间做梦”机制，支持AI在后台自主整理交互碎片以巩固核心内容。此次“实习生级别”的工程疏忽引发了行业对AI安全治理的深度讨论，凸显了顶级科技公司在追求研发速度时，底层代码管理与发布流程中存在的脆弱性。对于行业而言，此次事件警示当AI Agent被赋予更高系统权限时，任何微小的工程失误都可能演变为重大的技术资产流失与安全风险。",
+    "发布日期": "2026-04-01",
+    "原文链接": "https://www.aibase.com/zh/news/26735",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/af5a671b1f7bf6efef42a5449dce421d.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/af5a671b1f7bf6efef42a5449dce421d.png",
+    "配图仓库路径": "assets/news_images/af5a671b1f7bf6efef42a5449dce421d.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391063084109228952655078.png"
+  },
+  {
+    "资讯标题": "阿里 Qwen 3.6 Plus 预览版上线 OpenRouter 并提供 100 万上下文免费调用",
+    "内容": "3月31日，阿里千问系列最新演进版 Qwen 3.6 Plus Preview 正式登陆聚合平台 OpenRouter，并向所有用户开放限时免费调用。该模型支持 100 万超长上下文处理能力，允许用户一次性处理长篇文档或大规模工程代码库。在架构层面，Qwen 3.6 Plus Preview 采用先进的混合架构，旨在提升模型扩展性并降低推理能耗。相比 Qwen 3.5 系列，新模型在逻辑推理能力及 Agent Behavior 的可靠性上实现显著优化，在复杂问题解决、前端开发及代理编码等核心场景的表现已持平或超越当前主流旗舰模型。开发者可通过 OpenRouter 平台直接调用，或在第三方工具中通过配置路径 qwen/qwen3.6-plus-preview:free 进行接入。此次发布为开发者提供了低门槛体验",
     "发布日期": "2026-03-31",
     "原文链接": "https://www.aibase.com/zh/news/26708",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/919b58a9837eb2e984de2224a883eda0.png",
@@ -11,7 +91,7 @@
   },
   {
     "资讯标题": "通义实验室发布多模态大模型 Qwen3.5-Omni，斩获215项 SOTA",
-    "内容": "通义实验室正式发布多模态大模型 Qwen3.5-Omni，该模型采用原生全模态架构，在音视频分析、推理及对话等测试中斩获 215 项 SOTA，其中通用音频理解表现全面超越 Gemini-3.1Pro。技术层面，Qwen3.5-Omni 采用 Hybrid-Attention MoE 架构，支持 256K 超长上下文，并引入 ARIA 技术与 RVQ 编码优化语音输出。该模型具备 Vibe Coding 代码生成、语义打断实时交互、细粒度视频拆解及 113 种语言的个性化音色克隆能力。目前，Qwen3.5-Omni 已在阿里云百炼平台上线，提供 Plus、Flash、Light 三种尺寸，并同步开放 Realtime API 及魔搭社区 Demo。此次更新标志着模型从屏幕助手向理解物理世界的智能体演进，显著提升",
+    "内容": "通义实验室正式发布原生多模态大模型 Qwen3.5-Omni，在音视频分析、推理及对话等领域斩获 215 项 SOTA，通用音频理解表现全面超越 Gemini-3.1Pro。该模型采用 Hybrid-Attention MoE 架构，支持 256K 超长上下文，可处理 10 小时音频或 1 小时视频。其 Talker 模块引入 ARIA 技术与 RVQ 编码，显著提升语音实时交互能力，支持语义打断及语气调节。应用层面，Qwen3.5-Omni 具备 Vibe Coding 代码生成、细粒度视频结构化拆解及 113 种语言的个性化音色克隆功能。目前，该模型已在阿里云百炼平台上线，提供 Plus、Flash、Light 三种尺寸，并同步开放 Realtime API 及魔搭社区 Demo，标志着 AI 从屏幕助手向",
     "发布日期": "2026-03-31",
     "原文链接": "https://www.aibase.com/zh/news/26674",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/02209293f92614f964b80c7c4d9e807b.jpg",
@@ -20,28 +100,18 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0331/6391054474411937301302557.jpg"
   },
   {
-    "资讯标题": "苹果Apple智能国行Beta版突发上线后紧急下线，官方暂无正式发布计划",
-    "内容": "2026年3月31日凌晨，Apple智能（Apple Intelligence）国行Beta版在部分iOS 26.4及以上系统设备上意外激活，随后被紧急下线。此次意外上线的版本包含全新Siri界面、照片消除、智绘表情、实时翻译及视觉智能等核心工具，但用户反馈功能不稳定，且GPT扩展插件无法使用。苹果官方目前并无正式发布计划，此次事件被证实为非计划内的意外上线。分析指出，该功能尚未获得中国监管部门批准，且测试版中集成的谷歌反向图片搜索功能在中国境内无法连接。此次风波凸显了国际科技巨头在华落地生成式AI服务时，在合规性审查与技术适配方面仍面临复杂挑战。目前，用户在设置中已无法下载相关功能。",
-    "发布日期": "2026-03-31",
-    "原文链接": "https://www.aibase.com/zh/news/26675",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/66636334cc16a50b272cd8e293b0891a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/66636334cc16a50b272cd8e293b0891a.jpg",
-    "配图仓库路径": "assets/news_images/66636334cc16a50b272cd8e293b0891a.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0331/6391054509071795619598123.jpg"
-  },
-  {
     "资讯标题": "美图AI开放平台发布Meitu CLI工具，首批8大影像能力接入OpenClaw生态",
-    "内容": "3月31日，美图AI开放平台正式发布Meitu CLI工具，将核心影像能力标准化封装，首批8大AI影像能力（涵盖图像、视频、设计场景）同步登陆ClawHub并接入OpenClaw生态。该工具采用“开箱即用、按量付费”模式，旨在降低高阶视觉生产门槛。技术上，Meitu CLI将美图影像算法解构为可组合、可复用的标准化模块，结合OpenClaw云端集成特性，支持移动端远程指令触发与事件驱动的自动化流程。例如在电商场景中，ERP系统上新可自动触发Meitu CLI生成并同步商品图，实现全链路去人工化。此次发布标志着美图AI工具从单一功能向工程化集成转型，通过能力拆解与生态接入，为微型企业及个体开发者提供生产力底座，推动影像行业工业化协作的标准化进程。",
+    "内容": "3月31日，美图AI开放平台正式发布Meitu CLI工具，实现核心影像能力的标准化封装，并同步登陆ClawHub全面接入OpenClaw生态。此次首批开放了涵盖AI图像、视频及设计在内的8种场景化影像能力，采用“开箱即用、按量付费”模式。Meitu CLI将美图影像算法解构为可组合、可复用的标准化模块，支持移动端远程指令触发与事件驱动的自动化流程。在电商等业务场景中，该工具可实现从创作到分发的全链路去人工化，显著降低了初创团队构建专业级视觉工作流的技术门槛。美图通过此次能力拆解与生态接入，旨在抢占微型企业及个体开发者的生产力底座市场，推动AI影像工具从单一功能向工程化集成转化，为行业工业化协作提供标准化范本。",
     "发布日期": "2026-03-31",
     "原文链接": "https://www.aibase.com/zh/news/26693",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0719dd169958cbdcab8edffc93903fb7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0719dd169958cbdcab8edffc93903fb7.jpg",
-    "配图仓库路径": "assets/news_images/0719dd169958cbdcab8edffc93903fb7.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201907152222451022_6.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6ee4626477f828d6a47b2c9d9fcbf1c8.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6ee4626477f828d6a47b2c9d9fcbf1c8.png",
+    "配图仓库路径": "assets/news_images/6ee4626477f828d6a47b2c9d9fcbf1c8.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391066325364789478782913.png"
   },
   {
-    "资讯标题": "爱诗科技发布视频生成大模型PixVerse V6，实现物理模拟与叙事连贯性突破",
-    "内容": "3月31日，爱诗科技正式发布全新视频生成大模型PixVerse V6，标志着AI视频生成从画面构建迈向物理常识时代。该版本在人物真实感、物理模拟及叙事连贯性上实现显著升级。在人物表现方面，模型通过优化皮肤纹理与毛孔细节，告别了AI视频常见的“磨皮感”，并能展现细腻的情绪递进。在物理模拟层面，PixVerse V6增强了对液体流动、布料摆动及物体碰撞的逻辑理解，有效解决了高动态场景下的穿模问题。针对专业创作需求，该模型攻克了多镜头切换下的时空一致性难题，确保远近景切换时惯性、光源与阴影的统一。此外，PixVerse V6支持通过短提示词生成子弹时间、FPV等专业特效，目前已同步上线Web端、App端及API平台，降低了专业影像创作门槛，为开发者与普通用户提供更高效的创作工具。",
+    "资讯标题": "更真、更美、更好用！爱诗科技发布 PixVerse V6：AI 视频迈入“物理常识”时代",
+    "内容": "更真、更美、更好用。爱诗科技发布 PixVerse V6：AI 视频迈入“物理常识”时代AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 31, 2026127AI 视频生成正在从“能画出来”向“真实世界”加速进化。3月31日，爱诗科技（AIsphere） 正式开启“闪电发布周”，并于首日重磅发布了全新升级的视频生成大模型 PixVerse V6。该版本在人物真实感、物理模拟及叙事连贯性上实现全面突破，标志着 AI 视频正从生成画面走向“构建世界”。质感跃迁:皮肤纹理与情绪的“实拍级”表现 人物表现一直是 AI 视频的“深水区”。",
     "发布日期": "2026-03-31",
     "原文链接": "https://www.aibase.com/zh/news/26671",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c6e0dd0b3687981f783d869eb7a956d8.png",
@@ -51,7 +121,7 @@
   },
   {
     "资讯标题": "支付宝发布支付集成Skill并上线魔搭社区，支持开发者三步接入支付",
-    "内容": "3月31日，支付宝正式发布国内首个“支付集成Skill”，并同步上线魔搭社区Skills中心，旨在通过标准化组件降低AI应用支付接入门槛。该产品将基础支付能力深度封装，支持Vibe Coding开发者通过自然语言描述需求，仅需下载Skill、安装插件、自然语言配置三步，即可实现支付功能接入，实现“零代码”开发。为保障安全性，支付宝同步升级了“沙箱环境”，开发者可在无真实资金流转前提下，完成全链路支付测试与商业化验证。此次发布是支付宝构建AI支付产品矩阵的重要一环，此前已布局支付MCP Server、AI付、AI打赏及AI订阅付费等能力。该Skill的上线完善了AI开发生态的支付集成基础设施，将显著提升开发者构建商业化AI应用的效率，推动AI产业与新消费场景的深度融合。",
+    "内容": "3月31日，支付宝正式发布国内首个“支付集成Skill”，并同步上线魔搭社区Skills中心。该产品将基础支付能力封装为标准化组件，支持Vibe Coding开发者通过自然语言快速接入支付功能。开发者仅需三步即可完成接入：下载Skill、安装至开发工具、通过自然语言描述收款需求。此举旨在解决传统支付接入流程复杂、周期长的问题，实现“零代码”与“开箱即用”。同时，支付宝升级了“沙箱环境”，允许开发者在无真实资金流转下进行全链路支付测试，验证商业化可行性。作为支付宝AI支付产品矩阵（含支付MCP Server、AI付、AI打赏、AI订阅付费等）的重要组成部分，该Skill的上线进一步完善了AI开发生态的支付集成能力，降低了AI应用商业化门槛，推动AI产业与新消费场景的融合。",
     "发布日期": "2026-03-31",
     "原文链接": "https://www.aibase.com/zh/news/26701",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/744a8d60df09c5890c2499b1a3daa65c.png",
@@ -60,8 +130,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0331/6391056524151410499429813.png"
   },
   {
-    "资讯标题": "小米澎湃OS 3 Beta推送自研输入法，集成MiMo大模型实现系统级AI纠错",
-    "内容": "小米近日向澎湃OS 3 Beta内测用户推送了自研系统级输入法，标志着输入能力与系统底层AI算力的深度融合。该输入法核心依托小米自研的MiMo大模型，是国内首个在手机端实现类OpenClaw（昵称“龙虾”）Agent交互的尝试。通过内置AI，输入法支持智能纠错、语义联想及文本补齐功能。针对语音输入场景，新版本具备自动去除口语词、基础语法纠错及个性化词库调整能力，能将随口表达即时转化为书面化文字。此次更新将输入法从工具软件升级为AI驱动的交互入口，旨在通过端侧大模型算力，大幅提升用户在办公与社交场景下的文字输入效率与准确度。",
+    "资讯标题": "小米澎湃OS 3 Beta推送自研输入法，内置MiMo大模型实现系统级AI纠错",
+    "内容": "小米近日向澎湃OS 3 Beta内测用户推送了自研系统级输入法，标志着输入能力与系统底层AI算力的深度融合。该输入法核心依托小米自研的MiMo大模型，是国内首个在手机端实现类OpenClaw（昵称“龙虾”）Agent交互的尝试。在功能层面，该输入法支持智能纠错、语义联想及文本补齐。针对语音输入场景，系统可自动去除“嗯”、“啊”等口语词，并进行基础语法纠错与个性化词库调整，将用户的随口表达实时转化为书面化文字。此次更新通过将大模型能力下沉至输入法这一高频交互入口，旨在大幅提升用户的办公与社交输入效率，是小米在端侧AI应用落地的重要进展。",
     "发布日期": "2026-03-31",
     "原文链接": "https://www.aibase.com/zh/news/26673",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0905ba52814768b5e0b60556abd8581.png",
@@ -70,8 +140,18 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0331/6391054463680941388102729.png"
   },
   {
+    "资讯标题": "企业微信官方开源命令行工具wecom-cli",
+    "内容": "IT之家 3 月 30 日消息，今天上午，腾讯公司公关总监张军宣布，3 月 30 日，企业微信 CLI 开源项目上架 GitHub 社区，开放消息、日程、文档、智能表、会议、待办、通讯录七大核心产品能力，支持主流 AI Agent （如 Claude Code、Codex、WorkBuddy、QClaw 等）调用。开发者可基于这些能力，让 AI Agent 能以更自然的方式理解和调用企业微信能力，快速开发更贴近日常办公场景的 AI 应用。",
+    "发布日期": "2026-03-31",
+    "原文链接": "https://www.ithome.com/0/934/015.htm",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9ab2b70692e5db495aebc1dcee940acb.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9ab2b70692e5db495aebc1dcee940acb.png",
+    "配图仓库路径": "assets/news_images/9ab2b70692e5db495aebc1dcee940acb.png",
+    "原始配图链接": "https://img.ithome.com/newsuploadfiles/2026/3/90658a71-103f-405a-8bb0-51846fa4ba4e.png?x-bce-process=image/format,f_auto"
+  },
+  {
     "资讯标题": "中兴通讯联合字节跳动研发新一代豆包AI手机，预计2026年Q2发布",
-    "内容": "中兴通讯在2025年度业绩说明会上宣布，正与字节跳动合作研发新一代豆包AI手机，预计于2026年第二季度中晚期正式发布。该产品旨在实现系统级深度集成，将交互模式从传统的人工操作升级为“AI代为操作”。中兴通讯副总裁柏钢表示，此模式通过将大模型深度融入操作系统底层，实现跨应用自然语言执行，被定义为手机交互的“自动驾驶”。此前，努比亚已推出集成豆包AI助手的技术预览版。除豆包系列外，中兴正同步推进自研智能体平台“Co-Claw”（代号“龙虾”），计划年内推出相关机型。此次合作标志着硬件厂商与大模型厂商在AI Native终端领域的深度整合，随着IDC预测2026年中国AI手机出货量将达1.47亿台，AI智能体已成为智能终端竞争的核心赛道。",
+    "内容": "中兴通讯在2025年度业绩说明会上宣布，正与字节跳动深度合作研发新一代豆包AI手机，预计于2026年第二季度中晚期正式发布。该产品旨在实现系统级大模型集成，将交互模式从传统人机操作升级为“AI代为操作”，即手机交互的“自动驾驶”。此次合作基于此前努比亚豆包AI助手技术预览版的跨应用执行能力，通过将大模型融入操作系统底层实现深度协同。除豆包系列外，中兴正同步推进自研智能体平台“Co-Claw”（代号“龙虾”），并计划年内推出相关机型。行业分析指出，随着端侧大模型部署激增，AI智能体已成为智能终端竞争的核心赛道。IDC预测2026年中国新一代AI手机出货量将达1.47亿台，市场占比将突破50%，成为驱动行业增长的关键引擎。",
     "发布日期": "2026-03-31",
     "原文链接": "https://www.aibase.com/zh/news/26698",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8bd21017063adeaca63adf981fa28357.jpg",
@@ -80,18 +160,28 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202405160815252726_0.jpg"
   },
   {
-    "资讯标题": "智元机器人第10000台远征A3量产下线，15个月实现规模十倍跨越",
-    "内容": "智元机器人（AgiBot）于2026年3月28日正式完成第10,000台通用具身机器人“远征A3”的量产下线，标志着公司在具身智能领域实现从研发到大规模工业化生产的跨越。自2025年1月起，智元机器人在15个月内实现量产规模十倍增长，其中从5,000台到10,000台的产能翻倍仅耗时三个多月。智元机器人联合创始人、总裁兼CTO彭志辉表示，万台量产的达成验证了公司在制造效率、场景落地、数据飞轮及供应链生态的综合突破。此次产能的指数级释放，有效缓解了具身智能本体的供应瓶颈。随着生产成本摊薄与硬件可靠性提升，远征A3正加速从实验室原型向商业化深水区迈进，为人形机器人行业的大规模落地提供了关键参考。",
-    "发布日期": "2026-03-30",
-    "原文链接": "https://www.aibase.com/zh/news/26661",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d8481da3da1982ce0d599391e4446c82.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d8481da3da1982ce0d599391e4446c82.jpg",
-    "配图仓库路径": "assets/news_images/d8481da3da1982ce0d599391e4446c82.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202406051435016830_1.jpg"
+    "资讯标题": "Apple智能国行Beta版意外上线后紧急下线，官方暂无正式发布计划",
+    "内容": "2026年3月31日凌晨，Apple智能（Apple Intelligence）国行Beta版在部分iOS 26.4及以上设备上意外激活，随后被紧急下线。此次意外上线的版本涵盖了全新Siri界面、照片消除、智绘表情、实时翻译及视觉智能等核心工具，但用户反馈功能不稳定，且GPT扩展插件无法使用。苹果官方目前并无明确的近期发布计划。分析指出，此次事件属于非计划内的意外上线，主要受限于苹果尚未获得中国监管部门的最终批准，且版本中包含的谷歌反向图片搜索等功能在中国境内存在连接障碍。该事件反映出顶级终端厂商在华落地生成式AI服务时，仍面临严峻的合规性挑战与技术适配复杂性。目前，用户已无法在设置中下载相关功能。",
+    "发布日期": "2026-03-31",
+    "原文链接": "https://www.aibase.com/zh/news/26675",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/66636334cc16a50b272cd8e293b0891a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/66636334cc16a50b272cd8e293b0891a.jpg",
+    "配图仓库路径": "assets/news_images/66636334cc16a50b272cd8e293b0891a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0331/6391054509071795619598123.jpg"
   },
   {
-    "资讯标题": "微软开源语音 AI 模型家族 VibeVoice，支持 90 分钟长音频处理与多说话人生成",
-    "内容": "微软近日正式开源语音 AI 模型家族 VibeVoice，采用 MIT 协议并支持本地部署，GitHub 获 27K Star。该家族包含三个核心模型：VibeVoice-ASR-7B 可处理 60 分钟音频，支持 50 多种语言及说话人识别；VibeVoice-TTS-1.5B 专注于长形式生成，单次可产出 90 分钟多说话人对话，通过 7.5Hz 低帧率设计提升长序列计算效率；VibeVoice-Realtime-0.5B 则主打实时交互，首音频输出延迟约 300 毫秒。该系列模型通过嵌入音频水印等安全机制确保合规，旨在解决传统语音 AI 在长序列处理、说话人一致性及流畅度上的痛点。目前开发者可通过 GitHub 及 Hugging Face 获取模型权重，该技术有望在播客制作、会议转录及实时语音助手等领域",
+    "资讯标题": "智元机器人第10000台远征A3量产下线，实现15个月规模十倍跨越",
+    "内容": "智元机器人（AgiBot）于2026年3月28日正式完成第10,000台通用具身机器人“远征A3”的量产下线，标志着公司在具身智能领域实现从研发到大规模工业化生产的跨越。自2025年1月起，智元机器人在15个月内实现产能十倍增长，其中从5,000台到10,000台的产能翻倍仅耗时三个多月。智元机器人联合创始人、总裁兼CTO彭志辉表示，此次万台量产达成验证了公司在制造效率、场景落地、数据飞轮及供应链生态等维度的综合突破。随着生产成本摊薄与硬件可靠性提升，该进展预示着具身智能本体供应瓶颈正被打破，人形机器人正加速从实验室原型迈向商业化深水区，为行业规模化落地提供重要参考。",
+    "发布日期": "2026-03-30",
+    "原文链接": "https://www.aibase.com/zh/news/26661",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ccd7807421034efcd375f0e20fd00512.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ccd7807421034efcd375f0e20fd00512.jpg",
+    "配图仓库路径": "assets/news_images/ccd7807421034efcd375f0e20fd00512.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391065638521616924258267.jpg"
+  },
+  {
+    "资讯标题": "微软开源前沿语音 AI 家族 VibeVoice：单次处理 90 分钟多说话人对话，GitHub 迅速获 27K Star",
+    "内容": "微软开源前沿语音 AI 家族 VibeVoice：单次处理 90 分钟多说话人对话，GitHub 迅速获 27K StarAIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 30, 2026139微软近日开源了名为VibeVoice的前沿语音 AI 模型家族，涵盖自动语音识别（ASR）和文本转语音(TTS)等多项能力。该项目以其强大的长音频处理、多说话人自然对话生成以及实时低延迟特性，迅速在开发者社区引发关注，目前已在 GitHub 收获约27K Star。作为开源研究框架，VibeVoice 采用 MIT 许可协议，支持本地部署，无需云端订阅费用，旨在推动语音合成领域的协作与创新。",
     "发布日期": "2026-03-30",
     "原文链接": "https://www.aibase.com/zh/news/26659",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7077125fc7d891607606fc1416b99014.png",
@@ -100,18 +190,18 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0330/6391047905175226705224365.png"
   },
   {
-    "资讯标题": "企业微信正式开源 CLI 工具，支持 Claude 与 Codex 等 AI Agent 接入",
-    "内容": "3月30日，企业微信官方在GitHub正式开源CLI（命令行界面）项目，标志着企业办公生态向AI Agent全面开放。该CLI工具允许开发者通过命令行直接调用企业微信的7大核心办公能力，涵盖消息收发、日程管理、文档编辑及会议发起等高频场景。在技术适配方面，该项目已原生支持Claude Code、Codex、Work Buddy及QClaw等主流AI Agent框架。通过此次开源，企业微信将AI从单纯的对话辅助升级为具备“数字手脚”的执行者，实现从意图理解到任务落地的闭环。对于行业而言，此举大幅降低了AI接入企业业务流程的门槛，企业可更便捷地定制处理报销、排班及纪要整理等繁琐工作的“AI员工”。通过标准化交互与透明的权限管理，企业微信正加速向“AI原生办公操作系统”转型，进一步巩固其在AGI时代的数字基础设施地位",
+    "资讯标题": "企业微信正式开源 CLI 工具，支持 Claude 与 Codex 一键接管 7 大办公能力",
+    "内容": "3月30日，企业微信官方在GitHub正式开源CLI（命令行界面）项目，标志着其核心办公生态向主流AI Agent全面开放。该CLI工具支持Claude Code、Codex、Work Buddy及QClaw等主流AI框架，允许AI直接调用包括消息收发、日程管理、文档编辑及会议发起在内的7大核心办公能力。通过此次开源，企业微信将AI从单纯的对话助手升级为具备“数字手脚”的执行者，实现了从意图理解到任务落地的闭环。对于开发者而言，CLI的标准化交互大幅降低了AI接入企业业务流程的门槛，企业可更透明地管理AI权限边界，确保数据安全。此举旨在将企业微信打造为“AI友好型”办公操作系统，助力企业快速定制处理报销、排班及纪要整理等繁琐工作的“AI员工”，推动协同办公正式步入“Agent原生”时代，进一步巩固其在AGI时代",
     "发布日期": "2026-03-30",
     "原文链接": "https://www.aibase.com/zh/news/26647",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0719dd169958cbdcab8edffc93903fb7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0719dd169958cbdcab8edffc93903fb7.jpg",
-    "配图仓库路径": "assets/news_images/0719dd169958cbdcab8edffc93903fb7.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201907152222451022_6.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6ee4626477f828d6a47b2c9d9fcbf1c8.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6ee4626477f828d6a47b2c9d9fcbf1c8.png",
+    "配图仓库路径": "assets/news_images/6ee4626477f828d6a47b2c9d9fcbf1c8.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391066325364789478782913.png"
   },
   {
-    "资讯标题": "中国移动推出桌面级AI办公智能体MobileClaw并开启公测",
-    "内容": "中国移动正式推出桌面级AI办公智能体MobileClaw并开启公测，该产品深度兼容OpenClaw生态。MobileClaw主打“央企自研、安全合规”，核心数据采用本地存储不上云模式，支持Windows与Mac系统，实现一键安装开箱即用。在技术架构上，该智能体内置MiniMax模型，并依托移动智算集群提供稳定算力支持。功能层面，MobileClaw可执行代码编写、报表制作及邮件管理等复杂办公任务，并支持接入微信与飞书。此次发布旨在为企业用户提供高效且安全的AI辅助工具，通过本地化部署与云端算力结合，满足政企办公场景对数据隐私与业务协同的严苛要求。",
+    "资讯标题": "中国移动推出移动云 MobileClaw 开启公测",
+    "内容": "移动云 MobileClaw 是中国移动推出的桌面级 AI 办公智能体，深度兼容 OpenClaw 生态。主打”央企自研、安全合规”，核心数据本地存储不上云。工具支持 Windows/Mac 系统，一键安装开箱即用，内置 MiniMax 模型，依托移动智算集群提供稳定算力。移动云 MobileClaw 可执行代码编写、报表制作、邮件管理等办公任务，支持微信/飞书接入。VipCheap LiblibAI AstronClaw。",
     "发布日期": "2026-03-30",
     "原文链接": "https://ai-bot.cn/mobileclaw/",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/deca0e9252903e6f64d66cb288a1befa.png",
@@ -121,13 +211,13 @@
   },
   {
     "资讯标题": "上海已发布超150款备案大模型并集聚30万AI人才",
-    "内容": "3月28日，在2026全球开发者先锋大会上，上海市官方披露，上海目前已发布150余款备案大模型，人形机器人出货量位居全球领先地位。上海正通过强化基础设施与人才培育，打造“开发者之城”。在算力与语料支撑方面，上海智算供给能力占全国10%，并运营全国首个语料公共服务平台，为大模型训练与推理提供物理基础，助力国产智能芯片突破。在人才储备方面，依托高校与创智学院体系，上海已集聚近30万人工智能人才，并建立容错机制鼓励开发者创新。目前，上海已构建起从智能芯片到末端应用的完整大模型全产业链生态，实现了AI脑力与机械体力的深度融合，推动技术从实验室走向商用与民生深水区。",
+    "内容": "3月28日，在2026全球开发者先锋大会上，上海官方披露其AI产业最新进展：上海目前已发布超150款备案大模型，人形机器人出货量位居全球领先地位。在基础设施层面，上海智算供给能力已占全国10%，并运营全国首个语料公共服务平台，为大模型训练与推理提供算力与数据支撑。在人才生态方面，依托高校与创智学院体系，上海已集聚近30万人工智能人才，并建立容错机制支持开发者创新。目前，上海已构建起从智能芯片到末端应用的完整大模型全产业链，通过制度创新与基建投入，推动AI技术从实验室走向商用与民生深水区，持续强化其作为全球AI产业创新策源地的地位。",
     "发布日期": "2026-03-30",
     "原文链接": "https://www.aibase.com/zh/news/26642",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d8481da3da1982ce0d599391e4446c82.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d8481da3da1982ce0d599391e4446c82.jpg",
-    "配图仓库路径": "assets/news_images/d8481da3da1982ce0d599391e4446c82.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202406051435016830_1.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ccd7807421034efcd375f0e20fd00512.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ccd7807421034efcd375f0e20fd00512.jpg",
+    "配图仓库路径": "assets/news_images/ccd7807421034efcd375f0e20fd00512.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391065638521616924258267.jpg"
   },
   {
     "资讯标题": "万象有声开启公测：懒人听书原班人马杀回，用 AIGC 再造一个“有声工厂”",
@@ -141,7 +231,7 @@
   },
   {
     "资讯标题": "SuperCLUE发布3月测评：豆包跻身全球第一梯队，小米MiMo数学推理获高分",
-    "内容": "3月30日，中文大模型基准测评SuperCLUE发布2026年3月最新结果，涵盖22款国内外主流模型。字节跳动旗下Doubao-Seed-2.0-pro以71.53分位列国内第一，稳居全球第一梯队，与GPT-5.4分差缩小至0.95分，并在智能体任务规划中跻身全球前五。小米MiMo-V2-Pro表现亮眼，在数学推理任务中取得84.03分，其开源版本MiMo-V2-Flash在代码生成领域展现进化潜力。在开源赛道，Kimi-K2.5-Thinking与Qwen3.5-397B等国产模型包揽榜单前三，整体表现大幅领先海外同类产品。本次测评显示，国产大模型已从参数竞赛转向逻辑推理、代码生成等硬核实战，在多个维度与全球顶级模型形成正面竞争，标志着国产模型进入实战爆发期。",
+    "内容": "3月30日，中文大模型基准测评SuperCLUE发布2026年3月最新结果，涵盖22款国内外主流模型。字节跳动旗下Doubao-Seed-2.0-pro以71.53分位列国内第一，稳居全球第一梯队，与GPT-5.4分差缩小至0.95分，并在智能体任务规划维度跻身全球前五。小米MiMo-V2-Pro在数学推理任务中取得84.03分，展现出强劲的逻辑处理能力，其开源版本MiMo-V2-Flash在代码生成等场景表现亮眼。在开源赛道，Kimi-K2.5-Thinking与Qwen3.5-397B等国产模型包揽榜单前三，整体表现大幅领先海外同类产品。本次测评显示，国产大模型已从参数规模竞赛转向逻辑推理、代码生成等硬核实战能力的竞争，在数学与科学推理等核心任务上正加速实现对全球顶尖水平的追赶与超越。",
     "发布日期": "2026-03-30",
     "原文链接": "https://www.aibase.com/zh/news/26655",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/af4e89e540987030a75e587980fa582f.png",
@@ -151,17 +241,17 @@
   },
   {
     "资讯标题": "Runway 发布 Multi-Shot App，实现 AI 视频从单镜头生成到全场景自动设计",
-    "内容": "Runway 正式发布 Multi-Shot App，标志着 AI 视频生成从单镜头产出迈向“全场景自动设计”新阶段。该应用集成对话、音效及自动化剪辑技术，用户仅凭一段场景描述或图像起点，即可自动生成最多 5 个逻辑连贯、具备电影质感的镜头。系统支持“图像起点”与“纯文本”两种模式，能自动处理构图、运镜、节奏控制及音效匹配，并生成具备 Intentional Cuts（意图剪辑点）的完整短片。Multi-Shot App 现已在 Runway 网页端上线，旨在简化繁琐的后期拼接流程。此举降低了短视频创作门槛，推动 Generative Video 从单纯的素材生产向叙事创作代理进化，为影视工业全链路协作提供了新的 AI 解决方案。",
+    "内容": "Runway 正式推出 Multi-Shot App，标志着 AI 视频生成从单镜头产出迈向“全场景自动设计”阶段。该应用集成对话、音效及自动化剪辑技术，用户仅需一段场景描述或“图像起点”，系统即可自动拆解并生成最多 5 个逻辑连贯的镜头。Multi-Shot App 具备强大的智能规划能力，能同步处理构图、运镜、节奏控制及音效匹配，并支持 Intentional Cuts（意图剪辑点）与自动配音。该工具目前已在 Runway 网页端上线，提供“图像起点”与“纯文本”两种生成模式。对于行业而言，此更新将 Generative Video 从单纯的素材生产推向叙事创作代理，极大降低了短视频创作门槛，标志着 AI 深度参与影视工业全链路协作的进一步成熟。",
     "发布日期": "2026-03-30",
     "原文链接": "https://www.aibase.com/zh/news/26649",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0719dd169958cbdcab8edffc93903fb7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0719dd169958cbdcab8edffc93903fb7.jpg",
-    "配图仓库路径": "assets/news_images/0719dd169958cbdcab8edffc93903fb7.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201907152222451022_6.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6ee4626477f828d6a47b2c9d9fcbf1c8.png",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6ee4626477f828d6a47b2c9d9fcbf1c8.png",
+    "配图仓库路径": "assets/news_images/6ee4626477f828d6a47b2c9d9fcbf1c8.png",
+    "原始配图链接": "https://upload.chinaz.com/2026/0401/6391066325364789478782913.png"
   },
   {
-    "资讯标题": "DeepSeek遭遇大规模服务中断，修复时长超12小时且多端功能尚未完全恢复",
-    "内容": "DeepSeek自3月29日21时35分起遭遇大规模服务瘫痪，故障覆盖网页端与移动App，导致用户无法登录、对话中断及数据丢失。此次故障修复过程反复，官方于23时23分宣布初步恢复后，30日凌晨系统性能再次波动，并于1时24分启动二次修复。截至30日上午9时，尽管经过多轮紧急干预，部分功能仍未完全恢复。目前，DeepSeek尚未披露此次长时间宕机的深层技术诱因及后续补偿方案。此次事件反映出大模型厂商在用户量激增背景下，后端架构稳定性与算力调度面临严峻挑战，对依赖其API及服务的开发者与用户造成了直接影响。",
+    "资讯标题": "DeepSeek 突发大规模服务中断:修复时长超12小时，多端功能尚未完全恢复",
+    "内容": "DeepSeek 突发大规模服务中断:修复时长超12小时，多端功能尚未完全恢复AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Mar 30, 202656 全球领先的AI大模型服务商 DeepSeek 自3月29日晚间起遭遇大规模服务瘫痪。此次故障覆盖网页端与移动App，大批用户在交互过程中遭遇“服务器繁忙”及网络重试提醒，导致对话中断、数据丢失及无法登录等连锁反应，该事件迅速引发行业广泛关注与社会热议。技术监测记录显示，异常始于29日21时35分，官方随即展开排查并于23时23分宣布初步恢复。然而进入30日凌晨，系统性能再次出现波动，DeepSeek 于0时20分启动二次调查，并于1时24分实施修复方案。",
     "发布日期": "2026-03-30",
     "原文链接": "https://www.aibase.com/zh/news/26634",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a325057d23ea1649de77e544020d4b15.jpg",
