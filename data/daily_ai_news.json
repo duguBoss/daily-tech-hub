@@ -1,7 +1,17 @@
 [
   {
-    "资讯标题": "谷歌正式开源Gemma 4模型系列：采用Apache 2.0协议并覆盖四种规格",
-    "内容": "Google DeepMind正式发布新一代开源模型系列Gemma 4，并全面转向Apache 2.0协议，支持开发者自由商用与二次开发。此次发布涵盖四款模型：31B Dense旗舰版支持256K上下文，单张H100即可运行；26B A4B MoE采用混合专家架构，激活参数仅3.8B；E4B与E2B专为端侧优化，内存占用最低可压至1.5GB以下。性能方面，Gemma 4在AIME 2026数学测试中得分达89.2%，Codeforces ELO评分提升至2150。核心特性包括内置可开关的“思考模式”、原生Agent支持及深度多模态能力，全系支持图像与视频输入。谷歌同步推出开源Agent开发工具包（ADK），旨在通过极致的端侧工程化与更彻底的协议开放，重塑开源模型赛道格局。",
+    "资讯标题": "阿里通义实验室发布Wan2.7-Video视频生成模型及创作工具",
+    "内容": "阿里通义实验室正式发布Wan2.7-Video视频生成模型及配套创作工具，旨在解决AI视频生成中的内容专业度不足与修改困难问题。该模型支持文本、图像、视频及音频的全模态输入，赋予用户对画面结构、剧情走向及局部细节的精确控制能力。在编辑功能上，Wan2.7-Video支持通过指令实现元素删除、物体替换、背景环境转换及风格一键切换。针对剧情创作，用户无需重新拍摄即可调整角色台词、动作及镜头角度。此外，该工具还具备创意快速复刻与剧情延续功能，通过精准的时序控制实现视频无缝衔接。Wan2.7-Video的推出显著提升了视频创作的灵活性与便捷性，允许用户像编辑文档一样对视频内容进行深度修改，为专业创作者提供了更高效的生产力工具。",
+    "发布日期": "2026-04-03",
+    "原文链接": "https://www.aibase.com/zh/news/26837",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1c3b901abb4903f434ab5254da4c224f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1c3b901abb4903f434ab5254da4c224f.jpg",
+    "配图仓库路径": "assets/news_images/1c3b901abb4903f434ab5254da4c224f.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0403/6391082548946494849881191.png"
+  },
+  {
+    "资讯标题": "谷歌正式开源Gemma 4模型系列：采用Apache 2.0协议并支持端侧部署",
+    "内容": "Google DeepMind正式发布新一代开源模型系列Gemma 4，并全面转向Apache 2.0协议，支持商用与二次开发。该系列包含四款模型：31B Dense旗舰版支持256K上下文，单张H100即可运行；26B A4B MoE采用混合专家架构，激活参数仅3.8B；E4B与E2B专为端侧优化，E2B内存占用可压至1.5GB以下。性能方面，Gemma 4在AIME 2026数学测试中得分达89.2%，Codeforces ELO评分升至2150。核心特性包括内置可开关的“思考模式”、原生Agent支持及深度多模态能力，全版本支持图像与视频输入。此次发布通过极致的端侧工程化与更开放的协议，显著提升了谷歌在开源AI领域的竞争力，为开发者提供了更具性价比的部署方案。",
     "发布日期": "2026-04-03",
     "原文链接": "https://www.aibase.com/zh/news/26840",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1d22e11eec6c71e104a1c8a05dcf79c6.jpg",
@@ -10,18 +20,18 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0403/6391082789782667577237860.jpg"
   },
   {
-    "资讯标题": "小米发布MiMo大模型Token订阅套餐，四档位覆盖全模态月费39元起",
-    "内容": "小米正式面向全球开发者推出自研MiMo大模型Token Plan订阅套餐，标志其AI商业化进入规模化交付阶段。该套餐分为Lite、Standard、Pro、Max四档，月费区间为39元至659元，通过统一Credit点数体系实现多模型、多模态调用计费。服务覆盖MiMo-V2-Omni及MiMo-V2-Pro等核心模型，支持文本、图像、音频全模态调用。其中，MiMo-V2-Pro具备万亿级参数及百万级上下文窗口，在Text Arena双盲评测中位列全球Model Rank第五。目前MiMo系列模型周调用量已突破4万亿Token。此次推出的包月订阅制将不可预测的研发成本转化为可预算的商业服务，为开发者提供高性价比底层支持，并深度融合小米“人车家全生态”及Xiaomi miclaw手机，构建起从技术研发到商业经营的完",
+    "资讯标题": "美团发布原生多模态大模型LongCat-Next并开源DiNA架构",
+    "内容": "美团技术团队正式发布并开源原生多模态大模型LongCat-Next，该模型摒弃了“语言基座+插件”的拼凑架构，通过DiNA（离散原生自回归）架构实现了视觉、语音与文本的底层统一。LongCat-Next将图像、语音与文本转化为同源的离散Token，使模型能以统一的参数、注意力机制和损失函数处理多模态数据。核心技术包括支持任意分辨率输入的dNaViT视觉分词器，通过8层残差向量量化实现28倍像素空间压缩。性能方面，该模型在OmniDocBench密集文本场景中超越Qwen3-Omni及Qwen3-VL，在MathVista测试中达到83.1分，同时保持C-Eval 86.80的语言能力。此次开源旨在为开发者提供构建感知物理世界AI的工具，支持低延迟并行文本语音生成及语音克隆，推动AI从语言中心向物理世界感知演进。",
     "发布日期": "2026-04-03",
-    "原文链接": "https://www.aibase.com/zh/news/26833",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/57c2995527ccf5ee924e3256f9aab883.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/57c2995527ccf5ee924e3256f9aab883.jpg",
-    "配图仓库路径": "assets/news_images/57c2995527ccf5ee924e3256f9aab883.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0403/6391082221672156108452791.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/26849",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/44e1a09efaf95a2101de11705dc6767f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/44e1a09efaf95a2101de11705dc6767f.jpg",
+    "配图仓库路径": "assets/news_images/44e1a09efaf95a2101de11705dc6767f.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0403/6391083196263357232777971.png"
   },
   {
-    "资讯标题": "Cursor 3 正式发布，引入智能体统一工作区实现自主开发",
-    "内容": "Cursor 团队正式发布 Cursor 3 版本，标志着软件开发模式从“人机协作”向“智能体自主工作”转型。该版本核心创新在于“智能体统一工作区”设计，支持用户在侧边栏集中管理本地及云端智能体，并实现多代码仓库协同。开发者可通过移动端、Web、桌面及 Slack 等多终端启动智能体，云端智能体还支持生成项目演示与截图。新版本实现了本地与云端智能体会话的无缝切换，确保长时间任务在离线状态下仍可进行。在协作方面，Cursor 3 引入了简洁的差异视图 UI，优化了代码变更的审查效率，并继续保持对语言服务器协议（LSP）、内置浏览器及插件生态的全面支持。用户现可通过升级 Cursor 并输入 Cmd+Shift+P 调出 Agents Window 体验新功能。官方表示，此版本旨在为代码库的自我驱动奠定基础，未来将",
+    "资讯标题": "Cursor 3 正式发布：引入智能体统一工作区并支持多代码仓库协同",
+    "内容": "Cursor 团队正式发布 Cursor 3 版本，标志着软件开发模式从“人机协作”向“智能体自主工作”转型。该版本核心创新在于“智能体统一工作区”设计，允许用户在侧边栏集中管理本地及云端智能体，并支持从移动端、Web、桌面及 Slack 等多终端启动。新版本实现了本地与云端智能体会话的无缝切换，确保长时间任务在离线状态下仍能持续运行。在协作层面，Cursor 3 引入了简洁的差异视图 UI，显著提升了代码审查与变更编辑的效率，同时保持对语言服务器协议（LSP）、内置浏览器及各类插件的完整支持。云端智能体现可自动生成工作成果演示与截图，辅助开发者直观确认项目进展。用户可通过升级 Cursor 并输入 Cmd+Shift+P 调出 Agents Window 体验新功能。Cursor 团队表示，未来将持续优化 I",
     "发布日期": "2026-04-03",
     "原文链接": "https://www.aibase.com/zh/news/26844",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/406b78eec862fc61ca34a2776c0327d4.jpg",
@@ -30,8 +40,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0403/6391083099020436879868899.png"
   },
   {
-    "资讯标题": "企业微信官方开源命令行工具wecom-cli，支持AI Agent调用",
-    "内容": "3月30日，企业微信正式在GitHub开源命令行工具wecom-cli，旨在通过标准化接口赋能开发者构建AI办公应用。该工具开放了消息、日程、文档、智能表、会议、待办及通讯录七大核心产品能力，并支持Claude Code、Codex、WorkBuddy、QClaw等主流AI Agent调用。开发者利用该CLI可实现对企业微信功能的深度集成，如自动化发送消息、管理日程状态、读写智能表格及创建待办任务等。使用该工具需具备Node.js环境，并配置企业微信机器人的Bot ID与Secret。此次开源降低了AI Agent与企业微信生态的对接门槛，使AI能够更自然地理解并执行办公指令，显著提升了企业级场景下AI应用的开发效率与交互体验。",
+    "资讯标题": "腾讯企业微信正式开源命令行工具wecom-cli，支持AI Agent调用",
+    "内容": "腾讯企业微信于3月30日正式在GitHub开源命令行工具wecom-cli，旨在提升企业办公场景的AI应用开发效率。该工具开放了消息、日程、文档、智能表、会议、待办、通讯录七大核心产品能力，并支持Claude Code、Codex、WorkBuddy、QClaw等主流AI Agent调用。开发者通过配置企业微信机器人Bot ID及Secret，即可利用CLI实现对上述功能的自动化操作，如发送群聊消息、新建文档、查询日程闲忙状态及管理待办任务等。该工具要求Node.js环境，通过安装CLI及CLI SKILL即可快速部署。此次开源降低了企业微信能力与AI Agent集成的技术门槛，使AI能够以更自然的方式理解并调用企业办公数据，助力开发者快速构建贴近业务需求的智能化办公解决方案。",
     "发布日期": "2026-03-31",
     "原文链接": "https://www.ithome.com/0/934/015.htm",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9ab2b70692e5db495aebc1dcee940acb.jpg",
