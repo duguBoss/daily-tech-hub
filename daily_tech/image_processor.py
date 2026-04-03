@@ -169,22 +169,45 @@ def attach_downloaded_images(session: requests.Session, items: List[Dict]) -> Li
     for item in items:
         image_url = item.get("原始配图链接", "")
         if not image_url:
+            # 没有图片也保留新闻
+            final_item = {
+                "资讯标题": item["资讯标题"],
+                "内容": item["内容"],
+                "发布日期": item["发布日期"],
+                "原文链接": item["原文链接"],
+                "配图": "",
+                "配图本地路径": "",
+                "配图仓库路径": "",
+                "原始配图链接": "",
+            }
+            final_items.append(final_item)
             continue
         try:
             saved = download_and_process_image(session, image_url)
             logging.info("图片处理成功: %s -> %s (%.2f KB)", item["资讯标题"][:30], saved["relative_path"], saved["size_bytes"] / 1024)
+            final_item = {
+                "资讯标题": item["资讯标题"],
+                "内容": item["内容"],
+                "发布日期": item["发布日期"],
+                "原文链接": item["原文链接"],
+                "配图": saved["github_raw_url"] or saved["absolute_path"],
+                "配图本地路径": saved["absolute_path"],
+                "配图仓库路径": saved["relative_path"],
+                "原始配图链接": image_url,
+            }
+            final_items.append(final_item)
         except Exception as exc:
-            logging.error("图片处理失败，跳过新闻: %s - %s", item["资讯标题"], exc)
-            continue
-        final_item = {
-            "资讯标题": item["资讯标题"],
-            "内容": item["内容"],
-            "发布日期": item["发布日期"],
-            "原文链接": item["原文链接"],
-            "配图": saved["github_raw_url"] or saved["absolute_path"],
-            "配图本地路径": saved["absolute_path"],
-            "配图仓库路径": saved["relative_path"],
-            "原始配图链接": image_url,
-        }
-        final_items.append(final_item)
+            logging.warning("图片处理失败，保留新闻但无配图: %s - %s", item["资讯标题"], exc)
+            # 图片失败也保留新闻，只是没有配图
+            final_item = {
+                "资讯标题": item["资讯标题"],
+                "内容": item["内容"],
+                "发布日期": item["发布日期"],
+                "原文链接": item["原文链接"],
+                "配图": "",
+                "配图本地路径": "",
+                "配图仓库路径": "",
+                "原始配图链接": image_url,
+            }
+            final_items.append(final_item)
     return final_items
