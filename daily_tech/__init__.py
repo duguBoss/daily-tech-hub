@@ -1,0 +1,4 @@
+"""Daily tech news aggregation and processing package."""
+from __future__ import annotations
+
+__version__ = "1.0.0"
