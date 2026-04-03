@@ -87,30 +87,47 @@ def extract_news_list_from_html(html_text: str) -> List[Dict]:
                 continue
     
     # Pattern 3: Extract from HTML structure - look for article cards
-    # Try multiple patterns for news cards
+    # Try multiple patterns for news cards with images
     card_patterns = [
-        # Pattern for: <a href="/zh/news/12345"> with image and title
-        r'<a[^>]+href="/zh/news/(\d+)"[^>]*>\s*<[^>]*>\s*<img[^>]+src="([^"]+)"[^>]*>\s*</[^>]*>\s*<[^>]*>([^<]+)</',
-        # Alternative pattern
-        r'<article[^>]*>.*?<a[^>]+href="/zh/news/(\d+)"[^>]*>.*?<img[^>]+src="([^"]+)"[^>]*>.*?<h[1-6][^>]*>([^<]+)</h[1-6]>',
+        # Pattern 1: Standard card with img src
+        r'<a[^>]+href="/zh/news/(\d+)"[^>]*>.*?<img[^>]+src="([^"]+)"[^>]*>.*?</a>',
+        # Pattern 2: Card with data-src (lazy loading)
+        r'<a[^>]+href="/zh/news/(\d+)"[^>]*>.*?<img[^>]+data-src="([^"]+)"[^>]*>.*?</a>',
+        # Pattern 3: Broader match for any img near news link
+        r'href="/zh/news/(\d+)"[^>]*>[^<]*<[^>]*>[^<]*<img[^>]+src="([^"]+)"',
+        # Pattern 4: Match with background image style
+        r'href="/zh/news/(\d+)"[^>]*>[^<]*<[^>]+style="[^"]*background-image:\s*url\(([^)]+)\)',
     ]
     
+    seen_ids = set()
     for pattern in card_patterns:
         matches = re.finditer(pattern, html_text, re.S | re.I)
         for match in matches:
             try:
                 news_id = int(match.group(1))
-                image_url = match.group(2)
-                title = clean_text(match.group(3))
-                
-                # Skip if image is SVG or data URI
-                if image_url.startswith('data:') or image_url.endswith('.svg'):
+                # Skip duplicates
+                if news_id in seen_ids:
                     continue
                     
+                image_url = match.group(2).strip().strip('"\'')
+                
+                # Skip if image is SVG or data URI
+                if image_url.startswith('data:') or '.svg' in image_url.lower():
+                    continue
+                
+                # Ensure image URL is absolute
+                if image_url.startswith('//'):
+                    image_url = 'https:' + image_url
+                elif image_url.startswith('/'):
+                    image_url = 'https://www.aibase.com' + image_url
+                elif not image_url.startswith('http'):
+                    image_url = normalize_url(AIBASE_NEWS_LIST_URL, image_url)
+                    
+                seen_ids.add(news_id)
                 news_items.append({
                     'id': news_id,
-                    'title': title,
-                    'thumb': normalize_url(AIBASE_NEWS_LIST_URL, image_url),
+                    'title': '',  # Will be fetched from detail page
+                    'thumb': image_url,
                 })
             except (ValueError, IndexError):
                 continue

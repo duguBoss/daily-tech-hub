@@ -132,7 +132,8 @@ def fetch_page_data(session, url: str) -> Dict[str, str]:
 def is_valid_item(title: str, content: str, image: str) -> bool:
     from daily_tech.utils import compact_text, has_concrete_news_elements
     from daily_tech.config import GENERIC_CONTENT_PATTERNS
-    if not title or not content or not image:
+    # 图片不是必须的，但标题和内容必须有
+    if not title or not content:
         return False
     if len(compact_text(content)) < MIN_CONTENT_LENGTH:
         return False
