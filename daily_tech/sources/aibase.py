@@ -23,61 +23,100 @@ AIBASE_NEWS_URL = "https://www.aibase.com/zh/news/{news_id}"
 
 def extract_news_list_from_html(html_text: str) -> List[Dict]:
     """Extract news list from the news list page HTML."""
-    # Try to find JSON data in the HTML
-    # Look for patterns like: {"id":123,"title":"...","thumb":"...","addtime":"..."}
+    news_items = []
     
-    # Pattern 1: Look for initial state or data in script tags
-    patterns = [
-        r'window\.__INITIAL_STATE__\s*=\s*({.+?});',
-        r'window\.__DATA__\s*=\s*({.+?});',
-        r'"newsList":\s*(\[.+?\])',
-        r'"list":\s*(\[.+?\])',
+    # Pattern 1: Try to find Nuxt.js data
+    nuxt_patterns = [
+        r'window\.__NUXT__\s*=\s*(\{.+?\});',
+        r'window\.__INITIAL_STATE__\s*=\s*(\{.+?\});',
+        r'window\.__DATA__\s*=\s*(\{.+?\});',
     ]
     
-    for pattern in patterns:
+    for pattern in nuxt_patterns:
         match = re.search(pattern, html_text, re.S)
         if match:
             try:
                 data = json.loads(match.group(1))
+                # Navigate through Nuxt data structure
+                if isinstance(data, dict):
+                    # Try to find news list in common locations
+                    for path in [['data'], ['state', 'data'], ['data', 'data']]:
+                        current = data
+                        for key in path:
+                            if isinstance(current, dict) and key in current:
+                                current = current[key]
+                            else:
+                                current = None
+                                break
+                        if current and isinstance(current, list):
+                            for item in current:
+                                if isinstance(item, dict) and 'id' in item:
+                                    news_items.append({
+                                        'id': item.get('id'),
+                                        'title': item.get('title', ''),
+                                        'thumb': item.get('thumb', item.get('image', '')),
+                                    })
+                            if news_items:
+                                return news_items
+            except (json.JSONDecodeError, AttributeError):
+                continue
+    
+    # Pattern 2: Look for JSON-LD or embedded JSON
+    json_patterns = [
+        r'"newsList":\s*(\[.+?\])',
+        r'"list":\s*(\[.+?\])',
+        r'"items":\s*(\[.+?\])',
+    ]
+    
+    for pattern in json_patterns:
+        matches = re.findall(pattern, html_text, re.S)
+        for match in matches:
+            try:
+                data = json.loads(match)
                 if isinstance(data, list):
-                    return data
-                elif isinstance(data, dict):
-                    # Try common keys
-                    for key in ['newsList', 'list', 'data', 'items']:
-                        if key in data and isinstance(data[key], list):
-                            return data[key]
+                    for item in data:
+                        if isinstance(item, dict) and ('id' in item or 'Id' in item):
+                            news_items.append({
+                                'id': item.get('id') or item.get('Id'),
+                                'title': item.get('title') or item.get('Title', ''),
+                                'thumb': item.get('thumb') or item.get('Thumb') or item.get('image', ''),
+                            })
+                    if news_items:
+                        return news_items
             except json.JSONDecodeError:
                 continue
     
-    # Pattern 2: Extract from HTML structure
-    # Look for news items in the page
-    news_items = []
-    
-    # Try to find news cards with various patterns
+    # Pattern 3: Extract from HTML structure - look for article cards
+    # Try multiple patterns for news cards
     card_patterns = [
-        r'<a[^>]+href="/zh/news/(\d+)"[^>]*>.*?<h[1-6][^>]*>(.*?)</h[1-6]>.*?<img[^>]+src="([^"]+)"',
-        r'<div[^>]+class="[^"]*news[^"]*"[^>]*>.*?<a[^>]+href="/zh/news/(\d+)"[^>]*>.*?<img[^>]+src="([^"]+)"[^>]*>.*?<h[1-6][^>]*>(.*?)</h[1-6]>',
+        # Pattern for: <a href="/zh/news/12345"> with image and title
+        r'<a[^>]+href="/zh/news/(\d+)"[^>]*>\s*<[^>]*>\s*<img[^>]+src="([^"]+)"[^>]*>\s*</[^>]*>\s*<[^>]*>([^<]+)</',
+        # Alternative pattern
+        r'<article[^>]*>.*?<a[^>]+href="/zh/news/(\d+)"[^>]*>.*?<img[^>]+src="([^"]+)"[^>]*>.*?<h[1-6][^>]*>([^<]+)</h[1-6]>',
     ]
     
     for pattern in card_patterns:
         matches = re.finditer(pattern, html_text, re.S | re.I)
         for match in matches:
             try:
-                news_id = match.group(1)
-                # Try to determine which group is title and which is image
-                group2, group3 = match.group(2), match.group(3)
-                if group2.startswith('http'):
-                    image, title = group2, group3
-                else:
-                    title, image = group2, group3
+                news_id = int(match.group(1))
+                image_url = match.group(2)
+                title = clean_text(match.group(3))
                 
+                # Skip if image is SVG or data URI
+                if image_url.startswith('data:') or image_url.endswith('.svg'):
+                    continue
+                    
                 news_items.append({
-                    'id': int(news_id),
-                    'title': clean_text(title),
-                    'thumb': normalize_url(AIBASE_NEWS_LIST_URL, image),
+                    'id': news_id,
+                    'title': title,
+                    'thumb': normalize_url(AIBASE_NEWS_LIST_URL, image_url),
                 })
             except (ValueError, IndexError):
                 continue
+        
+        if news_items:
+            return news_items
     
     return news_items
 
@@ -120,17 +159,26 @@ def parse_aibase(session: requests.Session, target_dates: List[datetime.date]) -
     
     if not news_items:
         logging.warning("未能从 AIbase 新闻列表提取到数据，尝试备用方法")
-        # Fallback: try to find news links directly
+        # Fallback: try to find news links directly from HTML
         news_links = re.findall(r'href="/zh/news/(\d+)"', html_text)
-        news_links = list(set(news_links))[:20]  # Get first 20 unique news IDs
-        news_items = [{'id': int(nid)} for nid in news_links]
+        # Remove duplicates while preserving order
+        seen = set()
+        unique_links = []
+        for nid in news_links:
+            if nid not in seen:
+                seen.add(nid)
+                unique_links.append(nid)
+        
+        # Limit to first 20
+        news_items = [{'id': int(nid)} for nid in unique_links[:20]]
     
     logging.info("从 AIbase 新闻列表获取到 %s 条新闻", len(news_items))
     
     results: List[Dict] = []
     today = datetime.now(SHANGHAI_TZ).date()
     
-    for item in news_items[:15]:  # Process first 15 news items
+    # Process up to 15 news items to ensure we have enough candidates
+    for item in news_items[:15]:
         news_id = item.get('id')
         if not news_id:
             continue
@@ -153,10 +201,15 @@ def parse_aibase(session: requests.Session, target_dates: List[datetime.date]) -
             
         content = page_data.get('content', '')
         
-        # Use list image if available, otherwise use page image
+        # Use list image if available and valid, otherwise use page image
         list_image = item.get('thumb', '')
         page_image = page_data.get('image', '')
-        image = list_image or page_image
+        
+        # Prefer list image if it's valid (not SVG, not data URI)
+        if list_image and not list_image.startswith('data:') and not list_image.endswith('.svg'):
+            image = list_image
+        else:
+            image = page_image
         
         if not is_valid_item(title, content, image):
             continue
@@ -164,12 +217,6 @@ def parse_aibase(session: requests.Session, target_dates: List[datetime.date]) -
         # Try to extract date from page, default to today
         article_text = page_data.get('article_text', '')
         pub_date = parse_aibase_addtime(article_text) or today
-        
-        # Only include if date is in target_dates (or if no target_dates specified)
-        if target_dates and pub_date not in target_dates:
-            # If news is from today or yesterday, include it anyway
-            if (today - pub_date).days > 1:
-                continue
         
         results.append(
             {
