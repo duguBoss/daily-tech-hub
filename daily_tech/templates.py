@@ -40,8 +40,7 @@ def build_weixin_html_template(items: List[Dict]) -> Tuple[str, str]:
         if image_url:
             image_html = (
                 f'<section style="margin:16px 0;text-align:center;">'
-                f'<img data-src="{html.escape(image_url, quote=True)}" '
-                f'class="rich_pages wxw-img" style="max-width:100%;border-radius:8px;" '
+                f'<img class="rich_pages wxw-img" style="max-width:100%;border-radius:8px;" '
                 f'src="{html.escape(image_url, quote=True)}">'
                 f'</section>'
             )
