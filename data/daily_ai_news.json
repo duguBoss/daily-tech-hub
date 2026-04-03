@@ -1,7 +1,7 @@
 [
   {
     "资讯标题": "OpenClaw推出中国官方镜像站ClawHub，由字节跳动提供基础设施支持",
-    "内容": "OpenClaw正式推出中国官方镜像站点ClawHub，旨在解决国内用户访问原站速度受限的问题。该站点由字节跳动旗下BytePlus与火山引擎提供底层基础设施支持，确保访问的稳定性与速度。ClawHub持续收录并加速OpenClaw社区的高质量Agent Skill，所有上架技能均经过基础安全扫描，并提供完整的中文界面。开发者可通过代理地址直接获取资源，或在OpenClaw平台中实现各类技能的无缝调用。此次发布显著降低了国内开发者获取AI工具集的门槛，提升了Agent开发与部署的效率。该镜像站目前已集成VipCheap、LiblibAI及AstronClaw等相关资源，为国内AI生态提供更流畅的访问体验。",
+    "内容": "OpenClaw正式推出中国官方镜像站点ClawHub，旨在解决国内用户访问原站速度受限的问题。该站点由字节跳动旗下BytePlus与火山引擎提供基础设施支持，确保访问的稳定性与速度。ClawHub持续收录并加速OpenClaw社区的高质量Agent Skill，所有技能均经过基础安全扫描，并提供完整的中文界面。开发者可通过代理地址直接获取资源，或在OpenClaw平台内实现各类技能的无缝调用。此次发布显著提升了国内开发者获取AI工具与技能的效率，降低了技术门槛，为国内AI生态的构建提供了更便捷的资源获取路径。该镜像站目前已集成包括VipCheap、LiblibAI及AstronClaw在内的多项资源，支持开发者快速部署与应用。",
     "发布日期": "2026-04-02",
     "原文链接": "https://ai-bot.cn/clawhub-mirror/",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d6c681ef9fbbca4f68cc1933dbb32331.jpg",
@@ -10,8 +10,8 @@
     "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2026/04/clawhub-mirror-website.png"
   },
   {
-    "资讯标题": "B站推出专业级AI视频创作工具updream，助力UP主提升创作效率",
-    "内容": "B站正式推出专业级AI视频创作助手updream，旨在通过AI技术赋能资深UP主，优化视频生产流程。该工具核心功能包括AI智能Agent、个性化技能库以及自由创作画布，具备长期深度记忆能力，能够持续学习并沉淀创作者的个人风格，将其转化为可复用的创作技能。updream采用“先内容后形式”的创作逻辑，深度适配B站的内容生态规则与流量分发机制。在保障内容灵魂与个人风格的前提下，该工具通过自动化处理重复性劳动，显著缩短视频制作周期。对于UP主而言，updream不仅是辅助创作的Agent，更是能够沉淀创作资产的智能化平台，有助于在保持高质量输出的同时，大幅提升内容生产的效率与规模化能力。",
+    "资讯标题": "B站推出专业级AI视频创作助手updream，支持个性化技能库与长期记忆",
+    "内容": "B站正式推出专业级AI视频创作助手updream，旨在为资深UP主提供高效的创作辅助。该工具核心功能包括AI智能Agent、个性化技能库及自由创作画布，具备长期深度记忆能力，能够持续学习并沉淀创作者的个人风格，将其转化为可复用的创作技能。updream采用“先内容后形式”的创作逻辑，深度适配B站的内容规则与流量分发机制。在确保保留内容灵魂与个人风格的前提下，该工具通过自动化处理流程，显著缩短视频制作周期，降低重复性劳动。updream的推出标志着B站进一步强化平台创作者生态，通过AI技术赋能UP主，提升内容生产效率与质量，助力创作者在保持独特性的同时实现规模化产出。",
     "发布日期": "2026-04-02",
     "原文链接": "https://ai-bot.cn/updream/",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6aad6d532ad5e0a3d9886efdc8a5ede7.jpg",
@@ -21,7 +21,7 @@
   },
   {
     "资讯标题": "腾讯企业微信正式开源命令行工具wecom-cli，支持AI Agent调用",
-    "内容": "腾讯企业微信于3月30日正式在GitHub开源命令行工具wecom-cli，旨在提升企业办公场景下的AI应用开发效率。该工具开放了消息、日程、文档、智能表、会议、待办及通讯录七大核心产品能力，支持Claude Code、Codex、WorkBuddy、QClaw等主流AI Agent调用。开发者通过配置企业微信机器人Bot ID及Secret，即可利用CLI实现对上述模块的自动化读写与管理，例如发送群聊消息、新建文档、预定会议或查询待办任务等。该工具要求Node.js运行环境，通过安装CLI及CLI SKILL即可快速集成。此次开源降低了企业微信能力与AI Agent的对接门槛，使AI模型能更自然地理解并执行办公指令，有助于开发者快速构建贴合业务需求的智能化办公解决方案。",
+    "内容": "腾讯企业微信于3月30日正式在GitHub开源命令行工具wecom-cli，旨在提升企业办公场景的AI开发效率。该工具开放了消息、日程、文档、智能表、会议、待办、通讯录七大核心产品能力，并支持Claude Code、Codex、WorkBuddy、QClaw等主流AI Agent调用。开发者通过配置企业微信机器人Bot ID及Secret，即可利用CLI实现对上述功能的自动化操作，例如发送群聊消息、新建文档、预定会议或管理待办任务等。该工具要求运行环境具备Node.js（npm/npx），通过安装CLI及CLI SKILL即可快速集成。此次开源降低了企业微信能力与AI Agent的对接门槛，使开发者能够更自然地理解并调用企业微信接口，从而快速构建贴合日常办公需求的智能化应用。",
     "发布日期": "2026-03-31",
     "原文链接": "https://www.ithome.com/0/934/015.htm",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9ab2b70692e5db495aebc1dcee940acb.jpg",
