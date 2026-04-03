@@ -19,6 +19,7 @@ def build_weixin_html_template(items: List[Dict]) -> Tuple[str, str]:
     for index, item in enumerate(items, 1):
         title_raw = compact_text(item.get("资讯标题", ""))
         content_raw = compact_text(item.get("内容", ""))
+        image_url = item.get("配图", "")
         if not title_raw or not content_raw:
             continue
         title_list.append(title_raw)
@@ -34,6 +35,16 @@ def build_weixin_html_template(items: List[Dict]) -> Tuple[str, str]:
             "</section>"
             "</section>"
         )
+        # 构建配图HTML（如果有配图）
+        image_html = ""
+        if image_url:
+            image_html = (
+                f'<section style="margin:16px 0;text-align:center;">'
+                f'<img data-src="{html.escape(image_url, quote=True)}" '
+                f'class="rich_pages wxw-img" style="max-width:100%;border-radius:8px;" '
+                f'src="{html.escape(image_url, quote=True)}">'
+                f'</section>'
+            )
         content_html += (
             '<section data-mpa-template="t" mpa-from-tpl="t" style="margin:40px 0 32px;outline:0;color:rgb(22,1,110);font-family:\'PingFang SC\';letter-spacing:.5px;font-size:16px;">'
             '<section powered-by="xiumi.us" mpa-from-tpl="t" style="margin:10px 0 20px;outline:0;text-align:left;display:flex;flex-flow:row nowrap;">'
@@ -42,6 +53,7 @@ def build_weixin_html_template(items: List[Dict]) -> Tuple[str, str]:
             '<section mpa-from-tpl="t" style="outline:0;font-size:17px;line-height:1.3;text-align:justify;">'
             f'<p style="outline:0;"><strong mpa-from-tpl="t" mpa-is-content="t" style="text-align:left;outline:0;"><span leaf="">{title}</span></strong></p>'
             "</section></section></section></section>"
+            f'{image_html}'
             f'<section style="color:#333;line-height:1.8;font-size:15px;text-align:justify;">{content}</section>'
             "</section>"
         )
