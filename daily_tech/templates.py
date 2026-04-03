@@ -94,9 +94,18 @@ def build_weixin_payload(items: List[Dict]) -> Dict:
     from datetime import datetime
     from daily_tech.config import SHANGHAI_TZ
     html_content, first_title = build_weixin_html_template(items)
+    
+    # 提取所有配图地址（GitHub地址）
+    covers = []
+    for item in items:
+        image_url = item.get("配图")
+        if image_url:
+            covers.append(image_url)
+    
     return {
         "wexinhtml": html_content,
         "key1": first_title,
         "count": len(items),
+        "covers": covers,
         "generated_at": datetime.now(SHANGHAI_TZ).isoformat(timespec="seconds"),
     }
