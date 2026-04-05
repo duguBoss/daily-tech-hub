@@ -3,8 +3,11 @@ from __future__ import annotations
 
 import html
 import re
+from datetime import datetime
 from typing import Dict, List, Tuple
 
+from daily_tech.config import SHANGHAI_TZ
+from daily_tech.title_history import generate_unique_title, load_title_history, record_title, save_title_history
 from daily_tech.utils import compact_text
 
 
@@ -22,9 +25,11 @@ def build_weixin_html_template(items: List[Dict]) -> Tuple[str, str]:
         image_url = item.get("配图", "")
         if not title_raw or not content_raw:
             continue
+
         title_list.append(title_raw)
         title = html.escape(title_raw, quote=True)
         content = html.escape(content_raw, quote=True)
+
         title_list_html += (
             '<section style="display:flex;margin-bottom:16px;align-items:baseline;">'
             '<section style="flex-shrink:0;width:36px;text-align:left;">'
@@ -35,15 +40,15 @@ def build_weixin_html_template(items: List[Dict]) -> Tuple[str, str]:
             "</section>"
             "</section>"
         )
-        # 构建配图HTML（如果有配图）
+
         image_html = ""
         if image_url:
             image_html = (
-                f'<section style="margin:16px 0;text-align:center;">'
-                f'<img class="rich_pages wxw-img" style="max-width:100%;border-radius:8px;" '
-                f'src="{html.escape(image_url, quote=True)}">'
-                f'</section>'
+                '<section style="margin:16px 0;text-align:center;">'
+                f'<img class="rich_pages wxw-img" style="max-width:100%;border-radius:8px;" src="{html.escape(image_url, quote=True)}">'
+                "</section>"
             )
+
         content_html += (
             '<section data-mpa-template="t" mpa-from-tpl="t" style="margin:40px 0 32px;outline:0;color:rgb(22,1,110);font-family:\'PingFang SC\';letter-spacing:.5px;font-size:16px;">'
             '<section powered-by="xiumi.us" mpa-from-tpl="t" style="margin:10px 0 20px;outline:0;text-align:left;display:flex;flex-flow:row nowrap;">'
@@ -52,7 +57,7 @@ def build_weixin_html_template(items: List[Dict]) -> Tuple[str, str]:
             '<section mpa-from-tpl="t" style="outline:0;font-size:17px;line-height:1.3;text-align:justify;">'
             f'<p style="outline:0;"><strong mpa-from-tpl="t" mpa-is-content="t" style="text-align:left;outline:0;"><span leaf="">{title}</span></strong></p>'
             "</section></section></section></section>"
-            f'{image_html}'
+            f"{image_html}"
             f'<section style="color:#333;line-height:1.8;font-size:15px;text-align:justify;">{content}</section>'
             "</section>"
         )
@@ -102,20 +107,20 @@ def build_weixin_html_template(items: List[Dict]) -> Tuple[str, str]:
 
 
 def build_weixin_payload(items: List[Dict]) -> Dict:
-    from datetime import datetime
-    from daily_tech.config import SHANGHAI_TZ
     html_content, first_title = build_weixin_html_template(items)
-    
-    # 提取所有配图地址（GitHub地址）
+    history = load_title_history()
+    unique_title = generate_unique_title(items, history) if items else first_title
+    save_title_history(record_title(unique_title, history))
+
     covers = []
     for item in items:
         image_url = item.get("配图")
         if image_url:
             covers.append(image_url)
-    
+
     return {
         "wexinhtml": html_content,
-        "key1": first_title,
+        "key1": unique_title,
         "count": len(items),
         "covers": covers,
         "generated_at": datetime.now(SHANGHAI_TZ).isoformat(timespec="seconds"),
