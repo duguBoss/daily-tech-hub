@@ -1,47 +1,47 @@
 [
   {
+    "资讯标题": "阿里通义实验室发布Wan2.7-Video视频生成模型，支持全模态输入与精准编辑",
+    "内容": "阿里通义实验室正式发布Wan2.7-Video视频生成模型，旨在解决AI视频创作中内容生成不专业及修改困难的痛点。该模型支持文本、图像、视频和音频的全模态输入，赋予用户对画面结构、剧情走向及局部细节的深度控制能力。在编辑功能上，Wan2.7-Video允许用户通过指令精准调整视频元素，包括删除路人、替换物体、转换背景环境及一键切换视觉风格。针对剧情创作，用户无需重新拍摄，即可通过指令修改角色的台词、动作及镜头角度。此外，该模型还具备创意快速复刻与剧情延续功能，通过精准的时序控制实现视频无缝衔接。Wan2.7-Video的推出，显著提升了视频创作的灵活性与便捷性，使用户能够像编辑文档一样对视频内容进行精细化修改，满足专业级创作需求。",
+    "发布日期": "2026-04-05",
+    "原文链接": "https://www.aibase.com/zh/news/26837",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1c3b901abb4903f434ab5254da4c224f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1c3b901abb4903f434ab5254da4c224f.jpg",
+    "配图仓库路径": "assets/news_images/1c3b901abb4903f434ab5254da4c224f.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0403/6391082548946494849881191.png"
+  },
+  {
     "资讯标题": "美团发布原生多模态大模型LongCat-Next并开源核心架构",
-    "内容": "美团技术团队正式发布并开源原生多模态大模型LongCat-Next，该模型摒弃了“语言基座+插件”的拼凑架构，通过自研DiNA（离散原生自回归）架构，将图像、语音与文本统一转化为同源的离散Token。在技术实现上，模型采用同一套参数、注意力机制和损失函数，通过dNaViT视觉分词器实现高达28倍的像素空间压缩，并支持任意分辨率输入。实证性能显示，LongCat-Next在OmniDocBench密集文本测试中超越Qwen3-Omni及Qwen3-VL，在MathVista视觉推理测试中达到83.1分，同时保持C-Eval 86.80的语言能力。该模型实现了理解与生成的对称，支持低延迟并行文本语音生成及语音克隆。美团此次开源LongCat-Next及dNaViT分词器，旨在为开发者提供构建感知物理世界AI的底层工",
+    "内容": "美团技术团队正式发布并开源原生多模态大模型LongCat-Next，该模型摒弃了“语言基座+插件”的拼凑架构，通过自研DiNA（离散原生自回归）架构，将图像、语音与文本统一转化为同源的离散Token。在技术实现上，模型采用统一的参数、注意力机制和损失函数，通过dNaViT视觉分词器实现高达28倍的像素空间压缩，支持任意分辨率输入。实证性能显示，LongCat-Next在OmniDocBench密集文本场景中超越Qwen3-Omni及Qwen3-VL，在MathVista视觉推理测试中达到83.1分，同时保持C-Eval 86.80的语言能力。该模型实现了理解与生成的对称，支持低延迟并行文本语音生成及语音克隆。此次开源LongCat-Next及dNaViT分词器，旨在为开发者提供构建感知物理世界AI的底层工具，推",
     "发布日期": "2026-04-05",
     "原文链接": "https://www.aibase.com/zh/news/26849",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bef7ae15e1dd4bcc97202363107ad19a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bef7ae15e1dd4bcc97202363107ad19a.jpg",
-    "配图仓库路径": "assets/news_images/bef7ae15e1dd4bcc97202363107ad19a.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0403/6391085182921857274470364.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ea451ea1cc00b712c9a5a1ef514b4363.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ea451ea1cc00b712c9a5a1ef514b4363.jpg",
+    "配图仓库路径": "assets/news_images/ea451ea1cc00b712c9a5a1ef514b4363.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202207242238092547_28.jpg"
   },
   {
-    "资讯标题": "印度AI初创公司Sarvam AI开启3.5亿美元融资，亚马逊与英伟达拟参投",
-    "内容": "印度AI初创公司Sarvam AI已正式开启新一轮融资，计划筹集3亿至3.5亿美元，投后估值预计达15亿至15.5亿美元，最快有望于未来一周内完成。本轮融资由Bessemer Venture Partners领投，亚马逊、英伟达及沙特阿美旗下Prosperity7 Ventures均有意参投。成立于2023年的Sarvam AI专注于印度本土化建模，今年2月已发布参数分别为300亿和1050亿的大语言模型，重点支持22种印度语言及语音交互，目前正研发具备Agentic能力的AI系统以赋能企业自动化。此次融资反映了全球资本对深耕特定语言文化与垂直场景的“本土冠军”企业的青睐，亚马逊与英伟达的入局标志着其在南亚AI生态基座的战略布局进一步深化。",
+    "资讯标题": "OpenAI悄然资助父母与儿童安全AI联盟引发行业质疑与组织退出",
+    "内容": "OpenAI被曝在未公开身份的情况下，悄然资助并推动“父母与儿童安全AI联盟”成立，引发行业对其透明度的质疑。该联盟在三月中旬向全国儿童安全组织发送邮件，寻求对年龄验证、家长控制及禁止针对儿童广告等AI监管原则的支持。然而，多名组织领导者在联盟正式公布后才获悉OpenAI是唯一资助方，部分组织因认为沟通存在误导而选择退出。联盟发言人回应称，OpenAI正与其他六个成员共同争取美国最强的儿童AI安全法律。但批评者指出，OpenAI此举具有“草根运动”伪装色彩，容易误导公众。此前OpenAI曾因反对部分更严格的儿童安全立法而面临压力，此次隐秘资助行为进一步加剧了外界对其在制定AI监管规则时动机的担忧，行业呼吁应由更具经验的儿童权益倡导者主导相关立法进程。",
     "发布日期": "2026-04-05",
-    "原文链接": "https://www.aibase.com/zh/news/26848",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/76c7ee7ad1ad22d40255d6693e86155c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/76c7ee7ad1ad22d40255d6693e86155c.jpg",
-    "配图仓库路径": "assets/news_images/76c7ee7ad1ad22d40255d6693e86155c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305301503482001_2.jpg"
-  },
-  {
-    "资讯标题": "千问App正式上线Wan2.7视频生成模型，支持视频编辑、续写与动作模仿",
-    "内容": "4月3日，千问App正式上线Wan2.7视频生成模型，并同步集成Wan2.7-image图像模型，向全量用户开放免费体验。Wan2.7视频模型具备三大核心功能：视频编辑、视频续写与动作模仿。在视频编辑方面，用户通过自然语言指令即可实现画面元素替换（如人物、服饰、背景）、风格转换（动画、3D、黏土等）及机位调整，并支持修改角色表情、动作与台词，同时保持口型与语气的自然一致。在视频续写方面，该模型支持将2秒视频延长至15秒，通过首尾帧控制确保画面结构稳定与过渡自然。动作模仿功能则允许用户基于参考视频复刻人物动作、多人协同行为及运镜节奏。此次更新标志着Wan2.7系列图像与视频模型已在千问App实现全面落地，显著提升了视频创作的精细化控制能力与连贯性。",
-    "发布日期": "2026-04-05",
-    "原文链接": "https://www.aibase.com/zh/news/26850",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bef7ae15e1dd4bcc97202363107ad19a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bef7ae15e1dd4bcc97202363107ad19a.jpg",
-    "配图仓库路径": "assets/news_images/bef7ae15e1dd4bcc97202363107ad19a.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0403/6391085182921857274470364.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/26847",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/44e1a09efaf95a2101de11705dc6767f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/44e1a09efaf95a2101de11705dc6767f.jpg",
+    "配图仓库路径": "assets/news_images/44e1a09efaf95a2101de11705dc6767f.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0403/6391083196263357232777971.png"
   },
   {
     "资讯标题": "Google DeepMind发布Gemma 4开源模型系列，采用Apache 2.0协议",
-    "内容": "Google DeepMind正式发布新一代开源模型系列Gemma 4，并全面转向Apache 2.0开源协议。此次发布涵盖四款模型：旗舰版31B Dense支持256K上下文，单张H100即可运行；26B A4B MoE采用混合专家架构，激活参数仅3.8B；E4B与E2B则专为端侧设备优化，内存占用最低可压至1.5GB以下。性能方面，Gemma 4在AIME 2026数学测试中得分达89.2%，Codeforces ELO评分升至2150。全系模型内置可开关的“思考模式”，支持函数调用与结构化JSON输出，并配套开源Agent开发工具包（ADK）。此外，所有版本均支持图像与视频输入，小模型版本额外集成音频编码器。此次更新标志着谷歌通过极致的端侧工程化与更开放的协议，重新强化其在开源AI领域的竞争力，为开发者提",
+    "内容": "Google DeepMind正式发布新一代开源模型系列Gemma 4，并全面转向Apache 2.0协议，支持商用与二次开发。该系列包含四款模型：旗舰版31B Dense支持256K上下文，单张H100即可运行；26B A4B MoE采用混合专家架构，推理速度极快；E4B与E2B专为端侧优化，E2B内存占用可压至1.5GB以下。性能方面，Gemma 4在AIME 2026数学测试中得分达89.2%，Codeforces ELO评分升至2150。核心特性包括内置可开关的Thinking Mode、原生Agent支持及深度多模态能力，全版本支持图像与视频输入。此次发布标志着谷歌通过极致的端侧工程化与更开放的协议，重塑开源模型竞争格局，为开发者提供更强的编程辅助与智能体构建能力。",
     "发布日期": "2026-04-05",
     "原文链接": "https://www.aibase.com/zh/news/26840",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1d22e11eec6c71e104a1c8a05dcf79c6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1d22e11eec6c71e104a1c8a05dcf79c6.jpg",
-    "配图仓库路径": "assets/news_images/1d22e11eec6c71e104a1c8a05dcf79c6.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0403/6391082789782667577237860.jpg"
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f26fdc3cf88181acfdb0f18036c08096.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f26fdc3cf88181acfdb0f18036c08096.jpg",
+    "配图仓库路径": "assets/news_images/f26fdc3cf88181acfdb0f18036c08096.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405150911314034_2.jpg"
   },
   {
-    "资讯标题": "Cursor 3 正式发布：引入智能体统一工作区并支持多仓库自主协同",
-    "内容": "Cursor团队正式发布Cursor 3版本，标志着软件开发模式从“人机协作”向“智能体自主工作”转型。该版本核心创新在于“智能体统一工作区”设计，允许用户在侧边栏集中管理本地及云端智能体，并支持通过移动端、Web、桌面及Slack等多终端启动。Cursor 3实现了本地与云端智能体的无缝切换，确保长时间任务在离线状态下仍能持续运行。在协作层面，新版本引入了简洁的差异视图UI，优化了代码变更的编辑与审查流程，同时保持对LSP、内置浏览器及各类插件的全面支持。开发者现可通过Cmd+Shift+P快捷键进入Agents Window体验新界面。Cursor团队表示，此次更新旨在为代码库的自我驱动奠定基础，未来将持续迭代编程模型，进一步提升开发者的自主编程效率与团队协作能力。",
+    "资讯标题": "Cursor 3 正式发布：引入智能体统一工作区并支持多代码仓库协同",
+    "内容": "Cursor 3 正式发布，标志着软件开发模式从“人机协作”向“智能体自主工作”转型。新版本核心创新在于“智能体统一工作区”，允许用户在侧边栏集中管理本地及云端智能体，并支持从移动端、Web、桌面及 Slack 等多终端启动。该版本实现了本地与云端智能体会话的无缝切换，确保长时间任务在离线状态下仍可运行。在协作层面，Cursor 3 引入了简洁的差异视图 UI，优化了代码变更的编辑与审查流程，同时保持对语言服务器协议（LSP）、内置浏览器及各类插件的全面支持。用户现可通过升级 Cursor 并输入 Cmd+Shift+P 调出 Agents Window 体验新界面。Cursor 团队表示，此次更新旨在为构建更自主的智能体及实现代码库自我驱动奠定基础，未来将持续推动编程模型演进，以开启全新的交互模式。",
     "发布日期": "2026-04-05",
     "原文链接": "https://www.aibase.com/zh/news/26844",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/406b78eec862fc61ca34a2776c0327d4.jpg",
