@@ -2,7 +2,11 @@ name: Daily AI News Update
 
 on:
   schedule:
-    # 09:00 Asia/Shanghai = 01:00 UTC
+    # 07:00 Asia/Shanghai = 23:00 UTC (提前2小时以确保09:00前完成)
+    - cron: "0 23 * * *"
+    # 08:00 Asia/Shanghai = 00:00 UTC (备用)
+    - cron: "0 0 * * *"
+    # 09:00 Asia/Shanghai = 01:00 UTC (备用)
     - cron: "0 1 * * *"
   workflow_dispatch:
 
