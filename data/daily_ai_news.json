@@ -1,17 +1,37 @@
 [
   {
-    "资讯标题": "谷歌发布首款离线AI听写应用Google AI Edge Eloquent",
-    "内容": "谷歌正式在iOS平台推出全离线语音听写应用Google AI Edge Eloquent。该应用基于轻量化模型Gemma构建，用户下载ASR模型后即可实现100%本地化处理，无需联网，有效保障商务会议等高敏感场景的隐私安全。Eloquent具备智能“去水”功能，能自动剔除语气词并实时润色文本，将口语转化为书面语。产品支持导入自定义词汇以提升生僻词识别率，并提供多格式导出与智能检索功能。用户也可选择调用云端Gemini模型进行深度优化。谷歌表示后续将适配安卓系统。此举标志着大模型能力进一步向端侧硬件下沉，凭借模型底座优势与免费策略，Eloquent将对现有AI转录工具市场格局产生显著冲击，成为媒体人及办公族的高效生产力工具。",
-    "发布日期": "2026-04-07",
-    "原文链接": "https://www.aibase.com/zh/news/26864",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/330eca5c810a74720f1e47cf326661ee.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/330eca5c810a74720f1e47cf326661ee.jpg",
-    "配图仓库路径": "assets/news_images/330eca5c810a74720f1e47cf326661ee.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005261134456150_2.jpg"
+    "资讯标题": "首个单日破万亿！阿里千问 3.6 Plus 登顶 OpenRouter 全球大模型调用榜",
+    "内容": "阿里千问 3.6 Plus 登顶 OpenRouter 全球大模型调用榜AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 7, 202617大模型 API 调用平台OpenRouter公布了最新周榜单。阿里 Qwen3.6-Plus 凭借极高的开发者活跃度，成功位列全球大模型周调用量第一，并已连续4天霸榜日榜。关键突破:单日调用量步入“万亿”时代此次登顶不仅是排名上的跨越，更是调用量级的质变: 里程碑纪录: Qwen3.6-Plus成为OpenRouter平台上首个单日调用量突破 1万亿 Token 的模型。统治力表现: 在竞争激烈的全球模型库中，千问系列展现了极强的生态粘性，成为全球开发者首选的底层基座之一。",
+    "发布日期": "2026-04-08",
+    "原文链接": "https://www.aibase.com/zh/news/26884",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/595447188a495841522150440d4d4c4f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/595447188a495841522150440d4d4c4f.jpg",
+    "配图仓库路径": "assets/news_images/595447188a495841522150440d4d4c4f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202507310906281467_0.jpg"
   },
   {
-    "资讯标题": "微软发布自研转录模型 MAI-Transcribe-1，平均字错误率仅 3.9%",
-    "内容": "微软于4月2日正式发布自研AI模型MAI-Transcribe-1，在FLEURS基准测试中实现3.9%的平均字错误率，被定位为全球最精准的转录模型。该模型覆盖全球25种主要语言，在11种核心语言中位居榜首，并在多项对比中超越OpenAI的Whisper-large-v3及谷歌Gemini 3.1 Flash。性能方面，其批量转录速度达到Microsoft Azure Fast服务的2.5倍，定价为每小时0.36美元。目前，MAI-Transcribe-1已在Microsoft Foundry平台开放使用。微软表示，该模型旨在满足多样化语音转文字需求，虽首发版本暂不支持实时转录、说话人分离及偏见调整功能，但后续将通过更新补齐上述能力。该模型的推出进一步完善了微软MAI系列模型版图，并凭借高性价比在大型云厂商转录",
+    "资讯标题": "贝索斯新实验室招募前 OpenAI 联合创始人",
+    "内容": "贝索斯新实验室招募前 OpenAI 联合创始人AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 7, 20263亚马逊创始人杰夫・贝索斯的新实验室 Project Prometheus 近期吸引了一位备受瞩目的科技人才 ——Kyle Kosic，他是前 OpenAI 的联合创始人。这一新成立的实验室致力于开发能够理解物理世界的先进系统，标志着贝索斯在人工智能领域的进一步探索。Project Prometheus 是一个相对神秘的初创公司，旨在突破现有技术的限制，创造出更加智能和自主的系统。Kyle Kosic 在人工智能行业有着丰富的经验，曾在 OpenAI 的多项重要项目中担任关键角色，他的加入无疑为 Project Prometheus 带来了新的技术视野和创新动力。",
+    "发布日期": "2026-04-08",
+    "原文链接": "https://www.aibase.com/zh/news/26891",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7f24dd136b92f5c694d0bad5826b6675.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7f24dd136b92f5c694d0bad5826b6675.jpg",
+    "配图仓库路径": "assets/news_images/7f24dd136b92f5c694d0bad5826b6675.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202305291510093384_11.jpg"
+  },
+  {
+    "资讯标题": "米拉·乔沃维奇开源AI记忆系统MemPalace，在LongMemEval基准测试中斩获满分",
+    "内容": "好莱坞演员Milla Jovovich近日在GitHub开源AI记忆系统MemPalace，该项目在LongMemEval基准测试中取得100%满分，并在ConvoMem与LoCoMo测试中表现优异。MemPalace由Milla与Ben Sigman利用Claude Code开发，旨在解决现有AI系统记忆丢失问题。该系统借鉴古希腊记忆宫殿术，将记忆组织为可导航的空间结构。核心技术亮点包括AAAK无损压缩技术，可将1000个英文token压缩至约120个，实现约30倍压缩效率，并支持LLM直接读取。此外，系统集成矛盾检测、时间有效性知识图谱及语义搜索功能。MemPalace基于SQLite和ChromaDB实现纯本地运行，无需API密钥或云端依赖，确保用户数据完全留存在本地设备，且无订阅费用。该系统通过层级化架",
+    "发布日期": "2026-04-08",
+    "原文链接": "https://www.aibase.com/zh/news/26896",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/abc25893497b8b73bee9825df0c74699.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/abc25893497b8b73bee9825df0c74699.jpg",
+    "配图仓库路径": "assets/news_images/abc25893497b8b73bee9825df0c74699.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305191450321085_0.jpg"
+  },
+  {
+    "资讯标题": "微软发布自研转录模型 MAI-Transcribe-1，平均字错误率低至3.9%",
+    "内容": "微软于4月2日正式推出第三款自研AI模型MAI-Transcribe-1，该模型在FLEURS基准测试中实现3.9%的平均字错误率，被官方定义为全球最精准的转录模型。MAI-Transcribe-1支持全球25种主要语言，在11种核心语言上排名第一，并击败了OpenAI的Whisper-large-v3及谷歌Gemini 3.1 Flash。性能方面，其批量转录速度达到Microsoft Azure Fast服务的2.5倍，定价为每小时0.36美元，具备极高性价比。目前，该模型已在Microsoft Foundry平台开放使用。首发版本暂不支持实时转录、说话人分离及偏见调整功能，微软表示后续将通过更新补齐上述能力。该模型的推出进一步完善了微软的自研AI模型版图，为企业级语音转文字场景提供了更高效、低成本的解决方",
     "发布日期": "2026-04-07",
     "原文链接": "https://www.ithome.com/0/935/617.htm",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d3f8f89362d9e914c2e3c3ddc370e7b2.jpg",
@@ -20,33 +40,13 @@
     "原始配图链接": "https://img.ithome.com/newsuploadfiles/2026/4/9800890d-a3da-4347-ad06-68895d8026c6.jpg?x-bce-process=image/format,f_auto"
   },
   {
-    "资讯标题": "中国 AI 算力“大爆发”！周调用量突破 12 万亿，阿里、小米稳居全球第一梯队",
-    "内容": "中国 AI 算力“大爆发”。周调用量突破 12 万亿，阿里、小米稳居全球第一梯队AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 7, 20261在全球 AI 竞速中，中国大模型正凭借极致的性能与生态优势，跑出惊人的“中国速度”。根据OpenRouter最新数据测算，上周（3月30日至4月5日），中国 AI 大模型展现了统治级的活跃度:周调用量飙升至 12.96万亿 Token，环比增长高达 31.48%。相比之下，美国同期周调用量仅为3.03万亿 Token，环比增长仅0.76%，双方在应用规模上的差距正在持续扩大。",
+    "资讯标题": "OpenBMB开源2B参数语音合成模型VoxCPM2，支持30种语言及Voice Design",
+    "内容": "OpenBMB正式开源2B参数规模的语音合成模型VoxCPM2，该模型采用无分词器扩散自回归架构，支持30种语言及多种中文方言，可输出48kHz录音室级音质。VoxCPM2在训练数据上达到236万小时，实时率（RTF）为0.13，并采用Apache-2.0协议开放商用。核心功能方面，模型首创Voice Design功能，允许用户通过文字描述直接生成全新音色；同时支持可控声音克隆，在保持参考音色的基础上，实现对情感、语速的精细化调节；终极克隆模式则能进一步还原声音细节。作为新一代多语言TTS模型，VoxCPM2通过高效的架构设计与大规模数据训练，为开发者提供了高性能、可商用的语音合成解决方案，显著降低了高质量语音生成的技术门槛。",
     "发布日期": "2026-04-07",
-    "原文链接": "https://www.aibase.com/zh/news/26877",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "配图仓库路径": "assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556165277_9.jpg"
-  },
-  {
-    "资讯标题": "三星电子发布Q1业绩预告：营业利润达57.2万亿韩元同比增长超8倍",
-    "内容": "三星电子发布2026年第一季度初步业绩预告，营业利润预计达57.2万亿韩元，同比激增超8倍，远超市场预期的40.6万亿韩元，营收预计增长68%至133万亿韩元。此次业绩爆发主要受AI基础设施需求驱动，生成式AI数据中心建设导致存储芯片供应紧张，部分芯片价格在Q1接近翻倍。TrendForce预测，本季度DRAM合约价格将继续上涨超过50%。在产品战略方面，三星正通过推出HBM4芯片加速追赶SK海力士，旨在进入NVIDIA核心供应链。此外，ChatGPT等模型带动的AI推理需求也促进了传统内存芯片市场的回暖。随着AI算力需求持续渗透，存储厂商正进入利润收割期，标志着存储行业已彻底走出低谷。",
-    "发布日期": "2026-04-07",
-    "原文链接": "https://www.aibase.com/zh/news/26878",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/966d11ec2d1e9035b153e6b09134c43b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/966d11ec2d1e9035b153e6b09134c43b.jpg",
-    "配图仓库路径": "assets/news_images/966d11ec2d1e9035b153e6b09134c43b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201907311526092928_0.jpg"
-  },
-  {
-    "资讯标题": "OpenAI向美总检察长指控马斯克反竞争行为并呼吁展开调查",
-    "内容": "OpenAI已正式向美国加州和特拉华州总检察长发出呼吁，要求对埃隆·马斯克及其关联方涉嫌的反竞争行为展开调查。OpenAI首席战略官杰森·权指出，马斯克通过提起诉讼及联合竞争对手等手段，试图阻碍OpenAI实现AGI使命。马斯克于2024年起诉OpenAI及CEO萨姆·奥特曼，指控其转型营利性机构违反创立初衷，并要求非营利基金会赔偿超1000亿美元。OpenAI方面表示，若诉讼成功，公司将面临瘫痪风险。此外，OpenAI披露马斯克曾试图说服马克·扎克伯格参与收购要约。该案件预计将于本月在加州法官主持下进行陪审团庭审。此举标志着双方围绕OpenAI公司治理及竞争关系的法律博弈进一步升级，可能对AI行业格局产生深远影响。",
-    "发布日期": "2026-04-07",
-    "原文链接": "https://www.aibase.com/zh/news/26872",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7f34c5abedfbeeac1fed09bb0f31c306.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7f34c5abedfbeeac1fed09bb0f31c306.jpg",
-    "配图仓库路径": "assets/news_images/7f34c5abedfbeeac1fed09bb0f31c306.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502061719384092_4.jpg"
+    "原文链接": "https://ai-bot.cn/voxcpm2/",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a4921c894b3513974aa52669449b624b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a4921c894b3513974aa52669449b624b.jpg",
+    "配图仓库路径": "assets/news_images/a4921c894b3513974aa52669449b624b.jpg",
+    "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2026/04/VoxCPM2-website.png"
   }
 ]
