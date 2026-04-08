@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "阿里通义实验室发布 FIPO 算法，提升大模型推理深度并反超 o1-mini",
-    "内容": "阿里通义实验室 Qwen Pilot 团队正式发布 FIPO 算法，旨在突破传统强化学习在复杂逻辑处理中的瓶颈。该算法通过引入 Future-KL 机制，奖励对后续推理有积极影响的 Token，并结合符号对数概率差机制精准捕捉优化方向，有效解决了模型推理长度停滞的问题。实测数据显示，搭载 FIPO 算法的 32B 规模模型在零基础条件下，平均推理长度突破 10,000 Token，在纯强化学习设置下，其推理性能成功反超同规模模型，并在部分指标上优于 OpenAI 的 o1-mini，尤其在高难度数学推理任务中表现出极强的逻辑推导潜力。FIPO 算法的推出，证明了通过精细化的奖励机制与逻辑诱导，较小参数规模的模型同样能实现顶级推理能力的跃升，为行业提升模型思考深度提供了新的技术路径。",
+    "资讯标题": "阿里通义发布 FIPO 算法，32B 模型推理性能反超 OpenAI o1-mini",
+    "内容": "阿里通义实验室 Qwen Pilot 团队正式发布 FIPO 算法，通过重构强化学习机制，显著提升大模型的推理深度与准确率。该算法核心在于引入 Future-KL 策略，通过奖励对后续推理有积极影响的 Token，并结合符号对数概率差机制，精准捕捉优化方向。实测显示，搭载 FIPO 的 32B 模型在零基础条件下，平均推理长度突破 10,000 Token，在纯强化学习设置下，其推理性能成功反超同规模模型，并在部分指标上优于 OpenAI 的 o1-mini。FIPO 算法有效解决了传统模型在处理复杂数学逻辑时的“推理长度停滞”问题，证明了通过精细化的奖励机制，较小参数规模的模型同样能具备顶级的逻辑推导与深度思考能力，为行业提升模型推理效率提供了新路径。",
     "发布日期": "2026-04-08",
     "原文链接": "https://www.aibase.com/zh/news/26917",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
@@ -10,33 +10,43 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007232048_2.jpg"
   },
   {
-    "资讯标题": "苹果发布AI原型工具SQUIRE并推出SafetyPairs安全框架",
-    "内容": "苹果近日发布AI原型工具SQUIRE及SafetyPairs安全框架。SQUIRE由GPT-4o驱动，引入槽查询中间表示（Slot-Query Intermediate Representation）技术，旨在解决AI生成UI可控性差的问题。该系统通过生成可定制的组件树，允许开发者在生成HTML和CSS代码前，像搭积木般修改字体、图层及元素，将“提示词试错”转变为交互式协作。在11位前端开发者的测试中，该工具表现出极高的易用性。此外，苹果推出的SafetyPairs框架利用反事实图像生成技术，构建了1510对关键特征差异图像，旨在精准定位视觉语言模型的安全弱点，提升本地AI工具的安全水位。业界预测，SQUIRE的组件化生成思路极可能在6月8日举办的WWDC2026上融入苹果官方开发工具链。",
+    "资讯标题": "英特尔正式加入马斯克Terafab项目，协力打造太瓦级超级芯片工厂",
+    "内容": "英特尔昨日正式宣布加入埃隆·马斯克旗下的Terafab AI芯片项目，与SpaceX、特斯拉及xAI达成战略合作，共同推进这一全球规模领先的半导体制造工程。Terafab项目于2026年3月披露，选址德克萨斯州奥斯汀，核心目标是实现每年1太瓦（TW）的算力产出。园区规划建设两座先进工厂，分别满足特斯拉电动汽车与人形机器人的算力需求，以及专为太空环境设计的AI数据中心。该项目集逻辑芯片、存储与先进封装于一体，旨在为下一代AI模型及机器人技术提供底层支撑。英特尔的深度参与标志着Terafab进入多巨头协同阶段，通过整合英特尔的制造能力与马斯克旗下企业的应用场景，试图打破算力供给的物理瓶颈。此举不仅体现了算力基础设施的垂直整合趋势，更预示着AI算力将从地面延伸至近地空间，重塑全球半导体产业布局。",
     "发布日期": "2026-04-08",
-    "原文链接": "https://www.aibase.com/zh/news/26920",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b7f1968dbef453ee3587e9fc62adb2c9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b7f1968dbef453ee3587e9fc62adb2c9.jpg",
-    "配图仓库路径": "assets/news_images/b7f1968dbef453ee3587e9fc62adb2c9.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0408/6391123994098371342675722.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/26928",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0531409f632525611b0876c643e52509.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0531409f632525611b0876c643e52509.jpg",
+    "配图仓库路径": "assets/news_images/0531409f632525611b0876c643e52509.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202011131622132762_0.jpg"
   },
   {
-    "资讯标题": "DeepSeek V4开启灰度测试，新增视觉版与专家模式",
-    "内容": "DeepSeek V4目前正处于密集灰度测试阶段，产品矩阵迎来重大升级。测试界面显示，新模型提供三种核心模式：主打轻量化对话的DeepSeek V4 Lite（快速版）、具备深度逻辑推理能力的DeepSeek V4（专家版），以及集成多模态能力的DeepSeek V4 Vision（视觉版）。技术层面，DeepSeek V4预计将支持百万级Token超长文本处理，并有望推出针对代码生成与工程实现的专用版本。在算力适配上，DeepSeek坚持国产化路线，正开发至少2款完全基于国产AI芯片的大模型，并优先与国内厂商进行协同优化，拒绝依赖海外芯片。此次灰测标志着DeepSeek V4发布窗口临近，该模型主打“原生记忆”架构，旨在通过国产算力生态实现性能突破，进一步重塑国产大模型的性价比天花板。",
+    "资讯标题": "工信部等十部门联合印发《人工智能科技伦理审查与服务办法（试行）》",
+    "内容": "工业和信息化部等十部门近日联合印发《人工智能科技伦理审查与服务办法（试行）》，旨在规范人工智能科技活动并强化伦理治理。该办法明确了审查的适用范围、实施主体及工作程序，要求人工智能科技活动负责人向单位伦理委员会或审查与服务中心提交申请，经受理后进行评估。重点审查领域涵盖人机融合系统、具备舆论引导能力的算法模型，以及具有高度自主能力的决策系统。在支持措施上，办法从标准建设、服务体系、创新鼓励、宣传教育及人才培养五方面提供指引，鼓励企业构建伦理服务体系。针对违规行为，办法明确将依据相关法律法规进行调查处理。此举旨在确保AI科技活动的合规与安全，推动人工智能技术发展与社会责任的协调，为行业提供明确的伦理风险防控框架。",
     "发布日期": "2026-04-08",
-    "原文链接": "https://www.aibase.com/zh/news/26915",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3f4f345fb66e0ec8d6f69fe149474287.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3f4f345fb66e0ec8d6f69fe149474287.jpg",
-    "配图仓库路径": "assets/news_images/3f4f345fb66e0ec8d6f69fe149474287.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558215737_4.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/26921",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/233ac47d8918b9f127ae347522ca9cd4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/233ac47d8918b9f127ae347522ca9cd4.jpg",
+    "配图仓库路径": "assets/news_images/233ac47d8918b9f127ae347522ca9cd4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308011356244247_4.jpg"
   },
   {
-    "资讯标题": "Anthropic发布最强AI模型Mythos，定向开放给行业巨头进行漏洞挖掘测试",
-    "内容": "Anthropic正式发布新一代前沿模型Mythos预览版，该模型在智能体级别的编程与推理能力上实现跨越，尤其在网络安全领域表现出极强的漏洞挖掘潜力。在封闭测试中，Mythos成功识别出数千个零日漏洞，并能精准定位隐藏在陈旧代码中长达数十年的历史遗留缺陷。目前，Mythos暂不向公众开放，而是通过“Project Glasswing”项目定向提供给Apple、Amazon、Microsoft、Cisco及CrowdStrike等行业巨头，用于第一方及开源系统的防御性代码扫描。Anthropic已就该模型的国家级关键系统防御应用与美国联邦官员展开对话。由于其具备极强的攻击性潜力，该模型引发了关于供应链风险与伦理边界的广泛讨论，Anthropic目前已被美国国防部列为“供应链风险实体”。Mythos的出现标志着AI",
+    "资讯标题": "OpenAI高管Joanne Jang宣布离职，曾主导GPT-4o交互能力研发",
+    "内容": "被誉为“GPT-4o之母”的OpenAI核心高管Joanne Jang在X平台发文，宣布正式结束其在公司四年半的职业生涯。Joanne Jang长期负责核心产品团队，主导了ChatGPT交互感与情绪表达能力的研究，是赋予GPT-4o“拟人感”的关键推手。此次离职未披露具体原因及后续去向。作为OpenAI近期管理层密集变动的最新案例，Joanne Jang的离去加剧了外界对公司内部治理及人才流失的担忧。目前OpenAI正处于估值高达8520亿美元的IPO冲刺阶段，核心研发人员与管理层的频繁变动引发市场对公司持续创新能力及上市进程的质疑。随着多位元老级高管相继出走，OpenAI的内部治理结构稳定性正面临严峻考验，其在AGI竞赛中的领先地位及IPO之路均蒙上阴影。",
     "发布日期": "2026-04-08",
-    "原文链接": "https://www.aibase.com/zh/news/26914",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4874f5a00ff55f1e2572bbe64943156c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4874f5a00ff55f1e2572bbe64943156c.jpg",
-    "配图仓库路径": "assets/news_images/4874f5a00ff55f1e2572bbe64943156c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621141028_13.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/26926",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1ab1e54e2053307a564dd1cd8929aeba.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1ab1e54e2053307a564dd1cd8929aeba.jpg",
+    "配图仓库路径": "assets/news_images/1ab1e54e2053307a564dd1cd8929aeba.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202405140928428813_0.jpg"
+  },
+  {
+    "资讯标题": "微软发布自研转录模型 MAI-Transcribe-1，平均字错误率仅 3.9%",
+    "内容": "微软于4月2日正式发布自研AI模型MAI-Transcribe-1，在FLEURS基准测试中实现3.9%的平均字错误率，被官方定位为全球最精准的转录模型。该模型覆盖全球25种主要语言，在11种核心语言中位居榜首，并在其余14种语言的对比中超越OpenAI的Whisper-large-v3及谷歌Gemini 3.1 Flash。性能方面，其批量转录速度达到Microsoft Azure Fast服务的2.5倍，定价为每小时0.36美元。目前，MAI-Transcribe-1已在Microsoft Foundry平台开放使用。微软表示，该模型旨在提供高性价比的语音转文字解决方案，后续更新将补齐实时转录、说话人分离及偏见调整等功能。此次发布标志着微软在自研AI模型版图上的进一步扩张，通过高准确度与低成本优势，直接冲击",
+    "发布日期": "2026-04-07",
+    "原文链接": "https://www.ithome.com/0/935/617.htm",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d3f8f89362d9e914c2e3c3ddc370e7b2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d3f8f89362d9e914c2e3c3ddc370e7b2.jpg",
+    "配图仓库路径": "assets/news_images/d3f8f89362d9e914c2e3c3ddc370e7b2.jpg",
+    "原始配图链接": "https://img.ithome.com/newsuploadfiles/2026/4/9800890d-a3da-4347-ad06-68895d8026c6.jpg?x-bce-process=image/format,f_auto"
   }
 ]
