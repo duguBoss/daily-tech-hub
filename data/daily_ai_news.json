@@ -1,17 +1,7 @@
 [
   {
-    "资讯标题": "谷歌Gemini AI新增互动3D模型与模拟功能，支持科学概念动态可视化",
-    "内容": "谷歌近日为Gemini AI聊天机器人引入互动3D模型与模拟功能，旨在通过动态可视化提升科学学习体验。用户通过“展示给我”或“帮我可视化”等指令，即可调用Gemini Pro模型生成可操作的三维内容。该功能支持模拟复杂物理系统、旋转分子结构或观察天体运动，用户可通过手动滑块实时调节初速度、引力强度、波长、缝距等参数，观察变量对系统运行的影响。例如在演示双缝实验时，系统可实时呈现波形与干涉图样的动态变化。谷歌表示，该功能是对原有生物、物理、化学及数学交互式示意图能力的扩展，目前正逐步向所有用户开放，但教育版和Workspace账号暂不支持。此举标志着Gemini在教育与知识可视化领域迈出重要一步，将抽象的学术概念转化为高维度的动态交互体验。",
-    "发布日期": "2026-04-11",
-    "原文链接": "https://www.aibase.com/zh/news/27021",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2c12b28f1ee32eb0dcbf42101650d808.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2c12b28f1ee32eb0dcbf42101650d808.jpg",
-    "配图仓库路径": "assets/news_images/2c12b28f1ee32eb0dcbf42101650d808.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0410/6391142710024298139438871.png"
-  },
-  {
     "资讯标题": "西门子联手英伟达优化AI芯片验证流程，将前硅设计验证周期从数月缩短至数日",
-    "内容": "西门子与英伟达近日宣布在AI芯片验证领域达成深度合作，通过软硬协同技术，将芯片前硅设计验证周期从数月大幅缩短至数日。该方案核心在于利用西门子Veloce™ proFPGA CS硬件辅助验证系统，结合英伟达深度优化的芯片架构进行实战模拟。通过在首版芯片交付制造前运行数万亿次循环的大规模真实工作负载，研发团队能够提前进行设计优化与“试错”。此次合作旨在通过EDA工具链的数字化孪生技术，提升AI芯片的流片成功率并显著缩短上市时间（TTM）。对于行业而言，这一技术突破不仅规避了高昂的返工成本，还为下一代AI算力集群的快速落地提供了底层保障，标志着工业软件在加速高性能AI芯片研发进程中发挥了关键作用。",
+    "内容": "西门子与英伟达近日宣布在AI芯片验证领域达成深度合作，通过软硬协同技术大幅提升芯片前硅设计验证效率。双方利用西门子Veloce™ proFPGA CS硬件辅助验证系统，结合英伟达深度优化的芯片架构，成功将原本耗时数月的数万亿次前硅设计周期验证缩短至数日内完成。该方案允许英伟达在芯片正式流片前运行大规模真实工作负载，从而提前进行设计优化。此举不仅显著缩短了新一代AI芯片的上市时间（TTM），还通过在硅前阶段的大规模负载模拟，有效降低了高昂的返工成本并提升了流片成功率。作为西门子EDA工具链在AI产业链底层的深度应用，该合作通过数字化孪生技术为复杂芯片系统的稳定运行提供了保障，为AI算力集群的快速落地与AGI时代的演进提供了关键技术支撑。",
     "发布日期": "2026-04-11",
     "原文链接": "https://www.aibase.com/zh/news/27019",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
@@ -21,7 +11,7 @@
   },
   {
     "资讯标题": "蚂蚁集团斩获CVPR 2026两项冠军，实现AIGC检测技术实战级跃迁",
-    "内容": "蚂蚁集团在计算机视觉顶会CVPR 2026 NTIRE挑战赛中，斩获“复杂真实场景鲁棒性样本测试”与“人脸增强异常检测”双赛道冠军。针对Deepfake与AIGC滥用风险，蚂蚁AI安全实验室基于DINOv3视觉基础模型，提出双流并行集成架构，通过模拟多重失真全链路退化效果，显著提升了模型在真实场景下的鲁棒性。团队创新的“Locate-Then-Examine”两阶段检测范式，突破了传统“黑盒”检测局限，不仅能精准判断AI生成内容，还能定位伪造瑕疵并生成文本解释。此外，蚂蚁国际将该技术应用于跨境支付、EKYC及金融材料审核，有效防范身份冒用风险。为推动行业协作，团队已在GitHub开源了涵盖WildFake、Z-Image等前沿数据集的AIGC检测资源仓库，为支付与金融安全领域提供关键技术支撑。",
+    "内容": "蚂蚁集团在CVPR 2026 NTIRE图像检测挑战赛中，斩获“复杂真实场景鲁棒性样本测试”及“人脸增强异常检测”双赛道冠军。针对Deepfake与AIGC滥用风险，蚂蚁AI安全实验室基于DINOv3视觉基础模型，提出双流并行集成架构，通过模拟多重失真全链路退化效果，显著提升了模型在真实场景下的鲁棒性。团队创新采用“Locate-Then-Examine”两阶段检测范式，不仅能识别AI生成内容，还能定位伪造瑕疵并生成文本解释，突破了传统“黑盒”检测局限。此外，蚂蚁国际将该技术应用于跨境支付及EKYC身份鉴别，有效防范金融领域AIGC攻击。目前，团队已在GitHub开源相关检测资源仓库，旨在推动行业共同应对深度伪造挑战，为支付、内容审核及金融身份认证提供关键安全支撑。",
     "发布日期": "2026-04-11",
     "原文链接": "https://www.aibase.com/zh/news/27031",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b6a01cf851f6683de7de460ae590134a.jpg",
@@ -30,23 +20,33 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743148970_6.jpg"
   },
   {
-    "资讯标题": "苹果发布 iOS 26 系统，短信应用正式引入 Apple Intelligence 智能搜索功能",
-    "内容": "苹果公司正式发布 iOS 26 系统，核心升级点在于短信应用集成由 Apple Intelligence 驱动的 AI 智能搜索功能。该功能基于 LLMs 技术，支持用户通过自然语言描述（如“六月份去海滩旅行时妈妈的照片”）进行语义化检索，并能根据关键词自动推荐相关联的短信内容，显著提升了历史对话、照片及链接的查找效率。此项功能与照片、音乐应用的 AI 搜索逻辑保持一致，无需用户额外设置，在开启 Apple Intelligence 后自动适配。硬件支持方面，该功能仅限 iPhone 15 Pro 及以上系列、iPhone 16 全系列、iPhone 17 全系列及 iPad Air 机型。此次更新通过智能化手段解决了传统短信搜索依赖精确关键词的痛点，进一步优化了用户在海量历史数据中的信息检索体验。",
-    "发布日期": "2026-04-11",
-    "原文链接": "https://www.aibase.com/zh/news/27022",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/833b0678e400ea064e209f5f6190969e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/833b0678e400ea064e209f5f6190969e.jpg",
-    "配图仓库路径": "assets/news_images/833b0678e400ea064e209f5f6190969e.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202211071746554214_2.jpg"
-  },
-  {
     "资讯标题": "腾讯发布HY-Embodied-0.5具身模型，22项评测中16项刷新行业纪录",
-    "内容": "腾讯Robotics X实验室联合腾讯混元团队正式发布具身智能基础模型HY-Embodied-0.5，旨在解决通用VLM在物理交互与三维空间感知上的局限。该系列包含MoT-2B端侧模型与MoE-32B旗舰模型，采用首创的视觉与语言模态非共享参数的混合Transformer架构，并配合HY-ViT2.0视觉编码器。模型依托超1亿条具身专属数据，结合拒绝采样微调与在线蒸馏等后训练策略。性能方面，MoT-2B在感知、推理、规划等22项评测中斩获16项最佳，超越Qwen3-VL-4B等同参数竞品；MoE-32B则具备与Gemini3.0Pro抗衡的综合性能。实机测试显示，该模型在打包、堆叠等物理任务中表现优异，为具身智能从虚拟仿真走向物理实操提供了高性能底层基座，标志着大模型认知链路实质性延伸至机器人控制领域。",
+    "内容": "腾讯Robotics X实验室联合腾讯混元团队正式发布专为具身智能打造的HY-Embodied-0.5基础模型，旨在解决通用VLM在物理交互与三维空间感知上的局限。该系列包含MoT-2B端侧模型与MoE-32B高性能模型，采用首创的视觉与语言模态非共享参数的混合Transformer架构，并配备HY-ViT2.0原生分辨率视觉编码器。模型基于超1亿条具身专属数据训练，结合拒绝采样微调、强化学习及在线蒸馏策略。性能方面，MoT-2B在22项感知、推理与规划评测中斩获16项最佳，超越Qwen3-VL-4B及RoboBrain2.5等竞品；旗舰版MoE-A32B性能可对标Gemini3.0Pro。实机测试显示，该模型在打包、堆叠等物理任务中表现优于主流基线，为具身智能从虚拟仿真转向物理实操提供了高性能底层支撑。",
     "发布日期": "2026-04-11",
     "原文链接": "https://www.aibase.com/zh/news/27028",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8463332e50e07be255cca58cf0c03ac7.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8463332e50e07be255cca58cf0c03ac7.jpg",
     "配图仓库路径": "assets/news_images/8463332e50e07be255cca58cf0c03ac7.jpg",
     "原始配图链接": "https://pic.chinaz.com/thumb/2026/0410/26041003562989549623.jpg"
+  },
+  {
+    "资讯标题": "教育部等五部门印发《“人工智能+教育”行动计划》并开发全学段AI慕课",
+    "内容": "4月10日，教育部、国家发展改革委、工业和信息化部、科技部及国家数据局联合印发《“人工智能+教育”行动计划》，明确将由国家统一开发覆盖全学段的AI慕课资源。该计划旨在构建全民AI素养培育机制，通过国家智慧教育平台上线免费AI通识课，集成智能导学、个性化路径规划及AI伴学等技术，以数字化手段弥合城乡教育资源差距。在具体实施层面，基础教育将AI课程设为地方必修课，高等教育将AI纳入公共基础课程体系并增设微专业，职业教育则聚焦产业智能转型的高技能人才培养。此举标志着我国人工智能人才培养进入体系化阶段，旨在通过供给侧改革重塑劳动力结构。预计到2030年，人工智能将从精英工具转化为社会基础性技能，为我国在全球AI竞争中储备深厚的人才池与应用生态基础。",
+    "发布日期": "2026-04-11",
+    "原文链接": "https://www.aibase.com/zh/news/27023",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6eed16a7e538262afb05d56267905cf5.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6eed16a7e538262afb05d56267905cf5.jpg",
+    "配图仓库路径": "assets/news_images/6eed16a7e538262afb05d56267905cf5.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131403594541_0.jpg"
+  },
+  {
+    "资讯标题": "Chaofan 发布论文揭露第三方 LLM 中转站存在致命中间人攻击漏洞",
+    "内容": "Claude 源码泄漏事件吹哨人 Chaofan 发布论文《Your Agent Is Mine》，揭露第三方 LLM 路由器（中转站）已成为 AI Agent 领域最严重的中间人攻击点。研究发现，攻击者可通过恶意路由器实施 Payload Injection 篡改 tool call 参数实现远程代码执行，或通过 Secret Exfiltration 窃取 API Key、私钥等敏感信息。在对 428 个中转站的测试中，9 个已主动注入恶意代码，1 个导致 50 万美元 ETH 损失，累计暴露 99 个真实凭证。该漏洞利用路由器对 JSON 报文的明文访问权，隐蔽性极强。行业专家建议开发者优先使用官方直连 API，对自建路由器进行严格代码审计与沙箱隔离，并启用端到端加密与请求签名验证，以防范 Agent 被",
+    "发布日期": "2026-04-11",
+    "原文链接": "https://www.aibase.com/zh/news/27020",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/81d189ba840c5881fe415d80ef150f5c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/81d189ba840c5881fe415d80ef150f5c.jpg",
+    "配图仓库路径": "assets/news_images/81d189ba840c5881fe415d80ef150f5c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202006151540143857_24.jpg"
   }
 ]
