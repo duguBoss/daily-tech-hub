@@ -1,7 +1,17 @@
 [
   {
-    "资讯标题": "苹果前AI负责人约翰·詹南德雷亚将于4月15日正式离职",
-    "内容": "苹果前AI负责人约翰·詹南德雷亚（John Giannandrea）将于2026年4月15日正式离职。詹南德雷亚于2018年从谷歌加入苹果，曾主导Apple Intelligence研发。此次离职主要源于苹果在生成式AI领域表现未达预期，Apple Intelligence效果不佳且Siri升级多次延迟，导致其自2025年3月起职权被大幅削减。去年12月，苹果已确认其退休计划，并将相关职责分摊给克雷格·费德里吉、埃迪·库伊及萨比赫·汗等高管。离职前，詹南德雷亚已处于顾问状态，未参与实际运作。随着其正式离职，苹果在AI人才管理及战略执行上面临严峻挑战。业内分析认为，苹果内部权力结构限制了非核心圈层推动变革的能力，詹南德雷亚离职后或将转向董事会任职或担任初创企业顾问。",
+    "资讯标题": "阿里桌面 Agent 工具 CoPaw 更名为 QwenPaw 并发布 1.1.0 版本",
+    "内容": "桌面 Agent 工具 CoPaw 正式更名为 QwenPaw，并发布 1.1.0 版本，标志着该项目正式纳入通义千问（Qwen）开源生态体系。此次品牌重塑旨在强化模型层能力对齐，重点发力本地模型优化及大小模型协作。QwenPaw 作为对标 OpenClaw 的桌面智能体，支持钉钉、飞书、QQ、Discord 及 iMessage 等多平台接入，提供本地部署与云端部署两种模式，并允许用户自由接入本地模型。在技术演进方面，QwenPaw 将重心转向“端云结合”，通过优化桌面端硬件适配提升处理本地文件与自动化操作的响应速度。同时，新版本升级了安全机制，并进一步探索多智能体（Multi-Agent）协作模式，以支持跨软件、跨平台的复杂长程任务处理，旨在打造更具隐私保护与实用性的个人数字助理。",
+    "发布日期": "2026-04-13",
+    "原文链接": "https://www.aibase.com/zh/news/27047",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bfc834415ea322067433dd038c4dd008.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bfc834415ea322067433dd038c4dd008.jpg",
+    "配图仓库路径": "assets/news_images/bfc834415ea322067433dd038c4dd008.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0413/6391167006257221863023220.png"
+  },
+  {
+    "资讯标题": "苹果前AI负责人John Giannandrea确认将于4月15日正式离职",
+    "内容": "苹果前AI负责人John Giannandrea将于4月15日正式离职，该日期与公司股票激励计划归属时间点一致。Giannandrea于2018年从Google加入苹果，曾主导Apple Intelligence开发。自2025年3月起，其职权已被大幅削减，并于去年12月转为顾问角色。此次离职主要源于Apple Intelligence表现未达预期及Siri升级多次延迟，反映出苹果在生成式AI领域的战略困境。目前，Giannandrea原有的职责已分摊给软件负责人Craig Federighi、服务负责人Eddy Cue及运营负责人Sabih Khan。分析指出，苹果内部权力结构限制了非核心圈层推动变革的能力，随着Giannandrea的离职，苹果AI战略将面临严峻挑战。预计其离职后将转向董事会任职或担任初创企",
     "发布日期": "2026-04-13",
     "原文链接": "https://www.aibase.com/zh/news/27053",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6966a0a6588676ea07ac46e8d14ff7b2.jpg",
@@ -10,28 +20,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202010301738401295_5.jpg"
   },
   {
-    "资讯标题": "芯片公司SiFive完成4亿美元融资，估值达36.5亿美元并获英伟达参投",
-    "内容": "RISC-V架构芯片设计公司SiFive近日完成4亿美元超额认购融资，公司估值升至36.5亿美元。本轮融资由Atreides Management领投，英伟达参投。SiFive采用类似Arm的授权模式，通过向客户提供芯片设计授权进行定制开发。此次融资旨在加速其从嵌入式场景向高性能AI数据中心CPU市场的转型。技术层面，SiFive计划推动其CPU设计与英伟达CUDA软件生态及NVLink Fusion架构兼容，从而接入英伟达“AI工厂”体系。在Arm推出自研AI芯片加剧行业竞争的背景下，英伟达通过投资开放架构CPU公司，进一步扩展了其在AI基础设施层的控制力。此次融资不仅反映了资本市场对RISC-V在AI时代潜力的认可，也标志着芯片产业正加速向开放生态演进，围绕CPU与GPU协同的下一代AI计算格局正在重构。",
-    "发布日期": "2026-04-13",
-    "原文链接": "https://www.aibase.com/zh/news/27043",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8c5a80d048664be10c95bd05bd84d070.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8c5a80d048664be10c95bd05bd84d070.jpg",
-    "配图仓库路径": "assets/news_images/8c5a80d048664be10c95bd05bd84d070.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304041450446401_5.jpg"
-  },
-  {
-    "资讯标题": "稀宇科技正式开源 Minimax 2.7 大模型，DeepSeek V4 预计四月下旬发布",
-    "内容": "稀宇科技今日正式开源其 3 月发布的 Minimax 2.7 大模型，该模型在编程能力上实现显著跃升。根据官方数据，Minimax 2.7 在 SWE-Pro 基准测试中得分达 56.22%，性能接近 Claude Opus 水平；在 OpenClaw 环境下的 MMClaw 评测中，表现优于 M2.5 并接近 Sonnet 4.6。相比 GPT-5.4 Pro 等海外收费模型，Minimax 2.7 为开发者提供了更具成本优势的高性能选择。随着国产开源模型阵营的扩充，市场焦点转向 DeepSeek。据透露，DeepSeek V4 计划于 4 月下旬发布，该版本将原生支持多模态，提供“快速、专家、视觉”三种模式，并全面适配国产 AI 硬件系统，旨在通过差异化竞争与高频迭代，在 AI 编程及特定行业应用中进一步缩",
-    "发布日期": "2026-04-13",
-    "原文链接": "https://www.aibase.com/zh/news/27045",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/566b45d2fa5012fd6aee4c943795ab5e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/566b45d2fa5012fd6aee4c943795ab5e.jpg",
-    "配图仓库路径": "assets/news_images/566b45d2fa5012fd6aee4c943795ab5e.jpg",
-    "原始配图链接": "https://img1.mydrivers.com/img/20260412/20b2b6ec-3131-4752-9ec4-d471bac08a85.png"
-  },
-  {
     "资讯标题": "智元机器人将于4月17日发布4款本体新品及4个AI大模型",
-    "内容": "智元机器人将于4月17日在上海举办2026合作伙伴大会，集中发布4款机器人本体新品、4个配套AI大模型及7套行业解决方案。此次发布旨在强化“一体三智”全栈架构，通过硬件与大模型深度融合，提升机器人在交互、作业与运动中的智能表现。智元创始人邓泰华与联合创始人彭志辉将出席，探讨具身智能在工业、仓储等场景的“具身生产力”转化。智元目前已实现全场景布局，其四足机器人业务已独立为“智元酷拓”，一季度销量火爆至售罄，2026年营收目标定为5亿元。本次大会吸引了全球34个国家和地区的2500位合作伙伴参会，智元将进一步披露其“三年内实现十万台级通用机器人规模部署”的落地进展，推动通用机器人进入规模化应用纪元。",
+    "内容": "智元机器人将于4月17日在上海举办2026合作伙伴大会，届时将发布4款机器人本体新品、4个配套AI大模型及7套行业解决方案。此次发布旨在强化“一体三智”全栈架构，提升机器人在交互、作业与运动中的智能表现。创始人邓泰华与联合创始人彭志辉将出席，探讨具身智能在工业、仓储等场景的生产力转化。智元目前已实现全场景布局，其四足机器人业务已独立为“智元酷拓”，一季度销量火爆至售罄，2026年营收目标定为5亿元。本次大会吸引了全球34个国家和地区的2500位合作伙伴参会，智元将进一步推进其“三年内实现十万台级通用机器人规模部署”的战略目标，加速推动机器人向自主作业的“数字劳动力”进化。",
     "发布日期": "2026-04-13",
     "原文链接": "https://www.aibase.com/zh/news/27049",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/aeb44e09640e4f82154d3f5e212f10e9.jpg",
@@ -40,13 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306261422250897_5.jpg"
   },
   {
-    "资讯标题": "Linux内核团队发布AI编程新规：允许使用Copilot但开发者须承担代码责任",
-    "内容": "Linux内核维护团队正式发布AI生成代码使用准则，明确允许开发者使用GitHub Copilot等AI辅助工具进行编程。针对开源社区长期存在的AI代码质量与版权争议，创始人Linus Torvalds指出，全面禁止AI工具无意义，核心在于落实责任制。根据新规，所有由AI辅助生成的代码若出现Bug或安全隐患，提交代码的开发者必须承担全部责任。此外，开发者在提交代码时必须明确标示其是否由AI生成，以确保代码质量的可追溯性。此举旨在平衡AI工具带来的生产力提升与开源项目的安全性需求。此前，NetBSD和Gentoo等项目曾因版权及代码质量问题明确禁止使用AI生成内容，而cURL、Node.js等项目也曾面临AI生成低质量补丁的困扰。Linux内核团队通过此项政策，将AI工具定位为辅助手段，并强制要求人类开发者对最终",
+    "资讯标题": "微软开源多模态推理模型 Phi-4-reasoning-vision-15B",
+    "内容": "微软近日正式开源多模态推理模型 Phi-4-reasoning-vision-15B。该模型参数规模为15B，训练过程仅使用200B多模态token，通过精细化数据清洗与合成提升了科学推理及屏幕定位能力。其核心亮点在于“混合推理路径”设计：针对简单任务采用直接作答以降低延迟，面对复杂逻辑则自动调用结构化思维链（CoT）路径。此外，模型集成SigLIP-2动态分辨率编码器，显著增强了对高分辨率截图中细小元素的感知力，使其成为开发计算机操作助手（CUA）的理想选择。微软表示，该模型旨在通过轻量化架构实现高性能与低成本的平衡，推动空间智能与实时交互技术的普及。目前，开发者已可通过开源平台获取该模型，在资源受限环境下部署复杂视觉任务。",
     "发布日期": "2026-04-13",
-    "原文链接": "https://www.aibase.com/zh/news/27054",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e15235e65a4510ce82701e536d3015c9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e15235e65a4510ce82701e536d3015c9.jpg",
-    "配图仓库路径": "assets/news_images/e15235e65a4510ce82701e536d3015c9.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202311281038503909_6.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27060",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/570686366afc7344db45d9fc4b218c83.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/570686366afc7344db45d9fc4b218c83.jpg",
+    "配图仓库路径": "assets/news_images/570686366afc7344db45d9fc4b218c83.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0413/6391167757773685546047824.png"
+  },
+  {
+    "资讯标题": "小鹏汽车定档4月15日发布GX，首发自研图灵芯片与线控转向技术",
+    "内容": "小鹏汽车将于4月15日19:00举办GX技术发布会，正式发布定位“新科技旗舰”的全新车型。该车基于SEPA 3.0物理AI架构打造，核心亮点包括全球量产首发博世新一代线控转向系统，以及搭载4颗小鹏自研图灵AI芯片，为全场景高阶智驾提供底层算力支撑。在性能与配置方面，小鹏GX全系标配800V高压平台与双电机智能四驱系统，并首发搭载与福耀集团联合研发的“业内最强AI调光隐私玻璃”，实现动态遮阳与私密性调节。此次发布不仅是产品更迭，更是小鹏在自研芯片、线控底盘等底层技术领域的规模化部署。通过将800V、自研芯片与线控转向作为标配，小鹏汽车旨在推动汽车行业从“软件定义”向“物理AI”时代转型，进一步提升智能汽车的技术竞争门槛。",
+    "发布日期": "2026-04-13",
+    "原文链接": "https://www.aibase.com/zh/news/27057",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/192b25f7bc274c4e6b5b11d0a90c7300.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/192b25f7bc274c4e6b5b11d0a90c7300.jpg",
+    "配图仓库路径": "assets/news_images/192b25f7bc274c4e6b5b11d0a90c7300.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201912262213258310_3.jpg"
   }
 ]
