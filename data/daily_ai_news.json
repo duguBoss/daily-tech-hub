@@ -1,17 +1,7 @@
 [
   {
-    "资讯标题": "掘金大模型基建！开源中国完成数亿元 C+ 轮融资，加速打造 AI 开发者“模力方舟”",
-    "内容": "开源中国完成数亿元 C+ 轮融资，加速打造 AI 开发者“模力方舟”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 202612据报道，开源与 AI 基础设施服务商 开源中国（OSCHINA） 正式宣布完成 数亿元 C+ 轮融资。本轮融资由 苏创投（苏州创新投资集团有限公司） 作为联合跟投方之一，助力其进一步夯实 AI 时代的开源底座。核心布局：从“代码托管”到“模型托管”开源中国成立于 2008 年，目前已从单一的技术社区进化为覆盖全生命周期的研发基建平台： 模力方舟（Model Ark）： 2023 年起上线的重磅平台，首创全栈大模型托管服务体系。目前已汇聚 10000+ 优质模型，支持多任务形态，为行业 AI 落地提供了即插即用的基座。",
-    "发布日期": "2026-04-14",
-    "原文链接": "https://www.aibase.com/zh/news/27099",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
-    "配图仓库路径": "assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901101704279841_1.jpg"
-  },
-  {
-    "资讯标题": "对话即办公：阿里千问上线表格 Agent，支持直接生成与编辑 Excel",
-    "内容": "对话即办公：阿里千问上线表格 Agent，支持直接生成与编辑 ExcelAIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 20268阿里千问正式上线“表格 Agent”功能。该功能支持用户通过自然语言对话，直接完成 Excel 文件的生成、信息检索及深度编辑，标志着大模型从“提供文本答案”向“交付直接成果”的进一步演进。全场景表格处理能力 “表格 Agent”打破了传统表格处理的繁琐流程，核心能力涵盖以下三大维度: 零门槛信息转表格: 用户只需下达口令（如“整理最新的增值税优惠政策清单”），千问即可自动联网检索信息，并将其转化为标准的 Excel 文件供下载。多轮对话内容提炼: 系统能理解多轮沟通的上下文。",
+    "资讯标题": "阿里千问上线表格 Agent 功能，支持自然语言生成与编辑 Excel 文件",
+    "内容": "阿里千问正式上线“表格 Agent”功能，支持用户通过自然语言对话直接完成 Excel 文件的生成、信息检索及深度编辑。该功能已在千问 App、网页版及 PC 客户端全面上线，旨在将大模型从提供文本答案转向交付直接成果。核心能力包括：零门槛信息转表格，即通过联网检索将信息转化为标准 Excel；多轮对话内容提炼，将聊天记录汇总为结构化表格；多模态识别，支持 PDF、Word、PPT 及手绘报表照片的精准还原与格式转换。在技术实现上，千问通过独立沙箱环境运行代码（Coding），将用户需求拆解为 Agent 执行链路，自动处理复杂排版、公式计算及数据逻辑。此举显著降低了办公门槛，用户无需掌握复杂函数公式，即可通过指令完成专业表格处理。",
     "发布日期": "2026-04-14",
     "原文链接": "https://www.aibase.com/zh/news/27100",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5b19401d0b7df99eb7b676b78fcd791a.jpg",
@@ -20,13 +10,33 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202601161530348796_0.jpg"
   },
   {
-    "资讯标题": "AI医疗进入“深水区”:研究指生成式模型尚难独立承担临床推理重任",
-    "内容": "AI医疗进入“深水区”:研究指生成式模型尚难独立承担临床推理重任AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 20267由美国麻省总医院MESH孵化器团队开展的一项针对生成式人工智能（AI）临床推理能力的最新研究显示，尽管AI在医疗领域的渗透日益加深，但在模拟真实诊疗的逻辑链条中仍存在显著短板。相关研究成果已发表于权威期刊《JAMA Network Open》，明确指出当前主流模型尚不具备独立承担临床诊疗任务的能力。该研究选取了包括ChatGPT、DeepSeek、Claude、Gemini及Grok在内的21种大语言模型，通过29个已知临床病例进行多轮测试。实验通过逐步释放患者症状、实验室数据及影像结果，高度模拟了医生的动态诊疗过程。",
+    "资讯标题": "软银成立新公司研发日本国产 AI，力争 2030 年突破万亿参数",
+    "内容": "软银成立新公司研发日本国产 AI，力争 2030 年突破万亿参数AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 202616软银集团于东京正式成立“日本 AI 基础模型开发公司”，标志着日本在自主研发大模型领域迈出了关键一步。此次动作集结了本田、索尼、NEC 以及三大银行等 8 家核心企业参与出资，并有望获得日本政府的政策与资金支持。剑指“物理 AI”：参数规模达 1 万亿 新公司计划招募约 100 名顶尖 AI 开发人员，设立了明确的技术演进目标：力争在 2030 年前，开发出参数规模达到 1 万亿的大型 AI 基础模型。与目前市面上主流的通用模型不同，该项目将重点放在“物理 AI”领域，强调 AI 与实体世界的感知与交互能力。",
     "发布日期": "2026-04-14",
-    "原文链接": "https://www.aibase.com/zh/news/27101",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
-    "配图仓库路径": "assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307181418295015_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27091",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3c3f0495317b63136b13881a3b58130f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3c3f0495317b63136b13881a3b58130f.jpg",
+    "配图仓库路径": "assets/news_images/3c3f0495317b63136b13881a3b58130f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743168014_9.jpg"
+  },
+  {
+    "资讯标题": "谷歌 Gemini 推出基于 Nano Banana 技术的交互式可视化图像生成功能",
+    "内容": "谷歌 Gemini 推出基于 Nano Banana 技术的交互式可视化图像生成功能AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 202632近日，谷歌为其 AI 助手 Gemini 推出了一项革命性的交互式图像生成功能。得益于底层的 Nano Banana 技术，Gemini 的可视化能力实现从“静态图像”向“动态交互模拟”的跨越。当用户提出“向我展示”或“帮助我可视化”特定复杂主题时，系统将触发“向我展示可视化图表”按钮，生成可操作的数字模拟程序。在实际测试中，该功能展现了极强的信息承载力。例如，在演示“月球绕地运行”时，用户可通过滑块实时调节轨道速度并变换观测视角。",
+    "发布日期": "2026-04-14",
+    "原文链接": "https://www.aibase.com/zh/news/27093",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
+    "配图仓库路径": "assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202601161504560592_0.jpg"
+  },
+  {
+    "资讯标题": "AI正式纳入教资考试与公共必修课:五部门联合部署，开启全民智能素养培育时代",
+    "内容": "AI正式纳入教资考试与公共必修课:五部门联合部署，开启全民智能素养培育时代AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 202619近日，教育部、国家发展改革委、工信部、科技部及国家数据局五部门联合印发《“人工智能+教育”行动计划》（以下简称《行动计划》）。该计划旨在统筹人工智能人才培养与应用创新，目标到2030年基本形成人工智能与教育深度融合格局，构建起纵向贯通、横向联通的全学段及全社会通识教育体系，显著提升人才培养规模与质量。《行动计划》明确了四大核心战略任务。在人才培养方面，要求基础教育开齐开足AI课程，高等教育将AI纳入公共基础课，职业教育则侧重产业转型需求。",
+    "发布日期": "2026-04-14",
+    "原文链接": "https://www.aibase.com/zh/news/27102",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ef2aa25aa45f175aa3112fbcace00f0b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ef2aa25aa45f175aa3112fbcace00f0b.jpg",
+    "配图仓库路径": "assets/news_images/ef2aa25aa45f175aa3112fbcace00f0b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308211451227019_1.jpg"
   }
 ]
