@@ -1,42 +1,32 @@
 [
   {
-    "资讯标题": "软银索尼本田联手成立新公司，获万亿日元支持开发日本国产AI基础模型",
-    "内容": "软银、索尼集团、本田及NEC等日本行业巨头正式成立“日本AI基础模型开发”公司，旨在构建自主知识产权的国产AI生态。该项目已应征日本新能源与产业技术综合开发机构（NEDO）的开发计划，若获选，未来五年将获得高达1万亿日元（约65亿美元）的政府财政支持。新公司将组建约100人的顶尖开发团队，由软银高管担任社长，日本AI独角兽Preferred Networks参与研发。战略目标不仅涵盖文本与语言处理，还将重点进军机器人操控AI领域，旨在将日本在硬件与传感技术领域的传统优势转化为AI时代的竞争力。该举措旨在打破对海外技术的依赖，并将研发成果向全日本企业开放，以降低本土企业的智能化门槛，重塑日本在全球AI竞赛中的地位。",
+    "资讯标题": "掘金大模型基建！开源中国完成数亿元 C+ 轮融资，加速打造 AI 开发者“模力方舟”",
+    "内容": "开源中国完成数亿元 C+ 轮融资，加速打造 AI 开发者“模力方舟”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 202612据报道，开源与 AI 基础设施服务商 开源中国（OSCHINA） 正式宣布完成 数亿元 C+ 轮融资。本轮融资由 苏创投（苏州创新投资集团有限公司） 作为联合跟投方之一，助力其进一步夯实 AI 时代的开源底座。核心布局：从“代码托管”到“模型托管”开源中国成立于 2008 年，目前已从单一的技术社区进化为覆盖全生命周期的研发基建平台： 模力方舟（Model Ark）： 2023 年起上线的重磅平台，首创全栈大模型托管服务体系。目前已汇聚 10000+ 优质模型，支持多任务形态，为行业 AI 落地提供了即插即用的基座。",
     "发布日期": "2026-04-14",
-    "原文链接": "https://www.aibase.com/zh/news/27072",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/51c2730fb487da97e2d42cb79f9098d6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/51c2730fb487da97e2d42cb79f9098d6.jpg",
-    "配图仓库路径": "assets/news_images/51c2730fb487da97e2d42cb79f9098d6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131354279338_7.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27099",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "配图仓库路径": "assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901101704279841_1.jpg"
   },
   {
-    "资讯标题": "荣耀发布自研YOYO Claw智能体技术，预制23个子虾并降低50% Token消耗",
-    "内容": "荣耀在PC新品技术沟通会上正式发布自研YOYO Claw智能体技术，旨在解决AI智能体上手复杂、成本高及隐私风险等痛点。该技术核心亮点在于“出厂即预制”，首批内置5大主虾及23个子虾，用户无需编写代码或适配API即可直接使用。性能方面，通过智能任务执行判断，YOYO Claw相比OpenClaw的Token消耗降低50%，任务成功率从89.5%提升至94.5%。在安全架构上，该技术通过“独立安全虾”实现从应用层到驱动层的多重防护，支持高危操作拦截与敏感行为二次确认。YOYO Claw具备全域记忆与端侧优先特性，支持跨端执行任务，可连接荣耀PC、Pad及第三方OpenClaw。该技术已于3月27日开启封测，未来将扩展至手机端，进一步完善其AI智能体生态布局。",
+    "资讯标题": "对话即办公：阿里千问上线表格 Agent，支持直接生成与编辑 Excel",
+    "内容": "对话即办公：阿里千问上线表格 Agent，支持直接生成与编辑 ExcelAIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 20268阿里千问正式上线“表格 Agent”功能。该功能支持用户通过自然语言对话，直接完成 Excel 文件的生成、信息检索及深度编辑，标志着大模型从“提供文本答案”向“交付直接成果”的进一步演进。全场景表格处理能力 “表格 Agent”打破了传统表格处理的繁琐流程，核心能力涵盖以下三大维度: 零门槛信息转表格: 用户只需下达口令（如“整理最新的增值税优惠政策清单”），千问即可自动联网检索信息，并将其转化为标准的 Excel 文件供下载。多轮对话内容提炼: 系统能理解多轮沟通的上下文。",
     "发布日期": "2026-04-14",
-    "原文链接": "https://www.aibase.com/zh/news/27071",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/61c7b4e0c569c91d15587a5b7184a6d7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/61c7b4e0c569c91d15587a5b7184a6d7.jpg",
-    "配图仓库路径": "assets/news_images/61c7b4e0c569c91d15587a5b7184a6d7.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202603101646537572_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27100",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5b19401d0b7df99eb7b676b78fcd791a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5b19401d0b7df99eb7b676b78fcd791a.jpg",
+    "配图仓库路径": "assets/news_images/5b19401d0b7df99eb7b676b78fcd791a.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202601161530348796_0.jpg"
   },
   {
-    "资讯标题": "日本Rapidus启用600mm玻璃基板封装线，力争2027年实现2nm芯片量产",
-    "内容": "日本半导体制造商Rapidus于4月13日正式启用位于北海道千岁市的半导体封装试产线。该产线核心技术在于采用600mm×600mm正方形玻璃基板，使单块基板可生产的中介层数量提升至以往的10倍，旨在显著提升AI芯片生产效率。同时，Rapidus启用了紧邻2nm晶圆厂的分析中心，以实现制造与分析的闭环验证。根据规划，Rapidus目标在2027财年下半年实现2nm制程大规模量产，初期月产能为6000片，后续将提升至25000片。日本经济产业省已于4月11日追加拨款6315亿日元，使其累计获得政府研发支持达2.354万亿日元。Rapidus由丰田、索尼、软银等八家企业联合成立，此次布局旨在通过先进封装与先进制程协同，提升其在全球半导体市场的竞争力。",
+    "资讯标题": "AI医疗进入“深水区”:研究指生成式模型尚难独立承担临床推理重任",
+    "内容": "AI医疗进入“深水区”:研究指生成式模型尚难独立承担临床推理重任AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 20267由美国麻省总医院MESH孵化器团队开展的一项针对生成式人工智能（AI）临床推理能力的最新研究显示，尽管AI在医疗领域的渗透日益加深，但在模拟真实诊疗的逻辑链条中仍存在显著短板。相关研究成果已发表于权威期刊《JAMA Network Open》，明确指出当前主流模型尚不具备独立承担临床诊疗任务的能力。该研究选取了包括ChatGPT、DeepSeek、Claude、Gemini及Grok在内的21种大语言模型，通过29个已知临床病例进行多轮测试。实验通过逐步释放患者症状、实验室数据及影像结果，高度模拟了医生的动态诊疗过程。",
     "发布日期": "2026-04-14",
-    "原文链接": "https://www.aibase.com/zh/news/27077",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fa7d464ff0bb21f829b46e0fa3f51c2f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fa7d464ff0bb21f829b46e0fa3f51c2f.jpg",
-    "配图仓库路径": "assets/news_images/fa7d464ff0bb21f829b46e0fa3f51c2f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304231132173466_7.jpg"
-  },
-  {
-    "资讯标题": "Rust原生AI Agent聚合工具Superconductor开启Alpha测试",
-    "内容": "近日，专为代理工程打造的Rust原生应用Superconductor正式开启Alpha测试。该工具完全摒弃Electron框架，采用纯Rust编写并利用Metal GPU加速，实现低于50毫秒的启动速度。Superconductor的核心优势在于其强大的聚合能力，支持在一个统一界面内并行运行Claude Code、Gemini CLI、Cursor Agent等多个主流编码Agent，并允许用户通过无限标签页管理独立工作空间。针对复杂开发场景，该软件内置隔离Git工作树机制，支持实时diff查看、分支管理及PR自动化处理。此外，Superconductor提供高度自定义的布局与快捷键设置，所有数据本地存储，无遥测收集。目前该应用仅支持macOS平台，旨在解决开发者在多Agent切换中的效率瓶颈，通过原生架构实现",
-    "发布日期": "2026-04-14",
-    "原文链接": "https://www.aibase.com/zh/news/27070",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8d08d4d37d9003fb67b4618fdbda5762.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8d08d4d37d9003fb67b4618fdbda5762.jpg",
-    "配图仓库路径": "assets/news_images/8d08d4d37d9003fb67b4618fdbda5762.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0413/6391169285523052661501898.png"
+    "原文链接": "https://www.aibase.com/zh/news/27101",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
+    "配图仓库路径": "assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307181418295015_2.jpg"
   }
 ]
