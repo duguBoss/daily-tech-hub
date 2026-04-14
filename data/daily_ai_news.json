@@ -1,8 +1,18 @@
 [
   {
+    "资讯标题": "阿里巴巴高德具身业务部即将发布首款四足机器人产品",
+    "内容": "阿里巴巴旗下高德具身业务部即将发布其首款硬件产品——四足机器人，这是高德在机器人领域的首次产品化尝试，也是阿里巴巴集团推出的首款具身机器人。高德具身业务部成立于2026年1月，此前已于2月发布自研具身导航基座模型“ABot-N0”及具身操作基座模型“ABot-M0”，实现了具身导航与操作的“双SOTA”表现。该部门依托高德在地图导航领域的积淀，构建了大规模具身导航数据引擎，使机器人具备在开放物理环境下执行跨场景送物、跟随服务等长程复杂任务的能力。此次从软件模型向硬件实体的跨越，标志着阿里巴巴AI版图正式由数字空间延伸至物理交互世界，通过“导航+具身”的技术融合，在高德擅长的空间智能领域构建差异化竞争力。",
+    "发布日期": "2026-04-15",
+    "原文链接": "https://www.aibase.com/zh/news/27103",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0282af3fda68cea66321e5fc27f4167e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0282af3fda68cea66321e5fc27f4167e.jpg",
+    "配图仓库路径": "assets/news_images/0282af3fda68cea66321e5fc27f4167e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305081201110852_10.jpg"
+  },
+  {
     "资讯标题": "阿里千问上线表格 Agent 功能，支持自然语言生成与编辑 Excel 文件",
-    "内容": "阿里千问正式上线“表格 Agent”功能，支持用户通过自然语言对话直接完成 Excel 文件的生成、信息检索及深度编辑。该功能已在千问 App、网页版及 PC 客户端全面上线，旨在将大模型从提供文本答案转向交付直接成果。核心能力包括：零门槛信息转表格，即通过联网检索将信息转化为标准 Excel；多轮对话内容提炼，将聊天记录汇总为结构化表格；多模态识别，支持 PDF、Word、PPT 及手绘报表照片的精准还原与格式转换。在技术实现上，千问通过独立沙箱环境运行代码（Coding），将用户需求拆解为 Agent 执行链路，自动处理复杂排版、公式计算及数据逻辑。此举显著降低了办公门槛，用户无需掌握复杂函数公式，即可通过指令完成专业表格处理。",
-    "发布日期": "2026-04-14",
+    "内容": "阿里千问正式上线“表格 Agent”功能，支持用户通过自然语言对话直接完成 Excel 文件的生成、信息检索及深度编辑。该功能涵盖三大核心能力：一是零门槛信息转表格，可自动联网检索并生成标准 Excel；二是多轮对话内容提炼，将聊天记录转化为结构化表格；三是多模态识别，支持 PDF、Word、PPT 及手绘报表照片的精准还原与格式化处理。在技术实现上，千问通过独立沙箱环境运行代码，将复杂需求拆解为 Agent 执行链路，确保生成文件具备真实公式、复杂排版与严密数据逻辑。目前，该功能已在千问 App、网页版及 PC 客户端全面上线，用户无需掌握复杂函数公式，即可通过指令完成数据处理与排版，标志着大模型应用从提供文本答案向交付直接办公成果的演进。",
+    "发布日期": "2026-04-15",
     "原文链接": "https://www.aibase.com/zh/news/27100",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5b19401d0b7df99eb7b676b78fcd791a.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5b19401d0b7df99eb7b676b78fcd791a.jpg",
@@ -10,33 +20,33 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202601161530348796_0.jpg"
   },
   {
-    "资讯标题": "软银成立新公司研发日本国产 AI，力争 2030 年突破万亿参数",
-    "内容": "软银成立新公司研发日本国产 AI，力争 2030 年突破万亿参数AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 202616软银集团于东京正式成立“日本 AI 基础模型开发公司”，标志着日本在自主研发大模型领域迈出了关键一步。此次动作集结了本田、索尼、NEC 以及三大银行等 8 家核心企业参与出资，并有望获得日本政府的政策与资金支持。剑指“物理 AI”：参数规模达 1 万亿 新公司计划招募约 100 名顶尖 AI 开发人员，设立了明确的技术演进目标：力争在 2030 年前，开发出参数规模达到 1 万亿的大型 AI 基础模型。与目前市面上主流的通用模型不同，该项目将重点放在“物理 AI”领域，强调 AI 与实体世界的感知与交互能力。",
-    "发布日期": "2026-04-14",
-    "原文链接": "https://www.aibase.com/zh/news/27091",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3c3f0495317b63136b13881a3b58130f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3c3f0495317b63136b13881a3b58130f.jpg",
-    "配图仓库路径": "assets/news_images/3c3f0495317b63136b13881a3b58130f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743168014_9.jpg"
+    "资讯标题": "特斯拉发布2026春季软件更新：Grok支持语音唤醒并上线FSD一键订阅",
+    "内容": "特斯拉正式推送2026年春季软件更新，核心升级包括车载AI助手Grok的语音交互能力及FSD订阅流程优化。Grok现支持“嘿，Grok”免唤醒词启动，并新增基于地理位置的语音提醒功能。针对搭载AI4硬件的车型，特斯拉重构了自动驾驶应用界面，支持车内大屏一键订阅FSD，并新增实时运行数据看板。此外，本次OTA包含十二项细节改进，如行车记录仪录制时长延长至24小时、盲区警示灯与氛围灯联动、宠物模式自定义升级以及Model 3/Y可视化效果增强。尽管功能密度大幅提升，但苹果CarPlay仍未在此次更新中上线。此次更新标志着特斯拉车载系统在AI感知与交互体验上的进一步深化，通过软硬件深度融合，强化了车辆作为智能移动终端的属性。",
+    "发布日期": "2026-04-15",
+    "原文链接": "https://www.aibase.com/zh/news/27110",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/65eea5242d68d9cf903426e13a79f51c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/65eea5242d68d9cf903426e13a79f51c.jpg",
+    "配图仓库路径": "assets/news_images/65eea5242d68d9cf903426e13a79f51c.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0414/6391177618204385122749815.png"
   },
   {
-    "资讯标题": "谷歌 Gemini 推出基于 Nano Banana 技术的交互式可视化图像生成功能",
-    "内容": "谷歌 Gemini 推出基于 Nano Banana 技术的交互式可视化图像生成功能AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 202632近日，谷歌为其 AI 助手 Gemini 推出了一项革命性的交互式图像生成功能。得益于底层的 Nano Banana 技术，Gemini 的可视化能力实现从“静态图像”向“动态交互模拟”的跨越。当用户提出“向我展示”或“帮助我可视化”特定复杂主题时，系统将触发“向我展示可视化图表”按钮，生成可操作的数字模拟程序。在实际测试中，该功能展现了极强的信息承载力。例如，在演示“月球绕地运行”时，用户可通过滑块实时调节轨道速度并变换观测视角。",
-    "发布日期": "2026-04-14",
-    "原文链接": "https://www.aibase.com/zh/news/27093",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
-    "配图仓库路径": "assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202601161504560592_0.jpg"
+    "资讯标题": "火山引擎正式发布Seedance 2.0系列模型并全面开放API服务",
+    "内容": "火山引擎正式推出Seedance 2.0系列API服务，全面开放多模态视频生成能力。该模型支持文本、图片、音频及视频四种输入方式，在复杂互动与动态场景生成中表现突出。为保障合规性，火山引擎建立了全流程肖像与版权安全标准，通过火山方舟控制台提供面部验证与授权工具，并预置超1万个高质量虚拟人像供用户调用。在应用层面，Seedance 2.0已在短剧、漫剧及营销素材制作中广泛应用，企业反馈制作效率提升达80%-90%，显著降低了长镜头及复杂视频的制作成本。此前，该模型已支持导演贾樟柯等创作者完成春节短片及官方宣传片制作。此次API全面开放，旨在帮助企业与个人开发者通过多模态技术重塑工作流程，加速AI视频内容生产与转化。",
+    "发布日期": "2026-04-15",
+    "原文链接": "https://www.aibase.com/zh/news/27107",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/27b75c6f6aef5ba11d785b5ba6d32f5a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/27b75c6f6aef5ba11d785b5ba6d32f5a.jpg",
+    "配图仓库路径": "assets/news_images/27b75c6f6aef5ba11d785b5ba6d32f5a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0414/6391177404703975179142911.png"
   },
   {
-    "资讯标题": "AI正式纳入教资考试与公共必修课:五部门联合部署，开启全民智能素养培育时代",
-    "内容": "AI正式纳入教资考试与公共必修课:五部门联合部署，开启全民智能素养培育时代AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 202619近日，教育部、国家发展改革委、工信部、科技部及国家数据局五部门联合印发《“人工智能+教育”行动计划》（以下简称《行动计划》）。该计划旨在统筹人工智能人才培养与应用创新，目标到2030年基本形成人工智能与教育深度融合格局，构建起纵向贯通、横向联通的全学段及全社会通识教育体系，显著提升人才培养规模与质量。《行动计划》明确了四大核心战略任务。在人才培养方面，要求基础教育开齐开足AI课程，高等教育将AI纳入公共基础课，职业教育则侧重产业转型需求。",
-    "发布日期": "2026-04-14",
-    "原文链接": "https://www.aibase.com/zh/news/27102",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ef2aa25aa45f175aa3112fbcace00f0b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ef2aa25aa45f175aa3112fbcace00f0b.jpg",
-    "配图仓库路径": "assets/news_images/ef2aa25aa45f175aa3112fbcace00f0b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308211451227019_1.jpg"
+    "资讯标题": "DeepMind CEO Hassabis 重磅预言：AGI 五年内到来！AI 不是普通升级，而是“十倍速工业革命”",
+    "内容": "DeepMind CEO Hassabis 重磅预言：AGI 五年内到来。AI 不是普通升级，而是“十倍速工业革命”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 14, 202647北京时间 4 月 14 日，DeepMind 首席执行官 Demis Hassabis 在最新播客访谈中，对人工智能的当前状态与未来走向作出惊人判断。他直言，AGI（通用人工智能）有望在五年内实现，同时警告当前 AI 正处于“短期被过度炒作、长期被严重低估”的特殊阶段。AI 革命的真正尺度：十倍工业革命，以十倍速度发生 Hassabis 强调，此次 AI 浪潮绝非普通技术迭代，而是“十倍的工业革命、以十倍的速度发生”。",
+    "发布日期": "2026-04-15",
+    "原文链接": "https://www.aibase.com/zh/news/27104",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bcb1f9ad4d8ab4252769fa94ce9fae6f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bcb1f9ad4d8ab4252769fa94ce9fae6f.jpg",
+    "配图仓库路径": "assets/news_images/bcb1f9ad4d8ab4252769fa94ce9fae6f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312071717589674_0.jpg"
   }
 ]
