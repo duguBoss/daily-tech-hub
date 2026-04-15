@@ -1,7 +1,17 @@
 [
   {
+    "资讯标题": "阿里千问AI眼镜全球首家线下体验店在南京禄口机场正式开业",
+    "内容": "4月15日，阿里千问AI眼镜全球首家线下体验店在南京禄口国际机场T2航站楼正式开业。该店由东部机场集团与阿里巴巴合作打造，是千问AI硬件生态的首个线下综合体验中心。门店提供“尖端科技体验+专业验光配镜”的一站式服务，并联手南京明亮眼镜实现从体验、购买到配镜的完整闭环。开业当天，由阿里自研闭源大模型驱动的旗舰产品千问AI眼镜S1同步开售。该产品核心部件、供应链及组装生产线均布局在江苏省内，具备极高的本地化程度。阿里巴巴表示，南京首店将作为样板，计划从2026年下半年起向全国重点城市扩张，标志着其AI穿戴硬件线下布局的正式开启。",
+    "发布日期": "2026-04-15",
+    "原文链接": "https://www.aibase.com/zh/news/27130",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d2fbc085745fcec70d24e77138fb1baa.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d2fbc085745fcec70d24e77138fb1baa.jpg",
+    "配图仓库路径": "assets/news_images/d2fbc085745fcec70d24e77138fb1baa.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0415/6391184548470234463732809.png"
+  },
+  {
     "资讯标题": "谷歌Gemini上线交互式模拟生成功能，支持复杂概念动态可视化",
-    "内容": "谷歌Gemini正式上线交互式模拟生成功能，并已向全球用户全面开放。该功能支持用户通过Gemini Pro模型，将抽象的复杂概念直接转化为可操作的动态模拟程序。以“月球绕地球运行”为例，用户无需阅读静态图表，即可在生成的交互界面中自由调节变量，实时观察物理轨道等参数变化。此功能旨在通过交互式可视化手段提升科学教育与工程模拟的探索效率，使AI从单纯的信息检索工具向辅助教学角色转型。用户目前可通过Gemini App或网页端直接调用该功能，系统会自动生成对应的交互式模拟程序，显著降低了复杂科学概念的学习门槛。",
+    "内容": "谷歌Gemini正式向全球用户开放交互式模拟生成功能，该功能支持将复杂的科学概念直接转化为可操作的动态模拟程序。用户通过Gemini App或网页端访问Pro模型，输入特定概念或问题，系统即可生成交互界面。以“月球绕地球运行”为例，用户可实时调节变量并观察轨道变化，而非仅限于阅读静态图表。此项更新旨在通过交互式可视化手段提升科学教育与工程模拟的探索效率，标志着AI辅助工具从单纯的信息检索向深度学习引导转型，为用户提供更直观的知识获取路径。",
     "发布日期": "2026-04-15",
     "原文链接": "https://www.aibase.com/zh/news/27126",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
@@ -10,18 +20,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312070835429226_0.jpg"
   },
   {
-    "资讯标题": "斯坦福2026AI 报告:中美技术差距仅剩2.7%，中国在专利与机器人领域登顶",
-    "内容": "斯坦福2026AI 报告:中美技术差距仅剩2.7%，中国在专利与机器人领域登顶AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 15, 2026234月14日，斯坦福大学正式发布《2026年人工智能指数报告》。报告揭示了一个里程碑式的现状:全球 AI 技术不仅进入了全面爆发的普及期，中美两国在顶尖技术实力上的差距已降至历史最低。中美角力:从“一枝独秀”到“交替领先”报告指出，尽管美国在顶级模型产出及高影响力专利上维持领先，并拥有5427个数据中心（超过全球其他国家总和的10倍），但中国已在多项核心指标上实现反超。中国优势: 在 AI 研究论文发表量、论文被引频次、专利产出总量以及工业机器人安装量方面，中国均位居全球之首。",
+    "资讯标题": "英伟达发布全球首个开源量子AI模型Ising，旨在提升量子处理器容错能力",
+    "内容": "英伟达于4月14日正式发布全球首个开源量子人工智能模型系列Ising，旨在解决量子计算工程瓶颈，助力构建容错量子处理器。该系列包含Ising Calibration与Ising Decoding两类核心模型：前者作为视觉语言模型，可自动化执行QPU校准任务以应对参数漂移；后者采用3D卷积神经网络进行量子纠错解码，计算速度较行业标准提升2.5倍，准确度提升300%。英伟达CEO黄仁勋表示，Ising将使AI成为量子机器的控制平面与操作系统，实现量子比特向可扩展、可靠的量子-GPU系统转化。目前，Ising已在GitHub及Hugging Face开源，并获哈佛大学、伯克利实验室等机构采纳。此举标志着量子计算正从实验室环境迈向AI驱动的全自动化运行阶段，加速了通用量子计算机的商业化进程。受此消息影响，量子科技板块在",
     "发布日期": "2026-04-15",
-    "原文链接": "https://www.aibase.com/zh/news/27119",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/84449dc887a89f3a0bbb15a35f6a0730.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/84449dc887a89f3a0bbb15a35f6a0730.jpg",
-    "配图仓库路径": "assets/news_images/84449dc887a89f3a0bbb15a35f6a0730.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621145091_60.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27133",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
   },
   {
-    "资讯标题": "国产万亿大模型 Kimi K2.6-code 上线：对标 Sonnet 4.6 的编程新利器",
-    "内容": "国产万亿大模型 Kimi K2.6-code 上线：对标 Sonnet 4.6 的编程新利器AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 15, 202697据报道，继 GLM-5.1和 MiniMax2.7之后，月之暗面 正式推出了专为 AI 编程优化的万亿参数大模型 —— Kimi K2.6-code-preview。目前该模型已在 Kimi Code 中上线，标志着国产编程 AI 正式步入万亿参数时代。核心进化:更深度的推理与可靠性相比此前的版本，K2.6-code-preview 在万亿参数基座（K2.5）的基础上进行了深度工程优化，重点提升了三个维度: 推理深度: 思维链表现更强，被内测人员评价具有“Opus 风格”，逻辑推演更加严密。",
+    "资讯标题": "月之暗面发布万亿参数编程模型 Kimi K2.6-code-preview 对标 Sonnet 4.6",
+    "内容": "月之暗面正式推出专为编程优化的万亿参数大模型 Kimi K2.6-code-preview，现已在 Kimi Code 中上线。该模型基于 K2.5 基座进行深度工程优化，重点提升了思维链推理深度、Agent 全局规划质量及多步工具调用的可靠性。在开发者评测中，其评分从 83 分提升至 89 分，在 SWE-Bench Verified 和 LiveCodeBench 等榜单表现优异，实际体验被认为已达到 Sonnet 4.6 水平。月之暗面同步推出每月 39 元起的 Kimi Code 会员计划，旨在通过高价值编程场景切入，构建 AI 原生应用开发闭环。此次发布标志着国产编程 AI 正式步入万亿参数时代，为国内开发者提供了具备挑战全球顶尖水平的“万亿级脑力合伙人”，在降低使用门槛的同时，显著增强了复杂架构理解",
     "发布日期": "2026-04-15",
     "原文链接": "https://www.aibase.com/zh/news/27125",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/178d020206fe72f4db9ccdd8454a41aa.jpg",
@@ -30,23 +40,13 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0415/6391184188635470751547492.png"
   },
   {
-    "资讯标题": "千问旗舰款AI眼镜S1正式开售，售价3499元起支持屏幕显示与热插拔电池",
-    "内容": "4月15日，千问AI眼镜旗舰款S1正式开售，最低到手价3499元。该产品在整机层面进行了系统性重构，支持屏幕显示、1200万像素摄像头及热插拔换电池功能，旨在提供全天候AI服务。此前，千问AI眼镜通过OTA升级已上线扫码骑车、停车缴费及点外卖等“AI办事”能力，用户可通过语音指令完成操作。当前全球AI眼镜市场增速已达智能眼镜整体市场的8倍，千问首款产品G1在3月开售首周即占据线上AI眼镜市场超70%份额。在行业竞争方面，Meta年度出货量近800万台，华为与苹果均传出入局消息，其中苹果首款AI眼镜传闻将于2027年发布。千问S1的上市标志着AI企业在眼镜硬件市场的布局进一步深化，通过集成AI助手功能，推动眼镜从传统硬件向智能化交互终端转型。",
+    "资讯标题": "OpenAI macOS应用受Axios供应链攻击波及，官方要求用户立即更新版本",
+    "内容": "OpenAI近日发布安全声明，确认其macOS应用受到第三方库Axios供应链攻击的波及。此次事件源于Axios在npm平台的托管账户遭黑客劫持，攻击者在代码中植入恶意程序并篡改注册邮箱，旨在获取受害者设备控制权。OpenAI表示，目前暂未发现用户数据泄露、内部系统入侵或软件代码被篡改的迹象。为防范潜在风险，OpenAI已更新macOS应用的安全认证，并明确要求用户通过应用内提示或官方渠道尽快升级至最新版本。此次事件凸显了软件供应链攻击的隐蔽性，即开发者引用的可信库可能被恶意篡改，进而影响下游用户。建议所有macOS平台的ChatGPT及相关OpenAI应用用户立即检查并完成版本更新，以确保终端环境安全。",
     "发布日期": "2026-04-15",
-    "原文链接": "https://www.aibase.com/zh/news/27129",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
-    "配图仓库路径": "assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007232048_2.jpg"
-  },
-  {
-    "资讯标题": "OpenAI发布专用模型GPT-5.4-Cyber，向安全专家开放二进制逆向特权",
-    "内容": "OpenAI正式发布网络防御专用模型GPT-5.4-Cyber，并将其纳入网络防御可信访问计划（TAC），旨在为全球安全专家提供高级防御支持。该模型针对防御场景进行了深度微调，核心能力包括支持编译后恶意软件的二进制逆向分析及软件漏洞扫描。为提升实战效率，OpenAI降低了该模型的拒绝边界，使其在处理敏感安全任务时能减少安全拦截。在内部评估中，GPT-5.4-Cyber被定级为“高”网络能力，在复杂漏洞修补与威胁建模方面表现可靠。目前，该模型采取审慎部署策略，仅限通过MFA等强身份验证的审查供应商及研究人员使用。此举旨在通过技术赋能，提升关键基础设施的防御韧性，并与Codex Security工具协同，实现代码库的自动化监控与漏洞修复。OpenAI强调，防御能力需与模型能力同步扩展，以应对日益严峻的AI辅助攻击风",
-    "发布日期": "2026-04-15",
-    "原文链接": "https://www.aibase.com/zh/news/27118",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27127",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "配图仓库路径": "assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405110933330041_0.jpg"
   }
 ]
