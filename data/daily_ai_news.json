@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "苹果启动内部AI编程训练营，强化Siri大模型工程能力以实现AI助理转型",
-    "内容": "苹果公司近期面向Siri工程师团队启动内部“AI编程训练营”，旨在通过系统性再培训强化LLM工程实践能力，为新一代Siri及iOS系统AI功能落地提供人才支撑。该训练营涵盖模型原理、Prompt工程、RAG、AI Agent框架及低延迟推理优化等全链路技术栈。课程重点强调端云协同与离线推理技术，要求工程师在隐私安全框架下，实现Siri与Spotlight、通讯录及日历等系统级应用的深度耦合。此举标志着苹果将AI重塑Siri提升至公司级战略，力图将Siri从单一指令工具演进为具备多模态交互、能处理复杂上下文的“真·AI个人助理”。通过此次内部技术底层迭代，苹果正加速AI技术在设备控制、知识问答及生产力创作场景的渗透，推动Siri完成从语音插件向系统底层AI核心的本质跨越。",
-    "发布日期": "2026-04-16",
-    "原文链接": "https://www.aibase.com/zh/news/27164",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cf14f2030f6c7ab1f5117bbe659e7142.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/cf14f2030f6c7ab1f5117bbe659e7142.jpg",
-    "配图仓库路径": "assets/news_images/cf14f2030f6c7ab1f5117bbe659e7142.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201811151621148841_112.jpg"
+    "资讯标题": "蚂蚁灵波科技开源流式三维重建模型LingBot-Map，支持单RGB摄像头实时建图",
+    "内容": "4月16日，蚂蚁灵波科技正式开源流式三维重建模型LingBot-Map。该模型仅需单个普通RGB摄像头，即可在视频采集过程中实时估计相机位姿并重建场景三维结构。LingBot-Map采用流式处理架构，打破了传统方法需预先采集完整序列的局限，实现了边接收画面边输出定位与结构的实时交互。性能方面，该模型在Oxford Spires数据集上的轨迹误差仅为此前最优流式方法的三分之一，支持约20FPS的实时推理，并在超万帧长视频运行中保持精度稳定。此次开源补齐了蚂蚁灵波在具身智能领域实时空间理解的核心能力，降低了高精度三维感知的硬件门槛，将加速机器人导航、自动驾驶及AR硬件在复杂动态环境中的感知与决策进化。开发者现可通过Hugging Face及ModelScope获取相关资源。",
+    "发布日期": "2026-04-17",
+    "原文链接": "https://www.aibase.com/zh/news/27181",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/08c14f7fa24890320b883c90a7a5d0bb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/08c14f7fa24890320b883c90a7a5d0bb.jpg",
+    "配图仓库路径": "assets/news_images/08c14f7fa24890320b883c90a7a5d0bb.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0416/6391194501413323384184960.jpg"
   },
   {
-    "资讯标题": "腾讯开源混元 3D 世界模型 2.0，支持生成可编辑资产并对接游戏引擎",
-    "内容": "腾讯正式发布并开源混元 3D 世界模型 2.0（HY-World2.0），该模型具备多模态能力，支持通过文本、图片或视频输入，自动生成、重建及模拟 3D 世界。相比 1.5 版本，HY-World2.0 核心升级在于支持生成可二次编辑的 3D 资产，并兼容 Mesh、3DGS 及点云等多种格式，可直接导入 Unity 和 UE 等主流游戏引擎，显著降低了游戏地图与关卡原型的创作门槛。此外，该模型支持通过视频或多视角图片复刻高精度数字孪生空间，并集成空间 Agent 技术与导航算法，可智能规划漫游轨迹。开发者可通过 GitHub 获取开源代码，或在官方平台申请体验，利用该模型快速实现从创意描述到 3D 场景的自动化构建。",
-    "发布日期": "2026-04-16",
-    "原文链接": "https://www.aibase.com/zh/news/27174",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d5711e603478049850b4580aaef76b4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d5711e603478049850b4580aaef76b4.jpg",
-    "配图仓库路径": "assets/news_images/5d5711e603478049850b4580aaef76b4.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0416/6391193389629329345945015.png"
+    "资讯标题": "腾讯混元开源视频生成加速方案DisCa，实现11.8倍提速并被CVPR2026收录",
+    "内容": "腾讯混元团队正式开源视频生成加速方案DisCa，该方案代码与模型权重已公开，并被CVPR2026收录。DisCa针对已蒸馏的少步模型进行优化，通过引入轻量级神经网络预测器，利用对抗学习训练预测特征演化轨迹，在保证生成质量的前提下，将推理速度提升至11.8倍，解决了少步模型直接使用特征缓存导致的误差崩坏问题。此外，团队针对视频生成任务改进了R-MeanFlow方案，通过将步长范围约束在合理区间，避免了激进的一步生成对训练产生的负面影响。该研究成果已应用于HunyuanVideo-1.5模型的实际训练中。DisCa不仅是学术创新，更在工程落地层面提供了可复现的路径，为大规模部署视频生成能力的团队提供了有效的技术参考，显著降低了AIGC领域的推理成本与技术门槛。",
+    "发布日期": "2026-04-17",
+    "原文链接": "https://www.aibase.com/zh/news/27187",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/af1dae73cfc34864d932d7a2c76c32c3.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/af1dae73cfc34864d932d7a2c76c32c3.jpg",
+    "配图仓库路径": "assets/news_images/af1dae73cfc34864d932d7a2c76c32c3.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309071139000461_0.jpg"
   },
   {
-    "资讯标题": "美团正式推出AI健康管理产品“小团健康管家”入局医疗赛道",
-    "内容": "4月14日，美团正式推出聚焦家庭健康管理的AI产品“小团健康管家”，标志着美团全面入局AI医疗赛道。该产品依托美团现有的药物即时配送基础设施，将低频的健康管理需求与高频的本地生活服务生态深度整合。美团此前已通过旗下基金投资深纳普思、参与智冉医疗融资，并与荣泰健康在智能理疗领域开展合作，多线构建AI医疗生态。美团的核心竞争优势在于其覆盖数亿用户的App生态及同城即时配送的履约能力。此次入局旨在将外卖业务的高频流量转化为医疗场景的用户粘性，通过技术叠加实现业务纵深扩张。尽管AI医疗赛道竞争激烈，但美团凭借独特的履约基础设施，试图在医疗健康管理领域建立差异化竞争壁垒。",
-    "发布日期": "2026-04-16",
-    "原文链接": "https://www.aibase.com/zh/news/27176",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2b8750dbc4132ae01e15c6a5a118de64.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2b8750dbc4132ae01e15c6a5a118de64.jpg",
-    "配图仓库路径": "assets/news_images/2b8750dbc4132ae01e15c6a5a118de64.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202111142108406146_9.jpg"
+    "资讯标题": "波士顿动力集成谷歌Gemini模型，升级机器狗Spot工业检测能力",
+    "内容": "波士顿动力宣布旗下机器狗Spot已集成谷歌DeepMind开发的Gemini Robotics-ER1.6模型，旨在显著提升其在工业环境中的自主决策与检测能力。此次技术升级使Spot能够更精准地识别潜在爆炸风险、定位危险碎片及泄漏物，并具备自主读取复杂仪表和视镜数据的能力。在执行任务时，Spot可智能调用视觉-语言-动作模型等AI工具，从单纯的路径跟随者进化为具备深度环境理解力的协作机器人。该合作标志着机器人技术与大模型的深度融合，通过提升工业设施安全监测的智能化水平，为复杂场景下的自动化巡检提供了更高效的解决方案。波士顿动力已通过演示视频展示了Spot在模拟工业环境中的自主处理能力，进一步验证了该技术在工业自动化领域的应用价值。",
+    "发布日期": "2026-04-17",
+    "原文链接": "https://www.aibase.com/zh/news/27197",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
+    "配图仓库路径": "assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304171408571920_1.jpg"
   },
   {
-    "资讯标题": "微软Edge浏览器下月升级管控功能，强制拦截第三方AI并引导至Copilot",
-    "内容": "微软计划于下月对企业版Edge浏览器进行重大升级，旨在通过技术手段强化企业内部AI工具的合规化管理，严防“影子AI”带来的数据安全风险。根据Microsoft 365路线图，IT管理员将获得更高配置权限，可一键屏蔽包括ChatGPT、Google Gemini、Qwen、DeepSeek、Adobe Firefly、Grok及Notion AI在内的数十款主流第三方AI平台。当员工尝试访问未获授权的AI服务时，系统将自动拦截并提供引导按钮，强制用户跳转至企业配置的Microsoft 365 Copilot页面。微软表示，此举旨在消除企业AI应用的数据安全盲区，确保办公流量流向具备租户隔离和数据不外练等企业级保护机制的官方合规通道，从而巩固其在办公场景下的AI生态地位。",
-    "发布日期": "2026-04-16",
-    "原文链接": "https://www.aibase.com/zh/news/27165",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f7974d8b0300cd6534ce38c1aa17cac3.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f7974d8b0300cd6534ce38c1aa17cac3.jpg",
-    "配图仓库路径": "assets/news_images/f7974d8b0300cd6534ce38c1aa17cac3.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201904101223281778_0.jpg"
+    "资讯标题": "NVIDIA推出全球首个开源量子AI模型NVIDIA Ising，提升量子纠错性能",
+    "内容": "NVIDIA正式发布全球首个开源量子AI模型“NVIDIA Ising”，旨在攻克量子处理器校准与量子纠错两大核心难题。该模型系列包含Ising Calibration与Ising Decoding两部分：其中，Ising Calibration为350亿参数的视觉语言模型，可将量子处理器测量数据的校准时间从数天缩短至数小时；Ising Decoding则由两款针对速度与准确性优化的3D卷积神经网络组成，在实时解码任务中，其速度较行业基准pyMatching提升2.5倍，准确率提升3倍，且训练数据需求仅为后者的十分之一。目前，该模型已获IonQ、哈佛大学及费米国家加速器实验室等机构采用，为构建混合量子-经典计算系统提供关键支持。NVIDIA Ising的推出进一步完善了其开放模型体系，通过将AI与量子计算深度融",
+    "发布日期": "2026-04-17",
+    "原文链接": "https://www.aibase.com/zh/news/27191",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
+    "配图仓库路径": "assets/news_images/3371edac10193960308e8a3aac430def.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202010261720420670_6.jpg"
   },
   {
-    "资讯标题": "Adobe发布Firefly AI Assistant创作智能体，实现跨应用自主工作流调度",
-    "内容": "4月15日，Adobe正式推出Firefly AI Assistant，这是一款具备自主决策能力的创作智能体，旨在重构Creative Cloud的创作工作流。该工具的核心优势在于跨应用自主执行能力，用户通过自然语言描述目标，Firefly AI Assistant即可独立规划并编排操作流程，在Photoshop、Premiere等多款核心应用间统一调度，无需用户手动切换。此外，该智能体具备个性化学习功能，能记忆用户操作偏好以保持风格一致，并集成了审阅功能以优化交付流程。目前该产品尚未正式公测，Beta测试者预计在未来几周内获得访问权限。对于Adobe全家桶的重度用户而言，这意味着创作模式正从辅助工具向全流程接管转变，将显著降低多软件协作的摩擦成本，提升复杂项目的执行效率。",
-    "发布日期": "2026-04-16",
-    "原文链接": "https://www.aibase.com/zh/news/27170",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ea0e3079ea88ac5b4bb5040949d6bae6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ea0e3079ea88ac5b4bb5040949d6bae6.jpg",
-    "配图仓库路径": "assets/news_images/ea0e3079ea88ac5b4bb5040949d6bae6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202303220906047262_0.jpg"
+    "资讯标题": "Anthropic开源MCP协议被曝严重设计缺陷，超20万台AI服务器面临远程代码执行风险",
+    "内容": "网络安全公司OX Security于4月15日发布报告，指出Anthropic推出的开源标准MCP（模型上下文协议）存在架构级设计缺陷，导致超过20万台AI服务器暴露在远程代码执行风险中。漏洞根源在于MCP SDK的STDIO接口，该接口在启动本地服务器进程时，会对传入的操作系统命令缺乏校验，即便启动失败也会执行。此缺陷波及Python、TypeScript、Java、Go、Rust等11种官方支持语言。研究发现，LangFlow、Letta AI、Flowise及Windsurf IDE等平台均受影响，其中Windsurf IDE漏洞已获CVE编号。Anthropic在1月收到通报后仅更新安全文档提示谨慎使用，未进行架构修复。目前LiteLLM、DocsGPT等平台已发布补丁，但协议层根本问题仍未解决，且主流",
+    "发布日期": "2026-04-17",
+    "原文链接": "https://www.aibase.com/zh/news/27183",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7e3fe178970c172a244da01023911208.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7e3fe178970c172a244da01023911208.jpg",
+    "配图仓库路径": "assets/news_images/7e3fe178970c172a244da01023911208.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304071742179671_1.jpg"
   }
 ]
