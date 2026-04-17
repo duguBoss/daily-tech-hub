@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "谷歌开源医疗AI模型MedGemma 1.5，支持3D影像分析与病历处理",
-    "内容": "谷歌正式开源医疗AI模型MedGemma 1.5，该模型在保持4B参数量不变的前提下，实现了对高维度医疗数据的深度处理能力。MedGemma 1.5原生支持CT与MRI三维扫描数据分析，可处理包含数十个切片的立体影像，并具备全视野病理切片分析、胸部X光精准标注及多时间点病情对比能力。此外，模型对PDF格式电子病历和化验单的结构化数据提取能力显著增强。性能方面，相比MedGemma 14B，新版本在3D MRI分类准确率提升11%，全视野病理图像宏观F1分数提升47%，胸部X光解剖定位交并比增加35%。技术上，团队采用了将3D CT切分为最多85张序列图像的预处理方法，并引入领域专家模型进行知识蒸馏。谷歌明确该模型定位为供开发者微调的基础资源，非直接临床决策工具，旨在通过开源推动医疗AI在多模态数据处理领域的进一",
+    "资讯标题": "谷歌开源医疗AI模型MedGemma 1.5，新增3D影像分析与病理切片处理能力",
+    "内容": "谷歌正式开源医疗AI模型MedGemma 1.5，该模型在保持4B参数量不变的前提下，实现了从2D到3D医疗数据处理的重大跨越。MedGemma 1.5原生支持CT与MRI三维扫描数据分析，可处理包含数十个切片的立体影像，并具备全视野病理数字切片分析、胸部X光精准定位及多时间点病情对比能力。此外，模型对PDF格式电子病历的结构化数据提取能力显著增强。性能方面，相比MedGemma 14B，新版本在3D MRI分类准确率上提升11%，全视野病理图像宏观F1分数提升47%，胸部X光解剖定位交并比增加35%。技术上，团队通过将3D CT切分为序列图像进行预处理，并引入领域专家模型进行知识蒸馏。谷歌明确该模型定位为开发者基础资源，非开箱即用的临床决策工具，落地需针对具体场景进行专项微调。",
     "发布日期": "2026-04-17",
     "原文链接": "https://www.aibase.com/zh/news/27214",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
@@ -10,8 +10,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307181418295015_2.jpg"
   },
   {
-    "资讯标题": "iOS 27 Beta代码曝光四项Apple Intelligence新功能，强化视觉智能与交互",
-    "内容": "iOS 27 Beta版后端代码显示，苹果计划引入四项Apple Intelligence新功能，旨在深化视觉智能应用并优化系统交互。视觉智能新增营养标签解析，可自动扫描食品包装数据并同步至“健康”应用；纸面信息识别功能升级，支持从印刷品提取电话号码或地址并一键存入通讯录。此外，苹果钱包将支持实体卡券数字化扫描，Safari浏览器则引入基于AI的智能标签组自动命名功能。这些更新暗示苹果正为未来的智能眼镜及带摄像头AirPods等可穿戴设备铺路。苹果预计将于6月WWDC 2026发布iOS 27，并于9月随新一代iPhone正式上线。此次升级通过跨应用Siri整合，进一步提升了Apple Intelligence在日常场景中的实用性与自动化水平。",
+    "资讯标题": "字节跳动启动首轮豆包股回购，回购价格较授予价溢价30%",
+    "内容": "字节跳动于4月15日正式启动“豆包股”首次回购，回购价格定为13.08美元，较2025年10月授予时的10美元上涨约30%。该激励计划专为豆包大模型业务定制，采用类似期权的虚拟股回购机制，目前已在负责预训练与前沿探索的Seed部门全面推行。此次回购溢价反映了字节跳动大模型业务的估值增长，旨在通过将业务价值直接货币化，为核心技术人员提供显著的账面收益与退出渠道。通过建立独立的豆包股回购闭环，字节跳动试图在激烈的全球AI人才竞争中，构建比传统SaaS厂商更具弹性的分配机制，以降低核心人才流失风险，并为大模型业务的长期独立发展提供财务与机制保障。",
+    "发布日期": "2026-04-17",
+    "原文链接": "https://www.aibase.com/zh/news/27218",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8bd21017063adeaca63adf981fa28357.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8bd21017063adeaca63adf981fa28357.jpg",
+    "配图仓库路径": "assets/news_images/8bd21017063adeaca63adf981fa28357.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202405160815252726_0.jpg"
+  },
+  {
+    "资讯标题": "iOS 27 Beta代码曝光四项Apple Intelligence新功能，强化视觉智能与自动化交互",
+    "内容": "iOS 27 Beta版后端代码显示，苹果计划引入四项Apple Intelligence新功能，旨在深化视觉智能与系统自动化交互。核心升级包括：视觉智能新增营养标签解析，可自动提取食品数据并同步至“健康”应用；纸面信息识别功能增强，支持从印刷品提取电话与地址并存入通讯录。此外，钱包应用将支持实体卡券数字化扫描，Safari浏览器则引入基于网页主题的智能标签组自动命名功能。这些更新不仅优化了iPhone日常交互体验，还被视为苹果为未来智能眼镜及带摄像头AirPods等可穿戴硬件生态铺路。苹果预计将于2026年6月WWDC大会正式发布iOS 27，并于9月随新一代iPhone同步上线正式版。此次更新通过跨应用Siri整合，进一步提升了Apple Intelligence的实用化水平。",
     "发布日期": "2026-04-17",
     "原文链接": "https://www.aibase.com/zh/news/27215",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9554920f813b8c3e52ead50a3350ff56.jpg",
@@ -20,18 +30,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202506100823349948_1.jpg"
   },
   {
-    "资讯标题": "OpenAI全面升级Codex编程工具，新增后台运行、内置浏览器及按需付费模式",
-    "内容": "OpenAI近日宣布全面升级自动化编程工具Codex，旨在提升工具的实用性与灵活性，以应对来自Anthropic Claude Code的竞争。本次更新核心功能包括：支持后台运行，允许多个智能代理在Mac设备上并行处理任务而不干扰用户操作；新增内置浏览器功能，支持在网页应用中执行指令，未来将扩展至全面操控浏览器；引入“记忆”功能以记录工作会话上下文，并增加图像生成能力以辅助设计原型。此外，Codex接入了111款插件，可处理文书工作及生成待办清单。针对商业化落地，OpenAI为ChatGPT企业版与商业版用户推出了Codex按需付费定价方案。此次升级标志着OpenAI重心向企业级编程场景转移，通过增强多任务处理能力与工作流集成，进一步巩固其在AI编程助手领域的市场竞争力。",
-    "发布日期": "2026-04-17",
-    "原文链接": "https://www.aibase.com/zh/news/27207",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a1cfdae6d4366f3cf8a7ceef2fced4d9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a1cfdae6d4366f3cf8a7ceef2fced4d9.jpg",
-    "配图仓库路径": "assets/news_images/a1cfdae6d4366f3cf8a7ceef2fced4d9.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0417/6391201524701510893898893.png"
-  },
-  {
-    "资讯标题": "OpenAI 签署 200 亿美元协议采购 Cerebras 芯片并获得认股权证入股",
-    "内容": "OpenAI 与 AI 芯片初创公司 Cerebras 达成长期合作协议，承诺在未来三年内支付超 200 亿美元使用其芯片驱动的服务器集群，并获得 Cerebras 少数股权认股权证。此外，OpenAI 将注资约 10 亿美元专项用于建设高性能数据中心。Cerebras 核心的晶圆级引擎（WSE）技术具备极高的显存访问速度，旨在优化 OpenAI 下一代推理模型（如 Opus 4.7）的响应延迟。此举标志着 OpenAI 算力战略的重大调整，通过引入 Cerebras、AMD 及自研芯片构建混合架构，旨在降低对 NVIDIA 的依赖并破解算力垄断。尽管新兴架构的稳定性仍需验证，但该深度绑定协议将显著影响 AI 基础设施及底层算力市场格局。",
+    "资讯标题": "OpenAI与Cerebras签署200亿美元芯片协议并获得认股权证入股",
+    "内容": "OpenAI与AI芯片初创公司Cerebras达成长期合作，承诺在未来三年内支付超200亿美元用于使用其芯片驱动的服务器集群，并获得Cerebras少数股权认股权证。此外，OpenAI将注资约10亿美元专项建设高性能数据中心。Cerebras核心技术为晶圆级引擎（WSE），其显存访问速度优于传统GPU，旨在助力OpenAI优化下一代推理模型（如Opus 4.7）的响应延迟。此举标志着OpenAI通过多元化硬件布局，引入Cerebras、AMD及自研芯片构建混合架构，以降低计算成本并减少对NVIDIA的依赖。该合作被视为AI基础设施领域的分水岭，旨在破解当前算力市场的垄断格局，对底层算力供应及SaaS行业格局产生深远影响。",
     "发布日期": "2026-04-17",
     "原文链接": "https://www.aibase.com/zh/news/27212",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
@@ -40,13 +40,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202405110933330041_0.jpg"
   },
   {
-    "资讯标题": "Anthropic正式发布Claude Opus 4.7模型，强化编程与逻辑推理能力",
-    "内容": "Anthropic正式发布Claude Opus 4.7模型，该版本重点提升了模型在复杂任务中的可靠性与逻辑严谨性。在SWE-bench Pro编程基准测试中，Opus 4.7得分达64.3%，超越GPT-5.4与Gemini 3.1 Pro；视觉推理基准CharXiv提升至82.1%，支持2576像素长边识别。该模型在工具调用与数据处理上表现出更强的韧性，遇到缺失信息时倾向于报错而非幻觉生成，并具备系统级代码编写前的数学证明能力。受全新分词器影响，Token消耗量较前代增加1至1.35倍。为应对成本变化，Anthropic新增xhigh思考强度档位，并推出深度审查指令/ultrareview、Auto Mode扩展及任务预算管控功能。尽管搜索评测表现略有回落，但其在工程协作中的准确性显著提升。此外，更强的Cl",
+    "资讯标题": "Anthropic 正式发布 Claude Opus 4.7 模型，强化软件工程与视觉处理能力",
+    "内容": "Anthropic 正式发布全新人工智能模型 Claude Opus 4.7，在高级软件工程、指令执行及视觉处理领域实现显著性能提升。该模型支持识别长边达 2,576 像素的图像，并引入自我验证机制以提升结果准确性。安全性方面，Opus 4.7 内置网络安全防护，可自动拦截高风险请求。在内存管理上，模型优化了长会话中的信息留存能力，降低了对上下文的依赖。定价维持与 Opus 4.6 一致，输入为每百万 token 5 美元，输出为每百万 token 25 美元。Anthropic 同时推出了更精细的难度控制与任务预算功能。目前，Opus 4.7 已通过 Claude 平台及 API、Amazon Bedrock、Google Cloud Vertex AI 和 Microsoft Foundry 全面上线。官方",
     "发布日期": "2026-04-17",
-    "原文链接": "https://www.aibase.com/zh/news/27206",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
-    "配图仓库路径": "assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403050858462025_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27219",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c2d1bd205adc8d5307b379dbc9d134bc.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c2d1bd205adc8d5307b379dbc9d134bc.jpg",
+    "配图仓库路径": "assets/news_images/c2d1bd205adc8d5307b379dbc9d134bc.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0417/6391202018033316926461817.png"
   }
 ]
