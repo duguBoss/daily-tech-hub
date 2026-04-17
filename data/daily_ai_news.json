@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "蚂蚁灵波科技开源流式三维重建模型LingBot-Map，支持单RGB摄像头实时建图",
-    "内容": "4月16日，蚂蚁灵波科技正式开源流式三维重建模型LingBot-Map。该模型仅需单个普通RGB摄像头，即可在视频采集过程中实时估计相机位姿并重建场景三维结构。LingBot-Map采用流式处理架构，打破了传统方法需预先采集完整序列的局限，实现了边接收画面边输出定位与结构的实时交互。性能方面，该模型在Oxford Spires数据集上的轨迹误差仅为此前最优流式方法的三分之一，支持约20FPS的实时推理，并在超万帧长视频运行中保持精度稳定。此次开源补齐了蚂蚁灵波在具身智能领域实时空间理解的核心能力，降低了高精度三维感知的硬件门槛，将加速机器人导航、自动驾驶及AR硬件在复杂动态环境中的感知与决策进化。开发者现可通过Hugging Face及ModelScope获取相关资源。",
+    "资讯标题": "谷歌开源医疗AI模型MedGemma 1.5，支持3D影像分析与病历处理",
+    "内容": "谷歌正式开源医疗AI模型MedGemma 1.5，该模型在保持4B参数量不变的前提下，实现了对高维度医疗数据的深度处理能力。MedGemma 1.5原生支持CT与MRI三维扫描数据分析，可处理包含数十个切片的立体影像，并具备全视野病理切片分析、胸部X光精准标注及多时间点病情对比能力。此外，模型对PDF格式电子病历和化验单的结构化数据提取能力显著增强。性能方面，相比MedGemma 14B，新版本在3D MRI分类准确率提升11%，全视野病理图像宏观F1分数提升47%，胸部X光解剖定位交并比增加35%。技术上，团队采用了将3D CT切分为最多85张序列图像的预处理方法，并引入领域专家模型进行知识蒸馏。谷歌明确该模型定位为供开发者微调的基础资源，非直接临床决策工具，旨在通过开源推动医疗AI在多模态数据处理领域的进一",
     "发布日期": "2026-04-17",
-    "原文链接": "https://www.aibase.com/zh/news/27181",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/08c14f7fa24890320b883c90a7a5d0bb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/08c14f7fa24890320b883c90a7a5d0bb.jpg",
-    "配图仓库路径": "assets/news_images/08c14f7fa24890320b883c90a7a5d0bb.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0416/6391194501413323384184960.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27214",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
+    "配图仓库路径": "assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307181418295015_2.jpg"
   },
   {
-    "资讯标题": "腾讯混元开源视频生成加速方案DisCa，实现11.8倍提速并被CVPR2026收录",
-    "内容": "腾讯混元团队正式开源视频生成加速方案DisCa，该方案代码与模型权重已公开，并被CVPR2026收录。DisCa针对已蒸馏的少步模型进行优化，通过引入轻量级神经网络预测器，利用对抗学习训练预测特征演化轨迹，在保证生成质量的前提下，将推理速度提升至11.8倍，解决了少步模型直接使用特征缓存导致的误差崩坏问题。此外，团队针对视频生成任务改进了R-MeanFlow方案，通过将步长范围约束在合理区间，避免了激进的一步生成对训练产生的负面影响。该研究成果已应用于HunyuanVideo-1.5模型的实际训练中。DisCa不仅是学术创新，更在工程落地层面提供了可复现的路径，为大规模部署视频生成能力的团队提供了有效的技术参考，显著降低了AIGC领域的推理成本与技术门槛。",
+    "资讯标题": "iOS 27 Beta代码曝光四项Apple Intelligence新功能，强化视觉智能与交互",
+    "内容": "iOS 27 Beta版后端代码显示，苹果计划引入四项Apple Intelligence新功能，旨在深化视觉智能应用并优化系统交互。视觉智能新增营养标签解析，可自动扫描食品包装数据并同步至“健康”应用；纸面信息识别功能升级，支持从印刷品提取电话号码或地址并一键存入通讯录。此外，苹果钱包将支持实体卡券数字化扫描，Safari浏览器则引入基于AI的智能标签组自动命名功能。这些更新暗示苹果正为未来的智能眼镜及带摄像头AirPods等可穿戴设备铺路。苹果预计将于6月WWDC 2026发布iOS 27，并于9月随新一代iPhone正式上线。此次升级通过跨应用Siri整合，进一步提升了Apple Intelligence在日常场景中的实用性与自动化水平。",
     "发布日期": "2026-04-17",
-    "原文链接": "https://www.aibase.com/zh/news/27187",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/af1dae73cfc34864d932d7a2c76c32c3.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/af1dae73cfc34864d932d7a2c76c32c3.jpg",
-    "配图仓库路径": "assets/news_images/af1dae73cfc34864d932d7a2c76c32c3.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309071139000461_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27215",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9554920f813b8c3e52ead50a3350ff56.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9554920f813b8c3e52ead50a3350ff56.jpg",
+    "配图仓库路径": "assets/news_images/9554920f813b8c3e52ead50a3350ff56.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202506100823349948_1.jpg"
   },
   {
-    "资讯标题": "波士顿动力集成谷歌Gemini模型，升级机器狗Spot工业检测能力",
-    "内容": "波士顿动力宣布旗下机器狗Spot已集成谷歌DeepMind开发的Gemini Robotics-ER1.6模型，旨在显著提升其在工业环境中的自主决策与检测能力。此次技术升级使Spot能够更精准地识别潜在爆炸风险、定位危险碎片及泄漏物，并具备自主读取复杂仪表和视镜数据的能力。在执行任务时，Spot可智能调用视觉-语言-动作模型等AI工具，从单纯的路径跟随者进化为具备深度环境理解力的协作机器人。该合作标志着机器人技术与大模型的深度融合，通过提升工业设施安全监测的智能化水平，为复杂场景下的自动化巡检提供了更高效的解决方案。波士顿动力已通过演示视频展示了Spot在模拟工业环境中的自主处理能力，进一步验证了该技术在工业自动化领域的应用价值。",
+    "资讯标题": "OpenAI全面升级Codex编程工具，新增后台运行、内置浏览器及按需付费模式",
+    "内容": "OpenAI近日宣布全面升级自动化编程工具Codex，旨在提升工具的实用性与灵活性，以应对来自Anthropic Claude Code的竞争。本次更新核心功能包括：支持后台运行，允许多个智能代理在Mac设备上并行处理任务而不干扰用户操作；新增内置浏览器功能，支持在网页应用中执行指令，未来将扩展至全面操控浏览器；引入“记忆”功能以记录工作会话上下文，并增加图像生成能力以辅助设计原型。此外，Codex接入了111款插件，可处理文书工作及生成待办清单。针对商业化落地，OpenAI为ChatGPT企业版与商业版用户推出了Codex按需付费定价方案。此次升级标志着OpenAI重心向企业级编程场景转移，通过增强多任务处理能力与工作流集成，进一步巩固其在AI编程助手领域的市场竞争力。",
     "发布日期": "2026-04-17",
-    "原文链接": "https://www.aibase.com/zh/news/27197",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
-    "配图仓库路径": "assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304171408571920_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27207",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a1cfdae6d4366f3cf8a7ceef2fced4d9.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a1cfdae6d4366f3cf8a7ceef2fced4d9.jpg",
+    "配图仓库路径": "assets/news_images/a1cfdae6d4366f3cf8a7ceef2fced4d9.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0417/6391201524701510893898893.png"
   },
   {
-    "资讯标题": "NVIDIA推出全球首个开源量子AI模型NVIDIA Ising，提升量子纠错性能",
-    "内容": "NVIDIA正式发布全球首个开源量子AI模型“NVIDIA Ising”，旨在攻克量子处理器校准与量子纠错两大核心难题。该模型系列包含Ising Calibration与Ising Decoding两部分：其中，Ising Calibration为350亿参数的视觉语言模型，可将量子处理器测量数据的校准时间从数天缩短至数小时；Ising Decoding则由两款针对速度与准确性优化的3D卷积神经网络组成，在实时解码任务中，其速度较行业基准pyMatching提升2.5倍，准确率提升3倍，且训练数据需求仅为后者的十分之一。目前，该模型已获IonQ、哈佛大学及费米国家加速器实验室等机构采用，为构建混合量子-经典计算系统提供关键支持。NVIDIA Ising的推出进一步完善了其开放模型体系，通过将AI与量子计算深度融",
+    "资讯标题": "OpenAI 签署 200 亿美元协议采购 Cerebras 芯片并获得认股权证入股",
+    "内容": "OpenAI 与 AI 芯片初创公司 Cerebras 达成长期合作协议，承诺在未来三年内支付超 200 亿美元使用其芯片驱动的服务器集群，并获得 Cerebras 少数股权认股权证。此外，OpenAI 将注资约 10 亿美元专项用于建设高性能数据中心。Cerebras 核心的晶圆级引擎（WSE）技术具备极高的显存访问速度，旨在优化 OpenAI 下一代推理模型（如 Opus 4.7）的响应延迟。此举标志着 OpenAI 算力战略的重大调整，通过引入 Cerebras、AMD 及自研芯片构建混合架构，旨在降低对 NVIDIA 的依赖并破解算力垄断。尽管新兴架构的稳定性仍需验证，但该深度绑定协议将显著影响 AI 基础设施及底层算力市场格局。",
     "发布日期": "2026-04-17",
-    "原文链接": "https://www.aibase.com/zh/news/27191",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
-    "配图仓库路径": "assets/news_images/3371edac10193960308e8a3aac430def.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202010261720420670_6.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27212",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
+    "配图仓库路径": "assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202405110933330041_0.jpg"
   },
   {
-    "资讯标题": "Anthropic开源MCP协议被曝严重设计缺陷，超20万台AI服务器面临远程代码执行风险",
-    "内容": "网络安全公司OX Security于4月15日发布报告，指出Anthropic推出的开源标准MCP（模型上下文协议）存在架构级设计缺陷，导致超过20万台AI服务器暴露在远程代码执行风险中。漏洞根源在于MCP SDK的STDIO接口，该接口在启动本地服务器进程时，会对传入的操作系统命令缺乏校验，即便启动失败也会执行。此缺陷波及Python、TypeScript、Java、Go、Rust等11种官方支持语言。研究发现，LangFlow、Letta AI、Flowise及Windsurf IDE等平台均受影响，其中Windsurf IDE漏洞已获CVE编号。Anthropic在1月收到通报后仅更新安全文档提示谨慎使用，未进行架构修复。目前LiteLLM、DocsGPT等平台已发布补丁，但协议层根本问题仍未解决，且主流",
+    "资讯标题": "Anthropic正式发布Claude Opus 4.7模型，强化编程与逻辑推理能力",
+    "内容": "Anthropic正式发布Claude Opus 4.7模型，该版本重点提升了模型在复杂任务中的可靠性与逻辑严谨性。在SWE-bench Pro编程基准测试中，Opus 4.7得分达64.3%，超越GPT-5.4与Gemini 3.1 Pro；视觉推理基准CharXiv提升至82.1%，支持2576像素长边识别。该模型在工具调用与数据处理上表现出更强的韧性，遇到缺失信息时倾向于报错而非幻觉生成，并具备系统级代码编写前的数学证明能力。受全新分词器影响，Token消耗量较前代增加1至1.35倍。为应对成本变化，Anthropic新增xhigh思考强度档位，并推出深度审查指令/ultrareview、Auto Mode扩展及任务预算管控功能。尽管搜索评测表现略有回落，但其在工程协作中的准确性显著提升。此外，更强的Cl",
     "发布日期": "2026-04-17",
-    "原文链接": "https://www.aibase.com/zh/news/27183",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7e3fe178970c172a244da01023911208.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7e3fe178970c172a244da01023911208.jpg",
-    "配图仓库路径": "assets/news_images/7e3fe178970c172a244da01023911208.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304071742179671_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27206",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
+    "配图仓库路径": "assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403050858462025_0.jpg"
   }
 ]
