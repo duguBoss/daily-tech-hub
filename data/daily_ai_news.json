@@ -1,7 +1,7 @@
 [
   {
     "资讯标题": "谷歌Gemini接入Google Photos，支持调用个人相片生成个性化图像",
-    "内容": "谷歌宣布旗下AI助手Gemini正式支持连接用户个人相片库，通过开启Personal Intelligence功能，系统可整合谷歌应用数据以提供更个性化的交互体验。此次更新的核心在于打通了私人影像与AI生成能力之间的壁垒，配合图像生成工具Nano Banana，Gemini能够直接调取Google Photos中的私人相片，无需用户手动上传即可生成个性化图像。例如，用户可要求系统生成包含家人参与特定活动的动画风格图片，Gemini将自动完成创作。这一功能升级标志着AI图像生成从泛化模型向真正意义上的个人化应用迈进，通过深度集成用户私有数据，显著提升了生成内容的场景相关性与定制化程度，为用户提供更具个性化的AI创作体验。",
+    "内容": "谷歌宣布旗下AI助手Gemini正式支持连接用户个人相片库，通过开启Personal Intelligence功能，系统可整合谷歌应用数据以提供更个性化的交互体验。此次更新的核心在于打通了私人影像与AI生成能力的壁垒，配合图像生成工具Nano Banana，Gemini能够直接调取Google Photos中的私人相片进行处理，无需用户手动上传。用户仅需通过自然语言指令，即可要求Gemini基于相册内容生成特定风格的图像，例如将家人参与活动的场景转化为动画风格。这一功能升级标志着AI图像生成从泛化模型向真正意义上的个性化应用迈进，通过深度集成个人数据，显著提升了生成内容的场景相关性与定制化程度，为用户提供更具私密性与针对性的创作辅助。",
     "发布日期": "2026-04-18",
     "原文链接": "https://www.aibase.com/zh/news/27230",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
@@ -10,8 +10,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312070835429226_0.jpg"
   },
   {
-    "资讯标题": "英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手",
-    "内容": "英伟达发布 Lyra2.0:单照生成90米3D 环境，多项指标超越竞争对手AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 17, 202632英伟达研究团队于2026年4月16日正式发布了3D 场景生成系统 Lyra2.0，该技术旨在通过单张照片构建大规模、高连贯性的虚拟环境，攻克了长距离相机路径下的图像失真难题。在具身智能训练需求激增的背景下，Lyra2.0的问世标志着 AI 在3D 空间理解与实时环境模拟领域取得重大突破。技术层面，Lyra2.0能够利用单张照片生成延伸范围达90米的3D 环境。",
+    "资讯标题": "英伟达发布3D场景生成系统Lyra2.0，支持单照生成90米高连贯环境",
+    "内容": "英伟达研究团队于2026年4月16日正式发布3D场景生成系统Lyra2.0，该系统支持仅凭单张照片构建延伸范围达90米的3D虚拟环境。针对传统视频模型在长距离相机路径下的空间失真与误差累积难题，Lyra2.0引入双重策略：实时存储每一帧的3D几何信息以确保环境一致性，并利用缺陷数据训练模型实现自我纠偏。基准测试显示，Lyra2.0在图像质量与相机控制维度优于GEN3C、Yume-1.5等六个竞品，快速版本生成效率提升13倍。目前，该系统已实现与Nvidia Isaac Sim等物理引擎的无缝衔接，生成的场景可直接导出为网格模型。这一技术突破为自动驾驶及通用机器人（AGI）提供了高效的仿真训练基础设施，显著降低了对现实世界大规模3D数据采集的依赖，推动了AI在3D空间理解与实时环境模拟领域的进化。",
     "发布日期": "2026-04-18",
     "原文链接": "https://www.aibase.com/zh/news/27228",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/05507a6a0bc7555d5306882a7c31fc5d.jpg",
@@ -20,8 +20,8 @@
     "原始配图链接": "https://pic.chinaz.com/thumb/2026/0417/26041702400824977445.jpg"
   },
   {
-    "资讯标题": "OpenAI斥资逾 200 亿美元押注Cerebras，或获高达10%股权",
-    "内容": "OpenAI斥资逾 200 亿美元押注Cerebras，或获高达10%股权AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 17, 202623OpenAI已同意未来三年向芯片初创公司Cerebras支付逾 200 亿美元，用于购买其芯片驱动的服务器算力，并可能借此获得该公司股权。这并非两家公司的首次合作。今年 1 月，OpenAI已签署协议，计划三年内从Cerebras采购最多 750 兆瓦计算能力，交易价值超 100 亿美元。而此次新协议规模更大——OpenAI还将提供约 10 亿美元资助Cerebras开发数据中心，未来三年总支出或达 300 亿美元。作为回报，OpenAI将获得Cerebras少数股权认股权证，且持股比例可能随支出增加而提升，最高或达10%股份。",
+    "资讯标题": "OpenAI斥资逾200亿美元采购Cerebras算力并拟获最高10%股权",
+    "内容": "OpenAI已达成协议，计划在未来三年内向芯片初创公司Cerebras支付逾200亿美元，用于采购其芯片驱动的服务器算力，并可能借此获得最高10%的股权。此次合作不仅涵盖算力采购，OpenAI还将额外提供约10亿美元资助Cerebras建设数据中心，使未来三年总支出规模或达300亿美元。作为回报，OpenAI将获得Cerebras的少数股权认股权证。此前，双方已于今年1月签署协议，计划三年内采购价值超100亿美元的750兆瓦计算能力。Cerebras以晶圆级引擎芯片技术见长，正筹备于今年二季度上市，并计划下月完成30亿美元融资，目标估值约350亿美元。此次深度绑定反映了OpenAI对推理算力的迫切需求，同时也为Cerebras的上市进程提供了核心支撑。",
     "发布日期": "2026-04-18",
     "原文链接": "https://www.aibase.com/zh/news/27226",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
@@ -30,23 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
   },
   {
-    "资讯标题": "OpenAI发布生命科学专用模型GPT-Rosalind，深度赋能药物研发",
-    "内容": "OpenAI于4月16日正式发布专为生命科学研究打造的GPT-Rosalind模型，旨在通过生成式AI加速药物研发流程。该模型针对基因组学和化学领域进行深度微调，在LABBench2等科学基准测试中表现优异，部分预测任务已超越人类专家水平。GPT-Rosalind具备证据合成、假设生成、实验规划及蛋白质工程分析能力，并配套支持链接超50种专业科学工具与数据库的生命科学插件。目前，该模型已作为“研究预览”向安进、莫德纳、赛默飞世尔及艾伦研究所等首批合作伙伴开放。此次发布标志着OpenAI正式切入科学AI赛道，将AI能力从通用聊天扩展至科研基础设施领域。该举措不仅引发医药板块市场波动，也预示着AI在辅助新药开发与医疗数据分析方面的应用进入深度落地阶段。",
-    "发布日期": "2026-04-18",
-    "原文链接": "https://www.aibase.com/zh/news/27232",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
-  },
-  {
-    "资讯标题": "OpenAI公布ChatGPT用户数据：女性占比首超50%且总用户规模逼近10亿",
-    "内容": "OpenAI最新数据显示，ChatGPT用户性别结构发生历史性逆转，女性用户占比已突破50%，相较2022年发布初期的20%实现显著增长。目前ChatGPT总用户规模正逼近10亿大关，其中女性活跃用户约达5亿。在基础设施层面，OpenAI算力扩张迅速，可用算力从2023年的0.2吉瓦提升至2025年的约1.9吉瓦，两年间年增幅约3倍。为应对下一阶段AI竞争，OpenAI已与英伟达等合作伙伴签署超30吉瓦的算力协议，计划在2030年前将算力规模提升至30吉瓦，旨在通过锁定大规模基础设施优势，支撑模型迭代与用户增长需求。",
+    "资讯标题": "OpenAI公布ChatGPT用户数据：女性占比首超50%，总用户规模逼近10亿",
+    "内容": "OpenAI最新数据显示，ChatGPT用户性别结构发生历史性逆转，女性用户占比已突破50%，相较2022年发布之初20%的占比实现大幅增长。目前，ChatGPT总用户规模正逼近10亿大关，其中约5亿女性用户定期使用该工具。在算力基础设施方面，OpenAI扩张势头强劲，其可用算力已从2023年的0.2吉瓦提升至2025年的约1.9吉瓦，两年间年均增幅达3倍。为应对下一阶段AI竞争，OpenAI已与英伟达等合作伙伴签署超30吉瓦的算力协议，计划在2030年前将算力规模提升至30吉瓦。这一用户结构的多元化趋势及算力储备的快速增长，标志着ChatGPT在消费级市场的渗透率与底层基础设施支撑能力均进入新阶段。",
     "发布日期": "2026-04-18",
     "原文链接": "https://www.aibase.com/zh/news/27233",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8d94ae718c271947526bf3fae3a9e6c2.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8d94ae718c271947526bf3fae3a9e6c2.jpg",
     "配图仓库路径": "assets/news_images/8d94ae718c271947526bf3fae3a9e6c2.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302112107341554_1.jpg"
+  },
+  {
+    "资讯标题": "OpenAI 发布生命科学专用模型 GPT-Rosalind 并向部分企业客户开放预览",
+    "内容": "OpenAI 于 4 月 16 日正式发布专为生命科学研究设计的 AI 模型 GPT-Rosalind，旨在加速药物研发流程。该模型针对基因组学和化学领域进行深度微调，在 LABBench2 等科学基准测试中表现优异，部分预测任务已超越人类专家。GPT-Rosalind 可协助科研人员进行证据合成、假设生成、实验规划及蛋白质工程分析。目前，该模型已作为“研究预览”向 Amgen、Moderna、Thermo Fisher Scientific 及艾伦研究所等首批合作伙伴开放。此外，OpenAI 同步推出配套的生命科学插件，支持链接超过 50 种专业科学工具与数据库。此举标志着 OpenAI 正式切入科学 AI 赛道，通过将生成式 AI 深度嵌入药物研发，推动 AI 从通用聊天工具向科研基础设施转型，引发了医药行",
+    "发布日期": "2026-04-18",
+    "原文链接": "https://www.aibase.com/zh/news/27232",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
   }
 ]
