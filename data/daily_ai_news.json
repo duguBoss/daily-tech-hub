@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "星巴克引入 ChatGPT，根据心情推荐饮品",
-    "内容": "星巴克引入 ChatGPT，根据心情推荐饮品AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 17, 202643近日，星巴克宣布正在测试一款基于 ChatGPT 的 beta 应用程序，旨在帮助顾客根据个人的心情、口味和目标选择饮品。通过这款应用，用户只需在星巴克的官方 App 上输入他们的心情或期望，系统便会智能推荐合适的饮品，让点单过程更加个性化和便捷。这项创新功能的推出，旨在提升顾客的消费体验。用户可以在选择饮品时，考虑到自己的心情状态，比如 “我今天感到疲惫” 或 “我想要提神”，ChatGPT 将据此提供相应的饮品建议。这样的个性化推荐，不仅丰富了饮品选择的乐趣，也让顾客的每一次消费都能更加贴合自己的需求。",
-    "发布日期": "2026-04-19",
-    "原文链接": "https://www.aibase.com/zh/news/27231",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ce88e23bc88d495ddaee1f23eefafb31.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ce88e23bc88d495ddaee1f23eefafb31.jpg",
-    "配图仓库路径": "assets/news_images/ce88e23bc88d495ddaee1f23eefafb31.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311302026295628_23.jpg"
+    "资讯标题": "谷歌Gemini接入Google Photos，支持调用个人相片生成个性化图像",
+    "内容": "谷歌宣布旗下AI助手Gemini正式接入个人相册，通过开启Personal Intelligence功能，用户可授权系统整合Google Photos数据以获取个性化交互体验。此次更新的核心在于打通了私人影像库与AI生成工具Nano Banana的壁垒，用户无需手动上传照片，即可直接调取Google Photos中的私人影像素材。在实际应用中，用户可要求Gemini生成包含特定人物或场景的个性化图像，例如将家人参与活动的场景转化为动画风格。这一技术整合标志着AI图像生成能力从泛化模型向深度个性化应用迈进，通过实时调用用户授权的私有数据，显著提升了生成内容的定制化程度与创作效率，为用户提供更具关联性的AI辅助创作体验。",
+    "发布日期": "2026-04-20",
+    "原文链接": "https://www.aibase.com/zh/news/27230",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
+    "配图仓库路径": "assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312070835429226_0.jpg"
   },
   {
-    "资讯标题": "字节跳动启动前沿技术人才校招，面向全球博士生开放多个AI方向",
-    "内容": "字节跳动启动前沿技术人才校招，面向全球博士生开放多个AI方向AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 17, 202647字节跳动官方昨日宣布，正式启动前沿技术领域人才校园招聘项目，面向全球优秀技术人才开放全职及实习岗位。本次校招招聘对象明确指向博士群体:全职岗位面向2026年9月至2027年8月期间毕业的博士生，实习岗位则面向2026年9月及以后毕业的在校博士生。研究或实践能力出众者将获优先考量，包括顶会顶刊论文作者、专利拥有者、国际竞赛获奖者，以及有重大研究项目经历或有影响力技术落地成果者。开放方向涵盖大模型应用、搜索/推荐/广告、计算机体系结构与系统优化、安全/AI Safety、硬件、AI Coding、AIGC、视频架构、AI for Science等多个前沿技术领域。",
-    "发布日期": "2026-04-19",
-    "原文链接": "https://www.aibase.com/zh/news/27225",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b49981a42669d2dfd06239a6cb6fd693.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b49981a42669d2dfd06239a6cb6fd693.jpg",
-    "配图仓库路径": "assets/news_images/b49981a42669d2dfd06239a6cb6fd693.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305291455510902_2.jpg"
+    "资讯标题": "英伟达发布3D场景生成系统Lyra2.0，单照可构建90米高连贯虚拟环境",
+    "内容": "英伟达研究团队于2026年4月16日发布3D场景生成系统Lyra2.0，该技术支持通过单张照片构建延伸范围达90米的3D环境。针对传统视频模型在长距离相机路径下的空间失真与误差累积难题，Lyra2.0引入双重策略：实时存储3D几何信息以确保环境一致性，并利用缺陷数据训练模型实现自我纠偏。基准测试显示，Lyra2.0在图像质量与相机控制维度优于GEN3C、Yume-1.5等六款竞品，快速版本生成效率提升13倍。目前，该系统已实现与Nvidia Isaac Sim等物理引擎的无缝衔接，生成的3D场景可直接导出为网格模型。这一闭环流程支持机器人直接在AI生成的环境中进行仿真训练，显著降低了对现实世界大规模3D数据采集的依赖，为自动驾驶及通用机器人（AGI）的物理感知进化提供了关键基础设施支撑。",
+    "发布日期": "2026-04-20",
+    "原文链接": "https://www.aibase.com/zh/news/27228",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/05507a6a0bc7555d5306882a7c31fc5d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/05507a6a0bc7555d5306882a7c31fc5d.jpg",
+    "配图仓库路径": "assets/news_images/05507a6a0bc7555d5306882a7c31fc5d.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0417/26041702400824977445.jpg"
   },
   {
-    "资讯标题": "Meta持续挖角AI初创公司，Thinking Machines再失核心成员",
-    "内容": "Meta持续挖角AI初创公司，Thinking Machines再失核心成员AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 17, 202636硅谷AI人才争夺战愈演愈烈，Meta正将目光瞄准初创公司，持续加大挖角力度。最新离开的是Thinking Machines资深软件工程师Joshua Gross。其领英资料显示，他上月已加入Meta超级智能实验室，目前负责领导工程团队。Gross此前曾在OpenAI和Meta工作，并在Thinking Machines从零构建并发布了旗舰产品Tinker——一款支持AI视频、图片、3D模型及漫画创作的创意软件。这已不是Thinking Machines第一次失血。",
-    "发布日期": "2026-04-19",
-    "原文链接": "https://www.aibase.com/zh/news/27227",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e4782eaeb5f04a01aed323f28a181e61.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e4782eaeb5f04a01aed323f28a181e61.jpg",
-    "配图仓库路径": "assets/news_images/e4782eaeb5f04a01aed323f28a181e61.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202111072153100579_0.jpg"
+    "资讯标题": "OpenAI斥资逾200亿美元采购Cerebras算力并获最高10%股权",
+    "内容": "OpenAI已正式签署协议，计划在未来三年内向芯片初创公司Cerebras支付逾200亿美元，用于采购其芯片驱动的服务器算力。此次合作不仅涵盖算力购买，OpenAI还将额外提供约10亿美元资助Cerebras建设数据中心，使未来三年总支出可能达到300亿美元。作为交易回报，OpenAI将获得Cerebras的少数股权认股权证，持股比例最高可达10%。此前，双方已于今年1月签署过一份价值超100亿美元、涉及750兆瓦计算能力的采购协议。Cerebras以晶圆级引擎芯片技术闻名，目前正筹备于今年二季度上市，并计划下月完成30亿美元融资，目标估值约350亿美元。此次大规模交易反映了OpenAI对推理算力的迫切需求，同时也为Cerebras的上市进程提供了关键的业务支撑。",
+    "发布日期": "2026-04-20",
+    "原文链接": "https://www.aibase.com/zh/news/27226",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
   },
   {
-    "资讯标题": "ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿",
-    "内容": "ChatGPT用户结构历史性逆转：女性占比首超50%，总用户规模逼近 10 亿AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 17, 202635OpenAI最新公布的数据显示，ChatGPT的用户性别结构正在发生历史性转变。2022年产品发布之初，男性用户占比约80%，女性仅占20%。而如今女性用户已反超男性，占比突破50%。按照ChatGPT目前每周活跃用户规模估算，这意味着全球约有近5亿女性正在定期使用这一工具，而ChatGPT的总用户数也即将迈过10亿大关。与此同时，OpenAI在算力层面的扩张同样势头凶猛。其可用算力已从2023年的0.2吉瓦增至2025年的约1.9吉瓦，两年间年增幅约3倍。",
-    "发布日期": "2026-04-19",
+    "资讯标题": "OpenAI 发布专为生命科学研发打造的 GPT-Rosalind AI 模型",
+    "内容": "OpenAI 于 4 月 16 日正式发布面向生命科学领域的 AI 模型 GPT-Rosalind，旨在加速药物研发、蛋白质工程分析及实验规划。该模型针对基因组学和化学领域进行深度微调，在 LABBench2 等科学基准测试中表现优异，部分预测任务已展现出超越人类专家的潜力。目前，GPT-Rosalind 已作为“研究预览”向 Amgen、Moderna、Thermo Fisher Scientific 及艾伦研究所等首批合作伙伴开放。配套推出的生命科学插件支持链接超过 50 种专业科学工具与数据库。此次发布标志着 OpenAI 正式切入科学 AI 赛道，通过提供证据合成与假设生成能力，将生成式 AI 从通用聊天工具转化为科研基础设施。该举措引发医药行业高度关注，并对相关生物技术公司股价产生直接影响。",
+    "发布日期": "2026-04-20",
+    "原文链接": "https://www.aibase.com/zh/news/27232",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
+  },
+  {
+    "资讯标题": "ChatGPT女性用户占比首超50%，总用户规模即将突破10亿大关",
+    "内容": "OpenAI最新数据显示，ChatGPT用户性别结构发生历史性逆转，女性用户占比已突破50%，相较2022年发布之初20%的比例实现大幅增长。目前，ChatGPT总用户规模正逼近10亿大关，其中女性活跃用户数已接近5亿。在算力基础设施方面，OpenAI扩张势头强劲，可用算力从2023年的0.2吉瓦提升至2025年的约1.9吉瓦，两年间年均增幅达3倍。为应对下一阶段AI竞争，OpenAI已与英伟达等合作伙伴签署超30吉瓦的算力协议，计划在2030年前将算力规模提升至30吉瓦。这一用户结构的转变反映了生成式AI工具在更广泛人群中的普及，而大规模的算力储备则为OpenAI后续的模型迭代与技术演进提供了坚实支撑。",
+    "发布日期": "2026-04-20",
     "原文链接": "https://www.aibase.com/zh/news/27233",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8d94ae718c271947526bf3fae3a9e6c2.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8d94ae718c271947526bf3fae3a9e6c2.jpg",
     "配图仓库路径": "assets/news_images/8d94ae718c271947526bf3fae3a9e6c2.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302112107341554_1.jpg"
-  },
-  {
-    "资讯标题": "ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%",
-    "内容": "ChatGPT 用户突破 10 亿，女性用户占比首次超过 50%AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 17, 202660根据 OpenAI 最新发布的数据，ChatGPT 的全球周活跃用户人数即将突破 10 亿，标志着该平台用户结构发生了显著变化。自 2022 年该应用发布以来，男性用户的比例曾高达 80%，而女性用户仅占 20%。如今，女性用户不仅实现了突破，比例已超过男性，首次达到了 50% 以上。这意味着，目前全球大约有近 5 亿女性正在定期使用 ChatGPT 这一工具。OpenAI 的这些变化反映了人工智能技术的普及程度不断提升，吸引了更多不同性别和背景的用户参与。",
-    "发布日期": "2026-04-19",
-    "原文链接": "https://www.aibase.com/zh/news/27237",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/46f2e09c4f68083f5f3ee48443871a34.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/46f2e09c4f68083f5f3ee48443871a34.jpg",
-    "配图仓库路径": "assets/news_images/46f2e09c4f68083f5f3ee48443871a34.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0417/6391204092536998972267517.png"
   }
 ]
