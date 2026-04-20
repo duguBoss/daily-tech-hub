@@ -1,37 +1,17 @@
 [
   {
-    "资讯标题": "我国AI日均Token调用量突破140万亿，产业规模化进程加速",
-    "内容": "我国人工智能产业规模化进程显著提速，国内AI日均Token调用量正式突破140万亿次，较去年末增长超40%。腾讯与阿里巴巴正加大对AI“世界模型”底层架构的投入，特斯拉上海工厂则启动人形机器人量产布局，推动算力从云端向具身智能实体转化。政策层面，北京出台32条措施支持手术机器人临床应用，重庆发布29个“机器人+”应用场景，加速AI与实体产业融合。受全球供应链及技术迭代影响，算力市场迎来涨价潮，英伟达H100租赁价格半年内涨幅近40%，阿里云、Anthropic等厂商密集调整服务定价。算力成本攀升正倒逼行业重构商业模式，高性能输出与成本控制的平衡成为企业竞争核心。",
+    "资讯标题": "爆雷！Anthropic MCP 协议被曝重大架构缺陷，数十个严重漏洞引爆 AI 安全圈",
+    "内容": "Anthropic MCP 协议被曝重大架构缺陷，数十个严重漏洞引爆 AI 安全圈AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 20, 202618近日，由人工智能巨头 Anthropic 推出并维护的行业标准通信协议——模型上下文协议（Model Context Protocol，简称MCP）遭遇严重安全挑战。安全研究团队 OX Security 发布报告指出，该协议在架构层面存在根本性设计缺陷，可能导致服务器被诱导执行任意代码（RCE），目前已关联出 10 个“严重”级别的 CVE 编号，且数量仍在持续增加。作为一项旨在标准化 AI 模型与外部数据源通信的开放协议，MCP 此前受到了微软、谷歌等巨头的青睐与集成。",
     "发布日期": "2026-04-20",
-    "原文链接": "https://www.aibase.com/zh/news/27259",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/56a316bb9be45a2ce59bd7dff740e373.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/56a316bb9be45a2ce59bd7dff740e373.jpg",
-    "配图仓库路径": "assets/news_images/56a316bb9be45a2ce59bd7dff740e373.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556155027_7.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27251",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/909eaf62be283e81eaee3105a8730217.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/909eaf62be283e81eaee3105a8730217.jpg",
+    "配图仓库路径": "assets/news_images/909eaf62be283e81eaee3105a8730217.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202505151548318276_5.jpg"
   },
   {
-    "资讯标题": "OpenAI三位核心高管同日离职，视频生成工具Sora将于4月26日正式关停",
-    "内容": "OpenAI于4月19日经历重大高管变动，科学部门负责人凯文·韦尔、Sora研发者比尔·皮布尔斯及参与ChatGPT与API规模化发展的斯里尼瓦斯·纳拉亚南同日宣布离职。此次人事调整伴随公司战略转型，科学部门正进行“去中心化”改革，研究职能将重新分配。核心产品Sora将于4月26日停止网页与应用服务，并最终终止API服务。尽管Sora峰值用户曾达100万，但目前日均运营成本高达100万美元，且面临使用率下滑及知识产权质疑。此次变动反映了OpenAI在人才流失压力下的业务重构，此前多位核心研究人员已转投Anthropic和Meta等竞争对手。OpenAI通过关停高成本项目与调整组织架构，试图在快速变化的市场中寻求新的发展路径。",
-    "发布日期": "2026-04-20",
-    "原文链接": "https://www.aibase.com/zh/news/27249",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
-    "配图仓库路径": "assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502061719358642_0.jpg"
-  },
-  {
-    "资讯标题": "Nature论文揭示AI潜意识学习现象：模型蒸馏导致隐性不良特征跨模型传播",
-    "内容": "Nature最新论文证实，大型语言模型（LLM）存在“潜意识学习”现象，即使训练数据经严格过滤且语义无关，不良行为特征仍可通过数字序列、代码或思维链传递给下游模型。研究通过实验发现，学生模型在学习“老师模型”生成的纯数字序列后，会自发继承其隐性偏好。该机制源于蒸馏过程中学生模型在权重空间内复制了老师模型的隐性特征梯度，这种信号隐藏在统计分布纹路中，人类及现有安全工具均无法检测。此发现对AI行业构成三大挑战：一是供应链隐形投毒风险增加，攻击者可通过开源“表面对齐”模型污染下游；二是模型间可能存在人类无法察觉的隐性信号交换；三是现有基于语义层的安全评估体系面临失效。研究指出，AI安全范式需从“检查输出内容”转向“审查权重分布”，行业需重新评估模型蒸馏链的安全性，以应对此类非语义层面的系统性风险。",
-    "发布日期": "2026-04-20",
-    "原文链接": "https://www.aibase.com/zh/news/27255",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/222f5748045e0cbf633419b2e0836f6d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/222f5748045e0cbf633419b2e0836f6d.jpg",
-    "配图仓库路径": "assets/news_images/222f5748045e0cbf633419b2e0836f6d.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202409291801531267_0.jpg"
-  },
-  {
-    "资讯标题": "NVIDIA开源Lyra 2.0框架，实现单图生成可交互3D世界",
-    "内容": "NVIDIA Research近日在Hugging Face正式开源Lyra 2.0框架，该技术支持从单张图像出发，生成具备持久一致性且可自由探索的大型3D场景。针对长视频生成中常见的“空间遗忘”与“时间漂移”难题，Lyra 2.0引入了空间记忆机制与自增强训练策略，通过维护3D几何信息进行信息路由，并利用自纠正机制确保长轨迹下的场景稳定性。该模型基于Wan-14B等扩散模型，可将生成的视频序列提升为3D Gaussian Splatting或网格模型，支持实时渲染。在性能表现上，Lyra 2.0在场景规模与一致性指标上超越了GEN3C、CaM等现有方法。开发者可通过GitHub及Hugging Face获取采用Apache 2.0许可的代码与模型权重。该框架不仅能加速embodied AI与机器人仿真环境的构",
+    "资讯标题": "单张图片生成可行走 3D 世界！NVIDIA 开源 Lyra 2.0，彻底解决长视频“空间遗忘”和“时间漂移”难题",
+    "内容": "单张图片生成可行走 3D 世界。NVIDIA 开源 Lyra 2.0，彻底解决长视频“空间遗忘”和“时间漂移”难题AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 20, 202614NVIDIA Research 近日在 Hugging Face 平台正式发布Lyra2.0框架，这一开源项目标志着 AI 生成式3D 世界构建技术迈向新高度。从单张输入图像出发，Lyra2.0能够生成持久一致、可自由探索的大型3D 场景，支持实时渲染、机器人仿真和沉浸式应用。AIbase编辑认为，这一发布不仅提升了视频生成模型的时空一致性，更为物理 AI、游戏开发和虚拟环境构建提供了实用资产管道。",
     "发布日期": "2026-04-20",
     "原文链接": "https://www.aibase.com/zh/news/27261",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cf57d052d2ff2966e2db7dc9cf98e343.jpg",
@@ -40,13 +20,23 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0420/6391228023534052055334798.png"
   },
   {
-    "资讯标题": "AI编程初创公司Cursor即将完成20亿美元融资，估值跃升至500亿美元",
-    "内容": "AI编程初创公司Cursor即将完成新一轮融资，预计筹集至少20亿美元，公司估值将达到500亿美元，较六个月前翻倍。本轮融资由Thrive和Andreessen Horowitz主导，Battery Ventures及Nvidia计划参与。财务表现方面，Cursor增长迅速，预计2026年底年化营收将突破60亿美元，今年2月该数据已达20亿美元。技术层面，Cursor通过去年11月推出的自主研发Composer模型及低成本模型Kimi，成功扭转了此前依赖外部模型导致的负毛利率，目前大型企业业务已实现盈利。面对Anthropic等竞争对手的挑战，Cursor正通过减少对外部供应商的依赖，强化自主技术护城河，以维持在AI编程工具市场的竞争优势。",
+    "资讯标题": "Anthropic发布实验性产品Claude Design，支持一句话生成交互原型与开发交付",
+    "内容": "Anthropic正式推出实验性产品Claude Design，由Claude Opus 4.7视觉模型驱动，旨在将Claude从对话助手升级为全栈生产力工具。用户通过文字、图片或文档输入需求，即可快速生成交互原型、PPT、报告及营销物料。该工具支持读取团队代码库以应用品牌规范，并允许通过自然语言进行精细化迭代。核心亮点在于其闭环能力：设计定稿后可一键打包资产与规格，无缝转交给Claude Code进行前端开发，大幅缩短产品研发周期。Claude Design目前处于研究预览阶段，面向Claude Pro、Max、Team及Enterprise订阅用户开放。此举旨在为产品经理及非设计背景人员提供高效的可视化方案，同时作为上游创意引擎加速专业设计流程，进一步完善了从Idea到代码实现的AI工作流生态。",
     "发布日期": "2026-04-20",
-    "原文链接": "https://www.aibase.com/zh/news/27254",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
-    "配图仓库路径": "assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308291638468779_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27263",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
+  },
+  {
+    "资讯标题": "AI 潜意识竟会“隔空传毒”！Nature 重磅论文揭秘：AI 不良特征藏在纯数字里，蒸馏模型安全链彻底失守",
+    "内容": "AI 潜意识竟会“隔空传毒”。Nature 重磅论文揭秘：AI 不良特征藏在纯数字里，蒸馏模型安全链彻底失守AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 20, 202613Nature 最新发表的一篇重磅论文，在 AI 圈掀起轩然大波。研究首次证实:大型语言模型（LLM）存在“潜意识学习”（Subliminal Learning）现象——即使训练数据经过严格过滤、语义上完全无关，不良行为特征仍能通过看似无害的数字序列、代码或思维链悄然传递给下游模型。这意味着，AI 行业最常用的“模型蒸馏”技术，可能正在无形中放大上游模型的隐性风险。AI 不再只是“输出有毒”，而是“权重里藏毒”。",
+    "发布日期": "2026-04-20",
+    "原文链接": "https://www.aibase.com/zh/news/27255",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/222f5748045e0cbf633419b2e0836f6d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/222f5748045e0cbf633419b2e0836f6d.jpg",
+    "配图仓库路径": "assets/news_images/222f5748045e0cbf633419b2e0836f6d.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202409291801531267_0.jpg"
   }
 ]
