@@ -1,7 +1,7 @@
 [
   {
     "资讯标题": "微软Fairwater AI数据中心提前上线，配备数十万块英伟达GB200芯片",
-    "内容": "微软总裁兼CEO纳德拉宣布，位于美国威斯康星州的Fairwater AI数据中心已提前投入使用。该项目总投资33亿美元，占地约127.6公顷，建筑面积达11.1万平方米。核心算力方面，该中心部署了数十万块英伟达GB200超级芯片，性能达到当前全球顶级超级计算机的十倍，旨在为前沿AI模型训练提供强力支撑。为应对高功耗与散热需求，设施配备了闭环液冷系统。在可持续发展层面，微软通过预付电网基础设施费用缓解电价压力，并配套建设250兆瓦太阳能发电厂。此次投产是微软全球布局的重要一环，未来公司计划在美国多地复制该模式，以满足日益增长的AI计算需求，进一步巩固其在AI基础设施领域的领先地位。",
+    "内容": "微软总裁兼CEO纳德拉宣布，位于美国威斯康星州的Fairwater AI数据中心已提前投入使用。该项目总投资达33亿美元，占地约127.6公顷，建筑面积11.1万平方米。核心算力方面，该中心部署了数十万块英伟达GB200超级芯片，算力性能达到全球顶级超级计算机的十倍，专门用于训练前沿AI模型。为保障高效运行，设施配备了闭环液冷系统。在可持续发展层面，微软通过预付电网基础设施费用缓解电价压力，并配套建设250兆瓦太阳能发电厂。此次上线是微软全球布局的重要一环，旨在应对日益增长的AI计算需求，未来微软计划在美国多地复制此数据中心模式，以巩固其在AI领域的算力领先地位。",
     "发布日期": "2026-04-21",
     "原文链接": "https://www.aibase.com/zh/news/27294",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f908ca3869191c1e44572787ab962ccd.jpg",
@@ -10,8 +10,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202304171730169988_2.jpg"
   },
   {
-    "资讯标题": "华为发布 2499 元起 AI 眼镜，携手支付宝上线“看一下支付”功能",
-    "内容": "华为在 4 月 20 日的 Pura 系列新品发布会上正式推出新款 AI 眼镜，起售价 2499 元。该产品内置支付宝鸿蒙版应用，支持“看一下支付”功能。用户绑定账户并录入语音后，通过双击 AI 键或语音指令，即可识别商家收款码或连接“碰一下”设备，经确认后完成交易。该功能基于鸿蒙系统协同认证、蚂蚁 GPASS 智能终端可信连接技术及多维度风控系统构建，确保支付安全。支付宝承诺提供“被盗即赔”服务，保障用户权益。目前，该支付功能不仅兼容华为 AI 眼镜，还支持 Rokid、小米、千问及雷鸟创新等品牌的智能眼镜。此举标志着智能穿戴设备在移动支付场景的进一步渗透，通过语音与手势交互简化了支付流程，提升了用户在日常购物中的便捷性与安全性。",
+    "资讯标题": "华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相",
+    "内容": "华为硬核上新：Pura90 系列领衔，AI眼镜与阔折叠手机齐亮相AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 21, 2026224 月 20 日下午，华为举办了Pura系列及全场景新品发布会，正式揭开了Pura90 系列、Pura X Max阔折叠手机以及旗下首款鸿蒙AI眼镜的神秘面纱。在发布新品的同时，华为也对外公布了备受关注的价格矩阵。在定价策略上，华为展现出了极强的市场竞争力。尽管当前全球半导体存储器价格持续走高，不少手机厂商纷纷上调售价，但华为此次选择了稳扎稳打。Pura90 标准版起售价与上一代Pura80 持平，而Pro与Pro Max版本的价格甚至有所下调。值得关注的是，本次产品序列中取消了Ultra版本，这种调整显示出华为在维持主力机型定价稳定方面的决心。",
+    "发布日期": "2026-04-21",
+    "原文链接": "https://www.aibase.com/zh/news/27309",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/02c2c98afd7eaaffd7e36c3582c9ff80.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/02c2c98afd7eaaffd7e36c3582c9ff80.jpg",
+    "配图仓库路径": "assets/news_images/02c2c98afd7eaaffd7e36c3582c9ff80.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202201041728170737_8.jpg"
+  },
+  {
+    "资讯标题": "华为发布2499元起AI眼镜，携手支付宝上线“看一下支付”功能",
+    "内容": "华为在4月20日Pura系列新品发布会上正式推出AI眼镜，起售价2499元。该产品内置支付宝鸿蒙版应用，支持“看一下支付”功能。用户绑定账户并录入语音后，通过双击AI键或语音指令，即可识别商家收款码或连接“碰一下”设备，经二次确认完成交易。该功能基于鸿蒙系统协同认证能力、蚂蚁GPASS智能终端可信连接技术及多维度风控系统构建。除华为外，该功能还兼容Rokid、小米、千问及雷鸟创新等品牌智能眼镜。为保障支付安全，支付宝承诺提供“被盗即赔”服务，通过技术与保险双重机制提升用户使用体验。",
     "发布日期": "2026-04-21",
     "原文链接": "https://www.aibase.com/zh/news/27295",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/91dc94bd3ad9873c20994a8a2e218298.jpg",
@@ -20,33 +30,23 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0421/6391235971257092014725834.png"
   },
   {
-    "资讯标题": "OpenAI 在 Codex 应用中推出 Chronicle 功能以实现项目上下文记忆",
-    "内容": "OpenAI 在 Codex 应用中正式推出 Chronicle 功能，旨在通过屏幕录制技术实时记录用户操作，构建上下文记忆库，从而避免重复说明工作内容。该功能在后台运行，将记录内容整理为 Markdown 文件并保存在本地，设定六小时后自动删除。目前，Chronicle 已面向 macOS 系统的 ChatGPT Pro 订阅用户开放可选预览版，但暂不支持欧盟、英国及瑞士地区。用户需在设置中手动开启“记忆”与“Chronicle”功能，并授予屏幕录制及辅助功能权限。OpenAI 提醒，该功能会加速消耗调用额度，且存在潜在安全风险：记忆内容以未加密形式存储，并可能面临提示词注入攻击。用户在使用时需权衡效率提升与数据安全隐患。",
+    "资讯标题": "全球AI大模型Token调用量出现两年来首次下滑，中美市场表现分化",
+    "内容": "全球AI大模型总Token调用量在经历十周连涨后，已连续两周出现下滑。4月13日至19日期间，全球总调用量为20.6万亿Token。其中，中国AI大模型周调用量环比缩减23.77%，降至4.44万亿Token；美国市场则环比增长20.62%，达到4.91万亿Token，实现近两个月来首次反超。此次市场格局变动与全球算力涨价潮直接相关。自3月起，阿里云、腾讯、百度等国内云厂商及智谱相继上调大模型服务费用，海外厂商Anthropic亦更新了定价模型。业内分析认为，短期调用量回落是算力成本重塑背景下的市场自我调节，随着AI应用场景深化，长期Token消耗总量仍处于上升通道。",
     "发布日期": "2026-04-21",
-    "原文链接": "https://www.aibase.com/zh/news/27293",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3cfb4420d7c45aaab4c8407eee63fb28.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3cfb4420d7c45aaab4c8407eee63fb28.jpg",
-    "配图仓库路径": "assets/news_images/3cfb4420d7c45aaab4c8407eee63fb28.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0421/6391235950253334203409646.png"
+    "原文链接": "https://www.aibase.com/zh/news/27304",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5b0c902b021224608de2c2869cb62ca8.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5b0c902b021224608de2c2869cb62ca8.jpg",
+    "配图仓库路径": "assets/news_images/5b0c902b021224608de2c2869cb62ca8.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307211343352678_2.jpg"
   },
   {
-    "资讯标题": "Chrome 浏览器 Gemini 功能扩展至更多亚太地区国家",
-    "内容": "Chrome 浏览器 Gemini 功能扩展至更多亚太地区国家AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 21, 202616谷歌 Chrome 浏览器官方在 X 平台发文宣布，“Gemini in Chrome”功能正式扩展至更多亚太地区国家，为当地用户带来更智能的浏览体验。官方账号 @googlechrome 贴文称:“Heads up。Gemini in Chrome is coming to more Asian-Pacific countries。根据谷歌官方博客最新公告，此次扩展覆盖澳大利亚、印度尼西亚、日本、菲律宾、新加坡、韩国和越南等亚太市场，自2026年4月20日起逐步向符合条件的用户开放。",
+    "资讯标题": "亚马逊创始人贝索斯旗下普罗米修斯AI实验室拟融资百亿美元",
+    "内容": "亚马逊创始人杰夫·贝索斯领导的Project Prometheus（普罗米修斯计划）正进行新一轮融资，计划以380亿美元估值吸纳约100亿美元资金。本轮融资吸引了摩根大通和贝莱德等机构参与，交易预计近期敲定。该实验室此前于2025年11月已筹得62亿美元启动资金。普罗米修斯计划的核心定位是将物理AI技术应用于制造业及航天领域，旨在通过技术输出与资本运作重塑工业自动化。实验室计划成立专门的控股公司，利用百亿美元规模资金对具备AI颠覆潜力的制造企业进行大规模收购，从而构建从太空数据中心到地面智能制造的完整生态链条。此次融资将使普罗米修斯成为全球资金储备最雄厚的早期AI初创企业之一，标志着贝索斯在物理AI领域的战略布局进入加速扩张期。",
     "发布日期": "2026-04-21",
-    "原文链接": "https://www.aibase.com/zh/news/27303",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/807046d73fe585cc507965b8107c745c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/807046d73fe585cc507965b8107c745c.jpg",
-    "配图仓库路径": "assets/news_images/807046d73fe585cc507965b8107c745c.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0421/6391236201605385618005776.png"
-  },
-  {
-    "资讯标题": "Adobe 推出 AI 代理产品，助力企业数字化转型",
-    "内容": "Adobe 推出 AI 代理产品，助力企业数字化转型AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 21, 20265近日，Adobe 公司在一场盛大的发布会上推出了一系列针对企业客户的人工智能（AI）代理产品，旨在提升数字营销和客户体验管理的效率。此次发布的核心产品名为 CX Enterprise，专注于通过 AI 技术改善企业在客户互动、销售及品牌忠诚度等关键领域的表现。Adobe 表示，这些 AI 代理产品可以帮助企业实现自动化，提高日常运营的效率。通过利用先进的 AI 技术，企业能够更好地理解客户需求，并及时做出响应，从而增强客户满意度和忠诚度。这对于希望在竞争激烈的市场中脱颖而出的企业来说，无疑是一个重要的工具。",
-    "发布日期": "2026-04-21",
-    "原文链接": "https://www.aibase.com/zh/news/27302",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b947ac5e91223bb3eb606c2aa8ca4bc1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b947ac5e91223bb3eb606c2aa8ca4bc1.jpg",
-    "配图仓库路径": "assets/news_images/b947ac5e91223bb3eb606c2aa8ca4bc1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811260933402293_9.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27308",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "配图仓库路径": "assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308091546512360_0.jpg"
   }
 ]
