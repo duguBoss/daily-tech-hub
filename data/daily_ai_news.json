@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里巴巴发布旗舰模型 Qwen3.6-Max-Preview，编程能力全面提升",
-    "内容": "阿里巴巴正式发布新一代旗舰模型 Qwen3.6-Max-Preview 预览版，目前已上线 QwenStudio 交互界面，并支持通过阿里云百炼 API 调用。该模型在智能体编程、世界知识及指令遵循能力上实现显著迭代。在六项核心编程基准测试中，Qwen3.6-Max-Preview 均取得最高分，包括 SWE-benchPro、Terminal-Bench2.0、SkillsBench、QwenClawBench、QwenWebBench 及 SciCode。具体性能指标显示，其在 SkillsBench 和 SciCode 上的分数分别提升 9.9 分与 10.8 分，NL2Repo 和 Terminal-Bench2.0 分别提升 5.0 分和 3.8 分。此外，该模型在 SuperGPQA 和 QwenC",
+    "资讯标题": "微软Fairwater AI数据中心提前上线，配备数十万块英伟达GB200芯片",
+    "内容": "微软总裁兼CEO纳德拉宣布，位于美国威斯康星州的Fairwater AI数据中心已提前投入使用。该项目总投资33亿美元，占地约127.6公顷，建筑面积达11.1万平方米。核心算力方面，该中心部署了数十万块英伟达GB200超级芯片，性能达到当前全球顶级超级计算机的十倍，旨在为前沿AI模型训练提供强力支撑。为应对高功耗与散热需求，设施配备了闭环液冷系统。在可持续发展层面，微软通过预付电网基础设施费用缓解电价压力，并配套建设250兆瓦太阳能发电厂。此次投产是微软全球布局的重要一环，未来公司计划在美国多地复制该模式，以满足日益增长的AI计算需求，进一步巩固其在AI基础设施领域的领先地位。",
     "发布日期": "2026-04-21",
-    "原文链接": "https://www.aibase.com/zh/news/27277",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/431c95b2a16943550550a59bbe74a44d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/431c95b2a16943550550a59bbe74a44d.jpg",
-    "配图仓库路径": "assets/news_images/431c95b2a16943550550a59bbe74a44d.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0420/6391229975367790521324762.png"
+    "原文链接": "https://www.aibase.com/zh/news/27294",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f908ca3869191c1e44572787ab962ccd.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f908ca3869191c1e44572787ab962ccd.jpg",
+    "配图仓库路径": "assets/news_images/f908ca3869191c1e44572787ab962ccd.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202304171730169988_2.jpg"
   },
   {
-    "资讯标题": "爱奇艺发布AI艺人库计划遭多位艺人否认授权",
-    "内容": "爱奇艺在2026世界大会上宣布推出“AI艺人库”计划，声称已通过自研“纳逗Pro”影视制作平台，利用超过100位艺人的多模态数据创建专属数字分身，旨在提供影视数字化表演解决方案。然而，张若昀、王楚然、于和伟等多位被列入名单的艺人迅速通过社交媒体公开否认签署过任何AI相关授权协议。艺人方强调，未经同意使用个人形象与表演数据涉嫌侵犯个人权益。此次事件引发了行业对AI技术在影视娱乐领域应用合规性的广泛质疑，凸显了在推动数字分身技术创新过程中，如何平衡技术落地与艺人肖像权、表演权保护已成为影视行业亟待解决的核心法律与伦理议题。",
+    "资讯标题": "华为发布 2499 元起 AI 眼镜，携手支付宝上线“看一下支付”功能",
+    "内容": "华为在 4 月 20 日的 Pura 系列新品发布会上正式推出新款 AI 眼镜，起售价 2499 元。该产品内置支付宝鸿蒙版应用，支持“看一下支付”功能。用户绑定账户并录入语音后，通过双击 AI 键或语音指令，即可识别商家收款码或连接“碰一下”设备，经确认后完成交易。该功能基于鸿蒙系统协同认证、蚂蚁 GPASS 智能终端可信连接技术及多维度风控系统构建，确保支付安全。支付宝承诺提供“被盗即赔”服务，保障用户权益。目前，该支付功能不仅兼容华为 AI 眼镜，还支持 Rokid、小米、千问及雷鸟创新等品牌的智能眼镜。此举标志着智能穿戴设备在移动支付场景的进一步渗透，通过语音与手势交互简化了支付流程，提升了用户在日常购物中的便捷性与安全性。",
     "发布日期": "2026-04-21",
-    "原文链接": "https://www.aibase.com/zh/news/27282",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ddda3d2fc202eb3dcd1d2eafb9fb937c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ddda3d2fc202eb3dcd1d2eafb9fb937c.jpg",
-    "配图仓库路径": "assets/news_images/ddda3d2fc202eb3dcd1d2eafb9fb937c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304241408146977_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27295",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/91dc94bd3ad9873c20994a8a2e218298.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/91dc94bd3ad9873c20994a8a2e218298.jpg",
+    "配图仓库路径": "assets/news_images/91dc94bd3ad9873c20994a8a2e218298.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0421/6391235971257092014725834.png"
   },
   {
-    "资讯标题": "微软全球最强AI数据中心Fairwater提前启用，搭载数十万块英伟达GB200芯片",
-    "内容": "微软位于美国威斯康辛州Mount Pleasant的Fairwater数据中心已正式提前上线，该项目总投资达33亿美元。作为微软目前全球最强的AI数据中心，Fairwater核心配置了数十万块英伟达GB200超级芯片，其计算性能达到全球最快超算的十倍，旨在为前沿LLM的训练提供大规模算力支撑。在基础设施建设上，该中心占地约127.6公顷，包含三栋建筑，并采用了闭环液冷系统以保障高密度计算下的散热效率。此外，项目施工规模庞大，使用了约1.2万吨结构钢材，并铺设了超193公里的中压地下电缆。微软官方表示，Fairwater的投运是其AI战略的重大进展，未来计划在美国其他地区复制该模式建设更多同类数据中心，以应对持续增长的AI计算需求，进一步巩固其在AI基础设施领域的领先地位。",
+    "资讯标题": "OpenAI 在 Codex 应用中推出 Chronicle 功能以实现项目上下文记忆",
+    "内容": "OpenAI 在 Codex 应用中正式推出 Chronicle 功能，旨在通过屏幕录制技术实时记录用户操作，构建上下文记忆库，从而避免重复说明工作内容。该功能在后台运行，将记录内容整理为 Markdown 文件并保存在本地，设定六小时后自动删除。目前，Chronicle 已面向 macOS 系统的 ChatGPT Pro 订阅用户开放可选预览版，但暂不支持欧盟、英国及瑞士地区。用户需在设置中手动开启“记忆”与“Chronicle”功能，并授予屏幕录制及辅助功能权限。OpenAI 提醒，该功能会加速消耗调用额度，且存在潜在安全风险：记忆内容以未加密形式存储，并可能面临提示词注入攻击。用户在使用时需权衡效率提升与数据安全隐患。",
     "发布日期": "2026-04-21",
-    "原文链接": "https://www.aibase.com/zh/news/27273",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/93eaeaa7ae90ee3c4f6fe460b583fd18.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/93eaeaa7ae90ee3c4f6fe460b583fd18.jpg",
-    "配图仓库路径": "assets/news_images/93eaeaa7ae90ee3c4f6fe460b583fd18.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305291510093384_11.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27293",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3cfb4420d7c45aaab4c8407eee63fb28.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3cfb4420d7c45aaab4c8407eee63fb28.jpg",
+    "配图仓库路径": "assets/news_images/3cfb4420d7c45aaab4c8407eee63fb28.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0421/6391235950253334203409646.png"
   },
   {
-    "资讯标题": "千问Qwen3.6-35B-A3B模型正式开源，采用MoE架构实现高效推理",
-    "内容": "4月19日，千问系列中等尺寸模型Qwen3.6-35B-A3B正式面向全球开源。该模型采用先进的混合专家（MoE）架构，总参数量为350亿，但在推理时仅需激活30亿参数，显著降低了算力成本。在Terminal-Bench 2.0及真实世界Agent能力评估中，其表现超越前代并可对标更大规模的稠密模型。该模型引入“多模态思考”模式，在RefCOCO等复杂图像识别测试中展现出色的空间智能分析能力。为加速技术落地，Qwen3.6-35B-A3B已实现与OpenClaw、Claude Code等主流Agent框架的深度兼容，支持开发者进行本地部署。目前，开发者可通过魔搭社区、Hugging Face及Qwen Studio下载体验，该模型有望成为构建长程复杂业务逻辑智能大脑的首选底座。",
+    "资讯标题": "Chrome 浏览器 Gemini 功能扩展至更多亚太地区国家",
+    "内容": "Chrome 浏览器 Gemini 功能扩展至更多亚太地区国家AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 21, 202616谷歌 Chrome 浏览器官方在 X 平台发文宣布，“Gemini in Chrome”功能正式扩展至更多亚太地区国家，为当地用户带来更智能的浏览体验。官方账号 @googlechrome 贴文称:“Heads up。Gemini in Chrome is coming to more Asian-Pacific countries。根据谷歌官方博客最新公告，此次扩展覆盖澳大利亚、印度尼西亚、日本、菲律宾、新加坡、韩国和越南等亚太市场，自2026年4月20日起逐步向符合条件的用户开放。",
     "发布日期": "2026-04-21",
-    "原文链接": "https://www.aibase.com/zh/news/27280",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a0856b36ce98c3b224c08ece60f8844f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a0856b36ce98c3b224c08ece60f8844f.jpg",
-    "配图仓库路径": "assets/news_images/a0856b36ce98c3b224c08ece60f8844f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202009271645446054_11.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27303",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/807046d73fe585cc507965b8107c745c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/807046d73fe585cc507965b8107c745c.jpg",
+    "配图仓库路径": "assets/news_images/807046d73fe585cc507965b8107c745c.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0421/6391236201605385618005776.png"
   },
   {
-    "资讯标题": "Moonshot AI与清华大学发布PrfaaS架构，实现大模型推理预填充与解码解耦",
-    "内容": "Moonshot AI与清华大学研究团队联合发布预填充即服务（PrfaaS）架构，通过将大模型推理过程中的计算密集型预填充（Prefill）与内存带宽密集型解码（Decode）阶段解耦，有效破解了算力瓶颈。该架构将预填充任务卸载至专用计算集群，利用以太网将生成的KVCache远程传输至本地解码集群，打破了物理空间限制。PrfaaS引入双时间尺度调度机制与精确路由，可根据实时流量灵活分配资源。实测数据显示，该架构使服务吞吐量提升54%，显著降低了响应延迟并提升了首字生成速度。通过分离计算、网络与存储子系统，PrfaaS实现了资源利用率最大化，为大规模AI推演及跨地域算力网络构建提供了新的工程化解决方案，助力大模型工业化应用。",
+    "资讯标题": "Adobe 推出 AI 代理产品，助力企业数字化转型",
+    "内容": "Adobe 推出 AI 代理产品，助力企业数字化转型AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 21, 20265近日，Adobe 公司在一场盛大的发布会上推出了一系列针对企业客户的人工智能（AI）代理产品，旨在提升数字营销和客户体验管理的效率。此次发布的核心产品名为 CX Enterprise，专注于通过 AI 技术改善企业在客户互动、销售及品牌忠诚度等关键领域的表现。Adobe 表示，这些 AI 代理产品可以帮助企业实现自动化，提高日常运营的效率。通过利用先进的 AI 技术，企业能够更好地理解客户需求，并及时做出响应，从而增强客户满意度和忠诚度。这对于希望在竞争激烈的市场中脱颖而出的企业来说，无疑是一个重要的工具。",
     "发布日期": "2026-04-21",
-    "原文链接": "https://www.aibase.com/zh/news/27270",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
-    "配图仓库路径": "assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405240907574564_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27302",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b947ac5e91223bb3eb606c2aa8ca4bc1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b947ac5e91223bb3eb606c2aa8ca4bc1.jpg",
+    "配图仓库路径": "assets/news_images/b947ac5e91223bb3eb606c2aa8ca4bc1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811260933402293_9.jpg"
   }
 ]
