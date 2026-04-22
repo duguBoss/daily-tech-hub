@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "美国国家安全局NSA获得Anthropic AI产品Mythos访问权限",
-    "内容": "美国国家安全局（NSA）已正式获得Anthropic旗下AI产品Mythos的访问权限，成为全球约40个获准使用该技术的组织之一。尽管五角大楼此前曾将Anthropic列为潜在的供应链安全风险，但NSA仍决定引入Mythos以强化网络防御能力。目前，NSA主要利用Mythos的AI分析能力来识别并修复其内部网络中的潜在漏洞。此举在行业内引发了关于技术应用伦理与国家安全平衡的讨论。虽然NSA旨在通过先进AI技术提升网络安全水平，但鉴于该机构在信息处理领域的特殊地位及Pentagon此前的安全预警，该合作仍受到外界高度关注。Mythos作为Anthropic的核心技术产品，其在敏感部门的部署标志着AI在国家级网络安全防御中的应用进一步深化。",
+    "资讯标题": "谷歌发布 Gemini 3.1 Pro 深度研究代理，支持 MCP 协议与多模态自主研究",
+    "内容": "谷歌正式推出基于 Gemini 3.1 Pro 架构的 Deep Research 与 Deep Research Max 自主研究代理，现已通过 Gemini API 付费层级开启公开预览。Deep Research 主打实时对话的高效反馈，Deep Research Max 则侧重于复杂任务的深度推理与异步后台处理。该系列代理首次引入模型上下文协议（MCP），支持接入专有数据库，并具备原生 HTML 图表生成能力。在功能层面，新增协作规划功能，支持 PDF、视音频等多模态输入，并允许开发者关闭网络访问以保障私有数据安全。谷歌表示，该系列代理后续将通过 Google Cloud 推向企业级市场。此次更新标志着 AI 代理从信息检索向具备自主规划能力的“长时计算”模式演进，旨在为专业分析领域提供深度研究支持。",
     "发布日期": "2026-04-22",
-    "原文链接": "https://www.aibase.com/zh/news/27322",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "配图仓库路径": "assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556165277_9.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27335",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c909bd930c5ebc7a674b2952e1bc3e0b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c909bd930c5ebc7a674b2952e1bc3e0b.jpg",
+    "配图仓库路径": "assets/news_images/c909bd930c5ebc7a674b2952e1bc3e0b.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0422/6391244628516981958342168.jpg"
   },
   {
-    "资讯标题": "月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破",
-    "内容": "月之暗面发布新模型K2.6：长程任务与智能体能力实现新突破AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 21, 20269在国内人工智能赛道竞争日趋激烈的背景下，代码生成与智能体（Agent）正成为各大厂商角逐的核心战场。4 月 20 日晚，头部AI创业公司月之暗面正式发布并开源了其最新模型Kimi K2.6。这款新模型不仅在基础性能上进行了大幅迭代，更在长程任务处理和Agent集群协同方面展现出极强的竞争力。根据官方提供的测试数据，Kimi K2. 6 在多项关键指标上表现惊人。",
+    "资讯标题": "腾讯云正式开源 CubeSandbox，打造 AI Agent 高性能安全执行环境",
+    "内容": "腾讯云今日宣布开源 CubeSandbox，这是业内首个实现硬件级隔离且启动速度达亚百毫秒级的 AI Agent 执行环境底座。该项目原生兼容 E2B 接口标准，支持开发者“零成本”迁移现有 Agent 应用，并能稳定支撑从基础应用到复杂 Agent 强化学习（RL）的完整循环。技术上，CubeSandbox 通过资源池化、快照克隆及底层锁优化，将冷启动时间压缩至 60 毫秒以内，50 并发下平均响应时间仅 67 毫秒。得益于 Rust 重写及 CoW 内存复用技术，单实例内存占用降至 5MB 以内，单台 96 核服务器可支持超 2000 个沙箱并发运行。该方案已在腾讯“元宝”AI 编程等生产场景验证，资源核时消耗降低 95.8%。CubeSandbox 的开源为开发者提供了更高效、经济且安全的执行环境，有助于",
     "发布日期": "2026-04-22",
-    "原文链接": "https://www.aibase.com/zh/news/27310",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/02c2c98afd7eaaffd7e36c3582c9ff80.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/02c2c98afd7eaaffd7e36c3582c9ff80.jpg",
-    "配图仓库路径": "assets/news_images/02c2c98afd7eaaffd7e36c3582c9ff80.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202201041728170737_8.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27339",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/89999964d31ec2297991af18239956e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/89999964d31ec2297991af18239956e4.jpg",
+    "配图仓库路径": "assets/news_images/89999964d31ec2297991af18239956e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005281122262370_78.jpg"
   },
   {
-    "资讯标题": "布林亲自下场！谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”",
-    "内容": "谷歌组建Gemini精英团队，AI编程赛道开启“贴身肉搏”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 21, 202636为了在AI编程领域缩短与Anthropic旗下Claude模型的差距，谷歌DeepMind近期重组力量，成立了一支由Sebastian Borgeaud领导的Gemini精英团队。这支团队的核心使命非常明确：攻克复杂且长周期的编程难题，全面提升AI在工程开发中的实战能力。作为谷歌的联合创始人，谢尔盖·布林对该项目表现出了极高的关注。他不仅亲自督战，还与DeepMind首席技术官共同参与了计划的制定。布林在内部强调，谷歌必须缩小与Anthropic在AI智能体（Agent）执行力方面的差距。",
+    "资讯标题": "特朗普公开称赞Anthropic公司，五角大楼黑名单禁令有望迎来反转",
+    "内容": "美国总统特朗普近日公开肯定Anthropic公司，称其正在“好转”并表达合作意愿，此前该公司曾因供应链风险及军用准则分歧被五角大楼列入黑名单。此次转机源于上周Anthropic首席执行官达里奥·阿莫代与白宫高层的闭门会晤，双方达成共识，未来合作将聚焦网络安全与AI安全领域。Anthropic研发的最先进AI模型Mythos在其中发挥关键作用，该模型具备极强的网络漏洞识别能力。为确保安全，Anthropic宣布Mythos不会全面开放，而是通过精英评估计划进行小范围测试，目前摩根大通等数十家大型机构已受邀参与。此次关系缓和标志着Anthropic有望重回美国国家安全体系，在平衡国家安全与技术领先地位方面扮演重要角色。",
     "发布日期": "2026-04-22",
-    "原文链接": "https://www.aibase.com/zh/news/27324",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3ab5fee05d3a5c9c09aa9954906e4498.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3ab5fee05d3a5c9c09aa9954906e4498.jpg",
-    "配图仓库路径": "assets/news_images/3ab5fee05d3a5c9c09aa9954906e4498.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308291638475569_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27336",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
   },
   {
-    "资讯标题": "亚马逊 50 亿美元加码Anthropic，千亿级“云端赌约”震撼AI圈",
-    "内容": "亚马逊 50 亿美元加码Anthropic，千亿级“云端赌约”震撼AI圈AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 21, 202624人工智能赛道的巨头军备竞赛再度升级。亚马逊近日宣布向AI初创公司Anthropic追加 5 亿美元投资，使其总投资额达到 130 亿美元。作为此次深度合作的回报，Anthropic承诺在未来十年内向亚马逊云服务投入超过 1000 亿美元。这笔巨额资金将用于获取高达 5 吉瓦的新计算能力，支持其核心模型Claude的开发。硬件层面的深度绑定 值得注意的是，这项协议的核心在于亚马逊自主研发的定制芯片。Anthropic计划利用这些芯片来训练和运行其庞大的AI系统。",
+    "资讯标题": "特斯拉车机语音大模型在沪完成生成式人工智能服务备案",
+    "内容": "特斯拉（上海）有限公司的车机语音大模型服务已于4月20日正式完成生成式人工智能服务备案。此次备案标志着特斯拉智能座舱的语音交互系统将接入生成式AI能力，实现从基础指令响应向深度自然语言理解的跨越。此前，特斯拉的xBot客户服务已于去年11月完成备案，主要用于解答用户疑问及多轮对话。此次车机端模型的落地，意味着AI技术从App端延伸至车辆物理空间的交互核心，通过深度理解用户自然语言，提供更具逻辑性和情感温度的反馈。对于国内特斯拉车主而言，这意味着座舱交互体验将迎来显著升级，语音操控将更加智能、自然，进一步提升车辆的本土化智能化水平。",
     "发布日期": "2026-04-22",
-    "原文链接": "https://www.aibase.com/zh/news/27311",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3b76c8a8fbcbebd21238189a57d7b1fb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3b76c8a8fbcbebd21238189a57d7b1fb.jpg",
-    "配图仓库路径": "assets/news_images/3b76c8a8fbcbebd21238189a57d7b1fb.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202505261721030093_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27340",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/051c994d037fc0f98e702cc138e3f710.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/051c994d037fc0f98e702cc138e3f710.jpg",
+    "配图仓库路径": "assets/news_images/051c994d037fc0f98e702cc138e3f710.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309011514237175_2.jpg"
   },
   {
-    "资讯标题": "GitHub正式停止接受Copilot个人订阅并引入严格代币限额",
-    "内容": "GitHub因AI代理驱动的工作流导致计算资源压力过大，正式宣布停止接受新的Copilot个人订阅。产品副总裁Joe Binder表示，自主执行复杂任务的AI代理消耗了远超预期的计算资源，为保障现有用户服务稳定性，官方不得不采取限制措施。目前，GitHub已引入更严格的会话限制和每周代币限额，开发者达到消耗峰值后需等待窗口重置。此外，GitHub正计划废弃固定费率模式，转型为基于代币消耗的计费方式，部分高端模型已被移出订阅范围或调高计费倍率。此次调整反映了当前云服务提供商在面对高并发AI计算需求时普遍面临的容量瓶颈与成本压力，行业正从固定订阅向精细化算力计费转型。",
+    "资讯标题": "全国高校首个纪检监察大模型“清鉴”正式发布",
+    "内容": "全国高校首个纪检监察大模型“清鉴”正式发布AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 22, 202617在数字化转型的浪潮下，纪检监察工作也迎来了“智慧大脑”。4 月 21 日，由东南大学研发的全国高校首个纪检监察垂直领域大模型——“清鉴”正式亮相。这一成果标志着前沿人工智能技术与国家重大战略需求的深度融合，为纪检监察工作的专业化与智能化转型提供了强有力的技术支撑。“文工交叉”催生智慧利器“清鉴”模型并非单一领域的产物，而是深度跨学科协作的结晶。它由东南大学纪检监察研究院、法学院，联合新一代人工智能技术与交叉应用教育部重点实验室、未来法治与数智技术创新实验室共同开发。这种“文工交叉”的研究模式，确保了模型既具备深厚的法学底蕴，又能精准运用最先进的AI算法。",
     "发布日期": "2026-04-22",
-    "原文链接": "https://www.aibase.com/zh/news/27319",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "配图仓库路径": "assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202602270950033335_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27337",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b1c1ee8fba1b0df79310491b3333da9b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b1c1ee8fba1b0df79310491b3333da9b.jpg",
+    "配图仓库路径": "assets/news_images/b1c1ee8fba1b0df79310491b3333da9b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743122232_2.jpg"
   }
 ]
