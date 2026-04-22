@@ -1,52 +1,42 @@
 [
   {
-    "资讯标题": "萤石发布首款智能大模型主机EZVIZ AI Core X，内置64Tops端侧算力",
-    "内容": "4月22日，萤石正式发布首款智能大模型主机EZVIZ AI Core X，旨在通过本地化算力重塑家庭智能设备协同。该主机内置64Tops端侧算力，配备24GB内存与128GB闪存，支持在本地高效处理复杂AI任务。核心软件方面，该产品搭载萤石蓝海大模型2.0及本地智能体Home Vita，支持自然语言交互与操作记忆功能。在兼容性上，除支持萤石全系设备外，该主机还兼容Matter协议，实现对第三方智能硬件的统一纳管。安全性方面，AI Core X支持家庭数据本地化存储与分区管理，并具备AI语义化处理能力，可将监控告警聚合成事件简报，支持口语化检索录像与图片。目前该产品已正式亮相，具体售价暂未公布，为家庭用户提供了兼顾隐私安全与极致智能体验的本地化底座方案。",
-    "发布日期": "2026-04-22",
-    "原文链接": "https://www.aibase.com/zh/news/27348",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2833cee7255815769e1eb17e17594f04.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2833cee7255815769e1eb17e17594f04.jpg",
-    "配图仓库路径": "assets/news_images/2833cee7255815769e1eb17e17594f04.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0422/6391245321055343434284383.png"
+    "资讯标题": "OpenAI开源发布Euphony可视化工具，支持Harmony数据与Codex日志分析",
+    "内容": "OpenAI正式推出开源浏览器可视化工具Euphony，旨在解决AI代理开发中复杂的调试难题。该工具可将结构化的Harmony聊天数据及Codex会话日志转化为直观的对话时间线视图。Euphony核心由Web组件库及独立Web应用构成，支持通过粘贴JSON、本地文件或公共URL加载数据，并具备元数据检查面板、基于JMESPath的过滤功能、焦点模式及网格视图。在运行模式上，Euphony提供仅前端模式（无需服务器）及后端辅助模式（利用FastAPI处理大型数据集）。此外，Euphony以可重用Web组件形式提供，支持嵌入各类前端框架，并允许开发者通过CSS自定义样式。该工具通过可视化手段显著提升了开发者分析AI代理多步骤执行过程的效率，为处理带有额外字段的注释数据集提供了便捷的交互界面。",
+    "发布日期": "2026-04-23",
+    "原文链接": "https://www.aibase.com/zh/news/27365",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7e276c1b5cb2f7a4971463d9e73f7a61.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7e276c1b5cb2f7a4971463d9e73f7a61.jpg",
+    "配图仓库路径": "assets/news_images/7e276c1b5cb2f7a4971463d9e73f7a61.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0422/6391247042438002341059062.png"
   },
   {
-    "资讯标题": "腾讯云正式开源 AI Agent 执行环境底座 CubeSandbox",
-    "内容": "腾讯云今日正式开源专为 AI Agent 设计的执行环境底座 CubeSandbox。该项目是业内首个实现硬件级隔离且启动速度达亚百毫秒级的开源沙箱。CubeSandbox 原生支持 E2B 接口标准，开发者可实现现有 Agent 应用的“零成本”迁移。技术上，通过资源池化、快照克隆及底层锁优化，其冷启动时间缩短至 60 毫秒以内，50 并发下平均响应时间仅 67 毫秒。在资源控制方面，利用 Rust 重写、CoW 内存复用及 reflink 磁盘共享技术，将单实例内存开销降至 5MB 以内，单台 96 核服务器可支持超 2000 个沙箱并发运行。该方案已在腾讯“元宝”AI 编程等生产场景中验证，资源核时消耗降低 95.8%。CubeSandbox 具备硬件级隔离与精细化网络权限配置，支持从基础应用到复杂 Ag",
-    "发布日期": "2026-04-22",
-    "原文链接": "https://www.aibase.com/zh/news/27339",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/89999964d31ec2297991af18239956e4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/89999964d31ec2297991af18239956e4.jpg",
-    "配图仓库路径": "assets/news_images/89999964d31ec2297991af18239956e4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005281122262370_78.jpg"
+    "资讯标题": "Google 发布 Gemini 3.1 Pro 深度研究智能体 Deep Research 与 Max 版本",
+    "内容": "Google 基于 Gemini 3.1 Pro 模型正式推出 Deep Research 与 Deep Research Max 两款自主调研智能体，现已通过付费版 Gemini API 向全球开发者开放预览。标准版 Deep Research 侧重低延迟交互，Max 版本则通过扩展测试时计算能力，支持多次迭代推理与异步深度调研。该系统引入模型上下文协议（MCP），支持连接企业私有数据库，打破数据孤岛，实现公网信息与私有知识的融合。此外，智能体具备原生数据可视化能力，可根据调研结果自动生成专业图表。用户在调研前可与 AI 共同制定搜索计划，确保任务执行的精准度。此次更新标志着 AI 助手从简单的问答交互转向复杂的长程任务执行，旨在通过自动化工作流替代高强度资料搜集与分析，显著降低专业情报分析的门槛。",
+    "发布日期": "2026-04-23",
+    "原文链接": "https://www.aibase.com/zh/news/27358",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5acca088b25216e0f7c9ce59b2206a78.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5acca088b25216e0f7c9ce59b2206a78.jpg",
+    "配图仓库路径": "assets/news_images/5acca088b25216e0f7c9ce59b2206a78.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0422/6391246643380530923269618.png"
   },
   {
-    "资讯标题": "特斯拉车机语音大模型在沪完成生成式人工智能服务备案",
-    "内容": "特斯拉（上海）有限公司的车机语音大模型服务已于4月20日正式完成生成式人工智能服务备案。此次备案标志着特斯拉智能座舱的本土化进化迈出关键一步，AI技术应用场景从手机App端的xBot客服正式延伸至车辆物理空间的交互核心。通过接入更强大的生成式AI能力，特斯拉车机系统将具备更深度的自然语言理解能力，能够提供更具逻辑性和情感温度的交互反馈。此前，特斯拉的xBot客户服务已于去年11月成为国内首批获批上线的外企大模型产品。此次车机端模型的备案，预示着国内特斯拉车主即将获得更智能、自然的语音操控体验，推动智能座舱交互从指令式向对话式升级，进一步提升车辆的智能化水平。",
-    "发布日期": "2026-04-22",
-    "原文链接": "https://www.aibase.com/zh/news/27340",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/051c994d037fc0f98e702cc138e3f710.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/051c994d037fc0f98e702cc138e3f710.jpg",
-    "配图仓库路径": "assets/news_images/051c994d037fc0f98e702cc138e3f710.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309011514237175_2.jpg"
+    "资讯标题": "GPT-5.5 意外现身，OpenAI 智能体时代提前降临？",
+    "内容": "GPT-5.5 意外现身，OpenAI 智能体时代提前降临。AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 22, 202623OpenAI 再次站在了科技舆论的风口浪尖。就在官方发布 ChatGPT Images2.0生图工具的同一天，一个名为“GPT-5.5”的神秘型号在开发环境中意外“露面”，瞬间引发了开发者社区的剧烈震动。终端界面的意外“泄露”据多位开发者反馈，在 Codex CLI 终端界面进行日常操作时，系统模型列表中竟赫然出现了 GPT-5.5的身影。社交平台 Reddit 的用户 DavidAGMM 随后发布视频证实了这一发现:在内部测试环境疑似误被部署到生产环境的过程中，一系列从未公开的 AI 模型集体“走光”。",
+    "发布日期": "2026-04-23",
+    "原文链接": "https://www.aibase.com/zh/news/27361",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "配图仓库路径": "assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
   },
   {
-    "资讯标题": "Z 世代 AI 态度大转弯：警惕感上升，兴奋度骤降",
-    "内容": "Z 世代 AI 态度大转弯：警惕感上升，兴奋度骤降AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 22, 20266一项针对 Z 世代的最新民调显示，年轻人对人工智能的态度正变得前所未有的复杂。尽管大多数受访者承认 AI 将在未来的教育和职业中占据核心地位，但他们对这项技术的抵触情绪正在显著增加。数据显示，自2025年以来，Z 世代对 AI 的兴奋度下降了14%。与此同时，对这些工具表示“愤怒”的情绪比例却在攀升，反映出年轻群体对技术失控的深层忧虑。职场与校园双重焦虑，风险感知超过收益 在职场领域，这种不确定感尤为强烈。约有48% 的在职 Z 世代认为，AI 进入职场所带来的风险已经超过了其带来的便利。",
-    "发布日期": "2026-04-22",
-    "原文链接": "https://www.aibase.com/zh/news/27351",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5dec9d2fb0b792e31779d83066d81c11.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5dec9d2fb0b792e31779d83066d81c11.jpg",
-    "配图仓库路径": "assets/news_images/5dec9d2fb0b792e31779d83066d81c11.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305291455506476_1.jpg"
-  },
-  {
-    "资讯标题": "Google 发布 Deep Research 与 Max 智能体，支持 MCP 协议实现深度调研自动化",
-    "内容": "Google 正式发布基于 Gemini 3.1 Pro 模型的 Deep Research 和 Deep Research Max 自主调研智能体，现已通过付费版 Gemini API 向开发者开放预览。Deep Research 侧重低延迟响应，Max 版本则通过更长的计算时间进行深度逻辑推理，支持异步处理复杂尽职调查并生成结构化报告。该系统核心亮点在于支持 MCP（模型上下文协议），允许智能体连接企业私有数据库及专业行业数据源，实现从搜索引擎向垂直领域数字员工的跨越。此外，该智能体具备原生图表生成能力，并支持用户在调研前协同制定搜索计划。此次发布标志着 AI 助手从简单问答转向复杂任务执行，通过自动化工作流大幅降低专业调研门槛，提升金融、市场等领域的数据分析效率。",
-    "发布日期": "2026-04-22",
-    "原文链接": "https://www.aibase.com/zh/news/27347",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/de7d73ac2271f2765eb8ad7aaba701a8.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/de7d73ac2271f2765eb8ad7aaba701a8.jpg",
-    "配图仓库路径": "assets/news_images/de7d73ac2271f2765eb8ad7aaba701a8.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0422/6391245307466597164720039.png"
+    "资讯标题": "DeepSeek API 实现百万 Token 上下文升级",
+    "内容": "DeepSeek API 实现百万 Token 上下文升级AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 22, 202671DeepSeek 官方宣布其 API 已成功更新至与其 App 和网页版相同的百万 Token 上下文版本，这标志着技术的一次重要飞跃。此前，DeepSeek 的上下文容量仅为128k tokens，而此次更新后，用户能够享受到更长的上下文信息，极大地提升了对话的连贯性和信息的丰富性。与此同时，DeepSeek 的知识库也进行了全面的更新，现在已更新至2025年5月，这意味着用户在非联网状态下也能准确获取到2025年4月的最新新闻。这一进展不仅体现了 DeepSeek 在信息更新和处理能力上的增强，也展示了其为用户提供更优质服务的决心。",
+    "发布日期": "2026-04-23",
+    "原文链接": "https://www.aibase.com/zh/news/27370",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3f4f345fb66e0ec8d6f69fe149474287.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3f4f345fb66e0ec8d6f69fe149474287.jpg",
+    "配图仓库路径": "assets/news_images/3f4f345fb66e0ec8d6f69fe149474287.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558215737_4.jpg"
   }
 ]
