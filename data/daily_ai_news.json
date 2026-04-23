@@ -1,7 +1,17 @@
 [
   {
-    "资讯标题": "阿里通义千问再次“掀桌子”：Qwen3.6-27B正式开源，编程实力上演“以小博大”",
-    "内容": "阿里通义千问再次“掀桌子”：Qwen3.6-27B正式开源，编程实力上演“以小博大”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 23, 2026514月22日，阿里云通义千问团队宣布其开源家族迎来重磅更新，正式发布270亿参数的稠密多模态模型——Qwen3.6-27B。作为开发者群体呼声最高的模型规格，该版本的出现不仅完善了Qwen系列的产品矩阵，更在保持稠密架构优势的基础上，针对智能体编程与多模态推理进行了深度进化。性能飞跃:编程能力超越15倍规模的MoE模型在本次发布中，最令业界关注的是其“以小博大”的惊人表现。尽管只有270亿参数，Qwen3.6-27B在多项编程基准测试中，全面超越了前代总参数量高达3970亿的Qwen3.5-397B-A17B。",
+    "资讯标题": "阿里腾讯竞投DeepSeek估值冲刺200亿美元，DeepSeek v4与混元3.0发布在即",
+    "内容": "阿里巴巴与腾讯正寻求参与国产大模型厂商DeepSeek的新一轮融资，受此大厂竞逐驱动，DeepSeek估值目标已从此前传闻的100亿美元飙升至超过200亿美元。产品层面，DeepSeek预计于本月内发布新一代模型DeepSeek v4，核心升级在于引入多模态处理能力。与此同时，腾讯自研模型混元（Hunyuan）3.0预计于本周发布，该版本由前OpenAI核心研究员姚顺雨主导，可能采取约30B参数级别的轻量化设计，旨在降低部署成本与推理延迟。当前国产大模型竞争已从参数规模竞赛转向多模态能力与端侧落地潜力的全方位角逐。DeepSeek与腾讯混元在技术路径上的差异化布局，正推动国内AI产业投融资格局与技术标准的重塑，资本正向具备核心算法优势的团队高度集中。",
+    "发布日期": "2026-04-23",
+    "原文链接": "https://www.aibase.com/zh/news/27388",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/55cd20e5e281fb1010cbbda20e45f998.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/55cd20e5e281fb1010cbbda20e45f998.jpg",
+    "配图仓库路径": "assets/news_images/55cd20e5e281fb1010cbbda20e45f998.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202502051558211433_3.jpg"
+  },
+  {
+    "资讯标题": "阿里云发布开源模型Qwen3.6-27B，编程能力超越397B参数模型",
+    "内容": "阿里云通义千问团队正式开源270亿参数稠密多模态模型Qwen3.6-27B。该模型在保持稠密架构的基础上，针对智能体编程与多模态推理进行深度优化。性能方面，Qwen3.6-27B在SWE-bench Verified代码修复测试中取得77.2分，编程能力全面超越参数量达3970亿的前代模型Qwen3.5-397B-A17B，显著降低了旗舰级编程辅助的部署门槛。在多模态领域，该模型原生支持图像、视频与文本混合输入，视觉推理能力与Qwen3.6-35B-A3B持平。目前，模型权重已上线Hugging Face与ModelScope社区，支持本地化部署。阿里云百炼平台将提供API调用服务，并保留“preserve_thinking”功能以回溯思维链。此外，该模型已实现对Claude Code、Qwen Code等主流",
     "发布日期": "2026-04-23",
     "原文链接": "https://www.aibase.com/zh/news/27378",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e0d1b9e6fc336b05a523f60f879d67f1.jpg",
@@ -11,7 +21,7 @@
   },
   {
     "资讯标题": "谷歌确认Gemini赋能新版Siri，苹果情境感知功能定档2026年发布",
-    "内容": "在Google Cloud Next26大会上，谷歌正式确认苹果已选定其为首选云服务提供商，双方正基于Gemini模型共同开发下一代Apple Foundation机型，具备情境感知能力的全新Siri定档2026年发布。此次合作旨在将Gemini的多模态处理能力与苹果私有云计算架构结合，解决Siri在复杂指令遵循和跨应用意图识别上的短板。苹果通过每年约10亿美元的投入，将Gemini大模型能力提炼至端侧可控版本，在保障隐私前提下提升设备交互上限。此举标志着苹果正式从自研单一路径转向“自研+顶级外援”的双轨战略。行业分析认为，此次迭代是AI Agent步入生产力的信号，预示智能终端市场将从“指令交互”向“意图理解”范式转移，谷歌在模型底层架构的领先地位进一步巩固。",
+    "内容": "在Google Cloud Next26大会上，谷歌正式确认苹果已选定其为首选云服务提供商，双方正基于Gemini模型共同开发下一代Apple Foundation机型，具备情境感知能力的全新Siri定档2026年发布。此次合作旨在将Gemini的多模态处理能力与苹果私有云计算架构结合，解决Siri在复杂指令遵循及跨应用意图识别上的短板。苹果通过每年约10亿美元投入，将Gemini大模型能力提炼至端侧可控版本，在保障隐私前提下提升iPhone及iPad的交互上限。此举标志着苹果从自研单一路径转向“自研+顶级外援”的双轨战略。行业分析认为，Siri的此次迭代预示着AI Agent步入生产力阶段，全球智能终端市场将迎来从“指令交互”向“意图理解”的范式转移，谷歌在模型底层架构的竞争优势进一步巩固。",
     "发布日期": "2026-04-23",
     "原文链接": "https://www.aibase.com/zh/news/27379",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a7316f68774f6e6fc7d9df69c8d0893f.jpg",
@@ -20,8 +30,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202401041541017510_1.jpg"
   },
   {
-    "资讯标题": "谷歌发布第八代TPU与Gemini企业代理平台，重新定义“代理企业”基础设施",
-    "内容": "谷歌发布第八代TPU与Gemini企业代理平台，重新定义“代理企业”基础设施AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 23, 202622在Cloud Next '26大会上，谷歌正式发布了一系列旨在构建“代理企业（The Agentic Enterprise）”的核心基础设施。此次更新涵盖了从底层算力到顶层协同应用的全面架构重塑，标志着 AI 竞争已进入以自主智能体(Agent)为核心的生产力时代。底层算力:TPU 架构的“拆分”与“规模”革命 谷歌首次将第八代张量处理单元（TPU）拆分为两个专用版本:用于模型训练的 TPU8t 和针对推理优化的 TPU8i。规模效应: 谷歌放弃追逐单芯片峰值性能，转而押注集群规模。",
+    "资讯标题": "谷歌发布第八代TPU与Gemini企业代理平台，构建自主智能体基础设施",
+    "内容": "在Cloud Next '26大会上，谷歌正式发布第八代TPU及Gemini企业代理平台，旨在构建“代理企业”核心基础设施。底层算力方面，TPU v8被拆分为训练版TPU8t与推理版TPU8i，通过Virgo网络可支持百万级TPU集群互联，TPU8i通过增大片上SRAM及Boardfly拓扑结构显著降低推理延迟。软件层面，基于Vertex AI的Gemini企业代理平台引入Agent Studio，支持多步骤流程执行与长期记忆，并配套加密身份验证及异常检测等安全工具。此外，新增的Workspace Intelligence层打通Gmail、Docs及Drive，使Gemini 3.1 Pro及Claude Opus 4.7等模型能跨应用处理复杂任务。此次更新标志着谷歌将AI重心从聊天助手转向自主智能体，通过软硬",
     "发布日期": "2026-04-23",
     "原文链接": "https://www.aibase.com/zh/news/27385",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a2d13c6841a624df8b396426a2099a65.jpg",
@@ -30,18 +40,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0423/6391253477314315573506622.jpg"
   },
   {
-    "资讯标题": "小米 MiMo-V2.5震撼公测:4.3小时手搓编译器，长程智能体迎“满分”跨越",
-    "内容": "小米 MiMo-V2.5震撼公测:4.3小时手搓编译器，长程智能体迎“满分”跨越AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 23, 202629今日，小米正式宣布其 Xiaomi MiMo-V2.5系列大模型开启公测。该系列包含 MiMo-V2.5、V2.5-Pro 以及配套的 TTS 与 ASR 模型，标志着小米大模型从“能用”向“好用”的全面进化。一、 性能旗舰:MiMo-V2.5-Pro 挑战复杂长程任务作为该系列最强型号，MiMo-V2.5-Pro 在通用智能体能力与软件工程维度已能与 Claude Opus4.6及 GPT-5.4等全球顶尖模型正面角力。",
-    "发布日期": "2026-04-23",
-    "原文链接": "https://www.aibase.com/zh/news/27376",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3429306f0af1d51ccb10680002811d09.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3429306f0af1d51ccb10680002811d09.jpg",
-    "配图仓库路径": "assets/news_images/3429306f0af1d51ccb10680002811d09.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0423/6391253105577635525835532.jpg"
-  },
-  {
     "资讯标题": "OpenAI 在 ChatGPT 中推出 Workspace Agents 团队协作智能体",
-    "内容": "OpenAI 于 4 月 23 日发布 Workspace Agents，旨在通过 ChatGPT 平台支持团队构建协作智能体，处理复杂任务与长周期工作流。该功能由 Codex 提供底层支持，具备文件处理、代码运行、工具调用及记忆存储能力，支持全天候云端运行。Workspace Agents 能够执行多步骤操作，并支持定时调度与 Slack 集成，适用于软件审查、销售线索筛选及财务结账等场景。通过将隐性知识转化为显性工作流，智能体可随交互反馈持续优化。目前，该功能已面向 ChatGPT Business、Enterprise、Edu 及 Teachers 计划用户开放研究预览，在 2026 年 5 月 6 日前可免费使用，后续将转为积分计费模式。OpenAI 计划后续增加自动触发器与性能分析仪表盘，以进一步降低",
+    "内容": "OpenAI 于 4 月 23 日发布 Workspace Agents，旨在通过 ChatGPT 平台支持团队构建协作智能体，处理复杂任务与长周期工作流。该功能由 Codex 提供底层支持，具备文件处理、代码运行、工具调用及记忆存储能力，支持全天候云端运行。Workspace Agents 能够执行多步骤操作，并支持定时调度与 Slack 集成，适用于自动回答问题、提交工单及整合销售线索等场景。OpenAI 内部已部署软件审查员、周度指标报告员等 5 种应用实例，通过将隐性知识转化为显性工作流，提升团队协作效率。目前，该功能已面向 ChatGPT Business、Enterprise、Edu 及 Teachers 计划用户开放研究预览，在 2026 年 5 月 6 日前可免费使用，此后将转为积分计费模式。未",
     "发布日期": "2026-04-23",
     "原文链接": "https://www.ithome.com/0/942/362.htm",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e189c960baf28424a890510b7398c525.jpg",
