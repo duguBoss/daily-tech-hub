@@ -1,42 +1,52 @@
 [
   {
-    "资讯标题": "OpenAI开源发布Euphony可视化工具，支持Harmony数据与Codex日志分析",
-    "内容": "OpenAI正式推出开源浏览器可视化工具Euphony，旨在解决AI代理开发中复杂的调试难题。该工具可将结构化的Harmony聊天数据及Codex会话日志转化为直观的对话时间线视图。Euphony核心由Web组件库及独立Web应用构成，支持通过粘贴JSON、本地文件或公共URL加载数据，并具备元数据检查面板、基于JMESPath的过滤功能、焦点模式及网格视图。在运行模式上，Euphony提供仅前端模式（无需服务器）及后端辅助模式（利用FastAPI处理大型数据集）。此外，Euphony以可重用Web组件形式提供，支持嵌入各类前端框架，并允许开发者通过CSS自定义样式。该工具通过可视化手段显著提升了开发者分析AI代理多步骤执行过程的效率，为处理带有额外字段的注释数据集提供了便捷的交互界面。",
+    "资讯标题": "阿里通义千问再次“掀桌子”：Qwen3.6-27B正式开源，编程实力上演“以小博大”",
+    "内容": "阿里通义千问再次“掀桌子”：Qwen3.6-27B正式开源，编程实力上演“以小博大”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 23, 2026514月22日，阿里云通义千问团队宣布其开源家族迎来重磅更新，正式发布270亿参数的稠密多模态模型——Qwen3.6-27B。作为开发者群体呼声最高的模型规格，该版本的出现不仅完善了Qwen系列的产品矩阵，更在保持稠密架构优势的基础上，针对智能体编程与多模态推理进行了深度进化。性能飞跃:编程能力超越15倍规模的MoE模型在本次发布中，最令业界关注的是其“以小博大”的惊人表现。尽管只有270亿参数，Qwen3.6-27B在多项编程基准测试中，全面超越了前代总参数量高达3970亿的Qwen3.5-397B-A17B。",
     "发布日期": "2026-04-23",
-    "原文链接": "https://www.aibase.com/zh/news/27365",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7e276c1b5cb2f7a4971463d9e73f7a61.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7e276c1b5cb2f7a4971463d9e73f7a61.jpg",
-    "配图仓库路径": "assets/news_images/7e276c1b5cb2f7a4971463d9e73f7a61.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0422/6391247042438002341059062.png"
+    "原文链接": "https://www.aibase.com/zh/news/27378",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e0d1b9e6fc336b05a523f60f879d67f1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e0d1b9e6fc336b05a523f60f879d67f1.jpg",
+    "配图仓库路径": "assets/news_images/e0d1b9e6fc336b05a523f60f879d67f1.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0423/6391253153781944352925195.png"
   },
   {
-    "资讯标题": "Google 发布 Gemini 3.1 Pro 深度研究智能体 Deep Research 与 Max 版本",
-    "内容": "Google 基于 Gemini 3.1 Pro 模型正式推出 Deep Research 与 Deep Research Max 两款自主调研智能体，现已通过付费版 Gemini API 向全球开发者开放预览。标准版 Deep Research 侧重低延迟交互，Max 版本则通过扩展测试时计算能力，支持多次迭代推理与异步深度调研。该系统引入模型上下文协议（MCP），支持连接企业私有数据库，打破数据孤岛，实现公网信息与私有知识的融合。此外，智能体具备原生数据可视化能力，可根据调研结果自动生成专业图表。用户在调研前可与 AI 共同制定搜索计划，确保任务执行的精准度。此次更新标志着 AI 助手从简单的问答交互转向复杂的长程任务执行，旨在通过自动化工作流替代高强度资料搜集与分析，显著降低专业情报分析的门槛。",
+    "资讯标题": "谷歌确认Gemini赋能新版Siri，苹果情境感知功能定档2026年发布",
+    "内容": "在Google Cloud Next26大会上，谷歌正式确认苹果已选定其为首选云服务提供商，双方正基于Gemini模型共同开发下一代Apple Foundation机型，具备情境感知能力的全新Siri定档2026年发布。此次合作旨在将Gemini的多模态处理能力与苹果私有云计算架构结合，解决Siri在复杂指令遵循和跨应用意图识别上的短板。苹果通过每年约10亿美元的投入，将Gemini大模型能力提炼至端侧可控版本，在保障隐私前提下提升设备交互上限。此举标志着苹果正式从自研单一路径转向“自研+顶级外援”的双轨战略。行业分析认为，此次迭代是AI Agent步入生产力的信号，预示智能终端市场将从“指令交互”向“意图理解”范式转移，谷歌在模型底层架构的领先地位进一步巩固。",
     "发布日期": "2026-04-23",
-    "原文链接": "https://www.aibase.com/zh/news/27358",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5acca088b25216e0f7c9ce59b2206a78.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5acca088b25216e0f7c9ce59b2206a78.jpg",
-    "配图仓库路径": "assets/news_images/5acca088b25216e0f7c9ce59b2206a78.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0422/6391246643380530923269618.png"
+    "原文链接": "https://www.aibase.com/zh/news/27379",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a7316f68774f6e6fc7d9df69c8d0893f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a7316f68774f6e6fc7d9df69c8d0893f.jpg",
+    "配图仓库路径": "assets/news_images/a7316f68774f6e6fc7d9df69c8d0893f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202401041541017510_1.jpg"
   },
   {
-    "资讯标题": "GPT-5.5 意外现身，OpenAI 智能体时代提前降临？",
-    "内容": "GPT-5.5 意外现身，OpenAI 智能体时代提前降临。AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 22, 202623OpenAI 再次站在了科技舆论的风口浪尖。就在官方发布 ChatGPT Images2.0生图工具的同一天，一个名为“GPT-5.5”的神秘型号在开发环境中意外“露面”，瞬间引发了开发者社区的剧烈震动。终端界面的意外“泄露”据多位开发者反馈，在 Codex CLI 终端界面进行日常操作时，系统模型列表中竟赫然出现了 GPT-5.5的身影。社交平台 Reddit 的用户 DavidAGMM 随后发布视频证实了这一发现:在内部测试环境疑似误被部署到生产环境的过程中，一系列从未公开的 AI 模型集体“走光”。",
+    "资讯标题": "谷歌发布第八代TPU与Gemini企业代理平台，重新定义“代理企业”基础设施",
+    "内容": "谷歌发布第八代TPU与Gemini企业代理平台，重新定义“代理企业”基础设施AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 23, 202622在Cloud Next '26大会上，谷歌正式发布了一系列旨在构建“代理企业（The Agentic Enterprise）”的核心基础设施。此次更新涵盖了从底层算力到顶层协同应用的全面架构重塑，标志着 AI 竞争已进入以自主智能体(Agent)为核心的生产力时代。底层算力:TPU 架构的“拆分”与“规模”革命 谷歌首次将第八代张量处理单元（TPU）拆分为两个专用版本:用于模型训练的 TPU8t 和针对推理优化的 TPU8i。规模效应: 谷歌放弃追逐单芯片峰值性能，转而押注集群规模。",
     "发布日期": "2026-04-23",
-    "原文链接": "https://www.aibase.com/zh/news/27361",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图仓库路径": "assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27385",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a2d13c6841a624df8b396426a2099a65.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a2d13c6841a624df8b396426a2099a65.jpg",
+    "配图仓库路径": "assets/news_images/a2d13c6841a624df8b396426a2099a65.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0423/6391253477314315573506622.jpg"
   },
   {
-    "资讯标题": "DeepSeek API 实现百万 Token 上下文升级",
-    "内容": "DeepSeek API 实现百万 Token 上下文升级AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 22, 202671DeepSeek 官方宣布其 API 已成功更新至与其 App 和网页版相同的百万 Token 上下文版本，这标志着技术的一次重要飞跃。此前，DeepSeek 的上下文容量仅为128k tokens，而此次更新后，用户能够享受到更长的上下文信息，极大地提升了对话的连贯性和信息的丰富性。与此同时，DeepSeek 的知识库也进行了全面的更新，现在已更新至2025年5月，这意味着用户在非联网状态下也能准确获取到2025年4月的最新新闻。这一进展不仅体现了 DeepSeek 在信息更新和处理能力上的增强，也展示了其为用户提供更优质服务的决心。",
+    "资讯标题": "小米 MiMo-V2.5震撼公测:4.3小时手搓编译器，长程智能体迎“满分”跨越",
+    "内容": "小米 MiMo-V2.5震撼公测:4.3小时手搓编译器，长程智能体迎“满分”跨越AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 23, 202629今日，小米正式宣布其 Xiaomi MiMo-V2.5系列大模型开启公测。该系列包含 MiMo-V2.5、V2.5-Pro 以及配套的 TTS 与 ASR 模型，标志着小米大模型从“能用”向“好用”的全面进化。一、 性能旗舰:MiMo-V2.5-Pro 挑战复杂长程任务作为该系列最强型号，MiMo-V2.5-Pro 在通用智能体能力与软件工程维度已能与 Claude Opus4.6及 GPT-5.4等全球顶尖模型正面角力。",
     "发布日期": "2026-04-23",
-    "原文链接": "https://www.aibase.com/zh/news/27370",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3f4f345fb66e0ec8d6f69fe149474287.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3f4f345fb66e0ec8d6f69fe149474287.jpg",
-    "配图仓库路径": "assets/news_images/3f4f345fb66e0ec8d6f69fe149474287.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558215737_4.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27376",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3429306f0af1d51ccb10680002811d09.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3429306f0af1d51ccb10680002811d09.jpg",
+    "配图仓库路径": "assets/news_images/3429306f0af1d51ccb10680002811d09.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0423/6391253105577635525835532.jpg"
+  },
+  {
+    "资讯标题": "OpenAI 在 ChatGPT 中推出 Workspace Agents 团队协作智能体",
+    "内容": "OpenAI 于 4 月 23 日发布 Workspace Agents，旨在通过 ChatGPT 平台支持团队构建协作智能体，处理复杂任务与长周期工作流。该功能由 Codex 提供底层支持，具备文件处理、代码运行、工具调用及记忆存储能力，支持全天候云端运行。Workspace Agents 能够执行多步骤操作，并支持定时调度与 Slack 集成，适用于软件审查、销售线索筛选及财务结账等场景。通过将隐性知识转化为显性工作流，智能体可随交互反馈持续优化。目前，该功能已面向 ChatGPT Business、Enterprise、Edu 及 Teachers 计划用户开放研究预览，在 2026 年 5 月 6 日前可免费使用，后续将转为积分计费模式。OpenAI 计划后续增加自动触发器与性能分析仪表盘，以进一步降低",
+    "发布日期": "2026-04-23",
+    "原文链接": "https://www.ithome.com/0/942/362.htm",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e189c960baf28424a890510b7398c525.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e189c960baf28424a890510b7398c525.jpg",
+    "配图仓库路径": "assets/news_images/e189c960baf28424a890510b7398c525.jpg",
+    "原始配图链接": "https://img.ithome.com/newsuploadfiles/2026/4/a3bdcd79-9803-41e1-941e-26eb85fae629.png?x-bce-process=image/format,f_auto"
   }
 ]
