@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里腾讯竞投DeepSeek估值冲刺200亿美元，DeepSeek v4与混元3.0发布在即",
-    "内容": "阿里巴巴与腾讯正寻求参与国产大模型厂商DeepSeek的新一轮融资，受此大厂竞逐驱动，DeepSeek估值目标已从此前传闻的100亿美元飙升至超过200亿美元。产品层面，DeepSeek预计于本月内发布新一代模型DeepSeek v4，核心升级在于引入多模态处理能力。与此同时，腾讯自研模型混元（Hunyuan）3.0预计于本周发布，该版本由前OpenAI核心研究员姚顺雨主导，可能采取约30B参数级别的轻量化设计，旨在降低部署成本与推理延迟。当前国产大模型竞争已从参数规模竞赛转向多模态能力与端侧落地潜力的全方位角逐。DeepSeek与腾讯混元在技术路径上的差异化布局，正推动国内AI产业投融资格局与技术标准的重塑，资本正向具备核心算法优势的团队高度集中。",
-    "发布日期": "2026-04-23",
-    "原文链接": "https://www.aibase.com/zh/news/27388",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/55cd20e5e281fb1010cbbda20e45f998.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/55cd20e5e281fb1010cbbda20e45f998.jpg",
-    "配图仓库路径": "assets/news_images/55cd20e5e281fb1010cbbda20e45f998.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502051558211433_3.jpg"
+    "资讯标题": "谷歌编程模式迎来剧变：超七成新代码已由AI代劳",
+    "内容": "谷歌编程模式迎来剧变：超七成新代码已由AI代劳AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 23, 202639谷歌内部的编程底座正在发生一场深刻的范式转移。Alphabet首席执行官桑达尔·皮查伊近日透露，这家科技巨头在利用人工智能提升生产力方面取得了突破性进展，目前公司内部超过75%的新代码已经由人工智能自动生成。这一数据标志着谷歌向“AI优先”战略迈出了实质性的一步。值得注意的是，这些由AI生成的代码并非直接上线，而是仍需经过专业工程师的严格审核与把关，以确保系统的安全与稳定。尽管如此，AI在开发流程中的参与度提升速度惊人：去年 4 月，这一比例仅为30%左右。到了去年年中，增长曲线陡然升高。",
+    "发布日期": "2026-04-24",
+    "原文链接": "https://www.aibase.com/zh/news/27411",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "配图仓库路径": "assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308291638468779_1.jpg"
   },
   {
-    "资讯标题": "阿里云发布开源模型Qwen3.6-27B，编程能力超越397B参数模型",
-    "内容": "阿里云通义千问团队正式开源270亿参数稠密多模态模型Qwen3.6-27B。该模型在保持稠密架构的基础上，针对智能体编程与多模态推理进行深度优化。性能方面，Qwen3.6-27B在SWE-bench Verified代码修复测试中取得77.2分，编程能力全面超越参数量达3970亿的前代模型Qwen3.5-397B-A17B，显著降低了旗舰级编程辅助的部署门槛。在多模态领域，该模型原生支持图像、视频与文本混合输入，视觉推理能力与Qwen3.6-35B-A3B持平。目前，模型权重已上线Hugging Face与ModelScope社区，支持本地化部署。阿里云百炼平台将提供API调用服务，并保留“preserve_thinking”功能以回溯思维链。此外，该模型已实现对Claude Code、Qwen Code等主流",
-    "发布日期": "2026-04-23",
-    "原文链接": "https://www.aibase.com/zh/news/27378",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e0d1b9e6fc336b05a523f60f879d67f1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e0d1b9e6fc336b05a523f60f879d67f1.jpg",
-    "配图仓库路径": "assets/news_images/e0d1b9e6fc336b05a523f60f879d67f1.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0423/6391253153781944352925195.png"
+    "资讯标题": "腾讯发布开源语言模型Hy3 Preview，总参数达295亿并支持256K上下文",
+    "内容": "腾讯正式推出混元系列最新开源语言模型Hy3 Preview，该模型总参数量为295亿，激活参数为21亿，并支持最大256K的上下文长度。Hy3 Preview基于今年2月重建的基础设施，遵循能力体系化、评测真实性及性价比原则，在复杂推理、指令遵循、上下文学习及代码处理能力上显著提升，并增强了智能体能力。目前，该模型已在腾讯元宝、CodeBuddy、WorkBuddy、QQ、腾讯文档及腾讯乐享等产品中落地，同时兼容OpenClaw、OpenCode和KiloCode等开源智能体产品。为支持开发者应用，腾讯云同步推出具有竞争力的API定价体系及定制化Token Plan套餐，个人版套餐最低月费为28元。此次发布旨在通过提升模型实用性与性价比，为开发者提供更多工具选择，并优化用户在多场景下的AI应用体验。",
+    "发布日期": "2026-04-24",
+    "原文链接": "https://www.aibase.com/zh/news/27408",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d49fa2aaf798fcc38cbe227bc5f8b950.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d49fa2aaf798fcc38cbe227bc5f8b950.jpg",
+    "配图仓库路径": "assets/news_images/d49fa2aaf798fcc38cbe227bc5f8b950.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0423/6391255678007341702129262.png"
   },
   {
-    "资讯标题": "谷歌确认Gemini赋能新版Siri，苹果情境感知功能定档2026年发布",
-    "内容": "在Google Cloud Next26大会上，谷歌正式确认苹果已选定其为首选云服务提供商，双方正基于Gemini模型共同开发下一代Apple Foundation机型，具备情境感知能力的全新Siri定档2026年发布。此次合作旨在将Gemini的多模态处理能力与苹果私有云计算架构结合，解决Siri在复杂指令遵循及跨应用意图识别上的短板。苹果通过每年约10亿美元投入，将Gemini大模型能力提炼至端侧可控版本，在保障隐私前提下提升iPhone及iPad的交互上限。此举标志着苹果从自研单一路径转向“自研+顶级外援”的双轨战略。行业分析认为，Siri的此次迭代预示着AI Agent步入生产力阶段，全球智能终端市场将迎来从“指令交互”向“意图理解”的范式转移，谷歌在模型底层架构的竞争优势进一步巩固。",
-    "发布日期": "2026-04-23",
-    "原文链接": "https://www.aibase.com/zh/news/27379",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a7316f68774f6e6fc7d9df69c8d0893f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a7316f68774f6e6fc7d9df69c8d0893f.jpg",
-    "配图仓库路径": "assets/news_images/a7316f68774f6e6fc7d9df69c8d0893f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202401041541017510_1.jpg"
-  },
-  {
-    "资讯标题": "谷歌发布第八代TPU与Gemini企业代理平台，构建自主智能体基础设施",
-    "内容": "在Cloud Next '26大会上，谷歌正式发布第八代TPU及Gemini企业代理平台，旨在构建“代理企业”核心基础设施。底层算力方面，TPU v8被拆分为训练版TPU8t与推理版TPU8i，通过Virgo网络可支持百万级TPU集群互联，TPU8i通过增大片上SRAM及Boardfly拓扑结构显著降低推理延迟。软件层面，基于Vertex AI的Gemini企业代理平台引入Agent Studio，支持多步骤流程执行与长期记忆，并配套加密身份验证及异常检测等安全工具。此外，新增的Workspace Intelligence层打通Gmail、Docs及Drive，使Gemini 3.1 Pro及Claude Opus 4.7等模型能跨应用处理复杂任务。此次更新标志着谷歌将AI重心从聊天助手转向自主智能体，通过软硬",
-    "发布日期": "2026-04-23",
-    "原文链接": "https://www.aibase.com/zh/news/27385",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a2d13c6841a624df8b396426a2099a65.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a2d13c6841a624df8b396426a2099a65.jpg",
-    "配图仓库路径": "assets/news_images/a2d13c6841a624df8b396426a2099a65.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0423/6391253477314315573506622.jpg"
+    "资讯标题": "特斯拉第三代人形机器人Optimus Gen3定于2026年中发布并于三季度投产",
+    "内容": "特斯拉正式公布具身智能路线图，第三代人形机器人Optimus Gen3预计于2026年中期亮相，并计划在同年7月至8月启动投产。该产品将在Gen2基础上深度迭代，重点升级手部设计，集成具备22自由度灵巧手及“观察即学习”行为克隆能力的先进AI算法。特斯拉将改造弗里蒙特工厂的Model S/X生产线用于机器人制造，目标在2026年底前实现量产，最终规划年产能达100万台。为支撑具身智能商业化，特斯拉今年资本支出将超250亿美元，重点投向Cortex2算力集群、Dojo3定制芯片及机器人工厂建设。Optimus Gen3将于明年进入外部场景测试，特斯拉正加速推动其从实验室走向消费级市场，远期产能目标直指千万台量产规模。",
+    "发布日期": "2026-04-24",
+    "原文链接": "https://www.aibase.com/zh/news/27407",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/952dad79c9e0c34519d435dbe11022c2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/952dad79c9e0c34519d435dbe11022c2.jpg",
+    "配图仓库路径": "assets/news_images/952dad79c9e0c34519d435dbe11022c2.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202312131119503761_0.jpg"
   },
   {
     "资讯标题": "OpenAI 在 ChatGPT 中推出 Workspace Agents 团队协作智能体",
-    "内容": "OpenAI 于 4 月 23 日发布 Workspace Agents，旨在通过 ChatGPT 平台支持团队构建协作智能体，处理复杂任务与长周期工作流。该功能由 Codex 提供底层支持，具备文件处理、代码运行、工具调用及记忆存储能力，支持全天候云端运行。Workspace Agents 能够执行多步骤操作，并支持定时调度与 Slack 集成，适用于自动回答问题、提交工单及整合销售线索等场景。OpenAI 内部已部署软件审查员、周度指标报告员等 5 种应用实例，通过将隐性知识转化为显性工作流，提升团队协作效率。目前，该功能已面向 ChatGPT Business、Enterprise、Edu 及 Teachers 计划用户开放研究预览，在 2026 年 5 月 6 日前可免费使用，此后将转为积分计费模式。未",
+    "内容": "OpenAI 于 4 月 23 日发布 Workspace Agents，支持团队创建可处理复杂任务与长周期工作流的协作智能体。该功能由 Codex 提供底层支持，具备文件处理、代码运行、工具调用及记忆存储能力，支持全天候云端运行。Workspace Agents 重点解决跨时区、跨工具协作难题，支持定时调度与 Slack 集成，可自动执行报告准备、代码编写及工单提交等任务。OpenAI 内部已部署软件审查员、产品反馈路由器等 5 种应用实例，显著提升销售与会计团队的自动化处理效率。该功能现面向 ChatGPT Business、Enterprise、Edu 及 Teachers 计划用户开放研究预览，2026 年 5 月 6 日前免费使用，后续将转为积分计费模式。未来 OpenAI 计划增加自动触发器与性能分",
     "发布日期": "2026-04-23",
     "原文链接": "https://www.ithome.com/0/942/362.htm",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e189c960baf28424a890510b7398c525.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e189c960baf28424a890510b7398c525.jpg",
     "配图仓库路径": "assets/news_images/e189c960baf28424a890510b7398c525.jpg",
     "原始配图链接": "https://img.ithome.com/newsuploadfiles/2026/4/a3bdcd79-9803-41e1-941e-26eb85fae629.png?x-bce-process=image/format,f_auto"
+  },
+  {
+    "资讯标题": "OpenAI Privacy Filter - OpenAI开源的隐私过滤模型 | AI工具集",
+    "内容": "OpenAI Privacy Filter 是OpenAI开源的隐私过滤模型，专为检测和脱敏文本中的个人身份信息（PII）设计。模型基于 gpt-oss 架构改造为双向 token 分类器，总参数 15 亿、活跃参数 5000 万，支持 12.8 万 token 超长上下文，可在浏览器或笔记本本地运行，无需将敏感数据上传云端。模型在 PII-Masking-300k 基准测试中取得 96% F1 分数（修正后达 97.43%）。VipCheap LiblibAI AstronClaw。",
+    "发布日期": "2026-04-23",
+    "原文链接": "https://ai-bot.cn/openai-privacy-filter/",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ed9417a97357bf4ad41be85508f85d78.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ed9417a97357bf4ad41be85508f85d78.jpg",
+    "配图仓库路径": "assets/news_images/ed9417a97357bf4ad41be85508f85d78.jpg",
+    "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2026/04/OpenAI-Privacy-Filter-website-2-1.png"
   }
 ]
