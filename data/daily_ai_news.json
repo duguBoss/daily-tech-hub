@@ -1,7 +1,27 @@
 [
   {
-    "资讯标题": "腾讯发布并开源全新 AI 大模型混元 Hy3 preview",
-    "内容": "4月23日，腾讯正式发布并开源全新 AI 大模型混元 Hy3 preview。作为混元系列中迄今最智能的模型，Hy3 preview 采用混合专家模型架构，总参数量达 2950 亿，激活参数为 210 亿，支持最大 256K 上下文长度。该模型通过结合快思考与慢思考机制，在复杂推理、指令遵循、上下文学习、代码处理及智能体（Agent）能力上实现显著升级。目前，Hy3 preview 已在腾讯云、元宝、ima、CodeBuddy、WorkBuddy、QQ、QQ 浏览器、腾讯文档及腾讯乐享等平台首发。未来，该模型将进一步覆盖微信公众号、和平精英、腾讯新闻、腾讯自选股、腾讯客服及微信读书等产品。此次开源与发布标志着腾讯在 AI 基础设施层面的重要进展，旨在通过提升模型处理长文本与复杂任务的能力，为用户提供更高效的智能",
+    "资讯标题": "豆神教育与微软Azure合作推出AI短剧平台并正式上架Microsoft Marketplace",
+    "内容": "豆神教育在Microsoft AI Tour年度盛会上正式发布“豆神AI短剧平台”，该平台基于多模态AI架构，深度融合文本理解、图像生成、视频生成及智能配音技术。产品功能覆盖从剧本创作、分镜拆解、角色设定到视频合成与成片输出的全流程，旨在为教育工作者、MCN机构及企业品牌提供高效的内容生产工具。目前，豆神AI短剧平台已正式在Microsoft Marketplace上架，面向全球企业客户提供SaaS服务。此次合作标志着豆神教育将AI技术应用从教育领域向更广泛的商业化内容生产领域延伸，通过降低内容创作门槛，为教育知识传播、情境化教学及商业内容创作提供新的技术路径，进一步推动其AI产品在国际市场的商业化布局。",
+    "发布日期": "2026-04-24",
+    "原文链接": "https://www.aibase.com/zh/news/27434",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/337b46aed0243bfa4e67d8308052f931.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/337b46aed0243bfa4e67d8308052f931.jpg",
+    "配图仓库路径": "assets/news_images/337b46aed0243bfa4e67d8308052f931.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311141129172857_8.jpg"
+  },
+  {
+    "资讯标题": "英伟达CEO黄仁勋推动全员使用基于GPT-5.5技术的OpenAI Codex编程工具",
+    "内容": "英伟达CEO黄仁勋近日向全体员工发出号召，正式推动全员使用OpenAI Codex编程工具。该工具基于最新的GPT-5.5技术，目前已向英伟达全公司开放。黄仁勋强调，Codex的应用范围不局限于软件开发团队，涵盖工程、产品、法务、市场营销、财务、销售及人力资源等所有部门的1万名员工均已提前体验并取得显著成果。英伟达将Codex定位为“智能队友”，旨在通过AI辅助提升全员工作效率。为确保员工有效掌握该工具，英伟达已联合AI团队成立Codex实验室，并计划在未来几周内举办一系列线上研讨会，提供系统性的入门培训。此次全员部署旨在通过AI技术赋能，推动英伟达在人工智能时代保持行业领先地位，实现更智能、更高效的业务运作模式。",
+    "发布日期": "2026-04-24",
+    "原文链接": "https://www.aibase.com/zh/news/27435",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3ab5fee05d3a5c9c09aa9954906e4498.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3ab5fee05d3a5c9c09aa9954906e4498.jpg",
+    "配图仓库路径": "assets/news_images/3ab5fee05d3a5c9c09aa9954906e4498.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308291638475569_2.jpg"
+  },
+  {
+    "资讯标题": "腾讯正式发布并开源全新 AI 大模型混元 Hy3 preview",
+    "内容": "4月23日，腾讯正式发布并开源了混元系列最新大模型——混元 Hy3 preview。该模型是混元重建后训练的首个版本，定位为结合快思考与慢思考的混合专家模型（MoE）。Hy3 preview 总参数量达 2950 亿，激活参数为 210 亿，支持最大 256K 上下文长度，在复杂推理、指令遵循、上下文学习、代码处理及智能体（Agent）能力上均有显著提升。目前，该模型已在腾讯云、元宝、ima、CodeBuddy、WorkBuddy、QQ、QQ 浏览器、腾讯文档及腾讯乐享等平台首发。未来，腾讯计划将 Hy3 preview 逐步接入微信公众号、和平精英、腾讯新闻、腾讯自选股、腾讯客服及微信读书等更多生态产品。此次开源与发布标志着腾讯在 AI 基础设施层面的进一步深化，旨在通过更强的逻辑处理能力提升全线产品的智能化",
     "发布日期": "2026-04-24",
     "原文链接": "https://www.aibase.com/zh/news/27433",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f46267045cffbd3e423b03d817f19aee.jpg",
@@ -10,38 +30,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309071139002639_1.jpg"
   },
   {
-    "资讯标题": "平安科技医疗大模型3.5在HealthBench Hard评测中荣登全球第一",
-    "内容": "平安科技研发的“医疗大模型3.5”在OpenAI发布的HealthBench Hard全球医疗AI评测中，以57.27分位列榜首，超越Meta与OpenAI等行业巨头。该评测由60国262名医生构建，包含5000组高仿真医疗对话，重点考察模型在复杂临床场景下的推理能力。平安科技通过三阶段递进训练策略构建临床逻辑知识体系，并自研全链路幻觉控制引擎以提升稳定性。该模型已从基础咨询向复杂病种辅助决策及多学科协同诊疗演进。此外，平安推出的“平安灵眸”产品已覆盖全国1500家基层医疗机构，服务30万客户；AI-MDT Pro智能会诊系统则将顶级专家诊疗能力下沉，为肿瘤患者提供全流程建议。平安科技表示，未来将持续深化“综合金融+医疗养老”战略，推动AI技术在医疗全链路中的深度应用，以提升临床决策的准确度与医疗服务效率。",
+    "资讯标题": "深度求索发布DeepSeek-V4预览版：全系支持1M超长上下文并开源",
+    "内容": "深度求索（DeepSeek）正式发布并开源DeepSeek-V4系列模型，全系标配1M超长上下文能力。该系列采用创新的DSA稀疏注意力机制，大幅降低长文本处理的计算与显存成本。模型分为两个版本：DeepSeek-V4-Pro（1.6T参数，激活49B）主打顶级推理性能，在Agentic Coding及STEM任务中表现卓越；DeepSeek-V4-Flash（284B参数，激活13B）则侧重极致性价比与推理效率。针对Agent生态，API新增reasoning_effort参数，支持用户灵活调节思考强度。目前模型已上线Hugging Face与魔搭社区。官方提醒，旧版deepseek-chat与deepseek-reasoner模型将于2026年7月24日停用，建议开发者尽快迁移。",
     "发布日期": "2026-04-24",
-    "原文链接": "https://www.aibase.com/zh/news/27431",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/58499a5151259817f0c25518927e1502.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/58499a5151259817f0c25518927e1502.jpg",
-    "配图仓库路径": "assets/news_images/58499a5151259817f0c25518927e1502.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305171431462028_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27443",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1c009b2741f44ffac0104de266124afe.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1c009b2741f44ffac0104de266124afe.jpg",
+    "配图仓库路径": "assets/news_images/1c009b2741f44ffac0104de266124afe.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202502051558233072_8.jpg"
   },
   {
-    "资讯标题": "Meta宣布裁员八千人，微软启动万名员工买断计划以应对AI支出压力",
-    "内容": "Meta与微软近期因AI基础设施高昂投入带来的财务压力，相继启动大规模人力资源调整。Meta宣布裁减约8000名员工，占其总人数的10%，旨在通过精简组织结构抵消AI硬件投入与人才薪资成本。Meta此前已预警2026年资本支出将大幅增长，未来将利用自动化工具替代基础岗位，并将资源集中于核心AI研发团队。与此同时，微软采取温和的结构重组策略，计划向约8750名美国员工提供自愿离职买断方案，以避免强制裁员。此次调整反映了科技巨头在从传统软件驱动向AI驱动转型过程中的阵痛，高额的算力与研发投入迫使企业必须通过削减非核心领域开支来维持利润。随着行业全面转向AI，这种大规模的人才结构重组已成为硅谷应对财务压力的常态化手段。",
-    "发布日期": "2026-04-24",
-    "原文链接": "https://www.aibase.com/zh/news/27427",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/39ed27ad5f25d68f732e3d0b20af20b3.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/39ed27ad5f25d68f732e3d0b20af20b3.jpg",
-    "配图仓库路径": "assets/news_images/39ed27ad5f25d68f732e3d0b20af20b3.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202207271436142427_0.jpg"
-  },
-  {
-    "资讯标题": "OpenAI开源隐私过滤模型Privacy Filter，支持本地化PII脱敏",
-    "内容": "OpenAI正式开源隐私过滤模型Privacy Filter，该模型专为检测并脱敏文本中的个人身份信息（PII）而设计。Privacy Filter基于gpt-oss架构改造，采用双向token分类器设计，总参数量为15亿，活跃参数量仅5000万，并支持12.8万token的超长上下文处理。得益于轻量化架构，该模型可在浏览器或笔记本电脑等本地环境运行，无需将敏感数据上传至云端，有效保障数据隐私安全。在PII-Masking-300k基准测试中，该模型表现优异，F1分数达到96%，修正后可提升至97.43%。此次开源为开发者提供了高效的本地化PII处理方案，降低了在处理敏感文本数据时的合规风险与云端传输成本，对提升AI应用的数据隐私保护能力具有直接的行业参考价值。",
-    "发布日期": "2026-04-23",
-    "原文链接": "https://ai-bot.cn/openai-privacy-filter/",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ed9417a97357bf4ad41be85508f85d78.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ed9417a97357bf4ad41be85508f85d78.jpg",
-    "配图仓库路径": "assets/news_images/ed9417a97357bf4ad41be85508f85d78.jpg",
-    "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2026/04/OpenAI-Privacy-Filter-website-2-1.png"
-  },
-  {
-    "资讯标题": "OpenAI 在 ChatGPT 中推出 Workspace Agents 团队协作智能体",
-    "内容": "OpenAI 于 4 月 23 日正式发布 Workspace Agents，旨在通过团队协作智能体处理复杂任务与长周期工作流。该功能由 Codex 提供底层支持，具备文件处理、代码运行、工具调用及记忆存储能力，支持全天候云端运行。Workspace Agents 能够执行多步骤操作，并支持定时调度与 Slack 集成，可自动完成报告准备、代码编写及工单提交等任务。OpenAI 内部已部署软件审查员、产品反馈路由器等 5 种应用实例，显著提升了销售与会计团队的自动化效率。该功能现面向 ChatGPT Business、Enterprise、Edu 及 Teachers 计划用户开放研究预览，在 2026 年 5 月 6 日前可免费使用，此后将转为积分计费模式。未来，OpenAI 计划引入自动触发器与性能分析仪表",
+    "资讯标题": "OpenAI 在 ChatGPT 中推出 Workspace Agents 智能体支持团队协作",
+    "内容": "OpenAI 于 4 月 23 日正式发布 Workspace Agents，旨在通过 ChatGPT 平台支持团队创建协作智能体，以处理复杂任务与长周期工作流。该功能由 Codex 提供底层支持，具备文件处理、代码运行、工具调用及记忆存储能力，支持全天候云端运行。Workspace Agents 可集成 Slack 并实现定时调度，通过将隐性知识转化为显性工作流，协助团队完成软件审查、指标报告及自动工单提交等任务。目前，该功能已面向 ChatGPT Business、Enterprise、Edu 及 Teachers 计划用户开放研究预览，在 2026 年 5 月 6 日前可免费使用，后续将转为积分计费模式。OpenAI 内部已部署多种应用实例，验证了其在整合通话记录、自动化财务结账等场景下的效率提升。未来，",
     "发布日期": "2026-04-23",
     "原文链接": "https://www.ithome.com/0/942/362.htm",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e189c960baf28424a890510b7398c525.jpg",
