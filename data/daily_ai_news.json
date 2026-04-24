@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌编程模式迎来剧变：超七成新代码已由AI代劳",
-    "内容": "谷歌编程模式迎来剧变：超七成新代码已由AI代劳AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 23, 202639谷歌内部的编程底座正在发生一场深刻的范式转移。Alphabet首席执行官桑达尔·皮查伊近日透露，这家科技巨头在利用人工智能提升生产力方面取得了突破性进展，目前公司内部超过75%的新代码已经由人工智能自动生成。这一数据标志着谷歌向“AI优先”战略迈出了实质性的一步。值得注意的是，这些由AI生成的代码并非直接上线，而是仍需经过专业工程师的严格审核与把关，以确保系统的安全与稳定。尽管如此，AI在开发流程中的参与度提升速度惊人：去年 4 月，这一比例仅为30%左右。到了去年年中，增长曲线陡然升高。",
+    "资讯标题": "腾讯发布并开源全新 AI 大模型混元 Hy3 preview",
+    "内容": "4月23日，腾讯正式发布并开源全新 AI 大模型混元 Hy3 preview。作为混元系列中迄今最智能的模型，Hy3 preview 采用混合专家模型架构，总参数量达 2950 亿，激活参数为 210 亿，支持最大 256K 上下文长度。该模型通过结合快思考与慢思考机制，在复杂推理、指令遵循、上下文学习、代码处理及智能体（Agent）能力上实现显著升级。目前，Hy3 preview 已在腾讯云、元宝、ima、CodeBuddy、WorkBuddy、QQ、QQ 浏览器、腾讯文档及腾讯乐享等平台首发。未来，该模型将进一步覆盖微信公众号、和平精英、腾讯新闻、腾讯自选股、腾讯客服及微信读书等产品。此次开源与发布标志着腾讯在 AI 基础设施层面的重要进展，旨在通过提升模型处理长文本与复杂任务的能力，为用户提供更高效的智能",
     "发布日期": "2026-04-24",
-    "原文链接": "https://www.aibase.com/zh/news/27411",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
-    "配图仓库路径": "assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308291638468779_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27433",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f46267045cffbd3e423b03d817f19aee.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f46267045cffbd3e423b03d817f19aee.jpg",
+    "配图仓库路径": "assets/news_images/f46267045cffbd3e423b03d817f19aee.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309071139002639_1.jpg"
   },
   {
-    "资讯标题": "腾讯发布开源语言模型Hy3 Preview，总参数达295亿并支持256K上下文",
-    "内容": "腾讯正式推出混元系列最新开源语言模型Hy3 Preview，该模型总参数量为295亿，激活参数为21亿，并支持最大256K的上下文长度。Hy3 Preview基于今年2月重建的基础设施，遵循能力体系化、评测真实性及性价比原则，在复杂推理、指令遵循、上下文学习及代码处理能力上显著提升，并增强了智能体能力。目前，该模型已在腾讯元宝、CodeBuddy、WorkBuddy、QQ、腾讯文档及腾讯乐享等产品中落地，同时兼容OpenClaw、OpenCode和KiloCode等开源智能体产品。为支持开发者应用，腾讯云同步推出具有竞争力的API定价体系及定制化Token Plan套餐，个人版套餐最低月费为28元。此次发布旨在通过提升模型实用性与性价比，为开发者提供更多工具选择，并优化用户在多场景下的AI应用体验。",
+    "资讯标题": "平安科技医疗大模型3.5在HealthBench Hard评测中荣登全球第一",
+    "内容": "平安科技研发的“医疗大模型3.5”在OpenAI发布的HealthBench Hard全球医疗AI评测中，以57.27分位列榜首，超越Meta与OpenAI等行业巨头。该评测由60国262名医生构建，包含5000组高仿真医疗对话，重点考察模型在复杂临床场景下的推理能力。平安科技通过三阶段递进训练策略构建临床逻辑知识体系，并自研全链路幻觉控制引擎以提升稳定性。该模型已从基础咨询向复杂病种辅助决策及多学科协同诊疗演进。此外，平安推出的“平安灵眸”产品已覆盖全国1500家基层医疗机构，服务30万客户；AI-MDT Pro智能会诊系统则将顶级专家诊疗能力下沉，为肿瘤患者提供全流程建议。平安科技表示，未来将持续深化“综合金融+医疗养老”战略，推动AI技术在医疗全链路中的深度应用，以提升临床决策的准确度与医疗服务效率。",
     "发布日期": "2026-04-24",
-    "原文链接": "https://www.aibase.com/zh/news/27408",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d49fa2aaf798fcc38cbe227bc5f8b950.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d49fa2aaf798fcc38cbe227bc5f8b950.jpg",
-    "配图仓库路径": "assets/news_images/d49fa2aaf798fcc38cbe227bc5f8b950.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0423/6391255678007341702129262.png"
+    "原文链接": "https://www.aibase.com/zh/news/27431",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/58499a5151259817f0c25518927e1502.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/58499a5151259817f0c25518927e1502.jpg",
+    "配图仓库路径": "assets/news_images/58499a5151259817f0c25518927e1502.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305171431462028_1.jpg"
   },
   {
-    "资讯标题": "特斯拉第三代人形机器人Optimus Gen3定于2026年中发布并于三季度投产",
-    "内容": "特斯拉正式公布具身智能路线图，第三代人形机器人Optimus Gen3预计于2026年中期亮相，并计划在同年7月至8月启动投产。该产品将在Gen2基础上深度迭代，重点升级手部设计，集成具备22自由度灵巧手及“观察即学习”行为克隆能力的先进AI算法。特斯拉将改造弗里蒙特工厂的Model S/X生产线用于机器人制造，目标在2026年底前实现量产，最终规划年产能达100万台。为支撑具身智能商业化，特斯拉今年资本支出将超250亿美元，重点投向Cortex2算力集群、Dojo3定制芯片及机器人工厂建设。Optimus Gen3将于明年进入外部场景测试，特斯拉正加速推动其从实验室走向消费级市场，远期产能目标直指千万台量产规模。",
+    "资讯标题": "Meta宣布裁员八千人，微软启动万名员工买断计划以应对AI支出压力",
+    "内容": "Meta与微软近期因AI基础设施高昂投入带来的财务压力，相继启动大规模人力资源调整。Meta宣布裁减约8000名员工，占其总人数的10%，旨在通过精简组织结构抵消AI硬件投入与人才薪资成本。Meta此前已预警2026年资本支出将大幅增长，未来将利用自动化工具替代基础岗位，并将资源集中于核心AI研发团队。与此同时，微软采取温和的结构重组策略，计划向约8750名美国员工提供自愿离职买断方案，以避免强制裁员。此次调整反映了科技巨头在从传统软件驱动向AI驱动转型过程中的阵痛，高额的算力与研发投入迫使企业必须通过削减非核心领域开支来维持利润。随着行业全面转向AI，这种大规模的人才结构重组已成为硅谷应对财务压力的常态化手段。",
     "发布日期": "2026-04-24",
-    "原文链接": "https://www.aibase.com/zh/news/27407",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/952dad79c9e0c34519d435dbe11022c2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/952dad79c9e0c34519d435dbe11022c2.jpg",
-    "配图仓库路径": "assets/news_images/952dad79c9e0c34519d435dbe11022c2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202312131119503761_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27427",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/39ed27ad5f25d68f732e3d0b20af20b3.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/39ed27ad5f25d68f732e3d0b20af20b3.jpg",
+    "配图仓库路径": "assets/news_images/39ed27ad5f25d68f732e3d0b20af20b3.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202207271436142427_0.jpg"
   },
   {
-    "资讯标题": "OpenAI 在 ChatGPT 中推出 Workspace Agents 团队协作智能体",
-    "内容": "OpenAI 于 4 月 23 日发布 Workspace Agents，支持团队创建可处理复杂任务与长周期工作流的协作智能体。该功能由 Codex 提供底层支持，具备文件处理、代码运行、工具调用及记忆存储能力，支持全天候云端运行。Workspace Agents 重点解决跨时区、跨工具协作难题，支持定时调度与 Slack 集成，可自动执行报告准备、代码编写及工单提交等任务。OpenAI 内部已部署软件审查员、产品反馈路由器等 5 种应用实例，显著提升销售与会计团队的自动化处理效率。该功能现面向 ChatGPT Business、Enterprise、Edu 及 Teachers 计划用户开放研究预览，2026 年 5 月 6 日前免费使用，后续将转为积分计费模式。未来 OpenAI 计划增加自动触发器与性能分",
-    "发布日期": "2026-04-23",
-    "原文链接": "https://www.ithome.com/0/942/362.htm",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e189c960baf28424a890510b7398c525.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e189c960baf28424a890510b7398c525.jpg",
-    "配图仓库路径": "assets/news_images/e189c960baf28424a890510b7398c525.jpg",
-    "原始配图链接": "https://img.ithome.com/newsuploadfiles/2026/4/a3bdcd79-9803-41e1-941e-26eb85fae629.png?x-bce-process=image/format,f_auto"
-  },
-  {
-    "资讯标题": "OpenAI Privacy Filter - OpenAI开源的隐私过滤模型 | AI工具集",
-    "内容": "OpenAI Privacy Filter 是OpenAI开源的隐私过滤模型，专为检测和脱敏文本中的个人身份信息（PII）设计。模型基于 gpt-oss 架构改造为双向 token 分类器，总参数 15 亿、活跃参数 5000 万，支持 12.8 万 token 超长上下文，可在浏览器或笔记本本地运行，无需将敏感数据上传云端。模型在 PII-Masking-300k 基准测试中取得 96% F1 分数（修正后达 97.43%）。VipCheap LiblibAI AstronClaw。",
+    "资讯标题": "OpenAI开源隐私过滤模型Privacy Filter，支持本地化PII脱敏",
+    "内容": "OpenAI正式开源隐私过滤模型Privacy Filter，该模型专为检测并脱敏文本中的个人身份信息（PII）而设计。Privacy Filter基于gpt-oss架构改造，采用双向token分类器设计，总参数量为15亿，活跃参数量仅5000万，并支持12.8万token的超长上下文处理。得益于轻量化架构，该模型可在浏览器或笔记本电脑等本地环境运行，无需将敏感数据上传至云端，有效保障数据隐私安全。在PII-Masking-300k基准测试中，该模型表现优异，F1分数达到96%，修正后可提升至97.43%。此次开源为开发者提供了高效的本地化PII处理方案，降低了在处理敏感文本数据时的合规风险与云端传输成本，对提升AI应用的数据隐私保护能力具有直接的行业参考价值。",
     "发布日期": "2026-04-23",
     "原文链接": "https://ai-bot.cn/openai-privacy-filter/",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ed9417a97357bf4ad41be85508f85d78.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ed9417a97357bf4ad41be85508f85d78.jpg",
     "配图仓库路径": "assets/news_images/ed9417a97357bf4ad41be85508f85d78.jpg",
     "原始配图链接": "https://ai-bot.cn/wp-content/uploads/2026/04/OpenAI-Privacy-Filter-website-2-1.png"
+  },
+  {
+    "资讯标题": "OpenAI 在 ChatGPT 中推出 Workspace Agents 团队协作智能体",
+    "内容": "OpenAI 于 4 月 23 日正式发布 Workspace Agents，旨在通过团队协作智能体处理复杂任务与长周期工作流。该功能由 Codex 提供底层支持，具备文件处理、代码运行、工具调用及记忆存储能力，支持全天候云端运行。Workspace Agents 能够执行多步骤操作，并支持定时调度与 Slack 集成，可自动完成报告准备、代码编写及工单提交等任务。OpenAI 内部已部署软件审查员、产品反馈路由器等 5 种应用实例，显著提升了销售与会计团队的自动化效率。该功能现面向 ChatGPT Business、Enterprise、Edu 及 Teachers 计划用户开放研究预览，在 2026 年 5 月 6 日前可免费使用，此后将转为积分计费模式。未来，OpenAI 计划引入自动触发器与性能分析仪表",
+    "发布日期": "2026-04-23",
+    "原文链接": "https://www.ithome.com/0/942/362.htm",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e189c960baf28424a890510b7398c525.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e189c960baf28424a890510b7398c525.jpg",
+    "配图仓库路径": "assets/news_images/e189c960baf28424a890510b7398c525.jpg",
+    "原始配图链接": "https://img.ithome.com/newsuploadfiles/2026/4/a3bdcd79-9803-41e1-941e-26eb85fae629.png?x-bce-process=image/format,f_auto"
   }
 ]
