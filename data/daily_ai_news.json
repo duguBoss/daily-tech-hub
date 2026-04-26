@@ -1,7 +1,7 @@
 [
   {
     "资讯标题": "寒武纪成功适配 DeepSeek-V4，推动 AI 模型高效运行",
-    "内容": "寒武纪成功适配 DeepSeek-V4，推动 AI 模型高效运行AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 24, 202670寒武纪公司宣布，他们已成功完成对深度求索公司最新开源 AI 模型 DeepSeek-V4 的 Day 0 适配。此举意味着该模型在发布当天即可实现稳定运行，为用户带来了更高效的人工智能体验。寒武纪利用其自主研发的高性能融合算子库 Torch-MLU-Ops，对模型中的 Compressor、mHC 等模块进行了针对性加速。这项技术的引入大幅提升了推理效率。在推理框架方面，寒武纪采用了 vLLM（Variable Length Language Model）技术，全面支持多种并行计算方式，包括 TP、PP、SP、DP 和 EP 等。",
+    "内容": "寒武纪成功适配 DeepSeek-V4，推动 AI 模型高效运行AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 24, 202672寒武纪公司宣布，他们已成功完成对深度求索公司最新开源 AI 模型 DeepSeek-V4 的 Day 0 适配。此举意味着该模型在发布当天即可实现稳定运行，为用户带来了更高效的人工智能体验。寒武纪利用其自主研发的高性能融合算子库 Torch-MLU-Ops，对模型中的 Compressor、mHC 等模块进行了针对性加速。这项技术的引入大幅提升了推理效率。在推理框架方面，寒武纪采用了 vLLM（Variable Length Language Model）技术，全面支持多种并行计算方式，包括 TP、PP、SP、DP 和 EP 等。",
     "发布日期": "2026-04-26",
     "原文链接": "https://www.aibase.com/zh/news/27448",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
