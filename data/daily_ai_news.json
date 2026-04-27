@@ -1,42 +1,52 @@
 [
   {
-    "资讯标题": "降至原有价格 1/10，DeepSeek API 输入缓存降价 - IT之家",
-    "内容": "IT之家 4 月 26 日消息，DeepSeek 官方今天宣布，即日起 DeepSeek 全系 API 服务，输入缓存命中价格降至原有价格的 1/10，Pro 模型还可在 5 月 5 日前叠加 2.5 折限时优惠。IT之家附各模型具体价格如下： 广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。最会买 - 返利返现优惠券 iPhone之家 软媒手机APP应用 IT之家，软媒旗下科技门户网站 - 爱科技，爱这里。Copyright © RuanMei.com, All Rights Reserved.。",
-    "发布日期": "2026-04-27",
-    "原文链接": "https://www.ithome.com/0/943/748.htm",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bfc86034fdff59c85f913de1a9606582.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bfc86034fdff59c85f913de1a9606582.jpg",
-    "配图仓库路径": "assets/news_images/bfc86034fdff59c85f913de1a9606582.jpg",
-    "原始配图链接": "https://img.ithome.com/newsuploadfiles/2026/4/5ae17c5b-6916-40c4-9d45-96e37cbe833f.jpg?x-bce-process=image/format,f_auto"
+    "资讯标题": "马斯克起诉OpenAI及阿尔特曼违约，要求赔偿超1340亿美元并撤销盈利重组",
+    "内容": "埃隆·马斯克与萨姆·阿尔特曼因OpenAI创始使命分歧在加州法庭展开诉讼对决。马斯克指控阿尔特曼、格雷格·布罗克曼及微软违反合同与不当得利，要求解除阿尔特曼与布罗克曼职务，并索赔超1340亿美元，同时要求撤销OpenAI向盈利实体的重组。陪审团选择将于周一启动，微软CEO萨蒂亚·纳德拉等将出庭作证，审判预计持续两至三周。OpenAI对此坚决否认，辩称马斯克当年的资金为税收可抵扣捐款，不享有所有权，且转型为盈利实体是必要之举。马斯克于2015年参与创办OpenAI并投资约3800万美元，后于2018年退出董事会。此案结果对OpenAI至关重要，该公司预计今年将以约1万亿美元估值公开上市。马斯克主张将赔偿金重新分配给OpenAI非营利部门，此举直接挑战了OpenAI当前的商业化路径与治理结构。",
+    "发布日期": "2026-04-28",
+    "原文链接": "https://www.aibase.com/zh/news/27503",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
+    "配图仓库路径": "assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202405110933330041_0.jpg"
   },
   {
-    "资讯标题": "重拳出击！滴滴首度公开安全AI模型，顺风车风险防控进入“人机协同”新阶段",
-    "内容": "滴滴首度公开安全AI模型，顺风车风险防控进入“人机协同”新阶段AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 27, 202610在近期举办的顺风车安全治理开放日上，滴滴首次向外界展示了其在安全技术领域的最新进展。针对长期困扰行业的反作弊整治及未乘车收费等痛点，平台通过引入前沿的AI技术手段，取得了显著的阶段性治理成效。智能化判责让违规行为无所遁形为了应对顺风车场景中高频出现的各类纠纷，滴滴全面推行AI识别与智能判责系统。该系统能够实现风险的主动捕捉与自动处置，极大提升了响应速度。数据显示，在AI模型的辅助下，涉及“未乘车却产生费用”的投诉量大幅下降了97.5%，有效保障了用户的合法权益。",
-    "发布日期": "2026-04-27",
-    "原文链接": "https://www.aibase.com/zh/news/27484",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7bce09a624d05d43f4466d3f8ac552f8.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7bce09a624d05d43f4466d3f8ac552f8.jpg",
-    "配图仓库路径": "assets/news_images/7bce09a624d05d43f4466d3f8ac552f8.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621141653_21.jpg"
+    "资讯标题": "网易有道云笔记发布LLM Wiki技能套件，实现知识库主动编译",
+    "内容": "网易有道云笔记正式发布“LLM Wiki”技能套件，旨在将个人知识库从传统的被动检索工具升级为“知识增量编译器”。该套件利用大语言模型（LLM）的理解与整合能力，改变了以往依赖关键词索引的笔记管理模式。用户面对碎片化信息时，LLM Wiki能自动进行深度关联与逻辑归纳，将零散信息转化为结构化的系统知识。这一功能的核心逻辑在于从“被动搜索”转向“主动编译”，通过将AI能力深度嵌入笔记场景，减少用户手动检索的频次，直接提供处理后的答案或知识框架。此举标志着网易有道在AI应用层面的重要探索，旨在为知识工作者打造智能化的“第二大脑”，提升信息处理效率，推动个人知识管理进入由AI驱动的协作办公新阶段。",
+    "发布日期": "2026-04-28",
+    "原文链接": "https://www.aibase.com/zh/news/27500",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b8b3f6aea2545357fac0789abb0d1349.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b8b3f6aea2545357fac0789abb0d1349.jpg",
+    "配图仓库路径": "assets/news_images/b8b3f6aea2545357fac0789abb0d1349.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908061644012785_0.jpg"
   },
   {
-    "资讯标题": "别再套用旧指令！OpenAI 发布 GPT-5.5 提示词指南：越简单越好",
-    "内容": "OpenAI 发布 GPT-5.5 提示词指南：越简单越好AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 27, 202621随着人工智能技术的飞速演进，OpenAI 近期为其最新的 GPT-5.5 模型发布了全新的提示词（Prompt）官方指南。这份指南传达了一个核心信号：开发者必须摒弃过去针对旧模型编写的冗长指令，转向更加精简、以结果为导向的沟通方式。旧指令成为性能绊脚石 OpenAI 明确警告，将旧版本的提示词堆栈直接迁移到 GPT-5.5 可能会适得其反。过去由于模型推理能力有限，开发者往往需要提供极其详尽的步骤指导，但在更聪明的 GPT-5.5 面前，这些多余的描述反而会缩小模型的搜索空间，导致回答变得生硬且机械。",
-    "发布日期": "2026-04-27",
-    "原文链接": "https://www.aibase.com/zh/news/27479",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6cd2241a6f5782f300da8567ef971603.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6cd2241a6f5782f300da8567ef971603.jpg",
-    "配图仓库路径": "assets/news_images/6cd2241a6f5782f300da8567ef971603.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202604241339567854_0.jpg"
+    "资讯标题": "携程商旅发布AI生态全景图，推出7大行业Agent并开放17项底层能力",
+    "内容": "携程商旅正式发布“携程商旅AI生态”全景图，通过大模型技术重构企业差旅管理链路，标志着商旅行业迈入Agent时代。此次推出的7个专属AI Agent覆盖差旅问答、行程预订、审批、洞察、合规风控、财务结算及资源采购等核心场景。在战略层面，携程商旅采取“去围墙化”开放路径，通过开发者平台向企业输出5个核心场景及17项AI底层能力，支持企业将差旅规划、知识问答等功能无缝嵌入OA、ERP或HR系统，实现“即插即用”。目前，已有15家大型企业完成深度对接。携程商旅强调，AI Agent设计引入了财务及风控专家，旨在确保合规与效率的平衡。此举通过能力开放降低了企业构建行业大模型应用的门槛，推动商旅管理进入由行业深度知识驱动的智能服务新阶段。",
+    "发布日期": "2026-04-28",
+    "原文链接": "https://www.aibase.com/zh/news/27495",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/13395fab711cc4388c55bf53bbb95642.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/13395fab711cc4388c55bf53bbb95642.jpg",
+    "配图仓库路径": "assets/news_images/13395fab711cc4388c55bf53bbb95642.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201903280933157944_27.jpg"
   },
   {
-    "资讯标题": "“精英”底色凸显：调查显示 Claude 用户群体富裕程度远超竞品",
-    "内容": "“精英”底色凸显：调查显示 Claude 用户群体富裕程度远超竞品AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 27, 202612根据 Epoch AI 与 Ipsos 最新的联合调查，Anthropic 旗下的 AI 助手 Claude 在美国展现出了极其独特的用户画像。数据显示，高达 80% 的 Claude 成年用户来自年收入超过 10 万美元的家庭，这一比例在所有主流 AI 助手中位居榜首。高净值人群的垂直选择 相比之下，其他竞争对手的用户财富集中度明显较低。",
-    "发布日期": "2026-04-27",
-    "原文链接": "https://www.aibase.com/zh/news/27480",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/886420936bd39c69106adde03fe003f8.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/886420936bd39c69106adde03fe003f8.jpg",
-    "配图仓库路径": "assets/news_images/886420936bd39c69106adde03fe003f8.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0427/6391288070691795878209956.png"
+    "资讯标题": "OpenAI终止Codex独立产品线，核心编程能力正式并入GPT-5.5架构",
+    "内容": "OpenAI正式宣布终止专用编程模型Codex的独立产品线，将其核心能力全面并入GPT-5.5主模型架构。此次调整标志着OpenAI从“专用插件式”向“内生全能式”研发思路转变，GPT-5.3成为独立Codex模型的最后版本。对于开发者而言，虽然GPT-5.5的API调用价格上涨约20%，但由于模型逻辑理解与编程能力的显著增强，执行同类任务所需的Token消耗量有所下降，实现了资源利用率的优化。OpenAI表示，此举旨在将编程能力转化为通用大模型的基石级属性，而非依赖碎片化的工具包。这一战略调整预示着AI编程已成为通用大模型智能水平的核心衡量指标，未来开发者将通过更强大的通用模型底座直接处理复杂的工程实操任务。",
+    "发布日期": "2026-04-28",
+    "原文链接": "https://www.aibase.com/zh/news/27501",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
+  },
+  {
+    "资讯标题": "OpenAI 发布 Privacy Filter 模型，支持 PII 脱敏并以 Apache 2.0 协议开源",
+    "内容": "OpenAI 正式发布并开源了名为 Privacy Filter 的 PII 脱敏模型，该模型采用 1.5 亿参数的混合专家（MoE）架构，遵循 Apache 2.0 协议，现已上线 Hugging Face 和 GitHub。Privacy Filter 具备深度语言理解能力，支持 12.8 万 Token 上下文窗口，通过受限维特比算法解码，在 PII-Masking-300k 基准测试中 F1 分数高达 97.43%。相较于传统规则工具，该模型能精准识别并遮盖非结构化文本中的敏感信息，适用于训练管线、索引及日志审核等场景。OpenAI 强调，该模型支持本地运行以保障隐私，但并非匿名化工具，无法替代法律、医疗及金融领域的合规认证，建议在敏感场景中配合人工审核及领域微调使用。",
+    "发布日期": "2026-04-28",
+    "原文链接": "https://www.aibase.com/zh/news/27506",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7b00d359497d08e6c9627ef312a40a22.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7b00d359497d08e6c9627ef312a40a22.jpg",
+    "配图仓库路径": "assets/news_images/7b00d359497d08e6c9627ef312a40a22.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0427/6391290561186073928365757.png"
   }
 ]
