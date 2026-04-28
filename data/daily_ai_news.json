@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "马斯克起诉OpenAI及阿尔特曼违约，要求赔偿超1340亿美元并撤销盈利重组",
-    "内容": "埃隆·马斯克与萨姆·阿尔特曼因OpenAI创始使命分歧在加州法庭展开诉讼对决。马斯克指控阿尔特曼、格雷格·布罗克曼及微软违反合同与不当得利，要求解除阿尔特曼与布罗克曼职务，并索赔超1340亿美元，同时要求撤销OpenAI向盈利实体的重组。陪审团选择将于周一启动，微软CEO萨蒂亚·纳德拉等将出庭作证，审判预计持续两至三周。OpenAI对此坚决否认，辩称马斯克当年的资金为税收可抵扣捐款，不享有所有权，且转型为盈利实体是必要之举。马斯克于2015年参与创办OpenAI并投资约3800万美元，后于2018年退出董事会。此案结果对OpenAI至关重要，该公司预计今年将以约1万亿美元估值公开上市。马斯克主张将赔偿金重新分配给OpenAI非营利部门，此举直接挑战了OpenAI当前的商业化路径与治理结构。",
+    "资讯标题": "微软与OpenAI修订合作协议：独占授权转为非独占并停止营收分成",
+    "内容": "微软与OpenAI正式修订合作协议，将此前对OpenAI模型及产品的独占授权调整为非独占模式，有效期至2032年。此次调整后，OpenAI获得自主权，可向客户提供通过任何云服务商部署的产品。尽管授权模式变更，微软仍保持OpenAI首要云服务合作伙伴地位，OpenAI新产品将优先在Azure上线，双方在数据中心与芯片研发领域的合作保持不变。在财务条款方面，微软将停止向OpenAI支付营收分成，而OpenAI向微软支付的分成将持续至2030年并设有总额上限。此次协议修订旨在理顺双方运营细则，在保留微软作为主要股东权益的同时，赋予OpenAI更大的市场拓展空间，标志着双方合作关系从紧密绑定向更具灵活性的商业模式转型。",
     "发布日期": "2026-04-28",
-    "原文链接": "https://www.aibase.com/zh/news/27503",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
-    "配图仓库路径": "assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202405110933330041_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27529",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
+    "配图仓库路径": "assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633428399_20.jpg"
   },
   {
-    "资讯标题": "网易有道云笔记发布LLM Wiki技能套件，实现知识库主动编译",
-    "内容": "网易有道云笔记正式发布“LLM Wiki”技能套件，旨在将个人知识库从传统的被动检索工具升级为“知识增量编译器”。该套件利用大语言模型（LLM）的理解与整合能力，改变了以往依赖关键词索引的笔记管理模式。用户面对碎片化信息时，LLM Wiki能自动进行深度关联与逻辑归纳，将零散信息转化为结构化的系统知识。这一功能的核心逻辑在于从“被动搜索”转向“主动编译”，通过将AI能力深度嵌入笔记场景，减少用户手动检索的频次，直接提供处理后的答案或知识框架。此举标志着网易有道在AI应用层面的重要探索，旨在为知识工作者打造智能化的“第二大脑”，提升信息处理效率，推动个人知识管理进入由AI驱动的协作办公新阶段。",
+    "资讯标题": "小米新款全尺寸人形机器人亮相投资者日，已在汽车工厂实现超90%安装成功率",
+    "内容": "小米在投资者大会上展示了研发四年的新款全尺寸人形机器人，标志着其具身智能技术从实验室迈向工厂实操。该机器人具备极强的感知与执行能力，能精准识别并抓取纸袋提手等细微目标。目前，该机器人已在小米汽车工厂完成连续3小时自主作业，在复杂零部件安装任务中，安装成功率突破90%，数据表现已持平甚至超越部分工业机械臂。小米通过本体设计与智能算法的全栈自研，验证了通用人形机器人在柔性制造场景的生产力价值。根据战略规划，小米人形机器人计划在未来5年内实现大批量工厂进驻，并在5至10年内渗透至办公及家庭场景。作为“人车家全生态”的关键载体，该技术的迭代不仅支撑了小米的智能制造体系，也为未来家庭服务机器人的规模化普及奠定了工程化基础。",
     "发布日期": "2026-04-28",
-    "原文链接": "https://www.aibase.com/zh/news/27500",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b8b3f6aea2545357fac0789abb0d1349.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b8b3f6aea2545357fac0789abb0d1349.jpg",
-    "配图仓库路径": "assets/news_images/b8b3f6aea2545357fac0789abb0d1349.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908061644012785_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27531",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e048fcb66d7a040b511bc71fca6d951b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e048fcb66d7a040b511bc71fca6d951b.jpg",
+    "配图仓库路径": "assets/news_images/e048fcb66d7a040b511bc71fca6d951b.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0428/6391296892076718006050704.jpg"
   },
   {
-    "资讯标题": "携程商旅发布AI生态全景图，推出7大行业Agent并开放17项底层能力",
-    "内容": "携程商旅正式发布“携程商旅AI生态”全景图，通过大模型技术重构企业差旅管理链路，标志着商旅行业迈入Agent时代。此次推出的7个专属AI Agent覆盖差旅问答、行程预订、审批、洞察、合规风控、财务结算及资源采购等核心场景。在战略层面，携程商旅采取“去围墙化”开放路径，通过开发者平台向企业输出5个核心场景及17项AI底层能力，支持企业将差旅规划、知识问答等功能无缝嵌入OA、ERP或HR系统，实现“即插即用”。目前，已有15家大型企业完成深度对接。携程商旅强调，AI Agent设计引入了财务及风控专家，旨在确保合规与效率的平衡。此举通过能力开放降低了企业构建行业大模型应用的门槛，推动商旅管理进入由行业深度知识驱动的智能服务新阶段。",
+    "资讯标题": "北京大学开源One-Eval评测框架，实现DeepSeek-V4全量自动化评测",
+    "内容": "北京大学DCAI团队正式开源评测框架One-Eval，旨在解决大模型评测流程繁琐、黑盒化及数据污染等行业痛点。在DeepSeek-V4发布仅10小时内，该团队便利用One-Eval完成了全量自动化评测报告。One-Eval通过智能体化驱动，将复杂的脚本操作转化为自然语言交互，系统可自动识别测试意图并匹配金融、法律、医疗等专业基准工具。该框架引入“全局状态”总线架构确保全链路可追溯，并保留“人工在环”机制以平衡自动化与专业干预。One-Eval的开源为大模型评测赛道引入了技术变量，通过提升评测效率与透明度，挑战了传统评测机构“诊断+卖药”的商业闭环模式，为开发者提供了一种更高效、灵活的评测解决方案。",
     "发布日期": "2026-04-28",
-    "原文链接": "https://www.aibase.com/zh/news/27495",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/13395fab711cc4388c55bf53bbb95642.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/13395fab711cc4388c55bf53bbb95642.jpg",
-    "配图仓库路径": "assets/news_images/13395fab711cc4388c55bf53bbb95642.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201903280933157944_27.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27532",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a9d6ed61bca0e37f74e8e69b006cbedb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a9d6ed61bca0e37f74e8e69b006cbedb.jpg",
+    "配图仓库路径": "assets/news_images/a9d6ed61bca0e37f74e8e69b006cbedb.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558207045_2.jpg"
   },
   {
-    "资讯标题": "OpenAI终止Codex独立产品线，核心编程能力正式并入GPT-5.5架构",
-    "内容": "OpenAI正式宣布终止专用编程模型Codex的独立产品线，将其核心能力全面并入GPT-5.5主模型架构。此次调整标志着OpenAI从“专用插件式”向“内生全能式”研发思路转变，GPT-5.3成为独立Codex模型的最后版本。对于开发者而言，虽然GPT-5.5的API调用价格上涨约20%，但由于模型逻辑理解与编程能力的显著增强，执行同类任务所需的Token消耗量有所下降，实现了资源利用率的优化。OpenAI表示，此举旨在将编程能力转化为通用大模型的基石级属性，而非依赖碎片化的工具包。这一战略调整预示着AI编程已成为通用大模型智能水平的核心衡量指标，未来开发者将通过更强大的通用模型底座直接处理复杂的工程实操任务。",
+    "资讯标题": "OpenAI联手联发科、高通与立讯精密研发去应用化AI手机",
+    "内容": "OpenAI正与联发科、高通及立讯精密合作研发一款以AI Agent为核心的智能手机，旨在通过底层硬件重构移动终端交互逻辑。该项目核心在于“去应用化”，即利用AI Agent取代传统App生态，通过理解用户上下文语境直接完成任务。技术架构上，设备将结合端侧小型模型与云端大模型，根据任务复杂度动态调配计算资源。目前，该手机项目预计于2026年底或2027年第一季度敲定规格，最早有望在2028年实现量产。此外，OpenAI在硬件领域的布局已先行启动，其首款硬件产品（推测为智能耳塞）预计将于2026年下半年发布。此次跨界合作标志着OpenAI正从软件生态向物理终端深度延伸，试图通过软硬一体化策略，彻底改变用户与移动设备的交互方式。",
     "发布日期": "2026-04-28",
-    "原文链接": "https://www.aibase.com/zh/news/27501",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27528",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
+    "配图仓库路径": "assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171707346148_0.jpg"
   },
   {
-    "资讯标题": "OpenAI 发布 Privacy Filter 模型，支持 PII 脱敏并以 Apache 2.0 协议开源",
-    "内容": "OpenAI 正式发布并开源了名为 Privacy Filter 的 PII 脱敏模型，该模型采用 1.5 亿参数的混合专家（MoE）架构，遵循 Apache 2.0 协议，现已上线 Hugging Face 和 GitHub。Privacy Filter 具备深度语言理解能力，支持 12.8 万 Token 上下文窗口，通过受限维特比算法解码，在 PII-Masking-300k 基准测试中 F1 分数高达 97.43%。相较于传统规则工具，该模型能精准识别并遮盖非结构化文本中的敏感信息，适用于训练管线、索引及日志审核等场景。OpenAI 强调，该模型支持本地运行以保障隐私，但并非匿名化工具，无法替代法律、医疗及金融领域的合规认证，建议在敏感场景中配合人工审核及领域微调使用。",
+    "资讯标题": "Adobe王炸更新：Firefly智能体公测，Photoshop竟能“自如编排”？",
+    "内容": "Adobe王炸更新：Firefly智能体公测，Photoshop竟能“自如编排”。AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 28, 20266Adobe公司于 4 月 28 日正式宣布，其备受期待的Firefly AI Assistant（Firefly AI助手）正式进入公测阶段，并开始向全球符合条件的订阅用户开放。首批体验名单涵盖了Creative Cloud Pro用户，以及Firefly Pro和Premium等付费方案的持有者。此次更新的核心亮点在于Firefly从单一的生成工具进化为“跨应用Agent（智能体）”。这意味着创作者不再需要精通Photoshop、Premiere、Illustrator或Lightroom等软件中复杂的菜单路径和操作细节。",
     "发布日期": "2026-04-28",
-    "原文链接": "https://www.aibase.com/zh/news/27506",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7b00d359497d08e6c9627ef312a40a22.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7b00d359497d08e6c9627ef312a40a22.jpg",
-    "配图仓库路径": "assets/news_images/7b00d359497d08e6c9627ef312a40a22.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0427/6391290561186073928365757.png"
+    "原文链接": "https://www.aibase.com/zh/news/27523",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ea0e3079ea88ac5b4bb5040949d6bae6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ea0e3079ea88ac5b4bb5040949d6bae6.jpg",
+    "配图仓库路径": "assets/news_images/ea0e3079ea88ac5b4bb5040949d6bae6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202303220906047262_0.jpg"
   }
 ]
