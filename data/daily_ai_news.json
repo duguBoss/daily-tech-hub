@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "腾讯混元Hy3 preview登顶OpenRouter全球大模型API调用量榜单",
-    "内容": "腾讯混元Hy3 preview模型在最新OpenRouter全球大模型API调用量排行榜中位列总榜第一。该模型在专业场景表现突出，在“工具调用（Tool Use）”维度排名全球首位，在“编程（Coding）”领域位居第二，展现了强大的逻辑执行与技术开发能力。此次登顶标志着国产大模型在全球AI生态中的影响力显著提升。与此同时，阶跃星辰发布了新一代图像生成编辑模型Step Image Edit2并已上线开放平台。行业趋势显示，大模型竞争正从单纯的参数规模竞赛转向应用实效竞赛，国产AI在图像处理、复杂编程及自动化工具等核心赛道的竞争优势正在持续扩大。",
+    "资讯标题": "阿里巴巴发布 QoderWake 与 Qoder 移动端，实现代码修复全流程无人值守",
+    "内容": "阿里巴巴正式发布 QoderWake 与 Qoder 移动端两款 Agent 产品，实现从企业生产级到个人移动端的全场景覆盖。QoderWake 定位于生产级数字员工，目前已上线“数字程序员”角色并在阿里内部深度应用。该智能体可自主完成代码变更简报整理、错误诊断、反馈分类、日志分析及根因定位，并自动生成修复代码，实现全流程无人值守，仅需人类在关键决策环节进行确认。同步推出的 Qoder 移动端则聚焦跨端协同，用户可通过手机远程操控桌面端 Agent，并能直观展示 Agent 的思考链与工作流，支持主动弹窗交互以确保用户实时感知工作细节。此次发布标志着阿里 AI 智能体生态从辅助工具向具备独立任务处理能力的生产要素转型，为企业数字化转型提供了全新的自动化范式。",
     "发布日期": "2026-04-30",
-    "原文链接": "https://www.aibase.com/zh/news/27597",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1b929886d1683c089f64fe622d653cdb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1b929886d1683c089f64fe622d653cdb.jpg",
-    "配图仓库路径": "assets/news_images/1b929886d1683c089f64fe622d653cdb.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304141747476728_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27630",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1dea5ab96d26458d9e3ef750f139624d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1dea5ab96d26458d9e3ef750f139624d.jpg",
+    "配图仓库路径": "assets/news_images/1dea5ab96d26458d9e3ef750f139624d.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0430/6391314076014256535803871.jpg"
   },
   {
-    "资讯标题": "三七互娱接入百度智能云千帆大模型，推动AI原生游戏全链路生态协同",
-    "内容": "三七互娱近日宣布与百度智能云达成深度合作，通过接入高性能算力底座及千帆大模型平台，全面推进AI原生游戏技术落地。目前，三七互娱已在AI素材生成、智能体内容基建及AI客服等核心场景实现应用。数据显示，双方共建的智能客服系统上线后，SLA达成率由61%提升至99.3%，综合运营成本降低61%。此外，三七互娱基于自研行业大模型开发的版权保护平台“灵察察”，正依托百度智能云生态向全行业开放。此次合作标志着大模型应用从单点辅助演进为涵盖创作、服务与版权保护的全链路协同。行业数据显示，超半数主流游戏厂商已与百度智能云完成技术“会师”，AI原生游戏市场规模预计在未来三年内实现20倍增长，产业正加速从“人力密集型”向“AI驱动型”转型。",
+    "资讯标题": "蚂蚁集团正式开源万亿级大模型Ling-2.6-1T，主打“快思考”智效比提升",
+    "内容": "蚂蚁集团百灵大模型团队正式开源万亿级旗舰模型Ling-2.6-1T，该模型通过创新的混合架构与强化奖励策略，抑制过程冗余并降低Token开销，实现“快思考”机制，在保持万亿参数智能上限的同时显著提升智效比。Ling-2.6-1T在代码生成、缺陷修复及噪声环境推理等复杂任务中表现优异，并深度适配主流Agent框架，支持多工具、多约束的业务场景落地。目前，该模型已上线Hugging Face与ModelScope开源社区。为降低开发者使用门槛，官方宣布OpenRouter平台的免费API调用服务将延期一周，助力企业构建可持续运行的生产工作流。",
     "发布日期": "2026-04-30",
-    "原文链接": "https://www.aibase.com/zh/news/27610",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2944900d170d28525f1a8fdf24afe9b5.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2944900d170d28525f1a8fdf24afe9b5.jpg",
-    "配图仓库路径": "assets/news_images/2944900d170d28525f1a8fdf24afe9b5.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308091546519392_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27637",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/44efedf976ec913d816f1bef1d396194.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/44efedf976ec913d816f1bef1d396194.jpg",
+    "配图仓库路径": "assets/news_images/44efedf976ec913d816f1bef1d396194.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0430/6391314212006748091369395.png"
   },
   {
-    "资讯标题": "WorkBuddy深度集成腾讯文档，实现AI办公知识管理取用存一体化",
-    "内容": "WorkBuddy正式上线“资料库”功能，并率先与腾讯文档实现深度集成，成为业内首个与主流文档及知识库产品打通的AI办公智能体。此次升级实现了知识生产与管理的闭环，用户无需在不同应用间频繁切换，即可在WorkBuddy中直接调用、编辑并保存腾讯文档文件。具体操作流程支持从“资料库”选中文档，通过AI下达修改指令，并直接将结果回传保存至腾讯文档，全程无需下载或上传。该功能已同步覆盖手机端WorkBuddy小程序，满足移动办公场景需求。此次联动打通了个人知识管理的“最后一公里”，标志着AI智能体在办公场景的集成应用进入新阶段，显著提升了跨平台协作的办公效率。",
+    "资讯标题": "百度GenFlow 4. 0发布：Office三件套被AI接管，职场“牛马虾”时代正式开启",
+    "内容": "百度GenFlow 4. 0发布：Office三件套被AI接管，职场“牛马虾”时代正式开启AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 30, 2026194 月 27 日，百度文库与百度网盘联合推出了通用智能体GenFlow 4.0，标志着办公自动化进入了一个全新的阶段。此次更新的核心亮点在于对Office Agent的深度重构，实现了对PPT、Excel、Word三类核心办公软件的全面覆盖。在PPT创作方面，新系统推出了“专业”与“创意”双模式。专业模式利用HTML生成技术，主打逻辑清晰与规范排版，特别适合学术论文或商务汇报。而创意模式则侧重于视觉冲击力，能生成色彩丰富、风格多样的幻灯片，满足宣传展示需求。",
     "发布日期": "2026-04-30",
-    "原文链接": "https://www.aibase.com/zh/news/27600",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/77e851199088b8cb0201e0cd9247ea76.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/77e851199088b8cb0201e0cd9247ea76.jpg",
-    "配图仓库路径": "assets/news_images/77e851199088b8cb0201e0cd9247ea76.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0429/6391307111730942226787627.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27635",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3e6ed7f742724be0bfe26b0906391282.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3e6ed7f742724be0bfe26b0906391282.jpg",
+    "配图仓库路径": "assets/news_images/3e6ed7f742724be0bfe26b0906391282.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151640157875_35.jpg"
   },
   {
-    "资讯标题": "OpenAI预计今年ChatGPT订阅用户突破1.22亿，低价版ChatGPT Go成增长引擎",
-    "内容": "OpenAI预计今年其ChatGPT订阅用户规模将达1.22亿，其中核心增长引擎为每月8美元的低价订阅服务“ChatGPT Go”。该服务自去年8月起已覆盖171个国家和地区，预计今年将吸引约1.12亿用户。随着用户基数激增，OpenAI正面临系统安全、响应延迟及底层算力成本的严峻挑战，工程团队正通过调整速率限制等技术指标以平衡成本与服务质量。在商业化方面，OpenAI已在美国市场测试将广告融入对话，并强调将严格保护用户隐私及提供退出选项。此外，OpenAI持续迭代产品功能，包括支持云端持久化存储的Library功能、一键购物与比价功能，以及发布Images 2.0图像模型。通过价格杠杆与功能渗透，OpenAI正加速将ChatGPT从精英工具转型为大众化数字助理，并试图深度渗透全球搜索与电商入口。",
+    "资讯标题": "Chrome 正式发布 Prompt API：浏览器原生 AI 时代来临，网页直接调用 Gemini Nano 本地模型",
+    "内容": "Chrome 正式发布 Prompt API：浏览器原生 AI 时代来临，网页直接调用 Gemini Nano 本地模型AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Apr 30, 202617Google Chrome 浏览器近日正式推出Prompt API，开发者可以通过简单 JavaScript 代码，在网页中直接调用内置的 Gemini Nano 模型，实现本地 AI 能力。这一功能在 Hacker News 上引发热议，迅速获得广泛关注，被视为浏览器 AI 能力“民主化”的重要一步。什么是 Prompt API。Prompt API 是 Chrome 内置 AI 框架的一部分，允许网页应用向浏览器内置的Gemini Nano轻量级语言模型发送自然语言指令。",
     "发布日期": "2026-04-30",
-    "原文链接": "https://www.aibase.com/zh/news/27608",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
-    "配图仓库路径": "assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723412816_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27634",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a887fca50febc3accd0e3be8679c722f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a887fca50febc3accd0e3be8679c722f.jpg",
+    "配图仓库路径": "assets/news_images/a887fca50febc3accd0e3be8679c722f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908071125376364_0.jpg"
   },
   {
-    "资讯标题": "OpenAI发布GPT Image 2模型，在SuperCLUE评测中超越Nano Banana2登顶",
-    "内容": "OpenAI最新文生图模型GPT Image 2在SuperCLUE权威评测中超越谷歌Nano Banana 2，正式登顶全球视觉模型榜首。该模型自4月21日上线以来，在画质、理解力及细节还原度上实现显著迭代。核心技术突破在于汉字生成能力，其在该维度获得93.07分，文字准确度获满分评级，有效解决了文字与复杂材质融合的“漂浮感”与乱码难题。在复杂场景复刻与指令遵循方面，GPT Image 2展现了卓越的图文一致性，能精准生成科学原理图及专业海报。尽管在空间关系理解与深层知识推理上仍有优化空间，但该模型已在现实复现和创作推理领域确立领先优势。业内认为，此进展标志着文生图技术正从意象生成向高精度、重逻辑的专业级应用阶段演进，将进一步拓展AI视觉创作的行业边界。",
+    "资讯标题": "Anthropic拟以9000亿美元估值开启巨额融资，或在IPO前超越OpenAI",
+    "内容": "AI独角兽Anthropic正计划在IPO前完成最后一轮私募融资，目前已收到总额约500亿美元的融资要约，估值区间锁定在8500亿至9000亿美元。若5月董事会通过该方案，其估值将较2月翻倍，有望刷新全球AI企业估值纪录。此次融资由其强劲的财务表现驱动，公司年化营收已突破300亿美元，部分数据甚至接近400亿美元，较2025年底的90亿美元实现跨越式增长。收入增长核心动力源于其AI编程能力，特别是Claude Code与Cowork平台在开发者生态中的广泛应用。随着Anthropic向金融、医疗及生命科学等专业领域渗透，资本市场对其商业潜力高度认可。尽管公司目前拒绝评论融资细节，但面对庞大的算力需求与研发开支，此轮融资将为其后续发展提供关键资金支持，并进一步加剧与OpenAI的行业竞争。",
     "发布日期": "2026-04-30",
-    "原文链接": "https://www.aibase.com/zh/news/27604",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图仓库路径": "assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27636",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
   }
 ]
