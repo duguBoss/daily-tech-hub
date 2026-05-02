@@ -1,28 +1,28 @@
 [
   {
-    "资讯标题": "蚂蚁集团牵头发布ASL协议，构建智能体跨平台可信协作架构",
-    "内容": "4月29日，蚂蚁集团在第九届数字中国建设峰会上发布智能体安全可信互连协议ASL（Agent Security Link），旨在解决跨Agent协作中的身份验证、意图防篡改及授权边界失控等“信任黑洞”问题。ASL采用“四类能力组件+安全基础设施”分层架构，可叠加部署于MCP、A2A等现有互操作协议之上。该协议通过可信身份、可信连接、可信意图及可信授权四大模块，实现端到端的可验证信任链，确保智能体在跨组织协作中操作可审计、授权边界受控。蚂蚁集团大安全CTO陈亮表示，ASL是其智能体原生安全框架的核心，旨在将安全能力内嵌于智能体全生命周期，从“被动响应”转向“天生可信”。在支付场景中，ASL将与ACT智能体商业信任协议协同，支撑即时支付等业务落地。该协议的推出标志着智能体产业正从碎片化协作迈向安全可信互联阶段，为企业",
-    "发布日期": "2026-05-02",
-    "原文链接": "https://www.aibase.com/zh/news/27650",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b2d51298d2db72e108b23842ce4bd918.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b2d51298d2db72e108b23842ce4bd918.jpg",
-    "配图仓库路径": "assets/news_images/b2d51298d2db72e108b23842ce4bd918.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0430/6391315640264402757185212.png"
+    "资讯标题": "谷歌亚马逊微软及Meta上调2026年AI资本开支至7250亿美元",
+    "内容": "谷歌、亚马逊、微软及Meta四大科技巨头宣布将2026年AI资本开支上调至7250亿美元，较去年4100亿美元激增77%，远超此前预估的6100亿美元。仅2026年第一季度，四家巨头资本开支已达1300亿美元。具体投入方面，亚马逊计划投入超2000亿美元，微软预计投入1900亿美元，增幅达192.3%，Alphabet与Meta投入均超1450亿美元。尽管谷歌云业务营收增长63%，但受内存芯片及核心组件价格上涨影响，成本压力显著。微软CEO萨蒂亚·纳德拉表示，由于现有算力仍无法满足市场需求，软件收费模式将由“按席位计费”转向“席位费+使用费”的混合模式。此举意味着AI算力成本将向终端传导，B端客户面临更高的使用成本，行业商业竞争规则正面临重塑。",
+    "发布日期": "2026-05-03",
+    "原文链接": "https://www.aibase.com/zh/news/27664",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f2d4ee089c57499e14b49376c6e75513.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f2d4ee089c57499e14b49376c6e75513.jpg",
+    "配图仓库路径": "assets/news_images/f2d4ee089c57499e14b49376c6e75513.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743155421_7.jpg"
   },
   {
-    "资讯标题": "微软发布第三财季财报：总营收达829亿美元，AI业务年收入激增123%",
-    "内容": "微软公布截至2026年3月31日的第三财季业绩，总营收达829亿美元，同比增长18%。其中，AI业务表现强劲，年化营收突破370亿美元，同比激增123%，已成为公司核心增长引擎。智能云部门营收达347亿美元，增长30%，主要得益于Azure及其他云服务40%的收入增长。生产力与业务流程部门营收达350亿美元，Office 365与LinkedIn均实现双位数增长。受Windows OEM及Xbox硬件需求放缓影响，个人计算部门营收同比微降1%。微软本季度通过股息发放与股票回购向股东返还102亿美元，在保持高额AI研发投入的同时维持了稳健的资本回报能力。该财报显示，AI技术已从实验阶段转化为微软的规模化盈利业务，持续驱动企业级市场智能化转型。",
-    "发布日期": "2026-05-02",
-    "原文链接": "https://www.aibase.com/zh/news/27649",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
-    "配图仓库路径": "assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633428399_20.jpg"
+    "资讯标题": "腾讯开源紧凑型翻译模型 Hy-MT，440MB实现离线运行并超越谷歌翻译",
+    "内容": "腾讯正式开源紧凑型AI翻译模型Hy-MT 1.5-1.8B-1.25bit，该模型通过激进压缩技术，将参数量化至每参数1.25比特，使模型体积从3.3GB骤减至440MB，实现了在智能手机端的完全离线运行。Hy-MT支持中、英、德、法、日、藏、蒙等33种语言及5种方言，涵盖1056个翻译方向。在标准基准测试中，其翻译质量与Qwen3-32B等超大模型相当，推理速度较此前1.67比特方案提升约10%。腾讯已提供Android演示应用，支持跨应用文字离线翻译。该模型通过量化突破大幅降低了高品质AI翻译的算力门槛，为终端侧AI（On-device AI）在复杂隐私环境下的应用提供了极具竞争力的开源底座，标志着移动端翻译技术进入轻量化与高性能并存的新阶段。",
+    "发布日期": "2026-05-03",
+    "原文链接": "https://www.aibase.com/zh/news/27666",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/761e3ec4ab71fabd9f73265eea757d0b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/761e3ec4ab71fabd9f73265eea757d0b.jpg",
+    "配图仓库路径": "assets/news_images/761e3ec4ab71fabd9f73265eea757d0b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633427149_4.jpg"
   },
   {
-    "资讯标题": "开源项目 Zig 全面禁止 LLM 生成代码与评论参与贡献",
-    "内容": "开源项目 Zig 近期正式实施严格政策，全面禁止使用大语言模型（LLM）生成的代码或评论参与项目贡献。Zig 维护者认为，开源项目的核心价值在于培养具备成长潜力的贡献者，而非单纯获取代码片段。审查 Pull Request 的过程本质是导师制沟通，旨在帮助新人理解底层原理并建立互信。若开发者依赖 LLM 辅助，维护者将无法判断其是否真正掌握技术逻辑，导致审查机制失效。该政策并非针对 AI 技术本身，而是基于社区长期健康发展的考量。即使是重度使用 AI 辅助开发的高性能 JavaScript 运行时 Bun，其产出的代码若无法证明出自人类的学习与理解过程，同样不符合 Zig 的上游提交标准。此举反映了开源社区在 AI 时代对人才培养与技术传承的深层焦虑，旨在通过限制 AI 生成内容，守护开发者之间的沟通根基与信任",
-    "发布日期": "2026-05-02",
+    "资讯标题": "开源项目 Zig 宣布全面禁止 LLM 生成的代码与评论参与项目贡献",
+    "内容": "开源项目 Zig 近期正式实施严格政策，全面禁止使用 LLM 生成的代码或评论参与项目贡献。Zig 维护者认为，开源项目的核心价值在于培养具备成长潜力的贡献者，而非单纯获取代码片段。审查 Pull Request 的过程是导师制沟通的关键环节，若开发者依赖 AI 辅助，维护者将无法判断提交者是否真正掌握底层原理，导致传统的互信机制坍塌。该政策强调，若合并请求主要由 AI 驱动，维护者审查的边际成本过高，甚至不如直接运行 AI 模块解决问题。即便如高性能 JavaScript 运行时 Bun 这样重度使用 AI 的团队，其产出也因无法证明出自人类的学习与理解过程，而不符合 Zig 的上游提交标准。此举反映了开源社区对 AI 产出速度超越人类理解速度的深层焦虑，Zig 试图通过此举守护社区沟通根基，优先保障真实人类",
+    "发布日期": "2026-05-03",
     "原文链接": "https://www.aibase.com/zh/news/27660",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
@@ -30,23 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556149296_6.jpg"
   },
   {
-    "资讯标题": "小红书宣布组织架构升级：柯南出任总裁并成立AI一级部门Dots与海外部Rednote",
-    "内容": "4月30日，小红书发布内部信宣布新一轮组织架构升级，核心业务线全面整合，并正式将AI提升至最高战略优先级。柯南（丁玲）出任公司总裁，全面负责核心业务经营，直接向CEO星矢汇报。此次调整设立了AI一级部门“Dots”，旨在构建涵盖模型研发、基础设施、工程落地及产品应用的全链路体系，推动公司从工具化应用向核心生产力转型。同时，小红书成立企业智能部，整合原企业效率部与数据科学部，以强化AI时代的组织底座。在业务板块方面，之恒负责大商业板块，帕鲁牵头社区板块，夏侯统一负责算法体系。此外，小红书首次披露成立海外业务部门“Rednote”，旨在将生活方式社区模式推向全球，实现国际化业务从0到1的突破。此次调整旨在打破业务壁垒，通过AI驱动“种草-交易”闭环的深度协同，为公司储备第二增长曲线。",
-    "发布日期": "2026-05-02",
-    "原文链接": "https://www.aibase.com/zh/news/27648",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
-    "配图仓库路径": "assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201907152222434146_3.jpg"
+    "资讯标题": "OpenAI发布ChatGPT Images2.0，印度市场贡献首周最大用户增量",
+    "内容": "OpenAI正式发布图像生成工具ChatGPT Images2.0，该工具旨在处理复杂提示词并生成包含多语言精确文本的精细图像。发布首周，印度市场表现出极强增长动力，下载量达500万次，远超美国的200万次，成为该功能最大的用户群体所在地。巴基斯坦、越南及印度尼西亚等新兴市场下载量周增幅亦高达79%。针对新兴市场需求，Images2.0强化了对印地语和孟加拉语等非拉丁文本的渲染能力，并引入“思考”功能，支持从单一提示词生成多个变体及图像修复。OpenAI观察到，印度用户正将该工具广泛应用于影棚风格肖像、风格化头像及奇幻主题视觉素材创作。行业分析认为，随着新兴市场对AI视觉创作需求的爆发，工具的本地化语言支持与个人化场景应用已成为巨头竞争的关键赛道，南亚及东南亚市场的战略地位进一步凸显。",
+    "发布日期": "2026-05-03",
+    "原文链接": "https://www.aibase.com/zh/news/27662",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6cd2241a6f5782f300da8567ef971603.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6cd2241a6f5782f300da8567ef971603.jpg",
+    "配图仓库路径": "assets/news_images/6cd2241a6f5782f300da8567ef971603.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202604241339567854_0.jpg"
   },
   {
-    "资讯标题": "OpenAI GPT-5.5系统提示词意外泄露，明确禁止讨论哥布林等幻想生物",
-    "内容": "OpenAI旗下GPT-5.5模型在最新开源的Codex CLI代码中泄露了系统提示词，其中包含一条严禁讨论“哥布林”、“小精灵”、“浣熊”、“巨魔”及“鸽子”等幻想生物的特殊指令。这份长达3500多词的指令集显示，该禁令在文中重复出现两次，其权重与禁止执行破坏性命令等常规准则并列。技术专家分析认为，此举并非营销噱头，而是针对模型特定技术漏洞的“补丁”。此前有用户反馈GPT在处理无关话题时会莫名提及上述生物，该指令旨在抑制模型生成过程中的不稳定性幻觉。OpenAI工程师指出，这反映了LLM在处理复杂逻辑时可能对特定词汇产生异常偏移，必须通过底层指令进行强行干预。此事件凸显了OpenAI在GPT-5.5迭代过程中，平衡模型创造力与逻辑稳定性所面临的精细化控制挑战。",
-    "发布日期": "2026-05-02",
-    "原文链接": "https://www.aibase.com/zh/news/27647",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1e3d7f3ed488c8fe3c0240756d9555fc.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1e3d7f3ed488c8fe3c0240756d9555fc.jpg",
-    "配图仓库路径": "assets/news_images/1e3d7f3ed488c8fe3c0240756d9555fc.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302112107351131_3.jpg"
+    "资讯标题": "Meta正式收购人形机器人初创公司ARI，强化全身控制技术布局",
+    "内容": "Meta近日正式宣布收购人形机器人初创公司Assured Robot Intelligence（ARI），旨在强化其在复杂动态环境下机器人理解与预测人类行为的能力。ARI核心团队包括联合创始人王晓龙与勒雷尔·平托，将整体并入Meta超级智能实验室（Superintelligence Labs）。ARI此前专注于为人形机器人构建基础模型，使其具备执行家务等体力劳动的能力。Meta官方表示，该团队在机器人控制、自学习模型及全身人形机器人控制技术方面的积淀，将直接助力Meta实现硬件与模型协同的人形机器人战略目标。此次收购反映了人工智能领域向“具身智能”进化的共识，即AGI的实现需模型在物理世界中通过直接交互进行训练。随着巨头频频入场，物理智能已成为AI下一阶段的战略突破口。",
+    "发布日期": "2026-05-03",
+    "原文链接": "https://www.aibase.com/zh/news/27663",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
+    "配图仓库路径": "assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202207271436142427_0.jpg"
   }
 ]
