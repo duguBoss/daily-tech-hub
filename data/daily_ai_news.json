@@ -1,27 +1,27 @@
 [
   {
-    "资讯标题": "苹果 iOS 27 或将支持自定义第三方 AI 模型并引入 Extensions 扩展功能",
-    "内容": "苹果计划在今年秋季发布的 iOS 27、iPadOS 27 及 macOS 27 系统中引入“Extensions”扩展功能，允许用户自主选择第三方 AI 模型驱动设备智能功能。用户可在设置界面将 Apple Intelligence 底层支持切换为 Gemini 或 Claude 等第三方服务，App Store 将设立专区展示兼容应用。为区分服务来源，Siri 将推出多样化新音色。此次调整标志着苹果从单一合作伙伴模式转向多模型共存，旨在提升用户灵活性。此外，iOS 27 预计将升级 Siri 的相机整合能力，实现对食品标签、名片及门票的智能识别，并优化照片编辑与钱包应用功能。尽管苹果仍将推广自研模型并明确第三方内容责任归属，但这一开放举措预示着移动端 AI 生态竞争进入新阶段。",
+    "资讯标题": "苹果拟在iOS 27引入多模型选择机制，支持第三方AI接入系统功能",
+    "内容": "苹果计划在iOS 27、iPadOS 27及macOS 27中引入多模型选择机制，内部代号为“Extensions”。该架构允许用户在Siri、写作工具及图像生成等Apple Intelligence功能中，自主选择并调用第三方生成式AI模型，实现系统级插件化调度。目前，Google与Anthropic的模型已进入适配测试阶段，ChatGPT亦有望作为可选方案。此举标志着苹果正从单一AI能力提供者转向平台化模型调度架构，将AI能力抽象为系统级资源。通过将iPhone等终端打造为AI能力的分发与调度中心，苹果旨在提升生态灵活性与兼容度。在Tim Cook即将卸任的背景下，该战略由继任者John Ternus主导，旨在通过操作系统层面的AI调度层设计，重塑移动生态中的AI竞争格局，使设备成为多模型协同的运行载体。",
     "发布日期": "2026-05-06",
-    "原文链接": "https://www.aibase.com/zh/news/27676",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/44c19938c828796acc0945388d43dca0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/44c19938c828796acc0945388d43dca0.jpg",
-    "配图仓库路径": "assets/news_images/44c19938c828796acc0945388d43dca0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306061057425169_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27677",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/afdf27ddb1ba4085708ff851b867f99e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/afdf27ddb1ba4085708ff851b867f99e.jpg",
+    "配图仓库路径": "assets/news_images/afdf27ddb1ba4085708ff851b867f99e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202206071118455737_0.jpg"
   },
   {
-    "资讯标题": "OpenAI首款AI智能体手机开发提速，最快2027年上半年量产出货",
-    "内容": "OpenAI首款AI智能体手机开发进程显著提速，量产时间表由2028年提前至2027年上半年，目标累计出货量达3000万部。该设备将搭载联发科定制版“天玑9600”芯片，采用台积电N2P制程，并配备双NPU架构以支持异构AI计算。为保障安全，设备引入“硬隔离保险箱”pKVM及内联哈希技术。硬件规格方面，该机型将采用LPDDR6内存与UFS5.0存储组合，并重点强化ISP视觉感知能力。OpenAI CEO奥尔特曼正与前苹果首席设计官Jony Ive团队深度合作，旨在重构操作系统与交互界面。此举被视为OpenAI为IPO进程增添筹码，并试图通过硬件创新重新定义人机交互方式。",
+    "资讯标题": "三星电子确认研发Galaxy Glasses智能眼镜，将搭载Android XR系统",
+    "内容": "三星电子在第一季度财报电话会议中正式宣布进军AI眼镜市场，计划推出名为“Galaxy Glasses”的智能眼镜产品。该设备将搭载谷歌Android XR操作系统，旨在提供沉浸式、多模态AI体验，直接对标Meta的智能眼镜产品。除核心眼镜外，三星还将同步发布代号为“Galaxy Buds Able”的真无线耳机，该产品预计采用夹式设计并集成骨传导技术。三星表示，得益于内存市场需求强劲，其芯片业务同比增长近50倍，但受限于市场高需求，供应短缺状况或将持续至2027年。通过此次布局，三星意在利用其在芯片制造与硬件集成领域的深厚积淀，在AI驱动的下一代移动计算赛道中占据主动权，构建差异化的智能穿戴生态系统。",
     "发布日期": "2026-05-06",
-    "原文链接": "https://www.aibase.com/zh/news/27679",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a9be8965421bfcb7d4bdcd898cb78d79.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a9be8965421bfcb7d4bdcd898cb78d79.jpg",
-    "配图仓库路径": "assets/news_images/a9be8965421bfcb7d4bdcd898cb78d79.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202505161448570416_5.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27689",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/28c9d155ab509d998cdd481391c9de2e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/28c9d155ab509d998cdd481391c9de2e.jpg",
+    "配图仓库路径": "assets/news_images/28c9d155ab509d998cdd481391c9de2e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504031049202004_0.jpg"
   },
   {
     "资讯标题": "OpenAI 发布 GPT-5.5 Instant 模型，提升聊天机器人准确性并减少幻觉",
-    "内容": "OpenAI 正式将 ChatGPT 默认模型升级至 GPT-5.5 Instant，该模型重点优化了回复的简洁性与准确性。通过减少冗长表达及表情符号，GPT-5.5 Instant 旨在提供更直观的交互体验。在可靠性方面，内部评估显示该模型“幻觉”声明减少了 52.5%，用户标记的事实错误降低了 37.3%，在医疗、法律及金融等高风险领域表现显著提升。此次更新已面向所有用户开放，付费用户享有三个月的 GPT-5.3 Instant 过渡期，以确保平滑切换至新模型。OpenAI 表示，Instant 系列在事实性方面取得了全面进步，致力于为用户提供更高效、可靠的 AI 交流体验。",
+    "内容": "OpenAI 正式将 ChatGPT 默认模型升级至 GPT-5.5 Instant，该模型重点优化了回复的简洁性与准确性。通过减少冗余表达及表情符号，GPT-5.5 Instant 旨在提供更直观的交互体验。在性能指标上，该模型表现显著：内部评估显示其“幻觉”声明减少了 52.5%，用户标记的事实错误率降低了 37.3%，在医疗、法律及金融等高风险领域表现出更强的可靠性。此次更新已面向所有用户开放，付费用户享有三个月的 GPT-5.3 Instant 过渡期，以确保平滑切换。OpenAI 表示，Instant 系列在事实性方面取得了全面进步，旨在通过更精准的信息输出提升用户的工作效率与交互质量。",
     "发布日期": "2026-05-06",
     "原文链接": "https://www.aibase.com/zh/news/27678",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8d3580ac9274197f3f8d3936b4e1bb86.jpg",
@@ -30,8 +30,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0506/6391365648589367914136568.png"
   },
   {
-    "资讯标题": "Anthropic发布10款金融AI智能体，深度集成Excel与穆迪数据",
-    "内容": "Anthropic正式发布10款专为金融服务设计的AI智能体，旨在通过自动化处理提升投行、资管及合规审查等核心业务效率。该系列工具支持撰写会议推介材料、审阅复杂财务报表及处理合规审查升级。为实现深度工作流集成，这些智能体已实现与Excel、PowerPoint及Outlook的无缝协同，并接入邓白氏与穆迪等权威机构的实时金融数据，确保输出内容的专业度与准确性。Anthropic负责人指出，金融领域数字化应用正处于爆发前夜。此外，Anthropic已与高盛、黑石等金融巨头成立合资公司，加速技术在企业端的渗透。此次发布标志着AI从单纯的聊天机器人向能够直接参与复杂金融工作流的数字化员工转型，对传统金融信息服务商的业务模式构成直接竞争压力。",
+    "资讯标题": "Anthropic发布10款金融AI智能体，深度集成办公软件并接入权威金融数据",
+    "内容": "Anthropic正式发布10款专为金融服务设计的AI智能体，旨在覆盖投行、资管及合规审查等核心业务环节。该系列工具支持撰写会议推介材料、审阅复杂财务报表及处理合规审查升级，标志着Anthropic从AI编程领域向高专业度金融市场扩张。为实现深度办公协同，这些智能体已实现与Excel、PowerPoint及Outlook的无缝集成，并接入邓白氏和穆迪等权威机构数据，确保输出内容的专业性与准确性。此外，Anthropic已与高盛、黑石等金融巨头成立合资公司，加速技术在企业端的渗透。此举将AI从单纯的聊天机器人转化为直接参与工作流的数字化员工，对传统金融信息服务商构成直接竞争压力，推动金融行业生产力变革。",
     "发布日期": "2026-05-06",
     "原文链接": "https://www.aibase.com/zh/news/27680",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
@@ -40,8 +40,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
   },
   {
-    "资讯标题": "Amazon SageMaker引入AI代理，支持自然语言驱动模型开发",
-    "内容": "Amazon SageMaker引入AI代理，支持自然语言驱动模型开发AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 6, 202615亚马逊宣布在其机器学习平台 Amazon SageMaker 中引入AI代理能力，旨在降低开发者定制语言模型的门槛，并重构模型开发流程。作为 Amazon 核心AI基础设施之一，此次升级使开发者无需手动处理复杂的API调用与数据格式转换，仅需通过自然语言描述使用场景，即可触发端到端建模流程。该AI代理可自动完成模型开发关键环节，包括推荐训练策略、数据准备、训练任务调度以及结果交付，最终以 Jupyter Notebook 形式输出完整代码，支持后续编辑与复用。",
+    "资讯标题": "Amazon SageMaker引入AI代理支持自然语言驱动模型开发",
+    "内容": "亚马逊宣布在机器学习平台Amazon SageMaker中引入AI代理能力，旨在通过自然语言交互重构模型开发流程。开发者无需手动处理复杂API调用与数据格式转换，仅需通过自然语言描述场景，即可触发端到端建模。系统内置Kiro AI代理工具，提供九项预置技能，覆盖数据集检查、训练策略推荐、任务调度及模型部署等全生命周期，并以Jupyter Notebook形式输出可复用代码。该平台支持接入Claude Code等第三方代理，并兼容Llama、Qwen、DeepSeek及亚马逊自研Nova等主流开源与商用模型。此次升级标志着机器学习开发从工具链驱动向智能体驱动演进，通过自动化编排显著压缩开发周期，强化了云平台在AI生产力工具链中的核心地位。",
     "发布日期": "2026-05-06",
     "原文链接": "https://www.aibase.com/zh/news/27683",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/86ea4ba2e6b32b18dfbd834765c536bc.jpg",
