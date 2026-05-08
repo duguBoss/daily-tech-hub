@@ -1,7 +1,7 @@
 [
   {
     "资讯标题": "苹果内置摄像头版AirPods进入DVT阶段，将赋予Siri视觉感知能力",
-    "内容": "苹果首款AI可穿戴设备——内置摄像头的AirPods已进入设计验证测试（DVT）阶段，标志着产品工业设计与核心功能基本定型。该耳机外观与AirPods Pro 3相似，内置低分辨率摄像头并非用于摄影，而是作为Siri的“眼睛”提供视觉感知能力。通过实时捕捉环境信息，Siri可实现食材识别、精准步行导航及基于视觉的主动提醒功能。为保障隐私，耳机内置微型LED指示灯以提示数据上传状态。该项目研发历时四年，得益于与谷歌Gemini的技术合作，升级版Siri预计最快于今年9月上线。若视觉识别质量达标，该产品有望随新系统同步发布。作为苹果AI硬件生态布局的关键一环，该设备旨在通过感官融合改变用户与智能助理的交互方式，被视为苹果继iPhone后又一具备颠覆潜力的产品形态。",
+    "内容": "苹果首款AI可穿戴设备——内置摄像头的AirPods已正式进入设计验证测试（DVT）阶段，标志着产品工业设计与核心功能基本定型。该耳机外观参考AirPods Pro 3，内置低分辨率摄像头，并非用于摄影，而是作为Siri的“视觉感知”窗口。通过实时捕捉环境信息，Siri可实现食材识别、路标导航及主动生活提醒等功能。为保障隐私，耳机设有微型LED指示灯，在数据上传时亮起提醒。该项目研发历时四年，得益于与谷歌Gemini的技术合作，升级版Siri预计最快于今年9月上线。苹果计划通过高普及率的AirPods切入AI硬件市场，该产品被视为苹果构建全方位AI生态的关键一环，标志着移动AI竞争正式进入“感官融合”的新阶段。",
     "发布日期": "2026-05-08",
     "原文链接": "https://www.aibase.com/zh/news/27768",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c7389163bec52f55473fd14e4a7a7ce1.jpg",
@@ -10,18 +10,28 @@
     "原始配图链接": "https://pic.chinaz.com/thumb/2026/0508/26050810114825817309.jpg"
   },
   {
-    "资讯标题": "SpaceX计划在德克萨斯州投资550亿美元建设Terafab AI芯片工厂",
-    "内容": "SpaceX计划在德克萨斯州奥斯汀市投资至少550亿美元建设名为“Terafab”的AI芯片制造厂，若后续阶段推进，总投资额有望增至1190亿美元。该项目由SpaceX与特斯拉共同运营，旨在为双方的人工智能、机器人技术及太空数据中心提供算力支持。根据规划，工厂预计每年生产足以支持200千兆瓦地面计算及1太瓦太空计算能力的芯片。英特尔已确认参与该项目的芯片设计与建造，利用其在超高性能芯片制造与封装领域的经验，加速Terafab实现产能目标。目前，SpaceX正通过田纳西州孟菲斯的Colossus数据中心扩展业务，并已与Anthropic达成协议，为其AI模型提供计算支持。此次大规模基建布局，标志着SpaceX在垂直整合AI算力供应链方面迈出关键一步，将直接影响其未来在地面与太空领域的计算基础设施能力。",
+    "资讯标题": "工信部等三部门联合发布《人工智能终端智能化分级》国家标准",
+    "内容": "5月8日，工业和信息化部、国家市场监督管理总局与商务部联合发布《人工智能终端智能化分级》（GB/Z177—2026）国家标准，正式确立国内AI终端智能化评价体系。该标准采用“2+N”架构，其中“2”包含《参考框架》与《总体要求》，将智能终端能力划分为L1响应级、L2工具级、L3辅助级及L4协同级四个阶梯。“N”则针对手机、微型计算机、电视、智能眼镜、汽车座舱、音箱与耳机七大品类制定专项规范。该标准由小米、华为、荣耀、OPPO、vivo、联想、科大讯飞等头部厂商联合起草。此举旨在扭转当前AI终端市场智能化概念泛化与评测标准碎片化的现状，推动产业从单纯的硬件参数竞争转向算法与场景协同，为产品研发、行业规范及消费者决策提供权威基准。",
     "发布日期": "2026-05-08",
-    "原文链接": "https://www.aibase.com/zh/news/27767",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bc511d26f00f08800af7219268ce773e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bc511d26f00f08800af7219268ce773e.jpg",
-    "配图仓库路径": "assets/news_images/bc511d26f00f08800af7219268ce773e.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202412121114598351_3.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27776",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3c3f0495317b63136b13881a3b58130f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3c3f0495317b63136b13881a3b58130f.jpg",
+    "配图仓库路径": "assets/news_images/3c3f0495317b63136b13881a3b58130f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743168014_9.jpg"
   },
   {
-    "资讯标题": "OpenAI 发布官方 CLI 工具 openai-cli，支持一行命令调用 Responses API 与全套 Agent 工具",
-    "内容": "OpenAI 正式发布官方命令行工具 openai-cli，该工具已在 GitHub 以 Apache 2.0 协议开源，旨在通过终端直接调用 OpenAI API，大幅提升开发、自动化脚本及服务器部署效率。openai-cli 原生支持 Responses API，并可直接调用 Web 搜索、代码解释器、文件检索及图像生成等内置工具，支持开发者在命令行构建 Agent 工作流。该工具采用资源化命令结构，输出支持 JSON、YAML、JSONL 等多种结构化格式，并内置 GJSON 语法，便于与 Unix 管道工具串联。此外，openai-cli 支持多模态任务一键处理，包括语音转录、TTS 及图像生成，并集成了 API Key 管理与项目管理功能。对于 DevOps 工程师及 CI/CD 场景，该工具填补了官",
+    "资讯标题": "OpenAI发布GPT-Realtime系列三款实时语音模型，支持GPT-5级推理",
+    "内容": "OpenAI正式推出GPT-Realtime-2、GPT-Realtime-Translate及GPT-Realtime-Whisper三款实时语音模型，并集成至Realtime API。核心模型GPT-Realtime-2具备GPT-5级推理能力，支持复杂逻辑推理、外部工具调用及自然打断，音频输入与输出费用分别为每百万Token 32美元与64美元。GPT-Realtime-Translate支持70种输入与13种输出语言的即时转换，定价为每分钟0.034美元；GPT-Realtime-Whisper专注于低延迟流式转录，定价为每分钟0.017美元。此次发布旨在解决语音交互中延迟高、多语言支持难等痛点，标志着AI语音交互从简单响应向深度实时理解跨越，为开发者提供更具协作能力的实时语音解决方案。",
+    "发布日期": "2026-05-08",
+    "原文链接": "https://www.aibase.com/zh/news/27773",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "配图仓库路径": "assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg"
+  },
+  {
+    "资讯标题": "OpenAI 发布官方 CLI 工具 openai-cli，支持一行命令调用 API 与 Agent 工具",
+    "内容": "OpenAI 正式发布官方命令行工具 openai-cli，该工具已在 GitHub 以 Apache 2.0 协议开源，支持通过 Homebrew 或 Go 安装。openai-cli 旨在填补官方工具链在命令行领域的空白，允许开发者无需编写 SDK 代码，即可在终端直接调用 OpenAI API。核心功能包括原生支持 Responses API，并可一键调用 Web 搜索、代码解释器、文件检索及图像生成等全套内置 Agent 工具。该工具采用资源化命令结构，支持 JSON、YAML、JSONL 等多种结构化输出格式，并兼容 Unix 管道操作，便于与 jq 等工具配合使用。此外，openai-cli 简化了多模态任务处理，支持语音转录、TTS 及图像编辑等功能，并集成了 API Key 管理与项目管理能力。",
     "发布日期": "2026-05-08",
     "原文链接": "https://www.aibase.com/zh/news/27769",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7991529fc059178c1a8e155eeea22b73.jpg",
@@ -30,13 +40,13 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0508/6391383237027881712829103.png"
   },
   {
-    "资讯标题": "Anthropic估值突破1.2万亿美元，正式超越OpenAI成为全球AI领域新领跑者",
-    "内容": "根据最新链上Pre-IPO交易数据，AI公司Anthropic隐含估值已飙升至1.2万亿美元，较OpenAI高出约20%，标志着其正式实现估值反超。Anthropic估值增长迅猛，仅在过去三周内便从9000亿美元跨越至万亿门槛，近半年累计涨幅高达900%。资本市场对其估值的认可，主要源于其在ToB市场的稳健表现，目前全球绝大多数世界500强企业已成为其用户，展现出极强的商业化落地能力。相比之下，OpenAI在消费者端虽人气高涨，但在商业模式的持续盈利性上仍面临挑战。若Anthropic能以当前估值顺利完成IPO，将跻身全球市值前十一大上市公司之列。此次反超预示着AI行业单极格局正向多极化演变，行业竞争已进入白热化阶段，未来市场重心或将发生显著偏移。",
+    "资讯标题": "Anthropic发布Claude“Dreaming”功能并与SpaceX达成算力合作",
+    "内容": "Anthropic在开发者大会上推出名为“Dreaming”的AI记忆优化功能，通过模拟人类REM睡眠周期，让AI在任务间隙整理记忆库，解决长周期任务中的记忆过载问题。该功能可异步处理多达100个历史会话，提炼高价值知识，并配套Outcomes自动评分系统确保输出质量。实测显示，该技术使法律科技合作伙伴Harvey的任务成功率提升约6倍，在复杂模拟实验中表现显著。为支撑高强度运算，Anthropic与SpaceX达成战略合作，租赁Colossus1数据中心22万张GPU算力。此次升级直接提升了Claude Code使用限额，放宽了Pro/MAX版本访问限制，并优化了API调用速度。开发者可通过实时监控系统审查Dreaming生成的记忆优化结果，确保AI进化的安全性与可控性。",
     "发布日期": "2026-05-08",
-    "原文链接": "https://www.aibase.com/zh/news/27762",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b570857c3f4a649f26e8c4d9abe20396.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b570857c3f4a649f26e8c4d9abe20396.jpg",
-    "配图仓库路径": "assets/news_images/b570857c3f4a649f26e8c4d9abe20396.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901011927026918_11.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27765",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
+    "配图仓库路径": "assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403050858462025_0.jpg"
   }
 ]
