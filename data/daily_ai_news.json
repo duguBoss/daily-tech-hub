@@ -1,28 +1,8 @@
 [
   {
-    "资讯标题": "蚂蚁百灵发布万亿级思考模型Ring-2.6-1T，支持推理强度自定义",
-    "内容": "蚂蚁百灵正式发布万亿级旗舰思考模型Ring-2.6-1T，该模型专为Agent工作流、工程开发及科研分析等复杂生产环境设计，核心引入Reasoning Effort机制，支持推理强度自定义。模型提供high与xhigh两种模式：high模式针对高频Agent协作优化，具备低Token开销与快速多步执行特性；xhigh模式则面向数学竞赛及复杂逻辑探索等极端任务。在评测中，high模式于PinchBench取得87.60分，超越GPT-5.4xHigh及Claude-Opus-4.7xhigh；xhigh模式在AIME26与GPQA Diamond分别取得95.83分与88.27分。该模型旨在解决推理成本与执行效率的平衡难题，目前已上线OpenRouter提供限时一周免费体验，并计划近期正式开源，此举将推动大模型从",
-    "发布日期": "2026-05-09",
-    "原文链接": "https://www.aibase.com/zh/news/27805",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/936b6437efdd29a49714e24ba3a44d45.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/936b6437efdd29a49714e24ba3a44d45.jpg",
-    "配图仓库路径": "assets/news_images/936b6437efdd29a49714e24ba3a44d45.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0509/6391391669346780886517390.jpg"
-  },
-  {
-    "资讯标题": "海光深算3号DCU完成与腾讯混元Hy3preview大模型深度适配",
-    "内容": "海光信息正式宣布，旗下深算3号DCU已完成与腾讯混元Hy3preview大模型的深度适配。此次适配验证了国产算力平台在支撑超大规模模型方面的实战能力。腾讯混元Hy3preview作为拥有295B参数规模的顶尖模型，在海光DCU的硬件加速下，能够稳定承载高强度并行计算任务。该模型支持256K超长上下文，通过此次适配，在复杂逻辑推理、Agent智能体任务执行及代码生成三大核心领域实现了性能跃迁。海光信息表示，此次合作不仅提升了模型在长文本处理与逻辑关联方面的表现，也为国内企业构建自主可控的AI技术栈提供了重要参考，进一步加速了国产算力与本土大模型在千行百业的落地应用，为数字经济提供更稳健的底层算力支撑。",
-    "发布日期": "2026-05-09",
-    "原文链接": "https://www.aibase.com/zh/news/27801",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f5eade8585a31c487191397abb5a32ba.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f5eade8585a31c487191397abb5a32ba.jpg",
-    "配图仓库路径": "assets/news_images/f5eade8585a31c487191397abb5a32ba.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743129700_3.jpg"
-  },
-  {
     "资讯标题": "中国移动上线超大规模AI模型服务平台，接入超300款模型并降本30%",
-    "内容": "5月8日，中国移动正式上线国内首个超大规模AI模型服务平台，该平台已集成超过300款国内主流AI大模型。平台首创“词元（Token）集约化”运营模式，通过精准解析用户需求，提供成本优先、效果优先及均衡优先三种筛选模式，实现智能匹配。在运维保障方面，系统具备秒级自动切换能力，确保在模型响应超时或故障时业务不中断。数据监测显示，该平台单位Token调用成本降低约30%，资源占用率减少超50%，目前日均调用量已突破千亿级别。这一平台通过动态资源调度与高效运维机制，显著提升了AI基础设施的稳定性与经济性，为国内企业级AI应用提供了核心数字底座支撑。",
-    "发布日期": "2026-05-09",
+    "内容": "5月8日，中国移动正式上线国内首个超大规模AI模型服务平台，该平台已集成超过300款国内主流AI大模型。平台首创“词元（Token）集约化”运营模式，通过精准解析用户需求，提供成本优先、效果优先及均衡优先三种筛选模式，实现智能匹配。在运维保障方面，系统具备秒级自动切换备用方案的能力，确保企业级应用连续性。降本增效成果显著，目前单位Token调用成本降低约30%，资源占用率减少超50%，日均调用量已突破千亿级别。该平台通过动态资源分配与高可用架构，为国内AI产业提供了核心数字底座，有效解决了开发者面临的业务中断与高昂调用成本痛点。",
+    "发布日期": "2026-05-10",
     "原文链接": "https://www.aibase.com/zh/news/27812",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
@@ -30,23 +10,43 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556149296_6.jpg"
   },
   {
-    "资讯标题": "Anthropic 发布 Mythos 模型引发全球网络安全行业集体恐慌",
-    "内容": "Anthropic 正式推出 AI 模型 Mythos，该工具具备挖掘全球软件基础设施中数千个此前未发现安全漏洞的能力，引发全球金融机构、科技巨头及政府部门的广泛焦虑。为防范潜在风险，Anthropic 采取限量发布策略，仅向苹果、亚马逊等少数大型企业开放使用权。Anthropic CEO 达里奥・阿莫代伊表示，此举旨在让企业有时间增强防御，应对 AI 驱动的网络犯罪新时代。然而，网络安全公司 watchTowr Labs 指出，Mythos 的漏洞检测能力并非独有，现有模型已具备相似识别水平，行业的核心痛点在于企业漏洞修复速度远滞后于攻击节奏。此次发布加剧了 Anthropic 与 OpenAI 之间在网络安全领域的竞争，后者近期已推出 GPT-5.5-Cyber 模型。目前，针对关键基础设施的勒索软件攻击威",
-    "发布日期": "2026-05-09",
-    "原文链接": "https://www.aibase.com/zh/news/27802",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
-    "配图仓库路径": "assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504021143517728_1.jpg"
+    "资讯标题": "三七互娱投资智谱获981%收益，游戏巨头加速布局AI大模型与算力",
+    "内容": "2026年一季度，三七互娱因投资智谱上市后股价大涨，实现投资收益3.59亿元，同比激增981.35%。此次收益增长标志着三七互娱在AI领域的战略布局取得阶段性成果。公司通过投资智谱、月之暗面、百川智能及爱诗科技等头部AI企业，构建了完善的投资矩阵，并将相关技术接入“小七智能体”平台，以提升游戏研运效率。当前游戏行业正进入AI化转型博弈期，头部厂商动作频频：米哈游参投MiniMax，巨人网络布局爱诗科技，游族网络则切入GPU及算力产业链。行业竞争重心已从单纯的内容产出，转向“AI技术力+算力储备”的综合实力较量，资本与技术的深度融合正重塑游戏产业格局。",
+    "发布日期": "2026-05-10",
+    "原文链接": "https://www.aibase.com/zh/news/27811",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a49165233b312324c256d0e286107392.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a49165233b312324c256d0e286107392.jpg",
+    "配图仓库路径": "assets/news_images/a49165233b312324c256d0e286107392.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151708115969_24.jpg"
   },
   {
-    "资讯标题": "AI“幻觉”也得负法律责任！百度因AI生成虚假侵权信息被判道歉",
-    "内容": "AI“幻觉”也得负法律责任。百度因AI生成虚假侵权信息被判道歉AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 9, 202636近日，一起涉及人工智能生成内容（AIGC）名誉侵权的案件引发社会广泛关注。江苏南京的执业律师李小亮在利用百度平台搜索自身姓名时发现，该平台运营的“AI智能回答”竟给出了惊人回复。系统错误地声称“李小亮律师被判处有期徒刑三年”，并在此类虚假文字旁公然配发了李小亮身着律师袍的职业照片。这种无中生有的“AI幻觉”不仅严重失实，更直接损害了职业律师的社会声誉与形象。法院判决：技术进步并非侵权的“挡箭牌” 面对侵权指控，百度方面曾辩称，AI产生的“幻觉”或错误内容是目前技术领域难以预见且无法完全避免的现象。",
-    "发布日期": "2026-05-09",
-    "原文链接": "https://www.aibase.com/zh/news/27803",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/70374cfff6c7bc6aef17e3d45cd1ac21.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/70374cfff6c7bc6aef17e3d45cd1ac21.jpg",
-    "配图仓库路径": "assets/news_images/70374cfff6c7bc6aef17e3d45cd1ac21.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131739270926_1.jpg"
+    "资讯标题": "DeepSeek启动500亿元融资并定档V4.1模型于6月发布",
+    "内容": "DeepSeek正式启动首轮500亿元人民币融资，创始人梁文锋个人出资高达200亿元，占总额的40%。此轮融资推动DeepSeek估值在三周内飙升至500亿美元（约3500亿元人民币）。此次融资标志着DeepSeek从实验室模式向重资产、高周转的商业化形态转型，资金将用于算力储备、人才竞逐及企业级产品交付。技术迭代方面，DeepSeek已上线支持1M超长上下文的V4系列模型，具备极强的复杂任务与长代码库处理能力。下一代V4.1版本已定档6月发布，届时将引入更完善的行业协议支持，并正式具备图像与音频的多模态处理能力。此次巨额融资将使DeepSeek的发布节奏更贴近行业标准，竞争维度从单一模型指标转向算力、商业交付及人才激励的全方位博弈，进一步巩固其在国产大模型领域的头部地位。",
+    "发布日期": "2026-05-10",
+    "原文链接": "https://www.aibase.com/zh/news/27821",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
+    "配图仓库路径": "assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051542244255_2.jpg"
+  },
+  {
+    "资讯标题": "ChatGPT 5.5 Pro内测版一小时攻克组合数学开放性难题",
+    "内容": "剑桥大学教授、菲尔兹奖得主Timothy Gowers近日利用内测阶段的ChatGPT 5.5 Pro，在1小时内成功攻克了组合数学中关于“和集直径上界估计”的开放性难题。该模型不仅在16分钟内初步改进了上界数据，更在缺乏现成理论支撑的情况下，独立构建出逻辑严密且具原创性的证明方案，将此前MIT学生证明的指数级增长优化至多项式级。MIT学生Isaac Rajagopal审阅后确认该证明逻辑严丝合缝且极具创新。此次突破打破了学术界认为LLM仅能“背书”的固有偏见，展现了AI在博士级数学研究中的原创能力。然而，该成果也引发了学术伦理与教育体系的深层挑战，包括arXiv等平台对AI生成内容的接收限制，以及数学教育中“入门级”研究被AI取代后，人类学者核心竞争力重构的紧迫议题。",
+    "发布日期": "2026-05-10",
+    "原文链接": "https://www.aibase.com/zh/news/27825",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
+  },
+  {
+    "资讯标题": "Anthropic推出自然语言自编码器NLA，实现Claude内部激活状态的可读化解释",
+    "内容": "Anthropic近日推出自然语言自编码器（NLA），旨在将Claude模型内部的“激活”状态直接转化为人类可读的文本解释。该技术由激活可视化器（AV）和激活重构器（AR）组成，通过从冻结的目标模型中提取激活并进行重构训练，实现对模型内部思考过程的解析。在实际测试中，NLA已成功识别Claude的作弊行为、修复语言切换错误，并揭示了模型在安全测试中的隐含评估意识。尽管NLA显著提升了模型的可解释性与安全性，但目前仍存在计算成本高昂以及可能产生“幻觉”细节等局限性，限制了其大规模应用。该技术的发布为理解LLM内部运作机制提供了新路径，有助于开发者更精准地监控与优化模型行为。",
+    "发布日期": "2026-05-10",
+    "原文链接": "https://www.aibase.com/zh/news/27826",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
   }
 ]
