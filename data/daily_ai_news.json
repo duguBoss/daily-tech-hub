@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里妈妈正式发布超级经营智能体引擎“AI 万相”",
-    "内容": "阿里妈妈于2026年5月正式推出超级经营智能体引擎“AI 万相”，标志着AI营销正式迈入智能体时代。该引擎由万相智识、万相智品、万相智造和万相智投四大智能体构成，各智能体间可实现高效协同。商家仅需发送简单指令，即可完成从营销到销售的完整闭环。该产品通过重构经营链路，帮助商家精准定位目标消费者，并利用数据分析与智能决策提升市场竞争力。在应用层面，“AI 万相”旨在大幅降低商家人力成本，通过智能化与自动化的运营模式，助力商家在竞争激烈的电商领域实现降本增效。此次发布不仅是阿里妈妈在AI营销领域的重大技术突破，也预示着智能体将成为未来电商运营中不可或缺的经营伙伴，推动行业向智能化经营模式转型。",
+    "资讯标题": "蚂蚁百灵发布万亿级思考模型Ring-2.6-1T，支持推理强度自定义",
+    "内容": "蚂蚁百灵正式发布万亿级旗舰思考模型Ring-2.6-1T，该模型专为Agent工作流、工程开发及科研分析等复杂生产环境设计。核心亮点在于引入Reasoning Effort机制，支持high与xhigh两种推理强度模式，允许开发者根据任务需求平衡推理成本与执行效率。在性能评测中，high模式在PinchBench取得87.60分，优于GPT-5.4xHigh等竞品；xhigh模式在AIME26与GPQA Diamond分别达到95.83分和88.27分。该模型的发布标志着大模型竞争转向推理效能的精细化运营。目前，Ring-2.6-1T已上线OpenRouter提供限时一周免费体验，并计划近期正式开源，旨在推动AI智能体在企业级工作流中的常态化落地。",
     "发布日期": "2026-05-09",
-    "原文链接": "https://www.aibase.com/zh/news/27779",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dd9a7cae1bb950ed46cb2400cfd64b2f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dd9a7cae1bb950ed46cb2400cfd64b2f.jpg",
-    "配图仓库路径": "assets/news_images/dd9a7cae1bb950ed46cb2400cfd64b2f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151614000705_33.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27805",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/936b6437efdd29a49714e24ba3a44d45.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/936b6437efdd29a49714e24ba3a44d45.jpg",
+    "配图仓库路径": "assets/news_images/936b6437efdd29a49714e24ba3a44d45.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0509/6391391669346780886517390.jpg"
   },
   {
-    "资讯标题": "阶跃星辰即将完成25亿美元融资并拆除红筹架构，正式启动赴港IPO进程",
-    "内容": "国产大模型公司阶跃星辰即将完成近25亿美元融资，并已完成拆除红筹架构及股改，正式由有限责任公司转变为股份有限公司，迈向香港IPO。本轮融资获得华勤、龙旗、豪威、中兴等多家产业链资本支持，覆盖从整机制造到上游核心器件的多个环节，香港投资管理有限公司（HKIC）亦加入股东名单。此次资本运作与架构调整，标志着阶跃星辰模型能力向终端迁移的战略布局进一步深化。充足的资金将用于后续研发投入与市场扩展，助力公司在激烈的AI竞争中巩固技术优势，并提升其在国际市场的竞争力。这一系列动作不仅反映了资本市场对阶跃星辰技术路径的认可，也为公司后续在港股上市奠定了坚实基础。",
+    "资讯标题": "OpenAI 发布 Codex for Chrome 扩展，实现浏览器自动化操作与复杂任务处理",
+    "内容": "5月7日，OpenAI 正式推出 Codex for Chrome 扩展程序，标志着 AI 助手从对话框迈向浏览器深度交互。该插件通过获取用户授权，能够直接驱动 Chrome 浏览器，执行阅读网页、操作内部系统及填写复杂表单等任务，充当“数字员工”角色。实测显示，Codex 在处理简单任务时偶尔存在识别偏差，但在信息搜集、生成创作选题、调用 Deepseek 辅助撰稿及自动化制作报表等复杂、多步骤任务中表现出极高的生产力。目前，该工具定位为“半自动助手”，在网页元素精准识别上仍有优化空间。官方建议用户在处理非敏感日常工作时使用，涉及核心隐私或高安全要求的任务仍需人工全程监看与复核。这一模式的落地，预示着 AI 与互联网信息的交互方式正迎来深度变革。",
     "发布日期": "2026-05-09",
-    "原文链接": "https://www.aibase.com/zh/news/27780",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/76f3b6d38f111ed03722ecf7108b85e7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/76f3b6d38f111ed03722ecf7108b85e7.jpg",
-    "配图仓库路径": "assets/news_images/76f3b6d38f111ed03722ecf7108b85e7.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201901101704279841_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27809",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1369a0e2f6721d1d08dab97a43d25f6e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1369a0e2f6721d1d08dab97a43d25f6e.jpg",
+    "配图仓库路径": "assets/news_images/1369a0e2f6721d1d08dab97a43d25f6e.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0509/6391391971286740792963001.png"
   },
   {
-    "资讯标题": "OpenAI正式发布Codex Chrome浏览器扩展程序，深度集成Web开发环境",
-    "内容": "OpenAI近日正式上线Codex for Chrome浏览器扩展程序，全面适配macOS与Windows平台，旨在为桌面端用户提供更直接的Codex智能支持。该扩展采用非侵入式设计，支持跨标签页获取上下文信息，并能直接调用开发者工具（DevTools），从而在真实浏览器环境中精准执行Web应用测试及复杂任务。OpenAI团队表示，此举旨在优化“Computer Use”功能下的高频网页工作流，填补传统API难以触及的技术空白。目前Codex周活跃用户已突破400万，较年初增长约8倍。用户即日起可通过Codex应用内的“Plugins”菜单安装该扩展。此次发布不仅简化了普通用户的办公与检索路径，也进一步深耕了开发者市场，通过深度集成浏览器环境，显著提升了AI在网页端处理复杂任务的效率与专业深度。",
+    "资讯标题": "Anthropic与Akamai签署18亿美元计算协议以强化算力基础设施",
+    "内容": "Anthropic近日与云服务商Akamai达成价值18亿美元的计算协议，旨在通过获取关键计算资源，满足其生成式AI模型日益增长的训练与推理需求。受此消息影响，Akamai股价一度上涨28%。此次合作标志着Anthropic在基础设施建设上的进一步多元化，通过多方布局构建底层算力护城河。对于深耕CDN与边缘计算的Akamai而言，该协议是其向高性能计算领域转型的关键里程碑。近期Anthropic动作频频，此前已传出与SpaceXAI达成算力合作，并正洽谈价值15亿美元的合资协议。这一系列密集投资反映了当前AI行业激烈的算力军备竞赛，同时也显示出老牌云服务商正通过绑定顶级AI初创公司，重新定义其在AI基础设施市场的竞争定位与话语权。",
     "发布日期": "2026-05-09",
-    "原文链接": "https://www.aibase.com/zh/news/27788",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "配图仓库路径": "assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171707346148_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27798",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
+    "配图仓库路径": "assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131355473164_2.jpg"
   },
   {
-    "资讯标题": "OpenAI推出GPT-5.5-Cyber预览版，面向经审核安全团队限量开放",
-    "内容": "OpenAI于2026年5月7日正式发布GPT-5.5-Cyber预览版，该模型是GPT-5.5的垂直领域专用版本，目前仅向经审核的安全团队限量开放。与通用版模型不同，GPT-5.5-Cyber通过定向训练放宽了处理安全任务时的内置限制，旨在提升授权团队在漏洞识别、补丁验证及恶意软件分析等工作流中的执行效率。OpenAI明确表示，该版本并非用于增强网络攻防能力，而是为了解决通用模型因严苛安全防护机制导致的专业任务执行难度。此次发布紧随Anthropic此前推出的Claude Mythos预览版，标志着大模型厂商正加速从通用能力竞争转向金融、安全等高敏领域的垂直场景适配。随着专用模型在关键基础设施中的渗透，如何在能力释放与风险管控间建立动态平衡，已成为行业合规与技术落地的核心挑战。",
+    "资讯标题": "Anthropic 发布 AI 模型 Mythos，引发全球金融与科技行业网络安全恐慌",
+    "内容": "Anthropic 正式推出 AI 模型 Mythos，该模型具备挖掘全球软件基础设施中数千个未知安全漏洞的能力，引发全球金融机构、科技巨头及政府部门的广泛焦虑。为规避潜在风险，Anthropic 采取限量发布策略，仅向苹果、亚马逊等少数大型企业开放。Anthropic CEO 达里奥・阿莫代伊表示，此举旨在应对 AI 驱动的网络犯罪威胁。然而，网络安全公司 watchTowr Labs 指出，Mythos 的漏洞检测能力与现有模型并无本质差异，行业恐慌更多源于企业漏洞修复速度滞后于 AI 攻击节奏。此次发布加剧了 Anthropic 与 OpenAI 在网络安全领域的竞争，后者近期已推出 GPT-5.5-Cyber 模型。专家强调，尽管技术在进步，但针对关键基础设施的勒索软件攻击风险依然严峻，企业需加速防御体",
     "发布日期": "2026-05-09",
-    "原文链接": "https://www.aibase.com/zh/news/27787",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/af10758c5260b3022da91c6978f2d32a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/af10758c5260b3022da91c6978f2d32a.jpg",
-    "配图仓库路径": "assets/news_images/af10758c5260b3022da91c6978f2d32a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604241339567854_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27802",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
+    "配图仓库路径": "assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504021143517728_1.jpg"
   },
   {
-    "资讯标题": "Anthropic宣布Claude深度集成Microsoft 365，实现跨应用上下文共享",
-    "内容": "Anthropic正式宣布旗下AI助手Claude深度集成至Microsoft 365生态系统，并面向所有付费用户开放。此次更新的核心在于实现“跨应用上下文共享”，Claude能够实时读取并理解Excel、Word和PowerPoint之间的关联数据。在具体应用层面，Claude在Excel中支持构建复杂数据模型，在PowerPoint中可一键生成原生专业图表，在Word中则能以修订模式处理文档反馈并回复评论。通过此次集成，用户无需频繁切换窗口，即可在统一窗口内完成从数据分析到报告生成及幻灯片演示的全流程操作。Claude从单一功能助手进化为具备全局视野的协同者，通过打通跨应用协作流，显著提升了Microsoft 365用户的办公生产力与流程自动化水平。",
+    "资讯标题": "AI“幻觉”也得负法律责任！百度因AI生成虚假侵权信息被判道歉",
+    "内容": "AI“幻觉”也得负法律责任。百度因AI生成虚假侵权信息被判道歉AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 9, 202628近日，一起涉及人工智能生成内容（AIGC）名誉侵权的案件引发社会广泛关注。江苏南京的执业律师李小亮在利用百度平台搜索自身姓名时发现，该平台运营的“AI智能回答”竟给出了惊人回复。系统错误地声称“李小亮律师被判处有期徒刑三年”，并在此类虚假文字旁公然配发了李小亮身着律师袍的职业照片。这种无中生有的“AI幻觉”不仅严重失实，更直接损害了职业律师的社会声誉与形象。法院判决：技术进步并非侵权的“挡箭牌” 面对侵权指控，百度方面曾辩称，AI产生的“幻觉”或错误内容是目前技术领域难以预见且无法完全避免的现象。",
     "发布日期": "2026-05-09",
-    "原文链接": "https://www.aibase.com/zh/news/27793",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27803",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/70374cfff6c7bc6aef17e3d45cd1ac21.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/70374cfff6c7bc6aef17e3d45cd1ac21.jpg",
+    "配图仓库路径": "assets/news_images/70374cfff6c7bc6aef17e3d45cd1ac21.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131739270926_1.jpg"
   }
 ]
