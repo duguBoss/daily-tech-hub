@@ -1,27 +1,7 @@
 [
   {
-    "资讯标题": "英伟达2026年已投入400亿美元布局AI产业链，涵盖OpenAI及多家上市公司",
-    "内容": "英伟达2026年以来在AI领域动作频频，已承诺投入超过400亿美元用于股权交易，旨在深耕AI全产业链。核心投资包括向OpenAI注资30亿美元，进一步强化战略纽带。在公开市场，英伟达宣布了七项十亿级投资协议，重点布局底层材料与基础设施，其中玻璃基板制造商康宁公司获投最高32亿美元，数据中心运营商IREN获投约21亿美元。在初创企业层面，英伟达今年已参与约24轮私募融资。市场分析指出，英伟达通过将芯片客户转化为“利益共同体”的投资模式，虽引发了关于“循环交易”及潜在泡沫的争议，但此举正加速其从单一硬件供应商向掌控全产业链的核心资本力量转型，旨在构建难以逾越的竞争护城河。",
-    "发布日期": "2026-05-12",
-    "原文链接": "https://www.aibase.com/zh/news/27890",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
-    "配图仓库路径": "assets/news_images/3371edac10193960308e8a3aac430def.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202010261720420670_6.jpg"
-  },
-  {
-    "资讯标题": "百度发布Ernie 5.1模型：预训练成本降低94%，位列全球Search排行榜第四",
-    "内容": "百度于2026年5月11日正式发布新一代语言模型Ernie 5.1。该模型基于2.4万亿参数的Ernie 5.0底座，通过“一次性弹性训练框架”实现多种尺寸模型优化，预训练成本仅为同类模型的6%。截至5月9日，Ernie 5.1在Arena Search排行榜以1223分位列全球第四、中国模型第一。架构上，Ernie 5.1参数量降至前作的三分之一，采用深度、宽度及活跃专家数量可调的子模型配置。为解决多技能训练中的“跷跷板效应”，百度应用四阶段后训练流程，结合策略蒸馏与强化学习，有效提升了编程与创造力表现。此外，重建的强化学习基础设施将更新、生成与评估解耦，显著增强了训练稳定性。目前，Ernie 5.1已集成至百度AI Studio及多款创意应用平台，在GPQA、MMLU-Pro等基准测试中展现出比肩Gemin",
-    "发布日期": "2026-05-12",
-    "原文链接": "https://www.aibase.com/zh/news/27882",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6a992a7ad6a664ddd7e7be60b2da4c3f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6a992a7ad6a664ddd7e7be60b2da4c3f.jpg",
-    "配图仓库路径": "assets/news_images/6a992a7ad6a664ddd7e7be60b2da4c3f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901281035388749_0.jpg"
-  },
-  {
-    "资讯标题": "爆了！千问大模型直连淘宝：AI带货的“终极形态”来了？",
-    "内容": "千问大模型直连淘宝：AI带货的“终极形态”来了。AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 12, 202615大模型变现的路径正在被巨头们暴力打通。近日，通义千问与淘宝正式实现深度融合，这并非简单的跳转，而是将AI助手直接变成了“超级导购”。用户现在只需在千问App中动动嘴，就能完成从商品挑选、多平台比价到支付下单的全流程。这种转变标志着AI电商正从“辅助搜索工具”转型为“基础设施”。对于阿里而言，这不仅是AI战略的一次关键跃迁，更是为大模型商业化找到了一个实实在在的流量出口。购物体验：从“搜关键词”到“说人话”在实际操作中，这种“闭环购物”体验相当丝滑。传统的电商模式依赖用户手动输入关键词，然后在海量货架中反复筛选。",
+    "资讯标题": "通义千问大模型正式接入淘宝实现深度融合，支持全流程闭环购物",
+    "内容": "通义千问大模型近日与淘宝实现深度融合，将AI助手升级为“超级导购”，支持用户在千问App内完成从商品挑选、多平台比价到支付下单的全流程闭环操作。该功能基于通义千问的意图识别能力，可直接调用淘宝40亿量级的SKU库，用户通过自然语言描述需求，系统即可精准匹配商品并生成订单卡片，后续物流查询及售后退换货均可通过对话完成。此次升级标志着AI电商从辅助搜索工具向基础设施转型，将电商逻辑从关键词竞价重构为基于意图的推荐模式。行业分析认为，大厂入局AI电商的核心护城河在于交易闭环数据，通过高频消费行为沉淀提升推荐精准度。目前该功能正处于持续接入与优化阶段，未来如何平衡广告收入与“意图电商”的推荐透明度，将成为阿里等平台面临的关键商业化挑战。",
     "发布日期": "2026-05-12",
     "原文链接": "https://www.aibase.com/zh/news/27885",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d1a48292d65fb5bbe0b78183b1b15486.jpg",
@@ -30,8 +10,28 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007255440_8.jpg"
   },
   {
-    "资讯标题": "OpenAI成立咨询子公司DeployCo并收购Tomoro以强化企业AI落地服务",
-    "内容": "OpenAI于本周一正式成立名为OpenAI Deployment Co.（简称DeployCo）的咨询子公司，旨在协助企业构建并部署复杂AI系统。为快速提升实战能力，OpenAI同步收购应用AI咨询与工程公司Tomoro，约150名资深工程师将并入新公司，直接驻扎客户现场提供技术支持。DeployCo拥有超过40亿美元初始运营资金，并获贝恩资本等机构支持。此举被视为对Anthropic近期组建部署团队的直接回应，旨在切入由埃森哲、德勤等巨头主导的咨询市场。OpenAI效仿Palantir的“前线部署工程师”模式，通过深度嵌入客户环境解决企业内部专业知识匮乏问题。尽管面临产品单一化、厂商锁定风险及与现有生态伙伴的竞争挑战，但此举标志着OpenAI正式进入AI价值变现的关键期，通过提供“送货上门”式的咨询服务，直",
+    "资讯标题": "谷歌首次监测并拦截由人工智能自主开发并执行的零日漏洞攻击程序",
+    "内容": "5月12日，谷歌威胁情报小组披露，成功拦截了一起由AI自主开发的零日漏洞攻击。该攻击程序并非由人类程序员编写，而是黑客利用特定AI模型全自动完成了从漏洞挖掘到恶意代码生成及执行的全过程。谷歌确认，此次攻击中使用的AI模型并非其Gemini系列。目前，受影响企业已获通知并完成漏洞修复。谷歌分析师指出，AI技术显著降低了高难度网络攻击的门槛，使原本需数周的攻击任务可实现大规模产出。这一事件标志着网络安全进入“以AI对抗AI”的新阶段，未来网络攻防博弈将演变为算力与模型算法的直接较量，对全球网络安全防御体系提出了严峻挑战。",
+    "发布日期": "2026-05-12",
+    "原文链接": "https://www.aibase.com/zh/news/27896",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a887fca50febc3accd0e3be8679c722f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a887fca50febc3accd0e3be8679c722f.jpg",
+    "配图仓库路径": "assets/news_images/a887fca50febc3accd0e3be8679c722f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908071125376364_0.jpg"
+  },
+  {
+    "资讯标题": "打破“技术黑箱”：上海AI实验室攻克芯片光刻胶制备难题",
+    "内容": "打破“技术黑箱”：上海AI实验室攻克芯片光刻胶制备难题AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 12, 20266上海人工智能实验室近日联合多家科研单位，利用“书生”科学大模型与自动化研发平台，成功攻克了高端KrF光刻胶树脂的稳定制备难题。这一进展标志着我国在芯片核心材料领域取得了重大突破，相关产品的产业关键指标均已达到预期。光刻胶树脂的研制长期以来依赖人工经验，研发人员需在数以千计的配比和反应条件中反复试错。这种传统的研发模式不仅效率低下，且极易受到操作误差影响，难以保证量产芯片所需的高度稳定性。AI驱动闭环研发 科研团队通过构建“AI决策+自动化合成”的闭环体系，实现了从实验方案生成到自动化后处理的全流程运行。",
+    "发布日期": "2026-05-12",
+    "原文链接": "https://www.aibase.com/zh/news/27897",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
+    "配图仓库路径": "assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812181034453995_26.jpg"
+  },
+  {
+    "资讯标题": "OpenAI成立咨询子公司DeployCo并收购Tomoro，提供企业级AI部署服务",
+    "内容": "OpenAI于本周一正式宣布成立名为“OpenAI Deployment Co.”（简称DeployCo）的咨询子公司，旨在协助企业构建并部署复杂AI系统。为强化实战能力，OpenAI同步收购了应用AI咨询与工程公司Tomoro，约150名资深工程师将并入新公司，直接驻扎客户现场提供技术支持。DeployCo拥有超过40亿美元的初始运营资金，并获得贝恩资本等机构支持。此举被视为对Anthropic近期组建部署团队的直接回应，并效仿Palantir的“前线部署工程师”模式，意在切入由埃森哲、德勤等巨头主导的咨询市场。尽管此举有助于解决企业AI落地难题，但行业专家指出，OpenAI需平衡模型开发商与咨询服务商的双重身份，并妥善处理与现有生态伙伴的竞争关系，以应对潜在的厂商锁定风险。",
     "发布日期": "2026-05-12",
     "原文链接": "https://www.aibase.com/zh/news/27892",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
@@ -40,13 +40,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202502061719358642_0.jpg"
   },
   {
-    "资讯标题": "Anthropic 推出 Claude Code Agent View 功能，实现多任务后台集中调度",
-    "内容": "Anthropic 旗下命令行编程工具 Claude Code 正式上线 Agent View 功能，旨在解决开发者处理多并行 AI 编程任务时的窗口管理与上下文切换难题。该功能目前处于“研究预览”阶段，开发者通过触发左箭头键或执行 claude agents 指令即可进入总览界面。Agent View 以行级颗粒度展示各会话状态，包括等待回复、运行中及已完成，支持在总览界面直接输入指令进行决策，无需切换完整窗口即可预览进展。此外，新增的后台处理能力支持通过 /bg 指令或 claude --bg 直接发起后台会话，显著提升了大规模并发任务的调度效率。目前，Agent View 已面向 Claude Pro、Max、Team、Enterprise 及 API 用户开放。这一更新标志着 AI 编程工具正从单一任务",
+    "资讯标题": "AMD发布vLLM-ATOM插件，显著提升国产大模型在Instinct GPU上的推理效率",
+    "内容": "AMD正式发布专为大语言模型部署设计的vLLM-ATOM插件，旨在优化DeepSeek-R1、Kimi-K2、Qwen3及GLM等主流国产大模型在AMD硬件上的推理性能。该插件支持Instinct MI350及MI400系列高性能GPU，通过“零成本”部署方案，用户无需修改现有API或工作流即可实现平滑迁移。vLLM-ATOM采用三层架构设计，顶层兼容OpenAI接口，底层提供核心GPU内核，并深度集成了混合专家模型（MoE）及量化技术。该插件不仅支持稠密模型，还全面覆盖视觉语言模型（VLM）等多种应用场景。通过自动接管请求调度与内核调优，AMD显著降低了企业级AI部署门槛，助力开发者在Instinct系列GPU上实现更高效、稳定的在线AI服务转化，进一步完善了AMD的算力生态布局。",
     "发布日期": "2026-05-12",
-    "原文链接": "https://www.aibase.com/zh/news/27884",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
-    "配图仓库路径": "assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202605070947057219_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27898",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/17fea3a062bbfcaff50dd66ccbd24ee3.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/17fea3a062bbfcaff50dd66ccbd24ee3.jpg",
+    "配图仓库路径": "assets/news_images/17fea3a062bbfcaff50dd66ccbd24ee3.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0512/6391418281439138882910816.png"
   }
 ]
