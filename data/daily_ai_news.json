@@ -1,52 +1,42 @@
 [
   {
-    "资讯标题": "通义千问大模型正式接入淘宝实现深度融合，支持全流程闭环购物",
-    "内容": "通义千问大模型近日与淘宝实现深度融合，将AI助手升级为“超级导购”，支持用户在千问App内完成从商品挑选、多平台比价到支付下单的全流程闭环操作。该功能基于通义千问的意图识别能力，可直接调用淘宝40亿量级的SKU库，用户通过自然语言描述需求，系统即可精准匹配商品并生成订单卡片，后续物流查询及售后退换货均可通过对话完成。此次升级标志着AI电商从辅助搜索工具向基础设施转型，将电商逻辑从关键词竞价重构为基于意图的推荐模式。行业分析认为，大厂入局AI电商的核心护城河在于交易闭环数据，通过高频消费行为沉淀提升推荐精准度。目前该功能正处于持续接入与优化阶段，未来如何平衡广告收入与“意图电商”的推荐透明度，将成为阿里等平台面临的关键商业化挑战。",
-    "发布日期": "2026-05-12",
-    "原文链接": "https://www.aibase.com/zh/news/27885",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d1a48292d65fb5bbe0b78183b1b15486.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d1a48292d65fb5bbe0b78183b1b15486.jpg",
-    "配图仓库路径": "assets/news_images/d1a48292d65fb5bbe0b78183b1b15486.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007255440_8.jpg"
+    "资讯标题": "防篡位“金身”：OpenAI悄然改章程大幅提升罢免奥特曼难度",
+    "内容": "防篡位“金身”：OpenAI悄然改章程大幅提升罢免奥特曼难度AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 12, 202628在经历了 2023 年的“政变”风波后，OpenAI近期通过修改公司章程，为其首席执行官萨姆·奥特曼筑起了一道坚固的防御墙。根据最新曝光的法庭文件，奥特曼如今在公司内部的地位已稳如泰山，外部干预或董事会内部罢免的门槛被大幅拉高。马斯克起诉OpenAI案件的专家证人指出，这些变动是在公司向营利性转型期间悄悄完成的。相较于过去简单多数票即可解雇CEO的规则，新规则实质上赋予了奥特曼极强的留任保障。从简单多数到绝对多数 根据去年 10 月通过的新章程，若要罢免CEO，必须获得公共利益公司（PBC）非员工董事三分之二以上的“绝对多数”同意。",
+    "发布日期": "2026-05-13",
+    "原文链接": "https://www.aibase.com/zh/news/27904",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c837f4493d467314bec37c70ee75d9b2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c837f4493d467314bec37c70ee75d9b2.jpg",
+    "配图仓库路径": "assets/news_images/c837f4493d467314bec37c70ee75d9b2.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202604171707346148_0.jpg"
   },
   {
-    "资讯标题": "谷歌首次监测并拦截由人工智能自主开发并执行的零日漏洞攻击程序",
-    "内容": "5月12日，谷歌威胁情报小组披露，成功拦截了一起由AI自主开发的零日漏洞攻击。该攻击程序并非由人类程序员编写，而是黑客利用特定AI模型全自动完成了从漏洞挖掘到恶意代码生成及执行的全过程。谷歌确认，此次攻击中使用的AI模型并非其Gemini系列。目前，受影响企业已获通知并完成漏洞修复。谷歌分析师指出，AI技术显著降低了高难度网络攻击的门槛，使原本需数周的攻击任务可实现大规模产出。这一事件标志着网络安全进入“以AI对抗AI”的新阶段，未来网络攻防博弈将演变为算力与模型算法的直接较量，对全球网络安全防御体系提出了严峻挑战。",
-    "发布日期": "2026-05-12",
-    "原文链接": "https://www.aibase.com/zh/news/27896",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a887fca50febc3accd0e3be8679c722f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a887fca50febc3accd0e3be8679c722f.jpg",
-    "配图仓库路径": "assets/news_images/a887fca50febc3accd0e3be8679c722f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908071125376364_0.jpg"
+    "资讯标题": "谷歌地图将深度集成Gemini AI助手，Apple CarPlay导航体验迎来升级",
+    "内容": "谷歌正计划为Apple CarPlay版本的谷歌地图引入Gemini AI助手，旨在将车载导航从传统工具升级为具备深度理解能力的智能副驾。该功能得益于iOS 26.4版本对第三方语音对话类应用的开放，允许Gemini与CarPlay进行深层集成。目前，相关代码框架已内置于谷歌地图应用中，用户在手机端同意更新服务条款后即可解锁支持。与以往仅支持基础语音指令不同，Gemini将支持对话式交互，驾驶者可直接询问目的地细节或获取出行建议。目前该功能正处于测试阶段，预计将在完成测试后通过版本更新向全球用户推送。随着ChatGPT、Grok及Perplexity等AI服务相继接入，CarPlay生态的智能化进程显著加速，车载系统正向深度理解能力的智能交互终端转型。",
+    "发布日期": "2026-05-13",
+    "原文链接": "https://www.aibase.com/zh/news/27902",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3cd792550006727bcf3d9fb57d360f8f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3cd792550006727bcf3d9fb57d360f8f.jpg",
+    "配图仓库路径": "assets/news_images/3cd792550006727bcf3d9fb57d360f8f.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0512/6391419098204321486300650.png"
   },
   {
-    "资讯标题": "打破“技术黑箱”：上海AI实验室攻克芯片光刻胶制备难题",
-    "内容": "打破“技术黑箱”：上海AI实验室攻克芯片光刻胶制备难题AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 12, 20266上海人工智能实验室近日联合多家科研单位，利用“书生”科学大模型与自动化研发平台，成功攻克了高端KrF光刻胶树脂的稳定制备难题。这一进展标志着我国在芯片核心材料领域取得了重大突破，相关产品的产业关键指标均已达到预期。光刻胶树脂的研制长期以来依赖人工经验，研发人员需在数以千计的配比和反应条件中反复试错。这种传统的研发模式不仅效率低下，且极易受到操作误差影响，难以保证量产芯片所需的高度稳定性。AI驱动闭环研发 科研团队通过构建“AI决策+自动化合成”的闭环体系，实现了从实验方案生成到自动化后处理的全流程运行。",
-    "发布日期": "2026-05-12",
-    "原文链接": "https://www.aibase.com/zh/news/27897",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
-    "配图仓库路径": "assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812181034453995_26.jpg"
+    "资讯标题": "OpenAI向欧盟开放GPT-5.5-Cyber模型以强化网络安全防御",
+    "内容": "OpenAI正式宣布向欧盟开放其最先进的网络安全大模型GPT-5.5-Cyber，访问权限精准覆盖企业、政府机构、网络安全专家及欧盟AI办公室。此举旨在利用该模型的深度分析能力应对复杂网络威胁，并提升全球网络防御合作水平。欧盟委员会对此表示欢迎，认为该模型的透明度有助于监管部门实时跟踪部署情况并降低潜在风险。相比之下，竞争对手Anthropic的网络安全模型Mythos目前尚未获得欧盟市场准入。尽管Anthropic已与欧盟进行了四至五轮密集磋商，但进度仍停留在程序层面，远落后于OpenAI。此次合规进度差异直接影响了全球安全模型在欧洲市场的布局格局，凸显了OpenAI在跨境落地与监管合规方面的领先优势。",
+    "发布日期": "2026-05-13",
+    "原文链接": "https://www.aibase.com/zh/news/27908",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0774671555f10ec41adc9f0a5f858c53.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0774671555f10ec41adc9f0a5f858c53.jpg",
+    "配图仓库路径": "assets/news_images/0774671555f10ec41adc9f0a5f858c53.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0512/6391419613236057799590741.png"
   },
   {
-    "资讯标题": "OpenAI成立咨询子公司DeployCo并收购Tomoro，提供企业级AI部署服务",
-    "内容": "OpenAI于本周一正式宣布成立名为“OpenAI Deployment Co.”（简称DeployCo）的咨询子公司，旨在协助企业构建并部署复杂AI系统。为强化实战能力，OpenAI同步收购了应用AI咨询与工程公司Tomoro，约150名资深工程师将并入新公司，直接驻扎客户现场提供技术支持。DeployCo拥有超过40亿美元的初始运营资金，并获得贝恩资本等机构支持。此举被视为对Anthropic近期组建部署团队的直接回应，并效仿Palantir的“前线部署工程师”模式，意在切入由埃森哲、德勤等巨头主导的咨询市场。尽管此举有助于解决企业AI落地难题，但行业专家指出，OpenAI需平衡模型开发商与咨询服务商的双重身份，并妥善处理与现有生态伙伴的竞争关系，以应对潜在的厂商锁定风险。",
-    "发布日期": "2026-05-12",
-    "原文链接": "https://www.aibase.com/zh/news/27892",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
-    "配图仓库路径": "assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502061719358642_0.jpg"
-  },
-  {
-    "资讯标题": "AMD发布vLLM-ATOM插件，显著提升国产大模型在Instinct GPU上的推理效率",
-    "内容": "AMD正式发布专为大语言模型部署设计的vLLM-ATOM插件，旨在优化DeepSeek-R1、Kimi-K2、Qwen3及GLM等主流国产大模型在AMD硬件上的推理性能。该插件支持Instinct MI350及MI400系列高性能GPU，通过“零成本”部署方案，用户无需修改现有API或工作流即可实现平滑迁移。vLLM-ATOM采用三层架构设计，顶层兼容OpenAI接口，底层提供核心GPU内核，并深度集成了混合专家模型（MoE）及量化技术。该插件不仅支持稠密模型，还全面覆盖视觉语言模型（VLM）等多种应用场景。通过自动接管请求调度与内核调优，AMD显著降低了企业级AI部署门槛，助力开发者在Instinct系列GPU上实现更高效、稳定的在线AI服务转化，进一步完善了AMD的算力生态布局。",
-    "发布日期": "2026-05-12",
-    "原文链接": "https://www.aibase.com/zh/news/27898",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/17fea3a062bbfcaff50dd66ccbd24ee3.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/17fea3a062bbfcaff50dd66ccbd24ee3.jpg",
-    "配图仓库路径": "assets/news_images/17fea3a062bbfcaff50dd66ccbd24ee3.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0512/6391418281439138882910816.png"
+    "资讯标题": "AMD发布vLLM-ATOM插件，深度优化Instinct GPU大模型推理性能",
+    "内容": "AMD正式发布vLLM-ATOM插件，旨在无需修改现有API接口或工作流的前提下，显著提升DeepSeek-R1、Kimi-K2及gpt-oss-120B等大模型的推理速度。该插件专为Instinct MI350、MI400及MI400X系列GPU打造，采用三层架构设计：顶层兼容vLLM调度，中间层负责模型实现与内核调优，底层AITER提供Flash Attention、量化GEMM及MoE融合等加速能力。vLLM-ATOM支持Qwen3、GLM、DeepSeek等多种架构，涵盖MoE、稠密模型及视觉语言模型（VLM）。通过“无感迁移”方案，企业可降低高性能算力部署门槛，在保持推理效率的同时，提升大模型在线服务的响应速度与稳定性，实现向AMD硬件后端的平滑切换。",
+    "发布日期": "2026-05-13",
+    "原文链接": "https://www.aibase.com/zh/news/27903",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/eb601e68452e54456a876493c6baf337.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/eb601e68452e54456a876493c6baf337.jpg",
+    "配图仓库路径": "assets/news_images/eb601e68452e54456a876493c6baf337.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151639122547_17.jpg"
   }
 ]
