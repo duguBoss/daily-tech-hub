@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌发布AI笔记本平台Googlebook，Gemini模型重构指针交互与系统底层",
-    "内容": "谷歌正式发布AI笔记本平台Googlebook，将Gemini模型深度整合至系统底层，实现个人计算从应用驱动向模型驱动的范式转变。该平台核心技术革新在于将Gemini能力嵌入“鼠标指针”，通过感应光标移动与停留实时分析屏幕内容并预测用户意图，如指向邮件日期触发会议预约、指向文本即时摘要等，打破了传统人机交互的线性逻辑。此外，Googlebook引入“动态桌面”概念，支持通过自然语言生成定制化仪表盘，并能跨应用自动调取Gmail、日历及网页信息。这种被称为“氛围计算（Vibe Computing）”的模式，使AI成为组织系统资源、重塑UI界面及处理复杂任务流的核心大脑，标志着AI PC行业正从工具属性向智能主体进化。",
-    "发布日期": "2026-05-13",
-    "原文链接": "https://www.aibase.com/zh/news/27931",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/48f9c60fbf4c405c8252fd1c73e5a1cc.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/48f9c60fbf4c405c8252fd1c73e5a1cc.jpg",
-    "配图仓库路径": "assets/news_images/48f9c60fbf4c405c8252fd1c73e5a1cc.jpg",
-    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0513/26051311062781521967.jpg"
+    "资讯标题": "谷歌推出“创建我的小部件”功能，支持用户通过自然语言定制桌面组件",
+    "内容": "谷歌正式发布“创建我的小部件”功能，该功能基于Gemini智能技术，允许用户通过自然语言描述需求，自动生成可自定义及调整大小的桌面仪表板。该功能计划于今夏率先在三星Galaxy和谷歌Pixel手机上上线。用户可通过自然语言指令，如“每周推荐三道高蛋白食谱”或定制特定天气参数，系统将自动从网络及Gmail、日历等应用中抓取并整合信息，实现航班、酒店、餐厅预订及倒计时等个性化数据展示。Android核心体验产品经理Ben Greenwood表示，此举旨在将Gemini打造为持续提供答案的个人助理，开启更多应用场景。此外，谷歌还同步推出了包含高级自动填充及AI驱动Gboard语音输入在内的Gemini增强功能，进一步推动生成式AI在Android生态中的深度集成，提升用户交互体验。",
+    "发布日期": "2026-05-14",
+    "原文链接": "https://www.aibase.com/zh/news/27951",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5b199190eddd5fc976b33e5e211bd8d9.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5b199190eddd5fc976b33e5e211bd8d9.jpg",
+    "配图仓库路径": "assets/news_images/5b199190eddd5fc976b33e5e211bd8d9.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0513/6391428292389930031749148.png"
   },
   {
-    "资讯标题": "蚂蚁灵波开源LingBot-VLA后训练工具链，仅需150条数据即可适配新机器人",
-    "内容": "蚂蚁集团旗下灵波科技正式开源具身基座模型LingBot-VLA的真机后训练工具链，旨在解决具身智能领域模型部署适配难的行业痛点。该工具链覆盖数据处理、训练配置、离线评测及编译加速部署四大环节，支持多LeRobot数据合并及关节维度映射标准化。LingBot-VLA基于2万小时真实机器人数据预训练，覆盖9种主流双臂机器人构型，在真机与仿真评测中表现优于π0.5。得益于底层代码库优化，其训练效率达到StarVLA、OpenPI等框架的1.5至2.8倍，仅需150条示教数据即可完成高质量任务迁移。目前，该项目已在GitHub开源，模型权重同步上线Hugging Face与ModelScope，并已完成与乐聚、松灵、星海图等多厂商机型验证，显著降低了具身智能模型适配的数据与算力门槛。",
-    "发布日期": "2026-05-13",
-    "原文链接": "https://www.aibase.com/zh/news/27927",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dabf9667e4b53edfd4551849456dda7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4dabf9667e4b53edfd4551849456dda7.jpg",
-    "配图仓库路径": "assets/news_images/4dabf9667e4b53edfd4551849456dda7.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202201042120215981_23.jpg"
+    "资讯标题": "百度发布通用智能体DuMate并提出DAA作为AI时代度量衡",
+    "内容": "百度在Create2026开发者大会上正式发布通用智能体DuMate及其移动端App，标志着AI入口从聊天机器人向复杂任务交付智能体转型。百度创始人李彦宏首次提出“日活智能体数”（Daily Active Agents，简称DAA）作为AI时代衡量生态价值的度量衡，并预测全球DAA有望突破100亿量级。会上同步亮相的还有具备自我演化与自主决策能力的智能体“伐谋”，以及赋予任务交付情绪价值的数字人形态。李彦宏强调，AI竞争已转向执行力，企业应实施“智能体优先策略”，通过“秒哒”等代码智能体工具降低软件开发门槛，推动软件向低成本“快消品”演变，预示软件开发市场将迎来十倍增长空间。此次发布旨在推动AI从模型能力竞争向应用层智能体执行力竞争跨越。",
+    "发布日期": "2026-05-14",
+    "原文链接": "https://www.aibase.com/zh/news/27949",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fc3a2e0e8a152dde06702e4e1bd2c515.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fc3a2e0e8a152dde06702e4e1bd2c515.jpg",
+    "配图仓库路径": "assets/news_images/fc3a2e0e8a152dde06702e4e1bd2c515.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151640157875_34.jpg"
   },
   {
-    "资讯标题": "苹果发布 iOS 27 系统，Siri 升级为独立应用并支持持续对话",
-    "内容": "苹果正式宣布 iOS 27 系统重大升级，Siri 将转型为独立应用程序，具备持续对话能力，全面对标 ChatGPT、Claude 及 Gemini 等主流 AI 模型。新版 Siri 支持图文输入、文档上传及图片处理，并与“灵动岛”深度整合，唤醒时显示动态胶囊动画，结果以卡片呈现，用户可上滑进入类似 iMessage 的连续对话界面。系统新增“Search or Ask”功能，支持在任意界面下拉唤起，提供深入的应用内及全网搜索。苹果同时开放第三方 AI 选项，允许用户将 ChatGPT 或 Gemini 设为默认模型。此次更新还优化了图乐园、相机、照片及钱包等配套应用，标志着 Siri 从被动指令助手向主动式 AI 助理的战略转型。目前该功能暂不支持中国大陆地区。",
-    "发布日期": "2026-05-13",
-    "原文链接": "https://www.aibase.com/zh/news/27922",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9858a18a31cf7c0ffc62086097c018f0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9858a18a31cf7c0ffc62086097c018f0.jpg",
-    "配图仓库路径": "assets/news_images/9858a18a31cf7c0ffc62086097c018f0.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0513/6391425999649491163649574.png"
+    "资讯标题": "支付宝“AI收”接入扣子编程，新增商家入驻与支付集成Skill",
+    "内容": "5月13日，支付宝“AI收”联合AI开发平台扣子编程，升级“支付宝支付集成Skill”并上线“支付宝商家入驻Skill”。此次更新旨在降低个人开发者商业化门槛，实现“开发即上线”。升级后的支付集成Skill新增“快速沙箱”功能，支持免注册、免登录自动创建隔离测试环境，并内置支付故障排查能力，开发者可通过自然语言直接获取解决方案。同时，新上线的“支付宝商家入驻Skill”简化了认证流程，开发者仅需提供三张应用截图即可完成商家认证，个人开发者亦可快速获取收款能力。通过将支付基建标准化、智能化，支付宝旨在降低AI应用开发的技术门槛与商业化成本，进一步激活AI产业生态，助力开发者实现从应用开发到商业变现的一站式闭环。",
+    "发布日期": "2026-05-14",
+    "原文链接": "https://www.aibase.com/zh/news/27948",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3eb6aee4b9ab3f8ad1ce0d98f6a77924.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3eb6aee4b9ab3f8ad1ce0d98f6a77924.jpg",
+    "配图仓库路径": "assets/news_images/3eb6aee4b9ab3f8ad1ce0d98f6a77924.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307061803140543_10.jpg"
   },
   {
-    "资讯标题": "百度发布秒哒App移动端，实现99%代码自主生成并上线企业版",
-    "内容": "百度在Create 2026开发者大会上正式发布无代码开发平台“秒哒”App移动端版本及企业版。该平台核心亮点在于极高的自动化水平，官方披露其App由一名开发者独立完成，且99%的代码由秒哒自动生成。秒哒企业版同步上线，旨在通过自然语言指令助力企业快速构建业务应用，推动AI从内容生成向实际生产力转化。在商业化方面，该平台已展现出显著的变现潜力，早期开发者通过秒哒开发的工具已获得最高1000万元收益。目前，秒哒App已在主流应用商店上架。此次发布标志着无代码开发模式进入新阶段，通过降低开发门槛，加速“人人都是开发者”愿景落地，并有望重塑传统企业的数字化开发流程，成为行业降本增效的关键工具。",
-    "发布日期": "2026-05-13",
-    "原文链接": "https://www.aibase.com/zh/news/27930",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6a992a7ad6a664ddd7e7be60b2da4c3f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6a992a7ad6a664ddd7e7be60b2da4c3f.jpg",
-    "配图仓库路径": "assets/news_images/6a992a7ad6a664ddd7e7be60b2da4c3f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901281035388749_0.jpg"
+    "资讯标题": "小米MiMo登顶OpenRouter全球调用量榜首，国产大模型首次夺冠",
+    "内容": "小米MiMo大模型在AI模型API聚合平台OpenRouter中登顶全球调用量榜首，成为首个获此成就的国产模型。数据显示，MiMo在最近一个月内累计贡献1.45万亿Token调用量，在超过300个模型中脱颖而出。该模型采用端云协同架构，核心优势在于高推理效率与低成本，其实用性定位获得全球开发者认可。在生态合作方面，小米已与Nous Research达成合作，MiMo系列全面接入开源Agent框架Hermes Agent，显著拓展了应用边界。为进一步扩大影响力，小米正式启动“MiMo Orbit 100T Token计划”，承诺在30天内向全球AI用户免费发放100万亿Token调用额度。此次登顶标志着国产模型在全球开发者生态中的竞争力显著提升，通过低成本与高效率的架构设计，MiMo成功在国际主流聚合平台占据领先",
+    "发布日期": "2026-05-14",
+    "原文链接": "https://www.aibase.com/zh/news/27946",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
+    "配图仓库路径": "assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556160776_8.jpg"
   },
   {
-    "资讯标题": "OpenAI与微软修订收入分成协议，将支付总额上限锁定为380亿美元",
-    "内容": "OpenAI与微软已达成关键协议修订，将OpenAI向微软支付的收入分成总额上限设定为380亿美元。根据原协议，OpenAI需将其营收的20%分成给微软，若达成长期营收目标，该笔支付总额最高可达1350亿美元。此次调整意味着，若OpenAI实现预期的高增长，到2030年将累计节省约970亿美元成本，显著缓解了首席财务官Sarah Friar面临的财务压力，并提升了OpenAI的长期资本自主权。在财务合作深化的同时，微软CEO纳德拉近期在“马斯克诉OpenAI”案中出庭作证，明确表示马斯克此前未对微软投资OpenAI的合规性表达过担忧。截至去年10月，微软所持OpenAI股份账面浮盈已达1220亿美元。此次分成上限的敲定，标志着双方合作进入新的利益平衡期，在确保微软投资回报的同时，也为OpenAI在生成式AI竞赛",
-    "发布日期": "2026-05-13",
-    "原文链接": "https://www.aibase.com/zh/news/27925",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图仓库路径": "assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
+    "资讯标题": "oMLX 0.3.9版本发布：集成Gemma 4视觉加速并支持一键接入云端Copilot",
+    "内容": "Apple Silicon本地AI框架oMLX发布0.3.9.dev2版本，通过深度集成Gemma 4视觉路径、DFlash引擎及ParoQuant量化技术，显著提升了本地多模态大模型的图文解码速度。新版本新增omlx launch copilot功能，支持一键接入Claude、Codex、OpenClaw等主流AI工具，实现本地与云端服务的无缝协同。针对Apple Silicon统一内存架构，该版本引入oQ自动Proxy机制，有效缓解显存限制，提升了模型在消费级设备上的运行稳定性。此次更新通过优化资源管理与降低部署门槛，进一步缩小了本地部署与云端大模型在响应速度及易用性上的体验差距，推动AI应用从云端向个人设备端侧迁移。",
+    "发布日期": "2026-05-14",
+    "原文链接": "https://www.aibase.com/zh/news/27950",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5b0c902b021224608de2c2869cb62ca8.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5b0c902b021224608de2c2869cb62ca8.jpg",
+    "配图仓库路径": "assets/news_images/5b0c902b021224608de2c2869cb62ca8.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307211343352678_2.jpg"
   }
 ]
