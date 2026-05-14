@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌推出“创建我的小部件”功能，支持用户通过自然语言定制桌面组件",
-    "内容": "谷歌正式发布“创建我的小部件”功能，该功能基于Gemini智能技术，允许用户通过自然语言描述需求，自动生成可自定义及调整大小的桌面仪表板。该功能计划于今夏率先在三星Galaxy和谷歌Pixel手机上上线。用户可通过自然语言指令，如“每周推荐三道高蛋白食谱”或定制特定天气参数，系统将自动从网络及Gmail、日历等应用中抓取并整合信息，实现航班、酒店、餐厅预订及倒计时等个性化数据展示。Android核心体验产品经理Ben Greenwood表示，此举旨在将Gemini打造为持续提供答案的个人助理，开启更多应用场景。此外，谷歌还同步推出了包含高级自动填充及AI驱动Gboard语音输入在内的Gemini增强功能，进一步推动生成式AI在Android生态中的深度集成，提升用户交互体验。",
+    "资讯标题": "阿里巴巴发布2026财年Q4财报：百炼平台ARR即将突破百亿元大关",
+    "内容": "阿里巴巴2026财年Q4财报显示，公司营收达2433.8亿元，AI驱动的云业务进入爆发期。核心产品阿里云“百炼”MaaS平台年化经常性收入（ARR）已突破80亿元，预计本季度将跨越100亿元大关。增长主要由通义千问系列模型API服务及AI原生软件订阅驱动，其中AI编程与复杂任务Agent需求激增，带动平台流量半年内增长超10倍。管理层宣布将建设规模为2022年十倍以上的“AI训练与推理工厂”，通过平头哥全栈芯片与模型的深度协同，提升国产算力渗透率。尽管大额资本开支影响短期自由现金流，但服务器资源长期满载。此次财报明确了阿里从传统IaaS向高毛利MaaS及AI应用层转型的战略，旨在通过技术架构升级构筑智算时代市场护城河。",
     "发布日期": "2026-05-14",
-    "原文链接": "https://www.aibase.com/zh/news/27951",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5b199190eddd5fc976b33e5e211bd8d9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5b199190eddd5fc976b33e5e211bd8d9.jpg",
-    "配图仓库路径": "assets/news_images/5b199190eddd5fc976b33e5e211bd8d9.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0513/6391428292389930031749148.png"
+    "原文链接": "https://www.aibase.com/zh/news/27970",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4ea9cdeb54d049847faaa245ff4d2092.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4ea9cdeb54d049847faaa245ff4d2092.jpg",
+    "配图仓库路径": "assets/news_images/4ea9cdeb54d049847faaa245ff4d2092.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201903211522554374_2.jpg"
   },
   {
-    "资讯标题": "百度发布通用智能体DuMate并提出DAA作为AI时代度量衡",
-    "内容": "百度在Create2026开发者大会上正式发布通用智能体DuMate及其移动端App，标志着AI入口从聊天机器人向复杂任务交付智能体转型。百度创始人李彦宏首次提出“日活智能体数”（Daily Active Agents，简称DAA）作为AI时代衡量生态价值的度量衡，并预测全球DAA有望突破100亿量级。会上同步亮相的还有具备自我演化与自主决策能力的智能体“伐谋”，以及赋予任务交付情绪价值的数字人形态。李彦宏强调，AI竞争已转向执行力，企业应实施“智能体优先策略”，通过“秒哒”等代码智能体工具降低软件开发门槛，推动软件向低成本“快消品”演变，预示软件开发市场将迎来十倍增长空间。此次发布旨在推动AI从模型能力竞争向应用层智能体执行力竞争跨越。",
+    "资讯标题": "脉脉发布2026春招报告：具身智能岗位激增15倍，AI科学家月薪超13万元",
+    "内容": "脉脉发布的2026年春招职场报告显示，我国AI行业人才需求爆发，2026年1月至4月AI岗位总量同比激增8.7倍。其中，具身智能领域成为核心引擎，岗位需求同比暴涨15倍。在薪资方面，具身智能岗位平均月薪由5.9万元提升至6.2万元。AI科学家及负责人以132,796元的平均月薪位居新经济行业榜首，成为唯一月薪破10万元的职位。此外，算法研究员、AI Infra、系统架构师、大模型算法及AIGC算法工程师等岗位薪资均保持高位增长。报告指出，AI产业竞争重心已从基础架构搭建转向垂直应用落地与物理交互。具身智能作为AI与机器人学深度融合的产物，其人才缺口的扩大标志着感知、决策与执行一体化的智能化浪潮加速到来。高端人才向关键技术节点的集聚，将直接决定企业在大模型产业下半场的竞争力。",
     "发布日期": "2026-05-14",
-    "原文链接": "https://www.aibase.com/zh/news/27949",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fc3a2e0e8a152dde06702e4e1bd2c515.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fc3a2e0e8a152dde06702e4e1bd2c515.jpg",
-    "配图仓库路径": "assets/news_images/fc3a2e0e8a152dde06702e4e1bd2c515.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151640157875_34.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27975",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9c890e99ed5addd286fc9001673230f1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9c890e99ed5addd286fc9001673230f1.jpg",
+    "配图仓库路径": "assets/news_images/9c890e99ed5addd286fc9001673230f1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405201504382287_0.jpg"
   },
   {
-    "资讯标题": "支付宝“AI收”接入扣子编程，新增商家入驻与支付集成Skill",
-    "内容": "5月13日，支付宝“AI收”联合AI开发平台扣子编程，升级“支付宝支付集成Skill”并上线“支付宝商家入驻Skill”。此次更新旨在降低个人开发者商业化门槛，实现“开发即上线”。升级后的支付集成Skill新增“快速沙箱”功能，支持免注册、免登录自动创建隔离测试环境，并内置支付故障排查能力，开发者可通过自然语言直接获取解决方案。同时，新上线的“支付宝商家入驻Skill”简化了认证流程，开发者仅需提供三张应用截图即可完成商家认证，个人开发者亦可快速获取收款能力。通过将支付基建标准化、智能化，支付宝旨在降低AI应用开发的技术门槛与商业化成本，进一步激活AI产业生态，助力开发者实现从应用开发到商业变现的一站式闭环。",
+    "资讯标题": "微软发布MDASH多模型智能体扫描框架，漏洞检测能力超越GPT-5.5",
+    "内容": "微软自主代码安全团队于5月13日推出MDASH多模型智能体扫描框架，通过整合超过100个专用AI智能体实现协同工作。该系统覆盖代码准备、漏洞扫描、验证及补丁生成等全流程。在CyberGym基准测试中，MDASH表现优于Anthropic的Mythos模型及OpenAI的GPT-5.5，成功挖掘出16个新漏洞，含4个高危远程代码执行漏洞。在私有测试中，MDASH实现100%漏洞识别率且零误报。回顾性测试显示，其对clfs.sys及tcpip.sys的历史漏洞召回率分别高达96%和100%。目前，MDASH已用于微软内部产品安全加固，并面向受限客户开启内部预览。该框架通过多智能体协作策略，显著提升了代码安全检测的准确性与效率，为行业漏洞挖掘提供了新范式。",
     "发布日期": "2026-05-14",
-    "原文链接": "https://www.aibase.com/zh/news/27948",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3eb6aee4b9ab3f8ad1ce0d98f6a77924.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3eb6aee4b9ab3f8ad1ce0d98f6a77924.jpg",
-    "配图仓库路径": "assets/news_images/3eb6aee4b9ab3f8ad1ce0d98f6a77924.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307061803140543_10.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27974",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3f34e5dee2b36963b5632cf956de2b1b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3f34e5dee2b36963b5632cf956de2b1b.jpg",
+    "配图仓库路径": "assets/news_images/3f34e5dee2b36963b5632cf956de2b1b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201912082153108920_16.jpg"
   },
   {
-    "资讯标题": "小米MiMo登顶OpenRouter全球调用量榜首，国产大模型首次夺冠",
-    "内容": "小米MiMo大模型在AI模型API聚合平台OpenRouter中登顶全球调用量榜首，成为首个获此成就的国产模型。数据显示，MiMo在最近一个月内累计贡献1.45万亿Token调用量，在超过300个模型中脱颖而出。该模型采用端云协同架构，核心优势在于高推理效率与低成本，其实用性定位获得全球开发者认可。在生态合作方面，小米已与Nous Research达成合作，MiMo系列全面接入开源Agent框架Hermes Agent，显著拓展了应用边界。为进一步扩大影响力，小米正式启动“MiMo Orbit 100T Token计划”，承诺在30天内向全球AI用户免费发放100万亿Token调用额度。此次登顶标志着国产模型在全球开发者生态中的竞争力显著提升，通过低成本与高效率的架构设计，MiMo成功在国际主流聚合平台占据领先",
+    "资讯标题": "Meta在WhatsApp及Meta AI应用中发布搭载Muse Spark模型的隐身模式",
+    "内容": "Meta于2026年5月13日正式在WhatsApp及独立Meta AI应用中推出“隐身模式”（Incognito Mode）。该模式旨在解决大模型交互中的隐私留存痛点，用户开启后，对话记录将不被存储，系统会在关闭聊天窗口、锁定屏幕或退出应用时自动终止会话并清除上下文信息。技术层面，该功能放弃了旧版小型模型，转而搭载4月发布的最新Muse Spark模型，并依托Meta私有处理基础设施，在不破坏端到端加密协议的前提下提供算力支持。WhatsApp产品副总裁Alice Newton-Rex表示，此举旨在应对AI聊天记录合规性风险。此外，Meta正研发“侧边聊天”（Side Chat）功能，支持在群组中私下调用AI进行辅助决策。通过底层架构与交互模式升级，Meta正试图重塑生成式AI在社交生态中的信任边界，推动大模",
     "发布日期": "2026-05-14",
-    "原文链接": "https://www.aibase.com/zh/news/27946",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
-    "配图仓库路径": "assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556160776_8.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27971",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96ed66835bd5850d463b665cb50a5ef2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96ed66835bd5850d463b665cb50a5ef2.jpg",
+    "配图仓库路径": "assets/news_images/96ed66835bd5850d463b665cb50a5ef2.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0514/6391434746339555364367259.jpg"
   },
   {
-    "资讯标题": "oMLX 0.3.9版本发布：集成Gemma 4视觉加速并支持一键接入云端Copilot",
-    "内容": "Apple Silicon本地AI框架oMLX发布0.3.9.dev2版本，通过深度集成Gemma 4视觉路径、DFlash引擎及ParoQuant量化技术，显著提升了本地多模态大模型的图文解码速度。新版本新增omlx launch copilot功能，支持一键接入Claude、Codex、OpenClaw等主流AI工具，实现本地与云端服务的无缝协同。针对Apple Silicon统一内存架构，该版本引入oQ自动Proxy机制，有效缓解显存限制，提升了模型在消费级设备上的运行稳定性。此次更新通过优化资源管理与降低部署门槛，进一步缩小了本地部署与云端大模型在响应速度及易用性上的体验差距，推动AI应用从云端向个人设备端侧迁移。",
+    "资讯标题": "Anthropic企业级市场份额达34.4%首次超越OpenAI",
+    "内容": "支付平台Ramp发布的最新AI指数报告显示，Anthropic在B2B付费企业应用市场的份额已攀升至34.4%，首次超过OpenAI的32.3%。过去一年中，Anthropic市场占有率实现四倍增长，而OpenAI增速仅为0.3%。该数据基于通过Ramp平台支付的美国企业AI支出。尽管Anthropic取得领先，但仍面临利润结构矛盾、服务稳定性波动及Opus 4.7模型图像处理成本激增等挑战。与此同时，OpenAI正通过GPT-5.5 Pro进行反击，该模型具备极强的数学研究能力，但其价格上涨了92%。当前AI市场竞争格局剧烈变动，Kimi K2.6等模型正挑战现有智能体集群，企业客户对高成本方案的粘性正面临严峻考验，市场已进入群雄并起的动态竞争阶段。",
     "发布日期": "2026-05-14",
-    "原文链接": "https://www.aibase.com/zh/news/27950",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5b0c902b021224608de2c2869cb62ca8.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5b0c902b021224608de2c2869cb62ca8.jpg",
-    "配图仓库路径": "assets/news_images/5b0c902b021224608de2c2869cb62ca8.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307211343352678_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/27979",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
   }
 ]
