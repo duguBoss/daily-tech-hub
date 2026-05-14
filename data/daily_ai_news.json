@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里巴巴发布2026财年Q4财报：AI驱动云业务增长，百炼平台ARR将破百亿",
-    "内容": "阿里巴巴2026财年Q4财报显示，公司营收达2433.8亿元，同口径增长11%，AI驱动的云业务进入爆发期。阿里云“百炼”MaaS平台年化经常性收入（ARR）已突破80亿元，预计本季度将跨越100亿元大关。增长核心源于通义千问大模型API服务及AI原生软件订阅，特别是AI编程与复杂任务智能体（Agent）需求激增，带动平台流量半年内增长超10倍。管理层计划建设规模达2022年十倍以上的“AI训练与推理工厂”，尽管短期自由现金流承压，但服务器资源长期满载。技术层面，阿里强调平头哥全栈芯片与模型的深度协同，旨在通过国产算力渗透提升MaaS业务毛利，推动云业务从传统IaaS向高价值MaaS与AI应用层转型，构筑智算时代市场护城河。",
-    "发布日期": "2026-05-14",
-    "原文链接": "https://www.aibase.com/zh/news/27970",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4ea9cdeb54d049847faaa245ff4d2092.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4ea9cdeb54d049847faaa245ff4d2092.jpg",
-    "配图仓库路径": "assets/news_images/4ea9cdeb54d049847faaa245ff4d2092.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201903211522554374_2.jpg"
-  },
-  {
-    "资讯标题": "脉脉发布2026春招报告：具身智能岗位激增15倍，AI科学家月薪超13万元",
-    "内容": "脉脉2026年春招职场报告显示，我国AI行业人才需求爆发，2026年前四个月AI岗位总量同比激增8.7倍。其中，具身智能领域成为核心引擎，岗位需求同比暴涨15倍。在薪酬方面，具身智能岗位平均月薪由5.9万元提升至6.2万元。AI科学家及负责人职位以132,796元的平均月薪位居新经济行业榜首，成为唯一突破10万元大关的岗位。此外，算法研究员、AI Infra、系统架构师及大模型算法等细分领域薪资持续走高。这一趋势表明AI产业竞争重心已从基础架构转向垂直应用与物理交互。高端人才向感知、决策与执行一体化技术节点的集聚，将直接决定企业在大模型产业下半场的竞争力，反映出市场对跨学科复合型人才的迫切需求。",
-    "发布日期": "2026-05-14",
-    "原文链接": "https://www.aibase.com/zh/news/27975",
+    "资讯标题": "黄仁勋夫妇基金会捐赠1.08亿美元算力资源，支持科研机构AI基础研究",
+    "内容": "黄仁勋及其妻子洛里创立的家族基金会近日宣布，已从算力提供商CoreWeave购入价值1.083亿美元的计算资源，并将其免费捐赠给大学及非营利研究机构，用于支持前沿科学实验与AI基础研究。除硬件算力外，英伟达还将为受赠机构提供免费的工程技术服务，由专业工程师协助研究人员优化模型训练效率并解决复杂技术难题。此次捐赠进一步深化了英伟达与CoreWeave的战略合作。此前，英伟达已于今年1月向CoreWeave投资20亿美元，并签署了价值63亿美元的云计算容量协议，承诺购买其未售出的云容量。这一举措不仅为科研界提供了关键的GPU算力支持，也通过技术与资金的双重投入，加速了学术界在AI领域的创新进程。",
+    "发布日期": "2026-05-15",
+    "原文链接": "https://www.aibase.com/zh/news/27989",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9c890e99ed5addd286fc9001673230f1.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9c890e99ed5addd286fc9001673230f1.jpg",
     "配图仓库路径": "assets/news_images/9c890e99ed5addd286fc9001673230f1.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405201504382287_0.jpg"
   },
   {
-    "资讯标题": "微软发布MDASH多智能体扫描框架，漏洞检测能力超越GPT-5.5",
-    "内容": "微软自主代码安全团队于5月13日推出MDASH多模型智能体扫描框架，通过整合超过100个专用AI智能体，实现了代码准备、漏洞扫描、验证及补丁生成等全流程协作。在CyberGym基准测试中，MDASH表现优于Anthropic的Mythos模型及OpenAI的GPT-5.5，成功挖掘出16个新漏洞，含4个高危远程代码执行漏洞。在私有测试驱动程序验证中，该系统实现了100%的漏洞识别率且零误报。回顾性测试显示，MDASH对clfs.sys近五年漏洞召回率达96%，对tcpip.sys达100%。目前，MDASH已协助微软内部进行安全加固，并面向受限客户开启内部预览。该框架通过多智能体策略显著提升了复杂安全任务的检测效率与准确性，为行业代码安全防御提供了新范式。",
-    "发布日期": "2026-05-14",
-    "原文链接": "https://www.aibase.com/zh/news/27974",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3f34e5dee2b36963b5632cf956de2b1b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3f34e5dee2b36963b5632cf956de2b1b.jpg",
-    "配图仓库路径": "assets/news_images/3f34e5dee2b36963b5632cf956de2b1b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201912082153108920_16.jpg"
+    "资讯标题": "腾讯发布2025年Q1财报：AI研发投入达225.4亿元，Hy3模型表现强劲",
+    "内容": "腾讯控股发布2025年第一季度财报，公司营收达1964.6亿元，同比增长9%。本季度腾讯持续加码AI领域，研发投入达225.4亿元，同比增长19%；资本开支为319.4亿元，同比增长16%。在AI基础设施优化方面，新搭建的Hy3 preview模型表现突出，自4月28日以来在OpenRouter的token消耗量排行榜中连续三周位居周榜及总榜第一。财务表现上，考虑AI产品影响后的Non-IFRS经营利润为844亿元，同比增长17%。腾讯表示，未来将结合国产芯片供应释放推动云业务规模化增长，并持续推动AI技术与微信等核心产品的深度整合，通过短期回报与长期战略布局并行的路线图，强化在AI市场的竞争力。",
+    "发布日期": "2026-05-15",
+    "原文链接": "https://www.aibase.com/zh/news/28000",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/761e3ec4ab71fabd9f73265eea757d0b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/761e3ec4ab71fabd9f73265eea757d0b.jpg",
+    "配图仓库路径": "assets/news_images/761e3ec4ab71fabd9f73265eea757d0b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633427149_4.jpg"
   },
   {
-    "资讯标题": "Meta在WhatsApp及Meta AI应用中发布搭载Muse Spark模型的隐身模式",
-    "内容": "Meta于2026年5月13日正式在WhatsApp及独立Meta AI应用中推出“隐身模式”（Incognito Mode）。该模式旨在解决大模型交互中的隐私留存痛点，用户开启后，对话记录将不被存储，系统会在关闭聊天窗口、锁定屏幕或退出应用时自动终止会话并清除上下文信息。技术层面，该功能放弃了旧版小型模型，转而搭载4月发布的最新Muse Spark模型，并依托Meta私有处理基础设施，在不破坏端到端加密协议的前提下提供算力支持。Meta产品副总裁Alice Newton-Rex表示，此举旨在应对AI聊天记录合规性风险。此外，Meta正研发“侧边聊天”（Side Chat）功能，支持在群组中私下调用AI进行辅助决策。此次升级通过底层架构与交互模式的优化，强化了生成式AI在社交生态中的隐私保护能力，推动大模型集成",
-    "发布日期": "2026-05-14",
-    "原文链接": "https://www.aibase.com/zh/news/27971",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96ed66835bd5850d463b665cb50a5ef2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96ed66835bd5850d463b665cb50a5ef2.jpg",
-    "配图仓库路径": "assets/news_images/96ed66835bd5850d463b665cb50a5ef2.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0514/6391434746339555364367259.jpg"
+    "资讯标题": "月之暗面完成20亿美元融资，估值突破200亿美元并启动全球化战略",
+    "内容": "月之暗面（Moonshot AI）近日完成20亿美元融资，公司估值突破200亿美元。本轮资金将重点投入三大领域：首先是研发下一代模型，着重提升代码生成与复杂任务处理能力；其次是扩大推理能力，通过自建或租用基础设施降低单位token成本，并提升服务稳定性；最后是推进全球化战略，在东南亚和中东等新兴市场进行布局，以构建闭环商业生态。尽管Kimi依托第三方平台在海外开发者生态中已取得增长，但国际市场的复杂性与不确定性仍是其面临的严峻挑战。此次融资不仅是资本的聚集，更标志着Kimi正式开启全球化扩张进程，后续如何将资金转化为市场优势，将决定其能否在激烈的全球大模型竞争中持续领跑。",
+    "发布日期": "2026-05-15",
+    "原文链接": "https://www.aibase.com/zh/news/27998",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
+    "配图仓库路径": "assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405240907574564_1.jpg"
   },
   {
-    "资讯标题": "Anthropic企业级AI市场份额达34.4%首超OpenAI",
-    "内容": "支付平台Ramp发布的最新AI指数报告显示，Anthropic在付费企业级应用市场的份额已攀升至34.4%，首次超越OpenAI的32.3%。过去一年中，Anthropic市场占有率实现四倍增长，而OpenAI增速近乎停滞。该数据基于通过Ramp平台支付的美国企业预算分配情况。尽管Anthropic取得领先，但面临利润结构矛盾、服务稳定性下降及Opus 4.7模型图像处理成本激增等挑战。与此同时，OpenAI正通过性能更强的GPT-5.5 Pro进行反击，但其92%的价格涨幅正削弱客户粘性。当前AI市场竞争进入群雄并起阶段，Kimi K2.6等模型正挑战Claude Opus 4.6及GPT-5.4的智能体集群地位。行业分析认为，企业客户对性价比的追求正加速市场格局的动态更替。",
-    "发布日期": "2026-05-14",
-    "原文链接": "https://www.aibase.com/zh/news/27979",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
+    "资讯标题": "OpenAI内测GPT-5.6并上线Codex极速模式，与Anthropic开启补贴大战",
+    "内容": "GPT-5.6已进入内部测试阶段，内部代码名为ember-alpha和beacon-alpha，预计下月发布。OpenAI同步宣布Codex上线ultrafast模式，响应速度提升2至3倍。为争夺开发者，OpenAI推出迁移补贴，企业从其他平台迁移至Codex可获2个月免费使用权。Anthropic则宣布自6月15日起提升Claude Code及Claude Agent SDK编程额度50%，并发布Opus 4.7 Fast模式。目前Codex周活跃用户达300万，GPT-5.6的开发已深度引入GPT-5.5参与，AI自我迭代飞轮效应显著。此次补贴战直接推动了AI编程工具的普及，对开发者而言，Agent循环及长任务流水线等场景的开发效率将大幅提升。",
+    "发布日期": "2026-05-15",
+    "原文链接": "https://www.aibase.com/zh/news/27986",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "配图仓库路径": "assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
+  },
+  {
+    "资讯标题": "OpenAI CEO山姆·奥尔特曼被曝在多家合作伙伴中持股超20亿美元",
+    "内容": "最新法庭文件披露，OpenAI CEO山姆·奥尔特曼在多家与OpenAI有业务往来的企业中持有价值超20亿美元资产，引发“自我交易”及利益冲突质疑。具体持股包括：核聚变公司Helion Energy（约17亿美元）、金融软件公司Stripe（约6.33亿美元）、抗衰老药企Retro Biosciences（约2.58亿美元），以及芯片厂商Cerebras和AI硬件厂商Humane等。马斯克方律师指出，奥尔特曼在推动OpenAI与Helion Energy、Cerebras及Reddit等公司合作时存在利益冲突。尽管奥尔特曼坚称已遵循企业回避操作，但该事件已引发美国十州总检察长联名致函SEC，要求在OpenAI启动IPO前对其利益冲突防范政策进行严格审查。同时，美国众议院监督与政府改革委员会已介入，要求其提交相关",
+    "发布日期": "2026-05-15",
+    "原文链接": "https://www.aibase.com/zh/news/27999",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "配图仓库路径": "assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405110933330041_0.jpg"
   }
 ]
