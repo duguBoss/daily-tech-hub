@@ -1,8 +1,8 @@
 [
   {
     "资讯标题": "阿里云发布Qoder 1.0，正式从AI IDE升级为智能体自主开发工作台",
-    "内容": "5月15日，阿里云正式发布Qoder 1.0，标志着该产品从传统AI IDE转型为“智能体自主开发工作台”。Qoder 1.0引入Agent-first工作范式，用户定义需求后，Agent团队可自主完成执行、验证及交付。核心亮点包括引入Quest独立视窗，支持任务管理、状态追踪与产物审查；底层重构Agent Harness，将对话模式升级为结构化任务运行时，支撑跨项目多任务并行开发。此外，新版本首创团队级知识引擎，整合记忆系统、Repo Wiki与知识卡片，实测显示代码保留率提升11%，Token消耗降低40%。Expert专家团模式支持用户自定义规划、编码与测试团队。自2025年8月上线以来，Qoder已服务全球超500万用户，此次升级推动软件工程从“AI辅助”迈向“Agent自主交付”阶段，显著提升企业级软",
-    "发布日期": "2026-05-17",
+    "内容": "5月15日，阿里云正式发布Qoder 1.0，标志着产品从传统AI IDE向“智能体自主开发工作台”转型。该版本引入Agent-first工作范式，用户定义需求后，Agent团队可自主完成执行、验证及交付。核心亮点包括Quest独立视窗，支持任务管理、状态追踪与产物审查；底层重构Agent Harness，将对话模式升级为结构化任务运行时，支撑跨项目多任务并行。新版本首创团队级知识引擎，整合记忆系统、Repo Wiki与知识卡片，实测代码保留率提升11%，Token消耗降低40%。此外，Expert专家团模式支持用户自定义规划、编码与测试团队。自2025年8月上线以来，Qoder已服务全球超500万用户。此次升级推动开发模式从“AI辅助”向“Agent自主交付”演进，显著提升企业级软件生产力。",
+    "发布日期": "2026-05-18",
     "原文链接": "https://www.aibase.com/zh/news/28030",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4c8182eed4918a2beab88e7a5824c0b8.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4c8182eed4918a2beab88e7a5824c0b8.jpg",
@@ -11,8 +11,8 @@
   },
   {
     "资讯标题": "百度成立“模型委员会”统筹大模型全局，年轻研究员掌舵，推动技术与应用一体化",
-    "内容": "百度成立“模型委员会”统筹大模型全局，年轻研究员掌舵，推动技术与应用一体化AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 15, 202652在大模型竞争从单点突破转向体系化作战的关键阶段，百度近日宣布成立**百度模型委员会**（Baidu Model Committee， BMC），作为公司大模型战略的最高决策与协调机构。该委员会由一批对大模型技术有深刻理解的**年轻研究员**组成，基础模型研发部（BMU）与应用模型研发部（AMU）将直接向其汇报，实现从底层技术研发到上层产品落地的全链路统一管理。这一组织架构调整，标志着百度正以“集中优势兵力打歼灭战”的思路，应对日益激烈的AI竞争。",
-    "发布日期": "2026-05-17",
+    "内容": "百度成立“模型委员会”统筹大模型全局，年轻研究员掌舵，推动技术与应用一体化AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 15, 202663在大模型竞争从单点突破转向体系化作战的关键阶段，百度近日宣布成立**百度模型委员会**（Baidu Model Committee， BMC），作为公司大模型战略的最高决策与协调机构。该委员会由一批对大模型技术有深刻理解的**年轻研究员**组成，基础模型研发部（BMU）与应用模型研发部（AMU）将直接向其汇报，实现从底层技术研发到上层产品落地的全链路统一管理。这一组织架构调整，标志着百度正以“集中优势兵力打歼灭战”的思路，应对日益激烈的AI竞争。",
+    "发布日期": "2026-05-18",
     "原文链接": "https://www.aibase.com/zh/news/28028",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/71b5cfb7a9d337b39ee10fb3a51d3e01.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/71b5cfb7a9d337b39ee10fb3a51d3e01.jpg",
@@ -20,19 +20,19 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202004082215180815_1.jpg"
   },
   {
-    "资讯标题": "千问APP深度接入国家药监局数据，上线数百万份药品及器械权威信息",
-    "内容": "5月15日，千问APP正式宣布与国家药监局信息中心达成深度战略合作，全面接入涵盖药品、化妆品及医疗器械在内的数百万份国家级权威数据资源。此次合作旨在通过国家权威数据库的实时校核，解决AI在健康咨询中常见的“幻觉”问题。在功能层面，千问APP实现了系统性升级，模型可针对用法用量、服用禁忌及不良反应提供细粒度解析，并支持药品真伪辨别、化妆品成分检索及家用医疗器械使用规范指导。通过引入国家级权威信源，千问APP的AI助手正向“准医疗级”智能顾问演进，将AI健康服务从单纯的信息检索提升至权威决策辅助层面。这一举措标志着国产大模型在垂直领域的合规性与专业化建设取得关键进展，有助于构建更可信的行业生态与人机交互信任体系。",
-    "发布日期": "2026-05-17",
-    "原文链接": "https://www.aibase.com/zh/news/28040",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5b5ee11df3c8c86065f729f1cafbad3a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5b5ee11df3c8c86065f729f1cafbad3a.jpg",
-    "配图仓库路径": "assets/news_images/5b5ee11df3c8c86065f729f1cafbad3a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202601161530348796_0.jpg"
+    "资讯标题": "微信小程序成长计划正式接入腾讯混元Hy3 preview模型",
+    "内容": "微信小程序“成长计划”于5月15日完成模型升级，正式全面接入腾讯混元Hy3 preview模型。此次更新旨在通过更强大的AI能力，提升开发者在小程序生态内的智能化开发与运营体验。开发者现可调用Hy3 preview版本，利用其增强的逻辑推理与上下文理解能力，优化小程序内的AI助手、内容自动化生成及个性化推荐等核心功能。官方同步发布了模型升级指南，旨在通过技术赋能显著降低开发者的技术门槛。此次接入标志着微信小程序生态在智能化进程上的进一步深化，通过引入更先进的LLM技术，帮助开发者更高效地构建具备复杂交互与智能决策能力的应用，从而提升整体运营效率与用户体验。",
+    "发布日期": "2026-05-18",
+    "原文链接": "https://www.aibase.com/zh/news/28026",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3bd456124300404d16f42ed6b7d7af40.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3bd456124300404d16f42ed6b7d7af40.jpg",
+    "配图仓库路径": "assets/news_images/3bd456124300404d16f42ed6b7d7af40.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0515/6391444182832510844000653.png"
   },
   {
-    "资讯标题": "OpenAI将Codex模型集成至ChatGPT移动端，支持开发者远程控制开发环境",
-    "内容": "OpenAI正式将Codex模型集成至iOS与Android版ChatGPT应用，旨在为开发者提供移动端远程管理与监控编码任务的能力。目前Codex周活跃用户已突破400万，此次更新允许开发者通过手机连接个人电脑、Mac mini或云端开发服务器，实现跨设备无缝同步活跃任务线程与项目上下文。该功能不仅支持查看输出结果、审批命令及发起新任务，还能实时接收代码差异、测试结果及系统截图。为保障安全性，OpenAI引入了安全中继技术，防止开发环境直接暴露于公共互联网。目前该功能已在应用商店开启分阶段推送，首批支持与macOS桌面端协同工作，极大提升了开发者利用碎片化时间处理紧急代码需求的工作效率。",
-    "发布日期": "2026-05-17",
+    "资讯标题": "OpenAI将Codex模型集成至ChatGPT移动端，支持开发者远程控制代码任务",
+    "内容": "OpenAI正式将Codex模型集成至iOS和Android版ChatGPT应用，旨在为开发者提供远程管理与监控编码任务的移动端解决方案。目前Codex周活跃用户已超400万。该功能支持连接个人电脑、Mac mini及云端开发服务器，实现跨设备无缝同步，开发者可实时查看活跃线程、项目上下文、代码差异及测试结果，并能直接在手机端发起新任务或审批命令。为保障安全性，OpenAI引入了安全中继技术，避免开发环境直接暴露于公共互联网。该功能目前已开启分阶段推送，首批支持与macOS桌面端协同工作。此次更新打破了开发者的办公桌束缚，使其能够利用碎片化时间处理紧急编码需求，显著提升了移动端工作流的管理效率与灵活性。",
+    "发布日期": "2026-05-18",
     "原文链接": "https://www.aibase.com/zh/news/28032",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/287eb0489eec103665e0288844ae47b3.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/287eb0489eec103665e0288844ae47b3.jpg",
@@ -40,9 +40,9 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0515/6391445366074113138079606.png"
   },
   {
-    "资讯标题": "Netflix秘密组建生成式AI动画工作室INKubator，目标生产电影级内容",
-    "内容": "Netflix已于2026年3月秘密启动名为INKubator（简称INK）的生成式AI原生动画工作室，由曾任职于梦工厂、A24的Serrena Iyer领导。该部门目前正大规模招聘制片人、软件工程师及CG艺术家，旨在构建支持GenAI的创作工作流、艺术家工具及可扩展的跨剧集制作环境。与此前收购的侧重后期制作的初创公司InterPositive不同，INKubator致力于从头打造AI驱动的生产流程，核心目标是产出具备“电影级品质”的动画内容。此举标志着Netflix在AI领域的布局从辅助工具转向内容核心，预示着AI生成内容将在其动画板块中占据重要地位。尽管Netflix尚未正式公布该计划，但该工作室的成立将直接推动流媒体行业动画制作流程的智能化转型。",
-    "发布日期": "2026-05-17",
+    "资讯标题": "Netflix秘密组建生成式AI动画工作室INKubator，旨在生产电影级内容",
+    "内容": "Netflix已于2026年3月秘密启动名为INKubator（简称INK）的动画工作室，该部门由曾任职于DreamWorks Animation和A24的Serrena Iyer领导。INKubator的核心定位为“生成式AI原生”，旨在构建支持GenAI的创作工作流、艺术家工具及可扩展的跨剧集制作环境，目标是产出具备长篇电影品质的内容。与此前收购的侧重后期制作的InterPositive不同，INKubator致力于从头构建AI驱动的完整创作流程。目前，Netflix正为该部门大规模招聘制片人、软件工程师和CG艺术家。此举标志着Netflix在AI领域的布局从辅助工具转向内容核心，预示着AI生成内容将深度介入其动画制作板块，对流媒体行业的内容生产模式产生深远影响。",
+    "发布日期": "2026-05-18",
     "原文链接": "https://www.aibase.com/zh/news/28027",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4d76edec5aaedab252063edd17f10217.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4d76edec5aaedab252063edd17f10217.jpg",
