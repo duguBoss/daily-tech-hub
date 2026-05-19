@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌发布Gemini Intelligence套件，安卓生态迈入智能体驱动时代",
-    "内容": "谷歌正式面向安卓平台发布Gemini Intelligence高级AI功能套件，标志着安卓生态进入“智能体驱动”阶段。该套件支持跨应用多步骤任务自动化，如自动比价、下单、支付及行程预订，通过AICore框架实现系统级调度。为确保性能与隐私，谷歌设定了严苛的硬件门槛，要求设备具备至少12GB运行内存及骁龙8 Gen4、天玑9400等旗舰级芯片，并需在独立沙箱中执行敏感操作。首批适配机型包括三星Galaxy Z Fold8/Flip8、Galaxy S26系列及Pixel 10系列。此举旨在通过系统级AI能力重构安卓竞争力，但也引发了行业对安卓阵营“智能分层”的担忧。高端机型将获得全自动智能助理体验，而中小品牌因硬件门槛短期内难以跟进，可能加剧市场马太效应。开发者需适配AICore框架，将“可被AI调用”作为新开发",
+    "资讯标题": "阿里云发布通义千问Qwen3.7预览版，Max与Plus版本上线竞技场",
+    "内容": "阿里云正式发布通义千问新一代旗舰模型Qwen3.7-Max-Preview与Qwen3.7-Plus-Preview，目前已上线大模型竞技场Arena AI及官方Qwen Chat。两款模型在预览阶段均仅支持“思考模式”，专注于高难度逻辑推理与深度计算，暂未开放网页搜索及代码解释器。在权威基准测试中，Qwen3.7-Max-Preview综合排名位列全球第13，数学领域排名全球第7，并在专家级应用、软件与IT及编程能力榜单中进入全球前十。Qwen3.7-Plus-Preview则在视觉领域表现突出，综合排名全球第16。此次迭代使通义千问在实验室综合排名中挺进全球前六，视觉榜单排名升至全球第5。该系列模型展现了阿里云在多模态与深度垂直应用领域的研发实力，正式版预计将在即将召开的阿里云峰会上发布。",
     "发布日期": "2026-05-19",
-    "原文链接": "https://www.aibase.com/zh/news/28075",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
-    "配图仓库路径": "assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312070835429226_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28106",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/595447188a495841522150440d4d4c4f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/595447188a495841522150440d4d4c4f.jpg",
+    "配图仓库路径": "assets/news_images/595447188a495841522150440d4d4c4f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202507310906281467_0.jpg"
   },
   {
-    "资讯标题": "百度一季度AI云收入大涨79%，昆仑芯P800交付万卡集群",
-    "内容": "百度2026年第一季度财报显示，AI云收入达88亿元，同比大涨79%，其中GPU云收入激增184%。百度智能云已升级为面向大规模智能体应用的全栈AI云，强化Agent Infra与AI Infra协同。市场表现上，百度智能云一季度以25个中标项目、12.48亿元中标金额蝉联行业双料冠军。在算力硬件方面，昆仑芯P800已完成规模化验证并交付多个万卡集群，支撑了文心大模型5.1版本的训练。此外，基于昆仑芯的天池256卡超节点定于6月上市，其吞吐性能提升25%，推理效率提升50%，并已完成对文心、DeepSeek、GLM、MiniMax等主流大模型的适配。此次财报数据凸显了百度在AI基础设施与算力底座的强劲增长，通过全链路协同进一步巩固了其在智能体应用市场的领先地位。",
+    "资讯标题": "谷歌联手黑石投资250亿美元组建新型AI云公司挑战英伟达生态",
+    "内容": "谷歌与私募股权巨头黑石达成合作，计划共同组建一家全新的人工智能云算力公司，整体投资规模达250亿美元。黑石将先行注入50亿美元股权资本，其余资金通过金融杠杆筹集。该新公司核心战略是依托谷歌自研TPU芯片及云基础设施，直接挑战CoreWeave等独立算力服务商。双方计划在2027年上线高达500兆瓦（MW）的算力容量，目前已提前锁定并建设相关数据中心。此举标志着谷歌TPU将大规模推向外部市场，不仅巩固了黑石在AI物理基础设施领域的地位，更将加剧谷歌与英伟达在AI芯片及算力生态领域的正面竞争，对云服务市场格局产生深远影响。",
     "发布日期": "2026-05-19",
-    "原文链接": "https://www.aibase.com/zh/news/28089",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6a992a7ad6a664ddd7e7be60b2da4c3f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6a992a7ad6a664ddd7e7be60b2da4c3f.jpg",
-    "配图仓库路径": "assets/news_images/6a992a7ad6a664ddd7e7be60b2da4c3f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901281035388749_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28113",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6142afe7edca818d7c31ba3a72dc38db.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6142afe7edca818d7c31ba3a72dc38db.jpg",
+    "配图仓库路径": "assets/news_images/6142afe7edca818d7c31ba3a72dc38db.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201811151621147122_90.jpg"
   },
   {
-    "资讯标题": "微软 AI CEO 穆斯塔法·苏莱曼大胆预测：18 个月内，AI 将全面自动化白领工作",
-    "内容": "微软 AI CEO 穆斯塔法·苏莱曼大胆预测：18 个月内，AI 将全面自动化白领工作AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 18, 202651近日，微软 AI 首席执行官穆斯塔法·苏莱曼（Mustafa Suleyman）在接受采访时作出惊人预测：AI 将在未来 12 至 18 个月内，在大多数专业任务上达到人类水平表现，从而全面自动化白领办公工作。这一观点迅速引发全球科技界和职场人士的广泛讨论。AI“坐班”时代即将到来苏莱曼指出，那些“坐在电脑前”的工作——包括会计、法律、营销、项目管理等——大部分任务都将被 AI 完全接管。他表示：“我认为我们将在大多数（如果不是全部）专业任务上达到人类水平表现。",
+    "资讯标题": "英伟达正式量产并交付Vera CPU，专为Agentic AI负载打造",
+    "内容": "英伟达近日宣布首款专为Agentic AI设计的定制CPU——Vera已正式进入量产阶段，并完成向Anthropic、OpenAI、SpaceXAI及甲骨文等顶尖公司的首批交付。Vera CPU搭载88个自研奥林巴斯核心，内存带宽达1.2TB/s，性能较前代Grace CPU提升50%，旨在支持大规模智能体AI工作负载并保持强劲单核性能。甲骨文计划自2026年起部署数十万颗Vera CPU以优化推理效率。英伟达副总裁伊恩・巴克表示，Vera CPU不仅作为独立产品，未来还将与Rubin GPU等系统集成，构建高效计算架构。该处理器的量产将为强化学习、智能体仿真管道及下一代企业级AI提供核心算力支撑，助力Agentic AI生态发展。",
     "发布日期": "2026-05-19",
-    "原文链接": "https://www.aibase.com/zh/news/28079",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f04eb1fa995ceb472bf560be4f035384.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f04eb1fa995ceb472bf560be4f035384.jpg",
-    "配图仓库路径": "assets/news_images/f04eb1fa995ceb472bf560be4f035384.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202001202045237249_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28120",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/68a5d3e23d10100cc7d1a0d2944878ca.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/68a5d3e23d10100cc7d1a0d2944878ca.jpg",
+    "配图仓库路径": "assets/news_images/68a5d3e23d10100cc7d1a0d2944878ca.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0519/26051911483049187924.jpg"
   },
   {
-    "资讯标题": "安全研究团队Calif利用AI辅助在5天内实现苹果M5芯片内核提权",
-    "内容": "2026年5月14日，安全研究公司Calif发布报告，宣布在搭载M5芯片及macOS 26.4.1的设备上，仅用5天时间实现了从本地用户到root shell的纯数据提权。该攻击链结合了两个内核零日漏洞、侧信道标签碰撞技巧，成功绕过了苹果硬件级内存安全机制MIE（Memory Integrity Extension）。研究过程中，Claude Mythos Preview模型发挥了关键辅助作用，大幅缩短了漏洞分析与利用开发周期。Calif指出，AI已成为安全攻防的核心变量，显著提升了漏洞挖掘效率。苹果已在macOS 26.5更新中修复相关漏洞，并向Calif及Anthropic Research致谢。此次突破表明，即便具备硬件强制校验的内存保护机制，在AI辅助的漏洞组合攻击下仍面临被击穿风险。建议Mac用户立即",
+    "资讯标题": "OpenAI面向ChatGPT Pro用户推出金融工具，支持直连超1.2万家银行账户",
+    "内容": "OpenAI近日向ChatGPT Pro订阅用户推出个人理财工具预览版，支持美国用户直接绑定银行账户。该功能通过与金融连接服务商Plaid深度合作，实现与第一资本、大通银行、美国运通及嘉信理财等超过1.2万家金融机构的直连。连接后，用户可获取包含投资组合、开销比例、订阅服务及账单提醒的数据仪表盘。此次升级依托GPT-5.5模型在上下文逻辑推理上的增强，支持用户进行深度财务分析与长期规划，如定制买房储蓄计划或分析消费习惯。OpenAI强调隐私控制，用户可随时断开连接并清除财务记忆。此举标志着AI大模型从咨询辅助正式迈向个人资产管理领域，通过实时数据接入提升了AI在复杂财务场景下的决策支持能力。",
     "发布日期": "2026-05-19",
-    "原文链接": "https://www.aibase.com/zh/news/28081",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c70cfd19d651983ec4840f1d525d40f1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c70cfd19d651983ec4840f1d525d40f1.jpg",
-    "配图仓库路径": "assets/news_images/c70cfd19d651983ec4840f1d525d40f1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151639390984_9.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28116",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
+    "配图仓库路径": "assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202502061723419905_1.jpg"
   },
   {
-    "资讯标题": "arXiv发布新规打击AI代写论文，违规者最高面临一年禁发处罚",
-    "内容": "学术预印本存储库arXiv近日出台严厉新规，旨在遏制科研论文中滥用AI生成内容及未核查导致的质量下滑。arXiv明确，若论文中存在确凿的AI幻觉内容，或作者暗中植入AI提示词，相关作者将面临一年内不得在该平台发布新论文的惩罚。禁发期满后，作者若想重新投稿，必须先获得信誉良好的同行评审期刊录用，作为学术信用担保。arXiv强调，新规并非全面禁止AI辅助工具，但作者必须对论文所有内容承担全部责任，直接复制粘贴AI生成的错误、偏见或误导性引用均属违规。目前，arXiv正转型为独立非营利组织，以筹集资金应对AI低质量论文泛滥问题。对于被认定违规的作者，平台提供上诉机制，仅在证据确凿时执行封禁，以维护计算机科学与数学等领域的学术传播质量。",
+    "资讯标题": "Cursor发布Composer 2.5编程模型，性能对标GPT-5.5并大幅降低成本",
+    "内容": "AI代码编辑器Cursor正式发布自研编程模型Composer 2.5，该模型基于月之暗面Kimi K2.5基座微调，通过投入25倍合成数据及85%计算预算用于强化学习，实现了性能飞跃。在SWE-Bench与CursorBench v3.1评测中，Composer 2.5分别取得79.8%和63.2%的成绩，性能平齐Anthropic Opus 4.7及OpenAI GPT-5.5。在成本控制方面，该模型每百万输入/输出代币价格仅为0.50美元和2.50美元，远低于行业主流收费标准。此外，Cursor同步推出高性能变体版本，定价分别为3.00美元和15.00美元。目前，Composer 2.5已在Cursor编辑器全面上线。同时，Cursor正与SpaceX及xAI合作，利用Colossus-2集群的百万级H1",
     "发布日期": "2026-05-19",
-    "原文链接": "https://www.aibase.com/zh/news/28077",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/316cce97daeb6e138ca4846876727004.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/316cce97daeb6e138ca4846876727004.jpg",
-    "配图仓库路径": "assets/news_images/316cce97daeb6e138ca4846876727004.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0518/6391471257698448457107153.png"
+    "原文链接": "https://www.aibase.com/zh/news/28107",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d706bd5e31e29dbb664027255fa597fb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d706bd5e31e29dbb664027255fa597fb.jpg",
+    "配图仓库路径": "assets/news_images/d706bd5e31e29dbb664027255fa597fb.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0519/6391478161471411684770166.png"
   }
 ]
