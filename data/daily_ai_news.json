@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里平头哥发布真武M890芯片，阿里云全栈升级支撑Agent智能体运行",
-    "内容": "2026年5月20日，阿里云在峰会上宣布完成面向Agentic时代的全栈技术体系升级，旨在打造支撑智能体24小时工作的“AI工厂”。核心底座平头哥真武M890 AI芯片正式亮相，该芯片内置144GB大显存，性能较上一代真武810E提升3倍，原生支持FP32至FP4多种数据精度，适配高精度训练与低精度并发推理。配合自研ICN Switch 1.0互联芯片，阿里云推出了基于真武M890的磐久AL128超节点服务器，实现百纳秒级超低通信时延。此外，阿里云重构了云交互逻辑，推出AI原生官网“千问云”，将150多款模型及云产品能力封装为标准化Skills与CLI工具，支持Agent通过代码指令直接调用基础设施。阿里云CTO李飞飞表示，大模型重心已转向“对齐任务目标”，该全栈体系通过“芯-云-模型-推理”深度融合，旨在解决",
-    "发布日期": "2026-05-21",
-    "原文链接": "https://www.aibase.com/zh/news/28195",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4f24aa4d27e1ee5273cde56e6fb8a295.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4f24aa4d27e1ee5273cde56e6fb8a295.jpg",
-    "配图仓库路径": "assets/news_images/4f24aa4d27e1ee5273cde56e6fb8a295.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005281121329984_8.jpg"
+    "资讯标题": "阿里云百炼平台重磅升级，正式接入智谱、MiniMax等第三方顶尖大模型",
+    "内容": "5月20日，阿里云宣布大模型服务平台“百炼”正式转型为涵盖全行业主流模型的“AI模型超级市场”。此次升级实现了全栈开放接入，首批引入智谱GLM-5.1、MiniMax M2.7、月之暗面Kimi K2.6、阶跃星辰等大语言模型，以及Pixverse-v6、可灵、Vidu Q3等视觉多模态模型。百炼平台通过底层标准化处理，为开发者提供统一API接口，无需针对不同厂商单独对接，大幅降低研发与维护成本。新增模型已同步上架“千问云”官网，支持一站式采购与部署。结合阿里云“真武”系列AI芯片及超节点服务器，该平台通过算力优化提升了模型推理效率。此举标志着阿里云从单一自研驱动转向生态聚合，通过打破技术锁定，为企业用户提供更灵活的模型选型与集成方案，助力Agentic时代复杂任务处理。",
+    "发布日期": "2026-05-22",
+    "原文链接": "https://www.aibase.com/zh/news/28214",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a0856b36ce98c3b224c08ece60f8844f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a0856b36ce98c3b224c08ece60f8844f.jpg",
+    "配图仓库路径": "assets/news_images/a0856b36ce98c3b224c08ece60f8844f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202009271645446054_11.jpg"
   },
   {
-    "资讯标题": "苹果发布系列AI辅助功能，Apple Vision Pro支持眼神控制智能轮椅",
-    "内容": "苹果公司在第15个全球可访问性意识日发布一系列深度融合Apple Intelligence的辅助功能，旨在提升残障人士在iPhone、Mac及Apple Vision Pro上的使用体验。核心更新包括：VoiceOver功能通过AI对摄像头取景框进行深度理解，能以自然语言描述物体或人物；Apple Vision Pro引入眼球追踪技术，支持用户通过眼神控制兼容的智能动力轮椅；声音控制功能支持自然语言指令，无需特定标签即可操作屏幕；此外，设备端侧AI可为所有无字幕视频实时生成中文字幕。上述功能预计将于今年晚些时候通过系统更新正式推送。此次更新标志着苹果将大模型技术深度嵌入无障碍生态，通过系统级AI赋能，显著降低了残障用户与空间计算及移动设备的交互门槛，为行业在辅助技术领域提供了新的技术范式。",
-    "发布日期": "2026-05-21",
-    "原文链接": "https://www.aibase.com/zh/news/28194",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7fef68c214930f9913fa5c2ff6caa465.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7fef68c214930f9913fa5c2ff6caa465.jpg",
-    "配图仓库路径": "assets/news_images/7fef68c214930f9913fa5c2ff6caa465.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202211071746559852_3.jpg"
+    "资讯标题": "谷歌推出由Gemini 3.5 Flash驱动的智能搜索框并引入AI代理服务",
+    "内容": "谷歌正式对搜索引擎进行深度改革，推出由Gemini 3.5 Flash模型驱动的全新“智能搜索框”，旨在将传统关键词检索升级为对话式交互体验。该搜索框支持长文本及多模态输入，可理解图片、文件与视频，并能结合Gmail、Google Photos等应用数据提供个性化回答。此外，谷歌计划于今年夏季面向Google AI Pro和Ultra订阅用户上线AI代理系统，支持全天候监控网络内容及自动执行任务。尽管该转型显著提升了搜索的上下文理解能力与交互深度，但外界对其在海量请求下的信息准确性与可靠性仍存质疑。此次更新标志着谷歌搜索从单纯的信息检索工具向具备事务处理能力的智能助手转型，将深刻改变用户与搜索引擎的交互范式。",
+    "发布日期": "2026-05-22",
+    "原文链接": "https://www.aibase.com/zh/news/28209",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/539e7bea4f495653c6b5517908235172.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/539e7bea4f495653c6b5517908235172.jpg",
+    "配图仓库路径": "assets/news_images/539e7bea4f495653c6b5517908235172.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621143997_48.jpg"
   },
   {
-    "资讯标题": "OpenAI最快本周五提交IPO招股书草案，计划于2026年9月正式上市",
-    "内容": "OpenAI已正式启动上市进程，最快将于本周五向监管机构递交IPO招股书草案，目标是在2026年9月完成挂牌。随着此前埃隆·马斯克发起的法律诉讼失利，OpenAI内部治理结构与财务安排的障碍已扫清，上市筹备工作进入实质性执行阶段。目前，OpenAI正与高盛及摩根士丹利深度合作，加速推进申报流程，并考虑为散户预留股份。作为全球AI领域的领头羊，OpenAI在私募市场的最新估值已突破8500亿美元。首席财务官萨拉·弗莱尔表示，公司已完成数月的合规化准备，旨在通过此次IPO将治理结构全面对标上市公司标准。若计划顺利实施，OpenAI有望成为全球资本市场历史上规模最大的IPO之一，对AI产业的资本格局产生深远影响。",
-    "发布日期": "2026-05-21",
-    "原文链接": "https://www.aibase.com/zh/news/28200",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
-    "配图仓库路径": "assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202405110933330041_0.jpg"
+    "资讯标题": "亚马逊 SageMaker AI 推出兼容 OpenAI API 的实时推理端点",
+    "内容": "亚马逊 SageMaker AI 正式推出支持 OpenAI 兼容 API 的实时推理端点，用户仅需更改端点 URL，即可通过 OpenAI SDK、LangChain 或 Strands Agents 直接调用模型，无需重写代码或进行 SigV4 封装。该功能通过新增 /openai/v1 路径实现，支持聊天补全请求及流式输出。此更新允许用户在自有 GPU 基础设施上，利用统一的 OpenAI 接口调用包括 Llama、Mistral 在内的多种模型，并支持在同一端点托管多个模型。在认证方面，该方案采用 Bearer Token 机制，SageMaker Python SDK 已内置相关生成工具以简化流程。此举显著降低了企业将现有 AI 应用迁移至 SageMaker 的技术门槛，提升了多模型部署的灵活性与开",
+    "发布日期": "2026-05-22",
+    "原文链接": "https://www.aibase.com/zh/news/28217",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/435e2f7c53c8a98fa89f620dd13e7320.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/435e2f7c53c8a98fa89f620dd13e7320.jpg",
+    "配图仓库路径": "assets/news_images/435e2f7c53c8a98fa89f620dd13e7320.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202502051558220037_5.jpg"
   },
   {
-    "资讯标题": "OpenAI推理模型推翻80年几何猜想，首次自主证明Erdős开放问题",
-    "内容": "OpenAI近日宣布，其最新推理模型成功生成原创数学证明，正式推翻了保罗·Erdős于1946年提出的单位距离猜想。这是AI首次依靠长链推理能力自主攻克数学核心领域的开放性难题。该模型摒弃了传统网格状排列思路，独立发现了一套表现更优的全新构造方案。为确保严谨性，OpenAI邀请了Thomas Bloom等多位国际知名数学家进行独立验证，证实其并非简单的文献检索。从技术层面看，该成果表明模型已基本克服传统LLM常见的“幻觉”问题，能够处理涉及复杂推导步骤的逻辑链条。虽然该证明仍需等待同行评审，但其在组合几何与图论领域的突破，未来有望直接辐射至蛋白质折叠研究、材料科学晶体结构分析及药物分子设计优化等前沿科学领域。",
-    "发布日期": "2026-05-21",
-    "原文链接": "https://www.aibase.com/zh/news/28202",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b637b23226d94adaea8fd2651fa232ff.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b637b23226d94adaea8fd2651fa232ff.jpg",
-    "配图仓库路径": "assets/news_images/b637b23226d94adaea8fd2651fa232ff.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0521/6391495893609879836158433.png"
+    "资讯标题": "OpenAI推理模型取得突破，成功反驳离散几何领域Erdős单位距离猜想",
+    "内容": "2026年5月20日，OpenAI内部推理模型成功推翻了数学家Paul Erdős于1946年提出的“单位距离猜想”，该成果已在arXiv（编号2605.20579v1）公开发布。不同于以往的检索式生成，该模型基于代数数域构造自主发现了新型证明方案，证明了平面点集中单位距离对数超出了此前人类认定的最优上限。该证明过程涉及数百步严密逻辑推导，展现了模型极高的长链推理能力与原创研究潜力。包括Tim Gowers在内的多位知名数学家对该成果给予高度评价，认为其具备发表于《数学年鉴》的学术水准。这一突破标志着AI已从辅助计算工具进化为原创研究伙伴。该研究对理解点集分布规律具有重要意义，其应用价值将辐射至材料科学中的晶体结构优化、通信网络拓扑设计以及生物医学中的蛋白质折叠模拟等领域，预示着AI在解决复杂基础科学难题方面进",
+    "发布日期": "2026-05-22",
+    "原文链接": "https://www.aibase.com/zh/news/28213",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "配图仓库路径": "assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405110933330041_0.jpg"
   },
   {
-    "资讯标题": "Anthropic预计2026年第二季度实现盈利，营收将达109亿美元",
-    "内容": "人工智能初创公司Anthropic预计在2026年第二季度实现首个盈利季度，单季营业利润约为5.59亿美元。财务数据显示，该公司该季度营收预计将达到109亿美元，较第一季度的48亿美元实现翻倍增长。相比之下，OpenAI预计需至2030年才能扭亏为盈，而xAI目前已累计亏损64亿美元。尽管Anthropic在商业化变现进度上领先，但其长期盈利稳定性仍面临巨大算力成本挑战。目前，Anthropic已签署每年高达150亿美元的算力采购协议，并与谷歌、亚马逊等云巨头达成深度合作，未来数年总技术支出预计将达数千亿美元规模。这一进展标志着AI大模型赛道在商业化路径上迈出关键一步，但高昂的算力基础设施投入仍是行业核心财务压力来源。",
-    "发布日期": "2026-05-21",
-    "原文链接": "https://www.aibase.com/zh/news/28205",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
+    "资讯标题": "Cursor发布自研模型Composer 2.5，任务执行成本降至1美元以下",
+    "内容": "Cursor正式发布全新自研模型Composer 2.5，标志着其摆脱对Claude的依赖，开启自研技术路线。在性能表现上，Composer 2.5在终端复杂操作测试中得分69.3%，跨语言工程能力测试得分79.8%，性能表现与Claude Opus 4.7基本持平。该模型通过创新的“边干活边挨骂”实时反馈训练机制及自出题逆向分析能力，显著提升了模型响应与训练速度。在商业化层面，Cursor将任务执行成本大幅压低至每次任务不到1美元，相比Claude和GPT系列模型具备极高的性价比优势。此外，马斯克已公开为该模型站台，并与Cursor达成相关收购期权协议。此次发布不仅重塑了Cursor的市场竞争力，也通过大幅降低AI编程门槛，对现有的AI辅助开发行业格局产生直接冲击。",
+    "发布日期": "2026-05-22",
+    "原文链接": "https://www.aibase.com/zh/news/28225",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94912c87f0916d804beb9ff7872035f0.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94912c87f0916d804beb9ff7872035f0.jpg",
+    "配图仓库路径": "assets/news_images/94912c87f0916d804beb9ff7872035f0.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306161513254632_1.jpg"
   }
 ]
