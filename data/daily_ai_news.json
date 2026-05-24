@@ -1,37 +1,7 @@
 [
   {
-    "资讯标题": "避开公开判决！Meta 达成美国首例学校起诉社交媒体成瘾案和解",
-    "内容": "Meta 达成美国首例学校起诉社交媒体成瘾案和解AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 22, 20264科技巨头 Meta 近日与美国肯塔基州布雷希特县学区达成了一项历史性的和解协议。该诉讼指控 Meta 旗下的社交平台引发了青少年心理健康危机，并要求其承担学校为此付出的应对成本。作为全美首例由学区发起的此类开庭审判诉讼，其和解标志着该领域的司法博弈迎来了关键转折。就在本周早些时候，同案被告 YouTube、Snap 和 TikTok 已相继与原告达成和解，Meta 由此成为唯一面对庭审的被告。随着 Meta 在最后关头选择妥协，原定于 6 月 12 日在加州奥克兰联邦法院开启的史诗级庭审已被正式取消。",
-    "发布日期": "2026-05-24",
-    "原文链接": "https://www.aibase.com/zh/news/28266",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
-    "配图仓库路径": "assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202207271436142427_0.jpg"
-  },
-  {
-    "资讯标题": "加州大学圣地亚哥分校研究证实：GPT-4.5在图灵测试中胜率超越真人",
-    "内容": "加州大学圣地亚哥分校（UCSD）在《美国国家科学院院刊》（PNAS）发表研究，证实大语言模型已能通过经典图灵测试。在双盲实验中，GPT-4.5通过特定人格提示词，以73%的胜率超越人类志愿者；开源模型LLaMa-3.1-405B胜率达56%，与人类表现持平。研究发现，AI胜出的关键在于模拟人类的“易错性”与社会行为特征，而非单纯的逻辑计算。若失去人格提示，模型胜率则大幅下滑。研究者指出，AI已成为“完美的说谎者”，这标志着图灵测试从衡量智能转向衡量“像人程度”。该发现对网络信任体系构成挑战，专家警告，AI在社交与客服场景的伪装能力极易被恶意利用，呼吁行业尽快建立更严苛的数字身份验证与AI内容防伪机制，以应对潜在的社会风险。",
-    "发布日期": "2026-05-24",
-    "原文链接": "https://www.aibase.com/zh/news/28255",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/69056aa44007a63af553be961b3a49ab.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/69056aa44007a63af553be961b3a49ab.jpg",
-    "配图仓库路径": "assets/news_images/69056aa44007a63af553be961b3a49ab.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131355468584_1.jpg"
-  },
-  {
-    "资讯标题": "DeepSeek宣布融资超700亿元并即将上线AI编程工具DeepSeek Code",
-    "内容": "DeepSeek近日宣布融资额已突破700亿元，公司战略重心转向突破性AI研究，并确认即将上线AI编程工具DeepSeek Code。为加速研发，DeepSeek正通过官网大规模招聘Agent Harness产品经理及研发工程师。Harness系统旨在为大模型提供执行、反馈与纠错能力，是实现AI Agent的关键技术。招聘要求候选人具备Claude Code、Codex等主流AI编程工具的使用经验。该项目由曾任TSY Capital联合创始人的崔添翼负责，旨在打造具备深度理解力的编程辅助工具。目前，尽管DeepSeek Code尚未正式发布，但已在开发者群体中引发高度关注，此前社区已出现DeepSeek-TUI等第三方优化工具。此次布局标志着DeepSeek正式切入AI编程领域，致力于通过Harness技术提升",
-    "发布日期": "2026-05-24",
-    "原文链接": "https://www.aibase.com/zh/news/28268",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
-    "配图仓库路径": "assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558233072_8.jpg"
-  },
-  {
-    "资讯标题": "Comscore发布3月美国桌面端AI榜单：ChatGPT居首，Claude环比增长130%",
-    "内容": "Comscore发布2026年3月美国桌面端消费级AI聊天机器人市场报告，全美AI平台独立用户达4440万，环比增长超21%。OpenAI旗下ChatGPT以3386万独立访客稳居榜首，环比增长18.9%。谷歌Gemini以1066万访客位列第二，微软Copilot以502万访客位居第三，环比增幅达44.4%。Anthropic旗下Claude表现最为抢眼，以266万独立访客位列第四，环比增速高达130.1%，成为市场最强劲的挑战者。榜单后三位分别为X Grok（165万）、DeepSeek（41万）及Perplexity（36万）。数据表明，尽管头部梯队优势明显，但随着Claude等平台的快速崛起，美国桌面端AI市场的竞争格局正趋于激烈，用户对AI服务的渗透率持续走高。",
+    "资讯标题": "美国 3 月桌面端 AI 榜单出炉：ChatGPT 稳居第一，Claude 环比飙升 130% 紧追不舍",
+    "内容": "美国 3 月桌面端 AI 榜单出炉：ChatGPT 稳居第一，Claude 环比飙升 130% 紧追不舍AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 22, 202679互联网信息服务提供商 Comscore 近日发布了 2026 年 3 月美国桌面端消费级 AI 聊天机器人的最新市场报告。数据显示，OpenAI 旗下的 ChatGPT 依然牢牢占据着美国市场头把交椅，但行业黑马 Claude 正在以惊人的速度在后方展开猛烈追赶。整体来看，美国消费级 AI 平台在 3 月份共吸引了 4440 万桌面端独立用户，环比增长超过 21%。这一数据表明，随着技术普及和用户习惯的养成，桌面端人工智能服务在美国用户中的渗透率依然保持着强劲的增长势头。",
     "发布日期": "2026-05-24",
     "原文链接": "https://www.aibase.com/zh/news/28261",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
@@ -40,8 +10,38 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
   },
   {
-    "资讯标题": "B站发布2026年Q1财报：实现扭亏为盈，AI驱动广告收入增长30%",
-    "内容": "B站发布2026年第一季度财报，总营收达74.7亿元，同比增长7%，净利润实现2.02亿元，正式扭亏为盈。本季度核心增长引擎为广告业务，收入达25.9亿元，同比激增30%，其中AI技术发挥关键作用，自动广告消耗渗透率已达85%，显著提升了投放转化效率。用户数据方面，DAU达1.15亿，日均使用时长创下119分钟的历史新高。AI不仅重塑了内容推荐链路，还使站内AI相关内容观看时长环比增长44%。尽管游戏业务受高基数影响同比下滑12%，但B站明确了长线运营战略，储备新品《三国志：王道天下》等将于年内上线。面对资本市场对10亿元AI资本开支的关注，管理层强调将持续加大AI基建投入，通过技术驱动实现从“视频社区”向“AI应用工厂”的范式转型，以巩固长期盈利能力。",
+    "资讯标题": "智谱发布GLM-5.1高速版API，实现400 tokens/s推理速度",
+    "内容": "5月22日，智谱正式面向企业客户发布GLM-5.1高速版（GLM-5.1-highspeed）API。该模型在保持旗舰级基座能力的同时，实测输出速度达400 tokens/s，刷新全球大模型官方API速度上限。产品支持200K超长上下文窗口，最大单次输出达128K tokens。技术层面，智谱GLM团队与TileRT团队深度合作，通过重构推理引擎核心路径、优化动态批处理与KV Cache调度，以及提升集群负载均衡效率，实现了旗舰性能与极致低延迟的并存。目前，该模型已通过智谱MaaS平台向特定企业客户定向开放。此举旨在解决高频交互、AI编程、多智能体（Multi-Agent）协作及实时语音场景下的延迟瓶颈，助力企业在不牺牲智能水平的前提下，大幅提升生产效率与系统响应速度，加速软件生态向智能体化转型。",
+    "发布日期": "2026-05-24",
+    "原文链接": "https://www.aibase.com/zh/news/28254",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2baaa58d47b95d420ecac165763f6ef0.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2baaa58d47b95d420ecac165763f6ef0.jpg",
+    "配图仓库路径": "assets/news_images/2baaa58d47b95d420ecac165763f6ef0.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202406051435016830_1.jpg"
+  },
+  {
+    "资讯标题": "加州大学圣地亚哥分校研究证实GPT-4.5在图灵测试中胜率超越真人",
+    "内容": "加州大学圣地亚哥分校最新研究显示，大语言模型已成功通过经典三方图灵测试。在双盲实验中，GPT-4.5在特定人格提示下被判定为人类的胜率达73%，显著超越真人志愿者；开源模型LLaMa-3.1-405B胜率达56%，与人类表现持平。研究发现，AI伪装成功的核心在于模拟人类的社会行为特征及“犯错倾向”，而非单纯比拼智商。若缺乏精心设计的提示词，GPT-4.5与LLaMa-3.1的胜率则分别跌至36%与38%。研究者指出，AI已成为完美的“说谎者”，这标志着图灵测试从衡量智能转向衡量“像人程度”。该成果引发行业对网络信任链断裂的担忧，专家警示，未来线上社交需更严苛的数字身份验证与AI防伪机制，以应对AI恶意伪装带来的社会风险。",
+    "发布日期": "2026-05-24",
+    "原文链接": "https://www.aibase.com/zh/news/28255",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/69056aa44007a63af553be961b3a49ab.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/69056aa44007a63af553be961b3a49ab.jpg",
+    "配图仓库路径": "assets/news_images/69056aa44007a63af553be961b3a49ab.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131355468584_1.jpg"
+  },
+  {
+    "资讯标题": "OpenAI 正式发布 ChatGPT for PowerPoint 插件，支持一键生成与逻辑纠错",
+    "内容": "5月22日，OpenAI 正式推出 ChatGPT for PowerPoint 插件（Beta版），该插件已嵌入 PowerPoint 底层架构，面向全球所有 ChatGPT 用户（含免费账号）开放。用户可通过 PowerPoint 插件商店搜索并激活使用。该工具支持三大核心场景：一是通过自然语言指令“无中生有”生成包含大纲与布局的 PPT 初稿；二是实时执行文案润色与配色调整；三是具备“主动揪 Bug”功能，可识别内容逻辑缺口并预判汇报提问。为确保安全性，插件引入了“人在回路（Human-in-the-loop）”机制，针对结构大改等关键操作强制要求人工确认。此次原生接入标志着 PPT 制作从“鼠标画图”转向“智能体协作”模式，大幅降低了传统 AI 生成工具在格式调整与逻辑衔接上的割裂感，提升了办公生产力。",
+    "发布日期": "2026-05-24",
+    "原文链接": "https://www.aibase.com/zh/news/28262",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/29f544e819c801a31e134d098bfbc4a8.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/29f544e819c801a31e134d098bfbc4a8.jpg",
+    "配图仓库路径": "assets/news_images/29f544e819c801a31e134d098bfbc4a8.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0522/6391506324017370184480120.png"
+  },
+  {
+    "资讯标题": "B站发布2026年Q1财报：实现扭亏为盈，AI驱动广告收入激增30%",
+    "内容": "B站发布2026年第一季度财报，总营收达74.7亿元，同比增长7%。公司实现净利润2.02亿元，经调整净利润5.85亿元，同比增长62%，正式实现单季扭亏为盈。核心业务中，广告收入达25.9亿元，同比激增30%，连续13个季度保持双位数增长。AI成为商业增长核心变量，自动广告消耗渗透率已达85%，显著提升投放转化效率。用户端，DAU达1.15亿，日均使用时长创下119分钟的历史新高。游戏业务营收15.2亿元，同比下滑12%，管理层表示正通过长线运营及《三国志：王道天下》等新品储备进行战略调整。面对资本市场对全年10亿元AI资本开支的关注，B站管理层强调AI是“十倍放大的历史性机遇”，将持续加大AI基建投入，推动公司向“视频社区+AI应用工厂”范式转型。",
     "发布日期": "2026-05-24",
     "原文链接": "https://www.aibase.com/zh/news/28270",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0719dd169958cbdcab8edffc93903fb7.jpg",
