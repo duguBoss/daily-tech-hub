@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "蚂蚁灵波LingBot-VA论文被RSS2026接收，实现机器人边推演边行动",
-    "内容": "蚂蚁灵波科技与香港科技大学合作的论文《Causal World Modeling for Robot Control》近日被机器人顶级学术会议RSS 2026接收。该研究提出面向机器人控制的因果世界建模框架，并开源了全球首个自回归视频-动作世界模型LingBot-VA。LingBot-VA采用Mixture-of-Transformers（MoT）架构，将视频预测与动作生成统一在自回归扩散框架中，赋予机器人“边观察、边判断、边行动”的因果推演能力。在技术实现上，模型通过闭环推演机制减少误差累积，并具备强长期记忆能力。性能方面，在RoboTwin 2.0基准测试中，LingBot-VA在Easy和Hard设置下分别取得92.0%和91.1%的成功率；在真实世界评测中，仅需50条示范数据即可适配，成功率较业界基线π",
-    "发布日期": "2026-05-25",
-    "原文链接": "https://www.aibase.com/zh/news/28297",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dabf9667e4b53edfd4551849456dda7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4dabf9667e4b53edfd4551849456dda7.jpg",
-    "配图仓库路径": "assets/news_images/4dabf9667e4b53edfd4551849456dda7.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202201042120215981_23.jpg"
+    "资讯标题": "面壁智能联合清华大学发布中国首个1.58-bit大模型BitCPM-CANN",
+    "内容": "面壁智能联合清华大学发布中国首个1.58-bit大模型BitCPM-CANN AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 25, 202637近日，面壁智能联合清华大学及 OpenBMB 开源社区，正式发布并开源了中国首个基于华为昇腾平台训练的三值（1.58-bit）大模型 ——BitCPM-CANN。该模型在低比特大模型训练领域取得了重大突破，标志着中国在人工智能技术上的又一里程碑。BitCPM-CANN 的推出，不仅展示了国产算力平台的强大实力，还实现了从量化算子到训练算法的全链路原生开发。该模型分为0.5B、1B、3B 和8B 四个尺寸，性能表现卓越，相较于同尺寸的全精度家族 MiniCPM4进行了逐项对照评测，结果令人振奋。",
+    "发布日期": "2026-05-26",
+    "原文链接": "https://www.aibase.com/zh/news/28306",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/541aa3242a4cee26f31311be08cd57fc.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/541aa3242a4cee26f31311be08cd57fc.jpg",
+    "配图仓库路径": "assets/news_images/541aa3242a4cee26f31311be08cd57fc.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0525/26052503083963875118.jpg"
   },
   {
-    "资讯标题": "腾讯ima宣布全面开放Copilot智能体并上线知识技能分享平台",
-    "内容": "人工智能知识管理平台ima今日宣布，其AI智能体产品“Copilot”正式取消排队机制，实现全面开放。ima Copilot定位为“知识Agent”，具备持续进化的记忆与全场景感知能力，支持用户调用个人知识库、接入外部模型API及扩展自定义Skill。该产品可通过自然语言指令自动执行网页浏览、全网调研及可视化报告生成等复杂任务，显著提升工作流自动化水平。同步推出的“知识号”功能支持用户将复用性工作流程封装为Skill，并发布至“知识广场”进行分享与流转。首批上线了包括“微信读书”、“腾讯招聘”在内的官方Skill。此次更新标志着ima从单一知识管理工具向集“知识沉淀、智能调用、能力共享”于一体的“知识+Agent”平台演进。用户更新至最新版本即可体验完整功能。",
-    "发布日期": "2026-05-25",
-    "原文链接": "https://www.aibase.com/zh/news/28291",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/83c98052c772028ca96b711420209181.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/83c98052c772028ca96b711420209181.jpg",
-    "配图仓库路径": "assets/news_images/83c98052c772028ca96b711420209181.jpg",
-    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0525/26052510380614709932.jpg"
+    "资讯标题": "国家标准委发布《AI伦理安全指引1.0》，为大模型落地装上“安全闸”",
+    "内容": "国家标准委发布《AI伦理安全指引1.0》，为大模型落地装上“安全闸”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 25, 202623近日，全国网络安全标准化技术委员会正式发布《人工智能应用伦理安全指引1.0》。这份重磅文件由阿里、华为、深度求索（DeepSeek）等头部企业及科研单位联合起草，标志着我国人工智能伦理安全治理体系从“顶层倡议”正式迈向“技术标准落位”的新阶段。该指引是一份原则性、参考性的技术文件，旨在为人工智能产业链上的各主体提供一套可执行的伦理安全框架，以应对当前AI应用中日益突出的安全挑战。指引的三大维度:全生命周期安全闭环《指引》明确将人工智能的生命周期拆解为应用开发、服务提供、应用使用三个关键层面，并针对各环节提出了差异化的安全要求: 开发层:源头治理。",
+    "发布日期": "2026-05-26",
+    "原文链接": "https://www.aibase.com/zh/news/28313",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96be815c6ac81d9ff05a839af2088d38.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96be815c6ac81d9ff05a839af2088d38.jpg",
+    "配图仓库路径": "assets/news_images/96be815c6ac81d9ff05a839af2088d38.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556144476_5.jpg"
   },
   {
-    "资讯标题": "李飞飞团队发布具身智能基准 ESI-Bench，推动 AI 从被动感知转向主动交互",
-    "内容": "李飞飞团队近日发布具身智能基准 ESI-Bench，旨在解决 AI 在物理空间交互中的短板。该基准基于认知心理学核心知识系统，构建于 OmniGibson 仿真平台，包含 10 个类别、29 个子类别及 3081 个任务实例。ESI-Bench 强制要求模型建立“感知-行动回路”，即模型必须主动决定导航、观察及操作以获取空间信息，而非依赖被动视角。针对 GPT-5、Gemini 等前沿多模态模型的测试揭示了三大核心问题：一是模型缺乏主动导航与操纵策略，导致“动作盲视”；二是实时 3D 重建产生的几何伪影会产生“有毒数据”，效果劣于 2D 图片；三是模型存在“元认知缺陷”，即缺乏怀疑机制，在信息匮乏时仍会产生高置信度幻觉。该基准的发布标志着具身智能评测从静态图文匹配向真实物理交互范式转移，强调了序列决策能力与元认",
-    "发布日期": "2026-05-25",
-    "原文链接": "https://www.aibase.com/zh/news/28286",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/78e095b7b0fa4ca1f2f5e8f5c0cbb581.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/78e095b7b0fa4ca1f2f5e8f5c0cbb581.jpg",
-    "配图仓库路径": "assets/news_images/78e095b7b0fa4ca1f2f5e8f5c0cbb581.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307261637353641_4.jpg"
+    "资讯标题": "单季吸金超千亿，AI创投潮涌掀起技术迭代新风暴",
+    "内容": "单季吸金超千亿，AI创投潮涌掀起技术迭代新风暴AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 25, 202627当前全球人工智能领域的创投市场正迎来爆发式增长。最新数据显示，今年第一季度AI领域的融资事件近 600 起，总金额突破 1100 亿元人民币，同比激增185.4%。巨额资本聚焦三大核心方向在刚刚过去的 5 月，月之暗面、阶跃星辰等国产大模型头部企业再次发力，一举拿下超过 300 亿元的融资。与此同时，具身智能赛道同样受到资本热捧，维他动力、鹿明机器人等新锐企业在短短一周内相继斩获数亿元巨额资金。调研发现，这些AI创业公司在获得融资后，其资金主要流向了研发投入、算力采购以及全球顶尖人才招揽三大方向。",
+    "发布日期": "2026-05-26",
+    "原文链接": "https://www.aibase.com/zh/news/28298",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c1efb0bd0418e0b58ef6c0f82c65cf5c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c1efb0bd0418e0b58ef6c0f82c65cf5c.jpg",
+    "配图仓库路径": "assets/news_images/c1efb0bd0418e0b58ef6c0f82c65cf5c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812101541429574_0.jpg"
   },
   {
-    "资讯标题": "字节跳动联合港科大发布MMProLong模型，优化长文档LMM训练效率",
-    "内容": "字节跳动Seed团队联合香港科技大学发布多模态大语言模型（LMM）研究成果MMProLong。该模型基于Qwen2.5-VL构建，核心突破在于证明了针对特定目标的问答对（QA）训练在长文档处理中显著优于传统的OCR转录。研究发现，纯文本转录会导致模型长上下文定位能力下降，而使用Seed2.0生成的长上下文QA对训练，能有效引导模型在冗长信息中精准检索。在仅128,000个Token的训练预算下，MMProLong在256,000至512,000个Token长度下表现稳定，并在MMLongBench与MM-NIAH基准测试中超越InternVL3-38B及Gemma3-27B。该策略已在Qwen3-VL-8B上验证有效，并成功迁移至长视频理解任务。此项研究为行业提供了一条无需改动底层架构、通过优化数据组织形式提升",
-    "发布日期": "2026-05-25",
-    "原文链接": "https://www.aibase.com/zh/news/28289",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/322294f33be68d3d0c10e184cd8905a0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/322294f33be68d3d0c10e184cd8905a0.jpg",
-    "配图仓库路径": "assets/news_images/322294f33be68d3d0c10e184cd8905a0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908052105504517_4.jpg"
+    "资讯标题": "价格狂降75%!DeepSeek V4宣告永久保留折扣，登顶全球AI性价比榜首",
+    "内容": "DeepSeek V4宣告永久保留折扣，登顶全球AI性价比榜首AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 25, 202635中国人工智能企业DeepSeek近日正式更新其API文档，宣布旗下旗舰大模型DeepSeek-V4-Pro将实施永久大降价。原本预计于5月31日结束的2.5折限时优惠活动，如今将直接转为永久定价，相当于在原价基础上永久削减了75%的成本。碾压美系旗舰的绝对优势第三方权威评估机构Artificial Analysis的最新基准测试数据显示，此次降价让DeepSeek-V4-Pro直接登顶全球AI模型性价比榜首。在执行相同的AI智能指数测试时，该模型的消耗成本仅为268美元。",
+    "发布日期": "2026-05-26",
+    "原文链接": "https://www.aibase.com/zh/news/28312",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
+    "配图仓库路径": "assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051542244255_2.jpg"
   },
   {
-    "资讯标题": "中国大模型调用量连续 4 周碾压美国：全球 AI 开发者正加速“国产化”",
-    "内容": "中国大模型调用量连续 4 周碾压美国：全球 AI 开发者正加速“国产化”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 25, 202612根据 OpenRouter 刚刚发布的最新监测数据，全球大模型调用市场正在经历一场“向东看”的剧烈范式转移。上周（5 月 18 日至 5 月 24 日），全球 AI 大模型总调用量攀升至 28.9 万亿 Token，环比增长 7.4%，展现出连续五周不间断的强劲增长势头。在这场算力与应用的全球博弈中，中国大模型不仅在规模上实现了对美国的持续领跑，其增长速度更展现出惊人的爆发力。全球总盘： 全球周调用量高达 28.9 万亿 Token，连续 5 周上涨，AI 基础设施进入高频常态化调用阶段。",
-    "发布日期": "2026-05-25",
-    "原文链接": "https://www.aibase.com/zh/news/28295",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f5eade8585a31c487191397abb5a32ba.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f5eade8585a31c487191397abb5a32ba.jpg",
-    "配图仓库路径": "assets/news_images/f5eade8585a31c487191397abb5a32ba.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743129700_3.jpg"
+    "资讯标题": "OpenAI斥巨资在新加坡建实验室，开启首个海外AI大本营",
+    "内容": "OpenAI斥巨资在新加坡建实验室，开启首个海外AI大本营AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 25, 202611人工智能巨头OpenAI近日正式与新加坡政府签署多年期合作协议。公司承诺将投入超过2. 34 亿美元（约合 3 亿新元），在新加坡设立其在美国本土以外的首个应用人工智能实验室。携手政府布局三大核心方向该实验室将作为双方深化合作的核心载体，未来将主要聚焦于三大战略方向。其中包括帮助新加坡公共和私营机构部署前沿AI，培养下一代本地AI人才，以及推动AI技术惠及普通民众与各类企业。为了达成这一目标，OpenAI计划与当地教育部和政府科技局展开紧密合作。双方将共同开发AI驱动的教育工具，并开设新加坡版的OpenAI学院，以此来全面扩大AI工具在当地的可及性。",
+    "发布日期": "2026-05-26",
+    "原文链接": "https://www.aibase.com/zh/news/28304",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
+    "配图仓库路径": "assets/news_images/8bcc90ae280ae1fccd3afc68edf3fc9b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202405110933330041_0.jpg"
   }
 ]
