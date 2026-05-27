@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "攻克悬置 56 年难题！谷歌AlphaProof Nexus颠覆数学界",
-    "内容": "攻克悬置 56 年难题。谷歌AlphaProof Nexus颠覆数学界AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 26, 202643谷歌DeepMind团队近日正式推出了全新的AI框架“AlphaProof Nexus”。该系统凭借强大的人工智能推理与形式化验证能力，在数学研究领域取得了里程碑式的突破，成功解开了两道已悬而未决长达 56 年的Erdős（埃尔德什）数学难题。独创四级智能体架构协同破局AlphaProof Nexus在架构设计上极具创新，由 4 个复杂度递增的AI智能体组合而成。系统从最基础的Gemini模型与Lean编译器循环交互开始，逐步引入代码补全片段机制和类似AlphaEvolve的进化机制，最终通过功能最完整的智能体实现多个证明草稿的共享、评分与排序。",
+    "资讯标题": "音频创作迎来新突破！Stability AI 发布 Stable Audio 3：长音频秒级生成",
+    "内容": "音频创作迎来新突破。Stability AI 发布 Stable Audio 3：长音频秒级生成AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 202621知名人工智能公司 Stability AI 近日正式发布了其最新一代音频大模型Stable Audio3，并同步开源了部分模型权重。作为一款专为音频生成与编辑设计的潜扩散模型，该系统不仅支持高品质的双声道立体声输出，更在生成速度上实现了质的飞跃。本次发布的模型家族涵盖了从小到大多种规格，能够满足音乐创作和音效制作等多元化需求。值得一提的是，该模型支持可变长度的音频生成，并引入了基于内补成像技术的音频编辑功能，为创作者提供了前所未有的灵活性。",
     "发布日期": "2026-05-27",
-    "原文链接": "https://www.aibase.com/zh/news/28338",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d253888282cfa2016bf4666596dc3b88.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d253888282cfa2016bf4666596dc3b88.jpg",
-    "配图仓库路径": "assets/news_images/d253888282cfa2016bf4666596dc3b88.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0526/6391540056384047471226145.png"
+    "原文链接": "https://www.aibase.com/zh/news/28377",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4510c266c6be6cad091029d027f4c4c2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4510c266c6be6cad091029d027f4c4c2.jpg",
+    "配图仓库路径": "assets/news_images/4510c266c6be6cad091029d027f4c4c2.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311281038473263_0.jpg"
   },
   {
-    "资讯标题": "擎朗智能发布小尺寸人形机器人 XMAN-L1：轻量化“互动专家”正式上岗",
-    "内容": "擎朗智能发布小尺寸人形机器人 XMAN-L1：轻量化“互动专家”正式上岗AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 26, 2026295 月 26 日，擎朗智能正式发布其最新研发的小尺寸人形机器人 XMAN-L1。作为擎朗“通+专”机器人矩阵中的核心成员，XMAN-L1 专为轻量级互动场景打造，不仅具备高灵活性，更通过接入主流大模型，实现了商业服务场景的“拟人化”升级。一、硬件参数：小巧身形下的强悍动力XMAN-L1 采用了紧凑型设计，在保证轻量化的同时，硬件性能表现优异： 机身规格： 身高 136cm，体态更加贴近日常互动场景的视觉习惯。高灵活性： 全身配备 42 个仿生自由度，赋予了机器人流畅且精准的肢体表达能力，能够完成复杂的动作交互与表演。",
+    "资讯标题": "重磅！MiniMax M3 即将发布：稀疏注意力架构突破，百万 Token 上下文效率暴增",
+    "内容": "MiniMax M3 即将发布：稀疏注意力架构突破，百万 Token 上下文效率暴增AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 202644AIbase 报道 北京时间最新消息，国内 AI 独角兽 MiniMax 即将推出新一代大模型 M3。MiniMax AI 工程负责人 Skyler Miao 近日在社交平台释放预告，称“Something BIG is coming。”，引发业界广泛关注。M3核心架构创新:稀疏注意力机制据透露，M3采用了全新稀疏注意力（Sparse Attention）架构，通过 Index Branch 快速索引与 Sparse Branch 精准计算相结合的方式，有效解决了超长上下文场景下的计算瓶颈。",
     "发布日期": "2026-05-27",
-    "原文链接": "https://www.aibase.com/zh/news/28351",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/837e8480446dc967b8c6050f597a41dd.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/837e8480446dc967b8c6050f597a41dd.jpg",
-    "配图仓库路径": "assets/news_images/837e8480446dc967b8c6050f597a41dd.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304271137064811_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28371",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
+    "配图仓库路径": "assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202501150943267809_0.jpg"
   },
   {
-    "资讯标题": "拒绝空谈承诺！多国政府推行大模型“发布前安全评估”新机制",
-    "内容": "多国政府推行大模型“发布前安全评估”新机制AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 26, 20265随着全球人工智能的爆发式发展，各国对大模型的监管正由早期的原则性宣言走向实质性落地。英国、美国和澳大利亚等多国政府近期相继推出新举措，要求前沿AI模型在正式公开发布前，必须通过由政府主导的安全漏洞与风险边界测试。英国模式成为全球政策样板在这场监管转型中，英国AI安全研究院（AISI）提出的红队测试与风险评估流程已成为各国的参考样板。日前，英国政府宣布与澳大利亚AI安全研究院达成正式合作，双方将联合跟踪前沿AI在网络攻击与防御领域的潜在风险，并共享核心的能力洞察。这种新型监管模式彻底改变了过去仅依赖企业自愿承诺的被动局面，将政府力量直接引入到了模型的测试流程中。",
+    "资讯标题": "四个月耗尽全年 AI 预算，Uber 高管质疑 AI 投入产出比",
+    "内容": "四个月耗尽全年 AI 预算，Uber 高管质疑 AI 投入产出比AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 202614人工智能在企业端的“生产力幻觉”正在被打破。近日，Uber 总裁兼首席运营官安德鲁·麦克唐纳（Andrew Macdonald）在公开采访中发出警示：尽管公司已实现近 95% 的工程师 AI 工具覆盖率，且 70% 的代码提交均由 AI 生成，但这些高昂的算力投入却难以直接转化为用户可见的产品功能提升。一、预算“熔断”：四个月的疯狂开支2026 年刚刚过去四个月，Uber 内部便传出了财务警报：公司为 2026 全年预留的 AI 编码工具（如 Claude Code）预算已彻底耗尽。",
     "发布日期": "2026-05-27",
-    "原文链接": "https://www.aibase.com/zh/news/28349",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/77e7aaaf291076fbdb57275916d40353.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/77e7aaaf291076fbdb57275916d40353.jpg",
-    "配图仓库路径": "assets/news_images/77e7aaaf291076fbdb57275916d40353.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311231146374659_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28373",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4db058787ebc08d4a18e88fcc00c188b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4db058787ebc08d4a18e88fcc00c188b.jpg",
+    "配图仓库路径": "assets/news_images/4db058787ebc08d4a18e88fcc00c188b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151614000236_27.jpg"
   },
   {
-    "资讯标题": "奔腾 4 复活赛：20 年前“古董”CPU 竟能跑通 Meta Llama 3 大模型",
-    "内容": "奔腾 4 复活赛：20 年前“古董”CPU 竟能跑通 Meta Llama 3 大模型AIbase基地发布于AI新闻资讯 · 2 分钟阅读 · May 26, 202631近日，YouTube 科技频道 Fully Buffered 完成了一项极具震撼力的硬核测试：在奔腾 4 641 处理器（发布于 2006 年）上，成功运行了 Meta 最新的 Llama 3.2 3B 大模型。这一测试将现代人工智能技术与 20 年前的老旧硬件强行“对撞”，不仅展示了 LLM 运行的底层兼容性极限，更让不少网友感慨：摩尔定律在 AI 时代的进化速度，竟以这种方式实现了跨时空的“握手”。",
+    "资讯标题": "不愿被强塞 AI 搜索！美国用户倒戈小众浏览器：安装量一周暴涨 30%",
+    "内容": "不愿被强塞 AI 搜索。美国用户倒戈小众浏览器：安装量一周暴涨 30%AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 202634谷歌在近期举办的开发者大会上宣布，计划对其搜索引擎进行全面的人工智能化改造。然而，这一试图用 AI 智能体取代传统“蓝色链接列表”的举动，却在用户群体中引发了强烈的反弹，许多美国用户开始用实际行动表达抗议。根据竞争对手 DuckDuckGo 发布的最新数据显示，自谷歌宣布改版后的短短几天内，其在美国市场的应用安装量迎来了爆发式增长。其中 iOS 平台的表现尤为亮眼，周均安装量增幅高达 33%，峰值甚至一度逼近 70%。用户渴望拿回选择权 针对谷歌的激进改版，不少业界观点指出，强制推行 AI 概览不仅经常给出不准确的答案，还剥夺了用户的自主选择权。",
     "发布日期": "2026-05-27",
-    "原文链接": "https://www.aibase.com/zh/news/28337",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d6b3ddd4e3925de598c1d224d1efc304.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d6b3ddd4e3925de598c1d224d1efc304.jpg",
-    "配图仓库路径": "assets/news_images/d6b3ddd4e3925de598c1d224d1efc304.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307261637346165_3.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28364",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3131b4733cd15d1e510474b54740583e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3131b4733cd15d1e510474b54740583e.jpg",
+    "配图仓库路径": "assets/news_images/3131b4733cd15d1e510474b54740583e.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0527/6391547084460844294796495.png"
   },
   {
-    "资讯标题": "国产模型大突破！昆仑万维发布天工高性能 Agent 模型 SkyClaw-v1.0",
-    "内容": "昆仑万维发布天工高性能 Agent 模型 SkyClaw-v1.0AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 26, 202657昆仑万维集团今日正式推出了面向真实工作流的高性能 Agent 模型——SkyClaw-v1.0，并同步发布了兼顾性能与性价比的轻量化版本 SkyClaw-v1.0-lite。该模型的上线，标志着国产大模型在智能体生态建设与长文本处理领域迈出了坚实的一步。支持百万上下文与多步任务执行SkyClaw-v1.0 具备支持百万 token 的超长上下文能力，并针对复杂工具调用、多轮任务执行、代码生成以及交互式应用构建等真实智能体场景进行了深度优化。",
+    "资讯标题": "三年下注600亿发力AI，小米大模型斩获全球双料第一提速智能化转型",
+    "内容": "三年下注600亿发力AI，小米大模型斩获全球双料第一提速智能化转型AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 202616小米集团董事长雷军于5月26日对外披露了集团最新研发及AI战略布局。数据显示，小米集团2026年第一季度研发投入达90亿元，同比增长33.4%，研发人员总数已达26，048人，预计全年研发投入将突破400亿元。在技术成果方面，小米自研大模型Xiaomi MiMo-V2.5-Pro成功跻身国际权威评测机构Artificial Analysis榜单，并在综合智能指数与Agent指数两项核心指标中，位列全球开源模型并列第一。基于此技术突破，雷军宣布小米未来三年将在AI领域持续投入600亿元。",
     "发布日期": "2026-05-27",
-    "原文链接": "https://www.aibase.com/zh/news/28339",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/eab8772be7eaf70134351e3453474e1c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/eab8772be7eaf70134351e3453474e1c.jpg",
-    "配图仓库路径": "assets/news_images/eab8772be7eaf70134351e3453474e1c.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0526/6391540112566767876381752.png"
+    "原文链接": "https://www.aibase.com/zh/news/28365",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dbaafb4c6a8c6d802626d54bc5f78cc8.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dbaafb4c6a8c6d802626d54bc5f78cc8.jpg",
+    "配图仓库路径": "assets/news_images/dbaafb4c6a8c6d802626d54bc5f78cc8.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201902011135116463_0.jpg"
   }
 ]
