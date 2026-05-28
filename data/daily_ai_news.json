@@ -1,52 +1,42 @@
 [
   {
-    "资讯标题": "音频创作迎来新突破！Stability AI 发布 Stable Audio 3：长音频秒级生成",
-    "内容": "音频创作迎来新突破。Stability AI 发布 Stable Audio 3：长音频秒级生成AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 202623知名人工智能公司 Stability AI 近日正式发布了其最新一代音频大模型Stable Audio3，并同步开源了部分模型权重。作为一款专为音频生成与编辑设计的潜扩散模型，该系统不仅支持高品质的双声道立体声输出，更在生成速度上实现了质的飞跃。本次发布的模型家族涵盖了从小到大多种规格，能够满足音乐创作和音效制作等多元化需求。值得一提的是，该模型支持可变长度的音频生成，并引入了基于内补成像技术的音频编辑功能，为创作者提供了前所未有的灵活性。",
-    "发布日期": "2026-05-27",
-    "原文链接": "https://www.aibase.com/zh/news/28377",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4510c266c6be6cad091029d027f4c4c2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4510c266c6be6cad091029d027f4c4c2.jpg",
-    "配图仓库路径": "assets/news_images/4510c266c6be6cad091029d027f4c4c2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311281038473263_0.jpg"
+    "资讯标题": "高考考场不准作弊！国内主流大模型集体发声：期间将禁用拍题答疑",
+    "内容": "高考考场不准作弊。国内主流大模型集体发声：期间将禁用拍题答疑AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 20264随着高考临近，关于“高考期间 AI 工具将禁用”的消息在网络上引发了广泛关注。针对考生和家长关心的拍题识图、试题解答等功能是否受限的问题，字节豆包、腾讯元宝、百度文心以及科大讯飞等多家国内主流 AI 巨头近日纷纷作出了公开回应。从各大平台的表态来看，为了全力维护高考的公平公正，在考试期间对相关搜题、答疑服务进行限制或暂停，已经成为了行业大模型达成的普遍共识。主流工具明确限制服务 字节跳动旗下的豆包客服明确表示，虽然高考期间软件可以正常登录，但拍题答疑等类似功能将会被直接禁用，每年高考期间平台都会采取此类措施。",
+    "发布日期": "2026-05-28",
+    "原文链接": "https://www.aibase.com/zh/news/28381",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40f50b1a6529afd4e04f101211f9b577.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/40f50b1a6529afd4e04f101211f9b577.jpg",
+    "配图仓库路径": "assets/news_images/40f50b1a6529afd4e04f101211f9b577.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202406241524321025_7.jpg"
   },
   {
-    "资讯标题": "重磅！MiniMax M3 即将发布：稀疏注意力架构突破，百万 Token 上下文效率暴增",
-    "内容": "MiniMax M3 即将发布：稀疏注意力架构突破，百万 Token 上下文效率暴增AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 202651AIbase 报道 北京时间最新消息，国内 AI 独角兽 MiniMax 即将推出新一代大模型 M3。MiniMax AI 工程负责人 Skyler Miao 近日在社交平台释放预告，称“Something BIG is coming。”，引发业界广泛关注。M3核心架构创新:稀疏注意力机制据透露，M3采用了全新稀疏注意力（Sparse Attention）架构，通过 Index Branch 快速索引与 Sparse Branch 精准计算相结合的方式，有效解决了超长上下文场景下的计算瓶颈。",
-    "发布日期": "2026-05-27",
-    "原文链接": "https://www.aibase.com/zh/news/28371",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
-    "配图仓库路径": "assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202501150943267809_0.jpg"
+    "资讯标题": "奥尔特曼改口：AI 对白领岗位的冲击没那么严重",
+    "内容": "奥尔特曼改口：AI 对白领岗位的冲击没那么严重AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 20264人工智能巨头 OpenAI 的首席执行官萨姆·奥尔特曼近日公开承认，自己此前关于 AI 冲击就业市场的部分预测并不准确。他在本周的一场科技会议上坦言，过去关于“AI 会消灭大量初级岗位”的论断，最终并没有像预想中那样发生。作为长期警告 AI 恐将引发“就业末日”的行业代表之一，奥尔特曼如今的表态发生了微妙的转向。他幽默地表示，技术层面的预测大致是对的，但在社会和经济影响方面“错得相当离谱”。短期失业潮并未如期而至 奥尔特曼指出，从目前的实际情况来看，人工智能对白领初级岗位造成的短期冲击，远没有自己此前预想的那么严重。",
+    "发布日期": "2026-05-28",
+    "原文链接": "https://www.aibase.com/zh/news/28393",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94912c87f0916d804beb9ff7872035f0.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94912c87f0916d804beb9ff7872035f0.jpg",
+    "配图仓库路径": "assets/news_images/94912c87f0916d804beb9ff7872035f0.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306161513254632_1.jpg"
   },
   {
-    "资讯标题": "四个月耗尽全年 AI 预算，Uber 高管质疑 AI 投入产出比",
-    "内容": "四个月耗尽全年 AI 预算，Uber 高管质疑 AI 投入产出比AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 202620人工智能在企业端的“生产力幻觉”正在被打破。近日，Uber 总裁兼首席运营官安德鲁·麦克唐纳（Andrew Macdonald）在公开采访中发出警示：尽管公司已实现近 95% 的工程师 AI 工具覆盖率，且 70% 的代码提交均由 AI 生成，但这些高昂的算力投入却难以直接转化为用户可见的产品功能提升。一、预算“熔断”：四个月的疯狂开支2026 年刚刚过去四个月，Uber 内部便传出了财务警报：公司为 2026 全年预留的 AI 编码工具（如 Claude Code）预算已彻底耗尽。",
-    "发布日期": "2026-05-27",
-    "原文链接": "https://www.aibase.com/zh/news/28373",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4db058787ebc08d4a18e88fcc00c188b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4db058787ebc08d4a18e88fcc00c188b.jpg",
-    "配图仓库路径": "assets/news_images/4db058787ebc08d4a18e88fcc00c188b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151614000236_27.jpg"
+    "资讯标题": "估值 820 万美元的“数据矿工”：Human Archive 如何在印度挖掘机器人训练“金矿”",
+    "内容": "估值 820 万美元的“数据矿工”：Human Archive 如何在印度挖掘机器人训练“金矿”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 20264在通用机器人（Physical AI）竞赛进入白热化的今天，高质量的现实世界行为数据已成为比算力更稀缺的战略资源。总部位于硅谷的初创公司 Human Archive 正在押注一个极具争议但也极具潜力的领域：通过让印度零工经济从业者佩戴摄像设备，采集“第一人称视角”（Egocentric）视频数据，为 AI 实验室训练机器人“大脑”。一、融资与背书：汇聚顶尖 AI 资本近日，Human Archive 宣布完成 820 万美元 的融资。",
+    "发布日期": "2026-05-28",
+    "原文链接": "https://www.aibase.com/zh/news/28383",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6a8d756aad1139564b9a989f3b5ce6ff.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6a8d756aad1139564b9a989f3b5ce6ff.jpg",
+    "配图仓库路径": "assets/news_images/6a8d756aad1139564b9a989f3b5ce6ff.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312281011271411_0.jpg"
   },
   {
-    "资讯标题": "不愿被强塞 AI 搜索！美国用户倒戈小众浏览器：安装量一周暴涨 30%",
-    "内容": "不愿被强塞 AI 搜索。美国用户倒戈小众浏览器：安装量一周暴涨 30%AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 202637谷歌在近期举办的开发者大会上宣布，计划对其搜索引擎进行全面的人工智能化改造。然而，这一试图用 AI 智能体取代传统“蓝色链接列表”的举动，却在用户群体中引发了强烈的反弹，许多美国用户开始用实际行动表达抗议。根据竞争对手 DuckDuckGo 发布的最新数据显示，自谷歌宣布改版后的短短几天内，其在美国市场的应用安装量迎来了爆发式增长。其中 iOS 平台的表现尤为亮眼，周均安装量增幅高达 33%，峰值甚至一度逼近 70%。用户渴望拿回选择权 针对谷歌的激进改版，不少业界观点指出，强制推行 AI 概览不仅经常给出不准确的答案，还剥夺了用户的自主选择权。",
-    "发布日期": "2026-05-27",
-    "原文链接": "https://www.aibase.com/zh/news/28364",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3131b4733cd15d1e510474b54740583e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3131b4733cd15d1e510474b54740583e.jpg",
-    "配图仓库路径": "assets/news_images/3131b4733cd15d1e510474b54740583e.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0527/6391547084460844294796495.png"
-  },
-  {
-    "资讯标题": "三年下注600亿发力AI，小米大模型斩获全球双料第一提速智能化转型",
-    "内容": "三年下注600亿发力AI，小米大模型斩获全球双料第一提速智能化转型AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 202619小米集团董事长雷军于5月26日对外披露了集团最新研发及AI战略布局。数据显示，小米集团2026年第一季度研发投入达90亿元，同比增长33.4%，研发人员总数已达26，048人，预计全年研发投入将突破400亿元。在技术成果方面，小米自研大模型Xiaomi MiMo-V2.5-Pro成功跻身国际权威评测机构Artificial Analysis榜单，并在综合智能指数与Agent指数两项核心指标中，位列全球开源模型并列第一。基于此技术突破，雷军宣布小米未来三年将在AI领域持续投入600亿元。",
-    "发布日期": "2026-05-27",
-    "原文链接": "https://www.aibase.com/zh/news/28365",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dbaafb4c6a8c6d802626d54bc5f78cc8.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dbaafb4c6a8c6d802626d54bc5f78cc8.jpg",
-    "配图仓库路径": "assets/news_images/dbaafb4c6a8c6d802626d54bc5f78cc8.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201902011135116463_0.jpg"
+    "资讯标题": "SPARK2026腾讯游戏发布会：超40款游戏公布最新动态，多项游戏AI应用发布新进展",
+    "内容": "SPARK2026腾讯游戏发布会：超40款游戏公布最新动态，多项游戏AI应用发布新进展AIbase基地发布于AI新闻资讯 · 3 分钟阅读 · May 27, 202665月27日，SPARK2026腾讯游戏发布会在线上举行。发布会上，在“制作”“发行”“投资”三大篇章，共计42款海内外游戏分享了它们的最新动态，29位海内外游戏开发者参与了发布，向玩家介绍游戏的新内容、新玩法、新赛事、新节点，以及有助提升游戏体验的新游戏AI技术应用。在“One More Thing”环节，腾讯游戏还带来3个产品发布。其中包含2个游戏AI技术产品发布，全面开源的全球首个跨平台神经动态全局光照方案（NDGI），以及自研的全新AI游戏创作平台“代号Craft”。",
+    "发布日期": "2026-05-28",
+    "原文链接": "https://www.aibase.com/zh/news/28394",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/feea881ddad1edcb5e8a76040fba9af4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/feea881ddad1edcb5e8a76040fba9af4.jpg",
+    "配图仓库路径": "assets/news_images/feea881ddad1edcb5e8a76040fba9af4.jpg",
+    "原始配图链接": "https://inews.gtimg.com/om_bt/OYQQExyd_Q3tUthIDQ9Uds5kvkGNtNk95nkLTAxywIoy4AA/641"
   }
 ]
