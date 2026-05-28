@@ -1,42 +1,52 @@
 [
   {
-    "资讯标题": "高考考场不准作弊！国内主流大模型集体发声：期间将禁用拍题答疑",
-    "内容": "高考考场不准作弊。国内主流大模型集体发声：期间将禁用拍题答疑AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 20264随着高考临近，关于“高考期间 AI 工具将禁用”的消息在网络上引发了广泛关注。针对考生和家长关心的拍题识图、试题解答等功能是否受限的问题，字节豆包、腾讯元宝、百度文心以及科大讯飞等多家国内主流 AI 巨头近日纷纷作出了公开回应。从各大平台的表态来看，为了全力维护高考的公平公正，在考试期间对相关搜题、答疑服务进行限制或暂停，已经成为了行业大模型达成的普遍共识。主流工具明确限制服务 字节跳动旗下的豆包客服明确表示，虽然高考期间软件可以正常登录，但拍题答疑等类似功能将会被直接禁用，每年高考期间平台都会采取此类措施。",
+    "资讯标题": "软银携手微软构建AI全自动呼叫中心，推动智能客服转型",
+    "内容": "软银（SoftBank Corp.）宣布与微软达成战略合作，通过集成Microsoft Azure AI全栈技术，共同打造下一代智能客服平台，旨在解决日本呼叫中心行业劳动力短缺与成本高企的难题。该系统基于Azure OpenAI服务、Azure App Service及Azure AI Foundry模型栈构建，分为人机协作与全自动化两个阶段。目前，AI已作为“副驾驶”优化工作流，未来将通过Agentic AI实现复杂业务流程的端到端自主处理。该平台深度集成CRM与内部业务数据，支持高并发语音与文本交互。软银计划将此解决方案商业化，向行业输出标准化产品，推动呼叫中心从成本中心向高生产力的智能交互枢纽转型，为全球电信与服务行业提供规模化落地的技术参考模版。",
     "发布日期": "2026-05-28",
-    "原文链接": "https://www.aibase.com/zh/news/28381",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40f50b1a6529afd4e04f101211f9b577.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/40f50b1a6529afd4e04f101211f9b577.jpg",
-    "配图仓库路径": "assets/news_images/40f50b1a6529afd4e04f101211f9b577.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202406241524321025_7.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28411",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/98f27cdad6fc62a82be27665e9437c8c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/98f27cdad6fc62a82be27665e9437c8c.jpg",
+    "配图仓库路径": "assets/news_images/98f27cdad6fc62a82be27665e9437c8c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621149622_125.jpg"
   },
   {
-    "资讯标题": "奥尔特曼改口：AI 对白领岗位的冲击没那么严重",
-    "内容": "奥尔特曼改口：AI 对白领岗位的冲击没那么严重AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 20264人工智能巨头 OpenAI 的首席执行官萨姆·奥尔特曼近日公开承认，自己此前关于 AI 冲击就业市场的部分预测并不准确。他在本周的一场科技会议上坦言，过去关于“AI 会消灭大量初级岗位”的论断，最终并没有像预想中那样发生。作为长期警告 AI 恐将引发“就业末日”的行业代表之一，奥尔特曼如今的表态发生了微妙的转向。他幽默地表示，技术层面的预测大致是对的，但在社会和经济影响方面“错得相当离谱”。短期失业潮并未如期而至 奥尔特曼指出，从目前的实际情况来看，人工智能对白领初级岗位造成的短期冲击，远没有自己此前预想的那么严重。",
+    "资讯标题": "英伟达发布开源AI框架Polar，助力Codex等智能体接入GRPO训练",
+    "内容": "英伟达研究团队正式发布开源AI框架Polar，旨在为Codex、Claude Code及Qwen Code等现有智能体框架引入广义相对策略优化（GRPO）训练方法。Polar通过在模型API边界处部署智能体，在不改变原有工具调用、上下文组织及补丁提交逻辑的前提下，实现对复杂长流程任务的强化学习训练。该框架集成了任务提交、会话调度及状态持久化功能，显著提升了训练效率与GPU利用率。实验数据显示，Polar框架在SWE-Bench Verified测试中表现优异，Codex的pass@1分数从3.8%提升至26.4%，增幅达594.74%，且训练时间缩短约5.39倍。Polar的推出解决了传统强化学习环境接口难以适配复杂智能体框架的难题，为代码智能体在多步决策任务中的性能优化提供了高效的系统架构支持。",
     "发布日期": "2026-05-28",
-    "原文链接": "https://www.aibase.com/zh/news/28393",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94912c87f0916d804beb9ff7872035f0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94912c87f0916d804beb9ff7872035f0.jpg",
-    "配图仓库路径": "assets/news_images/94912c87f0916d804beb9ff7872035f0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306161513254632_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28410",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7eaa8438d9c6f2649b885a334d0599e2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7eaa8438d9c6f2649b885a334d0599e2.jpg",
+    "配图仓库路径": "assets/news_images/7eaa8438d9c6f2649b885a334d0599e2.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202604171645588927_0.jpg"
   },
   {
-    "资讯标题": "估值 820 万美元的“数据矿工”：Human Archive 如何在印度挖掘机器人训练“金矿”",
-    "内容": "估值 820 万美元的“数据矿工”：Human Archive 如何在印度挖掘机器人训练“金矿”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · May 27, 20264在通用机器人（Physical AI）竞赛进入白热化的今天，高质量的现实世界行为数据已成为比算力更稀缺的战略资源。总部位于硅谷的初创公司 Human Archive 正在押注一个极具争议但也极具潜力的领域：通过让印度零工经济从业者佩戴摄像设备，采集“第一人称视角”（Egocentric）视频数据，为 AI 实验室训练机器人“大脑”。一、融资与背书：汇聚顶尖 AI 资本近日，Human Archive 宣布完成 820 万美元 的融资。",
+    "资讯标题": "YouTube将于2026年5月上线AI自动检测系统，强制标注拟真视频",
+    "内容": "YouTube宣布自2026年5月起全面升级AI内容标签系统，由依赖创作者自觉申报转向平台主动识别。针对Gemini Omni等多模态大模型生成的“显著拟真AI”视频，YouTube将通过内部技术系统自动进行识别与标注，以应对生成式AI带来的内容合规与透明度挑战。此次更新后，AI标签的展示位置将显著优化：长视频标签将固定悬挂在播放器正下方，短视频标签则直接叠加在画面上。官方明确表示，该标签系统仅用于提升信息透明度，不会影响视频的推荐算法权重，也不会削弱创作者的广告收益。此举标志着YouTube在应对AI伪造内容方面，从被动监管转向主动治理，旨在平衡平台生态透明度与创作者权益。",
     "发布日期": "2026-05-28",
-    "原文链接": "https://www.aibase.com/zh/news/28383",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6a8d756aad1139564b9a989f3b5ce6ff.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6a8d756aad1139564b9a989f3b5ce6ff.jpg",
-    "配图仓库路径": "assets/news_images/6a8d756aad1139564b9a989f3b5ce6ff.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312281011271411_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28402",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/08eac0f1abaedb86a502217de7ca7128.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/08eac0f1abaedb86a502217de7ca7128.jpg",
+    "配图仓库路径": "assets/news_images/08eac0f1abaedb86a502217de7ca7128.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0528/6391555629185672475400979.png"
   },
   {
-    "资讯标题": "SPARK2026腾讯游戏发布会：超40款游戏公布最新动态，多项游戏AI应用发布新进展",
-    "内容": "SPARK2026腾讯游戏发布会：超40款游戏公布最新动态，多项游戏AI应用发布新进展AIbase基地发布于AI新闻资讯 · 3 分钟阅读 · May 27, 202665月27日，SPARK2026腾讯游戏发布会在线上举行。发布会上，在“制作”“发行”“投资”三大篇章，共计42款海内外游戏分享了它们的最新动态，29位海内外游戏开发者参与了发布，向玩家介绍游戏的新内容、新玩法、新赛事、新节点，以及有助提升游戏体验的新游戏AI技术应用。在“One More Thing”环节，腾讯游戏还带来3个产品发布。其中包含2个游戏AI技术产品发布，全面开源的全球首个跨平台神经动态全局光照方案（NDGI），以及自研的全新AI游戏创作平台“代号Craft”。",
+    "资讯标题": "OpenAI扩大广告平台访问权限，向更多广告主开放免费版ChatGPT投放",
+    "内容": "OpenAI正式扩大广告平台访问权限，向更多广告主发出邀请，允许其针对美国、加拿大、澳大利亚和新西兰的免费版ChatGPT用户进行精准投放。该平台已从早期封闭测试转向自助服务模式，广告主可通过ads.openai.com注册，最低每日预算设定为25美元，建议CPC约为3.5美元。OpenAI强调，广告内容将与AI回答严格分离，且不会共享用户个人对话数据，旨在通过高意图的对话上下文实现商业变现。此举是OpenAI实现2026年25亿美元广告收入目标的关键举措，通过集成Criteo等技术伙伴，为消费电子、零售等领域提供差异化流量池。用户可通过升级订阅移除广告，确保在维持免费访问的同时平衡商业可持续性与用户体验。",
     "发布日期": "2026-05-28",
-    "原文链接": "https://www.aibase.com/zh/news/28394",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/feea881ddad1edcb5e8a76040fba9af4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/feea881ddad1edcb5e8a76040fba9af4.jpg",
-    "配图仓库路径": "assets/news_images/feea881ddad1edcb5e8a76040fba9af4.jpg",
-    "原始配图链接": "https://inews.gtimg.com/om_bt/OYQQExyd_Q3tUthIDQ9Uds5kvkGNtNk95nkLTAxywIoy4AA/641"
+    "原文链接": "https://www.aibase.com/zh/news/28404",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/730c66fd8008a8495148a3d15a35b002.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/730c66fd8008a8495148a3d15a35b002.jpg",
+    "配图仓库路径": "assets/news_images/730c66fd8008a8495148a3d15a35b002.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719384092_4.jpg"
+  },
+  {
+    "资讯标题": "Meta推出Meta One订阅生态并全球扩张AI与专业版增值服务",
+    "内容": "Meta正式宣布在全球推进订阅制业务，推出“Meta One”品牌作为统一入口，旨在实现营收多元化。消费者端推出Instagram、Facebook（各3.99美元/月）及WhatsApp（2.99美元/月）的“Plus”套餐，提供个性化社交功能。AI服务方面，Meta One Plus（7.99美元/月）与Premium（19.99美元/月）提供阶梯式算力，支持复杂逻辑推理及多模态生成。针对创作者与企业，Meta One Essential（14.99美元/月）与Advanced（49.99美元/月）提供认证、流量倾斜及深度数据分析工具。Meta计划下月在新加坡等地测试AI订阅，商业进阶方案已在沙特、泰国等地落地。此举旨在通过付费增长服务摆脱广告依赖，并对冲AI算力成本，通过算法倾斜与经营闭环提升ARPU值。",
+    "发布日期": "2026-05-28",
+    "原文链接": "https://www.aibase.com/zh/news/28415",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
+    "配图仓库路径": "assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202111072153100579_0.jpg"
   }
 ]
