@@ -1,8 +1,18 @@
 [
   {
+    "资讯标题": "阿里云百炼正式全面CLI化并开源，支持一行命令编排AI Agent全栈能力",
+    "内容": "阿里云百炼于2026年5月29日宣布全面CLI化并正式开源，旨在通过命令行界面实现AI Agent全栈能力的一体化编排。该CLI工具将模型调用、应用工作流、知识库检索、长期记忆管理、联网搜索及本地多模态处理等核心能力统一封装，开发者仅需一行命令即可在Claude Code、Qoder、Qwen Code、OpenClaw及Hermes Agent等主流框架中快速调用百炼平台能力。此举解决了AI Agent落地过程中多点对接API、鉴权复杂及参数不统一的痛点，实现了从单点模型调用向多能力复杂协同的跨越。目前，官方GitHub仓库已上线，并收录20余个专家Skills及Showcase项目。通过开源，阿里云百炼旨在降低复杂任务流构建门槛，加速大模型应用生态的工程化落地，为开发者提供更高效的Agent开发范式。",
+    "发布日期": "2026-05-31",
+    "原文链接": "https://www.aibase.com/zh/news/28476",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9cd3b8616edb03050c7b7597a596ef01.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9cd3b8616edb03050c7b7597a596ef01.jpg",
+    "配图仓库路径": "assets/news_images/9cd3b8616edb03050c7b7597a596ef01.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0529/6391566631336016963359154.jpg"
+  },
+  {
     "资讯标题": "阿波罗与黑石筹资360亿美元，为Anthropic租赁谷歌TPU芯片",
-    "内容": "阿波罗全球管理公司与黑石集团正联合发起一项规模约360亿美元的债务融资交易，旨在为AI独角兽Anthropic构建人工智能基础设施。这是全球规模最大的私募信贷交易之一，采用“以租代买”模式，专项用于购买谷歌定制化AI芯片TPU，并由Anthropic通过租赁方式获取算力。博通公司为该交易中规模最大的部分付款提供了信用背书，确保Anthropic获得稳定的算力供应。此举标志着大模型军备竞赛已进入比拼底层算力资源与资本整合能力的新阶段。受此消息影响，博通盘后股价拉升1.9%，Alphabet股价上涨1.2%。该交易不仅刷新了全球芯片融资债务交易纪录，也为Anthropic在激烈的AI竞争中提供了关键的底层基础设施支持。",
-    "发布日期": "2026-05-30",
+    "内容": "阿波罗全球管理公司与黑石集团正联合发起规模约360亿美元的债务融资，旨在为AI独角兽Anthropic构建人工智能基础设施。该交易采用“以租代买”模式，专项用于购买谷歌定制化AI芯片TPU，随后由Anthropic租用以获取算力。博通公司为该交易中规模最大的部分付款提供信用背书，确保了Anthropic算力获取通道的稳定性。此举刷新了全球芯片融资债务交易的最高纪录。受此消息影响，博通盘后股价上涨1.9%，Alphabet股价上涨1.2%。此次合作标志着大模型军备竞赛已进入比拼底层算力资源与资本整合能力的全新阶段，为Anthropic在激烈的市场竞争中提供了关键的硬件支撑。",
+    "发布日期": "2026-05-31",
     "原文链接": "https://www.aibase.com/zh/news/28475",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6125686a72adff615a40c0379ea677c4.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6125686a72adff615a40c0379ea677c4.jpg",
@@ -10,19 +20,19 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308091546534429_3.jpg"
   },
   {
-    "资讯标题": "自变量机器人发布全球首个事件级具身智能世界模型WALL-WM",
-    "内容": "自变量机器人团队正式发布全球首个基于“事件级预测”的具身智能世界模型WALL-WM，打破了传统VLA模型逐帧学习动作的局限。该模型将预测单位从时间帧切换为语义事件，通过“以事件为中心”的机制，先预演事件导致的世界变化，再转化为机械臂运动轨迹。技术上，WALL-WM引入视锥掩码与管状掩码增强三维几何感知，并采用“阶梯式思维链解码”降低决策延迟。系统支持变长动作输出的“事件模式”与实时闭环控制的“统一模式”灵活切换。在数据层面，团队构建了包含百万级网络视频与真机纠错数据的“数据金字塔”，配合Muon训练系统与FP8量化部署。该模型在真机Core15L1基准测试中表现优异，目前开源代码及主页已正式对外公开，为机器人理解与执行复杂任务提供了全新范式。",
-    "发布日期": "2026-05-30",
-    "原文链接": "https://www.aibase.com/zh/news/28481",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f44cb9495c2057a5edf7ceb31b850d0f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f44cb9495c2057a5edf7ceb31b850d0f.jpg",
-    "配图仓库路径": "assets/news_images/f44cb9495c2057a5edf7ceb31b850d0f.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0529/6391567081136196746137311.png"
+    "资讯标题": "谷歌DeepMind CEO哈萨比斯预测AGI最快将于2029至2030年间实现",
+    "内容": "谷歌DeepMind首席执行官德米斯·哈萨比斯近日公开表示，通用人工智能（AGI）的研发进程显著加速，预计最快在2029年至2030年间即可实现，即关键技术突破可能在未来三年内落地。哈萨比斯指出，当前多模态理解、自主决策及AI智能体等核心技术的快速成熟，正为AGI的到来奠定基础。他强调，AGI的演进是一个持续升级的过程，而非单一的突发奇点。与专用人工智能不同，AGI具备跨领域的学习、推理与创造能力，将彻底重塑生产力格局。然而，哈萨比斯同时发出警示，随着AI系统自我优化与自主迭代能力的提升，全球在政策法规、经济体系及社会治理层面的准备严重不足。他呼吁行业需正视技术狂飙带来的潜在风险，并紧迫建立相应的规则防护机制，以应对AGI落地后对现有产业格局的颠覆性影响。",
+    "发布日期": "2026-05-31",
+    "原文链接": "https://www.aibase.com/zh/news/28482",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/84449dc887a89f3a0bbb15a35f6a0730.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/84449dc887a89f3a0bbb15a35f6a0730.jpg",
+    "配图仓库路径": "assets/news_images/84449dc887a89f3a0bbb15a35f6a0730.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621145091_60.jpg"
   },
   {
     "资讯标题": "微软拟于下周Build大会发布全新自研代码及多场景AI模型",
-    "内容": "微软计划在下周旧金山Build开发者大会上发布多款自研AI模型，旨在完善自有AI体系并降低对外部供应商的依赖。针对GitHub Copilot面临的市场竞争，微软将推出一款高性价比的代码专用模型，作为Claude Code的平价替代方案，以吸引价格敏感型开发者。此外，微软还将发布覆盖语音转写、逻辑推理、语音处理及图像生成等场景的系列模型，并通过Azure云平台向开发者开放采购。此前，微软GitHub Copilot及Microsoft 365 Copilot主要依赖OpenAI和Anthropic模型，受限于协议，此前自研模型能力受限。随着2032年OpenAI技术使用权到期节点临近，微软正通过构建自研模型矩阵，优化365 Copilot内部运营成本。此举标志着微软战略重心转向成本控制与生态应用，预示大模型市场",
-    "发布日期": "2026-05-30",
+    "内容": "微软计划在下周旧金山Build开发者大会上发布多款自研AI模型，旨在完善自有AI体系并降低对外部供应商的依赖。针对GitHub Copilot面临的市场竞争，微软将推出一款高性价比的代码专用模型，作为Claude Code的平价替代方案，以吸引价格敏感型开发者。此外，微软还将发布覆盖语音转写、逻辑推理、语音处理及图像生成等场景的系列模型，并通过Azure云平台向开发者开放。此次战略调整背景在于，微软需应对OpenAI技术使用权到期后的成本控制需求，并优化GitHub Copilot及Microsoft 365 Copilot的运营成本。此前受限于与OpenAI的合作协议，微软在顶尖模型研发上受限，此次发布标志着其正加速构建自主模型矩阵，推动大模型市场从单纯的能力竞争转向成本与生态应用的深度对决。",
+    "发布日期": "2026-05-31",
     "原文链接": "https://www.aibase.com/zh/news/28466",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
@@ -31,22 +41,12 @@
   },
   {
     "资讯标题": "三菱日联金融集团向3.5万名员工全面部署ChatGPT Enterprise",
-    "内容": "三菱日联金融集团（MUFG）正式向旗下三菱日联银行约3.5万名员工全面部署ChatGPT Enterprise，标志着该集团向“AI-native”企业转型。自2024年10月与OpenAI合作以来，MUFG通过全员培训及定制化GPT工作坊，助力员工在四个月内自主创建超1,800个“AI银行家”工具。在研究任务与简报准备等工作流中，该工具已使员工日常工作量减少20%至30%。此外，MUFG计划在旗下数字银行品牌emutt中推出由AI驱动的“AI礼宾”服务及多资产咨询平台，实现24/7个性化金融服务。管理层表示，AI的应用旨在将节省的时间投入到客户拜访及深度决策等高价值业务中，通过重塑内部运营与零售客户体验，构建全新的金融服务生态。",
-    "发布日期": "2026-05-30",
+    "内容": "三菱日联金融集团（MUFG）正式向旗下三菱日联银行约35,000名员工全面部署ChatGPT Enterprise，标志着该集团向“AI-native”企业转型。自2024年10月与OpenAI合作以来，MUFG通过全员培训及定制化GPT工作坊，支持员工自主创建超1,800个“AI银行家”工具。数据显示，该举措使员工在研究任务及简报准备中的工作量降低了20%至30%。此外，MUFG计划在旗下数字银行品牌emutt中推出由AI驱动的“AI礼宾”服务及多资产咨询平台，旨在提供24/7个性化金融服务。管理层表示，AI的应用旨在将员工从繁琐工作中解放，投入到更具人文关怀的客户服务与决策审批中，从而构建全新的金融生态。",
+    "发布日期": "2026-05-31",
     "原文链接": "https://www.aibase.com/zh/news/28477",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
     "配图仓库路径": "assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131355473164_2.jpg"
-  },
-  {
-    "资讯标题": "Liquid AI 开源端侧混合专家模型 LFM2.5-8B-A1B，支持 128K 上下文",
-    "内容": "人工智能初创公司 Liquid AI 正式开源端侧大模型 LFM2.5-8B-A1B。该模型采用稀疏混合专家（MoE）架构，总参数量 8.3B，推理时仅激活 1.5B 参数，显著降低了端侧运行门槛。LFM2.5 将上下文窗口扩展至 128K，预训练数据量达 38T，并引入两阶段强化学习（RL）以优化逻辑推理、减少幻觉及避免长链路推理中的死循环。在性能方面，该模型支持高效 Python 函数调用与 JSON 格式输出，在 M5 Max 芯片上解码速度达 253 字节/秒，手机端可达 30 字节/秒。此外，LFM2.5 在发布首日即获得 llama.cpp、MLX、vLLM 及 SGLang 等主流推理生态的全面支持。该模型通过高压缩率词表提升了对中文等九种语言的处理效率，为消费级硬件提供了兼顾私密性与高性能的本地",
-    "发布日期": "2026-05-30",
-    "原文链接": "https://www.aibase.com/zh/news/28474",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a020248e3d43513105e5df5019a54ddd.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a020248e3d43513105e5df5019a54ddd.jpg",
-    "配图仓库路径": "assets/news_images/a020248e3d43513105e5df5019a54ddd.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0529/6391566400646353872563970.png"
   }
 ]
