@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里云百炼全面CLI化并开源，一行命令实现AI Agent全栈能力编排",
-    "内容": "阿里云百炼于2026年5月29日宣布全面CLI化并正式开源，旨在通过轻量化命令行工具实现AI Agent全栈能力的一体化编排。开发者安装并配置鉴权后，仅需一行命令即可在Claude Code、Qoder、Qwen Code、OpenClaw及Hermes Agent等主流框架中调用百炼平台能力。该CLI工具将模型调用、应用工作流、知识库检索、长期记忆管理、联网搜索及本地多模态处理等核心功能统一封装，解决了以往多点对接API、鉴权复杂及参数结构不统一的行业痛点。通过此工具，Agent能够高效协同跨模态任务，并将实时联网信息与企业知识库深度融合，构建具备业务深度的智能助手。目前，官方GitHub仓库已上线，并收录20余个专家Skills及Showcase项目。此举显著降低了复杂任务流的构建门槛，对加速大模型应用生态",
+    "资讯标题": "软银投资750亿欧元在法国建设超级算力中心，联手OpenAI布局欧洲",
+    "内容": "软银集团于5月30日宣布，计划投入750亿欧元在法国建设大规模数据中心集群，这是软银在欧洲规模最大的人工智能基础设施投资。该项目目标是开发并运营总计5吉瓦（GW）的附加数据中心容量，第一阶段将重点在法国北部的敦刻尔克、博斯凯及布尚三地建设，预计在2031年前为上法兰西大区提供3.1吉瓦的算力支撑。作为OpenAI的核心投资方与深度客户，软银此举旨在通过卡位电力设施完备的区域，满足AI模型训练与推理的指数级算力需求。法国经济部部长罗兰·莱斯屈尔表示，该投资将助力法国进入全球AI价值链核心。尽管全球范围内数据中心建设面临环境与电网负荷的审视，软银仍持续推进其全球算力布局，此前已在美国俄亥俄州规划建设由9.2吉瓦天然气发电厂供电的数据中心。此次重仓法国标志着顶级科技资本与地缘政治的深度结合，将直接重塑欧洲的AI算力版",
     "发布日期": "2026-06-01",
-    "原文链接": "https://www.aibase.com/zh/news/28476",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9cd3b8616edb03050c7b7597a596ef01.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9cd3b8616edb03050c7b7597a596ef01.jpg",
-    "配图仓库路径": "assets/news_images/9cd3b8616edb03050c7b7597a596ef01.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0529/6391566631336016963359154.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28495",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/93eaeaa7ae90ee3c4f6fe460b583fd18.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/93eaeaa7ae90ee3c4f6fe460b583fd18.jpg",
+    "配图仓库路径": "assets/news_images/93eaeaa7ae90ee3c4f6fe460b583fd18.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305291510093384_11.jpg"
   },
   {
-    "资讯标题": "阿波罗与黑石筹资360亿美元，通过租赁模式为Anthropic采购谷歌TPU",
-    "内容": "阿波罗全球管理公司与黑石集团正联合发起一项规模约360亿美元的债务融资交易，旨在为AI独角兽Anthropic构建人工智能基础设施。该交易采取“以租代买”模式，专项用于购买谷歌定制化AI芯片TPU，交付后由Anthropic租用以获取算力。博通公司为该交易中规模最大的部分付款提供信用背书，确保Anthropic获得稳定的算力通道。此次融资刷新了全球芯片债务交易纪录，标志着大模型军备竞赛进入比拼底层算力资源与资本整合能力的新阶段。受此消息影响，博通盘后股价上涨1.9%，Alphabet股价上涨1.2%。该模式通过金融创新解决了AI企业对高性能算力的迫切需求，对行业基础设施建设具有重要示范意义。",
+    "资讯标题": "英伟达联手微软与ARM发布自研PC芯片N1X，将于Computex正式亮相",
+    "内容": "英伟达、微软与ARM近日同步发布预告，确认将于5月28日在Computex期间揭晓自研PC芯片N1X。该芯片由英伟达与联发科联合研发，采用台积电N3B制程，集成20核ARM架构CPU及拥有6144个CUDA核心的Blackwell架构GPU。N1X采用统一内存架构，配备128GB LPDDR5X内存，带宽预计达273GB/s。尽管运行x86游戏需经模拟转译，但其核心定位在于AI原生计算。N1X旨在实现大模型本地化部署，降低用户调用AI算力的成本，使开发者与创作者能以近乎零边际成本生产Token。此举标志着Windows on Arm阵营正式向苹果M系列芯片发起挑战，通过算力下沉打破AI基础设施垄断，推动个人终端进入AI原生计算新纪元。",
     "发布日期": "2026-06-01",
-    "原文链接": "https://www.aibase.com/zh/news/28475",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6125686a72adff615a40c0379ea677c4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6125686a72adff615a40c0379ea677c4.jpg",
-    "配图仓库路径": "assets/news_images/6125686a72adff615a40c0379ea677c4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308091546534429_3.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28497",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
   },
   {
-    "资讯标题": "谷歌DeepMind CEO哈萨比斯预测AGI最快将于2029至2030年间实现",
-    "内容": "谷歌DeepMind首席执行官德米斯·哈萨比斯近日公开表示，通用人工智能（AGI）的研发进程显著加速，预计最快在2029年至2030年间，即未来三年内即可实现具备人类同等智慧的AGI。哈萨比斯指出，当前多模态理解、自主决策及AI智能体等核心技术的快速成熟，正为AGI的到来奠定基础，AGI的演进将是一个持续升级的过程。与专用AI不同，AGI具备跨领域的学习、推理与创造能力，将彻底重塑生产力格局。哈萨比斯同时发出警示，随着AI系统自我优化与自主迭代能力的增强，全球社会在规则制定与防护机制方面的准备严重不足，人类应对AGI落地的窗口期已非常紧迫。",
+    "资讯标题": "比亚迪发布首颗车规级4nm智驾芯片璇玑A3，算力对齐英伟达Thor",
+    "内容": "5月29日，比亚迪正式发布首颗全链路自研的车规级4nm智驾芯片“璇玑A3”，标志着国产车载AI计算芯片进入全球第一梯队。该芯片采用16核CPU，算力达420K DMIPS，内存带宽为273GB/s，三颗芯片组合理论峰值算力超2100TOPS。与英伟达通用GPU架构不同，璇玑A3采用专用NPU架构，将AI算子硬件化，使单位算力功耗降低20%，算法资源利用率提升一倍。比亚迪承诺，搭载璇玑A3的车辆在城市领航期间若发生辅助驾驶事故，平台将全额赔付经济损失且不设上限。目前比亚迪拥有7000人芯片研发团队及5座晶圆厂，此次发布不仅为L3/L4级自动驾驶完成硬件卡位，也为具身智能提供了物理AI平台底座，进一步强化了其从电池、电控到智驾芯片的全链路自研闭环能力。",
     "发布日期": "2026-06-01",
-    "原文链接": "https://www.aibase.com/zh/news/28482",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/84449dc887a89f3a0bbb15a35f6a0730.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/84449dc887a89f3a0bbb15a35f6a0730.jpg",
-    "配图仓库路径": "assets/news_images/84449dc887a89f3a0bbb15a35f6a0730.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621145091_60.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28502",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c9ab42302eef436f7387cb11e089f78f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c9ab42302eef436f7387cb11e089f78f.jpg",
+    "配图仓库路径": "assets/news_images/c9ab42302eef436f7387cb11e089f78f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202104081504339845_4.jpg"
   },
   {
-    "资讯标题": "微软拟于下周Build大会发布全新自研代码及多场景AI模型",
-    "内容": "微软计划在下周旧金山Build开发者大会上，正式发布多款自研AI模型，旨在完善自有AI体系并降低对外部供应商的依赖。针对GitHub Copilot面临的市场竞争，微软将推出一款高性价比的代码专用模型，作为Claude Code的平价替代方案，以吸引价格敏感型开发者。此外，微软还将发布覆盖语音转写、逻辑推理、语音处理及图像生成等场景的系列模型，并通过Azure云平台向开发者开放采购。此前，微软GitHub Copilot及Microsoft 365 Copilot主要依赖OpenAI和Anthropic模型。随着与OpenAI协议条款的调整，微软正加速布局自研模型矩阵，意在通过降低内部运营成本，应对全球大模型市场从能力竞赛向成本与生态应用的战略转型。",
+    "资讯标题": "宇树科技将于6月1日科创板IPO上会，冲刺人形机器人与具身智能第一股",
+    "内容": "杭州宇树科技股份有限公司将于6月1日正式迎来科创板IPO首发审议，成为本周3家上会企业之一，旨在冲击人形机器人与具身智能第一股。宇树科技专注于高性能通用人形机器人、四足机器人、机器人组件及具身智能模型的研发、生产与销售，在全球范围内率先实现了高性能四足机器人的公开销售与行业落地，其相关产品销量持续保持全球领先。此次IPO不仅是宇树科技商业化提速的关键节点，也标志着AI与物理世界深度融合的硬件载体正式加速驶入资本快车道。随着大模型技术持续赋能机器人的交互与控制，宇树科技若成功上市，将为具身智能产业的规模化落地提供充裕的资金与生态支持，并有望进一步重塑全球机器人产业链的供给格局。",
     "发布日期": "2026-06-01",
-    "原文链接": "https://www.aibase.com/zh/news/28466",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
-    "配图仓库路径": "assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202602270950033335_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28503",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b97ef577a3d3e3e74954819deac5e137.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b97ef577a3d3e3e74954819deac5e137.jpg",
+    "配图仓库路径": "assets/news_images/b97ef577a3d3e3e74954819deac5e137.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151613599299_13.jpg"
   },
   {
-    "资讯标题": "三菱日联金融集团向3.5万名员工全面部署ChatGPT Enterprise并开启AI原生转型",
-    "内容": "三菱日联金融集团（MUFG）正式向旗下三菱日联银行约35,000名员工全面部署ChatGPT Enterprise，标志着该集团向“AI原生”企业转型。自2024年10月与OpenAI合作以来，MUFG通过全员培训及定制化GPT工作坊，助力员工在四个月内自主创建超1,800个“AI银行家”工具。在研究任务与简报准备等工作流中，该工具已使员工日常工作量减少20%至30%。此外，MUFG计划在数字银行品牌emutt中推出由AI驱动的“AI礼宾”服务及多资产咨询平台，实现24/7个性化金融服务。管理层表示，此举旨在通过AI优化运营效率，将节省的时间投入到客户拜访与决策审批等高价值业务中，重塑零售金融体验。",
+    "资讯标题": "OpenAI向日本核心金融机构开放GPT-5.5 Cyber模型以应对AI网络攻击",
+    "内容": "OpenAI已正式向日本核心金融机构开放最新GPT-5.5 Cyber模型的使用权限，旨在通过部署防御型AI模型提升日本金融体系的网络攻防与抗风险能力。该决策系日美政府协商后的重要成果，旨在应对由高阶AI模型带来的网络安全威胁。首批获准接入该模型的机构包括三菱日联银行、三井住友银行与瑞穗银行。此外，日本政府计划后续引入Anthropic旗下的Claude Mythos模型，通过多模型协同作战，构筑政企联合的网络安全防线。此次合作标志着日本金融行业正式引入顶尖AI技术进行防御升级，以应对黑客利用AI排查漏洞及实施恶意攻击的新型挑战。",
     "发布日期": "2026-06-01",
-    "原文链接": "https://www.aibase.com/zh/news/28477",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
-    "配图仓库路径": "assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131355473164_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28506",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8bab4103eedbea4b33ba872db755b5ef.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8bab4103eedbea4b33ba872db755b5ef.jpg",
+    "配图仓库路径": "assets/news_images/8bab4103eedbea4b33ba872db755b5ef.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202303311415500736_0.jpg"
   }
 ]
