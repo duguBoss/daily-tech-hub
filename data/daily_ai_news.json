@@ -1,8 +1,18 @@
 [
   {
-    "资讯标题": "阿波罗与黑石筹资360亿美元，为Anthropic租赁谷歌TPU芯片",
-    "内容": "阿波罗全球管理公司与黑石集团正联合发起一项规模约360亿美元的债务融资交易，旨在为AI独角兽Anthropic构建人工智能基础设施提供资金。该交易采取“以租代买”模式，专项用于购买谷歌定制化AI芯片TPU，并由Anthropic通过租赁方式获取算力。博通公司为该交易中规模最大的部分付款提供信用背书，确保Anthropic获得稳定的算力供应。此次融资刷新了全球芯片债务交易的最高纪录，标志着大模型军备竞赛已进入比拼底层算力资源与资本整合能力的新阶段。受此消息影响，博通盘后股价一度拉升1.9%，Alphabet股价上涨1.2%。该模式通过金融创新解决了AI企业对高性能计算资源的迫切需求，为行业提供了新的算力获取范式。",
-    "发布日期": "2026-05-31",
+    "资讯标题": "阿里云百炼全面CLI化并开源，一行命令实现AI Agent全栈能力编排",
+    "内容": "阿里云百炼于2026年5月29日宣布全面CLI化并正式开源，旨在通过轻量化命令行工具实现AI Agent全栈能力的一体化编排。开发者安装并配置鉴权后，仅需一行命令即可在Claude Code、Qoder、Qwen Code、OpenClaw及Hermes Agent等主流框架中调用百炼平台能力。该CLI工具将模型调用、应用工作流、知识库检索、长期记忆管理、联网搜索及本地多模态处理等核心功能统一封装，解决了以往多点对接API、鉴权复杂及参数结构不统一的行业痛点。通过此工具，Agent能够高效协同跨模态任务，并将实时联网信息与企业知识库深度融合，构建具备业务深度的智能助手。目前，官方GitHub仓库已上线，并收录20余个专家Skills及Showcase项目。此举显著降低了复杂任务流的构建门槛，对加速大模型应用生态",
+    "发布日期": "2026-06-01",
+    "原文链接": "https://www.aibase.com/zh/news/28476",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9cd3b8616edb03050c7b7597a596ef01.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9cd3b8616edb03050c7b7597a596ef01.jpg",
+    "配图仓库路径": "assets/news_images/9cd3b8616edb03050c7b7597a596ef01.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0529/6391566631336016963359154.jpg"
+  },
+  {
+    "资讯标题": "阿波罗与黑石筹资360亿美元，通过租赁模式为Anthropic采购谷歌TPU",
+    "内容": "阿波罗全球管理公司与黑石集团正联合发起一项规模约360亿美元的债务融资交易，旨在为AI独角兽Anthropic构建人工智能基础设施。该交易采取“以租代买”模式，专项用于购买谷歌定制化AI芯片TPU，交付后由Anthropic租用以获取算力。博通公司为该交易中规模最大的部分付款提供信用背书，确保Anthropic获得稳定的算力通道。此次融资刷新了全球芯片债务交易纪录，标志着大模型军备竞赛进入比拼底层算力资源与资本整合能力的新阶段。受此消息影响，博通盘后股价上涨1.9%，Alphabet股价上涨1.2%。该模式通过金融创新解决了AI企业对高性能算力的迫切需求，对行业基础设施建设具有重要示范意义。",
+    "发布日期": "2026-06-01",
     "原文链接": "https://www.aibase.com/zh/news/28475",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6125686a72adff615a40c0379ea677c4.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6125686a72adff615a40c0379ea677c4.jpg",
@@ -11,8 +21,8 @@
   },
   {
     "资讯标题": "谷歌DeepMind CEO哈萨比斯预测AGI最快将于2029至2030年间实现",
-    "内容": "谷歌DeepMind首席执行官德米斯·哈萨比斯近日公开表示，通用人工智能（AGI）的研发进程显著加速，预计最快在2029年至2030年间即可实现，即关键技术突破可能在未来三年内落地。哈萨比斯指出，当前多模态理解、自主决策及AI智能体等核心技术的快速成熟，正为AGI的到来奠定基础。他强调，AGI的演进是一个持续升级的过程，而非单一的突发奇点。与专用AI不同，AGI具备跨领域的学习、推理与创造能力，一旦落地将重塑全球生产力格局。同时，哈萨比斯发出警示，鉴于未来AI系统将具备自我优化与自主迭代能力，全球政府及社会在规则制定与防护机制上的准备严重不足，适应技术变革的时间窗口已十分紧迫。",
-    "发布日期": "2026-05-31",
+    "内容": "谷歌DeepMind首席执行官德米斯·哈萨比斯近日公开表示，通用人工智能（AGI）的研发进程显著加速，预计最快在2029年至2030年间，即未来三年内即可实现具备人类同等智慧的AGI。哈萨比斯指出，当前多模态理解、自主决策及AI智能体等核心技术的快速成熟，正为AGI的到来奠定基础，AGI的演进将是一个持续升级的过程。与专用AI不同，AGI具备跨领域的学习、推理与创造能力，将彻底重塑生产力格局。哈萨比斯同时发出警示，随着AI系统自我优化与自主迭代能力的增强，全球社会在规则制定与防护机制方面的准备严重不足，人类应对AGI落地的窗口期已非常紧迫。",
+    "发布日期": "2026-06-01",
     "原文链接": "https://www.aibase.com/zh/news/28482",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/84449dc887a89f3a0bbb15a35f6a0730.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/84449dc887a89f3a0bbb15a35f6a0730.jpg",
@@ -21,8 +31,8 @@
   },
   {
     "资讯标题": "微软拟于下周Build大会发布全新自研代码及多场景AI模型",
-    "内容": "微软计划在下周旧金山Build开发者大会上发布多款自研AI模型，旨在完善自有AI体系并降低对外部供应商的依赖。针对GitHub Copilot面临的市场竞争，微软将推出一款高性价比代码专用模型，作为Claude的平价替代方案。此外，微软还将发布涵盖语音转写、逻辑推理、语音处理及图像生成等场景的全新迭代模型，并通过Azure云平台向开发者开放采购。此次战略调整标志着微软正加速摆脱对OpenAI和Anthropic模型的深度依赖，意在通过自研模型矩阵降低GitHub Copilot及Microsoft 365 Copilot的内部运营成本。随着OpenAI技术使用权到期节点临近，微软此举预示着大模型市场竞争正从单纯的能力比拼，转向深度的成本控制与生态应用对决，以应对日益激烈的市场竞争格局。",
-    "发布日期": "2026-05-31",
+    "内容": "微软计划在下周旧金山Build开发者大会上，正式发布多款自研AI模型，旨在完善自有AI体系并降低对外部供应商的依赖。针对GitHub Copilot面临的市场竞争，微软将推出一款高性价比的代码专用模型，作为Claude Code的平价替代方案，以吸引价格敏感型开发者。此外，微软还将发布覆盖语音转写、逻辑推理、语音处理及图像生成等场景的系列模型，并通过Azure云平台向开发者开放采购。此前，微软GitHub Copilot及Microsoft 365 Copilot主要依赖OpenAI和Anthropic模型。随着与OpenAI协议条款的调整，微软正加速布局自研模型矩阵，意在通过降低内部运营成本，应对全球大模型市场从能力竞赛向成本与生态应用的战略转型。",
+    "发布日期": "2026-06-01",
     "原文链接": "https://www.aibase.com/zh/news/28466",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
@@ -30,19 +40,9 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202602270950033335_0.jpg"
   },
   {
-    "资讯标题": "企业级AI搜索独角兽Glean年化营业收入突破3亿美元大关",
-    "内容": "企业级AI搜索初创公司Glean宣布其年化营业收入（ARR）正式突破3亿美元，较此前跨越1亿美元里程碑仅耗时15个月，实现三倍增长。Glean通过构建“上下文图谱（Context Graph）”技术，深度连接并学习企业内部软件系统，使其AI模型能精准理解业务需求，在企业级搜索领域构筑了核心技术壁垒。面对谷歌、微软、OpenAI等巨头竞争，Glean凭借该技术显著降低了企业调用大模型的Token消耗，从而大幅削减计算成本。这一“省钱”优势使其成功吸引了Databricks、Reddit、Pinterest及三星等重量级客户。Glean的增长证明，在AI预算管控日益严格的背景下，能够精准锁定内部信息并优化计算效率的垂直化AI搜索解决方案，正成为企业数字化转型的关键基础设施。",
-    "发布日期": "2026-05-31",
-    "原文链接": "https://www.aibase.com/zh/news/28480",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/117a18929fbbd68b6b16c7d6e8c7e4f6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/117a18929fbbd68b6b16c7d6e8c7e4f6.jpg",
-    "配图仓库路径": "assets/news_images/117a18929fbbd68b6b16c7d6e8c7e4f6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901011927007229_9.jpg"
-  },
-  {
-    "资讯标题": "三菱日联金融集团向3.5万名员工全面部署ChatGPT Enterprise",
-    "内容": "三菱日联金融集团（MUFG）正式向旗下三菱日联银行约3.5万名员工全面部署ChatGPT Enterprise，标志着该集团向“AI-native”企业转型。自2024年10月与OpenAI合作以来，MUFG通过全员培训及定制化GPT工作坊，支持员工自主创建超1800个“AI银行家”工具。数据显示，该举措使员工在研究任务及简报准备中的工作量减少20%至30%。此外，MUFG计划在数字银行品牌emutt中推出由AI驱动的“AI礼宾”服务及多资产咨询平台，实现24/7个性化金融服务。管理层表示，AI的应用旨在将员工从繁琐工作中解放，投入到更具人文关怀的客户服务与决策审批中，通过构建AI原生生态重塑零售金融体验。",
-    "发布日期": "2026-05-31",
+    "资讯标题": "三菱日联金融集团向3.5万名员工全面部署ChatGPT Enterprise并开启AI原生转型",
+    "内容": "三菱日联金融集团（MUFG）正式向旗下三菱日联银行约35,000名员工全面部署ChatGPT Enterprise，标志着该集团向“AI原生”企业转型。自2024年10月与OpenAI合作以来，MUFG通过全员培训及定制化GPT工作坊，助力员工在四个月内自主创建超1,800个“AI银行家”工具。在研究任务与简报准备等工作流中，该工具已使员工日常工作量减少20%至30%。此外，MUFG计划在数字银行品牌emutt中推出由AI驱动的“AI礼宾”服务及多资产咨询平台，实现24/7个性化金融服务。管理层表示，此举旨在通过AI优化运营效率，将节省的时间投入到客户拜访与决策审批等高价值业务中，重塑零售金融体验。",
+    "发布日期": "2026-06-01",
     "原文链接": "https://www.aibase.com/zh/news/28477",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
