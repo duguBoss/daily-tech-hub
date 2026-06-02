@@ -1,17 +1,7 @@
 [
   {
-    "资讯标题": "阿里发布多模态大模型Qwen3.7-Plus，支持11小时自主闭环开发APP",
-    "内容": "阿里正式发布多模态大模型Qwen3.7-Plus，该模型作为一体化智能体基座，实现了GUI与CLI交互的无缝融合。在Vision Arena榜单中，Qwen3.7-Plus位列全球前五、中国第一。其核心能力涵盖复杂软件工程、多模态视觉编程及真实世界感知，在Terminal Bench 2.0、SWE-bench及GPQA Diamond等基准测试中表现优异。应用层面，基于该模型的Hybrid-Agent系统成功实现11小时自主闭环开发，自动生成超10,000行代码完成APP研发；此外，该模型还支持macOS原生应用高保真复刻及云控制台无人值守运维。目前，Qwen3.7-Plus已通过阿里云百炼及Qwen Studio对外提供服务，并兼容Claude Code、OpenClaw及Qwen Code等主流框架，为生",
-    "发布日期": "2026-06-02",
-    "原文链接": "https://www.aibase.com/zh/news/28541",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8868efd508670e414117a3f7af6a2780.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8868efd508670e414117a3f7af6a2780.jpg",
-    "配图仓库路径": "assets/news_images/8868efd508670e414117a3f7af6a2780.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0602/6391598866341648721081147.jpg"
-  },
-  {
     "资讯标题": "谷歌母公司Alphabet拟募资800亿美元，巴菲特旗下伯克希尔参投100亿",
-    "内容": "谷歌母公司Alphabet于6月1日宣布拟通过股票出售募集800亿美元，资金将全额投入AI算力基础设施建设。本轮融资中，伯克希尔·哈撒韦公司提供100亿美元专项投资，融资结构包含300亿美元承销发行（含150亿美元强制可转换优先股）及预计2026年第三季度启动的400亿美元市场公开发行。Alphabet CEO桑达尔·皮查伊表示，当前AI解决方案需求强劲，现有算力供给已无法满足市场，电力、土地及供应链瓶颈制约了数据中心扩张。为应对竞争，Alphabet已将全年资本支出预期上调至1800亿至1900亿美元。尽管Gemini大模型带动公司业绩增长，但巨额资本投入引发市场对投资回报率的担忧，消息公布后股价出现小幅波动。此举标志着全球AI军备竞赛进一步升级，行业资本支出规模持续攀升。",
+    "内容": "谷歌母公司Alphabet于6月1日宣布拟通过股票出售募集800亿美元，资金将全额投入AI算力基础设施建设。本轮融资包括100亿美元的伯克希尔·哈撒韦专项投资、300亿美元承销发行（含150亿美元强制可转换优先股），以及计划于2026年第三季度启动的400亿美元市场公开发行。Alphabet CEO桑达尔·皮查伊表示，当前AI解决方案需求强劲，算力供给瓶颈及电力、土地、供应链限制是制约数据中心扩张的核心因素。为应对激烈的AI军备竞赛，Alphabet已将全年资本支出预期上调至1800亿至1900亿美元，此前已通过多轮债券发行筹集超660亿美元。尽管Gemini大模型带动公司股价过去一年翻倍，但市场对巨额资本投入的产出比仍持谨慎观望态度，消息公布后盘后股价出现小幅回落。",
     "发布日期": "2026-06-02",
     "原文链接": "https://www.aibase.com/zh/news/28550",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
@@ -20,18 +10,28 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901101704279841_1.jpg"
   },
   {
-    "资讯标题": "华为开发者大会2026定档6月12日，HarmonyOS新版本将深度集成端侧AI与智能体",
-    "内容": "华为开发者大会2026将于6月12日至14日举行，届时将发布HarmonyOS新一代系统，核心聚焦端侧AI与AI Agent技术的深度演进。此次升级并非简单的功能修补，而是将AI技术深度植入系统框架、资源调度逻辑及人机交互界面。通过将AI算力与数据处理迁移至本地设备，新系统旨在显著降低对云端依赖，提升响应速度，并在隐私保护及多设备跨场景协同方面实现质的飞跃。此外，AI Agent将推动鸿蒙系统从被动响应指令向主动理解用户意图转型，为具身智能及下一代交互提供技术支撑。华为将在大会期间全方位展示鸿蒙生态的最新商用版图与技术成果，此次迭代标志着鸿蒙系统底层架构向AI原生的全面进化。",
+    "资讯标题": "腾讯正在测试微信AI智能体，主打应用内任务处理并即将启动合规流程",
+    "内容": "腾讯正加速推进微信生态内AI智能体的落地，目前已进入原型测试阶段。该AI智能体旨在帮助用户在微信应用内部高效完成多项任务，标志着微信在智能化交互与服务闭环上迈出关键一步。为确保产品合规，腾讯计划最早于本月启动公开上线所需的合规流程。在完成相关程序后，腾讯将采取分阶段推进策略，先在小范围外部用户中进行封闭测试，随后逐步扩大开放范围。由于合规审批周期存在不确定性，最终正式发布时间表尚未敲定。作为拥有超十亿活跃用户的超级App，微信嵌入AI智能体将显著提升场景化办事效率，重塑内部服务连接机制，推动移动互联网生态向“AI Agent即入口”的交互范式转型。",
     "发布日期": "2026-06-02",
-    "原文链接": "https://www.aibase.com/zh/news/28548",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/86271b4f713f0693364d91167d24f474.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/86271b4f713f0693364d91167d24f474.jpg",
-    "配图仓库路径": "assets/news_images/86271b4f713f0693364d91167d24f474.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0602/6391599144296033988818147.png"
+    "原文链接": "https://www.aibase.com/zh/news/28552",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/71c685e2b04996a543a47fd615e2bfe1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/71c685e2b04996a543a47fd615e2bfe1.jpg",
+    "配图仓库路径": "assets/news_images/71c685e2b04996a543a47fd615e2bfe1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201901091156007183_0.jpg"
+  },
+  {
+    "资讯标题": "OpenAI演示Agentic操作系统原型，实现无App手机界面实时生成",
+    "内容": "OpenAI在Voice Hack Night活动上展示了一款“Agentic操作系统”原型，彻底打破了传统智能手机依赖独立App的生态模式。该系统核心理念为“UI即系统”，手机内无需安装常规App，所有操作界面均由端侧本地模型根据用户指令实时生成，深度推理任务则由云端GPT大模型处理。在现场演示中，开发者通过纯语音指令完成了预订机票、管理日历、发送邮件及梳理待办事项等复杂工作流，全程无需调用第三方软件。此次演示标志着全AI驱动的硬件已从概念验证迈向产业化。OpenAI首席执行官Sam Altman此前多次暗示将重构操作系统设计逻辑，供应链消息显示，其AI智能体手机项目量产时间表已提前至2027年上半年，预示着移动端交互范式或将迎来根本性变革。",
+    "发布日期": "2026-06-02",
+    "原文链接": "https://www.aibase.com/zh/news/28556",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/05a5e96e5a6c4dedbdd795ec2ea20648.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/05a5e96e5a6c4dedbdd795ec2ea20648.jpg",
+    "配图仓库路径": "assets/news_images/05a5e96e5a6c4dedbdd795ec2ea20648.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0602/6391600476297639902429866.png"
   },
   {
     "资讯标题": "OpenAI正式成立Robotics事业部，由DALL-E发明者阿迪亚·拉梅什领衔",
-    "内容": "OpenAI正式宣布成立Robotics事业部，标志着公司业务从软件AI向具身智能领域全面延伸。该团队由DALL-E系列模型发明者及Sora项目核心负责人阿迪亚·拉梅什（Aditya Ramesh）领衔，其前身是专注于“世界模拟研究”的团队。OpenAI此次进军机器人赛道，旨在通过大模型底座连接物理世界，赋予AI在动态环境中实现AGI级别的交互能力。在推进路线方面，团队短期聚焦研发协助基础设施建设的机器人，长期愿景则是打造通用个人机器人。面对此前与机器人初创公司在技术路线上的分歧，OpenAI决定亲自下场，自主构建软硬件一体化能力。目前，CEO山姆·奥特曼已启动全栈硬件、系统及机器学习工程师的招募工作，此举意味着OpenAI将与特斯拉等行业对手在具身智能领域展开正面竞争。",
+    "内容": "OpenAI正式宣布成立Robotics事业部，由DALL-E及Sora核心领导者阿迪亚·拉梅什出任负责人，标志着公司正式进军具身智能领域。该团队由原“世界模拟研究项目”演变而来，旨在利用大模型底座连接物理世界，赋予AI在动态环境中实现AGI级别交互的能力。目前，CEO山姆·奥特曼已启动全栈硬件、系统及机器学习工程师的招募工作。团队规划了明确的路线图：短期聚焦研发协助基础设施建设的机器人，长远目标则是打造通用个人机器人。此次布局反映了OpenAI在技术路线上的战略调整，即放弃此前与外部机器人初创公司的合作，转而自主研发软硬件一体化能力。这一举措意味着OpenAI将直接切入具身智能赛道，与特斯拉等行业巨头展开正面竞争，试图通过端到端模型解决通用大模型在机器人硬件适配上的瓶颈。",
     "发布日期": "2026-06-02",
     "原文链接": "https://www.aibase.com/zh/news/28544",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e646ecd29055c89e3b78746923577760.jpg",
@@ -40,8 +40,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405231159157322_2.jpg"
   },
   {
-    "资讯标题": "OpenAI尖端模型与Codex正式登陆AWS平台，企业级AI落地加速",
-    "内容": "6月1日，OpenAI宣布其前沿模型（含GPT-5.5）及软件工程智能体Codex正式登陆亚马逊云科技（AWS）平台。企业客户现可通过Amazon Bedrock直接调用上述模型，并享有AWS原生的安全防护与治理机制。此次合作覆盖商业区域与GovCloud区域，旨在消除企业在安全审查、合规评估及采购流程中的壁垒，大幅缩短AI技术从评估到投产的周期。目前，安进（Amgen）与欧特克（Autodesk）等企业已率先应用。此外，OpenAI计划未来将“Daybreak”愿景引入AWS，涵盖网络安全模型与Codex Security，通过自动化代码审查、威胁建模及漏洞补丁验证，强化开发流程中的安全防护能力。该合作标志着OpenAI尖端AI能力与AWS企业级基础设施的深度融合，将加速大型企业在生产环境中部署高性能AI应用",
+    "资讯标题": "OpenAI尖端模型与Codex正式登陆AWS平台，支持企业级应用部署",
+    "内容": "6月1日，OpenAI正式宣布其前沿模型（含GPT-5.5）及软件工程智能体Codex全面上架AWS平台。企业用户现可通过Amazon Bedrock直接调用上述模型，并享有AWS原生的安全防护与治理机制。此次集成覆盖商业区域与GovCloud区域，旨在消除企业在安全审查、合规评估及采购流程中的运营壁垒，显著缩短AI技术从评估到投产的周期。目前，安进（Amgen）与欧特克（Autodesk）等行业头部企业已率先开展应用评估，利用AWS基础设施提升生物制药及工业设计领域的工作流效率。此外，OpenAI计划未来在AWS生态中引入“Daybreak”愿景，涵盖网络安全模型与Codex Security，通过自动化代码审查、威胁建模及漏洞验证等功能，强化开发流程中的安全防护能力。此次合作标志着OpenAI尖端AI能力与",
     "发布日期": "2026-06-02",
     "原文链接": "https://www.aibase.com/zh/news/28553",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
