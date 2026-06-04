@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌在安卓系统推出虚假通话检测功能，利用RCS技术拦截AI深伪诈骗",
-    "内容": "谷歌正式宣布在安卓系统中推出“虚假通话检测”功能，旨在通过底层机制识别并拦截利用AI深伪技术冒充熟人的电话诈骗。该功能基于RCS技术构建，当用户接到联系人来电时，双方设备会进行加密的静默“数字握手”以验证身份。若诈骗分子冒充身份导致确认信号缺失，系统将向真实联系人设备发起二次校验，并在异常时向用户弹窗示警。该功能将于本月率先在Pixel系列设备启用，后续覆盖全球Android 12及以上系统设备。此外，谷歌还同步更新了安卓生态功能，包括谷歌相册的“虚拟试衣间”、Google Play图书的辅助工具，以及支持一键搜索整套穿搭的“圈选搜索”功能。此举标志着谷歌通过系统级防线应对日益复杂的AI仿音诈骗，并为第三方厂商接入预留了技术接口。",
-    "发布日期": "2026-06-03",
-    "原文链接": "https://www.aibase.com/zh/news/28597",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/539e7bea4f495653c6b5517908235172.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/539e7bea4f495653c6b5517908235172.jpg",
-    "配图仓库路径": "assets/news_images/539e7bea4f495653c6b5517908235172.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621143997_48.jpg"
+    "资讯标题": "谷歌在英国推出AI搜索退出开关，出版商可一键屏蔽内容且不影响传统排名",
+    "内容": "谷歌正式在Google Search Console中推出“退出开关”，允许英国网络出版商自主选择是否参与生成式AI搜索。一旦选择退出，网站内容将不再出现在“AI概览”、“AI模式”及Discover的AI摘要中。该政策由英国竞争与市场管理局（CMA）推动，旨在提升出版商在内容授权谈判中的议价能力。谷歌明确承诺，出版商的退出行为不会作为传统搜索排名的负面信号。为平衡利益，谷歌在Search Console中引入了展示次数、网页分布等新指标，并增加AI回复中的直接嵌入链接与网站预览数量以引导流量。该功能目前在英国部分出版商中测试，后续将向全球推广。此举标志着AI搜索平台与内容版权方在利益重构上的重要进展，为全球AI内容合规治理提供了新范式。",
+    "发布日期": "2026-06-04",
+    "原文链接": "https://www.aibase.com/zh/news/28627",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fcdb3ad35c4981908d1b44b4bea71777.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fcdb3ad35c4981908d1b44b4bea71777.jpg",
+    "配图仓库路径": "assets/news_images/fcdb3ad35c4981908d1b44b4bea71777.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202304231721019071_2.jpg"
   },
   {
-    "资讯标题": "微软发布全新AI助手Scout，基于OpenClaw架构支持养成系定制",
-    "内容": "微软在Build开发者大会上正式推出AI助手Scout，该产品深度集成于Microsoft 365生态，底层架构源自开源智能体项目OpenClaw。Scout主打“养成系”定制体验，支持用户自定义身份，通过长期互动内化用户行为模式与工作习惯，从而实现个性化的复杂任务处理。Scout运行于云端，横跨桌面端与网页浏览器，可无缝串联邮箱、日历等办公系统。针对此前OpenClaw曾出现的失控风险，微软在Scout内部集成了严密的“策略合规系统”，提供全天候自动化审计与可追溯日志，防止智能体越权。目前，Scout作为实验性产品率先向Frontier项目早期体验者开放，GitHub Copilot订阅用户可解锁使用。该产品的发布标志着微软在企业级协同AI版图的进一步扩张。",
-    "发布日期": "2026-06-03",
-    "原文链接": "https://www.aibase.com/zh/news/28598",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5ceafe7dd7787d06055f44d8a3d532ea.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5ceafe7dd7787d06055f44d8a3d532ea.jpg",
-    "配图仓库路径": "assets/news_images/5ceafe7dd7787d06055f44d8a3d532ea.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908091358491904_0.jpg"
+    "资讯标题": "谷歌Gemini App月活突破9亿，AI Overviews覆盖25亿搜索用户",
+    "内容": "谷歌母公司Alphabet最新披露，Gemini App月活跃用户数在一年内实现翻倍，正式突破9亿大关。这一增长得益于Gemini底层能力全面接入谷歌旗下13款用户量超10亿的超级应用，包括搜索、Gmail、Android、Chrome及YouTube。同时，谷歌搜索集成的AI Overviews功能月活已达25亿，覆盖广度居行业首位。在技术与成本优化方面，谷歌通过Gemini 3架构将核心AI响应算力成本降低超30%。继上月发布Gemini 3.5 Flash后，谷歌计划于本月推出性能更强的Gemini 3.5 Pro大模型。通过将AI深度嵌入原生生态基础设施，谷歌正加速实现全球用户规模的AI化普及，并以高密度智能与低成本运营构建起显著的竞争护城河。",
+    "发布日期": "2026-06-04",
+    "原文链接": "https://www.aibase.com/zh/news/28618",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/745abe4e4a6f424d5f038b19a831cb2f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/745abe4e4a6f424d5f038b19a831cb2f.jpg",
+    "配图仓库路径": "assets/news_images/745abe4e4a6f424d5f038b19a831cb2f.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0604/6391615996728134524913846.png"
   },
   {
-    "资讯标题": "字节跳动开源视频生成与编辑统一框架Bernini，实现语义规划与视觉渲染协同",
-    "内容": "字节跳动商业化技术团队正式开源视频生成与编辑统一框架Bernini，旨在解决AI视频生成中画面失控与帧间闪烁等痛点。该框架采用“先理解、再生成”机制，将工作流拆分为基于MLLM的语义规划器与基于Diffusion Transformer的渲染器。系统先解析文本及参考素材生成“语义草图”，再由渲染器转化为连续视频。Bernini支持天气、材质、镜头视角及主体动作的精准语义控制，并引入SA-3D RoPE位置编码机制，有效解决多视觉片段串联时的时空一致性难题。在应用层面，该框架支持单图、多角度及关键帧参考生成，能实现复杂素材的精准植入。目前，Bernini的推理代码与第二阶段模型Bernini-R已开放，包含完整MLLM规划器的全版本也将于近期上线，为AI视频编辑提供接近传统后期软件的精准度。",
-    "发布日期": "2026-06-03",
-    "原文链接": "https://www.aibase.com/zh/news/28601",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6f51f3a73a19823f19dcbea8c13156bc.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6f51f3a73a19823f19dcbea8c13156bc.jpg",
-    "配图仓库路径": "assets/news_images/6f51f3a73a19823f19dcbea8c13156bc.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0603/6391609087007949638700332.png"
+    "资讯标题": "月之暗面正式开启通用本地Agent产品Kimi Work内测",
+    "内容": "6月3日，月之暗面正式开启面向知识工作者的通用本地Agent产品Kimi Work内测，该功能随Mac和Windows桌面测试版客户端同步推出。Kimi Work以Kimi Code为核心底座，支持在本地环境运行定时任务及自主调用各类Skill。产品内置建站、PPT制作等高频技能，并集成金融、科研、法律等垂直行业数据库及Kimi WebBridge浏览器调用方案。该产品核心亮点在于支持Agent集群，可根据任务复杂度自主调度最高300个子Agent并行协作，处理跨应用复杂长流程任务。用户无需编写代码或配置环境，仅需通过自然语言描述目标，系统即可自动完成任务拆解、跨系统工具调用及文档、表格、PPT等产物交付。Kimi Work旨在将AI从对话助手转化为能代替人类在操作系统中执行任务的数字员工，全面覆盖办公、研究及",
+    "发布日期": "2026-06-04",
+    "原文链接": "https://www.aibase.com/zh/news/28624",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/266f5660a91c1c26c173b69593d59b1a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/266f5660a91c1c26c173b69593d59b1a.jpg",
+    "配图仓库路径": "assets/news_images/266f5660a91c1c26c173b69593d59b1a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0604/6391616110673536188578479.png"
   },
   {
-    "资讯标题": "OpenAI升级智能体助手Codex，新增数据分析与创意制作等6大岗位插件",
-    "内容": "OpenAI正式发布Codex智能体助手重大更新，新增6大岗位专属插件，覆盖62个高频应用及110项专业技能。此次升级精准面向数据分析、创意制作、销售、产品设计、公开股票投资及投资银行六大职场角色，旨在实现特定岗位工作流的一键式集成。数据分析插件支持连接Snowflake、Databricks Genie、Hex及Tableau等工具，实现业务数据查询与可视化；创意制作插件则可将简报转化为广告变体及宣发图。此外，Codex新增“批注修改”功能，支持用户对文档、表格及幻灯片中的特定文本进行精准微调，无需重写。商业版与企业版用户现可利用Sites功能创建互动网站，在虚拟工作区实时协作。目前Codex周活跃用户已超500万，非开发者用户占比达20%，且增长速度远超开发者群体。此次底层重构标志着Codex从代码辅助工具",
-    "发布日期": "2026-06-03",
-    "原文链接": "https://www.aibase.com/zh/news/28589",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
+    "资讯标题": "字节跳动开源Bernini视频生成与编辑框架，实现语义规划与视觉渲染分离",
+    "内容": "字节跳动商业化技术团队正式开源Bernini视频生成与编辑框架，旨在通过“先理解、再生成”的协同机制解决视频生成中的画面失控与帧间闪烁问题。该框架将工作流拆分为“语义规划”与“视觉渲染”两个独立部分，系统先由多模态大模型规划器解析素材生成“语义草图”，再由渲染器转化为连续视频。Bernini支持文本、图片及视频作为视觉参考，通过专属位置编码机制确保多片段串联时的一致性，实现对镜头视角、焦点及主体动作的精准控制。在编辑场景下，该框架可完成特定材质植入及透视对齐。目前，Bernini的推理代码与第二阶段模型Bernini-R已开放权限，全版本功能近期将全面上线，为视频创作提供高可控性的技术方案。",
+    "发布日期": "2026-06-04",
+    "原文链接": "https://www.aibase.com/zh/news/28622",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8695394ce3ceda3b259fe46fc319f221.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8695394ce3ceda3b259fe46fc319f221.jpg",
+    "配图仓库路径": "assets/news_images/8695394ce3ceda3b259fe46fc319f221.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0604/6391616056393102962874411.png"
   },
   {
-    "资讯标题": "DeepSeek拟完成首轮500亿元融资，腾讯与宁德时代计划参投",
-    "内容": "中国AI初创企业DeepSeek正进行首轮融资，计划筹集约500亿元人民币，投后估值预计达3500亿至4000亿元人民币。本轮融资由创始人梁文锋领投200亿元，腾讯与宁德时代分别拟投资100亿元和50亿元，其余参与方包括国家人工智能基金、网易、京东及IDG资本等，预计投资者总数少于10家，条款将在未来两周内落地。DeepSeek此前凭借V3和R1模型在全球AI领域获得高度关注。此次融资体现了产业全链路协同趋势：宁德时代旨在通过电力与储能方案切入AI数据中心领域，解决算力功耗痛点；腾讯则意图通过深化合作，加速其混元大模型在市场竞争中的追赶步伐。该融资不仅刷新了国内大模型企业的估值纪录，更标志着互联网巨头与能源硬科技企业在AI基础设施层面的深度战略结盟。",
-    "发布日期": "2026-06-03",
-    "原文链接": "https://www.aibase.com/zh/news/28602",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9bc52ba7c71a218cba579a239abf1d11.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9bc52ba7c71a218cba579a239abf1d11.jpg",
-    "配图仓库路径": "assets/news_images/9bc52ba7c71a218cba579a239abf1d11.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558203268_1.jpg"
+    "资讯标题": "Google发布Gemma4 12B开源模型，采用无编码器架构支持本地运行",
+    "内容": "Google正式发布开源大模型Gemma4 12B，该模型创新性采用“Unified”无编码器架构，支持文字、图像、音频及视频四种模态直接输入Transformer主干网络处理。Gemma4 12B具备256K Token上下文窗口，支持超140种语言，并内置Thinking模式与原生Function Calling能力。在性能表现上，其跑分直逼26B体量模型，但内存占用显著降低，最低仅需16GB内存即可运行，4-bit量化后可下探至8GB。目前，macOS用户可通过Google AI Edge Gallery下载并在本地激活，利用内置沙盒Python环境及Eloquent系统实现代码执行、图表绘制与语音交互。该模型通过消除外部编码器链路，大幅降低了端侧部署的显存占用与延迟，为低延迟、高隐私的端侧全模态个人助理",
+    "发布日期": "2026-06-04",
+    "原文链接": "https://www.aibase.com/zh/news/28626",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/93e656085f6f3b999775e22ea132e3ce.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/93e656085f6f3b999775e22ea132e3ce.jpg",
+    "配图仓库路径": "assets/news_images/93e656085f6f3b999775e22ea132e3ce.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0604/6391616158054034221585350.jpg"
   }
 ]
