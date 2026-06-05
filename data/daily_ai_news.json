@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌发布Gemma 4 12B多模态模型，采用无编码器架构支持16GB内存本地运行",
-    "内容": "谷歌于6月3日发布统一多模态模型Gemma 4 12B，通过取消传统视觉与音频编码器，采用轻量级嵌入层直接处理多模态输入，大幅降低计算复杂度。该模型拥有120亿参数，仅需16GB显存或统一内存即可在消费级硬件上本地部署。性能方面，Gemma 4 12B的多步推理与Agent能力逼近26B MoE模型，并集成多Token预测（MTP）技术以提升端侧推理速度。目前该模型已采用Apache 2.0许可证开源，支持Ollama、LM Studio、MLX、SGLang及vLLM等主流推理框架，并提供AI Edge Gallery端侧部署包。此次架构创新显著降低了高性能多模态模型的运行门槛，为开发者在本地离线处理复杂视觉与音频任务提供了高效方案。",
+    "资讯标题": "英伟达斥资4亿美元收购初创公司Kumo，强化企业级结构化数据预测能力",
+    "内容": "英伟达已完成对企业定制化AI初创公司Kumo的收购，交易金额至少为4亿美元。Kumo三位联合创始人——前Airbnb CTO范贾·约西福夫斯基、斯坦福教授尤利·莱斯科夫及前LinkedIn AI负责人海玛·拉格哈万已于今年5月正式入职英伟达。Kumo核心资产为其自主研发的KumoRFM基础模型，该模型专为企业数据仓库中的结构化业务数据设计，擅长处理客户流失、信用违约等预测性任务。KumoRFM结合图形机器学习与合成数据技术，无需额外训练即可实现高效预测，且通过微调可将预测准确率提升约10%。此次收购是英伟达完善全栈AI生态的关键布局，旨在增强其在企业级结构化数据预测领域的技术护城河，为企业客户提供更精准的定制化AI解决方案。",
     "发布日期": "2026-06-05",
-    "原文链接": "https://www.aibase.com/zh/news/28643",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d8524f47f02d694facc0fc6a0e7a3838.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d8524f47f02d694facc0fc6a0e7a3838.jpg",
-    "配图仓库路径": "assets/news_images/d8524f47f02d694facc0fc6a0e7a3838.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0604/6391617769802928345946579.png"
+    "原文链接": "https://www.aibase.com/zh/news/28678",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/208afec42a69aad6cfe14f4b8652419a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/208afec42a69aad6cfe14f4b8652419a.jpg",
+    "配图仓库路径": "assets/news_images/208afec42a69aad6cfe14f4b8652419a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0605/6391625559500615159804590.png"
   },
   {
-    "资讯标题": "比亚迪首次证实自研人形机器人“尧舜禹”2026年将内部分署2万台",
-    "内容": "比亚迪首次证实自研人形机器人“尧舜禹”2026年将内部分署2万台AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jun 4, 2026147比亚迪执行副总裁李柯近日首次证实，公司正稳步推进自研工业人形机器人项目，代号“尧舜禹”，标志着这家全球最大新能源车企正式开启具身智能第二增长曲线。该项目于2022年由第十五事业部立项，中央研究院技术支撑，目前核心研发团队超4000人。截至2026年5月，原型机已迭代至第七代，核心零部件产线同步投产。“尧舜禹”双足行走速度达1.5米/秒，额定负载50公斤，配备4指16自由度灵巧手及激光雷达+6D触觉感知系统。目前，约150台样机已在深圳坪山、长沙等工厂实训，在搬运、贴标等工序中效率达人工的80%，并实现与优必选Walker S1及无人物流设备的协同作业。",
+    "资讯标题": "腾讯发布效率智能体工具集，覆盖20+行业并推出多款Agent产品",
+    "内容": "腾讯于6月5日正式发布“效率智能体工具集”，针对个人、办公及企业三大场景，提供覆盖20多个垂直行业的差异化智能体解决方案。个人端产品包括支持“微信直连”的本地AI助手QClaw、个人知识智能体ima、AI助理元宝及“元宝高考通”咨询师Agent。针对职场人群，腾讯推出“Buddy”家族，包含已迭代43个版本的桌面工作台WorkBuddy、编码智能体CodeBuddy以及创意设计工具Miora与Ardot。面向企业用户，腾讯发布WorkBuddy企业版及办公智能体套件Agent Suite，并升级ClawPro管控平台与ADP4.0开发平台，实现Agent从构建、连接到治理的全生命周期管理。目前，该工具集已在医疗、金融、游戏等行业落地，旨在通过封装腾讯内部实践经验，助力企业构建人机协同的超级团队，推动生产力重塑。",
     "发布日期": "2026-06-05",
-    "原文链接": "https://www.aibase.com/zh/news/28653",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d565b5c35d2bbde027a0ee249a992429.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d565b5c35d2bbde027a0ee249a992429.jpg",
-    "配图仓库路径": "assets/news_images/d565b5c35d2bbde027a0ee249a992429.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202401041559152376_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28677",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/de254234cffdb24ab855efdaa0f68598.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/de254234cffdb24ab855efdaa0f68598.jpg",
+    "配图仓库路径": "assets/news_images/de254234cffdb24ab855efdaa0f68598.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0605/26060511133838453882.jpg"
   },
   {
-    "资讯标题": "微信联合华为小米等手机厂商推出A2A助手，实现系统级AI直接调动微信",
-    "内容": "微信近日宣布与华为、小米、荣耀、OPPO等多家主流手机厂商达成深度合作，联合推出基于A2A（Agent-to-Agent）协作机制的助手能力。该功能将微信的高频沟通服务深度融入手机原生系统，用户可通过系统级AI助手直接发起微信音视频通话或发送消息。腾讯客服证实，目前多家厂商已完成系统接入，并采用双重授权机制确保用户数据安全与隐私。此次合作标志着AI智能体生态从“孤岛互联”向“端云协同”演进，通过跨生态底层打通，大幅缩短了用户操作链路。对于行业而言，这种系统级助手与超级应用的深度耦合，为端侧AI应用生态的成熟提供了关键范式，不仅提升了手机系统AI的实用价值，也实现了微信在国民级应用场景下的服务外延。",
+    "资讯标题": "奥尔特曼预言 AI 第三阶段：\"主动式 AI\"将让 Agent 在后台自动干活",
+    "内容": "奥尔特曼预言 AI 第三阶段：\"主动式 AI\"将让 Agent 在后台自动干活AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jun 5, 202627在 OpenAI 近期举办的一场企业活动上，公司 CEO 萨姆·奥尔特曼（Sam Altman）首次系统性地提出了 AI 产品发展的三阶段理论，并明确表示，继聊天机器人和 AI 智能体(Agent)之后，行业下一个爆发点将是\"主动式 AI(Proactive AI)\"——一种能够在后台持续运行、主动为用户提供帮助的 AI 系统。奥尔特曼将当前 AI 产品的演进划分为三个清晰阶段。第一阶段是以 ChatGPT 为代表的聊天机器人，用户需要主动发起对话才能获得回应。",
     "发布日期": "2026-06-05",
-    "原文链接": "https://www.aibase.com/zh/news/28644",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cc2d562fbe3553426b3429954229753c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/cc2d562fbe3553426b3429954229753c.jpg",
-    "配图仓库路径": "assets/news_images/cc2d562fbe3553426b3429954229753c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201907082355012039_3.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28667",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9af407efd777c8ea7d719a4be0a1cd13.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9af407efd777c8ea7d719a4be0a1cd13.jpg",
+    "配图仓库路径": "assets/news_images/9af407efd777c8ea7d719a4be0a1cd13.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0605/6391624791888333094667915.png"
   },
   {
-    "资讯标题": "原生多模态大模型LongCat-Next正式开源，引入DiNA架构实现视觉语音统一",
-    "内容": "原生多模态大模型LongCat-Next及其核心离散分词器正式开源，旨在通过DiNA（离散原生自回归）架构打破模态阻隔，使AI能像处理文字一样原生地理解物理世界。该架构将图像、声音和文字统一转化为同源离散Token，共享参数与注意力机制。技术上，团队首创dNaViT视觉分词器，支持原生任意分辨率，通过8层残差向量量化实现28倍像素压缩。在LongCat-Flash-Lite MoE（68.5B参数，3B激活）基座测试中，其OmniDocBench表现超越Qwen3-Omni及Qwen3-VL，且在MMLU-Pro、C-Eval及SWE-Bench等文本与代码任务中保持领先。该模型还支持低延迟并行语音生成与个性化克隆，目前已在GitHub与HuggingFace全量开源，为行业提供了一种极简且轻量化的原生多模态部",
+    "资讯标题": "Ideogram 4.0正式开源发布，93亿参数模型位列DesignArena全球第四",
+    "内容": "Ideogram于6月3日正式开源发布文生图模型Ideogram 4.0，该模型参数规模达93亿（9.3B），在DesignArena榜单中位列全球第四。技术架构上，Ideogram 4.0采用单流（Single-Stream）设计，由Qwen3-VL-8B-Instruct文本编码器、34层可训练扩散Transformer（DiT）、Euler Flow Matching采样器及冻结的KL自动编码器组成，实现了文本与图像Token的联合建模。该模型核心优势在于极强的文字渲染与版式控制能力，通过引入对象与文本边界框（Bounding Box）及结构化JSON字幕数据训练，用户可精准控制图像元素空间关系与排版结构。相比传统模型，Ideogram 4.0在长文本生成准确性上表现显著，适用于海报设计、商业展示及品牌营",
     "发布日期": "2026-06-05",
-    "原文链接": "https://www.aibase.com/zh/news/28649",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1bcbc14f2da19de92c3a679e7c800c0a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1bcbc14f2da19de92c3a679e7c800c0a.jpg",
-    "配图仓库路径": "assets/news_images/1bcbc14f2da19de92c3a679e7c800c0a.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0604/6391618484820350037231691.png"
+    "原文链接": "https://www.aibase.com/zh/news/28671",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/eeb08c88bef20444f5712641bae53d9b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/eeb08c88bef20444f5712641bae53d9b.jpg",
+    "配图仓库路径": "assets/news_images/eeb08c88bef20444f5712641bae53d9b.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0605/6391625129341169206216808.jpg"
   },
   {
-    "资讯标题": "GPT-5.5与DeepSeek V4 Pro在网络安全攻防实测中表现突出",
-    "内容": "安全研究员Kasra Rahjerdi近日发布大模型网络安全攻防实测报告，通过模拟黑客攻击故意留有漏洞的APK，测试主流LLM的漏洞利用能力。在限时2小时、单次预算10美元的测试中，GPT-5.5展现出统治级推理能力，以70%的成功率位列第一，但单次成功利用成本高达9.46美元。DeepSeek V4 Pro则凭借极高性价比脱颖而出，以0.62美元的单次成功成本位居榜首，成本仅为GPT-5.5的十五分之一。此外，Claude Sonnet 4.6与Opus 4.8各取得2次成功，Gemini 3.1 Pro Preview则因安全护栏过严未能完成任务。该测试揭示了模型在自动化安全审计中的潜力，未来网络安全防御或将演变为算力与模型策略的深度博弈。",
+    "资讯标题": "Anthropic与美国国家安全局合作，部署Claude Mythos大模型开展网络攻防",
+    "内容": "Anthropic近日与美国国家安全局达成深度合作，协助其部署高性能Claude Mythos大模型用于进攻性网络作战。Anthropic已向国安局派驻六名工程师进行驻场支持，负责模型落地与深度定制。Claude Mythos具备自主发现并利用软件漏洞的能力，今年4月首发后，本周已授权拓展至全球15个国家的150家机构。面对技术滥用质疑，Anthropic内部人士称此举旨在抢占地缘战略先机。与此同时，Anthropic正因拒绝将Claude系列模型用于大规模监控及致命自主无人机研发，与美国国防部陷入司法诉讼，并被列入供应链风险清单。尽管面临合规压力与法律纠纷，Anthropic仍加速商业化布局，正筹备IPO，目标估值突破1万亿美元，凸显AI在国家安全层面的战略价值。",
     "发布日期": "2026-06-05",
-    "原文链接": "https://www.aibase.com/zh/news/28651",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图仓库路径": "assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28668",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/008796e3ace60d3e601fc0d626b0b325.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/008796e3ace60d3e601fc0d626b0b325.jpg",
+    "配图仓库路径": "assets/news_images/008796e3ace60d3e601fc0d626b0b325.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504021143521790_2.jpg"
   }
 ]
