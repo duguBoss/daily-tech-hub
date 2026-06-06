@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "英伟达斥资4亿美元收购初创公司Kumo，强化企业级结构化数据预测能力",
-    "内容": "英伟达近日完成对企业定制化AI初创公司Kumo的收购，交易金额至少为4亿美元。Kumo三位联合创始人，包括前Airbnb CTO范贾·约西福夫斯基、斯坦福教授尤利·莱斯科夫及前LinkedIn AI负责人海玛·拉格哈万，已于今年5月正式入职英伟达。Kumo核心资产为其自主研发的KumoRFM基础模型，该模型专为企业数据仓库中的结构化业务数据设计，结合图形机器学习技术与合成数据，擅长处理客户流失、信用违约风险等预测性问题。在实际应用中，KumoRFM无需额外训练即可实现精准预测，通过企业自有数据微调，预测准确率可提升约10%。此次收购是英伟达完善全栈AI生态的关键布局，旨在通过获取专有模型资产，增强其在企业级结构化数据预测领域的技术护城河，进一步巩固其在企业级基础模型应用市场的领先地位。",
-    "发布日期": "2026-06-05",
-    "原文链接": "https://www.aibase.com/zh/news/28678",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/208afec42a69aad6cfe14f4b8652419a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/208afec42a69aad6cfe14f4b8652419a.jpg",
-    "配图仓库路径": "assets/news_images/208afec42a69aad6cfe14f4b8652419a.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0605/6391625559500615159804590.png"
+    "资讯标题": "腾讯文档发布「人机双写」能力并原生接入WorkBuddy构建AI原生编辑器",
+    "内容": "2026年6月5日，腾讯文档在腾讯云AI产业应用大会上发布行业首创的「人机双写」能力，正式进化为AI原生编辑器。该功能原生接入WorkBuddy统一Agent内核，结合自研高性能编辑引擎与专业Skill，使AI能以同事身份进入编辑器，与用户实时同屏协作。双方可共同进行文字填充、数据清洗、图表生成及PPT美化，系统通过领先算法自动解决双重编辑冲突，确保操作逐条可回溯。目前，腾讯文档企业版已实现全品类AI化，作为「效率智能体套件」核心组件内嵌至WorkBuddy工作台，支持读取存量资产。此外，腾讯文档通过Skill（MCP协议）与OpenAPI双通道开放百余项接口，底层依托腾讯混元大模型算力，实现模型与产品Co-Design。此次升级标志着编辑范式从对话式AI向执行式AI转型，推动行业生产力工具深度智能化。",
+    "发布日期": "2026-06-06",
+    "原文链接": "https://www.aibase.com/zh/news/28691",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/253447d8854f4e6178ea27ff659528a2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/253447d8854f4e6178ea27ff659528a2.jpg",
+    "配图仓库路径": "assets/news_images/253447d8854f4e6178ea27ff659528a2.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0605/6391626947965504592818577.png"
   },
   {
-    "资讯标题": "腾讯发布效率智能体工具集：覆盖20+行业，Agent时代全面开启",
-    "内容": "腾讯发布效率智能体工具集：覆盖20+行业，Agent时代全面开启AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jun 5, 2026126月5日，2026腾讯云AI产业应用大会在北京举办。面对个人和企业日益增长的AI提效需求，腾讯在大会上首次系统发布“效率智能体工具集”，面向个人提效、办公提效、企业提效三类需求，针对20多个垂直场景提供差异化的智能体解决方案。AI下半场，智能体成为重塑生产力的重要引擎。首发推出的腾讯效率智能体工具集，以用户需求为主线，将智能体能力封装成多层次产品体系——从开箱即用的轻量工具，到深度适配的企业级平台和行业解决方案，满足不同人群的使用需求。针对个人用户，本地AI助手QClaw首创“微信直连”模式，并打通腾讯文档、腾讯会议、ima、QQ邮箱等工具。",
-    "发布日期": "2026-06-05",
-    "原文链接": "https://www.aibase.com/zh/news/28677",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/de254234cffdb24ab855efdaa0f68598.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/de254234cffdb24ab855efdaa0f68598.jpg",
-    "配图仓库路径": "assets/news_images/de254234cffdb24ab855efdaa0f68598.jpg",
-    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0605/26060511133838453882.jpg"
+    "资讯标题": "美国众议院发布269页AI立法草案：巨头面临半年一审，各州监管权冻结三年",
+    "内容": "美国众议院两党议员近日公布《伟大美国人工智能法案（Great American Artificial Intelligence Act of 2026）》讨论稿，旨在建立联邦级AI监管框架。草案明确将上一年收入超5亿美元且训练过大型前沿模型的企业纳入监管，OpenAI、谷歌DeepMind及Anthropic等头部实验室均在列。核心要求包括：企业需每半年聘请独立机构核查安全计划，防范制造大规模杀伤性武器、网络攻击及灾难性风险，违规者面临每日最高100万美元罚款。草案最具争议的“州法优先权”条款规定，生效后三年内，州和地方政府不得制定专门监管AI模型开发的法律。此外，法案还涵盖员工举报保护、AI金融诈骗量刑加重、AI就业影响研究及K-12阶段AI素养教育等内容。目前该草案处于征求反馈阶段，行业组织NetChoic",
+    "发布日期": "2026-06-06",
+    "原文链接": "https://www.aibase.com/zh/news/28690",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97cf32890bed12ea8b3a96c0d7d593b6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97cf32890bed12ea8b3a96c0d7d593b6.jpg",
+    "配图仓库路径": "assets/news_images/97cf32890bed12ea8b3a96c0d7d593b6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812131617128989_7.jpg"
   },
   {
-    "资讯标题": "OpenAI CEO奥尔特曼提出AI发展三阶段，预言主动式AI将成行业新爆发点",
-    "内容": "OpenAI CEO萨姆·奥尔特曼在企业活动中提出AI产品演进三阶段理论，并明确指出“主动式AI（Proactive AI）”是继聊天机器人与AI智能体后的下一个行业爆发点。该系统旨在后台持续运行，主动为用户完成任务，无需用户主动发起指令。针对当前产品碎片化及用户学习成本高的问题，OpenAI正研发整合型平台，将Codex智能体能力与ChatGPT及各类工具深度融合。奥尔特曼强调，面对企业日益关注的AI成本与部署难题，主动式AI将通过融入工作场景降低使用门槛。这一愿景要求企业重新设计IT架构，以应对持续运行系统在数据安全、权限控制及算力分配上的更高要求。奥尔特曼认为，从被动响应转向主动服务是AI发展的必然趋势，将推动企业工作方式与基础设施的深层变革。",
-    "发布日期": "2026-06-05",
-    "原文链接": "https://www.aibase.com/zh/news/28667",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9af407efd777c8ea7d719a4be0a1cd13.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9af407efd777c8ea7d719a4be0a1cd13.jpg",
-    "配图仓库路径": "assets/news_images/9af407efd777c8ea7d719a4be0a1cd13.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0605/6391624791888333094667915.png"
+    "资讯标题": "OpenAI宣布支持特朗普AI行政令，承诺在模型发布前接受政府安全评估",
+    "内容": "OpenAI负责各国事务的负责人乔治·奥斯本近日明确表态，公司将遵守美国总统特朗普签署的人工智能模型发布前审查行政命令，并参与相关评估流程。根据该行政命令，联邦政府可在模型正式发布前30天获取访问权限，企业需参与基准测试，以评估模型在网络能力等方面的先进程度，从而界定其是否属于受监管的前沿模型。奥斯本在伦敦SXSW活动期间强调，OpenAI对自身责任高度重视，不会被动等待监管要求，而是主动向各国政府提供建议，推动建立强有力且具备灵活性的监管机构。此举标志着OpenAI在面对美国联邦政府强化审查压力时，选择以积极合作姿态回应，旨在平衡前沿AI技术创新与国家安全监管需求。该政策的实施将为大模型的能力设定最低监管门槛，对行业内前沿模型的发布流程与合规标准产生直接影响。",
+    "发布日期": "2026-06-06",
+    "原文链接": "https://www.aibase.com/zh/news/28704",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
   },
   {
-    "资讯标题": "Ideogram 4.0开源发布：93亿参数模型强化文字生成与版式控制",
-    "内容": "Ideogram于6月3日正式开源发布文生图模型Ideogram 4.0，该模型参数规模达93亿（9.3B），在DesignArena榜单中位列全球第四。技术架构上，Ideogram 4.0采用单流（Single-Stream）架构，集成Qwen3-VL-8B-Instruct文本编码器、34层可训练DiT、Euler Flow Matching采样器及KL自动编码器。模型核心优势在于文字渲染与版式控制，通过引入对象与文本边界框（Bounding Box）及结构化JSON字幕数据训练，显著提升了长文本生成准确度及空间布局可控性。该模型在海报设计、品牌视觉及营销素材生成等场景表现突出，解决了传统模型常见的拼写错误问题。目前，Ideogram 4.0已在GitHub开源，为开发者提供高精度视觉内容创作工具，成为当前",
-    "发布日期": "2026-06-05",
-    "原文链接": "https://www.aibase.com/zh/news/28671",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/eeb08c88bef20444f5712641bae53d9b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/eeb08c88bef20444f5712641bae53d9b.jpg",
-    "配图仓库路径": "assets/news_images/eeb08c88bef20444f5712641bae53d9b.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0605/6391625129341169206216808.jpg"
+    "资讯标题": "Cloudflare监测显示机器人流量占比超57%，互联网或将全面转向付费抓取模式",
+    "内容": "Cloudflare监测数据显示，互联网机器人与AI智能体流量已正式超越人类活动流量，占比达到57.4%，这一流量逆转节点较预期提前到来。Cloudflare CEO马修·普林斯指出，该趋势不可逆转，未来互联网生态将全面转向“付费抓取”模式。为应对这一格局剧变，Cloudflare正全力开发全新的底层基础设施与协议，旨在支撑未来高频结算与流量控制需求，帮助网站所有者将自动化访问转化为商业变现机遇。此前Cloudflare曾推出允许网站拦截并对AI爬虫收费的服务平台，但受限于生态配套，应用尚不广泛。随着谷歌AI概述等功能普及，用户获取信息方式正从传统网页浏览向AI总结转变，网站所有者需转变对抗思维，利用基础设施升级迎接新的流量生态。",
+    "发布日期": "2026-06-06",
+    "原文链接": "https://www.aibase.com/zh/news/28689",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e36765e1131c7c20912db2cc8090cc2a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e36765e1131c7c20912db2cc8090cc2a.jpg",
+    "配图仓库路径": "assets/news_images/e36765e1131c7c20912db2cc8090cc2a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0605/6391626911808494872614295.png"
   },
   {
-    "资讯标题": "Anthropic与美国国家安全局合作，部署Claude Mythos大模型开展网络攻防",
-    "内容": "Anthropic近日与美国国家安全局（NSA）达成深度合作，向其部署高性能Claude Mythos大模型以支持进攻性网络作战。Anthropic已派遣约六名技术工程师驻场，负责该模型的落地使用及针对作战需求的深度定制与调优。Claude Mythos具备自主发现并利用软件漏洞的能力，其授权范围已从4月首发的少数美国机构，拓展至全球15个国家的150家机构。Anthropic内部人士对此辩称，掌握先进攻击技术是构建防御体系的必要路径。目前，Anthropic正因拒绝将Claude系列模型用于大规模监控及研发致命自主无人机，与美国国防部陷入司法诉讼，并被列入供应链风险清单。尽管面临合规压力与法律纠纷，Anthropic仍未放缓商业化进程，正处于筹备IPO的关键阶段，目标估值有望突破1万亿美元，显示出AI在国家安",
-    "发布日期": "2026-06-05",
-    "原文链接": "https://www.aibase.com/zh/news/28668",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/008796e3ace60d3e601fc0d626b0b325.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/008796e3ace60d3e601fc0d626b0b325.jpg",
-    "配图仓库路径": "assets/news_images/008796e3ace60d3e601fc0d626b0b325.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504021143521790_2.jpg"
+    "资讯标题": "Anthropic发布递归自我改进警告，呼吁全球放缓前沿AI研发步伐",
+    "内容": "Anthropic于6月4日发布文章《当AI构建自身》，披露AI在代码编写与自我改进方面的进展，并呼吁全球放缓前沿AI研发。数据显示，截至2026年5月，Anthropic代码库中超80%代码由Claude自主编写，工程师代码交付量较2024年同期增长8倍。在模型训练优化中，Claude的加速能力已提升至52倍，故障修复效率远超人类。Anthropic警告，AI正逼近“递归自我改进”阶段，即在无人类介入下自主升级，若不对齐可能导致人类失去控制。公司建议建立全球协调机制，在必要时主动放慢研发以留出对齐研究时间。尽管Anthropic已启动IPO筹备，年化收入突破470亿美元，但此次公开表态折射出其对AI失控风险的深层忧虑，并指出秘密违约的商业诱惑使全球监管落地面临巨大挑战。",
+    "发布日期": "2026-06-06",
+    "原文链接": "https://www.aibase.com/zh/news/28692",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
   }
 ]
