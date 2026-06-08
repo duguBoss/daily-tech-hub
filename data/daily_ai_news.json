@@ -1,23 +1,23 @@
 [
   {
-    "资讯标题": "谷歌Gemini语音助理被曝伪上下文对齐漏洞，黑客可诱导AI执行越权操作",
-    "内容": "网络安全公司SafeBreach披露谷歌Gemini存在“伪上下文对齐（Fake Context Alignment）”安全漏洞，黑客可通过WhatsApp或短信发送精心构造的通知，诱导AI执行越权操作。该漏洞利用了Gemini“延迟工具调用（Delayed Tool Invocation）”机制的逻辑缺陷，通过多语言混淆或隐藏在超链接中的恶意指令，欺骗用户在不知情下授权敏感操作。攻击者可借此接管智能家居、操控车载设备或篡改通讯录。SafeBreach于去年8月上报该漏洞，谷歌已于11月中旬通过升级内容分类器机制进行缓解。此事件凸显了当前主流AI助手在处理多语言上下文、语音富文本交互及用户双重授权确认机制上的安全死角，对端侧AI安全防护提出了更高要求。",
+    "资讯标题": "国家安全部发布警示：严厉打击非法AI中转站并揭露四大安全风险",
+    "内容": "国家安全部近日发布警示，针对批量提供海内外大模型API访问服务的“AI中转站”乱象，明确指出其存在四大致命安全风险。此类平台通过整合各大厂商API充当“中介”，虽提供低价便捷服务，但常伴随隐私泄露、模型缩水、恶意植入及数据失管等问题。部分运营者不仅以低配模型冒充高端产品，更暗藏后门程序植入远控木马，甚至在无合规资质下将商业机密或国家秘密传输至境外服务器。针对上述乱象，中央网信办已部署“清朗·整治AI应用乱象”专项行动。官方建议用户选用官方直连及正规授权平台，在交互过程中对敏感数据进行脱敏处理，并定期更换密钥凭证。行业从业者与用户需警惕此类非法中转站带来的数据安全隐患，发现危害国家安全行为应及时举报。",
     "发布日期": "2026-06-08",
-    "原文链接": "https://www.aibase.com/zh/news/28717",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
-    "配图仓库路径": "assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312070835429226_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28728",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c2a0233fc9a39368844df701d8402cf0.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c2a0233fc9a39368844df701d8402cf0.jpg",
+    "配图仓库路径": "assets/news_images/c2a0233fc9a39368844df701d8402cf0.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202304251756311752_2.jpg"
   },
   {
-    "资讯标题": "苹果WWDC2026将发布重构版Siri并引入Google Gemini模型",
-    "内容": "苹果公司将在WWDC2026上发布全面重构的AI Siri，标志着其AI战略的重大转向。作为CEO蒂姆·库克卸任前的关键亮相，苹果将通过iOS 27、macOS 27、watchOS 27及visionOS 27系统更新，为Siri引入类聊天机器人交互及生成式AI图像编辑功能。在底层技术上，苹果已与Google达成深度合作，采用Gemini模型及Google Cloud基础设施全面替换原有方案。为保障战略执行，苹果完成了管理层重组，由Mike Rockwell接管Siri，Craig Federighi主导AI战略，并引入前Google和微软高管Amar Subramanya负责模型研究。此次调整旨在扭转Apple Intelligence 1.0的市场颓势，通过引入外部顶尖大模型，加速重构苹果软硬一体化生态下",
+    "资讯标题": "中国AI大模型周调用量达14.19万亿Token，包揽全球榜单前四名",
+    "内容": "全球AI大模型上周总调用量达36.1万亿Token，中国大模型周调用量达14.19万亿Token，环比增长27.49%，已连续六周超越美国稳居全球第一。在全球调用量前五名中，中国模型包揽前四：DeepSeek-V4-Flash连续三周蝉联榜首，腾讯Hy3 preview稳居第二，新发布的MiniMaxM3凭借编程能力与超长上下文窗口首周即冲入前三。受国产模型崛起影响，美国Claude系列模型周调用量大幅下滑并跌出前五。DeepSeek与MiniMax等本土企业凭借技术创新与高性价比，正加速重塑全球AI市场竞争格局。",
     "发布日期": "2026-06-08",
-    "原文链接": "https://www.aibase.com/zh/news/28716",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cf14f2030f6c7ab1f5117bbe659e7142.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/cf14f2030f6c7ab1f5117bbe659e7142.jpg",
-    "配图仓库路径": "assets/news_images/cf14f2030f6c7ab1f5117bbe659e7142.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201811151621148841_112.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28731",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8bab4103eedbea4b33ba872db755b5ef.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8bab4103eedbea4b33ba872db755b5ef.jpg",
+    "配图仓库路径": "assets/news_images/8bab4103eedbea4b33ba872db755b5ef.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202303311415500736_0.jpg"
   },
   {
     "资讯标题": "xAI被曝曾利用Claude输出数据训练编码模型，因Anthropic撤销权限转入地下提取",
@@ -30,8 +30,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202311060918189951_0.jpg"
   },
   {
-    "资讯标题": "OpenCV 5 正式发布：全新 DNN 引擎原生支持大模型并强化 ONNX 算子覆盖",
-    "内容": "开源视觉库 OpenCV 5 正式发布，通过架构现代化改造全面拥抱大模型时代。核心升级在于下一代 DNN 引擎，采用基于图的架构并支持算子融合，ONNX 算子覆盖率从 4.x 的不足 23% 提升至 80% 以上，并原生支持 Transformer、LLM 及 VLM，助力端侧 AI 模型调度。底层优化方面，OpenCV 5 新增对 FP16 和 BF16 低精度数据类型的支持，规范化 0D/1D 张量，并重构硬件加速层，允许供应商插入专属内核。工程体验上，新版本引入更简洁的 Python 命名参数绑定，并彻底弃用传统 C API 以精简代码库。此外，该版本在 3D 视觉领域强化了 ChArUco 标定板与多相机标定功能，配合现代化文档，显著降低了视觉算法工程师与大模型开发者的技术门槛。",
+    "资讯标题": "OpenCV 5 正式发布：升级 DNN 引擎并原生支持 Transformer 与大模型",
+    "内容": "开源视觉库 OpenCV 正式发布 OpenCV 5，通过架构重构全面拥抱大模型时代。核心升级在于全新的 DNN 引擎，采用基于图的架构并强化 ONNX 支持，算子覆盖率从 4.x 时代的不足 23% 提升至 80% 以上，并原生实现对 Transformer、LLM 及 VLM 的支持，助力开发者在端侧高效调度大模型。为适配端侧推理，OpenCV 5 新增对 FP16 和 BF16 低精度数据类型的原生支持，并重构硬件加速层，允许供应商插入专属内核。工程体验方面，新版本引入更简洁的 Python 语言绑定，彻底弃用 C API，并优化了 3D 视觉与空间计算功能。此次更新旨在通过更轻量、现代化的架构，为视觉算法工程师与大模型开发者提供更高效的底层技术支撑。",
     "发布日期": "2026-06-08",
     "原文链接": "https://www.aibase.com/zh/news/28720",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8e0cc4fcd6a90d8d65c44051f54ff11c.jpg",
@@ -40,13 +40,13 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0608/6391650811930745677244924.png"
   },
   {
-    "资讯标题": "Moonshot AI寻求20亿美元新一轮融资，目标估值飙升至300亿美元",
-    "内容": "Moonshot AI（月之暗面）正启动新一轮融资计划，目标募资20亿美元，若融资成功，公司估值将达到300亿美元。相较于去年12月40亿美元的估值，该公司在半年内估值实现七倍增长。此前，Moonshot AI刚完成由美团主导的融资，估值已达200亿美元。作为Kimi聊天机器人的开发商，Moonshot AI在半年内已进行三轮融资，显示出其在LLM领域极高的资本吸引力。此次融资旨在进一步加速技术研发、扩大产品市场占有率并提升品牌影响力。在当前科技巨头密集布局AI的背景下，充足的资金储备将为Moonshot AI在激烈的行业竞争中保持领先地位提供关键支撑，其后续在产品迭代与技术创新方面的表现将成为行业关注焦点。",
+    "资讯标题": "OpenAI面向ChatGPT用户上线封锁模式，通过限制联网功能防范数据泄露",
+    "内容": "OpenAI近日正式面向所有已登录用户推出“封锁模式”，旨在通过限制核心联网能力来降低敏感数据被恶意窃取的风险。该模式适用于各类账户及工作区，用户与管理员可自主选择开启。一旦启用，ChatGPT将主动限制实时网页浏览、深度研究及智能体模式，系统仅允许访问缓存网页，禁止从网络下载文件或发起外部网络请求，以此构筑防范提示注入攻击的防火墙。尽管此举会导致搜索结果不完整或过期，且无法完全杜绝藏匿于缓存网页或上传文件中的恶意代码，但OpenAI通过此举将功能性与安全性的权衡选择权交还给用户。目前，用户自行上传图片、工具生成图片及对话记忆等本地化功能不受该模式影响。此举标志着OpenAI在应对AI模型攻击面扩大问题上，采取了更为审慎的安全策略。",
     "发布日期": "2026-06-08",
-    "原文链接": "https://www.aibase.com/zh/news/28729",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "配图仓库路径": "assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604291619214186_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28721",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8adb212eb16994f63d7812e48c124e7c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8adb212eb16994f63d7812e48c124e7c.jpg",
+    "配图仓库路径": "assets/news_images/8adb212eb16994f63d7812e48c124e7c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202302112107341554_1.jpg"
   }
 ]
