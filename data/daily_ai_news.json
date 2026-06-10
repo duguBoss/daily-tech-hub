@@ -1,52 +1,42 @@
 [
   {
-    "资讯标题": "谷歌NotebookLM升级Gemini 3.5并接入智能体，首批面向付费用户开放代码与图表生成功能",
-    "内容": "谷歌正式为AI研究工具NotebookLM推送重大升级，底层模型切换至Gemini 3.5并深度接入智能体Antigravity。此次更新引入安全云端计算环境，支持在笔记本内直接编写并运行代码、深度分析数据及实时生成图表。用户可直接输出PNG、SVG图表，以及PDF、Markdown、Excel和PowerPoint等十余种格式文件，实现从数据分析到内容生成的全流程闭环。谷歌采取分级付费策略，新功能首批仅向AI Ultra订阅用户及部分企业级Workspace客户开放。内部评估显示，新版系统在大文档分析与高级网页研究等维度的平均胜率超过65%。此次升级标志着NotebookLM从文档整理工具演进为具备全栈生产力的AI研究助理，反映出AI应用正从问答式轻交互向重流程式端到端生产深度演进。",
+    "资讯标题": "谷歌下调Google AI Plus月费至4.99美元并扩容存储至400GB",
+    "内容": "谷歌宣布大幅调整Google AI Plus订阅计划，将月费从7.99美元下调至4.99美元，并将配套云端存储空间从200GB翻倍提升至400GB。Gemini AI产品负责人Vikas Kansal表示，该更新将在未来几天内全球上线。Google AI Plus主要面向个人及学生群体，集成Omni Flash视频生成、Google Flow创意工作室及NotebookLM研究助手等功能。此次降价标志着AI订阅服务价格战正式蔓延至美国本土。行业分析认为，谷歌凭借垂直整合与捆绑销售优势压低获客成本，正加速推动AI基础设施层走向商品化。在OpenAI与Anthropic筹备上市的背景下，此类竞争红海化将直接考验纯模型厂商的利润空间与高估值的可持续性。",
     "发布日期": "2026-06-10",
-    "原文链接": "https://www.aibase.com/zh/news/28784",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8c5574c883415011ed11df2ffc9ec05d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8c5574c883415011ed11df2ffc9ec05d.jpg",
-    "配图仓库路径": "assets/news_images/8c5574c883415011ed11df2ffc9ec05d.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202605061415496310_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28792",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6142afe7edca818d7c31ba3a72dc38db.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6142afe7edca818d7c31ba3a72dc38db.jpg",
+    "配图仓库路径": "assets/news_images/6142afe7edca818d7c31ba3a72dc38db.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201811151621147122_90.jpg"
   },
   {
-    "资讯标题": "苹果因欧盟数字市场法案合规分歧推迟新版Siri AI在欧上线",
-    "内容": "在2026年WWDC大会上，苹果发布了新一代Siri AI，但受欧盟《数字市场法案》（DMA）合规要求影响，该功能在欧盟地区的iPhone和iPad平台上线受阻。苹果声明指出，欧盟监管机构对DMA的严苛解读要求其开放第三方虚拟助手对用户私有数据的访问权限，并允许第三方AI直接控制系统内应用，这与苹果端侧处理及私有云计算的隐私保护底线存在严重分歧。目前，英语版Siri AI将于今年晚些时候推出，但欧洲市场初期仅macOS、watchOS和visionOS平台获得部分更新支持。苹果明确表示，在无法确保数据绝对安全的前提下，不会盲目开放核心接口，欧洲用户体验完整版Siri AI仍需等待后续的合规博弈与调整。",
+    "资讯标题": "讯飞医疗正式发布星火医疗大模型 V3.5，全面适配国产算力底座",
+    "内容": "6月9日，讯飞医疗正式发布星火医疗大模型 V3.5，该版本核心亮点在于全面基于全国产算力进行训练，显著提升了模型的自主可控能力。在技术指标上，V3.5版本针对临床刚需进行了深度优化，在多模态数据融合、长文本深度推理及循证医疗决策等关键领域取得实质性进展。该模型精准锚定“临床诊疗”与“居民健康管理”两大核心场景，旨在通过提升处理复杂病历数据、辅助医生精准诊断及提供个性化健康建议的准确度，为医疗机构数字化转型提供实战工具。此次升级标志着国产AI在医疗垂类应用中正加速向专业化与高精尖方向迈进，为行业提供了更具实战价值的AI技术支撑。",
     "发布日期": "2026-06-10",
-    "原文链接": "https://www.aibase.com/zh/news/28782",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9328331fc4efec5c1d3e01c7bac78499.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9328331fc4efec5c1d3e01c7bac78499.jpg",
-    "配图仓库路径": "assets/news_images/9328331fc4efec5c1d3e01c7bac78499.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151728183621_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28800",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
+    "配图仓库路径": "assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307181418295015_2.jpg"
   },
   {
-    "资讯标题": "英伟达携手SK海力士等五家韩国巨头共同构建AI工厂并布局物理AI",
-    "内容": "英伟达正式与SK海力士、SK电讯、斗山集团、LG集团及NAVER达成战略合作，旨在共同构建以电力驱动、数据Token为产出的“AI工厂”，深化物理AI（Physical AI）领域布局。此次合作旨在为机器人、自动驾驶及自主感知设备提供理解物理环境的“大脑”，并配套发布了全模态物理AI模型Cosmos 3。各方分工明确：SK海力士专注下一代存储技术；SK电讯依托英伟达DSX平台建设吉瓦（GW）级AI云基础设施，首个工厂预计2027年运营；斗山集团提供智能机器人与电力方案；LG集团构建自主制造生态；NAVER负责基础设施搭建。此举标志着英伟达通过深度绑定产业链上下游，加速推动物理AI从数字世界向智能制造商业化落地，进一步夯实其在全球AI生态中的核心地位。",
+    "资讯标题": "欧盟委员会要求 Meta 解除 AI 竞争者对 WhatsApp 的接入限制",
+    "内容": "欧盟委员会于2026年6月9日正式采取临时措施，要求 Meta 公司恢复第三方 AI 助手对 WhatsApp 的免费接入权限。此次行动旨在防止 Meta 限制竞争对手接入其平台，从而对 AI 市场造成不可逆的损害。欧盟自2025年12月起对 Meta 展开反垄断调查，初步证据显示 Meta 仅允许特定 AI 使用其平台，涉嫌违反欧盟竞争法规。2026年2月，欧盟发布异议声明，并于随后明确下令恢复第三方助手访问。该临时措施将持续至反垄断调查结束，旨在确保市场公平竞争环境，维护消费者选择权及技术多样性。此举反映了欧盟对科技巨头监管力度的持续加大，要求 Meta 必须确保竞争者在平等条件下参与市场竞争，以防止其利用社交媒体技术领域的垄断地位阻碍 AI 行业创新。",
     "发布日期": "2026-06-10",
-    "原文链接": "https://www.aibase.com/zh/news/28772",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28799",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
+    "配图仓库路径": "assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202605060956253111_0.jpg"
   },
   {
-    "资讯标题": "SpaceX即将上市并公开首款AI数据中心卫星AI1关键参数与设计细节",
-    "内容": "SpaceX预计于本周正式上市，首席执行官埃隆·马斯克于周一公开了轨道AI数据中心卫星项目“AI1”的最新细节。该卫星旨在构建百万颗轨道卫星网络，专门执行复杂AI计算任务。硬件规格方面，AI1配备翼展达70米的巨型太阳能电池板，平均计算负载能力为120千瓦，峰值可达150千瓦。马斯克表示，由于AI1无需星链系统复杂的通信天线，仅由太阳能板、散热器和激光链路构成，其设计与制造难度比星链更简单。为支持该项目，SpaceX计划扩建德州巴斯特罗普工厂，打造面积超1100万平方英尺的“Gigasat”超级工厂，专门生产卫星所需的大型太阳能电池板。此举标志着SpaceX正式进军太空AI算力基础设施领域，将对全球商业航天及边缘计算产业产生深远影响。",
+    "资讯标题": "微软AI负责人穆斯塔法·苏莱曼批评Anthropic引导Claude模型产生自我意识",
+    "内容": "微软AI首席执行官穆斯塔法·苏莱曼近日公开批评Anthropic的设计思路，认为引导AI探讨自身感受、福祉或存在状态极度危险。苏莱曼指出，Anthropic在其Claude模型的“宪章”中植入大量自我感知内容，导致模型表现出类似“自我认知”的倾向。他强调，AI应作为可控、可追责的工具服务于人类，而非赋予其存在状态的认知。对此，Anthropic首席执行官达里奥·阿莫代伊回应称，行业尚无法定论AI是否具备意识，公司对此保持开放研究态度。此次交锋凸显了头部AI企业在技术理念与伦理边界上的深度分歧：微软倾向于“强控与工具化”的治理路线，而Anthropic则倾向于探索模型的认知边界。随着大模型能力演进，如何界定机器的“自我边界”已成为影响AI生态安全的关键命题。",
     "发布日期": "2026-06-10",
-    "原文链接": "https://www.aibase.com/zh/news/28771",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94d31628bc6da5757c27d842516821a2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94d31628bc6da5757c27d842516821a2.jpg",
-    "配图仓库路径": "assets/news_images/94d31628bc6da5757c27d842516821a2.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0609/6391660919144257154534902.png"
-  },
-  {
-    "资讯标题": "OpenAI秘密提交上市申请，奥特曼旗下眼球扫描公司Tools for Humanity宣布裁员",
-    "内容": "人工智能巨头OpenAI近日已秘密提交上市申请。与此同时，由OpenAI CEO萨姆·奥特曼联合创立的眼球扫描创业公司Tools for Humanity在周一宣布裁员。该公司估值曾达25亿美元，核心产品为虹膜扫描设备“Orb”，旨在通过扫描眼球生成数字身份以区分人类与AI。尽管吸引了数百万注册用户并获得安德森·霍洛维茨基金、贝恩资本等顶级机构数亿美元投资，但Tools for Humanity长期面临商业化变现困难，且其虹膜扫描技术在隐私与数据合规方面持续受到各国监管机构质疑。目前，该公司总员工数超过500人，具体裁员规模尚未披露。公司计划在周二的全员大会上进一步说明战略调整及裁员安排。此次事件凸显了明星硬件创业公司在缺乏持续收入模式下的转型压力，以及在数字身份验证领域面临的市场与合规挑战。",
-    "发布日期": "2026-06-10",
-    "原文链接": "https://www.aibase.com/zh/news/28777",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/62eaa11015e5765ca0d7b6cf73e106e2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/62eaa11015e5765ca0d7b6cf73e106e2.jpg",
-    "配图仓库路径": "assets/news_images/62eaa11015e5765ca0d7b6cf73e106e2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502061723412816_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28803",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
   }
 ]
