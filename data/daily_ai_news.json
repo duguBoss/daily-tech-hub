@@ -1,7 +1,17 @@
 [
   {
-    "资讯标题": "谷歌下调Google AI Plus月费至4.99美元并扩容存储至400GB",
-    "内容": "谷歌宣布大幅调整Google AI Plus订阅计划，将月费从7.99美元下调至4.99美元，并将配套云端存储空间从200GB翻倍提升至400GB。Gemini AI产品负责人Vikas Kansal表示，该更新将在未来几天内全球上线。Google AI Plus主要面向个人及学生群体，集成Omni Flash视频生成、Google Flow创意工作室及NotebookLM研究助手等功能。此次降价标志着AI订阅服务价格战正式蔓延至美国本土。行业分析认为，谷歌凭借垂直整合与捆绑销售优势压低获客成本，正加速推动AI基础设施层走向商品化。在OpenAI与Anthropic筹备上市的背景下，此类竞争红海化将直接考验纯模型厂商的利润空间与高估值的可持续性。",
+    "资讯标题": "谷歌宣布今年夏季向全球搜索用户免费开放AI模式交互式图表功能",
+    "内容": "谷歌官方宣布，此前仅限AI Mode Pro和Ultra订阅用户使用的“AI模式交互式可视化图表”功能，将于今年夏季全面向所有搜索用户免费开放。该技术基于谷歌去年底在Gemini中推出的交互式图像功能，并进一步拓展了交互式模拟与模型能力。用户在搜索特定主题（如足球阵型）时，AI模式不仅能生成可视化图表，还支持用户直接在图表上进行动态手动调节，以直观理解运作原理。此外，系统会在图表下方自动提供深度背景信息与知识延伸。谷歌表示，此举旨在通过“实践操作”降低学习门槛，让全球用户无需支付费用即可利用AI辅助深度探索与理解复杂概念，标志着谷歌搜索在交互式AI应用普及化进程中的重要一步。",
+    "发布日期": "2026-06-10",
+    "原文链接": "https://www.aibase.com/zh/news/28802",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3ef1c0b9f024b5ceb8e844b49cb993f6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3ef1c0b9f024b5ceb8e844b49cb993f6.jpg",
+    "配图仓库路径": "assets/news_images/3ef1c0b9f024b5ceb8e844b49cb993f6.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0610/6391668537294772395994869.jpg"
+  },
+  {
+    "资讯标题": "谷歌下调Google AI Plus月费至4.99美元并扩容存储空间至400GB",
+    "内容": "谷歌宣布下调Google AI Plus订阅计划月费，由7.99美元降至4.99美元，并将云端存储空间从200GB翻倍提升至400GB。Gemini AI产品负责人Vikas Kansal表示，该更新将在未来几天内全球上线。Google AI Plus于今年1月推出，面向个人及学生群体，集成Omni Flash视频生成、Google Flow创意工作室及NotebookLM研究助手等功能。此次降价标志着AI订阅服务价格战正式蔓延至美国本土。行业分析认为，谷歌凭借垂直整合与捆绑销售优势压低获客成本，正加速推动人工智能基础设施层走向商品化。在OpenAI与Anthropic筹备上市的背景下，此类竞争红海化将直接考验纯模型厂商的高估值可持续性，行业利润空间面临进一步挤压。",
     "发布日期": "2026-06-10",
     "原文链接": "https://www.aibase.com/zh/news/28792",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6142afe7edca818d7c31ba3a72dc38db.jpg",
@@ -11,7 +21,7 @@
   },
   {
     "资讯标题": "讯飞医疗正式发布星火医疗大模型 V3.5，全面适配国产算力底座",
-    "内容": "6月9日，讯飞医疗正式发布星火医疗大模型 V3.5，该版本核心亮点在于全面基于全国产算力进行训练，显著提升了模型的自主可控能力。在技术指标上，V3.5版本针对临床刚需进行了深度优化，在多模态数据融合、长文本深度推理及循证医疗决策等关键领域取得实质性进展。该模型精准锚定“临床诊疗”与“居民健康管理”两大核心场景，旨在通过提升处理复杂病历数据、辅助医生精准诊断及提供个性化健康建议的准确度，为医疗机构数字化转型提供实战工具。此次升级标志着国产AI在医疗垂类应用中正加速向专业化与高精尖方向迈进，为行业提供了更具实战价值的AI技术支撑。",
+    "内容": "6月9日，讯飞医疗正式发布星火医疗大模型 V3.5。该版本核心亮点在于全面基于全国产算力进行训练，显著提升了模型的自主可控能力。在技术层面，V3.5版本针对临床刚需进行了深度优化，在多模态数据融合、长文本深度推理及循证医疗决策等关键指标上取得实质性进展。模型精准锚定“临床诊疗”与“居民健康管理”两大核心场景，旨在辅助医生处理复杂病历数据、提升诊断精准度，并为患者提供个性化健康建议。此次升级标志着国产医疗 AI 在专业化与高精尖方向的进一步突破，为医疗机构数字化转型提供了更具实战价值的工具，推动 AI 技术在医疗垂类应用中向深水区迈进。",
     "发布日期": "2026-06-10",
     "原文链接": "https://www.aibase.com/zh/news/28800",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
@@ -20,23 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307181418295015_2.jpg"
   },
   {
-    "资讯标题": "欧盟委员会要求 Meta 解除 AI 竞争者对 WhatsApp 的接入限制",
-    "内容": "欧盟委员会于2026年6月9日正式采取临时措施，要求 Meta 公司恢复第三方 AI 助手对 WhatsApp 的免费接入权限。此次行动旨在防止 Meta 限制竞争对手接入其平台，从而对 AI 市场造成不可逆的损害。欧盟自2025年12月起对 Meta 展开反垄断调查，初步证据显示 Meta 仅允许特定 AI 使用其平台，涉嫌违反欧盟竞争法规。2026年2月，欧盟发布异议声明，并于随后明确下令恢复第三方助手访问。该临时措施将持续至反垄断调查结束，旨在确保市场公平竞争环境，维护消费者选择权及技术多样性。此举反映了欧盟对科技巨头监管力度的持续加大，要求 Meta 必须确保竞争者在平等条件下参与市场竞争，以防止其利用社交媒体技术领域的垄断地位阻碍 AI 行业创新。",
+    "资讯标题": "腾讯光子发布Light AI游戏资产生成平台，打通工业化生产管线",
+    "内容": "6月5日，腾讯光子工作室群在2026腾讯云AI产业应用大会上，首次披露了内部研发4年的Light AI（光子LAP游戏资产智能体）。该平台旨在解决当前AI游戏生产中“单点玩具化”与“协作作坊化”的痛点，通过构建标准化流水线，实现从2D生成到3D资产制作的无缝衔接。Light AI采用“无限画布”节点可视化方式，支持多人协作，并内置“智能中枢”Agent，用户可通过自然语言指令自动拆解任务。平台核心优势在于格式统一、Game Ready资产交付及经验沉淀，能将资产制作周期从周/月压缩至天级别。此外，平台搭载基于光子3A级制作经验的Skill市场，覆盖IP孵化、资产量产及评审等全生命周期。目前，Light AI已开启Early Access内测申请，旨在为独立开发者及中小型团队提供专业级生产力工具，预计数月后正式面",
     "发布日期": "2026-06-10",
-    "原文链接": "https://www.aibase.com/zh/news/28799",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
-    "配图仓库路径": "assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202605060956253111_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28806",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c06977463055ddfa4f5f844a7efc4eff.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c06977463055ddfa4f5f844a7efc4eff.jpg",
+    "配图仓库路径": "assets/news_images/c06977463055ddfa4f5f844a7efc4eff.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0610/6391668797990591207848623.png"
   },
   {
-    "资讯标题": "微软AI负责人穆斯塔法·苏莱曼批评Anthropic引导Claude模型产生自我意识",
-    "内容": "微软AI首席执行官穆斯塔法·苏莱曼近日公开批评Anthropic的设计思路，认为引导AI探讨自身感受、福祉或存在状态极度危险。苏莱曼指出，Anthropic在其Claude模型的“宪章”中植入大量自我感知内容，导致模型表现出类似“自我认知”的倾向。他强调，AI应作为可控、可追责的工具服务于人类，而非赋予其存在状态的认知。对此，Anthropic首席执行官达里奥·阿莫代伊回应称，行业尚无法定论AI是否具备意识，公司对此保持开放研究态度。此次交锋凸显了头部AI企业在技术理念与伦理边界上的深度分歧：微软倾向于“强控与工具化”的治理路线，而Anthropic则倾向于探索模型的认知边界。随着大模型能力演进，如何界定机器的“自我边界”已成为影响AI生态安全的关键命题。",
+    "资讯标题": "Anthropic正式发布Claude Mythos系列Fable5模型并开启分级过滤机制",
+    "内容": "Anthropic于6月10日正式面向公众推出Claude Mythos系列Fable5模型。该模型此前因网络安全考量仅限内部测试，此次发布引入了分级过滤机制，针对网络安全、生物及化学等敏感领域查询，系统会自动重定向至低阶模型处理。伴随大众版发布，Anthropic向Project Glasswing计划中的约200家全球政企合作伙伴提供无限制的高阶版本。美国政府已建立常态化机制，对该模型进行关键基础设施漏洞识别能力的安全审查。受算力成本激增影响，Fable5收费标准较前代翻倍，Anthropic目前需向xAI支付高额数据中心租赁费用。在行业竞争加剧背景下，Anthropic已提交IPO计划，标志着AI领域商业竞争进入新阶段。",
     "发布日期": "2026-06-10",
-    "原文链接": "https://www.aibase.com/zh/news/28803",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28804",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
   }
 ]
