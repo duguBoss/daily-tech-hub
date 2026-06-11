@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌宣布今年夏季向全球搜索用户免费开放AI模式交互式图表功能",
-    "内容": "谷歌官方宣布，此前仅限AI Mode Pro和Ultra订阅用户使用的“AI模式交互式可视化图表”功能，将于今年夏季全面向所有搜索用户免费开放。该技术基于谷歌去年底在Gemini中推出的交互式图像功能，并进一步拓展了交互式模拟与模型能力。用户在搜索特定主题（如足球阵型）时，AI模式不仅能生成可视化图表，还支持用户直接在图表上进行动态手动调节，以直观理解运作原理。此外，系统会在图表下方自动提供深度背景信息与知识延伸。谷歌表示，此举旨在通过“实践操作”降低学习门槛，让全球用户无需支付费用即可利用AI辅助深度探索与理解复杂概念，标志着谷歌搜索在交互式AI应用普及化进程中的重要一步。",
-    "发布日期": "2026-06-10",
-    "原文链接": "https://www.aibase.com/zh/news/28802",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3ef1c0b9f024b5ceb8e844b49cb993f6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3ef1c0b9f024b5ceb8e844b49cb993f6.jpg",
-    "配图仓库路径": "assets/news_images/3ef1c0b9f024b5ceb8e844b49cb993f6.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0610/6391668537294772395994869.jpg"
+    "资讯标题": "阿里巴巴千问发布国内首个全周期高考志愿填报Agent并免费开放",
+    "内容": "2026年6月10日，阿里巴巴千问正式上线国内首个全周期高考志愿填报Agent，面向全国考生免费提供个性化咨询服务。该Agent基于千问高考志愿大模型，深度融合夸克8年高考数据经验，具备“志愿日历”、“志愿报告”和“志愿问答”三大核心能力。系统不仅掌握“位次法定位”等专业填报方法，还能结合历年录取数据与用户选科估分，提供精准规划建议。升级后的“志愿报告”新增就业前景、考公考编及AI趋势等前沿数据，问答功能支持跨年份分数估算并引入自我检查机制。在工程端，该Agent针对老旧机型与弱网乡村环境进行了专项优化，协同“暖芒公益”计划，旨在打破优质教育咨询资源的地域与经济壁垒。此举标志着AI Agent在垂直民生领域的深度落地，为大模型赋能社会公共服务提供了典型范式。",
+    "发布日期": "2026-06-11",
+    "原文链接": "https://www.aibase.com/zh/news/28816",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/010b32fab106a9d5ac6a3b2c88d63d2a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/010b32fab106a9d5ac6a3b2c88d63d2a.jpg",
+    "配图仓库路径": "assets/news_images/010b32fab106a9d5ac6a3b2c88d63d2a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0610/6391670202034396171532898.jpg"
   },
   {
-    "资讯标题": "谷歌下调Google AI Plus月费至4.99美元并扩容存储空间至400GB",
-    "内容": "谷歌宣布下调Google AI Plus订阅计划月费，由7.99美元降至4.99美元，并将云端存储空间从200GB翻倍提升至400GB。Gemini AI产品负责人Vikas Kansal表示，该更新将在未来几天内全球上线。Google AI Plus于今年1月推出，面向个人及学生群体，集成Omni Flash视频生成、Google Flow创意工作室及NotebookLM研究助手等功能。此次降价标志着AI订阅服务价格战正式蔓延至美国本土。行业分析认为，谷歌凭借垂直整合与捆绑销售优势压低获客成本，正加速推动人工智能基础设施层走向商品化。在OpenAI与Anthropic筹备上市的背景下，此类竞争红海化将直接考验纯模型厂商的高估值可持续性，行业利润空间面临进一步挤压。",
-    "发布日期": "2026-06-10",
-    "原文链接": "https://www.aibase.com/zh/news/28792",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6142afe7edca818d7c31ba3a72dc38db.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6142afe7edca818d7c31ba3a72dc38db.jpg",
-    "配图仓库路径": "assets/news_images/6142afe7edca818d7c31ba3a72dc38db.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201811151621147122_90.jpg"
+    "资讯标题": "滴滴出行全面接入微信AI生态，支持通过自然语言指令直接叫车",
+    "内容": "滴滴出行今日正式宣布其核心网约车服务全面接入微信AI生态，用户无需跳转APP，在微信内通过自然语言即可完成叫车。该功能基于腾讯混元大模型与滴滴大数据及运力调度技术的深度耦合，系统可自动识别用户在微信智能体中输入的出行需求并实现一键下单。目前该功能已覆盖核心网约车业务，后续将逐步拓展至顺风车、代驾及货运等多元化场景。滴滴2026年第一季度财报显示，AI技术已成为业务增长的关键驱动力。此次合作通过将高频出行需求植入国民级社交平台，重构了服务交互模式，在优化用户出行体验的同时，有效提升了司机的接单效率，标志着出行行业正式迈入由AI深度驱动的变革新阶段。",
+    "发布日期": "2026-06-11",
+    "原文链接": "https://www.aibase.com/zh/news/28818",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d8f14b036faa84a6377d0f82e7fe2e28.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d8f14b036faa84a6377d0f82e7fe2e28.jpg",
+    "配图仓库路径": "assets/news_images/d8f14b036faa84a6377d0f82e7fe2e28.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621141653_20.jpg"
   },
   {
-    "资讯标题": "讯飞医疗正式发布星火医疗大模型 V3.5，全面适配国产算力底座",
-    "内容": "6月9日，讯飞医疗正式发布星火医疗大模型 V3.5。该版本核心亮点在于全面基于全国产算力进行训练，显著提升了模型的自主可控能力。在技术层面，V3.5版本针对临床刚需进行了深度优化，在多模态数据融合、长文本深度推理及循证医疗决策等关键指标上取得实质性进展。模型精准锚定“临床诊疗”与“居民健康管理”两大核心场景，旨在辅助医生处理复杂病历数据、提升诊断精准度，并为患者提供个性化健康建议。此次升级标志着国产医疗 AI 在专业化与高精尖方向的进一步突破，为医疗机构数字化转型提供了更具实战价值的工具，推动 AI 技术在医疗垂类应用中向深水区迈进。",
-    "发布日期": "2026-06-10",
-    "原文链接": "https://www.aibase.com/zh/news/28800",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
-    "配图仓库路径": "assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307181418295015_2.jpg"
+    "资讯标题": "摩尔线程发布并开源首个全链路自研代码大模型MusaCoder",
+    "内容": "摩尔线程正式发布并开源首个全链路自研代码大模型MusaCoder，这是业内首个完全基于国产全功能GPU底座完成全流程训练与验证的开源模型。该模型基于MTT S5000 GPU构建的“夸娥”智算集群完成Post-training，在KernelBench评测中，MusaCoder-27B-RL模型Overall Pass率达93.2%，平均分88.60%，性能超越Claude Opus 4.7、DeepSeek-V4 Pro等主流SOTA模型。MusaCoder的开源标志着国产算力生态在底层硬件到模型训练的完整范式上取得突破，开发者可利用该模型加速算子开发与模型训练。摩尔线程此前已完成对DeepSeek、Qwen等主流大模型的适配，此次发布旨在进一步释放国产全功能GPU的计算潜能，为行业提供更具自主性的AI研发工",
+    "发布日期": "2026-06-11",
+    "原文链接": "https://www.aibase.com/zh/news/28823",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f2d4ee089c57499e14b49376c6e75513.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f2d4ee089c57499e14b49376c6e75513.jpg",
+    "配图仓库路径": "assets/news_images/f2d4ee089c57499e14b49376c6e75513.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743155421_7.jpg"
   },
   {
-    "资讯标题": "腾讯光子发布Light AI游戏资产生成平台，打通工业化生产管线",
-    "内容": "6月5日，腾讯光子工作室群在2026腾讯云AI产业应用大会上，首次披露了内部研发4年的Light AI（光子LAP游戏资产智能体）。该平台旨在解决当前AI游戏生产中“单点玩具化”与“协作作坊化”的痛点，通过构建标准化流水线，实现从2D生成到3D资产制作的无缝衔接。Light AI采用“无限画布”节点可视化方式，支持多人协作，并内置“智能中枢”Agent，用户可通过自然语言指令自动拆解任务。平台核心优势在于格式统一、Game Ready资产交付及经验沉淀，能将资产制作周期从周/月压缩至天级别。此外，平台搭载基于光子3A级制作经验的Skill市场，覆盖IP孵化、资产量产及评审等全生命周期。目前，Light AI已开启Early Access内测申请，旨在为独立开发者及中小型团队提供专业级生产力工具，预计数月后正式面",
-    "发布日期": "2026-06-10",
-    "原文链接": "https://www.aibase.com/zh/news/28806",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c06977463055ddfa4f5f844a7efc4eff.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c06977463055ddfa4f5f844a7efc4eff.jpg",
-    "配图仓库路径": "assets/news_images/c06977463055ddfa4f5f844a7efc4eff.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0610/6391668797990591207848623.png"
+    "资讯标题": "字节跳动拆分AI制药业务启动独立融资并整合团队，仍保持控股权",
+    "内容": "字节跳动正式启动旗下AI制药业务的拆分与独立融资进程，拆分后字节跳动将继续保持对新公司的控股权。此次整合将核心团队、算法、技术平台及管线资产整体注入新主体，由刘凯负责，团队规模约50人，涵盖AI4S算法人才与资深制药专家。此前，字节内部蛋白结构预测模型团队已并入该业务线，完成了算法模型的深度整合。新公司将持续获得火山引擎的底层算力支持，继续推进基础模型研究与产业化落地。该业务团队成立于2021年，承担从基础模型研究到产业化落地的核心职能。此次独立运营标志着字节跳动AI4S业务从内部孵化迈向市场化，旨在优化资源配置并提升商业化效率，加速AI技术在生物医药领域的产业化进程。",
+    "发布日期": "2026-06-11",
+    "原文链接": "https://www.aibase.com/zh/news/28811",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/322294f33be68d3d0c10e184cd8905a0.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/322294f33be68d3d0c10e184cd8905a0.jpg",
+    "配图仓库路径": "assets/news_images/322294f33be68d3d0c10e184cd8905a0.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908052105504517_4.jpg"
   },
   {
-    "资讯标题": "Anthropic正式发布Claude Mythos系列Fable5模型并开启分级过滤机制",
-    "内容": "Anthropic于6月10日正式面向公众推出Claude Mythos系列Fable5模型。该模型此前因网络安全考量仅限内部测试，此次发布引入了分级过滤机制，针对网络安全、生物及化学等敏感领域查询，系统会自动重定向至低阶模型处理。伴随大众版发布，Anthropic向Project Glasswing计划中的约200家全球政企合作伙伴提供无限制的高阶版本。美国政府已建立常态化机制，对该模型进行关键基础设施漏洞识别能力的安全审查。受算力成本激增影响，Fable5收费标准较前代翻倍，Anthropic目前需向xAI支付高额数据中心租赁费用。在行业竞争加剧背景下，Anthropic已提交IPO计划，标志着AI领域商业竞争进入新阶段。",
-    "发布日期": "2026-06-10",
-    "原文链接": "https://www.aibase.com/zh/news/28804",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
+    "资讯标题": "Meta与信实工业达成战略合作，在印度贾姆纳格尔投建168兆瓦AI数据中心",
+    "内容": "Meta近日宣布与印度信实工业达成深度战略合作，双方将在印度古吉拉特邦的贾姆纳格尔共同建设一座规模达168兆瓦的AI数据中心。该设施将作为Meta全球AI网络的重要组成部分，支持其AI模型的训练与部署。信实工业将负责该中心从设计、建设到运营的全链路服务。为实现绿色可持续计算，该中心将引入可再生能源供电及海水淡化冷却系统，Meta已同步与CleanMax及Fourth Partner Energy签署了总计近1吉瓦的可再生能源采购协议。此次合作标志着双方关系从数字服务层深入至核心算力基建领域。随着印度数据中心装机容量的快速增长，该项目将进一步夯实印度的AI算力底座，并将其更紧密地接入Meta的全球AI算力网络，以应对日益增长的AI计算负荷需求。",
+    "发布日期": "2026-06-11",
+    "原文链接": "https://www.aibase.com/zh/news/28825",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
+    "配图仓库路径": "assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202111072153100579_0.jpg"
   }
 ]
