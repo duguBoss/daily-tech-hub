@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里云发布开源工具Meoo CLI，支持本地AI项目一键上线部署",
-    "内容": "6月11日，阿里云正式发布开源命令行工具Meoo CLI，旨在降低AI原生应用的上线门槛。该工具深度适配Claude Code、Codex及Cursor等主流本地AI编程环境，通过无缝调用阿里云云端基础设施，实现数据库接入、用户登录、文件存储及项目部署的一体化配置。开发者在本地完成代码构建后，仅需通过简单指令即可将AI生成的项目直接发布为线上可用应用。Meoo CLI目前已全面兼容Linux、macOS和Windows操作系统。此举标志着云厂商正深化与AI原生开发生态的融合，通过完善工具链，将本地AI的生产力优势转化为更低成本的云端商业化部署优势，显著提升从开发到落地的工程效率，有望加速企业及个人开发者AI应用的规模化爆发。",
+    "资讯标题": "谷歌计划联合三星代工第十代TPU芯片“冰鱼”，预计2028年量产",
+    "内容": "谷歌正计划与三星合作生产其第十代人工智能专用芯片，代号为“冰鱼”（Icefish），旨在应对全球芯片产能紧张并拓展代工渠道。该芯片采用分工制造模式：核心计算引擎部分由台积电负责，采用1.4纳米制程工艺；内存输入输出裸片则由三星采用2纳米制程代工。目前该项目仍处于设计阶段，谷歌已联合联发科共同参与研发，预计最早于2028年实现量产，相关方案仍存在调整空间。此次合作反映了科技巨头在云数据中心硬件布局上的多元化策略。除谷歌外，三星近期代工业务版图持续扩张，已接连斩获特斯拉新一代AI6芯片以及英伟达“维拉·鲁宾”（Vera Rubin）平台新型语言处理器的代工订单，进一步巩固了其在先进制程领域的市场地位。",
     "发布日期": "2026-06-12",
-    "原文链接": "https://www.aibase.com/zh/news/28858",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a0856b36ce98c3b224c08ece60f8844f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a0856b36ce98c3b224c08ece60f8844f.jpg",
-    "配图仓库路径": "assets/news_images/a0856b36ce98c3b224c08ece60f8844f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202009271645446054_11.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28875",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ec057ed108dc0bef8f280e3f12035eb9.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ec057ed108dc0bef8f280e3f12035eb9.jpg",
+    "配图仓库路径": "assets/news_images/ec057ed108dc0bef8f280e3f12035eb9.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202011091028011678_7.jpg"
   },
   {
-    "资讯标题": "苹果发布 Xcode 27 Beta 版本，原生集成谷歌 Gemini 编程智能体",
-    "内容": "苹果正式发布 Xcode 27 Beta 版本，在开发环境中原生集成谷歌 Gemini，使其成为继 OpenAI Codex 和 Anthropic Claude Agent 后，Xcode 平台引入的第三个内置 AI 编程智能体。开发者仅需在 Intelligence 设置面板关联 Gemini 账户，即可在 Xcode 内部完成代码生成、审查及 Bug 排查等全链路任务。该系统具备强大的“上下文感知”能力，能实时理解项目结构并根据文档变化自动更新工程，确保代码逻辑的一致性。此次更新标志着苹果在 AI 辅助开发领域布局进入深水区，通过集成多家顶尖模型，旨在为开发者提供更灵活、高效的编程环境，减少重复性工作，提升创意实现效率。这一举措进一步强化了苹果开发生态的开放性与智能化水平，让开发者无需切换工具即可在单一界",
+    "资讯标题": "苹果明确新版Siri AI产品定位：主打实用工具，拒绝开发情感陪伴类AI",
+    "内容": "在WWDC2026开发者大会期间，苹果软件工程主管Craig Federighi明确表示，新版Siri AI将定位为高效实用工具，不会开发AI男友或AI女友等情感陪伴类功能。苹果认为，市面上部分AI产品通过诱导情感联系来留存用户并获取隐私，这与苹果的设计理念背道而驰。作为iOS 27的核心升级，新版Siri AI具备强大的跨设备本地资料检索、全系统跨应用操作能力，并能结合屏幕内容与全网信息提供精准答案。若用户尝试进行情感互动，Siri将不会作出相关回应。此外，受合规要求影响，国行版iPhone目前暂无法上线Siri AI功能，具体上线时间仍需等待官方后续通知。此次定位调整体现了苹果在AI发展中对隐私保护与效率优先原则的坚持，旨在通过技术赋能提升用户生产力，而非建立虚拟社交依赖。",
     "发布日期": "2026-06-12",
-    "原文链接": "https://www.aibase.com/zh/news/28851",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
-    "配图仓库路径": "assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202601161504560592_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28873",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/54d9b10d637fb48c58e1b624a805a8e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/54d9b10d637fb48c58e1b624a805a8e4.jpg",
+    "配图仓库路径": "assets/news_images/54d9b10d637fb48c58e1b624a805a8e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606091001083137_1.jpg"
   },
   {
-    "资讯标题": "字节跳动AI硬件团队豆包手机负责人林夕离职",
-    "内容": "字节跳动AI硬件团队（Ocean）核心成员、豆包手机硬件产品负责人林夕近期已确认离职。林夕曾长期任职于华为终端，担任过Pura X折叠屏手机硬件产品负责人，2026年加入字节跳动后直接向Ocean团队负责人Kayden汇报。此次人事变动正值字节跳动大模型硬件落地的关键期。此前，字节跳动于2025年12月1日与中兴通讯达成合作，联合发售了搭载豆包手机助手技术预览版的工程样机努比亚M153。该产品旨在通过豆包大模型能力与手机厂商深度授权，重塑系统级AI交互体验。作为字节跳动自2024年启动AI手机项目以来首位出走的核心硬件负责人，林夕的离职引发了业内对字节AI硬件战略后续进展的广泛关注。",
+    "资讯标题": "Visa宣布与OpenAI达成战略合作，将支付网络嵌入AI平台实现自主购物",
+    "内容": "Visa在旧金山支付论坛正式宣布与OpenAI达成战略合作，将Visa全球支付网络深度嵌入OpenAI平台，使ChatGPT等AI代理具备全网比价、筛选及独立完成下单支付的能力。此次合作旨在解决此前OpenAI“Instant Checkout”项目面临的交易错误率及商户接入难题，利用Visa的代币化技术、即时授权及欺诈监控系统，为AI自主购物提供底层安全保障。为防止AI失控消费，双方设置了单笔限额、预设审批门槛及可信商家白名单等多重防护机制。此次强强联手标志着AI购物助理从“智能向导”向“私人买手”的角色升级，通过整合Visa成熟的支付基础设施，有效扫清了AI在零售场景下的技术与安全门槛，或将重塑线上零售规则。",
     "发布日期": "2026-06-12",
-    "原文链接": "https://www.aibase.com/zh/news/28847",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/38c13e061176179fc3f13e045d546db2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/38c13e061176179fc3f13e045d546db2.jpg",
-    "配图仓库路径": "assets/news_images/38c13e061176179fc3f13e045d546db2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171658595298_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28865",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/888dce0354a797514f9d037e774c0b10.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/888dce0354a797514f9d037e774c0b10.jpg",
+    "配图仓库路径": "assets/news_images/888dce0354a797514f9d037e774c0b10.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811260933402137_8.jpg"
   },
   {
-    "资讯标题": "塔塔咨询与Anthropic达成战略合作，为5万名员工配备Claude模型",
-    "内容": "科技咨询巨头塔塔咨询服务公司（TCS）宣布与Anthropic达成全球战略合作伙伴关系，正式为旗下5万名员工配置Claude模型。此次大规模部署旨在通过Claude在复杂任务处理、多语言逻辑分析等方面的技术优势，赋能全球团队在软件开发、数据分析及业务流程自动化等垂直领域的工作。塔塔咨询将利用Claude重构交付模式，旨在满足大型企业在合规、性能及可扩展性方面的严苛要求，为客户提供更具竞争力的定制化AI解决方案。这一举措标志着塔塔咨询从AI试点转向规模化部署，通过“AI+人才”的模式创新，加速构建智能驱动的价值创造引擎。随着Claude在TCS全球业务网络中的深度渗透，其在提升作业自动化水平及推动客户业务创新方面的表现，将成为衡量AI在传统服务行业转型潜力的关键指标。",
+    "资讯标题": "Meta旗下视频编辑应用Edits推出AI创作助手与桌面版",
+    "内容": "Meta在洛杉矶创作者活动上宣布，短视频编辑应用Edits将推出全新AI助手及桌面版本。该AI助手深度集成Instagram后台数据，通过分析观看量与留存率等指标，为创作者提供创意推荐与热门音频，旨在减少对第三方工具的依赖。桌面版的上线实现了移动端与PC端的无缝同步，补齐了复杂多轨道剪辑的短板，使其具备与CapCut正面竞争的硬件基础。此外，Edits已上线“Beta”实验功能标签页及多维数据看板，支持受众人口统计细分与黄金活跃时段分析。Meta官方数据显示，Edits生成内容的保存率与转发率分别提升10%与2%，目前Instagram上超半数Reels内容由Edits制作。此次更新标志着Meta正通过AI全栖创作生态，进一步强化其在短视频赛道的竞争力。",
     "发布日期": "2026-06-12",
-    "原文链接": "https://www.aibase.com/zh/news/28861",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ed27cb97fa09f4c312adc3b540708d52.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ed27cb97fa09f4c312adc3b540708d52.jpg",
-    "配图仓库路径": "assets/news_images/ed27cb97fa09f4c312adc3b540708d52.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719371797_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28866",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c001c01fc04e57bb110ef06d5fdb2505.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c001c01fc04e57bb110ef06d5fdb2505.jpg",
+    "配图仓库路径": "assets/news_images/c001c01fc04e57bb110ef06d5fdb2505.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0612/6391685221495839864126931.jpg"
   },
   {
-    "资讯标题": "OceanBase发布央国企AI一体化数据解决方案，助力核心系统国产化升级",
-    "内容": "2026年6月11日，在山东济南举办的“2026信息技术应用创新发展大会”上，OceanBase正式发布“央国企AI一体化数据解决方案”。该方案旨在解决央国企在国产升级与AI转型中的数据底座难题，通过构建“AI+数据库”统一底座，支撑经营管控、供应链及数据智能等创新场景，推动企业从ERP向DRP（数据资源计划）转型。目前，全国近100家央企中已有30多家将核心系统托付给OceanBase，覆盖运营商、交通、能源等关键行业。在民航领域，中国航信基于OceanBase完成分布式升级，保障每年超7亿人次出行；在能源领域，中国石化智慧加油卡系统通过该方案实现存储成本节约8倍。OceanBase政企事业部总经理丁荣表示，该方案致力于让数据从“存得住”转向“用得好、算得准、决策快”，为央国企提供面向AI时代的基础设施，实现",
+    "资讯标题": "Anthropic布局美国数据中心并寻求谷歌母公司财务支持",
+    "内容": "人工智能企业Anthropic近期正式启动美国数据中心布局计划，目前已签署十余份初步租约，整体容量突破1吉瓦，并计划持续加码基础设施建设以扩大规模。在财务层面，Anthropic正寻求谷歌母公司Alphabet为其数据中心租约提供财务担保。此外，市场消息称双方可能在数据中心专用芯片设计领域展开深度合作。此次布局反映了头部AI厂商对算力基础设施的迫切需求，通过与云巨头深度绑定，旨在保障模型训练与推理所需的底层资源供给。针对上述传闻，谷歌官方表示不对市场猜测置评，Anthropic方面目前也未发布相关回应。若合作达成，将进一步强化双方在AI算力底座层面的战略协同，对行业内大模型厂商的基建模式具有重要参考意义。",
     "发布日期": "2026-06-12",
-    "原文链接": "https://www.aibase.com/zh/news/28852",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/776d43196df2e0caf46bacf7438d76df.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/776d43196df2e0caf46bacf7438d76df.jpg",
-    "配图仓库路径": "assets/news_images/776d43196df2e0caf46bacf7438d76df.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305081201087103_6.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28870",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b06c6223fb4fc3d3ba092df93638f676.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b06c6223fb4fc3d3ba092df93638f676.jpg",
+    "配图仓库路径": "assets/news_images/b06c6223fb4fc3d3ba092df93638f676.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202305091556141137_4.jpg"
   }
 ]
