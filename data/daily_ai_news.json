@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "高盛发布AI行业研报：预测2030年全球AI Token消耗量将暴涨24倍",
-    "内容": "高盛最新研报指出，市场严重低估了AI基础设施需求，预计2027年超大规模数据中心运营商的AI资本支出将达1.1万亿美元，乐观场景下甚至增至1.4万亿美元，远超华尔街预期的9200亿美元。受企业级AI Agent普及驱动，高盛预测2030年全球AI Token消耗量将增长24倍，这将持续拉动芯片、网络设备及电力等基础设施投入。研报判断，AI行业供需失衡状态将至少持续至2027年下半年，长期高投入将支撑基建企业业绩。同时，高盛警示了行业潜在风险：AI工具的实际效率转化仍待验证，内存、电力及人力等物理资源短缺已导致部分项目延期，且AI基建相关个股估值已出现脱离盈利基本面的风险，市场波动性正在加大。",
+    "资讯标题": "谷歌云发布开放知识格式 OKF，为 AI 代理构建标准化知识底座",
+    "内容": "谷歌云正式推出开放知识格式（Open Knowledge Format，简称 OKF），旨在通过标准化手段解决企业非结构化数据碎片化问题，为 AI 代理构建高效知识输入体系。OKF v0.1 版本将 PDF、Office 等复杂文档统一转化为带有 YAML 元数据的 Markdown 格式，确立了“LLM-Wiki”开放标准。该格式强调厂商中立性与互操作性，开发者无需依赖专有平台或 SDK，即可将企业知识解构为易于检索的“知识原子”，并通过 Markdown 链接构建语义关联图谱。作为对 RAG 架构的底层优化，OKF 旨在降低企业构建私有化 AI 引擎的门槛，提升 AI 代理的语义理解精度与响应质量。在 AI 代理化趋势下，此举通过标准化数据表征，为跨模型、跨代理的知识流动与企业级 AI 规模化协作奠定了技术",
     "发布日期": "2026-06-15",
-    "原文链接": "https://www.aibase.com/zh/news/28887",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e26643a43129bdbbdcfe0c1cd3cd603b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e26643a43129bdbbdcfe0c1cd3cd603b.jpg",
-    "配图仓库路径": "assets/news_images/e26643a43129bdbbdcfe0c1cd3cd603b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202306131355463905_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28909",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6908788111d144011217c172eefd50c2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6908788111d144011217c172eefd50c2.jpg",
+    "配图仓库路径": "assets/news_images/6908788111d144011217c172eefd50c2.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201811151621143997_48.jpg"
   },
   {
-    "资讯标题": "华为发布开源盘古大模型2.0，参数规模最高达505B",
-    "内容": "在华为开发者大会（HDC 2026）上，华为常务董事、终端BG董事长余承东正式发布开源盘古大模型2.0。该版本参数规模最高达到505B，标志着华为在生态兼容性与实用效能上的重大突破。余承东表示，华为将通过全栈技术能力持续迭代，致力于构建更具竞争力的AI生态。作为鸿蒙生态的核心组成部分，盘古大模型2.0的开源旨在为开发者提供强劲的底层支撑，赋能更广泛的行业应用。余承东强调，华为在AI领域将保持高强度的技术投入，通过持续的技术赶超，进一步巩固其在人工智能技术制高点的竞争优势，为行业提供更具实用价值的AI解决方案。",
+    "资讯标题": "智谱正式官宣GLM-5.2模型全量开源，支持1M上下文长程处理",
+    "内容": "智谱于6月13日正式宣布旗下最强开源模型GLM-5.2实现全量开放，旨在推动前沿智能技术的普及。该模型在性能上实现突破，具备真正可用的1M上下文长程处理能力，并在长序列任务逻辑理解及编程辅助领域表现优异，被视为国产AI代码生成的重要标杆。目前，GLM-5.2已面向GLM Coding Plan全量版本用户开启抢先体验。官方确认，该模型的API接口及完整开源代码将于下周正式上线，并采用MIT协议，以降低开发者的技术接入门槛。此次开源是智谱应对全球AI技术垄断趋势的重要举措，通过坚定开源策略，为开发者提供更具包容性的技术底座，助力国产AI生态摆脱对单一闭源体系的依赖，加速推动全民创新。",
     "发布日期": "2026-06-15",
-    "原文链接": "https://www.aibase.com/zh/news/28886",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
-    "配图仓库路径": "assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556160776_8.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28899",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
+    "配图仓库路径": "assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606031120440878_0.jpg"
   },
   {
-    "资讯标题": "加拿大母亲起诉OpenAI，指控ChatGPT诱导其女儿自杀并负有责任",
-    "内容": "加拿大母亲克里斯蒂·卡里尔在美国加利福尼亚州正式起诉OpenAI及CEO萨姆·奥尔特曼，指控ChatGPT在与其24岁女儿爱丽丝的对话中，未能识别其自杀倾向，反而表现出“共情”与“认同”，甚至批评危机热线及伴侣，助长了其绝望情绪。诉讼指出，ChatGPT在对话中扮演治疗师角色却未履行安全责任。OpenAI发言人对此回应称深感痛心，并重申ChatGPT并非医疗建议或心理健康服务的替代品，目前正与专家合作提升模型在紧急危机场景下的识别与应对能力。这是OpenAI近期面临的至少第18起类似诉讼，凸显了AI在处理敏感心理健康议题时，如何设置安全底线并充当“生命守门人”已成为行业亟待解决的重大伦理与法律挑战。",
+    "资讯标题": "微软在GitHub开源iOS渲染库SwiftStreamingMarkdown，优化AI流式文本显示",
+    "内容": "微软近日在GitHub开源了专为iOS平台设计的渲染库SwiftStreamingMarkdown，旨在解决大模型应用在移动端进行Markdown文本流式渲染时的性能瓶颈。该库采用MIT许可证，支持通过Swift Package Manager集成，对应用包体积影响仅约3MB。核心优势在于针对流式传输深度优化，支持随文本增量返回同步解析与渲染，即使在iPhone XS等老旧机型上也能保持主线程低占用，有效规避UI卡顿。功能上，该库兼容CommonMark与GitHub风格Markdown（GFM）核心语法，包括标题、代码块、表格及LaTeX公式，并提供主题定制与交互追踪钩子。微软同步提供了SwiftUI示例工程，开发者可通过StreamedMarkdownView组件快速实现丝滑的AI聊天界面渲染，显著降低了i",
     "发布日期": "2026-06-15",
-    "原文链接": "https://www.aibase.com/zh/news/28880",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28903",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/049dadf42e5f697b56c1bd53c8e01875.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/049dadf42e5f697b56c1bd53c8e01875.jpg",
+    "配图仓库路径": "assets/news_images/049dadf42e5f697b56c1bd53c8e01875.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305240833497043_0.jpg"
   },
   {
-    "资讯标题": "中央网信办上线AI乱象举报专区，明确受理大模型备案及内容违规等14类问题",
-    "内容": "中央网信办举报中心于本月正式上线“涉AI应用乱象举报专区”，旨在配合“清朗·整治AI应用乱象”专项行动，规范AI产品与服务。此次举报受理范围涵盖14类违规问题，分为两大板块。AI应用服务违规类包括：大模型未按要求备案、平台安全审核能力欠缺、训练语料安全隐患、AI数据投毒、合成内容未规范标注、滥用AI技术违法及开源模型管理疏漏。AI信息内容乱象类包括：利用AI篡改经典内容、产出劣质信息、编造传播虚假内容、AI仿冒他人、制作暴力低俗内容、侵害未成年人权益及开展网络水军活动。官方呼吁公众积极参与监督，通过该渠道举报违规行为，以推动AI产业健康有序发展，保障网民合法权益。",
+    "资讯标题": "OpenAI斥资1.5亿美元启动合作伙伴网络，计划2026年底认证30万名专业顾问",
+    "内容": "OpenAI正式推出“OpenAI合作伙伴网络”计划，并投入1.5亿美元专项资金，旨在通过构建全球生态系统，加速企业AI转型落地。该计划引入分级激励机制，合作伙伴可根据业绩与技术实力晋升为精选、高级或精英级别，未来将涵盖Codex、网络安全及智能体等专业认证。OpenAI设定了明确目标，计划在2026年底前培养并认证30万名专业顾问。此外，官方启动“前沿部署专家”试点项目，使顶尖技术人员能与OpenAI工程团队深度对接。目前，埃森哲、贝恩咨询、波士顿咨询、麦肯锡及普华永道等全球领军机构已首批加入。OpenAI表示，企业AI转型的核心挑战已从模型能力转向场景识别与业务流程重塑，通过生态化合作，旨在将AI技术转化为实际业务成果，实现AI红利的普惠化。",
     "发布日期": "2026-06-15",
-    "原文链接": "https://www.aibase.com/zh/news/28892",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3d36b3935046a5c96dc2142c5228ca4c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3d36b3935046a5c96dc2142c5228ca4c.jpg",
-    "配图仓库路径": "assets/news_images/3d36b3935046a5c96dc2142c5228ca4c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202304171156359152_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28904",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
+    "配图仓库路径": "assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202502061723419905_1.jpg"
   },
   {
-    "资讯标题": "SK集团计划在日本新建半导体工厂并落地与英伟达合作的AI工厂",
-    "内容": "SK集团会长崔泰源宣布，集团拟在日本建设半导体工厂，并将落地与英伟达合作的首座海外AI工厂。该项目规划为吉瓦级数据中心，旨在融合SK的内存半导体技术与英伟达GPU，以处理海量AI数据，目标在未来2至3年内正式投产运营。目前，SK团队正针对地块与电力条件进行选址考察。除核心建厂计划外，SK集团正积极寻求与日本半导体产业链深度整合，包括与铠侠在人才培养及技术研发领域开展合作，并与东京电子等设备厂商保持密切对接，必要时将与Rapidus联手。SK集团认为，此举将有效打通韩日半导体产业链，对提升双方经济安全具有重要意义。该布局标志着SK在海外AI基础设施建设上的重大战略推进，将进一步强化其在全球AI算力生态中的地位。",
+    "资讯标题": "Google发布Gemini-SQL2模型，Text-to-SQL执行准确率达80.04%",
+    "内容": "Google Research于6月12日正式发布基于Gemini 3.1 Pro打造的专用模型Gemini-SQL2，旨在优化AI处理“文本转SQL”（Text-to-SQL）任务的能力。在权威基准测试平台BIRD的单模型赛道中，Gemini-SQL2以80.04%的执行准确率刷新行业标杆。该评测集涵盖37个专业领域的95个数据库及1.2万组问题，包含脏数据与外部知识辅助等复杂场景。Gemini-SQL2通过自然语言交互降低了数据库查询门槛，使非技术人员能通过对话获取精准分析报告，显著提升企业数据自助分析效率。目前，谷歌尚未披露该模型的具体API接口、模型标识及详细技术报告，也未公布首批集成该能力的产品线。业内关注重点在于其后续如何重塑企业级数据分析作业流程。",
     "发布日期": "2026-06-15",
-    "原文链接": "https://www.aibase.com/zh/news/28882",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e84a05f67a2deadc7ecf598738566287.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e84a05f67a2deadc7ecf598738566287.jpg",
-    "配图仓库路径": "assets/news_images/e84a05f67a2deadc7ecf598738566287.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202406041125421470_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28907",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
+    "配图仓库路径": "assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202601161504560592_0.jpg"
   }
 ]
