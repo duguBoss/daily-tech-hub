@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里巴巴正式发布具身智能大模型Qwen-Robot系列，包含三款核心模型",
-    "内容": "6月16日，阿里巴巴发布千问具身智能大模型Qwen-Robot系列，旨在为机器人提供理解自然语言、感知三维环境及掌握物理规律的通用底座。该系列包含三款模型：Qwen-RobotManip专注于核心操作，采用统一动作表征，经超38000小时预训练，在拧水龙头及双臂倒薯条等任务中表现优异；Qwen-RobotNav集成任务指令理解、目标搜索及自动驾驶等五大功能，通过“任务自适应观察机制”实现复杂未知空间的高效寻物；Qwen-RobotWorld作为物理世界模型，支持对下一时刻物理状态和动作的预演，确保物理操作精准度。三大模型协同工作，将视觉感知、语言理解与动作决策深度融合，显著增强了机器人在真实生活场景中的任务泛化能力，推动具身智能技术从实验室迈向实际应用。",
+    "资讯标题": "智谱AI正式开源GLM-5.2模型，支持1M无损上下文与长程代码任务",
+    "内容": "智谱AI正式发布并开源新一代大模型GLM-5.2，该模型核心聚焦Coding能力与长程任务执行，在Code Arena位列全球开源模型第一。技术上，GLM-5.2实现了1M无损上下文，单次处理能力高达88万tokens，有效解决了长文本劣化问题。在FrontierSWE等基准测试中，其性能表现处于Claude Opus 4.7与4.8之间。架构方面，通过IndexShare架构将1M上下文下的单位token FLOPs降至2.9倍，并改进MTP层以提升投机解码效率。此外，模型引入思考档位（effort level）控制，显著提升了Terminal-Bench 2.1等编程评测表现。目前，GLM-5.2已基于MIT协议在Hugging Face和ModelScope开源，并完成与华为昇腾、平头哥、摩尔线程等国产算",
     "发布日期": "2026-06-17",
-    "原文链接": "https://www.aibase.com/zh/news/28955",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dfaf2f00690c5d8d207e48031165c659.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dfaf2f00690c5d8d207e48031165c659.jpg",
-    "配图仓库路径": "assets/news_images/dfaf2f00690c5d8d207e48031165c659.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743180260_11.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28972",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/18e55318c993f87adf34e8366570881d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/18e55318c993f87adf34e8366570881d.jpg",
+    "配图仓库路径": "assets/news_images/18e55318c993f87adf34e8366570881d.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0617/6391728545338583086757265.jpg"
   },
   {
-    "资讯标题": "英伟达计划发行至少200亿美元债券以扩充算力基础设施建设资金",
-    "内容": "英伟达于2026年6月15日宣布计划发行至少200亿美元债券，正式加入科技巨头的AI债务融资热潮。此次发债共分七期，期限覆盖2年至30年，最长期限债券收益率较美国国债高出约0.9个百分点。摩根大通、摩根士丹利及高盛担任承销商。这是英伟达自2021年以来首次重返债券市场，融资规模较此前50亿美元大幅提升。公司表示募集资金将用于一般用途及现有债务再融资。在Alphabet、亚马逊等科技巨头纷纷通过债务市场筹集数千亿美元以提升AI计算能力的背景下，英伟达此举旨在巩固现金流，为后续高强度研发及供应链扩张储备弹药。这一动作标志着AI算力竞争已从单纯的技术博弈，全面延伸至资本效率与债务杠杆的深度较量，进一步加剧了全球算力军备竞赛的激烈程度。",
+    "资讯标题": "微软Copilot Cowork拟转向按量计费，或引入Azure托管版DeepSeek V4",
+    "内容": "微软Copilot Cowork拟转向按量计费，或引入Azure托管版DeepSeek V4AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jun 17, 2026156月16日，微软被曝正考虑在其Copilot Cowork中推出基于DeepSeek V4的自托管优化版本，以提供更经济的模型选择，同时该产品的定价模式也将全面转向按使用量计费。随着智能体推理任务的爆发式增长，Copilot Cowork此前采用的Anthropic Claude技术因高度依赖复杂推理，导致Token消耗量剧增。微软执行副总裁Charles Lamanna透露，原有固定费率的定价模式在用户每周执行数百项任务的重度使用场景下已不可持续，高昂的运营成本正迅速推高。",
     "发布日期": "2026-06-17",
-    "原文链接": "https://www.aibase.com/zh/news/28943",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/df6e2b264a845e8866cb9de8ca1699c7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/df6e2b264a845e8866cb9de8ca1699c7.jpg",
-    "配图仓库路径": "assets/news_images/df6e2b264a845e8866cb9de8ca1699c7.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202606031122196331_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28974",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9995ca828e3c78d065a32073fdf6f426.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9995ca828e3c78d065a32073fdf6f426.jpg",
+    "配图仓库路径": "assets/news_images/9995ca828e3c78d065a32073fdf6f426.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0617/6391728661271093818323955.jpg"
   },
   {
-    "资讯标题": "字节跳动发布Seedance 2.0 Mini视频生成模型，单秒生成成本降低50%",
-    "内容": "字节跳动火山引擎于6月15日正式上线Seedance 2.0 Mini视频生成模型，该模型主打高性价比，旨在满足大规模视频创作需求。作为轻量化版本，Seedance 2.0 Mini在保持高质量输出的同时，生成速度较同系列标准快速版提升2倍。在成本控制方面，以720P规格测算，其单秒视频生成成本降至约0.5元，较标准版降低约50%。该模型计划近期对外开放API服务，重点面向电商内容生产、营销素材批量生成及特效快速制作等场景。通过大幅降低技术门槛与资金投入，Seedance 2.0 Mini将助力企业实现高频次、大批量的视频内容规模化生产，为行业提供更具竞争力的技术解决方案。",
+    "资讯标题": "京东发布A2P2协议：首个智能体自主支付标准，划分L0至L5六级体系",
+    "内容": "京东正式发布智能体自主支付协议（A2P2），这是国内首个面向智能体自主支付场景的系统性协议。该协议将智能体支付能力划分为L0至L5六个等级，其中L0为用户逐笔确认，L5为智能体完全自主决策。京东重点聚焦L3与L4阶段，允许智能体在预设边界内自主发起支付。为保障安全，A2P2引入ARI（智能体运行时身份）机制，实现支付瞬间用户、智能体身份及运行环境的三方实时校验。同时，协议采用“资金载体”隔离结构，为智能体分配独立受限账户，通过金额上限、场景及期限约束防止主账户风险。在结算与审计层面，A2P2通过“存证链”机制将支付结果、ARI信息与任务凭证绑定，形成完整证据链，确保AI交易的可验证与可追溯。该协议的发布标志着智能体支付从产品级能力迈向基础设施标准，为AI商业化闭环提供底层支撑。",
     "发布日期": "2026-06-17",
-    "原文链接": "https://www.aibase.com/zh/news/28944",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f41b250fa3b0b703c9cfc3896c179fa3.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f41b250fa3b0b703c9cfc3896c179fa3.jpg",
-    "配图仓库路径": "assets/news_images/f41b250fa3b0b703c9cfc3896c179fa3.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0616/6391720212618547446569824.png"
+    "原文链接": "https://www.aibase.com/zh/news/28981",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1c432b288b60fb719f7149ee555a3c66.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1c432b288b60fb719f7149ee555a3c66.jpg",
+    "配图仓库路径": "assets/news_images/1c432b288b60fb719f7149ee555a3c66.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202003012046495079_3.jpg"
   },
   {
-    "资讯标题": "Salesforce 斥资 36 亿美元收购 AI 客服平台 Fin 以强化 Agentforce",
-    "内容": "Salesforce 正式宣布以 36 亿美元收购 AI 客户服务平台 Fin，旨在通过整合其智能代理技术全面升级企业级 AI 平台 Agentforce。Fin 前身为 Intercom，擅长通过实时聊天、短信、WhatsApp、Slack 及语音电话等多渠道处理客户咨询。Salesforce 首席执行官 Marc Benioff 表示，Fin 的加入将增强 Agentforce 构建自定义 AI 代理的能力，助力企业实现业务流程自动化。Fin 联合创始人兼 CEO Eoghan McCabe 及核心团队将留任，确保产品研发路径的连续性。该交易预计于 Salesforce 2027 财年第四季度完成。此次并购标志着 Salesforce 在智能服务领域的重要布局，通过资本手段强化其在客户体验管理市场的智能代理",
+    "资讯标题": "Sensor Tower报告显示ChatGPT全球市场份额首次跌破50%大关",
+    "内容": "Sensor Tower发布的《2026年AI现状报告》显示，ChatGPT全球市场份额已从今年1月的50%以上降至5月底的46.4%。与此同时，竞争对手市场份额持续增长，Google Gemini升至27.7%，Claude达到10.3%，Grok、Perplexity、DeepSeek及Meta AI份额均低于5%。尽管ChatGPT份额下滑，但其与Gemini、Claude三大头部产品合计占据了AI助手应用总使用时长的89%。整体市场规模保持高速扩张，预计2026年上半年全球AI应用下载量将接近23亿次，用户支出超42亿美元，总使用时长预计达360亿小时，较2025年同期翻倍。报告指出，用户倾向于根据不同场景在多个AI助手间切换，行业竞争已从单一产品能力比拼转向生态覆盖、模型能力与用户留存的综合较量。",
     "发布日期": "2026-06-17",
-    "原文链接": "https://www.aibase.com/zh/news/28950",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2f9600dace3c917aa60ddedbd8bfcaf8.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2f9600dace3c917aa60ddedbd8bfcaf8.jpg",
-    "配图仓库路径": "assets/news_images/2f9600dace3c917aa60ddedbd8bfcaf8.jpg",
-    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0616/26061602101487953154.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28967",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7ef0d3ebc310498966840a45ba7bead2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7ef0d3ebc310498966840a45ba7bead2.jpg",
+    "配图仓库路径": "assets/news_images/7ef0d3ebc310498966840a45ba7bead2.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202605221552597545_0.jpg"
   },
   {
-    "资讯标题": "DeepSeek完成逾70亿美元首轮融资，投后估值突破500亿美元大关",
-    "内容": "AI大模型独角兽DeepSeek日前完成逾70亿美元首轮融资，投后估值超500亿美元。本轮融资采用非常规交易架构，资金注入由CEO梁文锋管理的有限合伙企业，投资者需遵守五年锁定期且不享有表决权，以确保创始人团队对技术路线的绝对控制权。梁文锋个人出资200亿元人民币，腾讯与宁德时代作为战略投资方，计划分别出资100亿元和50亿元人民币。此举打破了一级市场融资沉寂，为DeepSeek后续的前沿模型研发及算力基础设施建设提供了充足财务支持。该融资模式通过创始人高度控盘与产业巨头深度绑定，为开源及原生AI企业在平衡资本引进与治理独立性方面提供了全新的行业范式。",
+    "资讯标题": "Anthropic企业市场份额升至41%首次超越OpenAI，Claude Opus 4.8成主力",
+    "内容": "金融科技平台Ramp最新数据显示，Anthropic在企业AI订阅市场的份额已达41%，首次超越OpenAI的39.5%。尽管Anthropic近期因美国政府出口管制及安全风险评估，被迫撤出Mythos 5和Fable 5模型，并限制非美籍员工接触核心技术，但这些监管压力反而强化了其技术实力强悍的市场认知。在企业API调用及编程服务领域，Anthropic于5月底推出的Claude Opus 4.8模型成为客户下单的核心主力。分析指出，官方的“危险”定性变相提升了企业客户信心，推动其业务热度达到顶峰。尽管与白宫的持续冲突可能影响其IPO进程，但Anthropic在企业级赛道的领先地位已在短期内确立。",
     "发布日期": "2026-06-17",
-    "原文链接": "https://www.aibase.com/zh/news/28953",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/62b95176ef495da074de7b835cd89d91.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/62b95176ef495da074de7b835cd89d91.jpg",
-    "配图仓库路径": "assets/news_images/62b95176ef495da074de7b835cd89d91.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202604241547220382_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/28971",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
   }
 ]
