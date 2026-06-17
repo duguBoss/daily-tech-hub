@@ -1,28 +1,18 @@
 [
   {
-    "资讯标题": "阿里巴巴发布Qwen-Robot系列具身大模型，三大模型协同解决异构机器人适配难题",
-    "内容": "6月16日，阿里巴巴正式发布千问具身智能大模型Qwen-Robot系列，由Qwen-RobotManip（VLA操作模型）、Qwen-RobotNav（VLN移动模型）及Qwen-RobotWorld（世界模型）三大核心矩阵组成。该系列旨在解决传统VLA模型在更换硬件或场景后迁移能力不足的行业痛点。其中，Qwen-RobotManip引入80维统一动作表征，为不同形态硬件定义通用“肢体语言”，实现快速适配；Qwen-RobotNav基于Qwen-VL构建，将语言指令导航、目标搜索及自动驾驶等五大任务统一至单一框架，降低模型切换成本；Qwen-RobotWorld则提供物理世界推理能力，用于预测动作与状态。此次发布通过技术架构解耦与多模态融合，旨在加速异构机器人的通用化部署进程，标志着阿里在具身智能基础模型领域的",
-    "发布日期": "2026-06-16",
-    "原文链接": "https://www.aibase.com/zh/news/28949",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bcdc4b05b531ea4bceea221c96e381f4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bcdc4b05b531ea4bceea221c96e381f4.jpg",
-    "配图仓库路径": "assets/news_images/bcdc4b05b531ea4bceea221c96e381f4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504091551250358_0.jpg"
+    "资讯标题": "阿里巴巴正式发布具身智能大模型Qwen-Robot系列，包含三款核心模型",
+    "内容": "6月16日，阿里巴巴发布千问具身智能大模型Qwen-Robot系列，旨在为机器人提供理解自然语言、感知三维环境及掌握物理规律的通用底座。该系列包含三款模型：Qwen-RobotManip专注于核心操作，采用统一动作表征，经超38000小时预训练，在拧水龙头及双臂倒薯条等任务中表现优异；Qwen-RobotNav集成任务指令理解、目标搜索及自动驾驶等五大功能，通过“任务自适应观察机制”实现复杂未知空间的高效寻物；Qwen-RobotWorld作为物理世界模型，支持对下一时刻物理状态和动作的预演，确保物理操作精准度。三大模型协同工作，将视觉感知、语言理解与动作决策深度融合，显著增强了机器人在真实生活场景中的任务泛化能力，推动具身智能技术从实验室迈向实际应用。",
+    "发布日期": "2026-06-17",
+    "原文链接": "https://www.aibase.com/zh/news/28955",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dfaf2f00690c5d8d207e48031165c659.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dfaf2f00690c5d8d207e48031165c659.jpg",
+    "配图仓库路径": "assets/news_images/dfaf2f00690c5d8d207e48031165c659.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743180260_11.jpg"
   },
   {
-    "资讯标题": "蚂蚁集团内测AI版支付宝，代号“宝计划”并推出AI助手“阿宝”",
-    "内容": "蚂蚁集团正秘密内测“AI版支付宝”，项目代号“宝计划”，标志着该App全面向AI Agent时代转型。新版本核心在于交互逻辑的重构，首推AI助手“阿宝”，用户可通过文字或语音指令直接调用点外卖、打车等生活服务，彻底改变了传统菜单式交互。界面布局上，底部核心位置由“资产”与“阿宝”占据，资产板块升级为卡片夹形式。为确保用户体验平稳，新版支持双版本自主切换，用户可选择是否将AI版设为首页。目前该版本处于极小范围灰度测试阶段，需通过特定邀请码激活，或在搜索框输入“AI版支付宝”申请入口。在微信、抖音等超级App加速布局智能体的背景下，支付宝此举旨在巩固其金融账户与生活服务的核心入口地位，通过AI原生界面提升用户操作效率。",
-    "发布日期": "2026-06-16",
-    "原文链接": "https://www.aibase.com/zh/news/28940",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a9b22bef74e94879dd144e1df99391fd.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a9b22bef74e94879dd144e1df99391fd.jpg",
-    "配图仓库路径": "assets/news_images/a9b22bef74e94879dd144e1df99391fd.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0616/6391719977358435441710178.jpg"
-  },
-  {
-    "资讯标题": "英伟达计划发行至少200亿美元债券以扩充AI算力基础设施",
-    "内容": "英伟达于2026年6月15日宣布计划发行至少200亿美元债券，这是其自2021年以来首次重返债券市场。本次融资将分七期进行，期限涵盖2年至30年，最长久期债券收益率较美国国债高出约0.9个百分点。摩根大通、摩根士丹利及高盛担任此次发行的承销商。英伟达官方表示，募集资金将用于一般公司用途及现有债务再融资。在Alphabet、亚马逊等科技巨头纷纷通过债务市场筹集资金以提升AI计算能力的背景下，英伟达此举旨在巩固现金流与财务防线，为高强度研发及供应链扩张储备弹药。此次巨额融资标志着AI算力领域的竞争已从单纯的技术迭代延伸至资本效率与债务杠杆的深度博弈，进一步加剧了全球AI基础设施的算力军备竞赛。",
-    "发布日期": "2026-06-16",
+    "资讯标题": "英伟达计划发行至少200亿美元债券以扩充算力基础设施建设资金",
+    "内容": "英伟达于2026年6月15日宣布计划发行至少200亿美元债券，正式加入科技巨头的AI债务融资热潮。此次发债共分七期，期限覆盖2年至30年，最长期限债券收益率较美国国债高出约0.9个百分点。摩根大通、摩根士丹利及高盛担任承销商。这是英伟达自2021年以来首次重返债券市场，融资规模较此前50亿美元大幅提升。公司表示募集资金将用于一般用途及现有债务再融资。在Alphabet、亚马逊等科技巨头纷纷通过债务市场筹集数千亿美元以提升AI计算能力的背景下，英伟达此举旨在巩固现金流，为后续高强度研发及供应链扩张储备弹药。这一动作标志着AI算力竞争已从单纯的技术博弈，全面延伸至资本效率与债务杠杆的深度较量，进一步加剧了全球算力军备竞赛的激烈程度。",
+    "发布日期": "2026-06-17",
     "原文链接": "https://www.aibase.com/zh/news/28943",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/df6e2b264a845e8866cb9de8ca1699c7.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/df6e2b264a845e8866cb9de8ca1699c7.jpg",
@@ -30,23 +20,33 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202606031122196331_0.jpg"
   },
   {
-    "资讯标题": "稀宇科技正式开源多模态旗舰模型 MiniMax M3，输出速度提升至 80 TPS",
-    "内容": "稀宇科技今日正式开源其原生多模态旗舰模型 MiniMax M3。该模型总参数量达 428B，激活参数为 23B，是行业首个从底层训练初期即进行多模态混合训练的开源大模型。发布两周内，M3 已登顶全球综合智能指数开源榜首。针对此前访问延迟问题，官方已将输出速度从 30 TPS 优化至 80 TPS。在技术表现上，M3 具备卓越的复杂任务拆解与外部工具调用能力，其代码编写能力旨在直接达到可交付标准，显著降低开发者的后期修改成本。此次开源不仅标志着国产多模态大模型的重要里程碑，也为开源社区提供了具备顶尖编码与智能体能力的生产力工具。",
-    "发布日期": "2026-06-16",
-    "原文链接": "https://www.aibase.com/zh/news/28938",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/be3c1e6daf5cfdf2bb3780fa1e345b3d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/be3c1e6daf5cfdf2bb3780fa1e345b3d.jpg",
-    "配图仓库路径": "assets/news_images/be3c1e6daf5cfdf2bb3780fa1e345b3d.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0616/6391719941334747962656147.png"
-  },
-  {
-    "资讯标题": "字节跳动发布 Seedance 2.0 Mini 视频生成模型，单秒生成成本降低一半",
-    "内容": "字节跳动火山引擎于6月15日正式上线 Seedance 2.0 Mini 视频生成模型，该模型主打高性价比，旨在通过轻量化架构赋能规模化视频生产。官方数据显示，Seedance 2.0 Mini 的生成速度较同系列标准快速版提升 2 倍，且画面质量保持持平。在定价策略上，该模型以 720P 规格测算，单秒视频生成成本约为 0.5 元，较标准版降低约 50%，显著削减了企业的开发与制作投入。火山引擎计划近期对外开放该模型的 API 服务。Seedance 2.0 Mini 重点面向电商内容生产、营销素材批量生成及特效玩法等高频次、大批量应用场景。通过大幅降低技术门槛与资金消耗，该模型将帮助企业在视频内容领域实现更高效的规模化落地，为行业提供更具竞争力的视频生成技术支持。",
-    "发布日期": "2026-06-16",
+    "资讯标题": "字节跳动发布Seedance 2.0 Mini视频生成模型，单秒生成成本降低50%",
+    "内容": "字节跳动火山引擎于6月15日正式上线Seedance 2.0 Mini视频生成模型，该模型主打高性价比，旨在满足大规模视频创作需求。作为轻量化版本，Seedance 2.0 Mini在保持高质量输出的同时，生成速度较同系列标准快速版提升2倍。在成本控制方面，以720P规格测算，其单秒视频生成成本降至约0.5元，较标准版降低约50%。该模型计划近期对外开放API服务，重点面向电商内容生产、营销素材批量生成及特效快速制作等场景。通过大幅降低技术门槛与资金投入，Seedance 2.0 Mini将助力企业实现高频次、大批量的视频内容规模化生产，为行业提供更具竞争力的技术解决方案。",
+    "发布日期": "2026-06-17",
     "原文链接": "https://www.aibase.com/zh/news/28944",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f41b250fa3b0b703c9cfc3896c179fa3.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f41b250fa3b0b703c9cfc3896c179fa3.jpg",
     "配图仓库路径": "assets/news_images/f41b250fa3b0b703c9cfc3896c179fa3.jpg",
     "原始配图链接": "https://upload.chinaz.com/2026/0616/6391720212618547446569824.png"
+  },
+  {
+    "资讯标题": "Salesforce 斥资 36 亿美元收购 AI 客服平台 Fin 以强化 Agentforce",
+    "内容": "Salesforce 正式宣布以 36 亿美元收购 AI 客户服务平台 Fin，旨在通过整合其智能代理技术全面升级企业级 AI 平台 Agentforce。Fin 前身为 Intercom，擅长通过实时聊天、短信、WhatsApp、Slack 及语音电话等多渠道处理客户咨询。Salesforce 首席执行官 Marc Benioff 表示，Fin 的加入将增强 Agentforce 构建自定义 AI 代理的能力，助力企业实现业务流程自动化。Fin 联合创始人兼 CEO Eoghan McCabe 及核心团队将留任，确保产品研发路径的连续性。该交易预计于 Salesforce 2027 财年第四季度完成。此次并购标志着 Salesforce 在智能服务领域的重要布局，通过资本手段强化其在客户体验管理市场的智能代理",
+    "发布日期": "2026-06-17",
+    "原文链接": "https://www.aibase.com/zh/news/28950",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2f9600dace3c917aa60ddedbd8bfcaf8.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2f9600dace3c917aa60ddedbd8bfcaf8.jpg",
+    "配图仓库路径": "assets/news_images/2f9600dace3c917aa60ddedbd8bfcaf8.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0616/26061602101487953154.jpg"
+  },
+  {
+    "资讯标题": "DeepSeek完成逾70亿美元首轮融资，投后估值突破500亿美元大关",
+    "内容": "AI大模型独角兽DeepSeek日前完成逾70亿美元首轮融资，投后估值超500亿美元。本轮融资采用非常规交易架构，资金注入由CEO梁文锋管理的有限合伙企业，投资者需遵守五年锁定期且不享有表决权，以确保创始人团队对技术路线的绝对控制权。梁文锋个人出资200亿元人民币，腾讯与宁德时代作为战略投资方，计划分别出资100亿元和50亿元人民币。此举打破了一级市场融资沉寂，为DeepSeek后续的前沿模型研发及算力基础设施建设提供了充足财务支持。该融资模式通过创始人高度控盘与产业巨头深度绑定，为开源及原生AI企业在平衡资本引进与治理独立性方面提供了全新的行业范式。",
+    "发布日期": "2026-06-17",
+    "原文链接": "https://www.aibase.com/zh/news/28953",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/62b95176ef495da074de7b835cd89d91.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/62b95176ef495da074de7b835cd89d91.jpg",
+    "配图仓库路径": "assets/news_images/62b95176ef495da074de7b835cd89d91.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202604241547220382_0.jpg"
   }
 ]
