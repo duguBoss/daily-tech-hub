@@ -1,28 +1,28 @@
 [
   {
-    "资讯标题": "智谱AI正式开源GLM-5.2模型，支持1M无损上下文与长程代码任务",
-    "内容": "智谱AI正式发布并开源新一代大模型GLM-5.2，该模型核心聚焦Coding能力与长程任务执行。在Code Arena评估中，GLM-5.2位列全球可用模型第二、开源模型第一。技术层面，该模型实现了1M无损上下文，通过扩展Coding Agent训练环境解决了长文本劣化问题，在FrontierSWE基准测试中性能表现优异。工程应用方面，GLM-5.2支持单次处理高达88万tokens，可自主完成多端应用全链路开发，并引入思考档位（effort level）控制以提升编程评测表现。架构上，通过IndexShare架构将1M上下文下的单位token FLOPs降至2.9倍，并改进MTP层以优化投机解码效率。目前，GLM-5.2已基于MIT协议在Hugging Face和ModelScope开源，并完成与华为昇腾、平",
-    "发布日期": "2026-06-17",
-    "原文链接": "https://www.aibase.com/zh/news/28972",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/18e55318c993f87adf34e8366570881d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/18e55318c993f87adf34e8366570881d.jpg",
-    "配图仓库路径": "assets/news_images/18e55318c993f87adf34e8366570881d.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0617/6391728545338583086757265.jpg"
+    "资讯标题": "智谱AI正式开源旗舰模型GLM-5.2，支持1M无损上下文处理",
+    "内容": "智谱AI今日宣布正式上线并开源新一代旗舰模型GLM-5.2，该模型采用MIT开源协议，允许开发者与企业自由商用。GLM-5.2核心优势在于长程任务处理能力，具备高达1M的无损上下文窗口，在压力测试中可一次性处理近88万字内容，并独立完成跨平台应用开发交付。在代码能力方面，该模型在全球前端开发盲测评估中位列全球可用模型第一，在多项国际权威评测中表现已逼近顶尖闭源模型。为推动技术普惠，GLM-5.2发布首日即完成对华为昇腾、平头哥、摩尔线程及寒武纪等国产算力平台的深度适配，确保线上推理平稳运行。目前，模型完整权重已上线主流开源社区，智谱开放平台同步提供API接口，支持企业快速接入并构建长文本应用，此举将显著降低长文本大模型落地门槛，加速国内AI生态繁荣。",
+    "发布日期": "2026-06-18",
+    "原文链接": "https://www.aibase.com/zh/news/28992",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4989f6959a08a983425b2e278b206c8d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4989f6959a08a983425b2e278b206c8d.jpg",
+    "配图仓库路径": "assets/news_images/4989f6959a08a983425b2e278b206c8d.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0617/6391731192630893068564368.png"
   },
   {
-    "资讯标题": "微软Copilot Cowork拟转向按量计费，或引入Azure托管版DeepSeek V4",
-    "内容": "微软Copilot Cowork拟转向按量计费，或引入Azure托管版DeepSeek V4AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jun 17, 2026196月16日，微软被曝正考虑在其Copilot Cowork中推出基于DeepSeek V4的自托管优化版本，以提供更经济的模型选择，同时该产品的定价模式也将全面转向按使用量计费。随着智能体推理任务的爆发式增长，Copilot Cowork此前采用的Anthropic Claude技术因高度依赖复杂推理，导致Token消耗量剧增。微软执行副总裁Charles Lamanna透露，原有固定费率的定价模式在用户每周执行数百项任务的重度使用场景下已不可持续，高昂的运营成本正迅速推高。",
-    "发布日期": "2026-06-17",
-    "原文链接": "https://www.aibase.com/zh/news/28974",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9995ca828e3c78d065a32073fdf6f426.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9995ca828e3c78d065a32073fdf6f426.jpg",
-    "配图仓库路径": "assets/news_images/9995ca828e3c78d065a32073fdf6f426.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0617/6391728661271093818323955.jpg"
+    "资讯标题": "微软正式发布企业级智能体Copilot Cowork，单次提示成本降低近四成",
+    "内容": "微软正式在全球范围内上线企业级智能体产品Copilot Cowork，旨在通过端到端自动化处理复杂且长周期的多工具任务。该智能体支持云托管执行，即便用户关闭终端，任务仍可后台持续运行，并原生集成上下文引擎。在性价比方面，官方数据显示Copilot Cowork单次提示成本较Claude Cowork降低30%至40%。产品在正式发布前已完成三个月预览测试，获埃森哲、苏黎世保险等超半数财富500强企业采用。Copilot Cowork继承Microsoft 365企业级安全标准，支持多模型选择，并采用基于模型使用、上下文检索、工具调用及运行时间的按用量积分计费模式，为企业提供灵活的成本控制方案。",
+    "发布日期": "2026-06-18",
+    "原文链接": "https://www.aibase.com/zh/news/28985",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3b1e23b790286adb65308a588b67ba9c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3b1e23b790286adb65308a588b67ba9c.jpg",
+    "配图仓库路径": "assets/news_images/3b1e23b790286adb65308a588b67ba9c.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0617/6391730261315429428626530.png"
   },
   {
     "资讯标题": "微信支付发布AI专属卡，支持Agent闭环消费并实现主账户完全隔离",
-    "内容": "6月17日，微信支付正式发布专为AI Agent设计的“AI专属卡”，旨在解决智能体落地过程中的支付资金流难题。该产品已率先在Mac端5.1.1版本的WorkBuddy平台上线，用户可通过“美团生活助手”实现从智能推荐、下单到支付的全链路闭环。针对安全风险，微信支付采用“主账隔离”架构，AI专属卡独立于微信支付主账户，Agent仅能调取卡内有限余额。此外，卡内额度支持灵活转入转出，且每笔订单执行前均需用户本人授权确认。这一“办事钱包”模式赋予了Agent离线资金调配能力，标志着AI生态从单纯的信息获取向服务消费商业化闭环迈进。未来，该功能将向更多Agent平台开放，加速AI向具身智能与行动智能演进。",
-    "发布日期": "2026-06-17",
+    "内容": "6月17日，微信支付正式发布专为AI Agent打造的“AI专属卡”，旨在解决智能体落地消费场景的资金流难题。该产品已率先在Mac端5.1.1版本的WorkBuddy平台上线，用户可通过“美团生活助手”实现从智能推荐、下单到支付的全链路闭环。针对安全风险，微信支付采用“主账隔离”架构，AI专属卡独立于主账户，Agent仅能调取卡内有限余额。此外，每笔订单在执行前均需用户本人授权确认，且卡内额度支持随时转入与转出。此举通过“办事钱包”模式，赋予Agent离线资金调配能力，标志着AI生态从单纯的信息获取向服务消费商业化闭环迈进。未来，该功能将向更多Agent平台开放，加速大模型向行动智能演进。",
+    "发布日期": "2026-06-18",
     "原文链接": "https://www.aibase.com/zh/news/28984",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e74f3ca8cfc1b28904026b867e952ad3.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e74f3ca8cfc1b28904026b867e952ad3.jpg",
@@ -30,9 +30,9 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0617/6391730222567834779107314.jpg"
   },
   {
-    "资讯标题": "SpaceX宣布以600亿美元全股票方式收购AI编程初创公司Cursor",
-    "内容": "SpaceX正式敲定以600亿美元全股票交易收购AI编程初创公司Cursor，其母公司Anysphere将于今年第三季度成为SpaceX全资子公司。该收购协议始于今年4月，随着SpaceX近期上市后市值突破2万亿美元，马斯克果断行使收购选择权。此次交易旨在强化SpaceX在AI辅助编程领域的布局，通过整合Cursor的AI代码生成技术及开发者社群，缩小与OpenAI、Anthropic等行业领头羊的差距。此前SpaceX已完成与xAI的合并，此次收购进一步将火箭发射、卫星互联网与AI基础设施整合至统一架构。对于行业而言，此举标志着SpaceX将企业级AI应用作为长期增长核心引擎，通过资本运作加速构建涵盖前沿AI技术的垂直生态。",
-    "发布日期": "2026-06-17",
+    "资讯标题": "SpaceX以600亿美元全股票方式收购AI编程初创公司Cursor",
+    "内容": "SpaceX正式宣布以600亿美元全股票交易收购AI编程初创公司Cursor，其母公司Anysphere将于今年第三季度成为SpaceX全资子公司。该交易基于双方今年4月达成的收购选择权协议，Cursor股东将获得SpaceX股票作为补偿。此次收购旨在强化SpaceX在AI辅助编程领域的布局，通过整合Cursor的AI编码技术及开发者社群，缩小与OpenAI、Anthropic等行业领先者的差距。SpaceX近期市值突破2万亿美元，此前已完成与xAI的合并。通过将火箭发射、卫星互联网与AI业务整合，SpaceX正加速构建企业级AI应用生态，将AI基础设施视为长期增长的核心引擎。Cursor作为AI编程领域的头部工具，其加入将直接提升SpaceX在软件工程自动化及企业级AI解决方案方面的技术竞争力。",
+    "发布日期": "2026-06-18",
     "原文链接": "https://www.aibase.com/zh/news/28982",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d8495333cc73fd708a9f4b2acf78a186.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d8495333cc73fd708a9f4b2acf78a186.jpg",
@@ -40,13 +40,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005281122130015_60.jpg"
   },
   {
-    "资讯标题": "Anthropic企业市场份额首超OpenAI，Claude Opus 4.8成核心驱动力",
-    "内容": "金融科技平台Ramp数据显示，Anthropic在企业AI订阅市场的份额已达41%，首次超越OpenAI的39.5%。尽管Anthropic因美国政府出口管制被迫撤出Mythos 5和Fable 5模型，并面临非美籍员工接触核心技术的限制，但其企业端业务表现强劲。5月底发布的Claude Opus 4.8模型成为企业客户采购的核心主力，在API接口调用和编程服务领域表现突出。分析指出，美国政府以“安全风险”为由的监管举措，反而被市场视为其技术实力强悍的背书，极大提升了企业客户信心。尽管与白宫的冲突可能影响其IPO进程，但Anthropic在企业级赛道的商业影响力已达到顶峰，成功在逆风环境下实现市场份额反超。",
-    "发布日期": "2026-06-17",
-    "原文链接": "https://www.aibase.com/zh/news/28971",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
+    "资讯标题": "OpenAI正筹备发布新一代双向语音模型GPT-Bidi-1以升级ChatGPT语音模式",
+    "内容": "OpenAI正筹备推出下一代双向音频模型“GPT-Bidi-1”，旨在对ChatGPT语音模式进行重大技术升级。该模型采用双向（Bidirectional）架构，支持系统同时进行聆听与表达，可实时捕捉用户插话并动态调整语义输出，彻底改变了以往“单工对讲”的交互局限。目前，OpenAI已在Web端和移动端完成基础代码铺设。产品形态上，该模型将与现有的Advanced Voice Mode并存，用户可自主切换至“Bidi(最新)”模式。此外，GPT-Bidi-1首度在语音端引入“高、中、即时”三种智力与速度分级，允许用户在交互深度与响应速度间进行权衡。此次迭代不仅补齐了OpenAI在语音与文本大模型（GPT-5.5）之间的推理能力断层，更标志着其向“Audio-first”战略迈进，为后续语音优先的硬件设备及企业级",
+    "发布日期": "2026-06-18",
+    "原文链接": "https://www.aibase.com/zh/news/28990",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f894fe16cd0923bc1313bdc0e6ad59f0.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f894fe16cd0923bc1313bdc0e6ad59f0.jpg",
+    "配图仓库路径": "assets/news_images/f894fe16cd0923bc1313bdc0e6ad59f0.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0617/6391730735091556267741731.jpg"
   }
 ]
