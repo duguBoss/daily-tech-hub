@@ -1,8 +1,8 @@
 [
   {
     "资讯标题": "阿里联合人大开源多领域科学生成基础模型LOGOS，实现跨学科数据统一编码",
-    "内容": "6月18日，阿里ATH-Token Foundry联合中国人民大学高瓴人工智能学院正式开源多领域科学生成基础模型LOGOS。该模型通过设计共享词表，将蛋白质、小分子及MOF材料等异构对象统一编码为离散Token序列，无需依赖昂贵的3D空间信息即可构建3D空间互作规律，打破了科学界不同分支间的“语言鸿沟”。在参数效率方面，LOGOS-1B版本仅用1/56的参数量，在多项科学任务中超越微软NatureLM。该模型解决了预训练与下游任务的目标偏差，支持直接激活生成能力，降低了科研开发门槛。目前，LOGOS已构建包含7类模态、总计44.87B tokens的预训练语料库。项目组已在HuggingFace与GitHub开源模型权重、推理代码及技术报告，为科研自动化提供通用技术范式。",
-    "发布日期": "2026-06-21",
+    "内容": "6月18日，阿里ATH-Token Foundry联合中国人民大学高瓴人工智能学院正式开源多领域科学生成基础模型LOGOS。该模型通过设计共享词表，将蛋白质、抗体、小分子及MOF材料等异构对象统一编码为离散Token序列，无需依赖昂贵的3D空间信息即可构建复杂的3D空间互作规律，打破了科学界不同分支间的“语言鸿沟”。在性能方面，LOGOS-1B版本仅用1/56的参数量，在多项科学任务中超越微软NatureLM。该模型解决了预训练与下游任务的目标偏差，支持直接激活生成能力，降低了科研开发门槛。目前，LOGOS已构建包含7类模态、总计44.87B tokens的预训练语料库。项目组已在HuggingFace与GitHub开源模型权重、推理代码及技术报告，为多模态科学大模型开发提供了全新的技术范式，显著提升科研自动化",
+    "发布日期": "2026-06-22",
     "原文链接": "https://www.aibase.com/zh/news/29011",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1bc875d1e963cfbae78a451e577f1de8.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1bc875d1e963cfbae78a451e577f1de8.jpg",
@@ -11,8 +11,8 @@
   },
   {
     "资讯标题": "演语科技完成近3亿美元B+轮融资，估值超20亿美元且ARR突破3亿美元",
-    "内容": "演语科技（Evoken）近日完成近3亿美元B+轮融资，投后估值超20亿美元，本轮由Granite Asia、腾讯、顺为资本联合领投。截至2026年5月，公司ARR已突破3亿美元，5月整体收入同比增长超3000%，核心收入源自短剧、影视及广告等专业内容生产者的真实预算。演语科技已构建三条核心产品线：拥有超3000万用户及50万原创模型的AI图片创作社区LiblibAI、服务近千个团队的AI视频创作平台LibTV，以及服务超千万用户的AI设计Agent“星流”。三者串联起从素材、生产到交付的完整AI内容链路。此次融资标志着演语科技跻身全球AI内容赛道第一梯队，其跨场景整合能力打破了单一赛道局限，推动AI应用从单纯比拼生成质量转向比拼工作流生产链路的深水区，为全球AI商业化落地提供了中国样本。",
-    "发布日期": "2026-06-21",
+    "内容": "演语科技（Evoken）近日完成近3亿美元B+轮融资，投后估值超20亿美元，由Granite Asia、腾讯、顺为资本联合领投。截至2026年5月，公司ARR已突破3亿美元，5月集团整体收入同比增长超3000%。演语科技已构建三条核心产品线：拥有超3000万用户及50万原创模型的AI图片创作社区LiblibAI、服务近千个团队的AI视频创作平台LibTV，以及服务超千万用户的AI设计Agent“星流”。这三款产品串联起从素材、生产到交付的完整AI内容链路，核心收入源于短剧、影视、广告等专业内容生产者的真实预算。此次融资标志着演语科技跻身全球AI内容赛道第一梯队，其跨场景整合能力打破了单一工具型公司的局限，反映出AI应用赛道正从单纯比拼生成质量，转向比拼工作流生产链路的深水区。",
+    "发布日期": "2026-06-22",
     "原文链接": "https://www.aibase.com/zh/news/29008",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5e735455b3801bbc6f86372d7af63e1c.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5e735455b3801bbc6f86372d7af63e1c.jpg",
@@ -20,9 +20,19 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0618/6391738816343753396639605.jpg"
   },
   {
-    "资讯标题": "Transformer 核心作者 Noam Shazeer 正式加盟 OpenAI",
-    "内容": "Transformer 架构核心作者、AI 领域顶尖研究员 Noam Shazeer 近日正式宣布加入 OpenAI。此前，谷歌曾于 2024 年斥资约 27 亿美元通过技术许可协议将其召回，并任命其为 Gemini 项目技术负责人，但此次挽留未能成功。Shazeer 是 2017 年划时代论文《Attention Is All You Need》的主要作者，被视为现代 LLM 核心技术的奠基人之一。此次变动标志着《Attention Is All You Need》的八位作者已全部离开谷歌，其中两人现已落脚 OpenAI。Shazeer 的加入将为 OpenAI 提供强大的研发支持，进一步加剧了科技巨头间的人才竞争，并对 Gemini 等大模型的后续迭代产生深远影响。",
-    "发布日期": "2026-06-21",
+    "资讯标题": "月之暗面Kimi Work推出目标模式并上线插件中心，支持24小时自主工作",
+    "内容": "月之暗面旗下Kimi电脑客户端近日对Kimi Work（Beta版）进行重大升级，正式推出“目标模式”并上线“插件中心”。目标模式基于智能循环机制，支持AI智能体在无需人工干预的情况下，针对路径不确定的长任务进行长达24小时的自主循环工作，通过实时对比现状与目标差距优化执行路径，并允许用户随时中断或微调。插件中心则打通了百度网盘、钉钉、飞书、WPS、Canva可画及Notion等主流办公应用，用户可通过斜杠指令直接调用外部工具，实现从文本对话到操控办公软件的效率跃升。官方表示，2026年6月期间，用户使用Work模式的会员额度消耗将享受5折优惠。此次更新标志着Kimi Work从单一对话工具向具备自主执行能力的办公效率助手转型，显著降低了处理复杂重复任务的门槛。",
+    "发布日期": "2026-06-22",
+    "原文链接": "https://www.aibase.com/zh/news/29017",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8a46bf5d159bb8cf007a957ebc948bbc.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8a46bf5d159bb8cf007a957ebc948bbc.jpg",
+    "配图仓库路径": "assets/news_images/8a46bf5d159bb8cf007a957ebc948bbc.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202604291619214186_0.jpg"
+  },
+  {
+    "资讯标题": "Transformer核心作者Noam Shazeer正式加盟OpenAI，谷歌巨资挽留失败",
+    "内容": "Transformer架构核心作者、AI领域顶尖研究员Noam Shazeer近日正式宣布加入OpenAI。Shazeer曾是谷歌Gemini项目的技术负责人，此前谷歌曾斥资约27亿美元通过技术许可协议将其召回，但此次他选择再次离开。作为《Attention Is All You Need》论文的主要作者，Shazeer被业界誉为“巫师”，其发明的Transformer架构是现代LLM的核心基石。此次变动后，Transformer论文的八位原作者已全部离开谷歌，其中两人现已落脚OpenAI。Shazeer的加入将为OpenAI的研发提供强力支持，进一步加剧了顶级AI巨头间的人才竞争。对于行业而言，这一人事变动标志着谷歌在核心人才留存上面临严峻挑战，同时也预示着OpenAI在模型架构与技术创新领域将获得更深厚的研",
+    "发布日期": "2026-06-22",
     "原文链接": "https://www.aibase.com/zh/news/29016",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
@@ -30,19 +40,9 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171707346148_0.jpg"
   },
   {
-    "资讯标题": "Midjourney跨界医疗领域，推出集成超声芯片的全身扫描仪设备",
-    "内容": "AI图像生成平台Midjourney正式跨界医疗健康领域，推出首款硬件产品Midjourney Scanner。该设备由Midjourney与超声技术公司Butterfly Network合作开发，每套系统集成40个超声芯片成像模块。用户需站入浅水池，通过布满数千个换能器的环形结构，系统在约60秒内利用2 PFLOPS算力重建高精度体内三维影像，旨在提供媲美核磁共振的成像质量。Midjourney计划于2027年底前在旧金山开设配套体检水疗中心并部署约10台设备。目前该项目处于早期测试阶段，主要聚焦于身体构成图，暂不涉及医疗诊断功能，未来若用于诊断需通过美国FDA审批。此举标志着Midjourney从生成式AI向无辐射、便捷的物理身体数据采集领域拓展，公司承诺在正式落地前公布详尽的数据政策。",
-    "发布日期": "2026-06-21",
-    "原文链接": "https://www.aibase.com/zh/news/29010",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/657c7a80890c9b5539af8df4d9b02e9d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/657c7a80890c9b5539af8df4d9b02e9d.jpg",
-    "配图仓库路径": "assets/news_images/657c7a80890c9b5539af8df4d9b02e9d.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0618/6391738873102833796349539.png"
-  },
-  {
-    "资讯标题": "Anthropic拟升级Claude语音模式：新增多语言支持并引入通话式交互体验",
-    "内容": "Anthropic正在为其AI助手Claude筹备语音模式的重大升级，核心在于打破语言壁垒并优化交互逻辑。根据iOS版Claude应用设置界面显示，此次更新将新增中文、粤语、日语、德语、西班牙语、葡萄牙语、俄语及乌克兰语支持。在交互模式上，Claude新增了“按下通话”模式，用户需长按按钮进行语音输入，并保留了支持连续对话的“免提”模式。此外，应用界面中出现的电话听筒图标暗示，Anthropic正致力于打造更接近传统语音通话的即时交互体验。此次布局旨在提升Claude在多语言环境下的可用性，使AI对话更趋向自然的人际交流。目前相关功能仍处于酝酿阶段，但这一系列调整将显著增强Claude作为AI助手的语音交互能力，为非英语用户提供更顺畅的沟通体验。",
-    "发布日期": "2026-06-21",
+    "资讯标题": "Anthropic拟升级Claude语音模式，新增多语言支持并引入通话式交互",
+    "内容": "Anthropic正筹备Claude语音模式的重大升级，旨在打破语言壁垒并优化交互体验。根据iOS版应用设置界面显示，Claude将新增对中文、粤语、日语、德语、西班牙语、葡萄牙语、俄语及乌克兰语的支持。在交互逻辑上，Claude新增了“按下通话”模式，用户需长按按钮进行语音输入，并保留了支持连续对话的“免提”模式。此外，应用界面中出现的电话听筒图标暗示，Anthropic或将推出更接近传统语音通话的即时交互功能。此次更新通过扩充语种覆盖范围及精细化操作逻辑，显著提升了Claude在多语言环境下的可用性，使AI助手交互更趋近于自然的人际沟通，目前该系列功能变动仍处于酝酿阶段。",
+    "发布日期": "2026-06-22",
     "原文链接": "https://www.aibase.com/zh/news/29013",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
