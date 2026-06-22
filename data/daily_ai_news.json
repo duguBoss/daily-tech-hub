@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "诺奖得主John Jumper辞任Google DeepMind，正式加入Anthropic",
-    "内容": "2024年诺贝尔化学奖得主John Jumper于6月20日正式宣布辞去Google DeepMind职务，转投Anthropic。Jumper作为AlphaFold模型核心开发者，在结构生物学与AI融合领域具有极高影响力。此次变动发生于Google DeepMind核心人才流失背景下，此前Gemini联合负责人Noam Shazeer亦离职加入OpenAI。行业分析认为，Anthropic近期通过收购Coefficient Bio及推出Claude for Life Sciences等举措，正加速布局生命科学赛道。Jumper的加入是Anthropic在该领域的重要战略部署，旨在利用AI技术将药物研发周期压缩10倍。随着OpenAI、Google DeepMind与Anthropic在生命科学领域的竞争加剧，",
+    "资讯标题": "诺奖得主John Jumper辞任Google DeepMind职务并正式加入Anthropic",
+    "内容": "6月20日，2024年诺贝尔化学奖得主、AlphaFold核心开发者John Jumper正式宣布辞去Google DeepMind职务，转投Anthropic。Jumper在DeepMind效力九年，与Demis Hassabis共同推动了蛋白质结构预测领域的科研范式变革。此次变动正值Google DeepMind核心人才流失期，此前Gemini联合负责人Noam Shazeer亦离职加入OpenAI。行业分析认为，Anthropic近期通过收购Coefficient Bio及推出Claude for Life Sciences等举措，正深耕生命科学赛道，旨在将药物研发周期压缩10倍。Jumper的加入是Anthropic在该高精尖领域的关键战略布局。随着顶级科研人才在OpenAI、Google DeepMi",
     "发布日期": "2026-06-22",
     "原文链接": "https://www.aibase.com/zh/news/29040",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/46b262aa373f6af53201f715274722dd.jpg",
@@ -10,8 +10,28 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202406051700558455_6.jpg"
   },
   {
-    "资讯标题": "微信上线原生AI助手“小微”灰度测试，支持语音指令调起小程序",
-    "内容": "腾讯近日在微信内低调开启原生AI助手“小微”的限量灰度测试。获得内测资格的用户可在微信主界面左上角点击“小微”图标，进入AI交互窗口。该助手支持文字与语音对话，具备系统级权限，可直接执行发送消息、查询朋友圈、预约服务及调起小程序等复杂指令。不同于以往通过公众号或第三方小程序接入的AI工具，“小微”作为微信生态内首个原生AI助理，实现了与微信原生功能的深度融合。腾讯客服表示，该功能目前处于早期小范围测试阶段，旨在将微信从即时通讯平台重塑为智能助手入口。随着算法与算力的持续优化，腾讯预计将在近期扩大内测范围。此次“原生AI化”转型不仅将改变十亿级用户的交互习惯，也为移动互联网生态的AI工程化落地提供了重要参考。",
+    "资讯标题": "苹果与LM Studio合作实现四台Mac Studio运行万亿参数Kimi K2.6模型",
+    "内容": "苹果与LM Studio在WWDC期间展示了通过四台搭载M3 Ultra芯片的Mac Studio集群，成功运行月之暗面旗下万亿参数模型Kimi K2.6的成果。该模型采用MoE架构，推理时激活约320亿参数，但完整权重加载需约2TB内存。通过macOS的RDMA-over-Thunderbolt技术，四台设备通过Thunderbolt 5接口互联，将统一内存整合为逻辑超大内存池，实现每秒约28个token的生成速度。此外，LM Studio发布了基于Tailscale Mesh VPN的LM Link组件，支持用户通过加密通道远程调用本地集群算力，确保数据本地闭环。此方案利用Apple Silicon统一内存架构，为企业提供了一种替代昂贵云端GPU集群的本地部署新路径，显著降低了长周期运营的硬件成本，并推动了",
+    "发布日期": "2026-06-22",
+    "原文链接": "https://www.aibase.com/zh/news/29050",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e46295a4cd804d1e594ef08c49201e40.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e46295a4cd804d1e594ef08c49201e40.jpg",
+    "配图仓库路径": "assets/news_images/e46295a4cd804d1e594ef08c49201e40.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202105261143226742_7.jpg"
+  },
+  {
+    "资讯标题": "微软拟在 Copilot Cowork 中引入 DeepSeek V4 模型以优化成本",
+    "内容": "微软正计划将中国 DeepSeek V4 模型纳入其企业级 AI Agent 系统 Copilot Cowork 的模型选项列表，旨在应对高昂的算力成本压力。Copilot Cowork 目前已在全球商用，超半数财富 500 强企业已完成部署。为应对模型频繁调用带来的成本挑战，微软正重构商业模式，在固定订阅制基础上新增按量计费的弹性机制。同时，微软正推动模型分层路由机制，根据任务需求智能调度模型，以实现运营成本的精细化管理。若此次合作落地，将成为美国大型科技公司首次在核心企业级 AI 产品中引入中国大模型，标志着行业在应对 AI 应用“烧钱”困局时，正通过更开放、灵活的模型策略寻求生存与增长路径。",
+    "发布日期": "2026-06-22",
+    "原文链接": "https://www.aibase.com/zh/news/29046",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
+    "配图仓库路径": "assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202602270950033335_0.jpg"
+  },
+  {
+    "资讯标题": "微信灰度上线原生AI助手小微，支持语音文字操控应用功能",
+    "内容": "腾讯微信近日低调开启原生AI助手“小微”的限量灰度测试。部分受邀用户可在微信主界面左上角点击“小微”图标，进入AI交互窗口。该助手支持用户通过文字或语音指令直接调用微信原生功能，包括发送消息、查询朋友圈及预约小程序服务等。与以往第三方接入的AI工具不同，“小微”具备系统级权限与更高的生态融合度，能够直接解构并执行复杂指令。腾讯客服确认该功能为微信团队内部测试的原生AI服务。此次上线标志着微信正从即时通讯平台向智能助手入口转型，通过大模型深度整合，重塑十亿级用户的交互习惯。目前该功能处于早期测试阶段，后续将根据算法与算力优化情况逐步扩大内测范围，为移动互联网生态的AI工程化落地提供重要参考。",
     "发布日期": "2026-06-22",
     "原文链接": "https://www.aibase.com/zh/news/29043",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f8f5553f2aa26006ba2d5541f429271d.jpg",
@@ -20,33 +40,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151715061696_39.jpg"
   },
   {
-    "资讯标题": "京东宣布全球开放AI技术并启动涅槃计划赋能蓝领员工技能转型",
-    "内容": "京东集团创始人刘强东于2026年6月21日在APEC工商领导人中国论坛宣布，京东即日起将旗下所有AI技术向全球伙伴全面开放，旨在推动人工智能技术普惠化并打破行业技术壁垒。除技术共享外，京东正式启动“涅槃计划”，针对集团内70万名蓝领员工开展系统性职业再教育。京东将与全国120所专业院校签约，为员工提供机器人维修、精密设备保养等定制化技术培训，助力蓝领群体在智能制造环境下实现岗位转型与技能跨越。刘强东强调，企业应成为合作推动者而非技术壁垒的“筑墙者”，并指出国际化经营需扎根当地，注重长期可持续发展。此次战略布局标志着京东试图通过技术共享与人才转型并行，在全球AI生态建设中发挥更深远的影响力，同时应对技术变革带来的就业结构挑战。",
+    "资讯标题": "小米正式发布并开源全屋智能AI方案Xiaomi Miloco 2.0",
+    "内容": "小米正式发布并开源全屋智能AI方案Xiaomi Miloco 2.0，该方案基于自研MiMo大模型构建，通过Agent形式接入OpenClaw框架，实现从规则触发向自主推理的跨越。Miloco 2.0具备通用常识、身份识别、家庭记忆与家庭任务四大核心能力，支持识别家庭成员及体态，并能根据长期习惯主动决策执行复杂任务。部署方面，系统要求内存不低于4GB、存储不低于256GB，推荐运行于Mac mini（macOS或Linux系统），Windows用户需通过WSL环境运行。用户需准备小米账号、米家设备及MiMo-v2.5系列模型API Key。该方案通过Web家庭面板提供实时概览与日志管理，标志着全屋智能迈向主动服务阶段，代码已在GitHub完整开源，为开发者提供构建家庭智能体的底层架构支持。",
     "发布日期": "2026-06-22",
-    "原文链接": "https://www.aibase.com/zh/news/29047",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/de6295ae976c57469aa7314bd7505888.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/de6295ae976c57469aa7314bd7505888.jpg",
-    "配图仓库路径": "assets/news_images/de6295ae976c57469aa7314bd7505888.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202002222214201321_9.jpg"
-  },
-  {
-    "资讯标题": "亚马逊正商谈向外部公司出售自研AI芯片Trainium以拓展算力市场",
-    "内容": "亚马逊AI主管Peter DeSantis近日透露，公司已启动向外部企业出售自研AI专用芯片Trainium的商谈。此前，该系列芯片主要通过AWS以云计算服务形式提供。目前，亚马逊最新一代Trainium3芯片已接近售罄，而下一代Trainium4芯片正受到市场高度关注。亚马逊CEO Andy Jassy此前在股东信中指出，Trainium在云服务中的需求量激增，甚至已出现整批芯片外售的潜在需求。DeSantis强调，外售芯片策略不会冲击AWS现有的AI云业务，并认为AI算力市场仍具备巨大增长空间。在谷歌已开始交付AI ASIC硬件的背景下，亚马逊此举旨在进一步强化其在AI硬件领域的布局，直接挑战以NVIDIA为主导的AI GPU生态，加剧了高性能AI计算基础设施市场的竞争格局。",
-    "发布日期": "2026-06-22",
-    "原文链接": "https://www.aibase.com/zh/news/29045",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c7d9edadc63c9abf5e536b8b6cc12fd1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c7d9edadc63c9abf5e536b8b6cc12fd1.jpg",
-    "配图仓库路径": "assets/news_images/c7d9edadc63c9abf5e536b8b6cc12fd1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304071204222412_1.jpg"
-  },
-  {
-    "资讯标题": "三星电子全球推广 ChatGPT Enterprise 与 Codex 助力员工提升生产力",
-    "内容": "三星电子近日宣布在全球范围内向员工全面推广 ChatGPT Enterprise 和 Codex，旨在通过 AI 技术提升研发、制造及市场营销等业务环节的生产力。此次部署覆盖韩国全体员工及全球设备体验（DX）部门，员工可利用 ChatGPT Enterprise 进行信息检索、文档撰写及数据分析，并在公司安全治理框架下确保数据合规。Codex 则被引入以支持软件开发及非技术团队的自动化工作流构建，助力员工将创意转化为内部工具与网站。数据显示，韩国的 Codex 活跃用户自 2026 年 2 月以来增长近 80%。OpenAI 韩国总经理金赫成表示，三星正将 AI 视为提升员工创新能力的核心平台。双方合作已从早期的 AI 基础设施内存半导体供应，扩展至企业级 AI 应用与员工转型层面。此次部署是 OpenAI 在",
-    "发布日期": "2026-06-22",
-    "原文链接": "https://www.aibase.com/zh/news/29044",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/966d11ec2d1e9035b153e6b09134c43b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/966d11ec2d1e9035b153e6b09134c43b.jpg",
-    "配图仓库路径": "assets/news_images/966d11ec2d1e9035b153e6b09134c43b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201907311526092928_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29052",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f483c15c69bd60eef8497f9703d661f5.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f483c15c69bd60eef8497f9703d661f5.jpg",
+    "配图仓库路径": "assets/news_images/f483c15c69bd60eef8497f9703d661f5.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151725243067_1.jpg"
   }
 ]
