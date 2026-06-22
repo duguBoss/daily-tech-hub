@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里联合人大开源多领域科学生成基础模型LOGOS，实现跨学科数据统一编码",
-    "内容": "6月18日，阿里ATH-Token Foundry联合中国人民大学高瓴人工智能学院正式开源多领域科学生成基础模型LOGOS。该模型通过设计共享词表，将蛋白质、抗体、小分子及MOF材料等异构对象统一编码为离散Token序列，无需依赖昂贵的3D空间信息即可构建复杂的3D空间互作规律，打破了科学界不同分支间的“语言鸿沟”。在性能方面，LOGOS-1B版本仅用1/56的参数量，在多项科学任务中超越微软NatureLM。该模型解决了预训练与下游任务的目标偏差，支持直接激活生成能力，降低了科研开发门槛。目前，LOGOS已构建包含7类模态、总计44.87B tokens的预训练语料库。项目组已在HuggingFace与GitHub开源模型权重、推理代码及技术报告，为多模态科学大模型开发提供了全新的技术范式，显著提升科研自动化",
+    "资讯标题": "诺奖得主John Jumper辞任Google DeepMind，正式加入Anthropic",
+    "内容": "2024年诺贝尔化学奖得主John Jumper于6月20日正式宣布辞去Google DeepMind职务，转投Anthropic。Jumper作为AlphaFold模型核心开发者，在结构生物学与AI融合领域具有极高影响力。此次变动发生于Google DeepMind核心人才流失背景下，此前Gemini联合负责人Noam Shazeer亦离职加入OpenAI。行业分析认为，Anthropic近期通过收购Coefficient Bio及推出Claude for Life Sciences等举措，正加速布局生命科学赛道。Jumper的加入是Anthropic在该领域的重要战略部署，旨在利用AI技术将药物研发周期压缩10倍。随着OpenAI、Google DeepMind与Anthropic在生命科学领域的竞争加剧，",
     "发布日期": "2026-06-22",
-    "原文链接": "https://www.aibase.com/zh/news/29011",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1bc875d1e963cfbae78a451e577f1de8.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1bc875d1e963cfbae78a451e577f1de8.jpg",
-    "配图仓库路径": "assets/news_images/1bc875d1e963cfbae78a451e577f1de8.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0618/6391738957839046088326873.png"
+    "原文链接": "https://www.aibase.com/zh/news/29040",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/46b262aa373f6af53201f715274722dd.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/46b262aa373f6af53201f715274722dd.jpg",
+    "配图仓库路径": "assets/news_images/46b262aa373f6af53201f715274722dd.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202406051700558455_6.jpg"
   },
   {
-    "资讯标题": "演语科技完成近3亿美元B+轮融资，估值超20亿美元且ARR突破3亿美元",
-    "内容": "演语科技（Evoken）近日完成近3亿美元B+轮融资，投后估值超20亿美元，由Granite Asia、腾讯、顺为资本联合领投。截至2026年5月，公司ARR已突破3亿美元，5月集团整体收入同比增长超3000%。演语科技已构建三条核心产品线：拥有超3000万用户及50万原创模型的AI图片创作社区LiblibAI、服务近千个团队的AI视频创作平台LibTV，以及服务超千万用户的AI设计Agent“星流”。这三款产品串联起从素材、生产到交付的完整AI内容链路，核心收入源于短剧、影视、广告等专业内容生产者的真实预算。此次融资标志着演语科技跻身全球AI内容赛道第一梯队，其跨场景整合能力打破了单一工具型公司的局限，反映出AI应用赛道正从单纯比拼生成质量，转向比拼工作流生产链路的深水区。",
+    "资讯标题": "微信上线原生AI助手“小微”灰度测试，支持语音指令调起小程序",
+    "内容": "腾讯近日在微信内低调开启原生AI助手“小微”的限量灰度测试。获得内测资格的用户可在微信主界面左上角点击“小微”图标，进入AI交互窗口。该助手支持文字与语音对话，具备系统级权限，可直接执行发送消息、查询朋友圈、预约服务及调起小程序等复杂指令。不同于以往通过公众号或第三方小程序接入的AI工具，“小微”作为微信生态内首个原生AI助理，实现了与微信原生功能的深度融合。腾讯客服表示，该功能目前处于早期小范围测试阶段，旨在将微信从即时通讯平台重塑为智能助手入口。随着算法与算力的持续优化，腾讯预计将在近期扩大内测范围。此次“原生AI化”转型不仅将改变十亿级用户的交互习惯，也为移动互联网生态的AI工程化落地提供了重要参考。",
     "发布日期": "2026-06-22",
-    "原文链接": "https://www.aibase.com/zh/news/29008",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5e735455b3801bbc6f86372d7af63e1c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5e735455b3801bbc6f86372d7af63e1c.jpg",
-    "配图仓库路径": "assets/news_images/5e735455b3801bbc6f86372d7af63e1c.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0618/6391738816343753396639605.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29043",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f8f5553f2aa26006ba2d5541f429271d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f8f5553f2aa26006ba2d5541f429271d.jpg",
+    "配图仓库路径": "assets/news_images/f8f5553f2aa26006ba2d5541f429271d.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151715061696_39.jpg"
   },
   {
-    "资讯标题": "月之暗面Kimi Work推出目标模式并上线插件中心，支持24小时自主工作",
-    "内容": "月之暗面旗下Kimi电脑客户端近日对Kimi Work（Beta版）进行重大升级，正式推出“目标模式”并上线“插件中心”。目标模式基于智能循环机制，支持AI智能体在无需人工干预的情况下，针对路径不确定的长任务进行长达24小时的自主循环工作，通过实时对比现状与目标差距优化执行路径，并允许用户随时中断或微调。插件中心则打通了百度网盘、钉钉、飞书、WPS、Canva可画及Notion等主流办公应用，用户可通过斜杠指令直接调用外部工具，实现从文本对话到操控办公软件的效率跃升。官方表示，2026年6月期间，用户使用Work模式的会员额度消耗将享受5折优惠。此次更新标志着Kimi Work从单一对话工具向具备自主执行能力的办公效率助手转型，显著降低了处理复杂重复任务的门槛。",
+    "资讯标题": "京东宣布全球开放AI技术并启动涅槃计划赋能蓝领员工技能转型",
+    "内容": "京东集团创始人刘强东于2026年6月21日在APEC工商领导人中国论坛宣布，京东即日起将旗下所有AI技术向全球伙伴全面开放，旨在推动人工智能技术普惠化并打破行业技术壁垒。除技术共享外，京东正式启动“涅槃计划”，针对集团内70万名蓝领员工开展系统性职业再教育。京东将与全国120所专业院校签约，为员工提供机器人维修、精密设备保养等定制化技术培训，助力蓝领群体在智能制造环境下实现岗位转型与技能跨越。刘强东强调，企业应成为合作推动者而非技术壁垒的“筑墙者”，并指出国际化经营需扎根当地，注重长期可持续发展。此次战略布局标志着京东试图通过技术共享与人才转型并行，在全球AI生态建设中发挥更深远的影响力，同时应对技术变革带来的就业结构挑战。",
     "发布日期": "2026-06-22",
-    "原文链接": "https://www.aibase.com/zh/news/29017",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8a46bf5d159bb8cf007a957ebc948bbc.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8a46bf5d159bb8cf007a957ebc948bbc.jpg",
-    "配图仓库路径": "assets/news_images/8a46bf5d159bb8cf007a957ebc948bbc.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202604291619214186_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29047",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/de6295ae976c57469aa7314bd7505888.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/de6295ae976c57469aa7314bd7505888.jpg",
+    "配图仓库路径": "assets/news_images/de6295ae976c57469aa7314bd7505888.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202002222214201321_9.jpg"
   },
   {
-    "资讯标题": "Transformer核心作者Noam Shazeer正式加盟OpenAI，谷歌巨资挽留失败",
-    "内容": "Transformer架构核心作者、AI领域顶尖研究员Noam Shazeer近日正式宣布加入OpenAI。Shazeer曾是谷歌Gemini项目的技术负责人，此前谷歌曾斥资约27亿美元通过技术许可协议将其召回，但此次他选择再次离开。作为《Attention Is All You Need》论文的主要作者，Shazeer被业界誉为“巫师”，其发明的Transformer架构是现代LLM的核心基石。此次变动后，Transformer论文的八位原作者已全部离开谷歌，其中两人现已落脚OpenAI。Shazeer的加入将为OpenAI的研发提供强力支持，进一步加剧了顶级AI巨头间的人才竞争。对于行业而言，这一人事变动标志着谷歌在核心人才留存上面临严峻挑战，同时也预示着OpenAI在模型架构与技术创新领域将获得更深厚的研",
+    "资讯标题": "亚马逊正商谈向外部公司出售自研AI芯片Trainium以拓展算力市场",
+    "内容": "亚马逊AI主管Peter DeSantis近日透露，公司已启动向外部企业出售自研AI专用芯片Trainium的商谈。此前，该系列芯片主要通过AWS以云计算服务形式提供。目前，亚马逊最新一代Trainium3芯片已接近售罄，而下一代Trainium4芯片正受到市场高度关注。亚马逊CEO Andy Jassy此前在股东信中指出，Trainium在云服务中的需求量激增，甚至已出现整批芯片外售的潜在需求。DeSantis强调，外售芯片策略不会冲击AWS现有的AI云业务，并认为AI算力市场仍具备巨大增长空间。在谷歌已开始交付AI ASIC硬件的背景下，亚马逊此举旨在进一步强化其在AI硬件领域的布局，直接挑战以NVIDIA为主导的AI GPU生态，加剧了高性能AI计算基础设施市场的竞争格局。",
     "发布日期": "2026-06-22",
-    "原文链接": "https://www.aibase.com/zh/news/29016",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "配图仓库路径": "assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171707346148_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29045",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c7d9edadc63c9abf5e536b8b6cc12fd1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c7d9edadc63c9abf5e536b8b6cc12fd1.jpg",
+    "配图仓库路径": "assets/news_images/c7d9edadc63c9abf5e536b8b6cc12fd1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304071204222412_1.jpg"
   },
   {
-    "资讯标题": "Anthropic拟升级Claude语音模式，新增多语言支持并引入通话式交互",
-    "内容": "Anthropic正筹备Claude语音模式的重大升级，旨在打破语言壁垒并优化交互体验。根据iOS版应用设置界面显示，Claude将新增对中文、粤语、日语、德语、西班牙语、葡萄牙语、俄语及乌克兰语的支持。在交互逻辑上，Claude新增了“按下通话”模式，用户需长按按钮进行语音输入，并保留了支持连续对话的“免提”模式。此外，应用界面中出现的电话听筒图标暗示，Anthropic或将推出更接近传统语音通话的即时交互功能。此次更新通过扩充语种覆盖范围及精细化操作逻辑，显著提升了Claude在多语言环境下的可用性，使AI助手交互更趋近于自然的人际沟通，目前该系列功能变动仍处于酝酿阶段。",
+    "资讯标题": "三星电子全球推广 ChatGPT Enterprise 与 Codex 助力员工提升生产力",
+    "内容": "三星电子近日宣布在全球范围内向员工全面推广 ChatGPT Enterprise 和 Codex，旨在通过 AI 技术提升研发、制造及市场营销等业务环节的生产力。此次部署覆盖韩国全体员工及全球设备体验（DX）部门，员工可利用 ChatGPT Enterprise 进行信息检索、文档撰写及数据分析，并在公司安全治理框架下确保数据合规。Codex 则被引入以支持软件开发及非技术团队的自动化工作流构建，助力员工将创意转化为内部工具与网站。数据显示，韩国的 Codex 活跃用户自 2026 年 2 月以来增长近 80%。OpenAI 韩国总经理金赫成表示，三星正将 AI 视为提升员工创新能力的核心平台。双方合作已从早期的 AI 基础设施内存半导体供应，扩展至企业级 AI 应用与员工转型层面。此次部署是 OpenAI 在",
     "发布日期": "2026-06-22",
-    "原文链接": "https://www.aibase.com/zh/news/29013",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
-    "配图仓库路径": "assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403050858462025_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29044",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/966d11ec2d1e9035b153e6b09134c43b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/966d11ec2d1e9035b153e6b09134c43b.jpg",
+    "配图仓库路径": "assets/news_images/966d11ec2d1e9035b153e6b09134c43b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201907311526092928_0.jpg"
   }
 ]
