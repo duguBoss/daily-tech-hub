@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "诺奖得主John Jumper辞任Google DeepMind职务并正式加入Anthropic",
-    "内容": "6月20日，2024年诺贝尔化学奖得主、AlphaFold核心开发者John Jumper正式宣布辞去Google DeepMind职务，转投Anthropic。Jumper在DeepMind效力九年，与Demis Hassabis共同推动了蛋白质结构预测领域的科研范式变革。此次变动正值Google DeepMind核心人才流失期，此前Gemini联合负责人Noam Shazeer亦离职加入OpenAI。行业分析认为，Anthropic近期通过收购Coefficient Bio及推出Claude for Life Sciences等举措，正深耕生命科学赛道，旨在将药物研发周期压缩10倍。Jumper的加入是Anthropic在该高精尖领域的关键战略布局。随着顶级科研人才在OpenAI、Google DeepMi",
-    "发布日期": "2026-06-22",
-    "原文链接": "https://www.aibase.com/zh/news/29040",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/46b262aa373f6af53201f715274722dd.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/46b262aa373f6af53201f715274722dd.jpg",
-    "配图仓库路径": "assets/news_images/46b262aa373f6af53201f715274722dd.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202406051700558455_6.jpg"
+    "资讯标题": "阿里巴巴发布HappyHorse 1.1视频生成模型，实现多维度系统性升级",
+    "内容": "阿里巴巴正式发布视频生成模型HappyHorse 1.1，此次版本迭代在动态表现力、主体一致性、指令遵循、视觉质感及音频能力等核心维度实现系统性升级。相较于1.0版本，HappyHorse 1.1显著提升了视频生成的流畅度与动作连贯性，在多帧画面中能更稳定地保持主体一致性，并增强了对复杂指令的理解与执行能力。此外，该模型优化了视觉质感与音频同步效果，提供更具沉浸感的视听体验。目前，HappyHorse 1.1已全面接入HappyHorse官网、阿里云百炼及千问云平台，开发者、创作者及企业用户可直接调用。此次升级进一步强化了阿里巴巴在视频生成AI领域的工具能力，为用户提供更高效、细腻的视频内容创作支持。",
+    "发布日期": "2026-06-23",
+    "原文链接": "https://www.aibase.com/zh/news/29053",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9b745cf2a41d7445aa11f595bddada02.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9b745cf2a41d7445aa11f595bddada02.jpg",
+    "配图仓库路径": "assets/news_images/9b745cf2a41d7445aa11f595bddada02.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0622/6391773636187739647254524.jpg"
   },
   {
-    "资讯标题": "苹果与LM Studio合作实现四台Mac Studio运行万亿参数Kimi K2.6模型",
-    "内容": "苹果与LM Studio在WWDC期间展示了通过四台搭载M3 Ultra芯片的Mac Studio集群，成功运行月之暗面旗下万亿参数模型Kimi K2.6的成果。该模型采用MoE架构，推理时激活约320亿参数，但完整权重加载需约2TB内存。通过macOS的RDMA-over-Thunderbolt技术，四台设备通过Thunderbolt 5接口互联，将统一内存整合为逻辑超大内存池，实现每秒约28个token的生成速度。此外，LM Studio发布了基于Tailscale Mesh VPN的LM Link组件，支持用户通过加密通道远程调用本地集群算力，确保数据本地闭环。此方案利用Apple Silicon统一内存架构，为企业提供了一种替代昂贵云端GPU集群的本地部署新路径，显著降低了长周期运营的硬件成本，并推动了",
-    "发布日期": "2026-06-22",
-    "原文链接": "https://www.aibase.com/zh/news/29050",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e46295a4cd804d1e594ef08c49201e40.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e46295a4cd804d1e594ef08c49201e40.jpg",
-    "配图仓库路径": "assets/news_images/e46295a4cd804d1e594ef08c49201e40.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202105261143226742_7.jpg"
+    "资讯标题": "苹果联手LM Studio实现四台Mac Studio集群本地运行万亿参数Kimi K2.6模型",
+    "内容": "在WWDC2026上，苹果与LM Studio合作演示了利用四台Mac Studio组成的集群成功运行月之暗面万亿参数模型Kimi K2.6。该模型采用MoE架构，激活参数为320亿，支持长上下文、多模态及智能体任务。演示中，四台设备通过内存共享与互联技术实现约1.5TB统一内存，推理速度可达28 tokens/s，功耗显著低于传统GPU方案。此外，LM Studio推出的LM Link功能支持通过MacBook Neo及iPhone远程连接集群，利用端到端加密确保数据本地化处理，无需云端交互。此次技术演示验证了消费级硬件承载大规模AI推理的可行性，结合苹果Thunderbolt 5 RDMA等互联技术，标志着万亿参数模型本地化部署已进入工程落地阶段，为开发者提供了隐私安全且高性能的算力新路径。",
+    "发布日期": "2026-06-23",
+    "原文链接": "https://www.aibase.com/zh/news/29057",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2d7c7a9825ff22e74d05c908ae8db973.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2d7c7a9825ff22e74d05c908ae8db973.jpg",
+    "配图仓库路径": "assets/news_images/2d7c7a9825ff22e74d05c908ae8db973.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307181533345531_11.jpg"
   },
   {
-    "资讯标题": "微软拟在 Copilot Cowork 中引入 DeepSeek V4 模型以优化成本",
-    "内容": "微软正计划将中国 DeepSeek V4 模型纳入其企业级 AI Agent 系统 Copilot Cowork 的模型选项列表，旨在应对高昂的算力成本压力。Copilot Cowork 目前已在全球商用，超半数财富 500 强企业已完成部署。为应对模型频繁调用带来的成本挑战，微软正重构商业模式，在固定订阅制基础上新增按量计费的弹性机制。同时，微软正推动模型分层路由机制，根据任务需求智能调度模型，以实现运营成本的精细化管理。若此次合作落地，将成为美国大型科技公司首次在核心企业级 AI 产品中引入中国大模型，标志着行业在应对 AI 应用“烧钱”困局时，正通过更开放、灵活的模型策略寻求生存与增长路径。",
-    "发布日期": "2026-06-22",
-    "原文链接": "https://www.aibase.com/zh/news/29046",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "配图仓库路径": "assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202602270950033335_0.jpg"
-  },
-  {
-    "资讯标题": "微信灰度上线原生AI助手小微，支持语音文字操控应用功能",
-    "内容": "腾讯微信近日低调开启原生AI助手“小微”的限量灰度测试。部分受邀用户可在微信主界面左上角点击“小微”图标，进入AI交互窗口。该助手支持用户通过文字或语音指令直接调用微信原生功能，包括发送消息、查询朋友圈及预约小程序服务等。与以往第三方接入的AI工具不同，“小微”具备系统级权限与更高的生态融合度，能够直接解构并执行复杂指令。腾讯客服确认该功能为微信团队内部测试的原生AI服务。此次上线标志着微信正从即时通讯平台向智能助手入口转型，通过大模型深度整合，重塑十亿级用户的交互习惯。目前该功能处于早期测试阶段，后续将根据算法与算力优化情况逐步扩大内测范围，为移动互联网生态的AI工程化落地提供重要参考。",
-    "发布日期": "2026-06-22",
-    "原文链接": "https://www.aibase.com/zh/news/29043",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f8f5553f2aa26006ba2d5541f429271d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f8f5553f2aa26006ba2d5541f429271d.jpg",
-    "配图仓库路径": "assets/news_images/f8f5553f2aa26006ba2d5541f429271d.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151715061696_39.jpg"
-  },
-  {
-    "资讯标题": "小米正式发布并开源全屋智能AI方案Xiaomi Miloco 2.0",
-    "内容": "小米正式发布并开源全屋智能AI方案Xiaomi Miloco 2.0，该方案基于自研MiMo大模型构建，通过Agent形式接入OpenClaw框架，实现从规则触发向自主推理的跨越。Miloco 2.0具备通用常识、身份识别、家庭记忆与家庭任务四大核心能力，支持识别家庭成员及体态，并能根据长期习惯主动决策执行复杂任务。部署方面，系统要求内存不低于4GB、存储不低于256GB，推荐运行于Mac mini（macOS或Linux系统），Windows用户需通过WSL环境运行。用户需准备小米账号、米家设备及MiMo-v2.5系列模型API Key。该方案通过Web家庭面板提供实时概览与日志管理，标志着全屋智能迈向主动服务阶段，代码已在GitHub完整开源，为开发者提供构建家庭智能体的底层架构支持。",
-    "发布日期": "2026-06-22",
+    "资讯标题": "小米正式发布并开源全屋智能AI方案Miloco 2.0，实现家庭主动智能",
+    "内容": "小米正式发布并开源全屋智能AI方案Xiaomi Miloco 2.0，该方案基于自研MiMo大模型构建，以Agent形式接入OpenClaw框架，实现从规则触发向自主推理的底层逻辑重构。Miloco 2.0具备通用常识、身份识别、家庭记忆和家庭任务四大核心能力，支持通过人脸与体态识别区分家庭成员，并根据长期习惯沉淀主动决策，实现如加班关怀、复杂任务自主执行等主动智能场景。部署方面，该方案要求内存不低于4GB、存储不低于256GB，支持macOS与Linux系统，Windows用户需通过WSL运行，并需配置MiMo-v2.5系列模型API Key。配套的Web家庭面板可实时监控设备状态与历史日志。此次开源旨在推动全屋智能从被动响应向具备记忆、识人与执行能力的管家式主动服务演进，代码已在GitHub公开。",
+    "发布日期": "2026-06-23",
     "原文链接": "https://www.aibase.com/zh/news/29052",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f483c15c69bd60eef8497f9703d661f5.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f483c15c69bd60eef8497f9703d661f5.jpg",
     "配图仓库路径": "assets/news_images/f483c15c69bd60eef8497f9703d661f5.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151725243067_1.jpg"
+  },
+  {
+    "资讯标题": "京东开源实时视频交互模型JoyAI-VL-Interaction，实现主动式视觉交互",
+    "内容": "京东正式开源实时视频视觉语言交互模型JoyAI-VL-Interaction，该模型获vLLM-Omni深度支持，标志着AI助手从“被动响应”转向“边看边说”的自主观察模式。JoyAI-VL-Interaction具备持续观察视频流的能力，能智能判断交互时机，实现画面变化与智能响应的同步。技术亮点在于“后台委托”机制，模型可将代码生成、复杂推理等任务分流至后台Agent系统，确保前台观察与交互并行。该模型支持摄像头、直播流及监控信号等多种输入源，并允许开发者灵活替换ASR、TTS及外部API接口。在涵盖监控预警、实时翻译等58个流式场景的盲评测试中，该模型表现优异。此开源方案为安防监控、电商导购、AI眼镜等产业级应用提供了具备高实时性的技术基座，有效解决了传统“先上传、后分析”模式的滞后问题。",
+    "发布日期": "2026-06-23",
+    "原文链接": "https://www.aibase.com/zh/news/29063",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/de6295ae976c57469aa7314bd7505888.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/de6295ae976c57469aa7314bd7505888.jpg",
+    "配图仓库路径": "assets/news_images/de6295ae976c57469aa7314bd7505888.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202002222214201321_9.jpg"
+  },
+  {
+    "资讯标题": "OpenAI与三星电子达成合作，12万员工全面接入ChatGPT企业版及Codex",
+    "内容": "OpenAI近日与三星电子达成史上最大规模企业级部署合作，向三星全球超12万名员工提供ChatGPT企业版及Codex开发平台。此次部署覆盖韩国本土全体员工及设备体验（DX）部门全球员工，涉及软件开发、市场营销、产品制造等核心业务。三星员工将利用ChatGPT进行信息检索、数据分析与文档撰写，并借助Codex实现业务流程自动化。OpenAI强调，ChatGPT企业版在数据保护、权限管理及安全控制方面进行了强化，确保符合企业治理框架。Codex目前周活跃用户已超500万，其中韩国地区增长显著。除软件应用外，双方还将在下一代AI基础设施所需的高端存储半导体供应领域深化协作。此次合作标志着三星将AI从局部工具升级为全球战略平台，进一步推动了企业级AI应用的规模化落地。",
+    "发布日期": "2026-06-23",
+    "原文链接": "https://www.aibase.com/zh/news/29061",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "配图仓库路径": "assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg"
   }
 ]
