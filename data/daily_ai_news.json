@@ -1,52 +1,42 @@
 [
   {
-    "资讯标题": "阿里巴巴发布HappyHorse 1.1视频生成模型，实现多维度系统性升级",
-    "内容": "阿里巴巴正式发布视频生成模型HappyHorse 1.1，此次版本迭代在动态表现力、主体一致性、指令遵循、视觉质感及音频能力等核心维度实现系统性升级。相较于1.0版本，HappyHorse 1.1显著提升了视频生成的流畅度与动作连贯性，在多帧画面中能更稳定地保持主体一致性，并增强了对复杂指令的理解与执行能力。此外，该模型优化了视觉质感与音频同步效果，提供更具沉浸感的视听体验。目前，HappyHorse 1.1已全面接入HappyHorse官网、阿里云百炼及千问云平台，开发者、创作者及企业用户可直接调用。此次升级进一步强化了阿里巴巴在视频生成AI领域的工具能力，为用户提供更高效、细腻的视频内容创作支持。",
+    "资讯标题": "谷歌DeepMind注资7500万美元与A24合作研发影视AI制作工具",
+    "内容": "谷歌DeepMind近日宣布向独立电影制片公司A24注资7500万美元，双方将联合研发影视制作人工智能工具。该合作被定义为业内首创模式，旨在让科技巨头与顶尖创作者在项目初期直接协作，共同打造赋能创作者的新型AI功能。DeepMind联合创始人兼首席德米斯·哈萨比斯表示，此举旨在通过与行业领军者合作，开发能助力创作者实现深度故事创作与创意构想的AI工具。A24曾出品《瞬息全宇宙》等知名影片，此次合作标志着AI技术进一步渗透至好莱坞独立电影制作核心。随着Netflix收购InterPositive及亚马逊米高梅影业成立AI部门，好莱坞影视产业链正加速AI化进程，通过注资与技术研发，AI正在重新定义电影创作的边界与工具范式。",
     "发布日期": "2026-06-23",
-    "原文链接": "https://www.aibase.com/zh/news/29053",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9b745cf2a41d7445aa11f595bddada02.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9b745cf2a41d7445aa11f595bddada02.jpg",
-    "配图仓库路径": "assets/news_images/9b745cf2a41d7445aa11f595bddada02.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0622/6391773636187739647254524.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29075",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/026b44551f1f9b5f4abe5b92e8cdbd4c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/026b44551f1f9b5f4abe5b92e8cdbd4c.jpg",
+    "配图仓库路径": "assets/news_images/026b44551f1f9b5f4abe5b92e8cdbd4c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307141649266632_5.jpg"
   },
   {
-    "资讯标题": "苹果联手LM Studio实现四台Mac Studio集群本地运行万亿参数Kimi K2.6模型",
-    "内容": "在WWDC2026上，苹果与LM Studio合作演示了利用四台Mac Studio组成的集群成功运行月之暗面万亿参数模型Kimi K2.6。该模型采用MoE架构，激活参数为320亿，支持长上下文、多模态及智能体任务。演示中，四台设备通过内存共享与互联技术实现约1.5TB统一内存，推理速度可达28 tokens/s，功耗显著低于传统GPU方案。此外，LM Studio推出的LM Link功能支持通过MacBook Neo及iPhone远程连接集群，利用端到端加密确保数据本地化处理，无需云端交互。此次技术演示验证了消费级硬件承载大规模AI推理的可行性，结合苹果Thunderbolt 5 RDMA等互联技术，标志着万亿参数模型本地化部署已进入工程落地阶段，为开发者提供了隐私安全且高性能的算力新路径。",
+    "资讯标题": "美光科技与Anthropic达成战略合作并参与H轮融资，共筑AI基础设施",
+    "内容": "6月22日，存储芯片巨头美光科技宣布与人工智能企业Anthropic达成深度战略合作，并正式参与其H轮融资。双方将围绕AI内存架构设计、技术研发及供应链保障展开全方位协同，重点攻克HBM、DRAM及SSD在AI训练与推理场景中的应用难题。美光将通过深度分析内存和存储子系统在不同AI工作负载下的表现，协助Anthropic优化Claude大模型的能效比与成本结构。此外，双方已签署长期内存和存储供应协议，全面覆盖Anthropic的数据中心产品组合，确保其在高速算力扩张期的硬件供应稳定性。此次合作标志着模型厂商与硬件制造商的深度捆绑成为提升AI算力效能的新范式，双方旨在通过股权投资与技术协同，共同构筑下一代AI基础设施的竞争壁垒。",
     "发布日期": "2026-06-23",
-    "原文链接": "https://www.aibase.com/zh/news/29057",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2d7c7a9825ff22e74d05c908ae8db973.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2d7c7a9825ff22e74d05c908ae8db973.jpg",
-    "配图仓库路径": "assets/news_images/2d7c7a9825ff22e74d05c908ae8db973.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307181533345531_11.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29082",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
   },
   {
-    "资讯标题": "小米正式发布并开源全屋智能AI方案Miloco 2.0，实现家庭主动智能",
-    "内容": "小米正式发布并开源全屋智能AI方案Xiaomi Miloco 2.0，该方案基于自研MiMo大模型构建，以Agent形式接入OpenClaw框架，实现从规则触发向自主推理的底层逻辑重构。Miloco 2.0具备通用常识、身份识别、家庭记忆和家庭任务四大核心能力，支持通过人脸与体态识别区分家庭成员，并根据长期习惯沉淀主动决策，实现如加班关怀、复杂任务自主执行等主动智能场景。部署方面，该方案要求内存不低于4GB、存储不低于256GB，支持macOS与Linux系统，Windows用户需通过WSL运行，并需配置MiMo-v2.5系列模型API Key。配套的Web家庭面板可实时监控设备状态与历史日志。此次开源旨在推动全屋智能从被动响应向具备记忆、识人与执行能力的管家式主动服务演进，代码已在GitHub公开。",
+    "资讯标题": "字节跳动发布Seedance 2.5视频模型及豆包2.1 Pro，支持30秒视频直出",
+    "内容": "6月23日，字节跳动火山引擎FORCE原动力大会发布多款AI重磅产品。核心亮点视频生成模型Seedance 2.5实现技术突破，支持一次性直出30秒完整视频，并新增3D白模支持及更强的参考素材可控性，显著提升影视与广告工业级生产效率。同期发布的豆包Seed 2.1系列模型（含Pro版）性能对标Opus 4.6，具备生产部署能力。其中，豆包2.1 Pro支持观看2小时视频并进行端到端剪辑，强化了长上下文理解与多模态处理实力。此外，全新图像模型Seeddream 5.0同步亮相，与Seedance及豆包系列协同，助力实现从图像到视频的一站式创作闭环。字节跳动将推出豆包专业版及办公产品，重点强化端到端任务处理能力，加速AI Agent在企业办公与内容创作场景的落地。",
     "发布日期": "2026-06-23",
-    "原文链接": "https://www.aibase.com/zh/news/29052",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f483c15c69bd60eef8497f9703d661f5.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f483c15c69bd60eef8497f9703d661f5.jpg",
-    "配图仓库路径": "assets/news_images/f483c15c69bd60eef8497f9703d661f5.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151725243067_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29085",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d93dd873b646597c4255e318411d831e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d93dd873b646597c4255e318411d831e.jpg",
+    "配图仓库路径": "assets/news_images/d93dd873b646597c4255e318411d831e.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0623/6391781005804728811193324.png"
   },
   {
-    "资讯标题": "京东开源实时视频交互模型JoyAI-VL-Interaction，实现主动式视觉交互",
-    "内容": "京东正式开源实时视频视觉语言交互模型JoyAI-VL-Interaction，该模型获vLLM-Omni深度支持，标志着AI助手从“被动响应”转向“边看边说”的自主观察模式。JoyAI-VL-Interaction具备持续观察视频流的能力，能智能判断交互时机，实现画面变化与智能响应的同步。技术亮点在于“后台委托”机制，模型可将代码生成、复杂推理等任务分流至后台Agent系统，确保前台观察与交互并行。该模型支持摄像头、直播流及监控信号等多种输入源，并允许开发者灵活替换ASR、TTS及外部API接口。在涵盖监控预警、实时翻译等58个流式场景的盲评测试中，该模型表现优异。此开源方案为安防监控、电商导购、AI眼镜等产业级应用提供了具备高实时性的技术基座，有效解决了传统“先上传、后分析”模式的滞后问题。",
+    "资讯标题": "Reflection AI与SpaceX签署63亿美元算力租赁协议，加速开放权重模型研发",
+    "内容": "开源AI实验室Reflection AI与SpaceX达成算力租赁协议，将从2026年7月1日起至2029年，每月支付1.5亿美元，以获取SpaceX位于田纳西州Colossus2数据中心的GB300 AI芯片算力资源，合同总价值达63亿美元。该协议允许双方在三个月后提前90天通知终止。随着原属xAI的Colossus数据中心并入SpaceX，SpaceX已先后与Anthropic、谷歌及Reflection AI达成大规模算力合作。Reflection AI由前谷歌DeepMind研究人员于2024年创立，此次合作是开源AI领域最大规模的基础设施承诺之一。在美政府限制Anthropic部分封闭模型背景下，此举旨在通过顶级算力支持，加速开放权重模型研发，以应对封闭模型带来的市场风险与成本压力，或将重塑前沿AI生",
     "发布日期": "2026-06-23",
-    "原文链接": "https://www.aibase.com/zh/news/29063",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/de6295ae976c57469aa7314bd7505888.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/de6295ae976c57469aa7314bd7505888.jpg",
-    "配图仓库路径": "assets/news_images/de6295ae976c57469aa7314bd7505888.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202002222214201321_9.jpg"
-  },
-  {
-    "资讯标题": "OpenAI与三星电子达成合作，12万员工全面接入ChatGPT企业版及Codex",
-    "内容": "OpenAI近日与三星电子达成史上最大规模企业级部署合作，向三星全球超12万名员工提供ChatGPT企业版及Codex开发平台。此次部署覆盖韩国本土全体员工及设备体验（DX）部门全球员工，涉及软件开发、市场营销、产品制造等核心业务。三星员工将利用ChatGPT进行信息检索、数据分析与文档撰写，并借助Codex实现业务流程自动化。OpenAI强调，ChatGPT企业版在数据保护、权限管理及安全控制方面进行了强化，确保符合企业治理框架。Codex目前周活跃用户已超500万，其中韩国地区增长显著。除软件应用外，双方还将在下一代AI基础设施所需的高端存储半导体供应领域深化协作。此次合作标志着三星将AI从局部工具升级为全球战略平台，进一步推动了企业级AI应用的规模化落地。",
-    "发布日期": "2026-06-23",
-    "原文链接": "https://www.aibase.com/zh/news/29061",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "配图仓库路径": "assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29072",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2772f6c808deb0ee7e56fb6db3c0cb82.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2772f6c808deb0ee7e56fb6db3c0cb82.jpg",
+    "配图仓库路径": "assets/news_images/2772f6c808deb0ee7e56fb6db3c0cb82.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307180849462170_0.jpg"
   }
 ]
