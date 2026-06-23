@@ -1,28 +1,38 @@
 [
   {
-    "资讯标题": "谷歌DeepMind注资7500万美元与A24合作研发影视制作AI工具",
-    "内容": "谷歌DeepMind近日宣布向独立电影制片公司A24注资7500万美元，双方将联合研发影视制作人工智能工具。该合作被定义为业内首创模式，旨在让科技巨头与顶尖创作者从项目初期直接协作，共同打造赋能创作者的新型AI功能。DeepMind联合创始人兼首席德米斯·哈萨比斯表示，此举旨在助力创作者完成真实、有深度的故事创作，充分实现创意构想。A24曾出品《瞬息全宇宙》等爆款影片，此次合作标志着AI正式进军好莱坞独立电影圈。此前，Netflix已收购影视AI工具公司InterPositive，亚马逊米高梅影业也成立了专门的人工智能部门。从流媒体巨头到独立厂牌，AI正通过注资、收购及内部研发等路径加速渗透影视产业链，技术驱动的创作革命或将重新定义电影边界。",
-    "发布日期": "2026-06-23",
-    "原文链接": "https://www.aibase.com/zh/news/29075",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/026b44551f1f9b5f4abe5b92e8cdbd4c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/026b44551f1f9b5f4abe5b92e8cdbd4c.jpg",
-    "配图仓库路径": "assets/news_images/026b44551f1f9b5f4abe5b92e8cdbd4c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307141649266632_5.jpg"
+    "资讯标题": "腾讯QQ邮箱上线AI专属邮箱服务Agently Mail并开启内测",
+    "内容": "腾讯QQ邮箱正式上线专为AI智能体打造的专属邮箱服务Agently Mail并开启内测。该服务为每个Agent分配独立且与个人邮箱物理隔离的地址，通过实名认证及用户确认机制，解决AI操作个人邮箱带来的隐私与安全风险。Agently Mail支持AI自主注册第三方平台、接收验证码，并实现企业间A2A（Agent to Agent）自动通信，支持询价、报价及订单对接等商务流程。在安全性上，系统内置Prompt注入防护，所有操作均可追溯。目前，该服务已适配Cursor、Claude Code、Kimi、豆包超能模式等主流AI Agent，用户通过CLI工具及微信扫码即可完成授权。Agently Mail已在GitHub以Apache-2.0协议开源，支持发票归集、简历投递及订单对账等自动化办公场景，旨在为AI提供安全",
+    "发布日期": "2026-06-24",
+    "原文链接": "https://www.aibase.com/zh/news/29099",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ad3c563db43f33bac7713c4568446b63.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ad3c563db43f33bac7713c4568446b63.jpg",
+    "配图仓库路径": "assets/news_images/ad3c563db43f33bac7713c4568446b63.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005261146537033_14.jpg"
   },
   {
-    "资讯标题": "美光科技与Anthropic达成战略合作并参与其H轮融资，共筑AI基础设施",
-    "内容": "6月22日，存储芯片巨头美光科技宣布与人工智能企业Anthropic达成深度战略合作，并正式参与其H轮融资。双方将重点攻克HBM、DRAM及SSD在AI训练与推理场景中的应用难题，通过优化内存和存储子系统，提升Claude大模型基础设施的能效比与成本结构。美光已与Anthropic签署长期供应协议，全面覆盖其数据中心产品组合，确保算力扩张期的硬件稳定性。此次合作标志着存储技术作为AI算力底座的重要性进一步凸显，通过股权投资与技术协同的双重驱动，双方旨在构筑下一代AI基础设施的竞争壁垒。行业分析认为，模型厂商与硬件制造商的深度捆绑，正成为提升AI算力效能的全新范式。",
-    "发布日期": "2026-06-23",
-    "原文链接": "https://www.aibase.com/zh/news/29082",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
+    "资讯标题": "百川智能发布医疗增强大模型Baichuan-M4，实现主动问诊与全病程记忆",
+    "内容": "百川智能联手清华大学发布医疗增强大模型Baichuan-M4，在HealthBench及其Hard、Professional榜单中位居榜首，医疗专业能力超越GPT-5.5。该模型核心突破在于交互模式的变革，具备模拟真人医生的主动追问能力，能自主识别病情线索。技术层面，M4引入“全病程记忆”功能，深度整合历史病历、化验指标及用药反馈，确保诊疗连贯性。此外，其采用“证据锚定”技术，使医学结论能精确对应权威临床指南或论文，循证引用精度达90.0。Baichuan-M4的发布标志着大模型从知识储备向诊疗决策支持跨越，通过提升复杂病例推理能力，为医疗资源稀缺地区提供可靠诊断参考，推动医疗行业智能化转型。",
+    "发布日期": "2026-06-24",
+    "原文链接": "https://www.aibase.com/zh/news/29092",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cbfc59096efac124e295d3ead49afcbb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/cbfc59096efac124e295d3ead49afcbb.jpg",
+    "配图仓库路径": "assets/news_images/cbfc59096efac124e295d3ead49afcbb.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309151440044034_0.jpg"
   },
   {
-    "资讯标题": "字节跳动发布Seedance 2.5视频模型与豆包2.1 Pro大模型",
-    "内容": "6月23日，字节跳动火山引擎FORCE原动力大会发布多款AI产品。核心亮点Seedance 2.5视频生成模型实现单次直出30秒完整视频，支持3D白模及更高参考素材容量，显著提升长视频叙事连贯性与工业级生产效率。豆包Seed 2.1系列模型同步亮相，其中豆包2.1 Pro能力对标Opus 4.6，支持观看2小时视频并执行端到端剪辑，强化了长上下文理解与任务处理能力。此外，图像模型Seeddream 5.0发布，与Seedance及豆包系列形成多模态协同。字节跳动将推出豆包专业版及办公产品，加速AI Agent在企业办公与内容创作场景的落地。此次更新标志着字节在多模态AI领域的技术迭代，通过提升长序列生成与复杂交互能力，进一步推动AI在影视、广告等行业的商业化应用进程。",
-    "发布日期": "2026-06-23",
+    "资讯标题": "甲骨文披露2026财年裁员2.1万人，支付18.4亿美元离职补偿金",
+    "内容": "甲骨文最新年报显示，2026财年公司员工总数从约16.2万人降至14.1万人，裁员规模达2.1万人，降幅为13%。为推进组织架构调整与AI战略转型，甲骨文为此支出18.4亿美元（约125亿元人民币）离职补偿及相关成本，较上一财年增长近五倍。公司称裁员由管理层调整、绩效评估、战略转向及收购整合等多重因素驱动。作为云计算领域的追赶者，甲骨文近期通过与OpenAI、Meta签署数据中心合作协议以强化竞争力，但面临巨大的资金压力。公司预计本财年净资本开支约700亿美元，计划通过债务和股权融资筹措400亿美元。在全球科技行业裁员潮背景下，2026年已有196家企业累计裁员超11.98万人，显示出AI技术带来的效率提升与成本替代效应正加速重塑行业人力结构。",
+    "发布日期": "2026-06-24",
+    "原文链接": "https://www.aibase.com/zh/news/29091",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/273d5f15835d88f2e3c6d7dee4134883.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/273d5f15835d88f2e3c6d7dee4134883.jpg",
+    "配图仓库路径": "assets/news_images/273d5f15835d88f2e3c6d7dee4134883.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812181034444931_25.jpg"
+  },
+  {
+    "资讯标题": "火山引擎发布Seedance 2.5视频模型与豆包2.1 Pro大模型",
+    "内容": "6月23日，字节跳动火山引擎FORCE原动力大会发布多款AI产品。核心亮点视频生成模型Seedance 2.5实现单次直出30秒完整视频，支持3D白模及更高参考素材容量，显著提升长视频叙事连贯性与工业级生产效率。同期发布的豆包Seed 2.1系列模型（含Pro版）能力对标Opus 4.6，其中豆包2.1 Pro支持2小时视频观看及端到端视频剪辑，强化了长上下文理解与任务处理能力。此外，图像模型Seeddream 5.0同步亮相，与Seedance及豆包系列形成多模态协同。字节跳动将推出豆包专业版及办公产品，旨在加速AI Agent在企业办公与内容创作场景的落地，推动多模态AI技术在工业生产中的应用升级。",
+    "发布日期": "2026-06-24",
     "原文链接": "https://www.aibase.com/zh/news/29085",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d93dd873b646597c4255e318411d831e.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d93dd873b646597c4255e318411d831e.jpg",
@@ -30,13 +40,13 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0623/6391781005804728811193324.png"
   },
   {
-    "资讯标题": "Reflection AI与SpaceX签署63亿美元算力租赁协议，加速开放权重模型研发",
-    "内容": "开源AI实验室Reflection AI与SpaceX达成算力租赁协议，将从2026年7月1日起至2029年，每月支付1.5亿美元，总计63亿美元，以获取SpaceX位于田纳西州Colossus2数据中心的GB300 AI芯片算力资源。该协议允许双方在三个月后提前90天通知终止。随着原属xAI的Colossus数据中心并入SpaceX，SpaceX此前已与Anthropic及谷歌达成算力合作。Reflection AI由前DeepMind研究人员于2024年创立，此次合作是开源AI领域最大规模的基础设施承诺之一。在美国政府限制Anthropic部分封闭模型后，市场对开放权重模型的需求激增。此次顶级算力支持将大幅提升Reflection AI的大规模训练能力，使其在与OpenAI等封闭前沿实验室的竞争中占据更有利",
-    "发布日期": "2026-06-23",
-    "原文链接": "https://www.aibase.com/zh/news/29072",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2772f6c808deb0ee7e56fb6db3c0cb82.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2772f6c808deb0ee7e56fb6db3c0cb82.jpg",
-    "配图仓库路径": "assets/news_images/2772f6c808deb0ee7e56fb6db3c0cb82.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307180849462170_0.jpg"
+    "资讯标题": "影眸科技完成数亿元新一轮融资并发布千万面级3D大模型Rodin Gen-2.5",
+    "内容": "影眸科技近日宣布完成数亿元人民币新一轮融资，由凯辉基金、上海国投先导领投，资金将用于3D大模型研发及全球商业化拓展。同步发布的Hyper3D Rodin Gen-2.5模型引入“先思考、再生成”逻辑，具备千万面级生成能力，最快4秒可生成百万面模型，并支持12K原生3D贴图。该产品主打B端及专业C端市场，海外收入占比达80%，客户涵盖字节跳动、Unity等巨头。作为以Rodin大模型为引擎的核心产品，Hyper3D此前生成的3D画面曾被英伟达CEO黄仁勋用于CES 2026机器人业务展示。数据显示，该产品上线首月订阅用户与ARR环比增速均超400%。此次技术升级不仅强化了影眸科技在3D生成式AI赛道的地位，也为具身智能等垂直场景构建“世界模型”提供了关键技术支撑。",
+    "发布日期": "2026-06-24",
+    "原文链接": "https://www.aibase.com/zh/news/29100",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "配图仓库路径": "assets/news_images/ae445e3823092b64e57a8de65609c984.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308091546512360_0.jpg"
   }
 ]
