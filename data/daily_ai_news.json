@@ -1,17 +1,7 @@
 [
   {
-    "资讯标题": "高通宣布收购AI软件企业Modular，交易预计于2026年下半年完成",
-    "内容": "高通（Qualcomm）正式宣布与AI软件公司Modular达成收购协议，交易预计在2026年下半年完成，目前尚需满足常规成交条件并获得监管批准。Modular的核心业务并非硬件，而是专注于为各类AI XPU提供高效软件栈，其AI原生软件平台支持开发者在不同架构的XPU上实现“一次构建，到处运行”，无需针对特定架构重复编写代码，从而显著提升AI模型的开发效率与运行性能。高通表示，此次收购旨在整合双方优势，将硬件能力与Modular的先进软件技术结合，重点推动AI从终端设备向云端迁移的性能优化。通过此举，高通进一步完善了在AI软件生态系统的战略布局，旨在为客户提供更高效、灵活且易于扩展的AI解决方案，加速AI技术在各行业的广泛应用与普及。",
-    "发布日期": "2026-06-25",
-    "原文链接": "https://www.aibase.com/zh/news/29143",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a6352cb59db57baa542ab10cd918d57c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a6352cb59db57baa542ab10cd918d57c.jpg",
-    "配图仓库路径": "assets/news_images/a6352cb59db57baa542ab10cd918d57c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202011082114198199_16.jpg"
-  },
-  {
     "资讯标题": "谷歌发布Gemini 3.5 Flash模型，新增计算机操作能力实现自主办公",
-    "内容": "谷歌于6月25日正式发布Gemini 3.5 Flash模型，核心亮点在于深度优化了“计算机操作（computer use）”能力，标志着AI从对话助手向能够直接操控电脑界面的“行动派”智能体转型。该模型在编程、科研及自主代理任务上的表现均超越3.1 Pro版本，并显著提升了响应速度。Gemini 3.5 Flash已全面覆盖谷歌生态，包括Gemini应用、搜索AI模式，开发者可通过Gemini API或企业版工具调用，同时它也是新一代个人AI代理Gemini Spark的底层驱动。针对增强的自主执行权限，谷歌同步强化了网络安全及CBRN领域的风险控制，引入可控框架，在处理高风险请求时会主动暂停并寻求人工确认。此次更新旨在通过Flash架构优化，让AI能够自主完成跨软件的复杂工作流，最大限度减少人工参与，推动A",
+    "内容": "6月25日，谷歌正式发布Gemini 3.5 Flash模型，核心升级在于深度优化“计算机操作（computer use）”能力，使AI能直接接管电脑界面并自主完成跨软件工作流。该模型在编码及自主代理任务表现上已超越3.1 Pro版本，并显著提升了响应速度。Gemini 3.5 Flash现已覆盖谷歌生态，包括Gemini应用、搜索AI模式，开发者可通过Gemini API或企业版工具调用，同时该模型将驱动新一代个人AI代理Gemini Spark。针对自主操作带来的安全挑战，谷歌强化了网络安全及CBRN领域风险控制，引入可控框架，在处理高风险请求时会主动暂停并寻求人工确认。此次更新标志着Gemini从对话助手向主动执行的“电脑管家”转型，旨在通过自动化办公与工具调用，最大限度减少人工参与，加速AI直接操控数字",
     "发布日期": "2026-06-25",
     "原文链接": "https://www.aibase.com/zh/news/29147",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
@@ -20,8 +10,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
   },
   {
-    "资讯标题": "苹果发布iOS 27更新，Siri引入独立应用并支持切换至ChatGPT",
-    "内容": "苹果在iOS 27系统中对Siri进行架构升级，推出全新的独立Siri应用。该应用采用聊天机器人设计，支持文本输入、图片与文档上传，并保留对话历史以辅助复杂协作。在智能化交互方面，苹果引入“双模”机制，用户通过长按输入框点击“Ask…”按钮，即可在系统默认的Siri AI与ChatGPT之间自由切换。目前该功能处于初期迭代阶段，存在交互保护机制，即应用重启后会自动重置为默认的Siri AI模式，且暂不支持将ChatGPT设为永久默认模型。此次更新标志着苹果在保持系统生态安全的同时，通过开放模型集成接口，为用户提供更具生产力的AI交互体验，未来有望接入更多元化的AI模型。",
+    "资讯标题": "苹果发布iOS 27系统更新，Siri引入独立应用并支持切换至ChatGPT",
+    "内容": "苹果在iOS 27系统中对Siri进行架构升级，推出全新的独立Siri应用。该应用采用聊天机器人设计，支持文本输入、图片与文档上传，并保留对话历史。在模型集成方面，苹果采取开放策略，用户长按对话输入框点击“Ask…”按钮，即可在系统默认的Siri AI与ChatGPT之间自由切换。目前该功能处于初期迭代阶段，存在一定的保护机制：应用重启后会自动重置为默认的Siri AI模式，且系统设置中暂不支持将ChatGPT设为永久默认模型。此次更新标志着苹果在保持生态安全的同时，通过引入外部主流模型提升AI交互的生产力，未来有望接入更多元化的AI模型以丰富用户选择。",
     "发布日期": "2026-06-25",
     "原文链接": "https://www.aibase.com/zh/news/29150",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6813df2e9665452570de95e6957dbdab.jpg",
@@ -30,8 +20,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202206071125199075_0.jpg"
   },
   {
-    "资讯标题": "OpenAI联合博通发布首款自研推理芯片Jalapeño，计划2026年底部署",
-    "内容": "OpenAI于6月24日正式发布首款定制化AI推理芯片Jalapeño，标志着其从软件算法向底层硬件架构设计的深度转型。该芯片由OpenAI负责架构设计，博通提供硅片实现与网络支持，Celestica负责板卡集成，从设计到流片仅耗时9个月。Jalapeño专为LLM推理任务打造，在运行GPT-5.3、Codex及Spark等任务时展现出卓越的每瓦性能，通过优化计算、内存与网络资源均衡，显著提升了实际利用率。OpenAI总裁格雷格·布罗克曼表示，此举是构建全栈基础设施战略的关键，旨在降低运营成本并提升智能驱动效率。该芯片计划于2026年底前完成首次部署，作为OpenAI多代计算平台的第一块拼图，将助力其摆脱对单一算力供应的依赖，通过软硬一体化战略重塑算力供应链话语权。",
+    "资讯标题": "百度整合升级文心网站并加持文心5.1模型，新增Office在线编辑功能",
+    "内容": "6月25日，百度正式将旗下分散的AI服务入口统一整合为全新的“百度文心网站”。此次升级核心在于全面接入文心5.1大模型，通过更强大的技术底座提升交互效率。在功能矩阵方面，新网站在保留智能文字创作、图片创作、AI阅读及智能体应用的基础上，重磅上线了Office文档在线编辑功能，全面支持PPT、Excel和Word的在线处理，并新增定时任务等效率工具。针对特定场景，网站还推出了AI志愿报告、一键生成AI PPT、基于文心5.1深度搜索的深入研究及AI音乐创作等功能。此次整合旨在打造一站式AI服务超级入口，覆盖学习、办公、生活及娱乐全场景。这一动作标志着百度AI原生应用正加速向生态聚合阶段迈进，通过统一入口降低用户使用门槛，推动大模型技术在日常工作与生活中的深度渗透。",
+    "发布日期": "2026-06-25",
+    "原文链接": "https://www.aibase.com/zh/news/29149",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4a6bea6d5463238eab3ac136b1ca3aef.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4a6bea6d5463238eab3ac136b1ca3aef.jpg",
+    "配图仓库路径": "assets/news_images/4a6bea6d5463238eab3ac136b1ca3aef.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0625/6391798312898175658558399.jpg"
+  },
+  {
+    "资讯标题": "OpenAI联合博通发布首款自研AI推理芯片Jalapeño，计划2026年底部署",
+    "内容": "OpenAI正式与博通联合发布首款定制化AI推理芯片Jalapeño，标志着其从软件算法向底层硬件架构设计的深度延伸。该芯片专为LLM推理任务打造，采用ASIC架构，从设计到流片仅耗时9个月，期间利用OpenAI自研模型加速设计流程。在分工上，OpenAI负责核心架构，博通负责硅片实现与网络硬件支持，Celestica负责板卡与机架集成。早期测试显示，Jalapeño在运行GPT-5.3、Codex及Spark等任务时，展现出卓越的每瓦性能与计算资源利用率。OpenAI总裁格雷格·布罗克曼表示，此举是构建全栈基础设施的关键，旨在降低运营成本并提升智能驱动效率。Jalapeño作为OpenAI多代计算平台首块拼图，计划于2026年底前完成首次部署。此举不仅是OpenAI摆脱单一算力依赖、应对推理算力激增的战略选择",
     "发布日期": "2026-06-25",
     "原文链接": "https://www.aibase.com/zh/news/29141",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
@@ -40,8 +40,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723412816_0.jpg"
   },
   {
-    "资讯标题": "GitHub Copilot于6月正式启用量化计费模式，平台使用量创下历史新高",
-    "内容": "GitHub于6月1日正式将AI编程工具GitHub Copilot的收费模式由固定统一定价调整为按使用量计费。GitHub技术长弗拉基米尔·费多罗夫证实，该计费变更直接推动了客户使用量大幅激增，使6月成为平台上线以来表现最好的月份。尽管用量激增，GitHub目前暂无大幅调涨价格的计划。此次调整旨在应对来自Cursor、OpenAI Codex及Anthropic Claude Code等原生AI编程工具的激烈市场竞争。然而，用量暴增也对基础设施造成压力，GitHub在2026年已发生数十次重大停机，目前微软正寻求亚马逊云端协助以解决容量限制问题。此次事件标志着AI编程工具市场已进入商业模式与基础设施能力双重竞争的深水区。",
+    "资讯标题": "GitHub Copilot于6月正式启用量化计费模式，单月使用量创历史新高",
+    "内容": "GitHub于6月1日正式将AI编程工具GitHub Copilot的收费模式由固定统一定价调整为按使用量计费。GitHub技术长弗拉基米尔·费多罗夫证实，该调整直接推动了客户使用量大幅激增，使6月成为平台上线以来表现最好的月份。尽管用量爆发，GitHub目前暂无调涨价格的计划。此次计费模式变更旨在应对Cursor、OpenAI Codex及Anthropic Claude Code等原生AI编程工具带来的激烈市场竞争。然而，用量激增也对基础设施造成显著压力，GitHub在2026年已遭遇数十次重大停机，微软目前正寻求通过与亚马逊合作以解决容量限制问题。此次事件标志着AI编程工具市场已进入商业模式与基础设施能力双重竞争的深水区。",
     "发布日期": "2026-06-25",
     "原文链接": "https://www.aibase.com/zh/news/29146",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e642665c6fa69d5325155f0e6be424f0.jpg",
