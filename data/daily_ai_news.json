@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "火山引擎发布豆包音频生成模型1.0，支持长时音色一致性与多模态生成",
-    "内容": "6月23日，火山引擎正式发布豆包音频生成模型1.0，通过“多模态参考生成”与“长时音色一致性”技术，实现从文本Prompt直接生成具备叙事张力的完整音频成片。该模型解决了传统音频制作中对白、音效与配乐需手动混音的繁琐流程，并针对长音频创作中的“角色串戏”痛点，确保多次延长生成时音色高度稳定。其核心优势在于“0样本多模态音频创造”能力，支持文本或参考音频输入，无需额外训练即可实现音色与风格的深度解耦，支持“一声多角”演绎。目前，火山方舟已开启该模型的API邀测，个人用户可获30分钟创作额度。该技术后续将接入剪映、即梦及番茄等平台，旨在将音频创作从繁琐的剪辑拼接升级为高效的“创意导演”模式，显著降低专业音频制作门槛。",
-    "发布日期": "2026-06-24",
-    "原文链接": "https://www.aibase.com/zh/news/29117",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/572c2dbf52cde57f667987ba7752016e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/572c2dbf52cde57f667987ba7752016e.jpg",
-    "配图仓库路径": "assets/news_images/572c2dbf52cde57f667987ba7752016e.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0624/6391789265001931692169519.png"
+    "资讯标题": "特斯拉中国车机系统接入豆包大模型，通过OTA升级实现交互体验智能化",
+    "内容": "特斯拉中国在2026年火山引擎原动力大会上宣布，其车载交互系统将通过OTA升级深度接入豆包大模型。此次更新重构了语音助手架构，采用“分工协作”模式：豆包AI负责空调、车窗及导航等硬件指令控制；DeepSeek则处理复杂对话问答，协助用户理解FSD全自动驾驶功能。车主可通过方向盘按键或语音指令“嘿，特斯拉”激活该功能。相较于传统指令式交互，接入大模型后的语音助手具备更强的语义理解与反馈能力，能提供更贴合本土语境的交互体验。目前该功能已在部分内测版本中上线，标志着AI大模型正加速向智能汽车这一核心算力场景渗透，为国内用户提供更灵敏的“数字副驾”服务。",
+    "发布日期": "2026-06-25",
+    "原文链接": "https://www.aibase.com/zh/news/29132",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7fa12a0e42e62da916fc41462711390a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7fa12a0e42e62da916fc41462711390a.jpg",
+    "配图仓库路径": "assets/news_images/7fa12a0e42e62da916fc41462711390a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0624/6391791639616476631663976.png"
   },
   {
-    "资讯标题": "字节跳动豆包上线三档付费订阅服务，接入豆包2.1系列大模型",
-    "内容": "6月24日，字节跳动旗下AI助手豆包正式上线三档付费订阅服务，标志着其商业化进程的开启。此次推出的付费版分为标准版（68元/月）、加强版（200元/月）及高级版（500元/月），整体接入了全新升级的豆包2.1系列大模型。官方表示，免费用户日常使用不受影响。在定价策略上，豆包通过显著的本土价格优势，将高阶AI能力的使用门槛进一步拉低，其高级版包年费用为5088元，远低于海外同类竞品。此次付费订阅的落地，标志着国内大模型应用从单纯的“参数竞争”阶段，加速转向“高价值服务变现”的新周期，或将引发国内大模型应用层新一轮的商业化定价博弈。",
-    "发布日期": "2026-06-24",
-    "原文链接": "https://www.aibase.com/zh/news/29110",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e37e983a1c8301b5555831ce3f9b61de.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e37e983a1c8301b5555831ce3f9b61de.jpg",
-    "配图仓库路径": "assets/news_images/e37e983a1c8301b5555831ce3f9b61de.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202308181515111389_0.jpg"
+    "资讯标题": "千问发布全球首个原生语言世界模型 Qwen-AgentWorld 及评测基准",
+    "内容": "6月24日，千问正式发布全球首个原生语言世界模型（Language World Model）Qwen-AgentWorld。该模型突破了传统大模型仅限于文本处理的局限，实现了对代码与终端环境（如MCP、Search、Terminal、SWE）及GUI图形界面环境（如Web、OS、Android）的统一覆盖。通过跨环境的强悍掌控力，Qwen-AgentWorld能够高效进行知识迁移，推动AI从对话者向具备独立操作能力的行动者演进。同步推出的AgentWorldBench评测基准涵盖七大应用领域，所有测试样本均基于真实操作环境的观测数据，确保模型在复杂交互中的高效与准确。该技术的发布为开发者提供了更强大的底层工具，预示着AI在自动化业务处理及辅助办公场景中将实现更智能的交互体验，为构建全能型数字助理奠定了技术基础。",
+    "发布日期": "2026-06-25",
+    "原文链接": "https://www.aibase.com/zh/news/29124",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b7ccb6a0dbad806a9100002ff3b48b90.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b7ccb6a0dbad806a9100002ff3b48b90.jpg",
+    "配图仓库路径": "assets/news_images/b7ccb6a0dbad806a9100002ff3b48b90.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007248027_6.jpg"
   },
   {
-    "资讯标题": "千问正式上线全周期高考志愿填报Agent，提供免费个性化咨询服务",
-    "内容": "6月10日，千问正式推出国内首个全周期高考志愿填报Agent，标志着大厂正式入局志愿填报市场并实行免费策略。该Agent将填报流程拆解为七个核心环节，通过大模型技术提供志愿日历、个性化志愿报告及针对性问答服务，实现了人类专家对话能力的规模化与低成本化。此举对依赖志愿卡售卖及低价咨询引流的传统中小机构构成直接冲击，行业商业模式面临重构压力。对于考生而言，该工具提供了更高性价比的填报辅助。千问此次动作是其“AI+教育”战略的关键一环，未来服务将延伸至更长周期的人生规划场景，旨在构建全维度的智能化咨询生态。随着免费AI填报工具的普及，传统志愿填报行业已进入洗牌倒计时，机构需在智能化时代重新寻找不可替代的专业价值。",
-    "发布日期": "2026-06-24",
-    "原文链接": "https://www.aibase.com/zh/news/29115",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40f50b1a6529afd4e04f101211f9b577.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/40f50b1a6529afd4e04f101211f9b577.jpg",
-    "配图仓库路径": "assets/news_images/40f50b1a6529afd4e04f101211f9b577.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202406241524321025_7.jpg"
+    "资讯标题": "企业微信正式开启AI Agent“大圆”内测，深度打通办公与客户经营生态",
+    "内容": "企业微信日前正式开启AI Agent“大圆”内测，该产品作为原生嵌入企微生态的AI助理，旨在提升办公效率与客户经营能力。用户可通过在企微页面“向左轻滑”唤醒“大圆”，其能自动识别当前界面，并基于群聊、文档、会议、邮件及日程等沉淀数据，实现一键总结群聊、提炼报表结论及自动生成回复。在客户经营场景中，“大圆”可处理销售与客服的非结构化沟通记录，将其转化为客户画像、跟进摘要与经营洞察，解决私域流量经营依赖人工经验的痛点。目前企业微信已接入超1400万企业与组织，每日服务微信用户逾7.5亿。此次“大圆”的落地，标志着企业微信AI能力从协同办公向商业经营场景深度渗透，成为行业内少数同时具备“工作数据”与“客户连接”双重场景的AI Agent入口。",
+    "发布日期": "2026-06-25",
+    "原文链接": "https://www.aibase.com/zh/news/29125",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fa05a6bae71abbb5717605fe630b87f1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fa05a6bae71abbb5717605fe630b87f1.jpg",
+    "配图仓库路径": "assets/news_images/fa05a6bae71abbb5717605fe630b87f1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202003012046510073_6.jpg"
   },
   {
-    "资讯标题": "Anysphere发布Cursor自研大模型，同步推出Origin Git平台及iOS移动端App",
-    "内容": "Anysphere在Compile26活动上宣布，旗下IDE工具Cursor将推出首个完全自主训练的基础模型，并同步发布Git平台Origin及iOS测试版App。该自研模型由Anysphere与SpaceX联合训练，参数规模对标Claude Opus与GPT系列，底层计算量较前代提升10至20倍，旨在服务更广泛的非编码领域，预计未来几周内面世。全新Git平台Origin采用云原生架构，支持数千个AI Agent同时读写代码库，具备自动解决合并冲突、修复CI测试及处理代码注释能力，计划2026年秋季上线。此外，Cursor Mobile iOS测试版允许用户远程管理AI Agent并处理任务。此次更新标志着Cursor从单一IDE向综合性开发者生态平台转型，推动AI Agent规模化协作进入工程化落地阶段。",
-    "发布日期": "2026-06-24",
-    "原文链接": "https://www.aibase.com/zh/news/29119",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/36291cef14512cad797ff97f8f54ee4b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/36291cef14512cad797ff97f8f54ee4b.jpg",
-    "配图仓库路径": "assets/news_images/36291cef14512cad797ff97f8f54ee4b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606091418429760_0.jpg"
+    "资讯标题": "SpaceX正式发布Starmind项目，计划发射100万颗AI算力卫星构建全球算力闭环",
+    "内容": "SpaceX正式公布轨道AI数据中心项目Starmind，计划发射100万颗搭载AI算力单元的卫星，旨在构建脱离地面机房限制的全球算力供给闭环。该项目首代硬件产品AI1单星设计高度20米，翼展达70米，单颗卫星可输出120kW至150kW的AI算力，性能等同于地面一座现代AI服务器机架。在技术架构上，Starmind卫星集群通过高速光链路实现互联互通，并依托星链网络将处理数据中继回地面，实现算力调度、太空通信与终端接入的完全打通。SpaceX已于今年1月底向美国联邦通信委员会提交落地申请。该计划若全面落地，将彻底改变传统AI算力依赖地面基础设施的模式，但百万颗卫星的轨道资源竞争及部署规模将对全球航天产业产生深远影响。",
+    "发布日期": "2026-06-25",
+    "原文链接": "https://www.aibase.com/zh/news/29130",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3fe9e758f58d23bcf483fe0019c7a1c6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3fe9e758f58d23bcf483fe0019c7a1c6.jpg",
+    "配图仓库路径": "assets/news_images/3fe9e758f58d23bcf483fe0019c7a1c6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005281119261135_6.jpg"
   },
   {
-    "资讯标题": "Anthropic推出企业级AI协同工具Claude Tag，实现Slack平台始终在线协作",
-    "内容": "Anthropic正式发布企业级AI工具Claude Tag，该工具深度集成于Slack平台，旨在通过“始终在线”的协同实体模式，将AI转化为企业的全职同事。目前，Claude Tag测试版已面向Claude Enterprise和Claude Team客户开放。与现有集成相比，Claude Tag引入了持久上下文与记忆层，能够长期追踪频道对话脉络，自主学习组织工作流与业务逻辑。通过跨频道读取权限，该工具支持全组织范围的信息检索，并允许团队成员共享同一Claude身份以无缝承接工作进度。在安全管控方面，系统管理员可精细化定义每个Claude身份的工具调用权限、信息获取范围及频道访问权限。此外，Claude Tag具备“主动模式”，可自主加入群聊并针对遗忘议题进行跟进，同时支持将复杂目标解构为多阶段任务，通过调用",
-    "发布日期": "2026-06-24",
-    "原文链接": "https://www.aibase.com/zh/news/29108",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/08153725c2814b5a913be00561b763e0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/08153725c2814b5a913be00561b763e0.jpg",
-    "配图仓库路径": "assets/news_images/08153725c2814b5a913be00561b763e0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502061719377307_3.jpg"
+    "资讯标题": "OpenAI在ChatGPT中测试Bidi1语音模型，支持双向实时对话交互",
+    "内容": "OpenAI近日在ChatGPT网页端及App端开启了新型语音模型Bidi1的测试，标志着AI语音交互从线性“你问我答”向双向实时对话模式进化。Bidi1的核心技术在于“双向并行处理”，模型在输出语音的同时可实时监听用户输入，并支持在对话中途随时响应打断或新指令，无需等待上一段话完整输出。在演示中，模型能无缝切换逻辑，例如在执行计数任务时即时响应倒数指令。用户可通过模型选择器开启该功能，激活后语音气泡将变为黄色。此次升级彻底打破了传统语音助手的僵硬等待周期，大幅提升了人机协作的流畅度与沉浸感。目前该功能正处于测试阶段，正式上线已进入倒计时，旨在将ChatGPT从辅助工具升级为更具响应性的对话伙伴。",
+    "发布日期": "2026-06-25",
+    "原文链接": "https://www.aibase.com/zh/news/29127",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "配图仓库路径": "assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
   }
 ]
