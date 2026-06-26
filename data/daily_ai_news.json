@@ -1,42 +1,52 @@
 [
   {
-    "资讯标题": "近 400 家地方报纸起诉 OpenAI 和微软，指控侵犯版权",
-    "内容": "近 400 家地方报纸起诉 OpenAI 和微软，指控侵犯版权AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jun 25, 202628近日，近 400 家地方报纸出版商组成的大规模联盟在联邦法院对 OpenAI 和微软提起诉讼，指控这两家科技公司在未获得许可或补偿的情况下，系统性地复制了他们的原创报道，以训练和开发商业人工智能产品，包括 ChatGPT 和微软的 Copilot。该诉讼由法律事务所 Platkin LLP 代理，该所由前新泽西州检察长马修・J・普拉特金于今年成立。出版商们认为，OpenAI 和微软未经授权使用了他们的原创新闻内容，违反了《版权法》，并威胁到地方新闻的未来。",
+    "资讯标题": "美国政府要求OpenAI对GPT-5.6模型采取分阶段发布策略",
+    "内容": "OpenAI最新模型GPT-5.6的发布策略已根据美国政府要求进行调整，将由原定的大规模普及转为“分阶段发布”模式。OpenAI CEO Sam Altman在内部会议确认，该模型将首先向经过筛选的可靠合作伙伴开放，在完成特定周期的测试与风险评估后，再逐步向更广泛用户群体推广。此次监管干预源于美方对尖端AI模型演进速度超过管控能力的担忧。此前，Anthropic PBC也因面临相似监管压力，被迫暂停了其尖端模型的访问权限。这一调整标志着AI行业正从“野蛮生长”转向“审慎演进”，未来高性能AI模型的发布流程或将常态化采用“小范围试点，长周期验证”的模式，以平衡技术进步与安全性。",
     "发布日期": "2026-06-26",
-    "原文链接": "https://www.aibase.com/zh/news/29171",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4c2794ca0ea66d28b0e398e26efd7c59.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4c2794ca0ea66d28b0e398e26efd7c59.jpg",
-    "配图仓库路径": "assets/news_images/4c2794ca0ea66d28b0e398e26efd7c59.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621146966_87.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29181",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "配图仓库路径": "assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg"
   },
   {
-    "资讯标题": "谷歌 Chrome 149 发布并集成 Gemini 3.5 Flash 推出框选即问功能",
-    "内容": "谷歌正式发布 Chrome 149 浏览器，原生深度集成 Gemini 3.5 Flash 模型，并上线“从屏幕选择”（Select from screen）交互功能。该功能允许用户通过光标精准框选网页局部内容，被选中的图片或文本片段将自动作为附件实时组合进提示词中，无需跳转搜索页面即可直接与 AI 进行定向对话。此举旨在提升浏览过程中的 AI 交互效率，支持购物比对、图表解读及设计元素重塑等场景。此外，Gemini 3.5 Flash 整合了原生计算机操作工具，使 AI 智能体能更流畅地执行访问网站、填写表单、点击按钮及收集数据等跨平台复杂任务。此次更新通过端侧体验革新，简化了用户与 AI 的交互链路，让智能体能针对特定网页细节提供更具针对性的解答。",
+    "资讯标题": "富士通推出PHOTON架构，实现多查询任务性能提升475倍",
+    "内容": "富士通近日发布PHOTON（自上而下网络并行分层计算）架构，旨在解决Transformer模型在长文本及多查询任务中的访存瓶颈。该架构通过引入语义分层技术替代传统的Token级分割，并采用“多数决定”或“最佳选择”策略，实现单次推理即可完成决策。测试数据显示，在1.2B参数模型下，PHOTON的多查询性能较主流Transformer架构提升475倍，且显著降低了内存占用与KV Cache需求。该架构通过优化资源调度，大幅提升了系统吞吐量，尤其适用于高I/O需求的智能体系统。尽管在部分指标上存在微小质量折损，但PHOTON凭借极高的计算效率，为降低AI运行成本提供了新的底层算法方案。目前，富士通正致力于推动该架构的落地应用，以支持更轻量、高效的智能化场景部署。",
     "发布日期": "2026-06-26",
-    "原文链接": "https://www.aibase.com/zh/news/29160",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a62faff9944726b15d16d78d4fe8a94e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a62faff9944726b15d16d78d4fe8a94e.jpg",
-    "配图仓库路径": "assets/news_images/a62faff9944726b15d16d78d4fe8a94e.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0625/6391799522354414118990054.png"
+    "原文链接": "https://www.aibase.com/zh/news/29177",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
+    "配图仓库路径": "assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312070835429226_0.jpg"
   },
   {
-    "资讯标题": "百度文心一言服务全面升级，用户数据需在7月25日前完成迁移",
-    "内容": "6月25日，百度文心一言正式发布服务升级公告，宣布平台架构与服务入口深度整合。自即日起，文心一言官网提问入口开启升级，用户需迁移至百度文心网站使用大模型服务。官方设置了一个月缓冲期，用户须在7月25日23时59分59秒前，完成对话历史、收藏内容、指令库及记忆数据等个人资产的导出与备份，逾期将无法提取。此次整合后，百度文心网站将集成AI志愿填报、AI PPT生成、学术研究辅助及AI音乐创作等生产力工具。针对2025年2月13日前购买且尚有余额的付费会员，官方提供按剩余时长比例的退款方案，用户可通过“我的订单”页面提交信息。7月26日，服务将正式全面迁移至百度文心网站，旨在通过整合算力与功能矩阵，提升用户智能化体验。",
+    "资讯标题": "亚马逊宣布追加130亿美元投资，扩建印度AI与云基础设施",
+    "内容": "亚马逊首席执行官安迪·贾西于6月25日宣布，计划在印度追加130亿美元投资，专项用于AI及云基础设施的建设与扩容，该计划将持续至2030年。此次新增投资重点在于扩展亚马逊云科技（AWS）在孟买和海得拉巴的数据中心容量，旨在为当地提供更强大的AI与云服务支持。加上此前的投入，亚马逊在2026年至2030年期间，在印度该领域的总规划投资额已超过210亿美元，使其成为印度市场规模最大的全球AI及云基础设施投资者之一。此次大规模资金注入将直接提升当地算力水平，加速相关产业链的迭代与发展，标志着海外头部厂商在AI基础设施领域的竞争进一步升级。",
     "发布日期": "2026-06-26",
-    "原文链接": "https://www.aibase.com/zh/news/29164",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/80112b4123c01e420f34b297a47c97f8.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/80112b4123c01e420f34b297a47c97f8.jpg",
-    "配图仓库路径": "assets/news_images/80112b4123c01e420f34b297a47c97f8.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304261532000985_4.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29191",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cf68750812a802efaa251ec0cd0f913d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/cf68750812a802efaa251ec0cd0f913d.jpg",
+    "配图仓库路径": "assets/news_images/cf68750812a802efaa251ec0cd0f913d.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151728184090_3.jpg"
   },
   {
-    "资讯标题": "Apple在iOS 27推出Siri AI专用App，支持Siri与ChatGPT一键切换",
-    "内容": "Apple在最新发布的iOS 27系统中推出Siri AI专用App，引入了现代化的聊天机器人界面，并支持用户在Siri AI与ChatGPT之间进行一键切换。用户只需在输入框长按并点击“Ask…”选项，即可调出菜单完成模型切换，该功能独立于系统设置中的ChatGPT扩展。该App支持文本输入、图像与文件附件上传，并具备历史对话访问功能。目前该功能存在一定局限性：不同模型间的对话上下文无法共享，且关闭App后默认模型会重置为Siri。尽管Apple尚未提供将ChatGPT设为默认模型的选项，但此举标志着Apple在AI开放生态整合上的重要尝试，旨在通过更灵活的交互方式提升用户体验。",
+    "资讯标题": "OpenAI拟将IPO推迟至2027年，坚持1万亿美元估值底线",
+    "内容": "OpenAI正考虑将IPO计划推迟至2027年，以确保实现1万亿美元的估值目标。目前公司向顾问团队提出了两种方案：一是等待至2027年以1万亿美元估值上市；二是降低估值以加快上市节奏。CEO萨姆·奥尔特曼对后者持强硬态度，明确表示任何低于1万亿美元的估值方案均不可接受。自2025年起，OpenAI的上市传闻反复出现，估值预期从5000亿美元迅速攀升。此次进度摇摆除估值诉求外，还受美国政府监管压力影响，包括白宫科技政策办公室要求其分阶段发布新一代AI模型，这直接制约了公司的增长节奏与盈利展示。尽管OpenAI曾于2023年9月估值仅为800亿至900亿美元，但管理层目前正面临在上市窗口、监管合规与高估值目标之间寻求平衡的严峻挑战。",
     "发布日期": "2026-06-26",
-    "原文链接": "https://www.aibase.com/zh/news/29156",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3a40fe88df3e8658b23120c2c7c44866.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3a40fe88df3e8658b23120c2c7c44866.jpg",
-    "配图仓库路径": "assets/news_images/3a40fe88df3e8658b23120c2c7c44866.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0625/6391799167616932196365778.png"
+    "原文链接": "https://www.aibase.com/zh/news/29176",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
+    "配图仓库路径": "assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
+  },
+  {
+    "资讯标题": "Meta大规模启用大语言模型接管内容审核，计划年底前大幅缩减人工干预",
+    "内容": "Meta正加速推进“AI审核”战略，利用大语言模型逐步取代人工审核员以优化运营成本。目前，Meta平台约50%的内容审核请求已由大语言模型自动处理。公司计划在今年年底前进一步缩减人工干预比例，针对特定违规内容的审查，人工参与度有望降低90%以上。此前，Meta主要依赖“自动系统+人工审核”的混合模式，并雇佣大量第三方承包商处理初筛及申诉。此次调整是首席执行官马克·扎克伯格押注AI基础设施建设的重要一环，旨在通过技术升级实现降本增效，预计每年可节省数十亿美元运营成本。尽管AI审核在效率上表现显著，但其在处理复杂语境和争议性内容时的判断力仍是行业关注焦点。随着年底目标的临近，Meta的内容合规审查流程正全面向AI驱动转型。",
+    "发布日期": "2026-06-26",
+    "原文链接": "https://www.aibase.com/zh/news/29179",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
+    "配图仓库路径": "assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202111072153100579_0.jpg"
   }
 ]
