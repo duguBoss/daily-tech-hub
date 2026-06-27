@@ -1,38 +1,38 @@
 [
   {
-    "资讯标题": "降本增效大动作：Meta 大规模启用 AI 接管内容审核",
-    "内容": "降本增效大动作：Meta 大规模启用 AI 接管内容审核AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jun 26, 202614在首席执行官马克·扎克伯格（Mark Zuckerberg）全力押注人工智能的背景下，Meta 近期在内部运营层面采取了重大调整。为了优化运营成本并提升处理效率，公司正加速推进“AI 审核”战略，试图用大语言模型逐步取代人工审核员。根据《金融时报》的最新披露，Meta 已经将人工智能深度融入其平台的内容与广告合规审查流程。数据显示，截至目前，Meta 平台上已有约 50% 的内容审核请求由大语言模型自动处理。公司内部计划在今年年底前，进一步缩减人工干预的比例。",
-    "发布日期": "2026-06-26",
-    "原文链接": "https://www.aibase.com/zh/news/29179",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
-    "配图仓库路径": "assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202111072153100579_0.jpg"
+    "资讯标题": "苹果发布 Xcode 26.6 正式版，编程助手新增支持 Google Gemini 模型",
+    "内容": "苹果公司正式推送 Xcode 26.6 更新，核心亮点在于编程助手新增对 Google Gemini 的支持，开发者现可在 Anthropic Claude Agents、OpenAI Codex 之外拥有更多 AI 辅助选择。该版本集成了 Swift 6.3.3 语言，并同步更新覆盖 iOS、iPadOS、tvOS、watchOS、visionOS 及 macOS 26.5 的全平台 SDK。除引入 Gemini 外，本次更新还优化了 ACP 兼容能力并修复多项已知 Bug，旨在提升开发环境的稳定性与运行效率。此前苹果已在 Xcode 27 测试版中先行验证 Gemini 支持，此次正式下放显示其正加速将主流大模型整合进开发生态。开发者即日起可从 App Store 免费下载该版本，通过多元化的 AI 辅助工",
+    "发布日期": "2026-06-27",
+    "原文链接": "https://www.aibase.com/zh/news/29197",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/03e92f930eecc528acc9066d4d97e1e0.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/03e92f930eecc528acc9066d4d97e1e0.jpg",
+    "配图仓库路径": "assets/news_images/03e92f930eecc528acc9066d4d97e1e0.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0626/6391808319378111668013443.png"
   },
   {
-    "资讯标题": "美国政府要求OpenAI分阶段发布GPT-5.6模型以强化监管",
-    "内容": "美国政府已明确要求OpenAI在发布GPT-5.6模型时必须采取“分阶段发布”模式，以应对日益严峻的AI监管压力。OpenAI首席执行官Sam Altman在周三的内部会议上确认了该调整，指出模型在全面普及前，需先向经过筛选的可靠合作伙伴开放，经过充分的测试与风险评估后，再逐步扩大用户覆盖范围。此次监管干预旨在平衡尖端AI模型的能力演进与安全性，防止技术迭代速度超出管控边界。此前，Anthropic PBC也因类似监管压力被迫暂停了其尖端模型的访问权限。这一系列动作标志着AI行业正从“野蛮生长”转向“审慎演进”，未来高性能模型发布将常态化采用“小范围试点，长周期验证”的策略，行业需适应这种更严苛的合规落地流程。",
-    "发布日期": "2026-06-26",
-    "原文链接": "https://www.aibase.com/zh/news/29181",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "配图仓库路径": "assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg"
+    "资讯标题": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+    "内容": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jun 26, 202622美银证券高级半导体分析师Vivek Arya发布最新研判，人工智能正在推动内存行业出现结构性转型，AI专用存储芯片供需失衡状态至少将延续至 2027 年末。该分析师依托美光科技最新季度财报分析，AI优化型存储芯片生产所需产能，是传统计算存储产品的 3 至 4 倍。其提出“没有存储芯片，就没有人工智能”的行业论断，此轮存储厂商盈利大幅超预期，并非行业传统周期性回暖，而是AI算力需求带来的长期结构性增长。供应链层面，美光已与 16 家客户签订长期供货协议，锁定未来多年供货量、定价与交付保障，对冲供给波动风险。",
+    "发布日期": "2026-06-27",
+    "原文链接": "https://www.aibase.com/zh/news/29199",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3d95eb09ad758c32ba760bf4f26d7690.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3d95eb09ad758c32ba760bf4f26d7690.jpg",
+    "配图仓库路径": "assets/news_images/3d95eb09ad758c32ba760bf4f26d7690.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202505231025157294_17.jpg"
   },
   {
-    "资讯标题": "富士通推出PHOTON架构，多查询任务性能提升475倍",
-    "内容": "富士通近日发布名为PHOTON（自上而下网络并行分层计算）的创新架构，旨在解决Transformer模型在长文本及高并发多查询任务中的访存瓶颈。PHOTON通过引入语义分层技术替代传统的Token级分割，并采用“多数决定”或“最佳选择”策略，实现单次推理即可完成决策。测试显示，在1.2B参数模型下，PHOTON的多查询性能较主流Transformer架构提升475倍。该架构通过减少KV Cache需求，显著降低了内存占用并提升了系统吞吐量。尽管在部分指标上存在微小质量折损，但其在计算效率上的跨越式进步，为处理大量I/O流程的智能体系统提供了更轻量、高效的底层支撑。目前，富士通正积极推动该架构的落地应用，以降低AI运行成本并优化资源调度效率。",
-    "发布日期": "2026-06-26",
-    "原文链接": "https://www.aibase.com/zh/news/29177",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
-    "配图仓库路径": "assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312070835429226_0.jpg"
+    "资讯标题": "前OpenAI安全VP翁荔发布万字长文拆解Scaling Laws，指出模型数据配比存在偏差",
+    "内容": "前OpenAI安全研究副总裁翁荔在个人博客发表万字长文《Scaling Laws， Carefully》，深度拆解支撑大模型行业的Scaling Laws。文章指出，当前模型的数据配比可能存在系统性偏差。翁荔回顾了从Kaplan到Chinchilla的演变，指出Kaplan因实验规模限制及参数计算口径偏差，导致模型规模应远超数据量的错误结论。而Chinchilla揭示的参数与数据1:20等比增长规律，已被Llama、DeepSeek等模型验证。此外，Epoch AI团队复现发现Chinchilla拟合代码存在损失函数均值计算及幂律指数四舍五入等Bug，修正后进一步印证了等比增长的必要性。针对高质量数据预计在2026至2028年枯竭的现状，翁荔强调重复训练数据的边际价值呈指数衰减。她总结称，Scaling Law",
+    "发布日期": "2026-06-27",
+    "原文链接": "https://www.aibase.com/zh/news/29196",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
   },
   {
-    "资讯标题": "亚马逊宣布在印度追加130亿美元投资，用于AI与云基础设施建设",
-    "内容": "亚马逊首席执行官安迪·贾西于6月25日宣布，公司计划在2030年前向印度追加130亿美元投资，专项用于AI及云基础设施的建设与扩容。此次新增资金将重点扩展亚马逊云科技（AWS）在孟买和海得拉巴的数据中心容量，旨在为当地提供更强大的AI与云服务支持。加上此前规划，亚马逊在2026年至2030年期间于印度该领域的总投资额已超过210亿美元，使其成为印度市场规模最大的全球AI及云基础设施投资者之一。此次大规模资金注入将显著提升当地算力水平，加速相关产业链的迭代与发展，并进一步加剧海外头部厂商在印度AI基础设施领域的竞争态势。",
-    "发布日期": "2026-06-26",
+    "资讯标题": "亚马逊宣布追加130亿美元投资，扩建印度AI与云基础设施",
+    "内容": "亚马逊CEO安迪·贾西于6月25日宣布，计划在2030年前向印度追加130亿美元投资，专项用于AI及云基础设施的建设与扩容。此次新增资金将重点扩展亚马逊云科技（AWS）在孟买和海得拉巴的数据中心容量，以提升当地的算力水平及AI服务支持能力。加上此前规划，亚马逊在2026年至2030年期间于印度该领域的总投资额已超过210亿美元，使其成为印度市场规模最大的全球AI及云基础设施投资者之一。此举旨在应对海外头部厂商在AI基础设施领域的激烈竞争，通过大规模资金注入，预计将显著提升印度当地算力供给，并带动相关产业链的快速迭代与技术升级。",
+    "发布日期": "2026-06-27",
     "原文链接": "https://www.aibase.com/zh/news/29191",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cf68750812a802efaa251ec0cd0f913d.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/cf68750812a802efaa251ec0cd0f913d.jpg",
@@ -40,13 +40,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151728184090_3.jpg"
   },
   {
-    "资讯标题": "OpenAI拟将IPO推迟至2027年，坚守1万亿美元估值底线",
-    "内容": "OpenAI正考虑将IPO计划推迟至2027年，以确保达成1万亿美元的估值目标。目前公司向顾问团队提出了两种方案：一是等待至2027年实现1万亿美元估值上市；二是降低估值以加快上市进程。CEO萨姆·奥尔特曼对后者持强硬态度，明确表示任何低于1万亿美元的估值方案均不可接受。自2025年起，OpenAI的IPO传闻不断，估值预期从5000亿美元迅速攀升。此次进度摇摆除估值诉求外，还受美国政府监管压力影响，包括白宫科技政策办公室要求其分阶段发布新一代AI模型，这直接制约了公司的增长节奏与盈利表现。从2023年9月的800亿至900亿美元估值，到如今冲击万亿大关，OpenAI正处于上市时间窗口、监管合规与资本市场估值预期的多重博弈中。",
-    "发布日期": "2026-06-26",
-    "原文链接": "https://www.aibase.com/zh/news/29176",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图仓库路径": "assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
+    "资讯标题": "OpenAI发布Codex增长报告：个人用户用量激增137倍，非技术用户成主力",
+    "内容": "OpenAI于6月25日发布报告，披露智能体AI产品Codex自2025年8月以来的用户增长数据：个人用户用量飙升137倍，组织用户增长189倍，OpenAI内部使用量增长12倍。目前，OpenAI内部员工Codex使用率已达97.9%，外部组织渗透率攀升至17.3%。数据显示，2026年上半年活跃用户增长超5倍，其中非技术用户群体增长最快，标志着AI编程工具已走出专业开发者圈子。Codex在长周期任务处理能力上表现突出，自2026年初以来，提交预估耗时超8小时任务请求的用户比例增长近十倍。这一趋势表明，Codex正从辅助工具向能够独立执行复杂任务的协作角色演变，AI编程赛道正经历由非程序员驱动的用户结构变革，AI普惠化进程加速。",
+    "发布日期": "2026-06-27",
+    "原文链接": "https://www.aibase.com/zh/news/29198",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "配图仓库路径": "assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308291638468779_1.jpg"
   }
 ]
