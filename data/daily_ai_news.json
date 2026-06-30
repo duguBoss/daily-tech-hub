@@ -1,8 +1,18 @@
 [
   {
-    "资讯标题": "马斯克宣布Grok4.5开启内测，SpaceX计划今年每月发布全新基础模型",
-    "内容": "埃隆·马斯克于2026年6月28日宣布，xAI旗下最新大语言模型Grok4.5已在SpaceX与特斯拉内部启动Beta测试。该模型基于1.5万亿参数的V9基础模型构建，并深度融合了AI编程工具Cursor的数据，早期评测显示其性能已比肩Anthropic旗舰模型Claude Opus。马斯克明确提出激进的迭代计划，即SpaceX在今年剩余时间内将每月推出一个完全从零训练的全新基础模型，而非简单的版本迭代。此次布局与SpaceX拟以600亿美元收购Cursor开发商Anysphere的战略动作高度协同。通过在SpaceX与特斯拉的实体产业场景中进行高频测试，xAI旨在获取高价值反馈，加速模型优化，并进一步强化在编码辅助及企业级AI市场的竞争优势，此举将显著提升行业大模型迭代的竞争节奏。",
-    "发布日期": "2026-06-29",
+    "资讯标题": "高德地图内测AI编程产品“袋马”，支持分钟级生成微信小程序与iOS应用",
+    "内容": "高德地图正式入局AI零门槛应用生成赛道，目前正低调内测名为“袋马”（daimax）的Vibe Coding产品。该工具主打自然语言驱动，用户无需掌握编程技术或搭建开发环境，仅需通过对话描述需求，即可在分钟级时间内生成可直接上线、真机可用的微信小程序或iOS原生应用。袋马核心服务于无研发团队的中小企业主与独立创作者，支持“对话式修改”与“灵感广场”一键复刻功能，旨在大幅降低创意落地成本。目前产品处于内测阶段，官方尚未披露具体上线时间与商业化细则。随着腾讯、百度、阿里、美团及字节跳动等大厂在AI编程领域的密集布局，高德此次通过聚焦小微主体的轻量化需求切入市场，试图在激烈的竞争中寻找差异化优势。业内分析认为，此类工具的普及正显著降低开发门槛，加速推动全民应用开发时代的到来。",
+    "发布日期": "2026-06-30",
+    "原文链接": "https://www.aibase.com/zh/news/29224",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/abd6e797566119cd87eeba421e7fa9a7.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/abd6e797566119cd87eeba421e7fa9a7.jpg",
+    "配图仓库路径": "assets/news_images/abd6e797566119cd87eeba421e7fa9a7.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0629/6391832916032031749099623.jpg"
+  },
+  {
+    "资讯标题": "马斯克宣布Grok4.5开启内测并计划每月推出全新基础模型",
+    "内容": "埃隆·马斯克于2026年6月28日宣布，xAI旗下最新大语言模型Grok4.5已在SpaceX与特斯拉内部启动Beta测试。该模型基于1.5万亿参数的V9基础模型构建，并深度融合了AI编程工具Cursor的数据，早期评测显示其性能已比肩Anthropic旗舰模型Claude Opus。马斯克同时披露了激进的发布计划，承诺SpaceX在今年剩余时间内将每月推出一个完全从零训练的全新基础模型，旨在通过高频迭代加速技术演进。此次战略布局与SpaceX拟600亿美元收购Anysphere的计划相呼应，预计交易将于2026年三季度完成。通过在SpaceX与特斯拉的实体产业场景中进行高价值反馈测试，xAI正加速深耕企业级AI市场，并重点强化编码辅助能力，此举将进一步加剧与OpenAI及谷歌等头部厂商的竞争态势。",
+    "发布日期": "2026-06-30",
     "原文链接": "https://www.aibase.com/zh/news/29226",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
@@ -10,43 +20,33 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311060852081809_0.jpg"
   },
   {
-    "资讯标题": "苹果Vision Pro硬件负责人保罗·米德跳槽OpenAI，加速AI原生硬件研发",
-    "内容": "OpenAI近日正式聘请苹果视觉产品集团（VPG）前负责人保罗·米德（Paul Meade）加入其硬件部门，负责推动AI原生硬件设备的研发。米德在苹果任职期间曾领导Apple Vision Pro硬件团队长达七年，并主导了苹果首款智能眼镜的开发工作。此次人事变动正值苹果内部架构重组，米德的加入将为OpenAI提供顶级的空间计算与可穿戴硬件研发经验。此前，OpenAI已与前苹果首席设计师Jony Ive及LoveFrom团队合作成立子公司“io”，旨在打造AI原生硬件产品。米德的加盟标志着OpenAI在AI软硬件一体化领域的战略布局进一步升级，预示着科技巨头在AI设备赛道的竞争将进入白热化阶段。",
-    "发布日期": "2026-06-29",
-    "原文链接": "https://www.aibase.com/zh/news/29219",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4ffa9b292743b22d3ca04e2dd58eb3da.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4ffa9b292743b22d3ca04e2dd58eb3da.jpg",
-    "配图仓库路径": "assets/news_images/4ffa9b292743b22d3ca04e2dd58eb3da.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304251756332792_8.jpg"
+    "资讯标题": "谷歌因算力告急限制Gemini API调用，Meta研发进度受阻",
+    "内容": "谷歌因Gemini AI平台需求激增，于2026年5月17日正式实施基于算力额度的使用限制，采用滚动更新机制以应对开发者及企业负载压力。自2025年春季以来，Gemini API调用请求量翻倍，导致核心算力资源供不应求。Meta作为受冲击最显著的客户，因其需求远超配额，面临算力供应不足的困境，导致多项内部AI项目推进节奏被打乱。为应对资源限制并配合内部压缩研发成本的战略，Meta已紧急要求员工优化调用流程，提升代码及令牌使用效率。此次事件反映出全球AI算力基础设施建设速度难以匹配爆发式应用需求的严峻现实，对于深度依赖云端算力的厂商而言，如何在资源受限下维持研发速度已成为核心竞争课题。",
+    "发布日期": "2026-06-30",
+    "原文链接": "https://www.aibase.com/zh/news/29234",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
   },
   {
-    "资讯标题": "消息称百度昆仑芯将赴港IPO 目标估值达500亿美元",
-    "内容": "消息称百度昆仑芯将赴港IPO 目标估值达500亿美元AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jun 29, 20262066月29日，资本市场传来重磅消息，百度旗下AI芯片业务主体昆仑芯正在紧锣密鼓地推进香港首次公开募股（IPO）相关进程，目标估值高达500亿美元。作为百度AI硬件生态布局的核心板块，昆仑芯此次奔赴港股不仅是其自身资本化道路的里程碑，也为当前白热化的全球AI算力市场注入了新的催化剂。作为国内备受瞩目的AI算力企业，昆仑芯此前已成功推出多代自研AI芯片，并在云端推理等多元化算力场景中实现了大规模落地应用。",
-    "发布日期": "2026-06-29",
-    "原文链接": "https://www.aibase.com/zh/news/29211",
+    "资讯标题": "百度开源3B参数Unlimited OCR模型，引入R-SWA机制刷新长文档解析纪录",
+    "内容": "百度正式开源3B参数规模的端到端OCR模型Unlimited OCR，该模型专为书籍、论文等长文档解析场景设计，上线5天GitHub Star即破万。技术层面，Unlimited OCR推理时激活参数约570M，首次引入Reference Sliding Window Attention（R-SWA）机制，打破了传统“逐页解析+拼接”的模式，实现数十页文档的一次性连续解析。该机制将解码阶段的KV Cache控制在恒定规模，有效抑制了显存占用与计算成本随输出长度增长而暴涨的问题。在OmniDocBench v1.6基准测试中，该模型以93.92%的成绩刷新纪录。实测显示，其推理速度较DeepSeek OCR提升约12.7%，在6000Tokens输出长度下速度优势扩大至35%。该模型的开源为海量文档数字化及大模型",
+    "发布日期": "2026-06-30",
+    "原文链接": "https://www.aibase.com/zh/news/29229",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b42360a551d2af392abf0b84b34462ba.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b42360a551d2af392abf0b84b34462ba.jpg",
     "配图仓库路径": "assets/news_images/b42360a551d2af392abf0b84b34462ba.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201912192146016232_0.jpg"
   },
   {
-    "资讯标题": "北京大学与DeepSeek联合开源大模型推理加速框架DSpark",
-    "内容": "6月28日，北京大学与DeepSeek联合发布并开源大模型推理加速框架DSpark，旨在解决大语言模型高并发推理场景下的响应延迟与算力浪费问题。DSpark引入双重优化机制：在候选生成阶段采用半自回归架构，仅需两层Transformer结构即可实现优于五层并行模型的效果；在验证调度层面，通过硬件感知前缀调度器实时判断负载，减少无效计算。经通义千问3、Gemma4等模型测试，DSpark在长序列生成任务中有效缓解了候选有效率衰减难题，表现优于Eagle3和DFlash。工程层面，该框架通过序列打包降低内存消耗，并采用异步调度消除GPU流水线卡顿。目前，DSpark已应用于DeepSeek-V4-Flash与DeepSeek-V4-Pro预览版服务，显著提升了系统吞吐量。DeepSeek已在GitHub DeepS",
-    "发布日期": "2026-06-29",
-    "原文链接": "https://www.aibase.com/zh/news/29212",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
-    "配图仓库路径": "assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558199227_0.jpg"
-  },
-  {
-    "资讯标题": "OpenAI与韩国人工智能安全研究所签署合作备忘录，共同推进AI安全评估",
-    "内容": "OpenAI正式与韩国人工智能安全研究所签署合作备忘录，成为继美国、英国、日本之后，OpenAI在全球范围内达成的第四项国家级AI安全合作。双方将聚焦高级AI系统在网络安全等高风险领域的评估，重点涵盖安全评估方法、基准测试及技术信息交流。合作旨在共同探索高性能AI模型和自主AI智能体的风险评估机制，确保部署前后的潜在风险可控。此外，双方计划定制专属的韩语测试数据与评估标准，以识别传统英文测试中难以发现的本地化风险，并致力于构建国际通用的AI安全基准框架。尽管目前协议尚未明确具体评估产品及实施截止日期，但此次深度协作标志着双方在构建AI信任体系与降低技术风险方面迈出关键一步，为后续跨国界AI安全治理提供了创新空间。",
-    "发布日期": "2026-06-29",
-    "原文链接": "https://www.aibase.com/zh/news/29214",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
-    "配图仓库路径": "assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502061723419905_1.jpg"
+    "资讯标题": "三星拟在韩国光州扩建先进半导体封装厂以缓解AI芯片产能告急",
+    "内容": "三星电子会长李在镕宣布，为应对AI芯片市场持续爆发的需求，公司计划在韩国光州建立全新的先进半导体封装工厂。当前三星产能已无法满足市场需求，此举旨在通过扩产缓解供需瓶颈。在高端存储领域，三星正加大对HBM的投入以追赶SK海力士，并已于今年5月向英伟达、AMD及谷歌等客户提供12层HBM4E内存样品。除半导体封装外，三星还启动了多元化战略扩张，包括在龟尾布局机器人产业、在仁川深耕生物医药、在蔚山投资电池业务以及在釜山布局半导体基板。这一系列投资旨在重塑数字时代硬件供应链，通过多线并进的产业布局，为三星在后AI时代的长期增长构筑核心竞争力。",
+    "发布日期": "2026-06-30",
+    "原文链接": "https://www.aibase.com/zh/news/29232",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4913ccd3981ba570d2bd86e12ae78ac2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4913ccd3981ba570d2bd86e12ae78ac2.jpg",
+    "配图仓库路径": "assets/news_images/4913ccd3981ba570d2bd86e12ae78ac2.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202011091028011678_7.jpg"
   }
 ]
