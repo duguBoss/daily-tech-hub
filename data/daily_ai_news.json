@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "高德地图内测AI编程产品“袋马”，支持分钟级生成微信小程序与iOS应用",
-    "内容": "高德地图正式入局AI零门槛应用生成赛道，目前正低调内测名为“袋马”（daimax）的Vibe Coding产品。该工具主打自然语言驱动，用户无需掌握编程技术或搭建开发环境，仅需通过对话描述需求，即可在分钟级时间内生成可直接上线、真机可用的微信小程序或iOS原生应用。袋马核心服务于无研发团队的中小企业主与独立创作者，支持“对话式修改”与“灵感广场”一键复刻功能，旨在大幅降低创意落地成本。目前产品处于内测阶段，官方尚未披露具体上线时间与商业化细则。随着腾讯、百度、阿里、美团及字节跳动等大厂在AI编程领域的密集布局，高德此次通过聚焦小微主体的轻量化需求切入市场，试图在激烈的竞争中寻找差异化优势。业内分析认为，此类工具的普及正显著降低开发门槛，加速推动全民应用开发时代的到来。",
+    "资讯标题": "谷歌面向美国免费用户开放Gemini个性化AI图像生成功能",
+    "内容": "谷歌正式宣布，Gemini平台的个性化AI图像生成功能已向美国境内所有免费用户开放。该功能核心在于允许用户创建并保存专属的图像生成配置文件，涵盖画风、背景等视觉偏好。此前，免费用户每次生成图片均需重新描述风格，新功能通过锁定特定模版，确保了后续创作中系列图片视觉的高度一致性，显著简化了操作流程。目前该功能仅限美国英语用户使用，但业内预计谷歌后续将逐步向全球市场推广。此举旨在降低高端AI应用门槛，通过提升Gemini生态的易用性与个性化体验，增强其在AI绘图工具市场中的竞争力，吸引并留存更多大众用户。",
     "发布日期": "2026-06-30",
-    "原文链接": "https://www.aibase.com/zh/news/29224",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/abd6e797566119cd87eeba421e7fa9a7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/abd6e797566119cd87eeba421e7fa9a7.jpg",
-    "配图仓库路径": "assets/news_images/abd6e797566119cd87eeba421e7fa9a7.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0629/6391832916032031749099623.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29249",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5660ecce34ff1d5cc899ef55ac4fa9a7.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5660ecce34ff1d5cc899ef55ac4fa9a7.jpg",
+    "配图仓库路径": "assets/news_images/5660ecce34ff1d5cc899ef55ac4fa9a7.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202312070835429226_0.jpg"
   },
   {
-    "资讯标题": "马斯克宣布Grok4.5开启内测并计划每月推出全新基础模型",
-    "内容": "埃隆·马斯克于2026年6月28日宣布，xAI旗下最新大语言模型Grok4.5已在SpaceX与特斯拉内部启动Beta测试。该模型基于1.5万亿参数的V9基础模型构建，并深度融合了AI编程工具Cursor的数据，早期评测显示其性能已比肩Anthropic旗舰模型Claude Opus。马斯克同时披露了激进的发布计划，承诺SpaceX在今年剩余时间内将每月推出一个完全从零训练的全新基础模型，旨在通过高频迭代加速技术演进。此次战略布局与SpaceX拟600亿美元收购Anysphere的计划相呼应，预计交易将于2026年三季度完成。通过在SpaceX与特斯拉的实体产业场景中进行高价值反馈测试，xAI正加速深耕企业级AI市场，并重点强化编码辅助能力，此举将进一步加剧与OpenAI及谷歌等头部厂商的竞争态势。",
+    "资讯标题": "美团正式发布万亿参数开源大模型 LongCat-2.0，原生支持1M超长上下文",
+    "内容": "6月30日，美团正式发布并开源万亿参数大模型LongCat-2.0，这是业界首个在五万卡国产算力集群上完成全流程训练与推理的模型。LongCat-2.0总参数量达1.6T，平均激活参数约48B，动态范围在33B至56B之间，原生支持1M超长上下文。技术层面，该模型引入稀疏注意力机制（LSA）将长文本计算量降至线性级，并采用零计算专家机制与MOPD多专家融合架构，实现Token级动态激活。团队通过自研确定性算子与弹性恢复机制，将月均日故障率降低70%以上，实现稳态日吞吐超1T tokens。在SWE-bench Pro等编程评测中，LongCat-2.0表现超越GPT-5.5及Claude Opus 4.6，在代码理解、数学推理及长程检索等复杂办公场景中具备显著优势。该模型的发布标志着国产算力在大规模集群训练上的",
     "发布日期": "2026-06-30",
-    "原文链接": "https://www.aibase.com/zh/news/29226",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
-    "配图仓库路径": "assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311060852081809_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29259",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/369eeea650e3ed81524ba1f018a0c1bc.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/369eeea650e3ed81524ba1f018a0c1bc.jpg",
+    "配图仓库路径": "assets/news_images/369eeea650e3ed81524ba1f018a0c1bc.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0630/6391841379085294769928110.jpg"
   },
   {
-    "资讯标题": "谷歌因算力告急限制Gemini API调用，Meta研发进度受阻",
-    "内容": "谷歌因Gemini AI平台需求激增，于2026年5月17日正式实施基于算力额度的使用限制，采用滚动更新机制以应对开发者及企业负载压力。自2025年春季以来，Gemini API调用请求量翻倍，导致核心算力资源供不应求。Meta作为受冲击最显著的客户，因其需求远超配额，面临算力供应不足的困境，导致多项内部AI项目推进节奏被打乱。为应对资源限制并配合内部压缩研发成本的战略，Meta已紧急要求员工优化调用流程，提升代码及令牌使用效率。此次事件反映出全球AI算力基础设施建设速度难以匹配爆发式应用需求的严峻现实，对于深度依赖云端算力的厂商而言，如何在资源受限下维持研发速度已成为核心竞争课题。",
+    "资讯标题": "OpenAI携手Work Louder将于7月15日推出Codex专用实体快捷控制台",
+    "内容": "OpenAI正式宣布进军硬件领域，将于7月15日发布一款专为AI编码工具Codex设计的实体快捷控制台。该设备由OpenAI与外设厂商Work Louder合作开发，设计灵感源自Creator Micro 2宏键盘，采用方形外观，配备可自定义的机械开关、旋钮及触控传感器。此次合作旨在将物理交互引入AI辅助编程工作流，通过实体按键一键触发复杂指令，减少开发者频繁切换窗口或输入冗长代码的负担。虽然目前官方尚未披露具体规格与售价，但该产品标志着AI工具正从纯云端软件向桌面物理工作环境延伸。对于开发者而言，这一硬件有望通过自定义快捷操作显著提升编程效率，为AI辅助编程领域提供全新的交互范式，进一步优化案头生产力工具的体验。",
     "发布日期": "2026-06-30",
-    "原文链接": "https://www.aibase.com/zh/news/29234",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29256",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
+    "配图仓库路径": "assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723412816_0.jpg"
   },
   {
-    "资讯标题": "百度开源3B参数Unlimited OCR模型，引入R-SWA机制刷新长文档解析纪录",
-    "内容": "百度正式开源3B参数规模的端到端OCR模型Unlimited OCR，该模型专为书籍、论文等长文档解析场景设计，上线5天GitHub Star即破万。技术层面，Unlimited OCR推理时激活参数约570M，首次引入Reference Sliding Window Attention（R-SWA）机制，打破了传统“逐页解析+拼接”的模式，实现数十页文档的一次性连续解析。该机制将解码阶段的KV Cache控制在恒定规模，有效抑制了显存占用与计算成本随输出长度增长而暴涨的问题。在OmniDocBench v1.6基准测试中，该模型以93.92%的成绩刷新纪录。实测显示，其推理速度较DeepSeek OCR提升约12.7%，在6000Tokens输出长度下速度优势扩大至35%。该模型的开源为海量文档数字化及大模型",
+    "资讯标题": "Meta严禁内部工程师使用Claude Code与Codex以防范技术泄露",
+    "内容": "Meta已正式出台内部规范，严禁AI工程部门使用Anthropic的Claude Code及OpenAI的Codex工具。该政策自今年5月起生效，核心目的是防止技术机密泄露及规避“模型蒸馏”风险。Meta管理层担忧工程师在辅助编程过程中，可能无意中将竞争对手模型的输出结果引入自家AI模型的训练数据集，这不仅违反第三方服务协议，还可能引发严重的法律纠纷。为规避潜在风险，Meta已要求相关团队暂停依赖上述模型的高风险任务。Meta官方发言人对此回应称，此举旨在规范外部AI工具的使用，确保工程师专注于核心自主研发工作，并以负责任的方式推进技术开发。这一举措反映了Meta在AI竞争加剧背景下，对保护核心技术资产与合规性审查的极高重视。",
     "发布日期": "2026-06-30",
-    "原文链接": "https://www.aibase.com/zh/news/29229",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b42360a551d2af392abf0b84b34462ba.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b42360a551d2af392abf0b84b34462ba.jpg",
-    "配图仓库路径": "assets/news_images/b42360a551d2af392abf0b84b34462ba.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201912192146016232_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29261",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "配图仓库路径": "assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605060956253111_0.jpg"
   },
   {
-    "资讯标题": "三星拟在韩国光州扩建先进半导体封装厂以缓解AI芯片产能告急",
-    "内容": "三星电子会长李在镕宣布，为应对AI芯片市场持续爆发的需求，公司计划在韩国光州建立全新的先进半导体封装工厂。当前三星产能已无法满足市场需求，此举旨在通过扩产缓解供需瓶颈。在高端存储领域，三星正加大对HBM的投入以追赶SK海力士，并已于今年5月向英伟达、AMD及谷歌等客户提供12层HBM4E内存样品。除半导体封装外，三星还启动了多元化战略扩张，包括在龟尾布局机器人产业、在仁川深耕生物医药、在蔚山投资电池业务以及在釜山布局半导体基板。这一系列投资旨在重塑数字时代硬件供应链，通过多线并进的产业布局，为三星在后AI时代的长期增长构筑核心竞争力。",
+    "资讯标题": "Anthropic Claude模型部署至Azure并集成英伟达GB300平台",
+    "内容": "Anthropic正式宣布Claude系列大模型已在Microsoft Azure平台全面开放，并深度集成英伟达Blackwell Ultra GB300 GPU平台。此次部署采用NVIDIA GB300 NVL72系统与Quantum-X800 InfiniBand网络技术，旨在为企业级Agentic AI提供高性能算力支撑。企业可通过Claude Opus 4.8及Claude Haiku 4模型处理复杂业务任务，并利用英伟达“Agent Skills”工具将AI代理植入现有流程。在安全性方面，该方案依托Azure基础设施及NVIDIA Secure Agent Workspace参考设计，在身份认证、网络访问及运行时策略上实现严格管控。此次合作标志着智能代理应用从概念验证迈向规模化产业落地，企业可借助Az",
     "发布日期": "2026-06-30",
-    "原文链接": "https://www.aibase.com/zh/news/29232",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4913ccd3981ba570d2bd86e12ae78ac2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4913ccd3981ba570d2bd86e12ae78ac2.jpg",
-    "配图仓库路径": "assets/news_images/4913ccd3981ba570d2bd86e12ae78ac2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202011091028011678_7.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29255",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
+    "配图仓库路径": "assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403050858462025_0.jpg"
   }
 ]
