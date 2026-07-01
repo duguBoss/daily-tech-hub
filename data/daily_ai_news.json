@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "黑客滥用OpenAI组织邀请功能实施精准钓鱼攻击",
-    "内容": "安全公司Push Security近日发布警示，黑客正利用OpenAI的组织邀请机制对企业员工发起新型网络钓鱼攻击。攻击者通过创建与目标企业同名的OpenAI组织，利用官方通知邮箱发送邀请，因邮件源自官方且通过身份验证，极易绕过传统邮件安全防护。为增加迷惑性，黑客在组织中绑定有效Visa信用卡并赋予受邀者管理员权限，消除付费门槛。研究发现，整个加入流程缺乏二次身份验证，用户点击链接即可直接进入，导致企业安全防线被轻易洞穿。此类攻击利用AI平台协作机制，专家建议企业需将防御重心从传统邮件钓鱼扩展至针对AI平台协作机制的安全审查，以应对日益严峻的社工攻击风险。",
+    "资讯标题": "谷歌因算力短缺限制Meta访问Gemini模型，促使Meta加速自主研发",
+    "内容": "受全球云计算基础设施短缺影响，谷歌已正式限制Meta对其顶级AI模型Gemini的访问权限。此前，Gemini在Meta的诈骗检测及有害内容过滤等自动化安全工作流程中表现优异，性能甚至优于Meta自家的开源Llama系统。此次算力配给限制导致Meta内部多个关键AI项目进度延误，迫使Meta管理层要求团队提升AI Token使用效率。为摆脱对第三方模型平台的依赖，Meta已通过新成立的“超级智能实验室”加速自主研发进程，将核心安全与审核工作负载大规模迁移至其自研模型“Muse Spark”。这一举措标志着Meta在人工智能领域寻求底层技术自主可控的战略转向，反映出在算力资源成为稀缺生产要素的背景下，科技巨头正加速构建独立的基础设施能力。",
     "发布日期": "2026-07-01",
-    "原文链接": "https://www.aibase.com/zh/news/29271",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/45a126e93bb23204ec88398d3fcffde6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/45a126e93bb23204ec88398d3fcffde6.jpg",
-    "配图仓库路径": "assets/news_images/45a126e93bb23204ec88398d3fcffde6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131739286217_5.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29294",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "配图仓库路径": "assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605060956253111_0.jpg"
   },
   {
-    "资讯标题": "算力短缺瓶颈显现:谷歌限制Meta访问Gemini AI模型",
-    "内容": "算力短缺瓶颈显现:谷歌限制Meta访问Gemini AI模型AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jun 30, 202628由于全球云计算能力持续短缺，谷歌正式限制了Meta对其顶级AI模型Gemini的访问权限。作为Meta自动化安全工作流程的核心，Gemini此前被广泛应用于诈骗检测和有害内容过滤等大规模审核任务，其效率曾一度优于Meta自身的开源Llama系统。然而，随着AI推理工作负载的激增，谷歌即使在第一季度创下200亿美元的云业务营收，其物理基础设施建设速度仍难以追赶算力需求的爆炸式增长。此次谷歌对Meta实施的算力配给，导致Meta多个内部人工智能项目遭到延误。",
+    "资讯标题": "谷歌发布AI生图模型Nano Banana 2 Lite，实现4秒出图并全面取代旧版",
+    "内容": "谷歌正式发布自研AI图像与视频生成模型Nano Banana 2 Lite，该模型主打高频批量内容生产，核心优势在于超低延迟，仅需4秒即可生成高质量图像。在计费方面，生成一张1K分辨率图像消耗1120个token，费用为0.034美元。目前，该模型已全面上线谷歌AI Studio、Gemini API及Gemini企业级智能体平台，并正式取代初代模型。此外，谷歌扩大了Gemini Omni Flash的开放范围，视频生成收费标准为每秒0.10美元。同时推出的Omni Product Studio应用支持将静态图像一键转化为电商视频，旨在为开发者提供端到端的多媒体创作体验。此次更新旨在通过提升运行速度与降低使用成本，优化专业工作流的图像产出效率。",
     "发布日期": "2026-07-01",
-    "原文链接": "https://www.aibase.com/zh/news/29269",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8c5574c883415011ed11df2ffc9ec05d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8c5574c883415011ed11df2ffc9ec05d.jpg",
-    "配图仓库路径": "assets/news_images/8c5574c883415011ed11df2ffc9ec05d.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202605061415496310_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29299",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f70dcd19505d16e86ac5321d58e60cb8.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f70dcd19505d16e86ac5321d58e60cb8.jpg",
+    "配图仓库路径": "assets/news_images/f70dcd19505d16e86ac5321d58e60cb8.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0701/6391850236787336392826556.png"
   },
   {
-    "资讯标题": "微软Azure全面引入Anthropic Claude模型并搭载英伟达GB300架构",
-    "内容": "6月29日，微软在Azure云平台全面上线Anthropic Claude系列模型，首批支持Claude Opus 4.8与Claude Haiku 4.5。该服务依托英伟达GB300 Blackwell Ultra超级芯片及NVIDIA Quantum-X800 InfiniBand网络技术，旨在提升模型推理性能。Azure不仅提供原生管理功能，还深度集成了英伟达“智能体技能”（Agent Skills）及安全工作区参考设计，支持企业构建复杂的AI代理流程。此次软硬结合的部署方案，在强化编程辅助与高复杂度推理能力的同时，通过身份认证与网络安全机制，为企业级应用提供了更稳健的底层支撑。对于开发者而言，该技术栈的落地将显著降低构建自主智能体应用的复杂度，进一步推动生成式AI从对话交互向自主执行任务的演进。",
+    "资讯标题": "苹果CEO库克与欧盟磋商，旨在推动新版Siri AI进入欧洲市场",
+    "内容": "苹果CEO蒂姆·库克近日与欧盟科技事务负责人亨娜·维尔库宁举行视频会谈，就新版Siri AI入欧事宜展开建设性磋商。此前，因未能满足《数字市场法》（DMA）关于互操作性的要求，苹果宣布推迟在欧盟地区的iPhone和iPad上线该功能。新版Siri已转型为可调用个人数据的智能聊天机器人，其能否入欧被视为评估苹果AI竞争力的关键。目前核心分歧在于苹果拒绝向竞争对手开放同等设备数据访问权限，且此前申请的18个月合规宽限期遭欧盟拒绝。苹果曾提出“可信系统代理”方案以保护用户数据，但因缺乏具体运作细节进展缓慢。此次最高层直接对话虽未进入正式合规程序，但被视为双方打破监管僵局、迈向后续合作的重要一步。",
     "发布日期": "2026-07-01",
-    "原文链接": "https://www.aibase.com/zh/news/29264",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/33077332129f6fb8dfec10e56c280753.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/33077332129f6fb8dfec10e56c280753.jpg",
-    "配图仓库路径": "assets/news_images/33077332129f6fb8dfec10e56c280753.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201912082153078292_12.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29295",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8eb4ffbca1e3fd6eebac17f1e14f6761.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8eb4ffbca1e3fd6eebac17f1e14f6761.jpg",
+    "配图仓库路径": "assets/news_images/8eb4ffbca1e3fd6eebac17f1e14f6761.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202011091027589801_4.jpg"
   },
   {
-    "资讯标题": "小红书开源 RedKnot 推理引擎，长上下文处理效率与并发能力显著提升",
-    "内容": "小红书技术团队正式开源自主研发的 RedKnot 推理引擎，旨在解决生成式 AI 在处理超长文本时的内存开销与推理效率瓶颈。RedKnot 摒弃了传统的按 token 维度存储 KV Cache 模式，通过将 KV Cache 沿注意力头维度拆解，并引入“头分类稀疏”、“稀疏 FFN”及“SegPagedAttention”三大机制，实现了算法与存储粒度的统一。实测数据显示，在 8 卡 H800 环境下，RedKnot 可将首字生成时间（TTFT）加速 1.6 至 3.54 倍，单卡并发能力提升 4.7 至 7.8 倍，预填充阶段计算资源消耗（FLOPs）降低 67% 至 79.5%。以 DeepSeek-V4-Flash 模型在 128K 上下文任务为例，其首字生成速度提升 5.16 倍，KV 数据传输效率优",
+    "资讯标题": "X 平台正式推出托管 MCP 服务器，支持 AI 工具直连 API 检索实时数据",
+    "内容": "X 平台于周一正式推出托管模型上下文协议（MCP）服务器，允许 Claude、Cursor、Grok Build 等兼容 MCP 标准的 AI 助手在获得用户授权后，直接与 X API 通信以检索实时数据。该举措简化了开发者的集成路径，无需再自行构建托管服务器或处理复杂的身份验证。X 官方明确表示，该托管 MCP 工具目前不兼容 Write API 端点，即 AI 工具无法通过该服务在 X 上进行自主发布，且此举并未绕过现有的 API v2 规则。目前，X 已通过调整 API 定价策略（如发布帖子 0.015 美元、链接 0.20 美元）来遏制程序化滥用。随着 GitHub、Slack、Notion 等巨头纷纷加入，MCP 正成为连接大模型与外部工具的通用标准。X 此举旨在提升其数据资产在 AI 时代的变现价值",
     "发布日期": "2026-07-01",
-    "原文链接": "https://www.aibase.com/zh/news/29262",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6d2502c619b5954a72a8c5b4b3c52f32.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6d2502c619b5954a72a8c5b4b3c52f32.jpg",
-    "配图仓库路径": "assets/news_images/6d2502c619b5954a72a8c5b4b3c52f32.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202010301735209230_20.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29291",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dcc54ad8b3de337c043be563018164da.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dcc54ad8b3de337c043be563018164da.jpg",
+    "配图仓库路径": "assets/news_images/dcc54ad8b3de337c043be563018164da.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202403290922581712_0.jpg"
   },
   {
-    "资讯标题": "华为开源openPangu-2.0-Flash模型权重及推理代码",
-    "内容": "华为正式开源盘古大模型openPangu-2.0-Flash版本，包含920亿参数模型权重、基础推理代码及训推算子。该模型采用分化配置策略，总参数量92B，激活参数量6B，具备512K超长上下文处理能力，旨在通过昇腾原生训练与推理技术，为开发者提供高并发、低延迟的工业级应用实践参考。此次开源是华为加速Agent时代智能底座建设及繁荣昇腾生态的关键举措。按照规划，总参数量505B、激活参数量18B的openPangu-2.0-Pro版本模型权重及推理代码将于7月正式上线，更多相关组件计划在今年下半年陆续释放。该系列模型的推出，将进一步降低业界使用昇腾算力的门槛，推动大模型在长文本处理及复杂Agent场景下的商业落地。",
+    "资讯标题": "Anthropic发布大模型Claude Sonnet 5，性能对标旗舰并大幅下调价格",
+    "内容": "Anthropic正式发布全新大语言模型Claude Sonnet 5，该模型定位为中高阶产品，旨在显著缩小与旗舰Opus系列之间的性能差距。作为目前“最具代理能力”的Sonnet模型，Claude Sonnet 5在推理、编程及知识型任务中表现优异，支持自主规划复杂任务、自查输出结果，并能灵活调用浏览器与终端等外部工具。在安全性方面，该模型有效降低了幻觉率与讨好式回应，对恶意请求的识别更加智能。目前，Claude Sonnet 5已面向所有套餐开放，并成为免费计划与Pro付费计划的默认模型。Anthropic采取了极具竞争力的定价策略，其每百万输入和输出token的费用远低于Opus模型。通过此次发布，Anthropic旨在通过降维打击的定价模式，降低开发者与普通用户使用顶尖AI自动化能力的门槛，加速推动AI",
     "发布日期": "2026-07-01",
-    "原文链接": "https://www.aibase.com/zh/news/29268",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a58e429e4356fa3bf9f391070ec89b92.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a58e429e4356fa3bf9f391070ec89b92.jpg",
-    "配图仓库路径": "assets/news_images/a58e429e4356fa3bf9f391070ec89b92.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811191230527214_4.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29290",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
+    "配图仓库路径": "assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171645588927_0.jpg"
   }
 ]
