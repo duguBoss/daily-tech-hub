@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "软银宣布7月在美国成立合资公司SB Neo，布局新云服务竞逐AI算力市场",
-    "内容": "软银集团与软银公司于2026年7月2日宣布，将于本月在美国成立合资公司SB Neo Inc.（暂定名），正式进军美国AI算力市场。该合资公司由软银公司持股51%，软银集团持股49%。SB Neo将依托软银集团正在推进的10吉瓦级能源与AI基础设施，计划在2027财年内推出名为“新云”（neocloud）的云服务，旨在为美国大型企业提供大规模AI模型训练与推理所需的高性能计算资源。面对美国市场持续增长的算力缺口，SB Neo制定了分阶段扩大服务能力的战略，并计划后续进一步部署10吉瓦规模的AI基础设施。此次布局被视为软银提升核心竞争力的关键举措，预计将推动软银公司年营业利润实现3至4倍的爆发式增长，目标达到3万亿至4万亿日元，折合约185亿至250亿美元。",
+    "资讯标题": "阿里巴巴开源Page Agent客户端库，通过DOM脱水技术实现大模型网页自动化控制",
+    "内容": "阿里巴巴近日开源了JavaScript客户端库Page Agent，旨在改变浏览器自动化依赖Selenium或Playwright等外部工具的现状。该库核心技术在于“DOM脱水”，通过将实时DOM结构压缩为轻量化的“FlatDomTree”纯文本映射，使大模型无需依赖多模态视觉信息即可精准执行点击、填表等指令。Page Agent采用模型无关设计，兼容所有支持OpenAI接口的LLM。由于直接嵌入页面运行，该方案可无缝继承用户Cookie与会话信息，显著降低SaaS AI副驾及自动化表单处理的开发成本。目前项目已在GitHub以MIT协议开源。开发团队提醒，该库目前聚焦单页面交互，且基于提示词的权限管控非硬性逻辑隔离，涉及资金或数据修改等高风险操作时，开发者仍需在服务端部署严格校验机制。",
     "发布日期": "2026-07-03",
-    "原文链接": "https://www.aibase.com/zh/news/29345",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6125686a72adff615a40c0379ea677c4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6125686a72adff615a40c0379ea677c4.jpg",
-    "配图仓库路径": "assets/news_images/6125686a72adff615a40c0379ea677c4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308091546534429_3.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29352",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9eb46f19d0f0edf3aabbdff47bbd70cd.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9eb46f19d0f0edf3aabbdff47bbd70cd.jpg",
+    "配图仓库路径": "assets/news_images/9eb46f19d0f0edf3aabbdff47bbd70cd.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304251756325347_6.jpg"
   },
   {
-    "资讯标题": "美团限制调用豆包大模型，全面推行自研 LongCat 体系并开源 2.0 版本",
-    "内容": "美团近日下发内部通知，对豆包大模型的使用权限实施严格限制，要求各业务团队自查并对外部模型调用执行审批流程。此前，美团已于4月收紧对阿里云 Qwen 模型的调用权限。此次调整标志着美团进一步向自研技术栈倾斜。核心底座 LongCat 大模型已迭代至 2.0 版本，该模型具备万亿参数规模，支持 1M 超长上下文，并已在国产算力集群上完成全流程训练。美团同步开源 LongCat-2.0，并推出 LongCat-AudioDiT 音频生成模型及多模态模型 LongCat-Next，构建起覆盖视觉、语音与文本的全方位 AI 能力矩阵。目前，LongCat 体系已深度集成于“小团”AI 助手及商家经营工具中。此举旨在通过打造技术闭环，增强业务灵活性与安全性，标志着美团在 AI 基础设施建设上进入“硬核练内功”的新阶段。",
+    "资讯标题": "快手旗下可灵AI完成30亿美元融资，投后估值达180亿美元",
+    "内容": "快手旗下视频生成大模型“可灵AI”于7月2日正式完成近30亿美元融资，投后估值达到180亿美元，刷新全球视频大模型领域融资规模纪录。本轮融资由CPE源峰、国方创投、BlueFive、腾讯、中关村科学城基金及中信证券联合领投，数十家机构跟投。投资方涵盖阿里云、百度等头部产业资本，以及华策影视、芒果产业投资人等文娱产业方。此次融资标志着可灵AI正式开启独立商业化进程，资金将主要用于后续技术迭代与算力扩容。作为快手AI技术的核心成果，可灵AI通过此次融资完成了从内部技术项目向市场化经营主体的跨越，旨在通过雄厚的资金支持在激烈的AI视频赛道建立竞争壁垒，并进一步探索AI技术在内容生产领域的商业潜力。",
     "发布日期": "2026-07-03",
-    "原文链接": "https://www.aibase.com/zh/news/29334",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
-    "配图仓库路径": "assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556149296_6.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29349",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c1efb0bd0418e0b58ef6c0f82c65cf5c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c1efb0bd0418e0b58ef6c0f82c65cf5c.jpg",
+    "配图仓库路径": "assets/news_images/c1efb0bd0418e0b58ef6c0f82c65cf5c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812101541429574_0.jpg"
   },
   {
-    "资讯标题": "快手旗下可灵AI传即将完成首轮独立融资，估值达180亿美元",
-    "内容": "7月2日，市场消息显示快手旗下AI视频生成平台“可灵AI”即将完成首轮独立融资，融资规模预计达30亿美元，整体估值指向180亿美元。自2026年5月传出分拆融资计划以来，可灵AI的估值预期在150亿至200亿美元之间频繁波动。目前快手官方尚未对融资细节予以置评。行业分析认为，估值的持续更迭反映了一级市场对AI投资逻辑的转变，投资方正从单纯的技术溢价转向关注交易估值的合理性。在当前AI视频生成领域，可灵AI正面临字节跳动旗下Seedance等强劲对手的激烈竞争。此次融资若能顺利落地，将直接影响其后续的市场地位、商业化路径以及技术壁垒的构建，是决定其在长跑竞争中格局的关键节点。",
+    "资讯标题": "微软曝光纯网页版操作系统Project Aion，彻底放弃原生桌面应用支持",
+    "内容": "微软内部代号为“Project Aion”的全新操作系统近日曝光，该系统完全基于Microsoft Edge浏览器及轻量化网页技术构建，旨在为AI时代重塑交互逻辑。Project Aion彻底移除了传统Windows的“开始菜单”与桌面图标，转而采用以Copilot为核心的极简AI交互界面。系统引入“空间”概念，支持将网页与应用自动分类归纳并成组唤醒，以提升多任务处理效率。在生态层面，该系统放弃了对传统Windows原生桌面应用的支持，全面转向Web应用架构。对于有传统办公需求的用户，微软提供通过Windows 365远程接入桌面服务的过渡方案。这种轻量化、重云端的架构设计，标志着微软在个人计算设备领域向纯Web生态的重大转型。",
     "发布日期": "2026-07-03",
-    "原文链接": "https://www.aibase.com/zh/news/29339",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
-    "配图仓库路径": "assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901101704279841_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29356",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9617c0f31b025a06e786ef59605a3345.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9617c0f31b025a06e786ef59605a3345.jpg",
+    "配图仓库路径": "assets/news_images/9617c0f31b025a06e786ef59605a3345.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0703/6391866892782703567360280.png"
   },
   {
-    "资讯标题": "xAI 发布 Voice Agent Builder 测试版，支持两分钟构建生产级语音智能体",
-    "内容": "xAI 正式发布 Voice Agent Builder 测试版，该零代码平台基于自研 Grok Voice 模型，旨在降低企业级语音智能体开发门槛。在 τ-voice Bench 评测中，核心模型 Grok Voice Think Fast 1.0 得分达 67.3%，优于 Gemini 3.1 Flash Live 与 GPT Realtime 1.5。该平台采用端到端架构，集成电话通信、知识库检索、MCP 服务器连接及 Guardrails 合规防护，支持用户通过自然语言描述目标并上传文档快速配置。开发者可调用 API 连接器实现预约、查询等闭环业务，平台内置 80 多种音色并支持两分钟音频样本克隆。商业化方面，平台不收使用费，仅按 API 计费，音频费用为 0.05 美元/分钟，电话服务加收 0.01 ",
+    "资讯标题": "微软成立“Frontier Company”：斥资 25 亿美元，将 6000 名工程师嵌入企业一线",
+    "内容": "微软成立“Frontier Company”：斥资 25 亿美元，将 6000 名工程师嵌入企业一线AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 3, 20265在人工智能技术从“模型研发”向“业务落地”转型的深水区，微软再次展现了其强大的资源整合能力。近日，微软宣布正式成立全新业务部门——“前沿公司”（Frontier Company），并投入 25 亿美元预算，旨在通过更深度的工程协作，加速企业客户的 AI 转型进程。此次行动的规模堪称行业之最。微软计划将 6000 名行业资深专家与技术工程师直接派驻至企业客户现场。与传统意义上“交付即走”的咨询模式不同，这一部门的核心使命是实现“深度嵌入”：工程师们将与客户团队并肩工作，共同进行系统的架构设计、模型部署以及针对具体业务场景的持续优化。",
     "发布日期": "2026-07-03",
-    "原文链接": "https://www.aibase.com/zh/news/29332",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2772f6c808deb0ee7e56fb6db3c0cb82.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2772f6c808deb0ee7e56fb6db3c0cb82.jpg",
-    "配图仓库路径": "assets/news_images/2772f6c808deb0ee7e56fb6db3c0cb82.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307180849462170_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29355",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a55ba8af0cbaf9ccd059ee8169ea1c8b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a55ba8af0cbaf9ccd059ee8169ea1c8b.jpg",
+    "配图仓库路径": "assets/news_images/a55ba8af0cbaf9ccd059ee8169ea1c8b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201912082153069542_11.jpg"
   },
   {
-    "资讯标题": "Meta内部禁止工程师使用Claude Code与Codex，严防AI模型蒸馏风险",
-    "内容": "Meta公司近日下达内部禁令，明确要求Applied AI部门工程师停止使用Anthropic的Claude Code及OpenAI的Codex工具。此举旨在防范“模型蒸馏”带来的数据污染与技术泄漏风险，避免Meta内部训练素材库收录竞品生成的代码片段，从而规避违反服务条款导致的法律纠纷。2026年以来，大模型行业关于蒸馏的博弈持续升级，此前OpenAI、Anthropic等厂商已多次指控竞品存在违规蒸馏行为。Meta作为Llama系列开源生态的推动者，此次对内部开发流程的“严防死守”，反映出其在维持开源战略与构建核心数据护城河之间的深层焦虑。行业分析认为，随着监管机构将“反蒸馏”提升至国家安全层面，Meta此举或引发巨头跟进，重塑大模型市场竞争规则，未来具备“空气间隙”式本地部署或私有云方案的技术将迎来增长机",
+    "资讯标题": "Anthropic移除Claude Code中隐藏的国内用户识别与数据投毒代码",
+    "内容": "Anthropic已从Claude Code中移除一段运行长达三个月的隐藏代码。该程序于4月2日至7月1日期间运行，通过Unicode隐写技术及接口请求日期文本，精准识别使用国内AI企业代理接口或位于国内的用户。一旦命中目标，程序会核对设备时区与加密域名黑名单，黑名单涵盖百度、字节、MiniMax等上百家企业。该机制不仅能标记用户，还内置反蒸馏功能，通过注入虚假工具调用数据干扰第三方模型训练。Anthropic官方回应称，该功能为防范账号倒卖的短期实验，目前已彻底移除。由于Claude Code具备读取本地代码及修改文件的高权限，此次未公示的底层检测逻辑引发了行业对开发者隐私、合规内网代理误伤及产品信任基础的广泛质疑。",
     "发布日期": "2026-07-03",
-    "原文链接": "https://www.aibase.com/zh/news/29338",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
-    "配图仓库路径": "assets/news_images/389552366f83b75ea62f8fb7e39a333d.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202111072153100579_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29347",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
   }
 ]
