@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里巴巴开源 Page Agent 客户端库，通过 DOM 脱水实现大模型网页自动化控制",
-    "内容": "阿里巴巴近日开源了 JavaScript 客户端库 Page Agent，旨在通过“DOM 脱水”技术重构浏览器自动化流程。该方案摒弃了传统依赖 Selenium 或 Playwright 的外部驱动模式，直接在页面内部运行，将实时 DOM 结构压缩为轻量化的 FlatDomTree 纯文本映射。这一创新使大模型无需处理多模态视觉信息，即可精准执行点击、填表等交互指令。Page Agent 采用模型无关设计，兼容所有支持 OpenAI 接口的 LLM，并能无缝继承用户 Cookie 与会话信息，大幅降低了 SaaS AI 副驾及自动化表单处理的开发门槛。目前该项目已在 GitHub 以 MIT 协议开源。开发团队提醒，该库目前聚焦单页面交互，且基于提示词的权限管控并非硬性逻辑隔离，涉及资金划拨等高风险操作时，开",
-    "发布日期": "2026-07-03",
-    "原文链接": "https://www.aibase.com/zh/news/29352",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9eb46f19d0f0edf3aabbdff47bbd70cd.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9eb46f19d0f0edf3aabbdff47bbd70cd.jpg",
-    "配图仓库路径": "assets/news_images/9eb46f19d0f0edf3aabbdff47bbd70cd.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304251756325347_6.jpg"
+    "资讯标题": "阿里达摩院联合高校发布AI智能体Elements Claw，实现超导材料自主研发闭环",
+    "内容": "7月3日，阿里达摩院联合中国人民大学、中国科学院大学发布全球首个超导材料发现AI智能体Elements Claw。该智能体基于1.25亿分子与晶体结构数据库训练，构建了10亿参数的原子基础模型Elements，其超导潜力判断AUC指标达0.996，临界温度预测误差控制在1K以内。Elements Claw具备自主查阅文献、评估合成可行性及实验设计能力，在测试中仅耗费28个GPU小时，即从240万个晶体结构中筛选出6.8万个候选材料。目前，研究团队已通过实验成功合成并验证了HfZrRe4、Hf21Re25、Zr4VRe7和Zr3ScRe8等4种全新超导材料，最高临界温度达6.5K。达摩院已将240万个稳定晶体数据全量开源。该智能体框架未来有望复用于固态电池电解质、多相催化剂及热电材料等领域，标志着AI在科学发现领",
+    "发布日期": "2026-07-04",
+    "原文链接": "https://www.aibase.com/zh/news/29373",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/14aa4a3aaa794242e2faf9f891550eec.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/14aa4a3aaa794242e2faf9f891550eec.jpg",
+    "配图仓库路径": "assets/news_images/14aa4a3aaa794242e2faf9f891550eec.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0703/6391869083220583262578533.png"
   },
   {
-    "资讯标题": "快手旗下可灵AI完成30亿美元融资，投后估值达180亿美元",
-    "内容": "快手旗下视频生成大模型“可灵AI”正式完成近30亿美元融资，投后估值达到180亿美元，刷新全球视频大模型领域融资规模纪录。本轮融资由CPE源峰、国方创投、BlueFive、腾讯、中关村科学城基金及中信证券联合领投，数十家机构跟投。投资方阵容涵盖阿里云、百度等头部产业资本，以及华策影视、芒果产业投资人等文娱产业方。此次融资标志着可灵AI正式开启独立商业化进程，资金将主要用于后续技术迭代与算力扩容。作为快手AI核心成果，可灵AI通过此次融资完成了从内部技术项目向市场化经营主体的跨越，旨在通过资本加持在激烈的AI视频赛道建立技术与商业壁垒，进一步推动AI技术在内容生产领域的规模化应用。",
-    "发布日期": "2026-07-03",
-    "原文链接": "https://www.aibase.com/zh/news/29349",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c1efb0bd0418e0b58ef6c0f82c65cf5c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c1efb0bd0418e0b58ef6c0f82c65cf5c.jpg",
-    "配图仓库路径": "assets/news_images/c1efb0bd0418e0b58ef6c0f82c65cf5c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812101541429574_0.jpg"
+    "资讯标题": "阿里巴巴内部下发指令全面禁用 Claude 系列 AI 模型及工具",
+    "内容": "阿里巴巴已要求全体员工停止使用 Anthropic 旗下的 Claude 系列产品，包括 Sonnet、Opus、Fable 模型及 Claude Code 智能体工具，并设定7月10日为最后期限。此次禁令源于开发者社区披露 Claude Code 存在隐蔽检测机制，该机制通过代码注入实时监测用户设备时区及访问域名，若检测到中国时区或国内头部科技企业域名交互，系统会自动上报。Anthropic 回应称该机制为3月上线的“实验性”措施，旨在防范账户滥用与模型蒸馏攻击，相关代码已在7月2日发布的最新版本中回滚并删除。此前阿里曾鼓励员工使用外部模型并提供报销方案，但此次事件触及企业研发安全红线，标志着国内大模型巨头对内部开发流程的合规管控进入“硬核”阶段，平衡生产力提升与核心代码产权保护的难度进一步加大。",
+    "发布日期": "2026-07-04",
+    "原文链接": "https://www.aibase.com/zh/news/29364",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/662819d99f5688f33080926fcfad78c3.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/662819d99f5688f33080926fcfad78c3.jpg",
+    "配图仓库路径": "assets/news_images/662819d99f5688f33080926fcfad78c3.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0703/6391868544707281352350127.png"
   },
   {
-    "资讯标题": "微软曝光纯网页版操作系统Project Aion，彻底放弃原生桌面应用支持",
-    "内容": "微软内部代号为“Project Aion”的全新操作系统近日曝光，该系统完全基于Microsoft Edge浏览器及轻量化网页技术构建，标志着微软向AI原生计算架构的重大转型。Project Aion彻底移除了传统Windows的开始菜单与桌面图标，转而采用极简AI交互界面，由Copilot智能助理主导日常操作。系统引入“空间”概念，支持将网页与应用自动分类归纳，实现多任务高效协同。在生态层面，该系统全面放弃对传统Windows原生桌面应用的支持，所有软件均通过Web端运行，并集成Windows 365远程桌面服务以实现云端过渡。这种轻量化、重云端的架构设计，预示着个人计算设备正从传统本地交互向AI驱动的Web生态演进，将对现有桌面操作系统交互逻辑产生深远影响。",
-    "发布日期": "2026-07-03",
-    "原文链接": "https://www.aibase.com/zh/news/29356",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9617c0f31b025a06e786ef59605a3345.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9617c0f31b025a06e786ef59605a3345.jpg",
-    "配图仓库路径": "assets/news_images/9617c0f31b025a06e786ef59605a3345.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0703/6391866892782703567360280.png"
+    "资讯标题": "谷歌 Gemini Omni Flash 登顶 Video Arena 视频模型盲测榜首",
+    "内容": "7月3日，权威视频模型盲测榜单 Video Arena 正式更新，谷歌 DeepMind 推出的文生视频模型 Gemini Omni Flash 以 1404 Elo 的高分跃居榜首。此次排名基于用户真实盲测投票，综合考量了生成质量、逻辑一致性及用户体验。Gemini Omni Flash 成功超越此前长期领先的字节跳动 Seedance 系列模型，两者分差达 101 Elo。谷歌在多模态大模型领域的视频生成能力显著提升，其旗下模型整体排名较 Veo 时期跃升 7 位。Video Arena 作为行业技术风向标，此次变动反映出在算力支撑与模型架构优化双重推动下，AI 视频生成的技术天花板正被持续拉高。对于行业而言，这种激烈的竞争格局加速了模型迭代，为高质量视频内容创作提供了更坚实的技术底座，业界正密切关注后续厂",
+    "发布日期": "2026-07-04",
+    "原文链接": "https://www.aibase.com/zh/news/29372",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
   },
   {
-    "资讯标题": "微软成立Frontier Company部门，斥资25亿美元派驻6000名工程师",
-    "内容": "微软正式成立全新业务部门“Frontier Company”，投入25亿美元预算，旨在加速企业客户的AI转型。该部门计划将6000名资深技术工程师直接派驻至企业客户现场，通过深度嵌入式协作，共同完成系统架构设计、模型部署及业务场景优化，将AI技术指标转化为实际经营成果。微软商业业务首席执行官Judson Althoff表示，此举旨在超越常规的前向部署工程，提供以业务价值为核心的工程服务。微软正联动埃森哲、凯捷、安永、毕马威及普华永道等全球顶尖系统集成商快速铺开服务网络。此举标志着AI行业从模型研发转向落地实效阶段，微软通过构建“现场部署”护城河，试图在OpenAI与Anthropic等竞争对手的部署竞赛中掌握核心话语权，并为企业提供更深度的AI集成服务。",
-    "发布日期": "2026-07-03",
-    "原文链接": "https://www.aibase.com/zh/news/29355",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a55ba8af0cbaf9ccd059ee8169ea1c8b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a55ba8af0cbaf9ccd059ee8169ea1c8b.jpg",
-    "配图仓库路径": "assets/news_images/a55ba8af0cbaf9ccd059ee8169ea1c8b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201912082153069542_11.jpg"
+    "资讯标题": "英伟达开源Nemotron-Labs-TwoTower双塔模型，文本生成速度提升2.42倍",
+    "内容": "英伟达于7月2日正式开源Nemotron-Labs-TwoTower离散扩散语言模型，该模型通过60B双塔架构解决大模型串行生成Token速度慢的痛点。模型将60B参数拆分为两座30B独立神经网络，每塔激活3B参数并搭载128个可路由专家模块。其中，上下文塔负责留存语义，去噪塔利用扩散机制并行生成文本，两塔通过交叉注意力互通。测试显示，该模型在保持原版98.7%画质与综合能力的同时，文本生成吞吐速度提升2.42倍。开发者可通过Huggingface获取权重，商用部署需搭配双张H100或A100 80GB GPU协同运行。此架构在常识、阅读理解等任务中表现稳健，仅在代码与数学任务中出现小幅性能波动，为大模型推理效率优化提供了新的技术路径。",
+    "发布日期": "2026-07-04",
+    "原文链接": "https://www.aibase.com/zh/news/29371",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0165e5d54c3622a31a061347b63f7e7b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0165e5d54c3622a31a061347b63f7e7b.jpg",
+    "配图仓库路径": "assets/news_images/0165e5d54c3622a31a061347b63f7e7b.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0703/6391869007972380278471893.png"
   },
   {
-    "资讯标题": "不向供应链低头！Meta联手台积电美光让新服务器用上旧内存",
-    "内容": "Meta联手台积电美光让新服务器用上旧内存AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 3, 202620在人工智能热潮席捲全球的背景下，新一代DDR5 内存正面临极其严重的断货危机。为了不让AI数据中心的建设进度受阻，科技巨头Meta近日联合台积电与美光等行业巨头，成功研发出一种颠覆性的过渡技术。这项技术让原本只能支持DDR5 内存的尖端AI服务器，成功顺畅地运行起旧款的DDR4 内存。这套被戏称为“缝合怪”的系统在实际业务测试中展现出了令人惊叹的稳定性，成功为企业在供应链危机中开辟了一条全新的自救出路。跨越代际的物理鸿沟由于DDR5 与DDR4 在引脚设计、工作电压以及电源管理架构上存在本质区别，实现反向兼容面临着极高的物理和电气障碍。",
-    "发布日期": "2026-07-03",
-    "原文链接": "https://www.aibase.com/zh/news/29354",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0758c9481f9511e26c9b3d45a113797f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0758c9481f9511e26c9b3d45a113797f.jpg",
-    "配图仓库路径": "assets/news_images/0758c9481f9511e26c9b3d45a113797f.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0703/6391866683892213114645177.png"
+    "资讯标题": "微软曝光 AI PC 专属系统 Project Aion，彻底取消传统开始菜单",
+    "内容": "微软内部代号 Project Aion 的全新 AI 操作系统正式曝光，该系统专为 AI PC 打造，彻底摒弃了传统 Windows 的开始菜单与桌面图标。Project Aion 依托 Edge 浏览器与网页轻量化技术构建，交互逻辑以 AI 智能助手为核心，底部任务栏可直接唤起 Copilot 作为操作入口。系统独创“空间”功能，支持自动归类网页与应用，旨在优化多任务处理效率。在生态层面，Project Aion 不再支持 Windows 原生桌面软件，全面转向以 Web 应用为核心的运行环境。若用户需使用传统桌面软件，则需通过 Windows 365 远程桌面服务进行云端适配。该系统通过重构 PC 人机交互模式，标志着微软在 AI 时代操作系统研发方向的重大转型。",
+    "发布日期": "2026-07-04",
+    "原文链接": "https://www.aibase.com/zh/news/29370",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f04eb1fa995ceb472bf560be4f035384.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f04eb1fa995ceb472bf560be4f035384.jpg",
+    "配图仓库路径": "assets/news_images/f04eb1fa995ceb472bf560be4f035384.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202001202045237249_1.jpg"
   }
 ]
