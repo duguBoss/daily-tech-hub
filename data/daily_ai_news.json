@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "豆包与通义千问下线AI拟人化功能，响应人工智能拟人化管理新规",
-    "内容": "字节跳动旗下豆包与阿里巴巴旗下通义千问正式宣布下线AI拟人化代理功能，以响应7月15日正式生效的《人工智能拟人化互动服务管理暂行办法》。豆包将于7月15日起下线代理功能，相关数据将于10月15日后处理；通义千问则于7月10日停用拟人化交互代理，7月15日全面下线通义代理服务。此前，腾讯元宝已于6月移除类似功能。此次调整针对的是具备“持续情感交互”特征的AI代理，监管旨在防范极端思想传播、隐私泄露及用户成瘾风险。受此影响，用户创建的具名助手、角色扮演及情感陪伴类AI功能将无法继续使用，且历史对话记录面临无法导出或迁移的风险。行业分析认为，监管正将AI代理定位为生产力基础设施，并对拟人化陪伴型AI实施严格管控，国内头部平台正集体收缩此类业务以符合合规要求。",
-    "发布日期": "2026-07-06",
-    "原文链接": "https://www.aibase.com/zh/news/29382",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c123dc28f4867c3814514b816e11da22.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c123dc28f4867c3814514b816e11da22.jpg",
-    "配图仓库路径": "assets/news_images/c123dc28f4867c3814514b816e11da22.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202304261750583758_2.jpg"
+    "资讯标题": "谷歌定档7月17日发布Gemini 3.5 Pro，同步推出Nano Banana Pro狙击GPT-Image 2",
+    "内容": "谷歌正式宣布旗舰大模型Gemini 3.5 Pro将于7月17日发布，该模型放弃了基于Gemini 2.5 Pro的微调方案，转而采用全新底座进行预训练。此次升级重点提升了前端生成能力，包括更简洁的界面设计、更强的SVG图形生成及游戏开发支持。尽管在编码能力上预计难敌Anthropic的Fable5，但谷歌凭借其在世界知识广度上的传统优势，旨在通过新底座提升综合性能。此外，谷歌还将同步推出新一代Nano Banana Pro图像生成模型，直接对标OpenAI的GPT-Image 2，意图夺回图像生成领域的领先地位。此次发布恰逢国产大模型DeepSeek V4的预计发布窗口，两家旗舰模型将在7月中旬展开正面竞争。对于行业而言，谷歌此次拒绝“挤牙膏”式的迭代，通过底层架构重构寻求性能突破，将进一步加剧全球AI模型在",
+    "发布日期": "2026-07-07",
+    "原文链接": "https://www.aibase.com/zh/news/29399",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
+    "配图仓库路径": "assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202601161504560592_0.jpg"
   },
   {
-    "资讯标题": "科研AI智能体ElementsClaw发布，28小时内精准筛选锁定四种全新超导材料",
-    "内容": "科研团队推出专攻超导材料发现的AI智能体ElementsClaw，该系统在28个GPU小时内完成对240万种稳定晶体的扫描，并成功筛选出6.8万种潜在超导体。ElementsClaw采用“通专融合”架构，内置10亿参数几何深度图神经网络以解读三维晶体结构，并结合大语言模型辅助决策。在实验验证中，该系统已成功合成四种人类此前未发现的全新超导体，其推荐准确率较自然界约3%的命中率提升了一个数量级。该AI不仅能从被遗忘的数据库中筛选结构，还能纠正既往计算误差及基于结构模体进行主动设计。目前，研究团队已将240万种稳定晶体的预测数据库全量开源，旨在推动材料科学从“炒菜式”试错向AI主动设计转型，实现人机共生的科研新范式。",
-    "发布日期": "2026-07-06",
-    "原文链接": "https://www.aibase.com/zh/news/29389",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/76d118d197893a7958a83da02cb1194e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/76d118d197893a7958a83da02cb1194e.jpg",
-    "配图仓库路径": "assets/news_images/76d118d197893a7958a83da02cb1194e.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0706/6391892936960446426086931.png"
+    "资讯标题": "腾讯正式发布混元Hy3模型：采用MoE架构并全面提升Agent能力",
+    "内容": "腾讯正式发布混元Hy3模型，该模型采用MoE架构，总参数295B，激活参数21B，支持256K上下文长度。相比preview版本，Hy3在复杂推理、代码生成及智能体能力上实现质变，以较小尺寸比肩大参数旗舰模型。目前，Hy3已接入WorkBuddy、元宝、Marvis及ima等业务，API已上线腾讯云TokenHub。在办公场景测评中，WorkBuddy任务成功率从72%提升至90%，平均耗时缩短34%。针对幻觉问题，Hy3通过细粒度数据清洗，使常识错误率与幻觉率均下降超50%。该模型定价为输入1元/百万tokens，输出4元/百万tokens，并采用Apache 2.0协议开源，已同步上线Hugging Face、Modelscope及多个海外平台。Hy3的发布标志着腾讯在模型底层重构与产品反哺链路上的进一步成",
+    "发布日期": "2026-07-07",
+    "原文链接": "https://www.aibase.com/zh/news/29400",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d80cdc28dc9eed3e00c444df3d205a80.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d80cdc28dc9eed3e00c444df3d205a80.jpg",
+    "配图仓库路径": "assets/news_images/d80cdc28dc9eed3e00c444df3d205a80.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0706/6391894826784159345564846.png"
   },
   {
-    "资讯标题": "SK海力士拟赴纳斯达克上市筹资280亿美元，冲击全球史上第二大IPO",
-    "内容": "全球存储芯片巨头SK海力士计划于本周启动纳斯达克上市进程，拟通过发行存托凭证（ADR）筹资280亿美元，有望创下全球IPO史上第二高募资纪录。此次发行比例为每10份ADR对应1股普通股，公司将于本周敲定最终发行价，并定于周五正式挂牌交易。作为英伟达、谷歌等科技巨头HBM（高带宽内存）的核心供应商，SK海力士受益于AI算力需求激增，今年股价涨幅已超270%。此次募资旨在巩固其在AI基础设施领域的硬件垄断地位，并配合此前宣布的100万亿韩元扩产计划，进一步提升先进芯片产能。市场分析认为，此举标志着AI产业链进入大规模硬件资本注入新阶段，SK海力士将通过增强财务实力，持续为全球人工智能算力底座提供内存保障。",
-    "发布日期": "2026-07-06",
+    "资讯标题": "李飞飞团队最新研究：告别昂贵的“虚实转换”，一段视频即可生成无限机器人训练场",
+    "内容": "李飞飞团队最新研究：告别昂贵的“虚实转换”，一段视频即可生成无限机器人训练场AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 6, 202637在具身智能领域，“Sim2Real”（从仿真到现实）一直是绕不开的难题，不仅仿真环境搭建成本高昂，模型迁移到现实世界时也常出现性能折损。近日，由李飞飞团队联合英伟达GEAR实验室、佐治亚理工大学等多家机构共同发布的一项全新研究，为这一困境提供了新的破局思路:Real2Sim。这项被称为“SimFoundry”的系统，通过一段真实世界的视频，即可自动生成一个具备交互能力、可进行训练与评测的机器人仿真环境。与传统的3D场景重建不同，SimFoundry实现了对真实世界的深度解析与重构，通过自动化技术大幅降低了仿真环境的搭建门槛。",
+    "发布日期": "2026-07-07",
+    "原文链接": "https://www.aibase.com/zh/news/29390",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
+    "配图仓库路径": "assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556160776_8.jpg"
+  },
+  {
+    "资讯标题": "安全厂商Sysdig披露全球首例AI智能体自主执行勒索软件攻击事件",
+    "内容": "安全厂商Sysdig近日披露代号为“JADEPUFFER”的勒索软件攻击，这是全球首例由AI智能体（Agent）全流程自主完成的攻击案例。攻击者利用Langflow服务中已知的CVE-2025-3248漏洞获取主机控制权，随后智能体自主侦察并搜集API密钥、云平台凭证及数据库账号。在攻击过程中，该智能体展现出极强的策略调整能力，在尝试控制配置中心失败后，仅用31秒即完成错误分析与参数修正，整个链路执行了超600个逻辑载荷操作。最终，智能体加密了MySQL配置数据并留下勒索信息，但因未保存加密密钥，数据实际上无法恢复。此事件证明AI已具备自主串联漏洞利用、权限提升及横向移动的能力。专家建议企业应立即封堵公网接口，限制数据库高权限账号，并加强运行时行为监测，通过限制服务器对外通信来阻断此类自动化攻击链条。",
+    "发布日期": "2026-07-07",
+    "原文链接": "https://www.aibase.com/zh/news/29396",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c55ca704073403c53e62c517c208ffa3.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c55ca704073403c53e62c517c208ffa3.jpg",
+    "配图仓库路径": "assets/news_images/c55ca704073403c53e62c517c208ffa3.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0706/26070601481507776236.jpg"
+  },
+  {
+    "资讯标题": "SK海力士拟赴纳斯达克发行ADR筹资280亿美元，冲击全球史上第二大IPO",
+    "内容": "全球存储芯片巨头SK海力士计划于本周启动在美国纳斯达克的上市进程，拟通过发行存托凭证（ADR）筹资280亿美元，有望创下全球IPO史上第二高的募资纪录。此次发行比例为每10份ADR对应1股普通股，公司将于本周敲定最终发行价，并定于周五正式挂牌交易。作为英伟达、谷歌等科技巨头HBM（高带宽内存）的核心供应商，SK海力士今年股价涨幅已超270%。此次募资旨在巩固其在AI基础设施领域的硬件垄断地位，并配合公司此前宣布的100万亿韩元扩产计划，进一步提升先进芯片产能。市场分析认为，此举标志着AI产业链进入大规模硬件资本注入的新阶段，SK海力士将通过增强财务实力，持续为全球AI算力底座提供内存保障。",
+    "发布日期": "2026-07-07",
     "原文链接": "https://www.aibase.com/zh/news/29392",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
     "配图仓库路径": "assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901101704279841_1.jpg"
-  },
-  {
-    "资讯标题": "Google 旗舰大模型 Gemini 3.5 Pro 锁定 7 月 17 日正式发布",
-    "内容": "Google 旗舰大模型 Gemini 3.5 Pro 确定于 7 月 17 日正式发布，该模型将与 DeepSeek V4 同期展开竞争。此前 Gemini 3.5 Pro 原定于 6 月发布，后因 Google 决定跳过旧版本微调、转而进行全新预训练而延期。测试显示，该模型核心提升在于前端生成能力，在 UI 设计、精简代码编写及 SVG 矢量图构建方面表现显著，且在游戏开发逻辑交互处理上更具效率。除模型本体外，Google 还将基于 Gemini 3.5 Pro 底座同步推出 Nano Banana Pro 生图模型，旨在对标 GPT-Image2，以期在图像生成领域重夺市场话语权。尽管其参数规模可能未达万亿级，但凭借 Google 在知识库广度上的优势，该模型在多模态交互与实战表现上仍被行业高度关注。",
-    "发布日期": "2026-07-06",
-    "原文链接": "https://www.aibase.com/zh/news/29384",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
-  },
-  {
-    "资讯标题": "Anthropic 拟投资 150 亿美元在澳大利亚建设 1.4GW 数据中心",
-    "内容": "人工智能大模型厂商 Anthropic 计划在澳大利亚投入 150 亿美元（约 216 亿澳元），采购规模至少 1.4GW 的数据中心算力。该项目已明确时间表，目标是在 2027 年底前完成至少 1GW 算力资源的启用。为推进基础设施布局，Anthropic 已在当地设立专门办公室，旨在打通算力建设的供应链与落地渠道。目前，该项目尚未公布具体选址及合作伙伴。此举反映出头部 AI 企业对能源与算力基础设施的掌控需求日益迫切，旨在通过强化全球算力矩阵，确保在大模型性能竞争中获得长期稳定的高性能算力供应。随着该计划落地，澳大利亚有望成为全球 AI 算力地图的重要增长极，同时也预示着 AI 行业对电力及数据中心集群的刚性需求正推动科技巨头加速全球布局。",
-    "发布日期": "2026-07-06",
-    "原文链接": "https://www.aibase.com/zh/news/29383",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
   }
 ]
