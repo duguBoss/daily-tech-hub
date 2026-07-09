@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "英伟达发布专为AI代理设计的Vera CPU，性能提升1.5倍并获OpenAI等采用",
-    "内容": "英伟达正式推出专为AI代理（AI Agent）架构从零设计的全新CPU芯片Vera，旨在解决传统CPU在处理高频、不间断AI代理任务时的性能瓶颈。英伟达官方指出，传统CPU架构源于人机交互需求，在应对AI代理持续循环运算时存在执行速度慢、KV缓存丢失及算力成本高等问题。Vera CPU核心速度提升1.8倍，在实际编码任务测试中，执行效率较传统CPU提升约1.5倍，且能在相同时间窗口内完成高达85%的评估任务，有效缩短强化学习训练周期并降低延迟。目前，Perplexity已计划采用该芯片，OpenAI、Anthropic及Oracle等头部AI实验室与企业也确认了采购意向。Vera的发布标志着英伟达正从单一GPU供应商向全栈算力架构转型，通过针对AI代理工作流的底层硬件优化，试图重塑算力市场竞争格局。",
+    "资讯标题": "谷歌相册推出AI视频混音功能，搭载Gemini Omni实现电影级剪辑",
+    "内容": "谷歌于7月8日正式在Google Photos中上线生成式AI视频编辑工具“视频混音”（Video Remix），该功能由Gemini Omni处理器提供核心算力支持，具备强大的多模态处理能力。用户可在“创建”标签页调用该工具，实现电影级重新照明、背景智能替换，以及将视频转化为水彩、素描、油画等多种艺术风格，旨在让普通用户在数秒内完成专业级视频剪辑。该功能已于发布当日向美国、印度、日本、韩国及巴西等十余个国家的Google AI Plus、Pro和Ultra订阅用户滚动推出。此次更新是谷歌深化消费级生成式AI布局的关键举措，通过将底层大模型能力转化为高频、低门槛的日常应用，进一步强化其生态黏性。随着AI智能修图及数字衣橱等功能相继落地，谷歌正加速推动AI对传统内容生产范式的重塑，持续在消费级AI领域与苹果、Op",
     "发布日期": "2026-07-09",
-    "原文链接": "https://www.aibase.com/zh/news/29460",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2842940a916071785fed87a4a0d02918.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2842940a916071785fed87a4a0d02918.jpg",
-    "配图仓库路径": "assets/news_images/2842940a916071785fed87a4a0d02918.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606031122196331_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29476",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/07ab8b355bffad99285d898ac2cfbc86.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/07ab8b355bffad99285d898ac2cfbc86.jpg",
+    "配图仓库路径": "assets/news_images/07ab8b355bffad99285d898ac2cfbc86.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391918444408440324566622.png"
   },
   {
-    "资讯标题": "美国商务部正式批准OpenAI大规模发布GPT-5.6模型",
-    "内容": "美国商务部已正式批准OpenAI大规模发布其先进AI模型GPT-5.6，预计本周内完成准备工作后向公众全面推出。此前，该模型受国家安全考量限制，仅获准向有限实体开放。此次放行前，OpenAI技术团队在华盛顿配合商务部下属AI标准与创新中心完成了密集测试，证明了模型安全性。此次解禁标志着政府对前沿AI模型的监管正从临时性管控转向制度化评估，双方关系由“对抗式监管”向“协作式评估”过渡。随着美国即将出台新的AI行政令，未来先进模型的发布将拥有更清晰的评估框架。对于OpenAI而言，此次商业解绑使其在与Anthropic等竞争对手的博弈中占据先机，GPT-5.6的全面推广将对AI行业格局产生深远影响。",
+    "资讯标题": "蚂蚁灵波开源全球首个面向具身智能的MoE架构视频基模LingBot-Video",
+    "内容": "7月9日，蚂蚁灵波正式开源全球首个面向具身智能的视频生成基础模型LingBot-Video。该模型采用DiT+MoE架构，30B总参数下仅激活约3B参数，推理效率较同规模Dense架构提升约3倍。在机器人操作视频评测基准RBench上，LingBot-Video以0.620的总分超越Wan2.6、Seedance1.5Pro等模型，展现出更强的物理合理性与动作一致性。针对具身智能需求，该模型引入了包含VLA、VLN及Ego等场景的7万小时机器人相关数据，并结合多维强化学习奖励系统，重点优化了物理规律建模与任务执行完整度。LingBot-Video旨在为机器人动作预测、仿真数据生成及世界模型研究提供开源底座，解决了传统视频生成模型难以支撑机器人实时交互与物理预测的痛点，为具身智能领域提供了高效的视觉理解与生成方案",
     "发布日期": "2026-07-09",
-    "原文链接": "https://www.aibase.com/zh/news/29457",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8d94ae718c271947526bf3fae3a9e6c2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8d94ae718c271947526bf3fae3a9e6c2.jpg",
-    "配图仓库路径": "assets/news_images/8d94ae718c271947526bf3fae3a9e6c2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302112107341554_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29489",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2ec76900d85a9f30d60cb2841d9f771c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2ec76900d85a9f30d60cb2841d9f771c.jpg",
+    "配图仓库路径": "assets/news_images/2ec76900d85a9f30d60cb2841d9f771c.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391919221763872223135142.png"
   },
   {
-    "资讯标题": "支付宝“碰一下”完成AI升级，将3000万线下触点接入AI经营网络",
-    "内容": "7月8日，支付宝宣布“碰一下”完成AI升级，将3000万线下触点升级为AI经营网络。此次升级核心包括：百万级商家设备升级为“碰设备Agent”，推出面向中小商家的“碰万物Agent”服务平台，以及面向开发者的“AI开放底座”。经过两年发展，“碰一下”已拥有4亿用户及2300余家生态服务商。通过“碰设备Agent”晓雨，商家可实现支付、会员、营销及流量分发等全链路智能经营，并支持多端联动。针对中小商家，支付宝推出的“碰万物Agent”整合了AI创意设计、智能制造及运营管家三大能力，降低了AI入场门槛。此外，支付宝还打通了“碰一下”与“AI支付”链路，并发布AI营销套件，助力商家在文创、出行、零售等多元场景中实现物理世界与AI Agent的深度交互，推动线下商业向AI经营时代转型。",
+    "资讯标题": "SpaceXAI发布Grok 4.5大模型，对标Opus性能且价格仅为十分之一",
+    "内容": "SpaceXAI正式发布最新大模型Grok 4.5，定位为通用场景主力模型，具备代码开发、办公处理及研究写作能力。马斯克称其性能达到Opus级，且运行速度更快、Token效率提升一倍。在定价策略上，Grok 4.5每百万输入Token收费2美元，输出收费6美元，远低于Anthropic Opus 4.7及OpenAI Sol版本，极具市场竞争力。该模型将于发布次日向公众全面开放。此次发布正值AI行业密集上新期，随着OpenAI即将推出GPT-5.6，SpaceXAI通过高性价比策略正面切入头部模型竞争，标志着AI大模型市场进入白热化阶段。Grok 4.5的低成本与高效率优势，将直接影响企业用户在模型选型时的成本考量，成为SpaceXAI争夺市场份额的关键筹码。",
     "发布日期": "2026-07-09",
-    "原文链接": "https://www.aibase.com/zh/news/29464",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/53cad2c9928ce7f63cf48393952bb216.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/53cad2c9928ce7f63cf48393952bb216.jpg",
-    "配图仓库路径": "assets/news_images/53cad2c9928ce7f63cf48393952bb216.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0708/6391911886094065361127520.png"
+    "原文链接": "https://www.aibase.com/zh/news/29478",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0b25c97062019acda18a7bf3a45673dd.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0b25c97062019acda18a7bf3a45673dd.jpg",
+    "配图仓库路径": "assets/news_images/0b25c97062019acda18a7bf3a45673dd.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391918542267439907614346.png"
   },
   {
-    "资讯标题": "Meta发布首个图像生成模型Muse Image，集成至Instagram与WhatsApp",
-    "内容": "Meta超级智能实验室正式推出首个图像生成模型Muse Image，现已通过Meta AI应用免费提供，并同步接入Instagram和WhatsApp。该模型支持对话式文生图，具备擦除背景路人、清晰渲染文字、生成二维码及室内设计重构等功能。Muse Image通过Muse Spark技术实现多步骤幕后规划，支持用户通过圈画、草绘进行局部编辑，并能结合对话语境持续调整。此外，该模型为Instagram Stories提供超30种AI特效，并计划拓展至Facebook及Messenger。目前WhatsApp端图像生成功能已在部分地区上线，基础创作免费，超出额度需订阅付费方案。Meta同时确认，视频生成模型Muse Video正处于开发阶段，未来将通过Advantage+ creative向广告主开放调用接口。",
+    "资讯标题": "OpenAI发布GPT-Live全双工语音模型，ChatGPT实现实时交互升级",
+    "内容": "OpenAI正式发布基于GPT-Live架构的全新ChatGPT语音体验，通过全双工技术实现“同时说话、倾听和思考”的实时交互。该架构摒弃了传统“你说完我再答”的排队模式，模型可在用户停顿时自然插入语气反馈，并支持随时插话与逻辑即时调整。核心技术基于GPT-Realtime-2模型，后台默认调用GPT-5.5处理联网搜索、深度推理及复杂任务规划。此次更新同步推出GPT-Live-1与GPT-Live-1 mini两个版本，覆盖ChatGPT Go、Plus、Pro及免费用户。开发者与企业客户可通过API接入，构建新一代语音代理应用。此次升级标志着ChatGPT语音模式从简单的问答工具，正式转型为能在语音环境下执行复杂任务、维持长时互动的智能对话伙伴，显著提升了人机交互的自然度与逻辑处理上限。",
     "发布日期": "2026-07-09",
-    "原文链接": "https://www.aibase.com/zh/news/29467",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/92c4a1e8c93e33495e0cd5ffea23932f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/92c4a1e8c93e33495e0cd5ffea23932f.jpg",
-    "配图仓库路径": "assets/news_images/92c4a1e8c93e33495e0cd5ffea23932f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202208050849352736_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29486",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/eb645adaecc09c1da862e95e03a1fdc2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/eb645adaecc09c1da862e95e03a1fdc2.jpg",
+    "配图仓库路径": "assets/news_images/eb645adaecc09c1da862e95e03a1fdc2.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391918953313799792658449.png"
   },
   {
-    "资讯标题": "Claude Code被曝内置安全后门，Anthropic已移除相关检测功能",
-    "内容": "工信部网络安全威胁和漏洞信息共享平台（NVDB）发布风险提示，指出Claude Code 2.1.91至2.1.196版本内置未经公开的“安全后门”，存在泄露地理位置及身份标识等敏感数据的风险。该机制自4月2日引入，旨在识别中国用户以防范账户转售及模型蒸馏攻击。Anthropic成员Thariq Shihipar回应称此为“实验性”措施，并已于7月2日发布新版本移除该功能。受此影响，阿里巴巴已下发禁令，自7月10日起全面禁止员工在办公环境使用Claude Code，并将其列入高风险软件名单。NVDB建议开发者立即核查版本号，若处于受影响区间应尽快更新或卸载，同时强化开发环境的外联权限管控与流量监测，以防数据违规外传。",
+    "资讯标题": "Anthropic于6月1日秘密提交IPO申请，拟成为AI实验室领域最大上市公司",
+    "内容": "人工智能初创公司Anthropic已于2026年6月1日秘密提交IPO申请，若流程顺利，将成为AI实验室领域规模最大的上市企业。财务数据显示，Anthropic预计在今年第三季度实现超10亿美元利润，其与OpenAI的年度经常性收入（ARR）合计已逼近1000亿美元。Anthropic凭借Claude Code在软件开发领域的强劲表现，在B2B市场实现显著盈利变现，其不依赖外部生态的独立商业模式展现了极佳的利润率与定价话语权。在OpenAI推迟IPO至2027年的背景下，Anthropic率先启动上市进程，标志着AI行业竞争重心从“烧钱”转向“盈利能力”。此次IPO不仅将确立其行业盈利新标杆地位，还可能迫使竞争对手公开财务状况，并加紧筹集资金以应对昂贵的基础设施建设挑战。分析预测，若发展势头持续，Anthrop",
     "发布日期": "2026-07-09",
-    "原文链接": "https://www.aibase.com/zh/news/29469",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
-    "配图仓库路径": "assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504021143517728_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29482",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
   }
 ]
