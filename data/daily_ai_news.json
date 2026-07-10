@@ -1,52 +1,42 @@
 [
   {
-    "资讯标题": "蚂蚁灵波开源全球首个面向具身智能的MoE架构视频基模LingBot-Video",
-    "内容": "7月9日，蚂蚁灵波正式开源全球首个面向具身智能的视频生成基础模型LingBot-Video。该模型采用DiT+MoE架构，在30B总参数规模下仅激活约3B参数，推理效率较同规模Dense架构提升约3倍。在数据层面，模型引入7万小时包含VLA、VLN及Ego等机器人相关数据，并配合多维强化学习奖励系统，重点优化物理合理性与任务完成度。在北京大学与字节跳动联合发布的RBench基准测试中，LingBot-Video以0.620的总分超越Wan2.6、Seedance1.5Pro等模型，在机器人操作视频生成领域表现出更强的动作一致性与物理规律理解能力。该模型旨在解决视频生成模型在具身智能领域难以支撑连续预测与实时交互的痛点，可应用于机器人动作预测、仿真数据生成及世界模型研究等场景，为具身智能领域提供了全新的开源技术底",
+    "资讯标题": "谷歌升级Android Bench代码排行榜并开源Harbor框架，Claude 5位居榜首",
+    "内容": "谷歌于7月9日宣布升级Android Bench代码开发者排行榜，全面引入Harbor沙箱框架，并将该基准测试在GitHub开源。此次升级旨在通过安全隔离环境简化评估流程，支持社区提交自定义任务。在最新测定排名中，Anthropic旗下Claude Fable 5以84.5%的准确率位列榜首，OpenAI的GPT-5.5以80.2%位居次席，谷歌Gemini 3.1 Pro仅排第五。性能数据揭示，尽管Gemini 3.1 Pro单次迭代成本约为87美元，低于顶级模型的130美元，但Gemini 3.5 Flash在处理百题数据集时表现欠佳，单次运行耗时达28小时且成本高达165美元。此次评测结果显示谷歌在移动开发基准测试中面临技术挑战，而Android Bench正凭借Harbor框架的开放性与客观透明的机制，",
     "发布日期": "2026-07-10",
-    "原文链接": "https://www.aibase.com/zh/news/29489",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2ec76900d85a9f30d60cb2841d9f771c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2ec76900d85a9f30d60cb2841d9f771c.jpg",
-    "配图仓库路径": "assets/news_images/2ec76900d85a9f30d60cb2841d9f771c.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391919221763872223135142.png"
+    "原文链接": "https://www.aibase.com/zh/news/29509",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3fc09486f16128f01f5d36f1b4e2636b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3fc09486f16128f01f5d36f1b4e2636b.jpg",
+    "配图仓库路径": "assets/news_images/3fc09486f16128f01f5d36f1b4e2636b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405150911312535_1.jpg"
   },
   {
-    "资讯标题": "亚马逊开发代号Moonraker的AI智能体，赋能Alexa执行多步复杂任务",
-    "内容": "亚马逊正在秘密推进代号为“Moonraker”的AI智能体项目，旨在赋予Alexa串联执行复杂任务的能力。作为Alexa Plus的延伸，该系统能深度理解复合指令，自动按逻辑顺序完成多步工作流，例如同时处理网约车呼叫与短信通知。目前，亚马逊正利用Anthropic模型进行测试，并投入数百个NVIDIA GPU支持推理与视觉功能。该项目2026年仅GPU硬件成本即超1亿美元，系Alexa Plus升级计划中投入最高项目。受大模型算力成本及幻觉、行为异常等技术瓶颈影响，亚马逊内部对该项目的巨额开支存在分歧，甚至讨论过推迟或缩减规模。尽管面临挑战，亚马逊CEO安迪·杰西表示，Alexa Plus用户使用频率已翻倍，下单次数增长三倍。Moonraker的推进标志着Alexa正从传统语音助手向数字化个人助理转型，是亚马逊",
+    "资讯标题": "苹果正评估PrismML原生1-bit模型压缩技术，拟提升iPhone端侧AI推理性能",
+    "内容": "苹果公司正接洽AI初创公司PrismML，评估其原生1-bit模型压缩技术在iPhone端侧运行大规模AI模型的可行性。PrismML的核心技术通过将模型权重压缩至仅含负1和正1的1-bit表示，在不保留高精度逃生通道的前提下，将模型体积缩减至全精度版本的约十四分之一，内存占用降低超90%。实测显示，该技术使推理速度最高提升8倍，能耗降低75%至80%。目前，PrismML已成功将阿里巴巴开源的27B参数Qwen 3.6模型在iPhone 17 Pro上完整运行，且保持了接近FP16的推理精度。若该技术落地，iPhone有望在不增加硬件成本的前提下，实现更复杂的多轮对话、图像理解及智能体任务编排，显著增强Apple Intelligence的端侧算力上限，改变端侧与云端AI的性能平衡。",
     "发布日期": "2026-07-10",
-    "原文链接": "https://www.aibase.com/zh/news/29499",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8b33fb1c14a8b7628aaad068310e9df6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8b33fb1c14a8b7628aaad068310e9df6.jpg",
-    "配图仓库路径": "assets/news_images/8b33fb1c14a8b7628aaad068310e9df6.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391920874456984083043004.png"
+    "原文链接": "https://www.aibase.com/zh/news/29510",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/21b4950880151a7a617ad647002b3a2b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/21b4950880151a7a617ad647002b3a2b.jpg",
+    "配图仓库路径": "assets/news_images/21b4950880151a7a617ad647002b3a2b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202208250900441669_0.jpg"
   },
   {
-    "资讯标题": "OpenAI公开挑战SWE-Bench Pro基准，指出近三成测试任务存在缺陷",
-    "内容": "OpenAI发布博文正式挑战由Scale AI推出的行业权威评测基准SWE-Bench Pro，明确撤回此前对该基准的采用建议。OpenAI分析指出，在731个公开测试任务中，约30%存在测试过严、提示不充分、范围过窄及误导性等系统性缺陷。数据显示，前沿模型在该基准上的通过率在8个月内从23.3%异常飙升至80.3%，OpenAI认为这并非模型能力飞跃，而是评测体系失灵所致。通过数据点分析与人工标注交叉验证，OpenAI发现约27.4%至34.1%的任务存在失效问题，例如隐藏测试要求与明文说明不一致，导致模型真实能力被错误评估。OpenAI呼吁行业应由资深软件开发者重新设计AI评测基准，而非沿用面向人类的测试逻辑，以确保AI软件工程评估的公信力。",
+    "资讯标题": "OpenAI发布GPT-5.6大模型并深度绑定微软Microsoft 365 Copilot",
+    "内容": "7月9日，OpenAI正式发布全新GPT-5.6大模型，并明确该模型将作为Microsoft 365 Copilot的“首选模型”，全面支持Word、Excel、PowerPoint及Cowork等生产力应用。此次深度集成不仅实现了双方产品线的功能升级，更以实际行动回应了近期关于微软拟引入自研“MAI”模型以替代OpenAI、双方关系破裂的市场传闻。OpenAI官方强调，双方将持续深化战略协同，共同推动先进AI技术的普及。在xAI发布Grok 4.5、Meta推出Muse Spark 1.1等竞品加剧行业博弈的背景下，OpenAI与微软通过技术与场景的深度绑定，进一步巩固了生态壁垒。尽管双方合作的具体边界尚未完全披露，但此次发布明确了生态协同仍是当前生成式AI巨头构筑竞争优势的核心策略，对全球AI产业格局演变具",
     "发布日期": "2026-07-10",
-    "原文链接": "https://www.aibase.com/zh/news/29502",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
-    "配图仓库路径": "assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502061723419905_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29513",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
+    "配图仓库路径": "assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202602270950033335_0.jpg"
   },
   {
-    "资讯标题": "Mistral发布8B机器人导航模型Robostral Navigate，实现单目自主导航",
-    "内容": "Mistral正式发布首款面向具身智能的8B参数机器人导航模型Robostral Navigate。该模型仅需单个普通RGB摄像头即可在复杂环境中实现自主导航，无需依赖激光雷达或深度传感器，大幅降低了机器人硬件部署成本。在R2R-CE基准测试中，Robostral Navigate在全新场景下的导航成功率达76.6%，性能不仅超越了既有的单摄像头方案，甚至比配备深度传感器或多摄像头的系统高出4.5分。该模型通过纯仿真训练策略完成，利用6000个虚拟空间中的40万条路径进行学习，验证了虚拟训练向真实场景迁移的有效性。在兼容性方面，Robostral Navigate支持轮式、腿式及飞行机器人，覆盖仓储物流、四足机器人及无人机等多种主流形态。Mistral此次将技术版图从LLM拓展至具身智能领域，通过轻量化模型重新",
+    "资讯标题": "Meta携手博通与台积电，自研AI数据中心处理器Iris将于9月正式量产",
+    "内容": "Meta正与博通及台积电合作，计划于2026年9月正式量产代号为“Iris”的自研AI数据中心处理器。该芯片隶属于Meta定制化自主基础设施（MTIA）项目，已通过六周的初始漏洞测试。Iris的核心职能是优化Facebook与Instagram的内容排序、推荐系统及生成式算法，旨在降低数据中心成本并减少对第三方GPU的依赖。为保障供应链安全，Meta已与三星、闪迪及住友电气签署长期供应合同。Meta计划在2026年底前部署约7吉瓦计算容量，并于2027年翻倍至14吉瓦，为此2026年基础设施资本支出将达145亿美元。尽管Iris目前定位为NVIDIA和AMD GPU的补充，但Meta采取每六个月迭代一次的激进节奏，旨在通过自研硬件提升部署自主权，构建不依赖外部软硬件钳制的独立AI生态。",
     "发布日期": "2026-07-10",
-    "原文链接": "https://www.aibase.com/zh/news/29498",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0d285d98acdcbbd07234b88b4f8f9f34.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0d285d98acdcbbd07234b88b4f8f9f34.jpg",
-    "配图仓库路径": "assets/news_images/0d285d98acdcbbd07234b88b4f8f9f34.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391920743899259606170277.png"
-  },
-  {
-    "资讯标题": "Meta研发全天候多模态AI眼镜，支持超级感知与无感音视频捕捉",
-    "内容": "Meta正在研发一款具备全天候多模态感知能力的智能眼镜原型机，该设备引入“超级感知”模式，能够以每隔几秒的频率连续录制音频并拍摄照片，支持用户通过Meta AI对捕捉内容进行即时交互。为处理隐私问题，Meta拟采用元数据处理机制，即不存储原始音视频，仅上传元数据至服务器供AI查询。针对此前用户遮挡录制指示灯的黑产行为，Meta宣布将推出系统更新，若检测到LED灯被篡改将直接禁用摄像头。然而，白皮书显示Meta计划在AI扫描等非主动保存场景下保持LED灯熄灭，仅在用户明确保存时亮灯。这一激进的硬件策略标志着端侧AI正从被动响应转向主动感知，但也因全天候无感监测特性引发了行业对隐私边界与AI泛在化服务平衡的广泛争议。",
-    "发布日期": "2026-07-10",
-    "原文链接": "https://www.aibase.com/zh/news/29496",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3572cea3c5e1646438d06c04b4243deb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3572cea3c5e1646438d06c04b4243deb.jpg",
-    "配图仓库路径": "assets/news_images/3572cea3c5e1646438d06c04b4243deb.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391920342220641666070269.png"
+    "原文链接": "https://www.aibase.com/zh/news/29511",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a888e54478a5ec44d449e7d667c3695a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a888e54478a5ec44d449e7d667c3695a.jpg",
+    "配图仓库路径": "assets/news_images/a888e54478a5ec44d449e7d667c3695a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0710/6391927265553002246816390.png"
   }
 ]
