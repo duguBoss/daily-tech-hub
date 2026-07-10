@@ -1,8 +1,8 @@
 [
   {
     "资讯标题": "蚂蚁灵波开源全球首个面向具身智能的MoE架构视频基模LingBot-Video",
-    "内容": "7月9日，蚂蚁灵波正式开源全球首个面向具身智能的视频基模LingBot-Video。该模型采用DiT+MoE架构，通过30B总参数与3B激活参数的配置，在保持视觉表达能力的同时，推理效率较同规模Dense架构提升约3倍。针对具身智能需求，模型引入7万小时包含VLA、VLN及Ego视角的机器人数据，并结合多维强化学习奖励系统，重点优化物理合理性与任务完成度。在RBench基准测试中，LingBot-Video以0.620的总分超越Wan2.6、Seedance1.5Pro等模型，表现出更强的动作一致性与物理规律建模能力。该模型旨在解决视频生成模型在机器人连续预测、规划及实时交互中的局限，可广泛应用于机器人动作预测、仿真数据生成及世界模型研究等领域，为具身智能领域提供了全新的开源技术底座。",
-    "发布日期": "2026-07-09",
+    "内容": "7月9日，蚂蚁灵波正式开源全球首个面向具身智能的视频生成基础模型LingBot-Video。该模型采用DiT+MoE架构，在30B总参数规模下仅激活约3B参数，推理效率较同规模Dense架构提升约3倍。在数据层面，模型引入7万小时包含VLA、VLN及Ego等机器人相关数据，并配合多维强化学习奖励系统，重点优化物理合理性与任务完成度。在北京大学与字节跳动联合发布的RBench基准测试中，LingBot-Video以0.620的总分超越Wan2.6、Seedance1.5Pro等模型，在机器人操作视频生成领域表现出更强的动作一致性与物理规律理解能力。该模型旨在解决视频生成模型在具身智能领域难以支撑连续预测与实时交互的痛点，可应用于机器人动作预测、仿真数据生成及世界模型研究等场景，为具身智能领域提供了全新的开源技术底",
+    "发布日期": "2026-07-10",
     "原文链接": "https://www.aibase.com/zh/news/29489",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2ec76900d85a9f30d60cb2841d9f771c.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2ec76900d85a9f30d60cb2841d9f771c.jpg",
@@ -10,33 +10,43 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0709/6391919221763872223135142.png"
   },
   {
-    "资讯标题": "SpaceXAI发布Grok 4.5大模型，对标Opus性能并大幅降低推理成本",
-    "内容": "SpaceXAI正式发布最新大模型Grok 4.5，该模型定位为通用主力干将，具备代码编写、办公处理及研究写作等核心能力。马斯克称其性能达到Opus级，且运行速度更快。技术层面，Grok 4.5实现Token效率翻倍，显著降低了推理成本。定价策略极具竞争力，每百万输入Token收费2美元，输出Token收费6美元，远低于OpenAI及Anthropic同类高端模型。该模型将于次日向公众全面开放。在OpenAI即将推出GPT-5.6的背景下，SpaceXAI通过“高性能+高效率+低成本”的组合拳，进一步加剧了头部大模型市场的竞争格局，标志着AI行业进入白热化的“三国杀”阶段。",
-    "发布日期": "2026-07-09",
-    "原文链接": "https://www.aibase.com/zh/news/29478",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0b25c97062019acda18a7bf3a45673dd.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0b25c97062019acda18a7bf3a45673dd.jpg",
-    "配图仓库路径": "assets/news_images/0b25c97062019acda18a7bf3a45673dd.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391918542267439907614346.png"
+    "资讯标题": "亚马逊开发代号Moonraker的AI智能体，赋能Alexa执行多步复杂任务",
+    "内容": "亚马逊正在秘密推进代号为“Moonraker”的AI智能体项目，旨在赋予Alexa串联执行复杂任务的能力。作为Alexa Plus的延伸，该系统能深度理解复合指令，自动按逻辑顺序完成多步工作流，例如同时处理网约车呼叫与短信通知。目前，亚马逊正利用Anthropic模型进行测试，并投入数百个NVIDIA GPU支持推理与视觉功能。该项目2026年仅GPU硬件成本即超1亿美元，系Alexa Plus升级计划中投入最高项目。受大模型算力成本及幻觉、行为异常等技术瓶颈影响，亚马逊内部对该项目的巨额开支存在分歧，甚至讨论过推迟或缩减规模。尽管面临挑战，亚马逊CEO安迪·杰西表示，Alexa Plus用户使用频率已翻倍，下单次数增长三倍。Moonraker的推进标志着Alexa正从传统语音助手向数字化个人助理转型，是亚马逊",
+    "发布日期": "2026-07-10",
+    "原文链接": "https://www.aibase.com/zh/news/29499",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8b33fb1c14a8b7628aaad068310e9df6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8b33fb1c14a8b7628aaad068310e9df6.jpg",
+    "配图仓库路径": "assets/news_images/8b33fb1c14a8b7628aaad068310e9df6.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391920874456984083043004.png"
   },
   {
-    "资讯标题": "OpenAI发布GPT-Live全双工语音模型，ChatGPT实现实时交互与多任务处理",
-    "内容": "OpenAI正式发布基于GPT-Live架构的全新ChatGPT语音体验，通过全双工技术实现“同时说话、倾听和思考”的实时交互。该架构摒弃了传统“你说完我再答”的排队模式，模型可在用户停顿时自然插入“嗯哼”等语气反馈，并支持随时插话与逻辑即时调整。技术层面，GPT-Live深度集成GPT-Realtime-2模型，后台默认调用GPT-5.5处理联网搜索、深度推理及复杂任务规划，显著提升了语音场景下的长对话上下文追踪能力。此次发布包含GPT-Live-1与GPT-Live-1 mini两个版本：付费用户享有功能更全面的GPT-Live-1，免费用户则由mini版本驱动。同时，OpenAI已通过API向开发者和企业客户开放接入，支持构建新一代语音代理与垂类应用。此次升级标志着ChatGPT语音模式从简单的问答工具，",
-    "发布日期": "2026-07-09",
-    "原文链接": "https://www.aibase.com/zh/news/29486",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/eb645adaecc09c1da862e95e03a1fdc2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/eb645adaecc09c1da862e95e03a1fdc2.jpg",
-    "配图仓库路径": "assets/news_images/eb645adaecc09c1da862e95e03a1fdc2.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391918953313799792658449.png"
+    "资讯标题": "OpenAI公开挑战SWE-Bench Pro基准，指出近三成测试任务存在缺陷",
+    "内容": "OpenAI发布博文正式挑战由Scale AI推出的行业权威评测基准SWE-Bench Pro，明确撤回此前对该基准的采用建议。OpenAI分析指出，在731个公开测试任务中，约30%存在测试过严、提示不充分、范围过窄及误导性等系统性缺陷。数据显示，前沿模型在该基准上的通过率在8个月内从23.3%异常飙升至80.3%，OpenAI认为这并非模型能力飞跃，而是评测体系失灵所致。通过数据点分析与人工标注交叉验证，OpenAI发现约27.4%至34.1%的任务存在失效问题，例如隐藏测试要求与明文说明不一致，导致模型真实能力被错误评估。OpenAI呼吁行业应由资深软件开发者重新设计AI评测基准，而非沿用面向人类的测试逻辑，以确保AI软件工程评估的公信力。",
+    "发布日期": "2026-07-10",
+    "原文链接": "https://www.aibase.com/zh/news/29502",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
+    "配图仓库路径": "assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202502061723419905_1.jpg"
   },
   {
-    "资讯标题": "Cloudflare与OpenAI启动研究试点项目，利用网络洞察信号优化AI搜索",
-    "内容": "7月8日，Cloudflare与OpenAI正式启动深度研究试点项目，旨在通过Cloudflare的全球网络数据提升AI搜索引擎的实时性与准确性。Cloudflare将向OpenAI开放其独有的网络洞察信号，包括网页内容更新频率、流量趋势及页面变动轨迹。这些实时数据将作为AI系统的“网络风向标”，使模型不再仅依赖传统爬虫抓取，而是能更敏锐地捕捉互联网上的活跃信息流。此次合作通过底层网络设施与大模型应用端的深度协同，旨在解决AI领域常见的“知识滞后”与“检索偏差”痛点。该试点项目将直接优化AI在处理复杂问题时的响应效率与数据实效性，为用户提供更精准的实时资讯检索体验，标志着AI搜索领域正向更精细化的数据反馈机制演进。",
-    "发布日期": "2026-07-09",
-    "原文链接": "https://www.aibase.com/zh/news/29484",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dfaa2fb61ef5b708e070130e6d9bac5a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dfaa2fb61ef5b708e070130e6d9bac5a.jpg",
-    "配图仓库路径": "assets/news_images/dfaa2fb61ef5b708e070130e6d9bac5a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305220932150427_1.jpg"
+    "资讯标题": "Mistral发布8B机器人导航模型Robostral Navigate，实现单目自主导航",
+    "内容": "Mistral正式发布首款面向具身智能的8B参数机器人导航模型Robostral Navigate。该模型仅需单个普通RGB摄像头即可在复杂环境中实现自主导航，无需依赖激光雷达或深度传感器，大幅降低了机器人硬件部署成本。在R2R-CE基准测试中，Robostral Navigate在全新场景下的导航成功率达76.6%，性能不仅超越了既有的单摄像头方案，甚至比配备深度传感器或多摄像头的系统高出4.5分。该模型通过纯仿真训练策略完成，利用6000个虚拟空间中的40万条路径进行学习，验证了虚拟训练向真实场景迁移的有效性。在兼容性方面，Robostral Navigate支持轮式、腿式及飞行机器人，覆盖仓储物流、四足机器人及无人机等多种主流形态。Mistral此次将技术版图从LLM拓展至具身智能领域，通过轻量化模型重新",
+    "发布日期": "2026-07-10",
+    "原文链接": "https://www.aibase.com/zh/news/29498",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0d285d98acdcbbd07234b88b4f8f9f34.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0d285d98acdcbbd07234b88b4f8f9f34.jpg",
+    "配图仓库路径": "assets/news_images/0d285d98acdcbbd07234b88b4f8f9f34.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391920743899259606170277.png"
+  },
+  {
+    "资讯标题": "Meta研发全天候多模态AI眼镜，支持超级感知与无感音视频捕捉",
+    "内容": "Meta正在研发一款具备全天候多模态感知能力的智能眼镜原型机，该设备引入“超级感知”模式，能够以每隔几秒的频率连续录制音频并拍摄照片，支持用户通过Meta AI对捕捉内容进行即时交互。为处理隐私问题，Meta拟采用元数据处理机制，即不存储原始音视频，仅上传元数据至服务器供AI查询。针对此前用户遮挡录制指示灯的黑产行为，Meta宣布将推出系统更新，若检测到LED灯被篡改将直接禁用摄像头。然而，白皮书显示Meta计划在AI扫描等非主动保存场景下保持LED灯熄灭，仅在用户明确保存时亮灯。这一激进的硬件策略标志着端侧AI正从被动响应转向主动感知，但也因全天候无感监测特性引发了行业对隐私边界与AI泛在化服务平衡的广泛争议。",
+    "发布日期": "2026-07-10",
+    "原文链接": "https://www.aibase.com/zh/news/29496",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3572cea3c5e1646438d06c04b4243deb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3572cea3c5e1646438d06c04b4243deb.jpg",
+    "配图仓库路径": "assets/news_images/3572cea3c5e1646438d06c04b4243deb.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0709/6391920342220641666070269.png"
   }
 ]
