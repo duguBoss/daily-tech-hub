@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "谷歌发布LiteRT.js加速库，利用WebAssembly与WebGPU实现浏览器AI推理提速3倍",
-    "内容": "谷歌正式发布全新Web端AI推理加速库LiteRT.js，旨在替代TensorFlow.js的传统JavaScript内核方案。该库核心采用WebAssembly二进制指令格式，并深度集成WebGPU与WebNN硬件加速能力，显著提升浏览器端机器学习工作负载的执行效率。在搭载M4芯片的2024款MacBook Pro实测中，LiteRT.js的推理速度较现有方案最高提升3倍。此次架构升级标志着谷歌推动Web端AI从纯JavaScript向高性能硬件加速阶段演进，使浏览器运行AI模型的性能逼近原生应用水平。对于开发者而言，LiteRT.js不仅优化了端侧AI的部署体验，还降低了复杂AI功能在Web端的运行门槛，无需安装客户端即可实现流畅的AI交互，将加速端侧AI在网页端的普及与应用落地。",
+    "资讯标题": "谷歌发布LiteRT.js加速库，利用WebAssembly实现浏览器端AI推理提速3倍",
+    "内容": "谷歌正式发布全新Web端AI推理加速库LiteRT.js，旨在替代TensorFlow.js原有的JavaScript内核方案。该库通过WebAssembly二进制指令格式，深度结合WebGPU与WebNN硬件加速能力，显著提升浏览器内机器学习工作负载的执行效率。实测数据显示，在搭载M4芯片的2024款MacBook Pro上，LiteRT.js的推理速度较现有方案最高提升3倍。LiteRT.js的推出标志着谷歌推动Web端AI推理从纯JavaScript架构向高性能硬件加速架构转型。随着浏览器端AI模型运行速度逼近原生应用水平，开发者无需安装客户端即可实现更流畅的端侧AI部署，这将大幅降低Web端复杂AI功能的开发门槛，加速端侧AI在网页端的普及与应用落地。",
     "发布日期": "2026-07-12",
     "原文链接": "https://www.aibase.com/zh/news/29522",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/06124e81b4c0aa159880ffd9eabfb1ec.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "资讯标题": "腾讯拟接盘AI初创公司Manus成为最大股东，估值达20亿美元",
-    "内容": "腾讯控股正洽谈成为新加坡AI初创公司Manus的最大股东，旨在撤销Meta此前达成的超20亿美元收购案。该交易计划以20亿美元估值进行，腾讯将认购最多股份，Benchmark等美国风投机构预计退出。Manus由肖弘、季逸超和张涛于2022年创立，作为AI Agent领域的明星项目，其年度经常性收入（ARR）已接近5亿美元。交易完成后，Manus将保持独立运营并寻求在香港上市。此次增持将加速腾讯微信嵌入式AI智能体的应用落地，深化其在AGI时代的底层生态布局。此前，腾讯已邀请Manus创始人肖弘参与微信AI智能体的测试。该举措标志着腾讯在AI Agent赛道进一步强化技术与业务协同，通过资本运作巩固其在智能体生态的战略地位。",
+    "内容": "腾讯控股正洽谈成为新加坡AI初创公司Manus的最大股东，旨在撤销Meta此前达成的超20亿美元收购案。该交易计划以20亿美元估值进行，腾讯预计认购最多股份，Benchmark等美国风投机构将退出，Manus将保持独立运营并寻求在香港上市。Manus成立于2022年，由肖弘、季逸超和张涛联合创立，专注于AI Agent领域，今年年度经常性收入（ARR）已接近5亿美元。此次交易背景下，腾讯正加速在微信中测试嵌入式AI智能体，创始人肖弘已受邀参与测试。若增持成功，Manus将助力腾讯深化AGI时代的底层生态布局，并加速微信AI智能体等前沿产品的应用落地。该交易后续需完成重组以满足中国监管要求。",
     "发布日期": "2026-07-12",
     "原文链接": "https://www.aibase.com/zh/news/29523",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97ef792120e26c5284778ab38c44f9d0.jpg",
@@ -20,8 +20,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202503061553323534_1.jpg"
   },
   {
-    "资讯标题": "字节跳动Seedance2.5视频生成模型将于7月16日全量开放API",
-    "内容": "字节跳动旗下视频生成模型Seedance2.5将于7月16日正式全量开放API，标志着该模型从灰度测试阶段迈向全面商用。Seedance2.5于6月23日发布，目前AI创作平台“即梦”已开启上线预热，并计划配套推出会员折扣与积分优惠。技术层面，该模型实现三大突破：支持30秒单段原生视频直出，大幅提升连贯性；多模态参考容量提升至50个全模态素材，增强上下文理解；引入高可控性视频编辑功能，支持对画面主体和运镜的精准微调。行业预计其定价将与2.0版本持平。此次全量商用将加速AI视频技术在影视创意与商业广告领域的工程化落地，进一步降低高品质视频生成的门槛。",
+    "资讯标题": "字节跳动Seedance2.5模型将于7月16日全量开放API",
+    "内容": "字节跳动旗下视频生成模型Seedance2.5将于7月16日正式全量开放API，标志着该模型从灰度测试转向全面商用。Seedance2.5在6月23日发布，目前字节旗下AI创作平台“即梦”已开启预热。技术层面，该模型实现三大突破：支持30秒单段原生视频直出，大幅提升连贯性；参考素材容量提升至最高50个全模态素材，增强上下文理解；引入高可控性视频编辑功能，支持对画面主体和运镜的精准微调。行业预计其定价将与2.0版本持平。此次全量商用将加速AI视频生成技术在影视创意与商业广告领域的工程化落地，通过降低高品质视频生成门槛，为创作者提供更具连贯性与可控性的创作工具。",
     "发布日期": "2026-07-12",
     "原文链接": "https://www.aibase.com/zh/news/29516",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d8a99773646ec407ef9c7515421df4da.jpg",
@@ -30,8 +30,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201907230908107122_0.jpg"
   },
   {
-    "资讯标题": "OpenAI全量开放GPT-5.6系列模型，推出三档定价并刷新编程智能体性能纪录",
-    "内容": "OpenAI正式向全球全量开放GPT-5.6系列模型，包含旗舰版Sol、均衡版Terra和性价比版Luna，并于24小时内覆盖ChatGPT、Codex及API。定价策略极具竞争力，每百万Token输入/输出价格分别为5/30美元、2.5/15美元及1/6美元。性能方面，Sol在Agents' Last Exam评测中以53.6分超越Claude Fable5，并在Artificial Analysis编程智能体指数中以80分刷新纪录。该系列引入ultra模式，支持最多16个智能体并行，在BrowseComp测试中达92.2%，ExploitBench得分提升至73.5%。尽管在SWE-Bench Pro及FrontierMath等深度工程与前沿数学领域仍落后于Anthropic的Fable5，但GPT-5.6",
+    "资讯标题": "OpenAI全量开放GPT-5.6系列模型，三档定价策略重塑AI开发性价比",
+    "内容": "OpenAI正式向全球全量开放GPT-5.6系列模型，推出旗舰版Sol、均衡版Terra及性价比版Luna，并于24小时内覆盖ChatGPT、Codex及API。定价方面，三款模型每百万Token输入/输出价格分别为5/30美元、2.5/15美元及1/6美元，最低档Luna成本仅为Anthropic Fable5的十六分之一。性能上，Sol在Agents' Last Exam评测中以53.6分超越Fable5，并在Artificial Analysis编程智能体指数中以80分刷新纪录。此外，GPT-5.6引入ultra模式支持16个智能体并行，在BrowseComp测试中达92.2%，ExploitBench得分升至73.5%。尽管在SWE-Bench Pro及FrontierMath数学测试中仍落后于Fabl",
     "发布日期": "2026-07-12",
     "原文链接": "https://www.aibase.com/zh/news/29521",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9c493c4636b6ed89435c6afaf53b4e36.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "资讯标题": "Meta 发布旗舰模型 Muse Spark 1.1，升级多代理自动化与上下文压缩技术",
-    "内容": "Meta 正式发布旗舰模型 Muse Spark 1.1，重点优化多代理自动化工作流程，现已通过 Meta AI 及 API 开放公众预览。该模型支持 100 万标记的上下文窗口，并引入上下文压缩机制，能有效保存关键细节以实现子任务间的数据传递。在多代理架构中，主代理负责制定计划，子代理执行操作，Muse Spark 1.1 可实时检测执行变化并动态调整计划。性能方面，该模型在 Vibe Code Bench v1.1 基准测试中取得 72.2 分，较前代旗舰提升超 50 分，在 SWE-Atlas Codebase QnA 测试中得分提升近 18%。其在编码任务中表现突出，能自动识别技术问题并修复代码，同时支持电商描述生成、餐厅下单等多步骤任务。Meta 计划明年将数据中心容量提升至 14 千兆瓦，并有望推出",
+    "内容": "Meta 正式发布旗舰模型 Muse Spark 1.1，重点优化多代理自动化工作流程，现已通过 Meta AI 及 API 进入公众预览阶段。该模型支持 100 万标记的上下文窗口，并引入上下文压缩机制，能有效保存关键细节以实现子任务间的数据传递。在多代理架构中，主代理负责制定计划，子代理执行操作，Muse Spark 1.1 可实时检测执行变化并动态调整计划。性能方面，该模型在 Vibe Code Bench v1.1 基准测试中得分 72.2，较前代旗舰提升超 50 分，在 SWE-Atlas Codebase QnA 中得分提升近 18%。其在编码任务中表现突出，具备自动识别技术问题并修复代码的能力，同时支持电商描述生成及多步骤订单处理等应用。Meta 计划明年将数据中心容量提升至 14 千兆瓦，并有望",
     "发布日期": "2026-07-12",
     "原文链接": "https://www.aibase.com/zh/news/29528",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ab4da36137c14965b56ec16876692b7a.jpg",
