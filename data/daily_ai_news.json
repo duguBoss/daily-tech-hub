@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌发布LiteRT.js加速库，利用WebAssembly实现浏览器端AI推理提速3倍",
-    "内容": "谷歌正式发布全新Web端AI推理加速库LiteRT.js，旨在替代TensorFlow.js的传统JavaScript内核方案。该库核心采用WebAssembly二进制指令格式，并深度集成WebGPU与WebNN硬件加速能力，显著提升浏览器中机器学习工作负载的执行效率。实测数据显示，在搭载M4芯片的2024款MacBook Pro上，LiteRT.js的推理速度较现有方案最高提升3倍。此次架构升级标志着Web端AI推理正从纯JavaScript向高性能硬件加速阶段演进，通过缩短浏览器运行AI模型与原生应用间的性能差距，进一步降低了端侧AI的部署门槛，为无需安装客户端的Web AI应用普及提供了关键技术支撑。",
+    "资讯标题": "苹果正式起诉OpenAI窃取商业机密，涉及前高管及核心AI硬件项目",
+    "内容": "苹果公司于2026年7月10日向美国加州北区地方法院提起诉讼，指控OpenAI涉嫌窃取商业秘密及违反合同。诉状指出，OpenAI首席硬件官唐·谭（Tang Tan）涉嫌利用苹果机密项目代号及硬件组件进行招聘，并指导员工规避安全程序。同时，前苹果高级系统电气工程师刘畅被控离职后利用未归还设备下载并泄露未发布的技术规格与工程数据。苹果称OpenAI已在其硬件产品中非法使用包括proprietary金属表面处理技术在内的机密信息。目前，OpenAI正通过其收购的io公司开发一款基于AI Agent的智能手机，直接威胁苹果核心硬件业务。苹果已申请法庭禁令，要求禁止OpenAI使用或披露相关商业秘密。OpenAI则在X平台回应称对他人商业秘密不感兴趣，将继续专注于创新研发。此案或将重塑AI硬件生态的竞争格局。",
     "发布日期": "2026-07-13",
-    "原文链接": "https://www.aibase.com/zh/news/29522",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/06124e81b4c0aa159880ffd9eabfb1ec.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/06124e81b4c0aa159880ffd9eabfb1ec.jpg",
-    "配图仓库路径": "assets/news_images/06124e81b4c0aa159880ffd9eabfb1ec.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0710/6391928758192142677551072.png"
+    "原文链接": "https://www.aibase.com/zh/news/29532",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4e00db68792d1adfd388d6be49287547.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4e00db68792d1adfd388d6be49287547.jpg",
+    "配图仓库路径": "assets/news_images/4e00db68792d1adfd388d6be49287547.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201904221141417877_0.jpg"
   },
   {
-    "资讯标题": "腾讯拟接盘AI初创公司Manus成最大股东，估值达20亿美元",
-    "内容": "腾讯控股正洽谈成为新加坡AI初创公司Manus的最大股东，计划以20亿美元估值撤销此前Meta Platforms的收购案。该交易涉及腾讯、真格基金、红杉中国及管理层，腾讯预计将认购最多股份，而Benchmark等美国风投机构或将退出。Manus成立于2022年，由肖弘、季逸超和张涛联合创立，其年度经常性收入（ARR）已接近5亿美元。交易完成后，Manus将保持独立运营并寻求在香港上市。此次增持不仅深化了腾讯在AGI时代的底层生态布局，更将加速其微信嵌入式AI智能体等产品的应用落地。此前，Manus创始人肖弘已受邀参与腾讯微信AI智能体的测试工作。该举措标志着腾讯在AI Agent领域进一步强化技术与业务协同，通过资本运作巩固其在智能体生态中的核心地位。",
+    "资讯标题": "智谱启动Touch High摸高计划，押注全自动化智能体与自我训练技术",
+    "内容": "智谱创始人唐杰发布内部信，宣布启动“Touch High（摸高）计划”，未来两年将战略投入长程任务、自治智能体系统、完全自我训练及安全治理四大核心引擎，全力冲击AGI。智谱近期已开源GLM-5.2模型，支持1M上下文，并采用MIT协议。技术路线上，智谱旨在推动模型从即时问答转向宏大工程，通过构建专业智能体协作，加速数字生产力向全自动化公司（NPC）形态演进。同时，智谱将建设高质量合成数据工厂，利用AI博弈对抗（Self-Play）实现完全自我训练与代码重构，并投入百亿级资源攻坚“机械可解释性”，以解决黑盒系统透明度问题。此次战略调整发生于智谱股价波动背景下，自2026年1月港股上市以来，其市值曾突破万亿港元，截至7月10日回落至7312亿港元。智谱此举旨在通过技术突破应对行业商业变现压力，在物理极限与安全红线间",
     "发布日期": "2026-07-13",
-    "原文链接": "https://www.aibase.com/zh/news/29523",
+    "原文链接": "https://www.aibase.com/zh/news/29537",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2baaa58d47b95d420ecac165763f6ef0.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2baaa58d47b95d420ecac165763f6ef0.jpg",
+    "配图仓库路径": "assets/news_images/2baaa58d47b95d420ecac165763f6ef0.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202406051435016830_1.jpg"
+  },
+  {
+    "资讯标题": "快手KwaiKAT发布KAT-Coder-Pro V2.5，首个端到端跑通完整工程的国产Agentic编程模型",
+    "内容": "快手KwaiKAT团队正式发布旗舰级Agentic Coding模型KAT-Coder-Pro V2.5，旨在实现从单点代码补全向独立完成完整软件工程任务的跨越。该模型通过自研AutoBuilder流水线，将可运行仓库环境构建成功率提升至57.2%，并引入KwaiClawEnv体系支持长链路任务执行。在训练层面，模型放弃纯监督微调，采用大规模Agentic强化学习，结合非对称PPO架构与分层奖励机制，并通过MOPD多教师在线策略蒸馏融合五大专家模型能力。评测数据显示，其SWE-Bench Pro得分65.2，PinchBench得分94.2，具备直接承接完整Issue的能力。目前，KAT-Coder-Pro V2.5已全量上线StreamLake平台，开放API申请与技术文档查阅，支持开发者进行复杂业务工作流的",
+    "发布日期": "2026-07-13",
+    "原文链接": "https://www.aibase.com/zh/news/29530",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/81e9525d3c773a1978e29b7aced20e37.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/81e9525d3c773a1978e29b7aced20e37.jpg",
+    "配图仓库路径": "assets/news_images/81e9525d3c773a1978e29b7aced20e37.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0710/6391930064288058965832838.jpg"
+  },
+  {
+    "资讯标题": "OpenAI发布GPT-5.6模型系列，腾讯拟收购Manus成最大股东",
+    "内容": "OpenAI正式发布GPT-5.6模型系列，包含Sol、Terra和Luna三个版本，主打网络安全与高性价比，并推出企业级工具ChatGPT Work。同时，ChatGPT扩展程序已支持在Chrome浏览器侧边栏运行，可直接访问本地文件系统。在资本市场，腾讯拟以20亿美元估值收购AI初创公司Manus并成为最大股东。字节跳动宣布Seedance 2.5视频生成模型将于7月16日全量开放API，支持30秒单段视频直出。蚂蚁灵波发布具身原生世界动作模型LingBot-VA2.0，实现单卡150Hz实时推理。MiniMax完成160亿港元新一轮融资，创始人闫俊杰承诺在实现AGI前零薪酬。此外，三星开发出4nm AI PC专用芯片“GAIA”，已向联想、惠普提供样片测试，该芯片采用存储中心型架构，旨在降低AI计算延迟与",
+    "发布日期": "2026-07-13",
+    "原文链接": "https://www.aibase.com/zh/news/29529",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97ef792120e26c5284778ab38c44f9d0.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97ef792120e26c5284778ab38c44f9d0.jpg",
     "配图仓库路径": "assets/news_images/97ef792120e26c5284778ab38c44f9d0.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/202503061553323534_1.jpg"
   },
   {
-    "资讯标题": "字节跳动Seedance2.5模型将于7月16日正式全量开放API",
-    "内容": "字节跳动旗下视频生成模型Seedance2.5将于7月16日正式全量开放API，标志着该模型从灰度测试阶段迈向全面商用。Seedance2.5在6月23日发布后，目前已在字节旗下AI创作平台“即梦”开启上线预热。技术层面，该模型实现三大突破：支持30秒单段原生视频直出，大幅提升连贯性；多模态融合能力增强，支持最高50个全模态素材参考；引入高可控性编辑功能，优化画面主体与运镜的精准微调。此次全量开放将配套会员折扣与积分优惠活动，预计定价与2.0版本持平。Seedance2.5通过长视频直出与高可控技术，将加速AI视频工具在影视创意及商业广告领域的工程化落地进程。",
+    "资讯标题": "Anthropic升级Claude Code工具，内置浏览器支持AI自主访问网页",
+    "内容": "Anthropic近日为开发者工具Claude Code推出重大升级，正式集成内置浏览器窗口，赋予AI在应用内直接打开、阅读、点击及输入信息的能力。该功能采用标签页式管理，支持快捷键唤醒，旨在帮助开发者在Claude Code内高效检索技术文档及追踪问题记录。为保障安全，Anthropic部署了多重审查机制，系统分类器会对外部写入操作进行筛查，并默认禁止购买商品、创建账户或破解CAPTCHA等越权行为。该浏览器运行于隔离环境，不保存登录凭证。企业用户可通过白名单限制访问范围或完全禁用该功能，若需在已登录会话中操作，官方建议配合Chrome扩展程序使用。此次更新进一步强化了Claude作为AI Agent的自主执行能力，同时通过细粒度的权限控制，为企业级应用提供了合规保障。",
     "发布日期": "2026-07-13",
-    "原文链接": "https://www.aibase.com/zh/news/29516",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d8a99773646ec407ef9c7515421df4da.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d8a99773646ec407ef9c7515421df4da.jpg",
-    "配图仓库路径": "assets/news_images/d8a99773646ec407ef9c7515421df4da.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201907230908107122_0.jpg"
-  },
-  {
-    "资讯标题": "OpenAI正式全量开放GPT-5.6系列模型，三档定价策略冲击AI市场",
-    "内容": "OpenAI今日正式向全球全量开放GPT-5.6系列模型，推出旗舰版Sol、均衡版Terra及性价比版Luna三款产品，并于24小时内覆盖ChatGPT、Codex及API。定价方面，Luna每百万Token输入/输出仅需1/6美元，价格低至Anthropic旗舰模型Fable5的十六分之一。性能上，Sol在Agents' Last Exam评测中以53.6分超越Fable5，并在编程智能体指数以80分刷新纪录。尽管在SWE-Bench Pro及FrontierMath等深度工程与前沿数学领域仍落后于Fable5，但GPT-5.6引入的ultra模式支持16个智能体并行，在ExploitBench测试中得分提升至73.5%。此次发布标志着AI开发进入以性价比为核心的竞争阶段，与智谱AI开源的GLM-5.2及An",
-    "发布日期": "2026-07-13",
-    "原文链接": "https://www.aibase.com/zh/news/29521",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9c493c4636b6ed89435c6afaf53b4e36.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9c493c4636b6ed89435c6afaf53b4e36.jpg",
-    "配图仓库路径": "assets/news_images/9c493c4636b6ed89435c6afaf53b4e36.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0710/6391928000037717614938012.png"
-  },
-  {
-    "资讯标题": "Meta 发布旗舰模型 Muse Spark 1.1，升级多代理自动化与上下文压缩功能",
-    "内容": "Meta 正式发布旗舰大模型 Muse Spark 1.1，重点优化多代理自动化工作流程，现已通过 Meta AI 及 API 进入公众预览阶段。该模型支持 100 万标记的上下文窗口，并引入上下文压缩机制，通过高效保留关键细节解决多代理任务中的数据丢失问题，实现子任务间的数据有效传递。在性能方面，Muse Spark 1.1 在 Vibe Code Bench v1.1 基准测试中取得 72.2 分，较前代旗舰提升超 50 分，在 SWE-Atlas Codebase QnA 测试中得分提升近 18%。该模型具备强大的编码与多步骤任务处理能力，可自动识别并修复代码问题，同时支持电商描述生成及自动化订单处理等应用。Meta 计划明年将数据中心容量提升至 14 千兆瓦，并有望推出自研 AI 芯片 Iris。",
-    "发布日期": "2026-07-13",
-    "原文链接": "https://www.aibase.com/zh/news/29528",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ab4da36137c14965b56ec16876692b7a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ab4da36137c14965b56ec16876692b7a.jpg",
-    "配图仓库路径": "assets/news_images/ab4da36137c14965b56ec16876692b7a.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0710/6391929819072458042957789.png"
+    "原文链接": "https://www.aibase.com/zh/news/29533",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7eaa8438d9c6f2649b885a334d0599e2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7eaa8438d9c6f2649b885a334d0599e2.jpg",
+    "配图仓库路径": "assets/news_images/7eaa8438d9c6f2649b885a334d0599e2.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202604171645588927_0.jpg"
   }
 ]
