@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "豆包与通义千问下线智能体功能，AI拟人化互动服务新规今日正式施行",
-    "内容": "字节跳动旗下豆包与阿里巴巴旗下通义千问于今日正式下线智能体功能，用户无法新建或调用已有智能体。此次调整与《人工智能拟人化互动服务管理暂行办法》的施行日期重合，该办法由五部门联合发布，是我国首部针对AI拟人化互动服务的专门立法。新规明确监管边界，重点聚焦具有人格设定和情感陪伴属性的AI产品，如虚拟伴侣、虚拟亲属及自定义角色类智能体。提供智能客服、知识问答、工作助手等不涉及持续性情感互动的工具型服务不受影响。豆包官方确认，其基础AI功能如问答、文案生成及AI绘画等能力维持正常。此外，新规要求相关服务必须进行安全评估与算法备案，并推动人工智能沙箱安全服务平台建设。此举标志着我国AI拟人化互动服务进入有法可依的规范化管理阶段，明确了工具型AI与情感陪伴型AI的监管差异。",
-    "发布日期": "2026-07-15",
-    "原文链接": "https://www.aibase.com/zh/news/29605",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/66cd75429d609f00588dd069f3423a85.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/66cd75429d609f00588dd069f3423a85.jpg",
-    "配图仓库路径": "assets/news_images/66cd75429d609f00588dd069f3423a85.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202604171658595298_0.jpg"
+    "资讯标题": "谷歌Chrome安卓版重构底部栏：新增Gemini专属按钮并支持多标签页AI分析",
+    "内容": "谷歌在最新版Chrome for Android（Chrome 150）中重构了底部导航栏，首次引入Gemini专属AI快捷按钮。该按钮位于“主页”与“标签页”图标之间，标志着移动端浏览器AI交互的重大升级。新版Gemini功能突破了单页摘要限制，支持跨多个打开的标签页进行交叉引用、对比及内容总结，在移动端复刻了桌面版Chrome的侧边栏深度检索体验。此外，新布局在地址栏左侧新增返回按钮，并将设置图标移至右侧。该功能已历经三个月内部评估，目前面向将导航栏置于底部的用户开放。谷歌计划下个月将此布局推广至iOS设备，此举旨在将移动浏览器从单一浏览工具转型为多源信息聚合分析的生产力平台，显著提升用户在移动端的复杂信息处理效率。",
+    "发布日期": "2026-07-16",
+    "原文链接": "https://www.aibase.com/zh/news/29616",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/28d54d12e2f58e68994e7364dc8c43db.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/28d54d12e2f58e68994e7364dc8c43db.jpg",
+    "配图仓库路径": "assets/news_images/28d54d12e2f58e68994e7364dc8c43db.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0715/6391972407202828134552086.jpg"
   },
   {
-    "资讯标题": "甲骨文发布Oracle AI Agent Studio平台，支持无代码开发代理式应用",
-    "内容": "甲骨文于7月14日正式发布AI原生代理应用开发平台Oracle AI Agent Studio for Fusion Applications，旨在助力企业构建并运行Fusion Agentic Applications。该平台核心亮点在于支持无代码、低代码及专业代码等多种开发模式，满足不同技术背景开发者的需求。平台引入AI Studio Skill，全面兼容Visual Studio Code、命令行工具及Git等现代化开发环境。此外，该平台支持接入OpenAI Codex与Claude Code等AI编程助手，通过智能辅助显著提升代码编写效率与质量。对于企业而言，此平台不仅能加速数字化转型进程，还通过代理式应用提升业务响应速度与灵活性，为企业在复杂市场竞争中提供更高效的智能应用构建方案。",
-    "发布日期": "2026-07-15",
-    "原文链接": "https://www.aibase.com/zh/news/29597",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f4be0b307adb96e5fb09c3aaea4e94a0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f4be0b307adb96e5fb09c3aaea4e94a0.jpg",
-    "配图仓库路径": "assets/news_images/f4be0b307adb96e5fb09c3aaea4e94a0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621145403_65.jpg"
+    "资讯标题": "我国《人工智能拟人化互动服务管理暂行办法》正式施行，明确六大红线",
+    "内容": "我国首部《人工智能拟人化互动服务管理暂行办法》于今日正式施行，由国家网信办等五部门联合发布，标志着该领域进入规范化管理阶段。办法明确服务提供者需承担安全主体责任，针对具有情感陪伴属性的AI产品实施分类分级监管。规定明确了六类禁止活动，包括生成危害国家安全、诱导自残、泄露隐私及过度诱导情感依赖等内容。在未成年人保护方面，严禁向未成年人提供虚拟亲属或虚拟伴侣服务，向14周岁以下未成年人提供服务须经监护人同意。此外，办法对安全评估与算法备案提出硬性要求，规定注册用户超100万或月活超10万等情形需进行安全评估，并要求履行算法备案手续。官方鼓励企业接入人工智能沙箱安全服务平台进行技术创新与安全测试，旨在通过多方参与共同维护良好的网络生态。",
+    "发布日期": "2026-07-16",
+    "原文链接": "https://www.aibase.com/zh/news/29624",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/661912c2918980694f530a5fd4b70dfc.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/661912c2918980694f530a5fd4b70dfc.jpg",
+    "配图仓库路径": "assets/news_images/661912c2918980694f530a5fd4b70dfc.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271635326771_0.jpg"
   },
   {
-    "资讯标题": "支付宝与OPPO达成智能体跨端互联，阿宝与小布实现双向联动",
-    "内容": "支付宝与OPPO正式达成智能体跨端互联合作，旗下AI智能体“阿宝”与OPPO手机智能助手“小布”实现双向联动。用户无需打开支付宝App，通过小布语音助手即可向阿宝派发任务，大幅缩短交互链路。首期合作已接入近200项生活服务，涵盖观影、点餐、出行及社保、公积金等高频场景。技术上，阿宝在后台自动匹配服务并代办前置流程，支付与授权环节保留手动确认，保障资金隐私。该功能要求ColorOS 16、小布助手12.8.4、支付宝12.12.1及16.1.8以上意图执行框架。此次合作通过多维风控和端云解耦架构，实现了端侧AI助手与大厂服务生态的深度融合，为AI Agent跨平台生态建设提供了行业范式。",
-    "发布日期": "2026-07-15",
-    "原文链接": "https://www.aibase.com/zh/news/29610",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2a9f94504e4501cb6d50eec6d1832c41.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2a9f94504e4501cb6d50eec6d1832c41.jpg",
-    "配图仓库路径": "assets/news_images/2a9f94504e4501cb6d50eec6d1832c41.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0715/6391971172966295152421463.jpg"
+    "资讯标题": "安全公司Mindgard披露Cursor IDE存在0day漏洞，Windows用户面临恶意代码执行风险",
+    "内容": "安全公司Mindgard近期披露Cursor IDE存在致命0day漏洞，该漏洞允许攻击者在Windows系统上通过恶意git.exe文件实现自动代码执行。当用户打开包含恶意git.exe的仓库时，Cursor会在无交互情况下自动运行该文件。漏洞根源在于Cursor加载项目时会搜索项目根目录下的Git二进制文件，攻击者可借此植入恶意程序。Mindgard于2025年12月15日首次报告该问题，但经过六个月的多次跟进，Cursor团队仍未提供有效修复，且期间持续发布新版本。目前，Cursor拥有超700万活跃用户及5万家企业客户。针对该风险，建议企业用户使用AppLocker禁止工作区目录执行可疑文件，个人用户应在虚拟机或沙盒环境中打开不受信任的仓库，以防范潜在的安全威胁。",
+    "发布日期": "2026-07-16",
+    "原文链接": "https://www.aibase.com/zh/news/29615",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7c8b71f39d1c464d12b3aa61d599df66.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7c8b71f39d1c464d12b3aa61d599df66.jpg",
+    "配图仓库路径": "assets/news_images/7c8b71f39d1c464d12b3aa61d599df66.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0715/6391972401509501892449273.png"
   },
   {
-    "资讯标题": "OpenAI旗下ChatGPT正式重返欧洲WhatsApp平台并搭载GPT-5.5模型",
-    "内容": "2026年7月13日，ChatGPT正式重返欧洲WhatsApp平台，服务覆盖欧洲经济区（EEA）的27个欧盟成员国及列支敦士登、冰岛和挪威。此次回归源于欧盟委员会针对Meta此前垄断行为下达的“临时措施”指令。欧洲用户现可通过官方电话1-800-CHATGPT直接互动，无需注册即可使用多模态功能，包括文本、图片上传、语音留言及图像生成。该机器人后台运行GPT-5.5模型，图像生成任务疑似由全新的gpt-image-2模型处理。用户可选择关联WhatsApp与ChatGPT账号以同步历史记录。此前，Meta曾于2026年1月15日禁止第三方AI服务接入，此次强制开放标志着欧盟在打破社交平台AI围墙方面取得进展。OpenAI目前正同步推进ChatGPT在韩国Kakao Messenger及Viber等平台的布局。",
-    "发布日期": "2026-07-15",
-    "原文链接": "https://www.aibase.com/zh/news/29606",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d8050676c877408762baaa7c6e1e93f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d8050676c877408762baaa7c6e1e93f.jpg",
-    "配图仓库路径": "assets/news_images/5d8050676c877408762baaa7c6e1e93f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704350132_0.jpg"
+    "资讯标题": "努比亚完成智能体大模型备案，全球首款AI智能体手机将于WAIC亮相",
+    "内容": "努比亚技术有限公司总裁倪飞宣布，公司已率先完成智能体大模型备案，并将推出全球首款搭载该模型的AI智能体手机。该终端产品集成了豆包手机助手，旨在通过深度理解用户需求，提升日常工作与生活效率。努比亚官方表示，此举标志着公司在AI技术应用层面的重大突破。该款手机将于2026年7月17日至20日在上海举办的世界人工智能大会（WAIC）上首次公开展示。作为行业内首个搭载智能体大模型的终端，努比亚此举意在通过软硬件深度融合，为用户提供更高效、人性化的交互体验，并试图在当前手机市场智能化变革浪潮中占据领先地位。此次亮相不仅展示了努比亚在AI前瞻性布局上的成果，也为未来智能手机的发展树立了新的技术标杆。",
+    "发布日期": "2026-07-16",
+    "原文链接": "https://www.aibase.com/zh/news/29625",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f5b4275b842eff78fd834bdd23446da0.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f5b4275b842eff78fd834bdd23446da0.jpg",
+    "配图仓库路径": "assets/news_images/f5b4275b842eff78fd834bdd23446da0.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0715/6391973476192376398305612.png"
   },
   {
-    "资讯标题": "OpenAI 研发首款无屏幕智能音箱，旨在打造家庭 AI 陪伴助手",
-    "内容": "OpenAI 正在研发其首款硬件产品——一款可移动、无屏幕的智能音箱，旨在将其 ChatGPT 能力实体化，作为家庭 AI 陪伴助手使用。该设备具备智能家居控制、多媒体播放、信息收发及问答交互功能。目前 OpenAI 硬件部门正同步推进约五款产品研发，该音箱被视为切入硬件市场的首发产品。针对苹果公司提起的商业秘密侵权诉讼，OpenAI 回应称其产品与苹果现有设备有显著区别，否认侵权指控。受此法律纠纷影响，该产品原定于 2026 年内发布、2027 年正式上市的时间表存在不确定性。该产品的推出标志着 OpenAI 试图将 LLM 技术深度融入家庭生态，为用户提供更直观的交互体验，并有望推动智能家居行业的技术演进。",
-    "发布日期": "2026-07-15",
-    "原文链接": "https://www.aibase.com/zh/news/29600",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ad388b8cf2ea4d52b0b880f7926cc7f3.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ad388b8cf2ea4d52b0b880f7926cc7f3.jpg",
-    "配图仓库路径": "assets/news_images/ad388b8cf2ea4d52b0b880f7926cc7f3.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202406061628318039_6.jpg"
+    "资讯标题": "京东AI Agent与腾讯元宝打通小程序生态，实现AI对话内一键下单",
+    "内容": "京东与腾讯于7月15日宣布，京东AI Agent正式接入腾讯元宝，实现小程序生态互通。作为首个接入元宝的电商垂域合作伙伴，京东AI Agent为用户提供数码、家电、美妆及生鲜等全品类商品信息，并支持从商品推荐、下单到履约及售后的全流程服务。用户在元宝App内查询产品时，系统会以卡片形式展示京东商品信息，点击即可跳转至京东购物小程序完成购买，省去了切换App的繁琐步骤。京东AI Agent依托供应链及自研多模态AI技术，目前已通过A2A模式接入华为小艺、OPPO小布、荣耀YOYO等主流手机厂商智能体。此次合作标志着AI Agent正从信息检索工具向服务分发枢纽演变，通过打通意图识别与实体服务闭环，推动大模型应用向深层商业化场景渗透，为跨平台、跨终端的互联互通提供了行业范式。",
+    "发布日期": "2026-07-16",
+    "原文链接": "https://www.aibase.com/zh/news/29614",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f6f253a657dbaaab5c0758fd16d54dc5.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f6f253a657dbaaab5c0758fd16d54dc5.jpg",
+    "配图仓库路径": "assets/news_images/f6f253a657dbaaab5c0758fd16d54dc5.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0715/6391972315061818534253360.jpg"
   }
 ]
