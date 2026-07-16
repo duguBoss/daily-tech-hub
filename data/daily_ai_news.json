@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌Chrome安卓版重构底部栏：新增Gemini专属按钮并支持多标签页AI分析",
-    "内容": "谷歌在最新版Chrome for Android（Chrome 150）中重构了底部导航栏，首次引入Gemini专属AI快捷按钮。该按钮位于“主页”与“标签页”图标之间，标志着移动端浏览器AI交互的重大升级。新版Gemini功能突破了单页摘要限制，支持跨多个打开的标签页进行交叉引用、对比及内容总结，在移动端复刻了桌面版Chrome的侧边栏深度检索体验。此外，新布局在地址栏左侧新增返回按钮，并将设置图标移至右侧。该功能已历经三个月内部评估，目前面向将导航栏置于底部的用户开放。谷歌计划下个月将此布局推广至iOS设备，此举旨在将移动浏览器从单一浏览工具转型为多源信息聚合分析的生产力平台，显著提升用户在移动端的复杂信息处理效率。",
+    "资讯标题": "阿里确认通义千问集成至Apple智能，苹果端侧大模型已完成备案",
+    "内容": "阿里巴巴正式确认通义千问大模型将集成至Apple智能，为中国大陆iOS、iPadOS、macOS及visionOS用户提供本土化AI体验。此前，苹果技术开发（上海）有限公司的“Apple智能”大模型已于7月8日完成备案，百度亦参与了基于AI搜索及中国版Siri的合作开发。通过此次集成，苹果用户可在系统原生生态中直接调用通义千问的文本理解、图像处理及内容生成能力，无需跨应用切换。这一合作标志着国内大模型巨头与全球头部硬件厂商的生态融合进入新阶段，推动AI端侧应用从“独立App”向“系统原生级体验”范式转移。对于阿里而言，此举不仅带来高质量用户流量，更通过系统级AI Agent布局，加速了中国端侧AI的商业化落地与生态繁荣。",
     "发布日期": "2026-07-16",
-    "原文链接": "https://www.aibase.com/zh/news/29616",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/28d54d12e2f58e68994e7364dc8c43db.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/28d54d12e2f58e68994e7364dc8c43db.jpg",
-    "配图仓库路径": "assets/news_images/28d54d12e2f58e68994e7364dc8c43db.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0715/6391972407202828134552086.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29634",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/595447188a495841522150440d4d4c4f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/595447188a495841522150440d4d4c4f.jpg",
+    "配图仓库路径": "assets/news_images/595447188a495841522150440d4d4c4f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202507310906281467_0.jpg"
   },
   {
-    "资讯标题": "我国《人工智能拟人化互动服务管理暂行办法》正式施行，明确六大红线",
-    "内容": "我国首部《人工智能拟人化互动服务管理暂行办法》于今日正式施行，由国家网信办等五部门联合发布，标志着该领域进入规范化管理阶段。办法明确服务提供者需承担安全主体责任，针对具有情感陪伴属性的AI产品实施分类分级监管。规定明确了六类禁止活动，包括生成危害国家安全、诱导自残、泄露隐私及过度诱导情感依赖等内容。在未成年人保护方面，严禁向未成年人提供虚拟亲属或虚拟伴侣服务，向14周岁以下未成年人提供服务须经监护人同意。此外，办法对安全评估与算法备案提出硬性要求，规定注册用户超100万或月活超10万等情形需进行安全评估，并要求履行算法备案手续。官方鼓励企业接入人工智能沙箱安全服务平台进行技术创新与安全测试，旨在通过多方参与共同维护良好的网络生态。",
+    "资讯标题": "苹果起诉OpenAI商业机密纠纷内幕：因邮件误发导致沟通彻底断裂",
+    "内容": "苹果近日在美国加州北区联邦法院正式起诉OpenAI，指控其员工窃取未发布产品、零部件及供应商关系等商业机密。调查显示，双方沟通破裂源于2026年2月23日发生的邮件误发事件。苹果外部律师Gabriel Gross在13分钟内向OpenAI总法律顾问Che Chang发送两封邮件，第二封本应发给已入职OpenAI的前苹果员工Wang，却误发给了Chang。尽管Gross次日致歉并说明情况，OpenAI认为误会已澄清，但苹果在诉讼中坚称OpenAI“从未回应”。这一沟通认知上的根本性分歧，直接导致双方未能达成和解，最终演变为法律诉讼。此次纠纷的核心在于苹果指控OpenAI非法获取其非公开、机密及专有信息，目前双方对沟通状态的描述存在严重冲突。",
     "发布日期": "2026-07-16",
-    "原文链接": "https://www.aibase.com/zh/news/29624",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/661912c2918980694f530a5fd4b70dfc.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/661912c2918980694f530a5fd4b70dfc.jpg",
-    "配图仓库路径": "assets/news_images/661912c2918980694f530a5fd4b70dfc.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271635326771_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29638",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
+    "配图仓库路径": "assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
   },
   {
-    "资讯标题": "安全公司Mindgard披露Cursor IDE存在0day漏洞，Windows用户面临恶意代码执行风险",
-    "内容": "安全公司Mindgard近期披露Cursor IDE存在致命0day漏洞，该漏洞允许攻击者在Windows系统上通过恶意git.exe文件实现自动代码执行。当用户打开包含恶意git.exe的仓库时，Cursor会在无交互情况下自动运行该文件。漏洞根源在于Cursor加载项目时会搜索项目根目录下的Git二进制文件，攻击者可借此植入恶意程序。Mindgard于2025年12月15日首次报告该问题，但经过六个月的多次跟进，Cursor团队仍未提供有效修复，且期间持续发布新版本。目前，Cursor拥有超700万活跃用户及5万家企业客户。针对该风险，建议企业用户使用AppLocker禁止工作区目录执行可疑文件，个人用户应在虚拟机或沙盒环境中打开不受信任的仓库，以防范潜在的安全威胁。",
+    "资讯标题": "腾讯混元 Hy3 发布首周调用量增长超 68 倍并登顶 OpenRouter 全球榜单",
+    "内容": "腾讯混元 Hy3 模型自 2026 年 7 月 6 日发布以来，首周总调用量较上一代 Hy2 增长超 68 倍，并成功登顶 OpenRouter 全球大模型调用量总榜。Hy3 在保持旗舰级智能水平的同时，显著提升了稳定性和性价比。目前，该模型已全面接入 WorkBuddy、CodeBuddy、元宝、Marvis 及 ima 等核心业务，并在腾讯云 TokenHub 及海外平台上线 API。在 Agent 应用场景中，WorkBuddy 的自选模型用户中选择 Hy3 的比例高达 60%。为降低使用门槛，团队于 7 月 14 日推出 Hy3 的 1bit 与 4bit 权重量化版本，支持在单张推理显卡或本地机器上运行。此次增长反映出行业正从单纯的参数规模竞争，转向追求极致性价比与端侧可落地性的应用时代。",
     "发布日期": "2026-07-16",
-    "原文链接": "https://www.aibase.com/zh/news/29615",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7c8b71f39d1c464d12b3aa61d599df66.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7c8b71f39d1c464d12b3aa61d599df66.jpg",
-    "配图仓库路径": "assets/news_images/7c8b71f39d1c464d12b3aa61d599df66.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0715/6391972401509501892449273.png"
+    "原文链接": "https://www.aibase.com/zh/news/29632",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
+    "配图仓库路径": "assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604241547318068_0.jpg"
   },
   {
-    "资讯标题": "努比亚完成智能体大模型备案，全球首款AI智能体手机将于WAIC亮相",
-    "内容": "努比亚技术有限公司总裁倪飞宣布，公司已率先完成智能体大模型备案，并将推出全球首款搭载该模型的AI智能体手机。该终端产品集成了豆包手机助手，旨在通过深度理解用户需求，提升日常工作与生活效率。努比亚官方表示，此举标志着公司在AI技术应用层面的重大突破。该款手机将于2026年7月17日至20日在上海举办的世界人工智能大会（WAIC）上首次公开展示。作为行业内首个搭载智能体大模型的终端，努比亚此举意在通过软硬件深度融合，为用户提供更高效、人性化的交互体验，并试图在当前手机市场智能化变革浪潮中占据领先地位。此次亮相不仅展示了努比亚在AI前瞻性布局上的成果，也为未来智能手机的发展树立了新的技术标杆。",
+    "资讯标题": "本田宣布与谷歌达成合作，旗下多款车型将集成Gemini人工智能助手",
+    "内容": "美国本田公司近日宣布与谷歌达成合作，将在Civic、Accord、CR-V及Pilot等多款热门车型中集成谷歌Gemini人工智能助手。通过此次技术接入，车主在登录谷歌账户后，可与车载系统进行自然语言交互，无需使用繁琐的固定语音指令，即可完成导航设置、天气查询及音乐播放等操作。本田官方表示，该举措旨在通过引入谷歌的AI技术，为用户提供更智能、更人性化的驾驶体验。随着Gemini的集成，本田车主将能够持续获得谷歌提供的技术更新与功能优化。此次合作是本田数字化转型的重要进展，标志着其在智能汽车领域进一步强化交互体验，以应对日益激烈的市场竞争，满足消费者对智能化驾驶服务的需求。",
     "发布日期": "2026-07-16",
-    "原文链接": "https://www.aibase.com/zh/news/29625",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f5b4275b842eff78fd834bdd23446da0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f5b4275b842eff78fd834bdd23446da0.jpg",
-    "配图仓库路径": "assets/news_images/f5b4275b842eff78fd834bdd23446da0.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0715/6391973476192376398305612.png"
+    "原文链接": "https://www.aibase.com/zh/news/29636",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
+    "配图仓库路径": "assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131355473164_2.jpg"
   },
   {
-    "资讯标题": "京东AI Agent与腾讯元宝打通小程序生态，实现AI对话内一键下单",
-    "内容": "京东与腾讯于7月15日宣布，京东AI Agent正式接入腾讯元宝，实现小程序生态互通。作为首个接入元宝的电商垂域合作伙伴，京东AI Agent为用户提供数码、家电、美妆及生鲜等全品类商品信息，并支持从商品推荐、下单到履约及售后的全流程服务。用户在元宝App内查询产品时，系统会以卡片形式展示京东商品信息，点击即可跳转至京东购物小程序完成购买，省去了切换App的繁琐步骤。京东AI Agent依托供应链及自研多模态AI技术，目前已通过A2A模式接入华为小艺、OPPO小布、荣耀YOYO等主流手机厂商智能体。此次合作标志着AI Agent正从信息检索工具向服务分发枢纽演变，通过打通意图识别与实体服务闭环，推动大模型应用向深层商业化场景渗透，为跨平台、跨终端的互联互通提供了行业范式。",
+    "资讯标题": "xAI正式开源Grok Build源代码，支持本地编译与离线运行",
+    "内容": "xAI正式宣布开源编码代理Grok Build及其终端界面（TUI）的完整源代码，开发者现可通过GitHub获取并进行本地编译。此次开源旨在提供透明的执行框架，用户可直接查看上下文组装、模型响应解析及工具调用分发的底层逻辑。Grok Build支持完全的本地优先运行，用户通过config.toml配置文件即可将其指向本地推理服务，无需依赖云端。源码涵盖了代理循环核心逻辑、代码读取与编辑工具集、终端渲染及内联差异查看器等关键模块。此外，该项目详细展示了skill、plugin、hook、MCP服务器及subagent的扩展接入方式。对于开发者而言，这份源码不仅是理解AI编程代理运行机制的权威参考，也为构建、调试及定制化扩展本地化AI开发环境提供了完整的施工图纸，显著提升了系统执行的可控性与安全性。",
     "发布日期": "2026-07-16",
-    "原文链接": "https://www.aibase.com/zh/news/29614",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f6f253a657dbaaab5c0758fd16d54dc5.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f6f253a657dbaaab5c0758fd16d54dc5.jpg",
-    "配图仓库路径": "assets/news_images/f6f253a657dbaaab5c0758fd16d54dc5.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0715/6391972315061818534253360.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29627",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
+    "配图仓库路径": "assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403290922581712_0.jpg"
   }
 ]
