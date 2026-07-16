@@ -1,7 +1,7 @@
 [
   {
     "资讯标题": "阿里确认通义千问集成至Apple智能，苹果端侧大模型已完成备案",
-    "内容": "阿里巴巴正式确认通义千问大模型将集成至Apple智能，为中国大陆iOS、iPadOS、macOS及visionOS用户提供本土化AI体验。此前，苹果技术开发（上海）有限公司的“Apple智能”大模型已于7月8日完成备案，百度亦参与了基于AI搜索及中国版Siri的合作开发。通过此次集成，苹果用户可在系统原生生态中直接调用通义千问的文本理解、图像处理及内容生成能力，无需跨应用切换。这一合作标志着国内大模型巨头与全球头部硬件厂商的生态融合进入新阶段，推动AI端侧应用从“独立App”向“系统原生级体验”范式转移。对于阿里而言，此举不仅带来高质量用户流量，更通过系统级AI Agent布局，加速了中国端侧AI的商业化落地与生态繁荣。",
+    "内容": "阿里巴巴正式确认通义千问大模型将集成至Apple智能，为中国大陆iOS、iPadOS、macOS及visionOS用户提供本土化AI体验。此前，网信中国于7月8日披露，苹果技术开发（上海）有限公司的“Apple智能”大模型已完成备案。此次合作中，通义千问将依托其文本与图像理解及内容生成能力，嵌入苹果系统原生生态，用户无需切换应用即可直接调用各项AI功能。除阿里外，百度亦参与合作，重点开发基于AI的搜索功能并升级中国版Siri。这一动作标志着国内大模型巨头与全球头部硬件厂商的生态融合进入新阶段，加速了AI端侧应用从“独立App”向“系统原生级体验”的范式转移，为中国端侧AI的商业化落地提供了标杆示范。",
     "发布日期": "2026-07-16",
     "原文链接": "https://www.aibase.com/zh/news/29634",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/595447188a495841522150440d4d4c4f.jpg",
@@ -10,18 +10,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202507310906281467_0.jpg"
   },
   {
-    "资讯标题": "苹果起诉OpenAI商业机密纠纷内幕：因邮件误发导致沟通彻底断裂",
-    "内容": "苹果近日在美国加州北区联邦法院正式起诉OpenAI，指控其员工窃取未发布产品、零部件及供应商关系等商业机密。调查显示，双方沟通破裂源于2026年2月23日发生的邮件误发事件。苹果外部律师Gabriel Gross在13分钟内向OpenAI总法律顾问Che Chang发送两封邮件，第二封本应发给已入职OpenAI的前苹果员工Wang，却误发给了Chang。尽管Gross次日致歉并说明情况，OpenAI认为误会已澄清，但苹果在诉讼中坚称OpenAI“从未回应”。这一沟通认知上的根本性分歧，直接导致双方未能达成和解，最终演变为法律诉讼。此次纠纷的核心在于苹果指控OpenAI非法获取其非公开、机密及专有信息，目前双方对沟通状态的描述存在严重冲突。",
-    "发布日期": "2026-07-16",
-    "原文链接": "https://www.aibase.com/zh/news/29638",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图仓库路径": "assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
-  },
-  {
     "资讯标题": "腾讯混元 Hy3 发布首周调用量增长超 68 倍并登顶 OpenRouter 全球榜单",
-    "内容": "腾讯混元 Hy3 模型自 2026 年 7 月 6 日发布以来，首周总调用量较上一代 Hy2 增长超 68 倍，并成功登顶 OpenRouter 全球大模型调用量总榜。Hy3 在保持旗舰级智能水平的同时，显著提升了稳定性和性价比。目前，该模型已全面接入 WorkBuddy、CodeBuddy、元宝、Marvis 及 ima 等核心业务，并在腾讯云 TokenHub 及海外平台上线 API。在 Agent 应用场景中，WorkBuddy 的自选模型用户中选择 Hy3 的比例高达 60%。为降低使用门槛，团队于 7 月 14 日推出 Hy3 的 1bit 与 4bit 权重量化版本，支持在单张推理显卡或本地机器上运行。此次增长反映出行业正从单纯的参数规模竞争，转向追求极致性价比与端侧可落地性的应用时代。",
+    "内容": "腾讯混元 Hy3 于 2026 年 7 月 6 日正式发布，首周总调用量较上一代 Hy2 实现超 68 倍增长，并登顶 OpenRouter 全球大模型调用量总榜。Hy3 在稳定性和性价比上显著提升，智能水平比肩参数规模为其 2 至 5 倍的旗舰模型。目前，Hy3 已接入 WorkBuddy、CodeBuddy、元宝、Marvis 及 ima 等核心业务，其 API 亦在腾讯云 TokenHub 及海外平台上线。在 Agent 产品 WorkBuddy 中，Hy3 的用户选择比例高达 60%。为降低使用门槛，团队于 7 月 14 日推出 Hy3 的 1bit 与 4bit 权重量化版本，支持单卡或本地机器运行。此次增长印证了腾讯在模型轻量化与工程落地上的技术成效，反映出行业正加速向追求极致性价比与端侧可落地性的",
     "发布日期": "2026-07-16",
     "原文链接": "https://www.aibase.com/zh/news/29632",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
@@ -30,8 +20,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604241547318068_0.jpg"
   },
   {
-    "资讯标题": "本田宣布与谷歌达成合作，旗下多款车型将集成Gemini人工智能助手",
-    "内容": "美国本田公司近日宣布与谷歌达成合作，将在Civic、Accord、CR-V及Pilot等多款热门车型中集成谷歌Gemini人工智能助手。通过此次技术接入，车主在登录谷歌账户后，可与车载系统进行自然语言交互，无需使用繁琐的固定语音指令，即可完成导航设置、天气查询及音乐播放等操作。本田官方表示，该举措旨在通过引入谷歌的AI技术，为用户提供更智能、更人性化的驾驶体验。随着Gemini的集成，本田车主将能够持续获得谷歌提供的技术更新与功能优化。此次合作是本田数字化转型的重要进展，标志着其在智能汽车领域进一步强化交互体验，以应对日益激烈的市场竞争，满足消费者对智能化驾驶服务的需求。",
+    "资讯标题": "本田宣布与谷歌达成合作，旗下多款车型将集成Gemini AI助手",
+    "内容": "美国本田公司近日宣布与谷歌达成合作，将在Civic、Accord、CR-V及Pilot等多款热门车型中集成谷歌Gemini人工智能助手。该合作旨在通过AI技术提升车载交互体验，车主登录谷歌账户后，即可通过自然语言与Gemini进行交互，无需使用传统繁琐的语音指令。用户可通过对话直接完成导航设置、天气查询及音乐播放等操作，显著提升驾驶过程中的便捷性与智能化水平。此次集成不仅优化了人机交互流程，还依托谷歌持续迭代的AI技术，确保本田车主能够获得长期的功能更新与体验升级。本田表示，此举是其数字化转型及智能化战略的重要进展，旨在通过引入先进的AI技术，满足消费者对智能汽车日益增长的需求，并在激烈的市场竞争中强化产品竞争力。",
     "发布日期": "2026-07-16",
     "原文链接": "https://www.aibase.com/zh/news/29636",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/586ea7f7c8e46311aad7a53a6bebca82.jpg",
@@ -40,13 +30,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131355473164_2.jpg"
   },
   {
-    "资讯标题": "xAI正式开源Grok Build源代码，支持本地编译与离线运行",
-    "内容": "xAI正式宣布开源编码代理Grok Build及其终端界面（TUI）的完整源代码，开发者现可通过GitHub获取并进行本地编译。此次开源旨在提供透明的执行框架，用户可直接查看上下文组装、模型响应解析及工具调用分发的底层逻辑。Grok Build支持完全的本地优先运行，用户通过config.toml配置文件即可将其指向本地推理服务，无需依赖云端。源码涵盖了代理循环核心逻辑、代码读取与编辑工具集、终端渲染及内联差异查看器等关键模块。此外，该项目详细展示了skill、plugin、hook、MCP服务器及subagent的扩展接入方式。对于开发者而言，这份源码不仅是理解AI编程代理运行机制的权威参考，也为构建、调试及定制化扩展本地化AI开发环境提供了完整的施工图纸，显著提升了系统执行的可控性与安全性。",
+    "资讯标题": "OpenAI发布自动化红队测试模型GPT-Red，将提示注入失败率降至0.05%",
+    "内容": "OpenAI正式发布自动化红队测试模型GPT-Red，通过规模化自博弈强化学习策略，显著提升了AI模型的鲁棒性。GPT-Red在训练中与防御方模型高频对抗，利用提示词注入及逻辑诱导寻找漏洞，其攻击成功率高达84%，远超人类红队成员的13%。该模型已整合进生产流程，使GPT-5.6Sol版本在保持通用能力与执行效率的同时，将直接提示注入攻击的失败率压低至0.05%。在针对自主控制智能体的压力测试中，GPT-Red展现了极强的渗透力，能精准定位复杂系统漏洞。OpenAI表示，GPT-Red验证了AI安全“飞轮效应”的可行性，即利用先进AI构建更安全的防御体系，该自动化框架有望成为未来模型开发的行业标配，确保模型在持续迭代中维持稳固的安全防线。",
     "发布日期": "2026-07-16",
-    "原文链接": "https://www.aibase.com/zh/news/29627",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "配图仓库路径": "assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403290922581712_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29643",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f68e009484635da6de8eaa52a0567bb6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f68e009484635da6de8eaa52a0567bb6.jpg",
+    "配图仓库路径": "assets/news_images/f68e009484635da6de8eaa52a0567bb6.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0716/6391979670697266838835560.png"
   }
 ]
