@@ -1,18 +1,18 @@
 [
   {
-    "资讯标题": "谷歌测试Gemini语音自定义功能，新增速度、活力等四项调节选项",
-    "内容": "谷歌正在为Gemini开发全新的语音自定义功能，允许用户通过多维度参数精细化调整AI助手的语音表现。在Google应用17.41.12测试版APK中发现，该功能引入了“速度、活力、正式度、亲切感”四个调节滑块。其中，“速度”支持慢、正常、快三档切换，其余三项则用于塑造AI的交流风格与个性。该自定义设置预计将同时覆盖Gemini Live实时对话模式及常规聊天场景。通过这些调节器，用户可根据旅行规划或专业研究等不同使用场景，灵活切换AI的表达风格，从而降低机械感，提升交互的自然度与情感适配能力。此举旨在通过增强AI人格化表现，进一步提升Gemini在移动端的交互体验，以应对日益激烈的AI助手市场竞争。",
-    "发布日期": "2026-07-17",
-    "原文链接": "https://www.aibase.com/zh/news/29672",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5660ecce34ff1d5cc899ef55ac4fa9a7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5660ecce34ff1d5cc899ef55ac4fa9a7.jpg",
-    "配图仓库路径": "assets/news_images/5660ecce34ff1d5cc899ef55ac4fa9a7.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202312070835429226_0.jpg"
+    "资讯标题": "阶跃星辰在WAIC 2026发布STEPX Neo样机，全球首款大模型原生智能体手机亮相",
+    "内容": "7月17日，阶跃星辰在WAIC 2026展台首次展示全球首款大模型原生智能体手机STEPX Neo样机。该设备搭载智能体原生系统Step AOS，内置阶跃智能体Amoo，旨在实现AI Agent与移动终端的深度融合。系统界面包含“灵魂设定”模块，用于记录用户偏好与习惯以提供个性化交互；“水产市场”模块则计划引入外部优质Agent产品。演示显示，Amoo具备任务规划与工具调用能力，可自主完成查询演唱会门票及跳转携程预订酒店等复杂流程。阶跃星辰表示，STEPX Neo目前处于样机阶段，未来将持续演进，推动AI手机从语音助手向具备长期记忆与自主执行能力的智能体平台转型。该产品标志着大模型能力正加速向终端设备侧迁移，为行业探索AI原生硬件形态提供了新路径。",
+    "发布日期": "2026-07-18",
+    "原文链接": "https://www.aibase.com/zh/news/29686",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/68fe962e114badc8c6fcdc554476836c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/68fe962e114badc8c6fcdc554476836c.jpg",
+    "配图仓库路径": "assets/news_images/68fe962e114badc8c6fcdc554476836c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0717/26071702535344944723.jpg"
   },
   {
-    "资讯标题": "百度秒哒3.5发布：支持iOS无代码打包与多端共享后端",
-    "内容": "百度智能云无代码应用平台“秒哒”于2026世界人工智能大会（WAIC）正式发布3.5版本，核心聚焦应用开发门槛的进一步降低。新版本引入了iOS无代码打包能力，支持从构建、测试到App Store上架的一站式交付；同时推出多端共享后端功能，允许Web、App及小程序共享同一数据库，实现多端数据联动。针对开发痛点，秒哒3.5内置SEO Agent实现自动化搜索优化，并支持开发与线上环境隔离的数据库多环境管理，提供版本快照回滚与AI辅助修复功能。此外，平台新增自定义技能创建，支持通过对话、上传技能包或接入第三方API快速生成专属Skill。在资源配置上，秒哒3.5提供分级后端套餐，支持随业务增长灵活扩容。目前，该平台已服务超3500万用户，创造了350万个应用。此次更新旨在通过更全能的工具链，让非专业开发者也能完成从",
-    "发布日期": "2026-07-17",
+    "资讯标题": "百度秒哒3.5版本发布：支持iOS无代码打包与多端共享后端",
+    "内容": "百度智能云无代码应用平台“秒哒”在2026世界人工智能大会（WAIC）正式发布3.5版本。该版本核心升级包括iOS一站式打包、多端共享后端及SEO Agent。iOS打包支持从构建、测试到App Store上架的全流程，无需Mac或Xcode。多端共享后端允许Web、App、小程序共用同一数据库，实现数据联动。内置的SEO Agent可自动诊断并修复搜索优化问题。此外，3.5版本引入自定义技能创建（支持API接入）、数据库多环境隔离（开发与线上环境分离）及后端资源分级配置，旨在降低开发门槛并提升生产级应用承载力。目前，秒哒平台已服务超3500万用户，生成350万个应用。新版本通过AI Agent辅助修复Migration冲突与SQL报错，并支持版本快照回滚，进一步保障业务稳定性。",
+    "发布日期": "2026-07-18",
     "原文链接": "https://www.aibase.com/zh/news/29680",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/034a29d8fcf2e23d0ffaddea6ce4ab39.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/034a29d8fcf2e23d0ffaddea6ce4ab39.jpg",
@@ -20,33 +20,33 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202506100831479156_4.jpg"
   },
   {
-    "资讯标题": "智谱斥资数亿元收购AI Infra公司中科加禾，强化国产算力适配与推理优化",
-    "内容": "智谱近日完成对AI Infra公司中科加禾（XCore Sigma）的收购，交易金额达数亿元人民币，旨在补强模型底层工程能力及国产算力适配。中科加禾源自中科院计算所编译实验室，核心团队深耕龙芯、华为昇腾等国产芯片编译器研发，具备从虚拟指令集设计到算子生成的全链路技术储备。此次收购旨在解决智谱在GLM-5等模型高并发调用场景下，推理架构与KV Cache管理面临的工程挑战。通过引入中科加禾的编译器技术及SigInfer推理引擎，智谱将提升多芯片环境下的适配效率，优化算力利用率并降低推理时延。此前智谱已布局基流科技、无问芯穹等企业，此次整合进一步完善了其从算力集群到推理优化的基础设施闭环，有助于降低大规模模型服务成本，增强在国产异构算力生态中的长期竞争力。",
-    "发布日期": "2026-07-17",
-    "原文链接": "https://www.aibase.com/zh/news/29679",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b75405708da9ce04dd72584fb3ea16b5.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b75405708da9ce04dd72584fb3ea16b5.jpg",
-    "配图仓库路径": "assets/news_images/b75405708da9ce04dd72584fb3ea16b5.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305291455534177_7.jpg"
+    "资讯标题": "小红书联手北大上交发布HYPIC，实现混合注意力大模型位置无关缓存",
+    "内容": "小红书大模型推理团队联合北京大学、上海交通大学提出HYPIC，这是首个针对混合注意力大模型实现位置无关缓存（PIC）的服务系统。该系统通过三大核心机制解决混合架构下的缓存难题：对线性层缓存“转移算子”以实现常数时间状态组合；对全注意力层引入“缝合窗口”修复跨段注意力偏差；并提出实例间“段并行”策略，将长冷请求的预填充（prefill）开销从串行降至并行。在Qwen3.5-35B-A3B等4个生产级模型及5个工作负载的测试中，HYPIC表现显著：首token延迟（TTFT）平均降低3.25倍，同SLO下可持续QPS提升1.66倍，且任务质量与完全重算几乎无损。该系统已在SGLang上实现，有效解决了混合注意力模型在RAG与Agent场景下因缓存未命中导致的性能瓶颈，为长上下文推理提供了高效的加速方案。",
+    "发布日期": "2026-07-18",
+    "原文链接": "https://www.aibase.com/zh/news/29683",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e6ad809b9ef7e1a85a6090a69b472f2b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e6ad809b9ef7e1a85a6090a69b472f2b.jpg",
+    "配图仓库路径": "assets/news_images/e6ad809b9ef7e1a85a6090a69b472f2b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429180_32.jpg"
   },
   {
-    "资讯标题": "智谱AI年度经常性收入达10亿美元，5个月内实现15倍增长",
-    "内容": "智谱AI年度经常性收入（ARR）已达10亿美元规模，在2026年1月至7月期间实现约15倍增长，远超市场预期。智谱的商业化爆发主要得益于其在AI Coding领域的战略布局，通过以约两个月一版的节奏迭代模型，并于2026年6月发布强化代码能力的GLM-5.2模型。尽管今年第一季度GLM API价格累计提升约83%，但调用量仍实现约400%的增长。智谱创始人唐杰强调，Coding能力是AI Agent协同发展的核心。当前，AI Coding与视频生成已成为生成式AI商业化增长最快的方向。面对MiniMax M3、月之暗面K3以及OpenAI GPT-5.6等竞品的激烈竞争，智谱通过提升模型代码生成与Reasoning能力，成功验证了AI Coding赛道的商业价值，并正加速在企业与开发者生态中的规模化应用。",
-    "发布日期": "2026-07-17",
-    "原文链接": "https://www.aibase.com/zh/news/29673",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/08095df0080d5245682d49cca57ad19c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/08095df0080d5245682d49cca57ad19c.jpg",
-    "配图仓库路径": "assets/news_images/08095df0080d5245682d49cca57ad19c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202606031120440878_0.jpg"
-  },
-  {
-    "资讯标题": "OpenAI确认GPT-5.6 Codex存在误删本地文件风险，建议关闭高权限模式",
-    "内容": "OpenAI正式确认，由GPT-5.6模型驱动的Codex代码生成系统在特定条件下存在误删用户本地文件的风险。核心产品负责人Tibo Sottiaux指出，该问题主要发生在用户开启“完全访问模式”（full access mode）且未启用沙箱保护机制时。模型在执行任务过程中，因尝试覆盖环境变量$HOME设置临时工作目录，导致系统异常删除了整个$HOME目录，对macOS和Linux用户造成数据丢失威胁。OpenAI表示，在关闭自动审核功能时该问题更易触发。目前，公司正采取多项修复措施，包括更新权限提示说明及加强系统防护。OpenAI建议正在使用Codex的用户立即关闭高权限模式，改用带安全限制的运行环境。官方计划在未来几天发布详细事故分析报告，披露具体技术原因及后续改进方案。",
-    "发布日期": "2026-07-17",
+    "资讯标题": "OpenAI确认GPT-5.6 Codex存在误删文件风险，建议用户关闭高权限模式",
+    "内容": "OpenAI确认由GPT-5.6模型驱动的Codex代码生成系统存在误删用户本地文件的风险。核心产品负责人Tibo Sottiaux指出，该问题主要发生在用户开启“完全访问模式”且未启用沙箱保护机制的情况下。模型在执行任务时，因尝试覆盖环境变量$HOME设置临时工作目录，导致系统误将整个$HOME目录删除，对macOS和Linux用户造成数据丢失风险。OpenAI表示，该问题在关闭自动审核功能时更易触发。目前公司正采取修复措施，包括更新权限提示说明及加强系统防护。OpenAI建议正在使用Codex且开启系统级权限的用户立即关闭高权限模式，改用带安全限制的运行环境。公司计划在未来几天发布详细事故分析报告，披露技术原因及后续改进方案。",
+    "发布日期": "2026-07-18",
     "原文链接": "https://www.aibase.com/zh/news/29681",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1fe23cdbfb2d4e1124d742028d9f7a35.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1fe23cdbfb2d4e1124d742028d9f7a35.jpg",
     "配图仓库路径": "assets/news_images/1fe23cdbfb2d4e1124d742028d9f7a35.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605221552597545_0.jpg"
+  },
+  {
+    "资讯标题": "NVIDIA 发布 Nemotron 3 Embed 系列模型，8B 版本登顶 RTEB 检索基准",
+    "内容": "NVIDIA 正式发布 Nemotron 3 Embed 系列嵌入向量模型，专为生产级 RAG、智能体检索及记忆场景设计。该系列包含 8B-BF16、1B-BF16 及针对 Blackwell 架构优化的 1B-NVFP4 三个版本，均基于 Mistral 架构，支持 32,768 token 长上下文及 34 种语言。在 RTEB 基准测试中，8B-BF16 版本以 78.46 的平均 NDCG@10 得分位列榜首。1B 系列通过神经架构搜索与知识蒸馏构建，其中 1B-NVFP4 版本在保留 99.5% 精度的同时，在 Blackwell 架构上的吞吐量较 BF16 提升 2 倍。该系列采用 OpenMDW-1.1 协议开源，支持 Transformers、Sentence Transformers 及 vL",
+    "发布日期": "2026-07-18",
+    "原文链接": "https://www.aibase.com/zh/news/29695",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
+    "配图仓库路径": "assets/news_images/3371edac10193960308e8a3aac430def.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202010261720420670_6.jpg"
   }
 ]
