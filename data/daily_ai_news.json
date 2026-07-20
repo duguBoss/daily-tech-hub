@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阶跃星辰在WAIC 2026发布全球首款大模型原生智能体手机STEPX Neo样机",
-    "内容": "7月17日，阶跃星辰在WAIC 2026正式展示全球首款大模型原生智能体手机STEPX Neo样机。该设备搭载智能体原生系统Step AOS，内置阶跃智能体Amoo，旨在实现AI Agent与移动终端的深度融合。系统界面包含“水产市场”、“灵魂设定”及“AI智能体安全”等模块，其中“灵魂设定”用于记录用户偏好与习惯，以提供个性化交互。现场演示显示，Amoo可自主完成任务规划与工具调用，如查询演唱会门票并直接跳转携程预订酒店。阶跃星辰表示，STEPX Neo正推动AI手机从语音助手向具备长期记忆与执行能力的智能体平台演进。目前该产品仍处于样机阶段，完整形态与功能细节将在后续公布。",
+    "资讯标题": "马斯克称xAI旗下2万亿参数大模型即将完成训练，或挑战Kimi K3性能",
+    "内容": "特斯拉CEO马斯克宣布，其旗下xAI开发的2万亿参数大模型预计将于下周完成初步训练。马斯克表示，该模型整体性能将显著优于此前的1.5万亿参数版本，并有望在性能表现上挑战月之暗面近期发布的Kimi K3。此前，马斯克曾公开评价Kimi K3表现“令人印象深刻”。Kimi K3作为目前全球参数规模最大的开源大模型之一，具备2.8万亿参数、100万词元上下文窗口及原生视觉理解能力，曾在Arena AI前端编程排行榜以1679分位居全球第一。此次xAI公布新模型进展，标志着全球AI厂商在超大规模模型领域的竞争进一步加剧。随着大模型研发进入新阶段，参数规模、推理能力、上下文长度及开源生态已成为行业争夺的核心技术高地。",
     "发布日期": "2026-07-20",
-    "原文链接": "https://www.aibase.com/zh/news/29686",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/68fe962e114badc8c6fcdc554476836c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/68fe962e114badc8c6fcdc554476836c.jpg",
-    "配图仓库路径": "assets/news_images/68fe962e114badc8c6fcdc554476836c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0717/26071702535344944723.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29714",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
+    "配图仓库路径": "assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604291619214186_0.jpg"
   },
   {
-    "资讯标题": "百度智能云发布秒哒3.5，支持iOS无代码打包与多端共享后端",
-    "内容": "百度智能云在2026世界人工智能大会（WAIC）正式发布无代码应用平台秒哒3.5版本，旨在进一步降低开发门槛。新版本核心功能包括：内置SEO Agent实现搜索优化自动化；提供一站式iOS打包服务，支持IPA生成、Ad Hoc真机测试及App Store上架；支持多端（Web、App、小程序）共享同一后端数据库，实现数据联动。针对开发痛点，3.5版本引入数据库多环境隔离机制，支持开发与线上环境独立运行及版本快照回滚，并提供后端资源分级配置，适配从个人Demo到企业级高并发业务的多种需求。此外，平台新增自定义技能功能，支持通过对话生成、导入技能包或接入第三方API。秒哒目前已服务超3500万用户，创造了350万个应用。此次更新通过自动化SEO、简化iOS交付及多端数据共享，显著提升了非专业开发者的应用构建与运维效",
+    "资讯标题": "阿里发布Token Plan个人版并上线Qwen3.8-Max-Preview模型",
+    "内容": "7月19日，阿里正式发布Token Plan个人版，并同步开放Qwen3.8-Max-Preview模型体验。该模型参数规模达2.4万亿，在代码工程与专业办公场景表现突出，正式版预计近期发布并开源。Token Plan个人版提供Lite、Standard、Pro三档套餐，月费分别为39元、139元与499元；团队版则按席位收费。阿里针对该模型推出限时优惠，白天Credits消耗降至1折，个人版用户夜间使用可享折上折。此外，AI编程产品Qoder与QoderWork已首发支持Qwen3.8-Max-Preview，千问PC端用户可免费体验。此次发布旨在通过Token Plan、开发工具及开源策略，加速Qwen系列模型在生产力场景的落地，进一步强化模型能力、成本控制与生态建设的综合竞争力。",
     "发布日期": "2026-07-20",
-    "原文链接": "https://www.aibase.com/zh/news/29680",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/034a29d8fcf2e23d0ffaddea6ce4ab39.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/034a29d8fcf2e23d0ffaddea6ce4ab39.jpg",
-    "配图仓库路径": "assets/news_images/034a29d8fcf2e23d0ffaddea6ce4ab39.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202506100831479156_4.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29711",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ceebdfcbec3ff731e17fdaba0c48808e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ceebdfcbec3ff731e17fdaba0c48808e.jpg",
+    "配图仓库路径": "assets/news_images/ceebdfcbec3ff731e17fdaba0c48808e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007244729_5.jpg"
   },
   {
-    "资讯标题": "小红书联手北大上交发布HYPIC，实现混合注意力大模型位置无关缓存",
-    "内容": "小红书大模型推理团队联合北京大学、上海交通大学提出HYPIC，这是首个针对混合注意力架构大模型实现位置无关缓存（PIC）的服务系统。该系统通过缓存“段累积转移算子”实现线性层常数时间的状态组合，并利用“缝合窗口”修复全注意力层的跨段对齐，同时引入实例间段并行机制加速冷请求。测试显示，在Qwen3.5-35B-A3B等4个生产级模型上，HYPIC将首token延迟（TTFT）平均降低3.25倍，同SLO下可持续QPS提升1.66倍，且任务质量与完全重算几乎无损。该技术解决了混合注意力模型因缺乏逐token抓手而无法使用传统PIC的难题，显著提升了RAG与Agent等长上下文场景的推理效率。",
+    "资讯标题": "月之暗面在GTC2026开源三大核心架构：重构优化器、注意力机制与残差连接",
+    "内容": "在GTC2026上，月之暗面CEO杨植麟宣布开源三项重构Transformer基础组件的技术，旨在提升模型训练效率与能力上限。针对优化器，月之暗面推出MuonClip替代Adam，通过独立参数更新提升数据利用率，并配合QK-Clip解决万亿参数下的数值失控问题。针对长上下文，研发Kimi Linear架构，核心KDA机制通过多通道遗忘策略，在百万Token级别实现比全注意力更高的计算效率。针对残差连接，发布Attention Residue架构，允许模型主动从历史计算层挑选信息，在推理与编程任务中带来约24%的Token效率提升。此外，杨植麟还介绍了支持300个Agent并行的Agent Swarm架构及早期融合视觉训练方案。这些组件均已开源，旨在通过底层架构创新应对高质量数据稀缺与算力成本挑战，推动开源模型性",
     "发布日期": "2026-07-20",
-    "原文链接": "https://www.aibase.com/zh/news/29683",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e6ad809b9ef7e1a85a6090a69b472f2b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e6ad809b9ef7e1a85a6090a69b472f2b.jpg",
-    "配图仓库路径": "assets/news_images/e6ad809b9ef7e1a85a6090a69b472f2b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429180_32.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29707",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
+    "配图仓库路径": "assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405240907574564_1.jpg"
   },
   {
-    "资讯标题": "OpenAI确认GPT-5.6 Codex存在误删本地文件风险，建议用户关闭高权限模式",
-    "内容": "OpenAI确认由GPT-5.6模型驱动的Codex代码生成系统存在误删用户本地文件的风险。核心产品负责人Tibo Sottiaux指出，该问题主要发生在用户开启“完全访问模式”（full access mode）且未启用沙箱保护机制的情况下。模型在尝试通过覆盖环境变量$HOME设置临时工作目录时，操作异常导致系统误删整个$HOME目录，对macOS和Linux用户造成数据丢失风险。此外，关闭自动审核功能会增加触发概率。OpenAI目前正采取多项修复措施，包括更新完全访问模式下的提示说明并加强系统防护。官方建议正在使用Codex且开启系统级权限的用户立即关闭高权限模式，改用带安全限制的运行环境。OpenAI计划在未来几天发布详细事故分析报告，披露技术原因及后续改进方案。",
+    "资讯标题": "OpenAI发布AI时代记分卡，引入“有用智能每美元”衡量ROI",
+    "内容": "OpenAI于7月17日发布AI经济价值评估框架，提出“有用智能每美元”指标，旨在帮助企业跳出单纯的Token成本计算，通过衡量AI完成任务的实际价值与总成本来评估ROI。该框架涵盖四项核心维度：任务完成度、单项成功任务成本、结果可靠性及规模化价值。OpenAI指出，模型性能与成本并非线性关系，高性能模型因减少了重试、人工审核与返工，往往能实现更低的单任务总成本。随文发布的GPT-5.6系列模型即遵循此逻辑，提供Sol、Terra、Luna三个层级，以适配不同经济性的工作流。数据显示，GPT-5.6 Sol在DeepSWE v1.1工程任务中成功率达72.7%，API成本预估降低36.2%。OpenAI强调，企业应通过追踪同一工作流的产出与成本，验证AI投入是否随规模增长实现价值最大化。此举旨在引导行业关注AI",
     "发布日期": "2026-07-20",
-    "原文链接": "https://www.aibase.com/zh/news/29681",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1fe23cdbfb2d4e1124d742028d9f7a35.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1fe23cdbfb2d4e1124d742028d9f7a35.jpg",
-    "配图仓库路径": "assets/news_images/1fe23cdbfb2d4e1124d742028d9f7a35.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605221552597545_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29713",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/34e91b0e607a318a17e195c23e79f215.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/34e91b0e607a318a17e195c23e79f215.jpg",
+    "配图仓库路径": "assets/news_images/34e91b0e607a318a17e195c23e79f215.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0720/6392014274866048544165506.png"
   },
   {
-    "资讯标题": "NVIDIA发布Nemotron 3 Embed系列模型，8B版本登顶RTEB检索基准",
-    "内容": "NVIDIA正式发布Nemotron 3 Embed系列嵌入向量模型，专为生产级RAG、智能体检索及代码检索设计。该系列包含8B-BF16、1B-BF16及针对Blackwell架构优化的1B-NVFP4三个版本，均基于Mistral架构，支持32K上下文及34种语言。在RTEB基准测试中，8B版本以78.46的平均NDCG@10得分位列榜首。1B-BF16版本较前代基线提升10.4分，而1B-NVFP4版本在保留99.5%精度的同时，吞吐量较BF16提升2倍。模型采用双向注意力掩码训练，并以OpenMDW-1.1协议开源。部署方面，8B和1B-BF16支持Transformers框架，1B-NVFP4专用于vLLM 0.25.0的/v2/embed接口。NVIDIA同步推出基于Rust构建的1B模型NIM微服",
+    "资讯标题": "Google DeepMind发布GenCeption模型，基于视频生成技术实现多项视觉任务突破",
+    "内容": "Google DeepMind近日发布GenCeption模型，该模型基于预训练视频生成模型Wan2.1构建，旨在通过单一架构解决深度估计、图像分割、3D姿态估计等经典计算机视觉任务。GenCeption利用视频生成模型在训练中习得的场景结构与运动规律，仅需一次前向传播即可输出深度图、表面法线、分割掩码及姿态估计结果。在数据效率方面，该模型仅使用包含7500个视频的合成数据集进行训练，数据需求量较传统专用模型降低了7至500倍。测试显示，GenCeption在多项基准测试中表现优异，并具备处理真实世界多人场景、动物及人形机器人的泛化能力。目前模型处理81帧视频约需6至10秒，研究团队指出，联合训练多任务可能影响复杂任务性能，且推理速度仍有优化空间。此项研究表明，视频生成模型正逐步向通用视觉理解基础模型演进。",
     "发布日期": "2026-07-20",
-    "原文链接": "https://www.aibase.com/zh/news/29695",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
-    "配图仓库路径": "assets/news_images/3371edac10193960308e8a3aac430def.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202010261720420670_6.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29703",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9b0d5d43ad449628a8487ebcac6773d3.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9b0d5d43ad449628a8487ebcac6773d3.jpg",
+    "配图仓库路径": "assets/news_images/9b0d5d43ad449628a8487ebcac6773d3.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0720/6392013621696804259908125.jpg"
   }
 ]
