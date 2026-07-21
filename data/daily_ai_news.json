@@ -1,52 +1,42 @@
 [
   {
-    "资讯标题": "马斯克称xAI旗下2万亿参数大模型即将完成训练，或挑战Kimi K3性能",
-    "内容": "特斯拉CEO马斯克宣布，其旗下xAI研发的2万亿参数大模型预计将于下周完成初步训练。该模型性能将显著优于此前的1.5万亿参数版本，并被视为对月之暗面近期发布的Kimi K3大模型的有力挑战。Kimi K3作为目前全球参数规模最大的开源大模型之一，拥有2.8万亿参数、100万词元上下文窗口及原生视觉理解能力，曾在Arena AI前端编程排行榜以1679分登顶。马斯克此前曾公开评价Kimi K3表现令人印象深刻。此次xAI新模型训练进展的披露，标志着全球AI厂商在参数规模、推理能力及开源生态领域的竞争进一步加剧，超大规模基础模型研发已进入新一轮技术博弈阶段。",
+    "资讯标题": "阿里通义千问发布Qwen-Audio-3.0-TTS模型，支持20种方言及300ms首包延迟",
+    "内容": "阿里通义千问正式发布新一代实时语音合成模型Qwen-Audio-3.0-TTS，包含Flash与Plus双版本。其中Flash版主打实时交互，首包延迟低至300ms；Plus版在Artificial Analysis的Speech Arena榜单中位列全球第一。该模型支持16种语言及20种中文方言，Plus版在多语言说话人相似度上达82.75。核心能力包括：支持Free-style自然语言指令控制风格；提供细粒度标签控制呼吸、笑声等非语言细节；具备高噪声环境下的声学鲁棒性。模型支持48K高清音频输出，单次合成最长支持3分钟长文本。目前Qwen-Audio-3.0-TTS已在阿里云百炼平台全面开放，开发者可通过API接入，适用于智能助手、游戏及有声书等多种低延时与高质量生成场景。",
     "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29714",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "配图仓库路径": "assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604291619214186_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29724",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
+    "配图仓库路径": "assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007232048_2.jpg"
   },
   {
-    "资讯标题": "工信部发布开源半年报：OpenHarmony设备超13.5亿台，AI开源模型下载破百亿",
-    "内容": "工信部在国新办发布会上披露2026年上半年软件业发展情况，我国人工智能开源大模型全球累计下载量已突破100亿次。在基础软件领域，OpenHarmony操作系统生态持续扩张，已覆盖手机、汽车、家电等终端，设备累计装机量超过13.5亿台，并衍生出超100款行业发行版。此外，我国工业软件应用深化，重点工业企业数字化研发设计工具普及率达86.3%。工信部表示，下一步将加快出台“人工智能+软件”行动方案，重点培育智能体软件新业态，并持续提升开源基础设施在供应链安全、海外市场落地等方面的能力。目前，国家级人工智能开源社区已汇聚超1100万用户，托管模型超过7万个，标志着中国开源生态已进入全栈构建与规模化应用的新阶段。",
+    "资讯标题": "谷歌正在研发代号Frozen v2的AI服务器芯片，预计2028年发布",
+    "内容": "谷歌母公司Alphabet正在研发代号为“Frozen v2”的新型AI服务器芯片，旨在提升Gemini模型的运行效率。该芯片预计于2028年推出，其单位能耗产生代币的效率有望达到现有芯片的6至10倍。谷歌官方回应称，公司持续探索创新技术以提升系统性能，强调通过硬件与软件协同的“全栈开发”模式，打造针对AI工作负载优化的计算系统。随着生成式AI算力需求激增，科技巨头纷纷布局自研芯片以降低对外部供应商依赖。此次Frozen v2的研发计划是Alphabet 1800亿至1900亿美元AI基础设施投资的重要组成部分。该进展反映了AI产业竞争已从模型能力延伸至芯片、基础设施及全栈技术体系的深度博弈，旨在通过提升芯片能效比，构建长期竞争优势并优化成本控制。",
     "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29725",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c8da635315c0b9d121af82fddf916dd5.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c8da635315c0b9d121af82fddf916dd5.jpg",
-    "配图仓库路径": "assets/news_images/c8da635315c0b9d121af82fddf916dd5.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151642405456_17.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29726",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1852f2441e292b932389d773dde75c97.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1852f2441e292b932389d773dde75c97.jpg",
+    "配图仓库路径": "assets/news_images/1852f2441e292b932389d773dde75c97.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202604171655124578_0.jpg"
   },
   {
-    "资讯标题": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-    "内容": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 20, 202636一行原本不该暴露商业机密的公开代码，把Anthropic的下一手芯片布局捅了出来。据芯片行业分析机构SemiAnalysis解读，AMD AI业务高级总监在GitHub上公开发布的代码里，明确留下了Anthropic将作为AMD客户的痕迹。这桩非官方、非媒体报道的泄露，指向一个清晰的信号：Anthropic正在主动拓宽芯片来源，把算力供应商从单一名单里解放出来。周一，SemiAnalysis在社交平台X上抛出分析帖，结论正来自对AMD那位高级总监公开代码的专业拆解——代码内容直接涉及Anthropic作为AMD客户的相关信息。",
+    "资讯标题": "微软宣布经典版 Outlook 将于今年内集成 Copilot AI 自动起草邮件功能",
+    "内容": "微软计划在2026年年底前，向Windows 10和Windows 11平台的经典版Outlook用户推送Copilot功能更新。此次更新的核心亮点在于引入AI起草电子邮件功能，持有相关许可证的用户可在写信框中一键唤醒Copilot，利用AI协助撰写新邮件或润色现有草稿。尽管微软长期引导用户向新版Outlook迁移，但此次为经典版追加AI功能，旨在让老用户也能享受智能化办公体验。此举标志着微软在维持经典版软件生命周期的同时，正加速将AI能力渗透至全系办公产品中。对于用户而言，该功能将显著提升邮件处理效率，但同时也可能改变部分传统用户的操作习惯，增加软件使用的复杂性。该策略能否平衡老用户习惯与智能化升级需求，仍需市场进一步检验。",
     "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29722",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5926909bba1125b1308c52c691359bd1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5926909bba1125b1308c52c691359bd1.jpg",
-    "配图仓库路径": "assets/news_images/5926909bba1125b1308c52c691359bd1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811200922100145_3.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29730",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/34dcebb69a3845be8404c5dd489778c5.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/34dcebb69a3845be8404c5dd489778c5.jpg",
+    "配图仓库路径": "assets/news_images/34dcebb69a3845be8404c5dd489778c5.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0721/6392022181082222748368483.png"
   },
   {
-    "资讯标题": "OpenAI发布AI时代记分卡，引入“有用智能每美元”衡量模型ROI",
-    "内容": "OpenAI于7月17日发布AI时代记分卡，提出“有用智能每美元”指标，旨在帮助企业评估AI投入的真实投资回报率（ROI）。该指标超越了传统的Token成本计算，强调通过模型完成任务的实际价值。OpenAI指出，企业应关注任务成功率、人工审核成本及模型推理效率。针对此逻辑，OpenAI推出GPT-5.6系列模型，包含Sol（旗舰）、Terra（平衡）与Luna（高效）三个层级，以适应不同工作流的经济性需求。在DeepSWE v1.1测试中，GPT-5.6 Sol在提升工程任务成功率至72.7%的同时，预估API成本降低了36.2%。OpenAI强调，衡量AI价值的核心在于：随着使用量增长，每一美元投入是否能产出更多高质量、可信赖的实际成果。此举旨在引导行业从关注Token单价转向关注AI在真实工作流中的产出效率",
+    "资讯标题": "xAI推出Grok For Excel插件，支持Microsoft 365数据分析与图表生成",
+    "内容": "xAI正式发布Grok For Excel插件，该免费Microsoft 365插件现已上线Microsoft Marketplace，并同步兼容Word与PowerPoint。用户在Excel中选中数据区域后，可直接调用Grok进行数据变动分析、原因溯源及亮点提取，Grok能引用具体单元格数据并支持公式语法，实现自动计算、排序及一键插入图表。该插件具备跨平台连接能力，可通过连接器从电子邮件、SharePoint或Google Drive提取上下文信息，将多源资料整合至当前分析中。此举将Grok从单一聊天界面延伸至办公套件，通过对话式AI简化了传统函数计算与手动制图流程，显著提升了办公场景下的数据处理效率与决策深度。",
     "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29713",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/34e91b0e607a318a17e195c23e79f215.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/34e91b0e607a318a17e195c23e79f215.jpg",
-    "配图仓库路径": "assets/news_images/34e91b0e607a318a17e195c23e79f215.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0720/6392014274866048544165506.png"
-  },
-  {
-    "资讯标题": "DeepSeek V4正式版实测曝光，或于下周一正式发布对标Kimi K3",
-    "内容": "DeepSeek V4正式版实测视频与演示已在社交平台曝光，预计最早于下周一正式发布。该模型在多项核心指标上表现强劲，实测性能初步达到Claude Opus 4.8水平，并在3D生成能力、Agent行为表现及编码稳健性方面显著提升。在特定游戏代码生成测试中，V4展现出极高性价比，生成3000行代码成本仅为0.12美元，性能表现甚至在部分测试中优于Fable 5与GPT-5.6。交互体验方面，V4优化了思维链（CoT）风格，输出逻辑更简洁，可读性大幅增强。行业分析认为，若V4能以极具竞争力的价格逼近顶流模型水准，将引发新一轮大模型价格战。目前官方尚未最终定档，但下周一的发布时间点符合此前7月中旬的预告节奏。",
-    "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29717",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a325057d23ea1649de77e544020d4b15.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a325057d23ea1649de77e544020d4b15.jpg",
-    "配图仓库路径": "assets/news_images/a325057d23ea1649de77e544020d4b15.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502051558207045_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29732",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
+    "配图仓库路径": "assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403290922581712_0.jpg"
   }
 ]
