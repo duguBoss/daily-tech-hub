@@ -1,42 +1,52 @@
 [
   {
-    "资讯标题": "阿里通义千问发布Qwen-Audio-3.0-TTS模型，支持20种方言及300ms首包延迟",
-    "内容": "阿里通义千问正式发布新一代实时语音合成模型Qwen-Audio-3.0-TTS，包含Flash与Plus双版本。其中Flash版主打实时交互，首包延迟低至300ms；Plus版在Artificial Analysis的Speech Arena榜单中位列全球第一。该模型支持16种语言及20种中文方言，Plus版在多语言说话人相似度上达82.75。核心能力包括：支持Free-style自然语言指令控制风格；提供细粒度标签控制呼吸、笑声等非语言细节；具备高噪声环境下的声学鲁棒性。模型支持48K高清音频输出，单次合成最长支持3分钟长文本。目前Qwen-Audio-3.0-TTS已在阿里云百炼平台全面开放，开发者可通过API接入，适用于智能助手、游戏及有声书等多种低延时与高质量生成场景。",
+    "资讯标题": "苹果 41 页诉状怒撕OpenAI，为何唯独放过了传奇设计师伊夫？",
+    "内容": "苹果 41 页诉状怒撕OpenAI，为何唯独放过了传奇设计师伊夫。AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 21, 202629苹果公司近日正式向法院提起诉讼，指控OpenAI及其硬件子公司通过挖角员工和获取内部文件等手段盗用商业机密。在长达 41 页的诉状中，多名前高管及核心工程师被点名控告，但令人意外的是，前首席设计师乔纳森·伊夫却并未出现在名单中。三重考量避开核心人物 知名科技记者马克·古尔曼对此进行了深度剖析，指出苹果未点名伊夫的首要原因是其关联性有限。伊夫虽然通过旗下设计公司参与了相关硬件项目，但他并不负责实际的招聘与日常运营工作。此外，深层的资金与人脉关系也是苹果选择回避的关键因素。",
     "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29724",
+    "原文链接": "https://www.aibase.com/zh/news/29731",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fe50c092f73e986615c3095491ff9a5f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fe50c092f73e986615c3095491ff9a5f.jpg",
+    "配图仓库路径": "assets/news_images/fe50c092f73e986615c3095491ff9a5f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201904261642427099_0.jpg"
+  },
+  {
+    "资讯标题": "算力飙升 10 倍！谷歌秘密研发Frozen芯片，Gemini大模型硬核升级",
+    "内容": "算力飙升 10 倍。谷歌秘密研发Frozen芯片，Gemini大模型硬核升级AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 21, 20264面对日益严峻的AI算力短缺压力，谷歌正在秘密研发一款代号为Frozen v2 的全新专用服务器芯片。该芯片的核心突破在于将Gemini大模型的底层计算逻辑直接固化在硬件之中，以此大幅提升芯片的运算效率。硬核架构重塑算力生态 据研发团队测算，Frozen v2 落地后的单位功耗处理性能将达到谷歌现役最新自研芯片的 6 至 10 倍。这种将软件算法直接蚀刻进硅片的设计，能够显著减少数据搬运和逻辑判断步骤，实现能效的质变。与英伟达GPU或谷歌TPU等通用芯片不同，这款专用芯片是专为Gemini架构量身打造的软硬一体化利器。",
+    "发布日期": "2026-07-21",
+    "原文链接": "https://www.aibase.com/zh/news/29741",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96103f79fa1d60a03f998162943de10e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96103f79fa1d60a03f998162943de10e.jpg",
+    "配图仓库路径": "assets/news_images/96103f79fa1d60a03f998162943de10e.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0721/6392022874172570457408737.png"
+  },
+  {
+    "资讯标题": "月之暗面回应马斯克2万亿参数模型挑战，邀请其加入2万亿+俱乐部",
+    "内容": "月之暗面近日公开回应马斯克关于2万亿参数模型的言论，正式邀请其加入“2万亿+俱乐部”。此前马斯克在社交平台表示，其旗下正在训练的2万亿参数模型在各方面均优于现有的1.5万亿参数版本（Grok 4.5），并有望在下周完成初步训练。马斯克强调，该模型在推理速度和Token效率上将保持领先。月之暗面此次回应正值其Kimi K3模型在开源榜单登顶之际，通过此举确立了自身在超大规模参数模型领域的行业门槛。目前，xAI尚未披露该2万亿参数模型的具体代号、完整技术指标及发布时间。此前7月9日，xAI已发布面向编程与智能体任务的Grok 4.5，该模型由xAI与Cursor联合训练，被马斯克定位为Opus级模型。随着Kimi K3的领先表现与马斯克新模型的研发推进，大模型领域的参数规模竞赛已进入2万亿参数量级的新阶段。",
+    "发布日期": "2026-07-21",
+    "原文链接": "https://www.aibase.com/zh/news/29733",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
+    "配图仓库路径": "assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604291619214186_0.jpg"
+  },
+  {
+    "资讯标题": "智谱AI建成1GW国产算力中心并收购中科加禾强化AI Infra能力",
+    "内容": "智谱AI近日完成1GW级国产AI算力数据中心建设，并正式收购国产AI异构算力软件企业中科加禾（XCore Sigma）。此次布局涵盖了AI产业链的“算力供给”与“算力释放”核心环节。1GW级算力中心采用全国产AI芯片，旨在为大规模模型训练提供稳定算力底座；中科加禾源自中科院计算所编译实验室，深耕异构算力软件栈、编译优化及推理基础设施，其加入将显著增强智谱在国产芯片适配、算力调度及模型部署优化方面的工程能力。通过整合中科加禾的编译器、Runtime及推理引擎技术，智谱旨在提升硬件利用率并降低模型推理成本。这一动作标志着智谱正加速构建从底层硬件到基础软件的全栈AI基础设施体系，以应对大模型竞争向工程化与自主可控方向演进的趋势，为其下一代基础模型的参数扩展与高效部署提供支撑。",
+    "发布日期": "2026-07-21",
+    "原文链接": "https://www.aibase.com/zh/news/29736",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
+    "配图仓库路径": "assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606031120440878_0.jpg"
+  },
+  {
+    "资讯标题": "千问发布语音合成大模型Qwen-Audio-3.0-TTS，支持自然语言指令控制",
+    "内容": "7月20日，千问正式发布语音合成大模型Qwen-Audio-3.0-TTS，通过Free-style自然语言指令控制技术，使用户无需繁琐参数配置，仅凭自然语言描述即可精准控制语音的语气、节奏与风格。该模型针对不同场景提供双版本：Flash版本主打实时交互，首包延迟压至300毫秒以内，适用于语音助手等低延迟场景；Plus版本则聚焦高质量生成，旨在满足有声书、配音及内容创作等对音质与表现力有极高要求的任务。Qwen-Audio-3.0-TTS的推出，标志着语音合成技术从复杂的工程化参数调优向自然语言交互范式转型，大幅降低了专业语音创作的门槛，同时在实时响应与细腻音质之间实现了性能平衡，为行业应用提供了更灵活的语音合成解决方案。",
+    "发布日期": "2026-07-21",
+    "原文链接": "https://www.aibase.com/zh/news/29739",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
     "配图仓库路径": "assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007232048_2.jpg"
-  },
-  {
-    "资讯标题": "谷歌正在研发代号Frozen v2的AI服务器芯片，预计2028年发布",
-    "内容": "谷歌母公司Alphabet正在研发代号为“Frozen v2”的新型AI服务器芯片，旨在提升Gemini模型的运行效率。该芯片预计于2028年推出，其单位能耗产生代币的效率有望达到现有芯片的6至10倍。谷歌官方回应称，公司持续探索创新技术以提升系统性能，强调通过硬件与软件协同的“全栈开发”模式，打造针对AI工作负载优化的计算系统。随着生成式AI算力需求激增，科技巨头纷纷布局自研芯片以降低对外部供应商依赖。此次Frozen v2的研发计划是Alphabet 1800亿至1900亿美元AI基础设施投资的重要组成部分。该进展反映了AI产业竞争已从模型能力延伸至芯片、基础设施及全栈技术体系的深度博弈，旨在通过提升芯片能效比，构建长期竞争优势并优化成本控制。",
-    "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29726",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1852f2441e292b932389d773dde75c97.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1852f2441e292b932389d773dde75c97.jpg",
-    "配图仓库路径": "assets/news_images/1852f2441e292b932389d773dde75c97.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202604171655124578_0.jpg"
-  },
-  {
-    "资讯标题": "微软宣布经典版 Outlook 将于今年内集成 Copilot AI 自动起草邮件功能",
-    "内容": "微软计划在2026年年底前，向Windows 10和Windows 11平台的经典版Outlook用户推送Copilot功能更新。此次更新的核心亮点在于引入AI起草电子邮件功能，持有相关许可证的用户可在写信框中一键唤醒Copilot，利用AI协助撰写新邮件或润色现有草稿。尽管微软长期引导用户向新版Outlook迁移，但此次为经典版追加AI功能，旨在让老用户也能享受智能化办公体验。此举标志着微软在维持经典版软件生命周期的同时，正加速将AI能力渗透至全系办公产品中。对于用户而言，该功能将显著提升邮件处理效率，但同时也可能改变部分传统用户的操作习惯，增加软件使用的复杂性。该策略能否平衡老用户习惯与智能化升级需求，仍需市场进一步检验。",
-    "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29730",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/34dcebb69a3845be8404c5dd489778c5.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/34dcebb69a3845be8404c5dd489778c5.jpg",
-    "配图仓库路径": "assets/news_images/34dcebb69a3845be8404c5dd489778c5.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0721/6392022181082222748368483.png"
-  },
-  {
-    "资讯标题": "xAI推出Grok For Excel插件，支持Microsoft 365数据分析与图表生成",
-    "内容": "xAI正式发布Grok For Excel插件，该免费Microsoft 365插件现已上线Microsoft Marketplace，并同步兼容Word与PowerPoint。用户在Excel中选中数据区域后，可直接调用Grok进行数据变动分析、原因溯源及亮点提取，Grok能引用具体单元格数据并支持公式语法，实现自动计算、排序及一键插入图表。该插件具备跨平台连接能力，可通过连接器从电子邮件、SharePoint或Google Drive提取上下文信息，将多源资料整合至当前分析中。此举将Grok从单一聊天界面延伸至办公套件，通过对话式AI简化了传统函数计算与手动制图流程，显著提升了办公场景下的数据处理效率与决策深度。",
-    "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29732",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "配图仓库路径": "assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403290922581712_0.jpg"
   }
 ]
