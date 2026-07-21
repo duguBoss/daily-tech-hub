@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "苹果 41 页诉状怒撕OpenAI，为何唯独放过了传奇设计师伊夫？",
-    "内容": "苹果 41 页诉状怒撕OpenAI，为何唯独放过了传奇设计师伊夫。AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 21, 202629苹果公司近日正式向法院提起诉讼，指控OpenAI及其硬件子公司通过挖角员工和获取内部文件等手段盗用商业机密。在长达 41 页的诉状中，多名前高管及核心工程师被点名控告，但令人意外的是，前首席设计师乔纳森·伊夫却并未出现在名单中。三重考量避开核心人物 知名科技记者马克·古尔曼对此进行了深度剖析，指出苹果未点名伊夫的首要原因是其关联性有限。伊夫虽然通过旗下设计公司参与了相关硬件项目，但他并不负责实际的招聘与日常运营工作。此外，深层的资金与人脉关系也是苹果选择回避的关键因素。",
-    "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29731",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fe50c092f73e986615c3095491ff9a5f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fe50c092f73e986615c3095491ff9a5f.jpg",
-    "配图仓库路径": "assets/news_images/fe50c092f73e986615c3095491ff9a5f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201904261642427099_0.jpg"
+    "资讯标题": "阿里将推出千问办公产品，整合QoderWork等三款智能体布局市场",
+    "内容": "阿里计划推出“千问办公”产品，并已完成对旗下QoderWork、悟空、MuleRun三款智能体（Agent）的整合，旨在加速企业办公场景的AI应用落地。该业务由钉钉新任CEO陈宇森负责，整合工作于7月初启动。产品规划上，千问办公将以QoderWork为核心基础，利用其目前较大的用户规模与市场反馈优势，统一承载办公智能体功能。相比传统办公软件，Agent产品具备理解需求、自主执行任务及调用工具的能力，可完成文档处理、信息整理及流程自动化等复杂工作。此次整合标志着阿里正集中资源打造统一的AI办公入口，未来将依托阿里云、钉钉及千问大模型生态，在企业级AI应用市场构建差异化竞争优势。",
+    "发布日期": "2026-07-22",
+    "原文链接": "https://www.aibase.com/zh/news/29756",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ceebdfcbec3ff731e17fdaba0c48808e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ceebdfcbec3ff731e17fdaba0c48808e.jpg",
+    "配图仓库路径": "assets/news_images/ceebdfcbec3ff731e17fdaba0c48808e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007244729_5.jpg"
   },
   {
-    "资讯标题": "算力飙升 10 倍！谷歌秘密研发Frozen芯片，Gemini大模型硬核升级",
-    "内容": "算力飙升 10 倍。谷歌秘密研发Frozen芯片，Gemini大模型硬核升级AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 21, 20264面对日益严峻的AI算力短缺压力，谷歌正在秘密研发一款代号为Frozen v2 的全新专用服务器芯片。该芯片的核心突破在于将Gemini大模型的底层计算逻辑直接固化在硬件之中，以此大幅提升芯片的运算效率。硬核架构重塑算力生态 据研发团队测算，Frozen v2 落地后的单位功耗处理性能将达到谷歌现役最新自研芯片的 6 至 10 倍。这种将软件算法直接蚀刻进硅片的设计，能够显著减少数据搬运和逻辑判断步骤，实现能效的质变。与英伟达GPU或谷歌TPU等通用芯片不同，这款专用芯片是专为Gemini架构量身打造的软硬一体化利器。",
-    "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29741",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96103f79fa1d60a03f998162943de10e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96103f79fa1d60a03f998162943de10e.jpg",
-    "配图仓库路径": "assets/news_images/96103f79fa1d60a03f998162943de10e.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0721/6392022874172570457408737.png"
+    "资讯标题": "阿里发布Qwen-Image-3.0模型，支持4.5K Token超长输入与复杂图文生成",
+    "内容": "阿里正式发布新一代图像生成基础模型Qwen-Image-3.0，该模型支持最高4.5K Token超长文本输入，较上一代提升4.5倍。Qwen-Image-3.0在复杂图文生成方面表现显著，可一次性生成包含公式符号、几何图形、逻辑推导及多层UI界面的内容，并原生支持12种语言和20余款字体渲染。在应用层面，该模型强化了语义解析与空间布局能力，能够精准处理影视分镜、知识图解及多层视觉元素组合，即使是约10像素的小字号文字也能保持清晰。官方表示，该模型重点优化了高密度信息承载与复杂图文混排能力，在人像摄影、数学试卷及商业界面设计等场景中具备更强的细节还原度。Qwen-Image-3.0的推出旨在满足专业设计与商业内容生产对高精度、多语言及工程化能力的需求，通过支持长提示词输入，用户无需压缩需求即可完整描述画面结构与",
+    "发布日期": "2026-07-22",
+    "原文链接": "https://www.aibase.com/zh/news/29753",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b4526039474b0907e1a75b7ed90b2705.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b4526039474b0907e1a75b7ed90b2705.jpg",
+    "配图仓库路径": "assets/news_images/b4526039474b0907e1a75b7ed90b2705.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0721/6392024378399295427931475.jpg"
   },
   {
-    "资讯标题": "月之暗面回应马斯克2万亿参数模型挑战，邀请其加入2万亿+俱乐部",
-    "内容": "月之暗面近日公开回应马斯克关于2万亿参数模型的言论，正式邀请其加入“2万亿+俱乐部”。此前马斯克在社交平台表示，其旗下正在训练的2万亿参数模型在各方面均优于现有的1.5万亿参数版本（Grok 4.5），并有望在下周完成初步训练。马斯克强调，该模型在推理速度和Token效率上将保持领先。月之暗面此次回应正值其Kimi K3模型在开源榜单登顶之际，通过此举确立了自身在超大规模参数模型领域的行业门槛。目前，xAI尚未披露该2万亿参数模型的具体代号、完整技术指标及发布时间。此前7月9日，xAI已发布面向编程与智能体任务的Grok 4.5，该模型由xAI与Cursor联合训练，被马斯克定位为Opus级模型。随着Kimi K3的领先表现与马斯克新模型的研发推进，大模型领域的参数规模竞赛已进入2万亿参数量级的新阶段。",
-    "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29733",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "配图仓库路径": "assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604291619214186_0.jpg"
+    "资讯标题": "谷歌DeepMind发布GenCeption模型，实现单一模型处理五大视觉任务",
+    "内容": "谷歌DeepMind近日发布GenCeption模型，该模型基于阿里巴巴通义万相Wan2.1框架训练，实现了从视频生成AI向视觉分析引擎的跨越。GenCeption打破了传统视觉任务独立处理的局限，仅凭单一模型即可同时完成深度估计、图像分割、3D姿态估计等五项核心视觉任务，且支持通过文本提示输出深度图、分割掩码及相机运动轨迹。在训练层面，该模型仅使用约7500段Blender渲染的单人合成视频，却展现出极强的泛化能力，可处理真实世界的多人视频及动物、机器人场景。性能方面，小模型处理81帧视频仅需约6秒，140亿参数版本耗时约10秒，在细节还原上能清晰保留发丝与猫胡须等边缘信息。该技术通过一次前向传播即可完成预测，大幅提升了视觉分析的处理效率，为多任务视觉理解提供了高效的通用化解决方案。",
+    "发布日期": "2026-07-22",
+    "原文链接": "https://www.aibase.com/zh/news/29765",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/756187f52c20dc568528dae0fabc0650.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/756187f52c20dc568528dae0fabc0650.jpg",
+    "配图仓库路径": "assets/news_images/756187f52c20dc568528dae0fabc0650.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0721/6392025231391812964421531.png"
   },
   {
-    "资讯标题": "智谱AI建成1GW国产算力中心并收购中科加禾强化AI Infra能力",
-    "内容": "智谱AI近日完成1GW级国产AI算力数据中心建设，并正式收购国产AI异构算力软件企业中科加禾（XCore Sigma）。此次布局涵盖了AI产业链的“算力供给”与“算力释放”核心环节。1GW级算力中心采用全国产AI芯片，旨在为大规模模型训练提供稳定算力底座；中科加禾源自中科院计算所编译实验室，深耕异构算力软件栈、编译优化及推理基础设施，其加入将显著增强智谱在国产芯片适配、算力调度及模型部署优化方面的工程能力。通过整合中科加禾的编译器、Runtime及推理引擎技术，智谱旨在提升硬件利用率并降低模型推理成本。这一动作标志着智谱正加速构建从底层硬件到基础软件的全栈AI基础设施体系，以应对大模型竞争向工程化与自主可控方向演进的趋势，为其下一代基础模型的参数扩展与高效部署提供支撑。",
-    "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29736",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
-    "配图仓库路径": "assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606031120440878_0.jpg"
+    "资讯标题": "具身智能企业智元机器人启动IPO计划，目标估值达200亿美元",
+    "内容": "具身智能企业智元机器人正以约200亿美元估值推进IPO计划，并已聘请中信证券担任辅导券商，预计2026年全年营收将达40亿元。在2026世界人工智能大会（WAIC）期间，智元发布了基于“三智一体”架构的五款新品，包括远征A3Ultra、精灵G2Max、灵犀X2EDU版本、临界点OmniHand3Ultra-M以及全球首个骑行机器人酷拓，并同步展示了具身智能基座模型及多场景部署案例。智元此次资本运作与产品矩阵扩充，标志着其从单一硬件研发向“模型+本体+生态”的综合布局转型，旨在加速规模化商业落地。若IPO顺利推进，将对国内具身智能行业的融资环境及产业化进程产生积极推动作用，进一步验证具身智能作为AI产业核心竞争方向的商业潜力。",
+    "发布日期": "2026-07-22",
+    "原文链接": "https://www.aibase.com/zh/news/29764",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8cc6c0b9d40e1bf254580aa1c41d0cea.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8cc6c0b9d40e1bf254580aa1c41d0cea.jpg",
+    "配图仓库路径": "assets/news_images/8cc6c0b9d40e1bf254580aa1c41d0cea.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271614181718_0.jpg"
   },
   {
-    "资讯标题": "千问发布语音合成大模型Qwen-Audio-3.0-TTS，支持自然语言指令控制",
-    "内容": "7月20日，千问正式发布语音合成大模型Qwen-Audio-3.0-TTS，通过Free-style自然语言指令控制技术，使用户无需繁琐参数配置，仅凭自然语言描述即可精准控制语音的语气、节奏与风格。该模型针对不同场景提供双版本：Flash版本主打实时交互，首包延迟压至300毫秒以内，适用于语音助手等低延迟场景；Plus版本则聚焦高质量生成，旨在满足有声书、配音及内容创作等对音质与表现力有极高要求的任务。Qwen-Audio-3.0-TTS的推出，标志着语音合成技术从复杂的工程化参数调优向自然语言交互范式转型，大幅降低了专业语音创作的门槛，同时在实时响应与细腻音质之间实现了性能平衡，为行业应用提供了更灵活的语音合成解决方案。",
-    "发布日期": "2026-07-21",
-    "原文链接": "https://www.aibase.com/zh/news/29739",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
-    "配图仓库路径": "assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007232048_2.jpg"
+    "资讯标题": "OpenAI前CTO穆拉蒂发布Inkling模型：沿用DeepSeek架构并借力Kimi数据",
+    "内容": "7月15日，OpenAI前CTO穆拉蒂创办的Thinking Machines Lab发布首款开源模型Inkling。该模型采用混合专家架构，总参数量9750亿，支持100万Token上下文。技术报告显示，Inkling直接沿用了DeepSeek-V3的架构设计，并在后训练阶段使用了Kimi K2.5的合成数据。尽管Inkling在多项基准评测（如SWE-Bench Pro、Terminal Bench 2.1）中表现不及Kimi K2.6与GLM 5.2，且调用价格更高，但其采用Apache 2.0许可证，支持私有部署与定制。分析认为，Inkling旨在为受合规与监管压力影响的美国企业提供替代方案，通过提供“美国制造”的合规确定性，填补企业在敏感业务中无法使用中国模型的技术空白。此举反映出中国开放模型已成为美",
+    "发布日期": "2026-07-22",
+    "原文链接": "https://www.aibase.com/zh/news/29763",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
+    "配图仓库路径": "assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558199227_0.jpg"
   }
 ]
