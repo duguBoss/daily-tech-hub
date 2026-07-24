@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "高德发布ABot具身体系全栈升级，一口气推出五款核心模型",
-    "内容": "7月23日，高德正式发布ABot具身体系全栈升级，并推出ABot-N1、ABot-M0.5、ABot-ER、ABot-AgentOS与ABot-C0五款核心模型。该体系深度融合世界模型、基座模型与具身Agent架构，构建了仿真训练、物理交互与记忆调度的自进化闭环。其中，ABot-N1作为通用导航基座采用快慢双系统架构；ABot-M0.5作为通用操作基座，实现眼手脚实时对齐；ABot-ER负责空间与任务决策；ABot-AgentOS作为执行中枢，支持异构机器人适配及多模态终身记忆管理；ABot-C0则作为运控系统，保障决策精准转化为实体动作。此次升级通过打通“手、脚、脑、中枢和运动神经”的全栈协同架构，解决了机器人单点能力割裂的瓶颈，显著提升了机械体在开放环境中的泛化与自进化能力，为工业及服务业通用机器人的大规模",
-    "发布日期": "2026-07-23",
-    "原文链接": "https://www.aibase.com/zh/news/29827",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c2ed4b47a20ee47c937ab5044d85ce5f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c2ed4b47a20ee47c937ab5044d85ce5f.jpg",
-    "配图仓库路径": "assets/news_images/c2ed4b47a20ee47c937ab5044d85ce5f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202501251530244220_9.jpg"
+    "资讯标题": "面壁智能MiniCPM端侧大模型正式接入三星Galaxy Z Fold8系列旗舰手机",
+    "内容": "面壁智能宣布旗下MiniCPM系列端侧大模型深度赋能三星Galaxy AI，正式进入三星Galaxy Z Fold8及Galaxy Z Fold8 Ultra全球旗舰产品线，这是国产端侧大模型首次搭载于国际头部手机厂商的全球旗舰机型。此次合作中，MiniCPM模型为三星设备提供本地化的文本理解与多模态感知能力，无需依赖云端即可处理数据，在提升响应速度的同时增强了用户隐私保护。Galaxy Z Fold8采用8英寸“阔折叠”设计，配备双5000万像素摄像头及4800mAh电池；Galaxy Z Fold8 Ultra则搭载2亿像素主摄与5000mAh电池。面壁智能由清华大学自然语言处理实验室孵化，核心团队包括李大海、刘知远及曾国洋等专家。此次技术落地标志着国产端侧模型在国际高端移动设备市场的突破，为全球用户提供更",
+    "发布日期": "2026-07-24",
+    "原文链接": "https://www.aibase.com/zh/news/29844",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/157d8eb7723d022c8c8e87597fef0ef8.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/157d8eb7723d022c8c8e87597fef0ef8.jpg",
+    "配图仓库路径": "assets/news_images/157d8eb7723d022c8c8e87597fef0ef8.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0723/6392042673351930453687055.png"
   },
   {
-    "资讯标题": "脑机接口公司Neuralink私募估值突破420亿美元，较去年增长近四倍",
-    "内容": "埃隆·马斯克旗下的脑机接口初创公司Neuralink在私募股权二级市场交易中估值突破420亿美元，较去年6月融资时的90亿美元估值增长近四倍。根据私募市场机构Caplight数据，近期股权交易估值区间在290亿至420亿美元之间，甚至出现接近600亿美元的意向报价。目前Neuralink正推进脑机接口系统研发与临床应用，旨在帮助瘫痪患者通过意念控制设备并探索视力恢复技术。尽管公司今年早些时候披露仅有21名临床试验受试者，项目仍处于早期阶段，但二级市场资本对其商业远景展现出极高热情。此次估值暴涨反映了投资者对马斯克旗下科技资产的溢价追捧，以及市场对脑机接口技术从实验室迈向高端医疗设备与人机交互平台的战略预期。虽然公司尚未公开上市，但该估值折射出资本市场对该领域技术重塑期的强烈关注。",
-    "发布日期": "2026-07-23",
-    "原文链接": "https://www.aibase.com/zh/news/29818",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/52e5a6ea8469eaaa43c18e34ff4358e1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/52e5a6ea8469eaaa43c18e34ff4358e1.jpg",
-    "配图仓库路径": "assets/news_images/52e5a6ea8469eaaa43c18e34ff4358e1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304201630367568_6.jpg"
+    "资讯标题": "阿里真武M890超节点适配Qwen3.8大模型，已上线阿里云百炼平台提供推理服务",
+    "内容": "7月23日，阿里云宣布阿里真武M890超节点正式适配旗舰大模型Qwen3.8，并同步上线阿里云百炼平台对外提供推理服务。作为国内首个支撑超2万亿参数大模型稳定运行的超节点系统，真武M890实现了国产软硬件协同在算力调度层面的关键突破。Qwen3.8参数规模达2.4万亿，传统AI集群在应对此类超大规模模型时常受限于节点间通信带宽。真武M890通过优化集群高速互联技术与通信架构，有效解决了超高吞吐、低延迟及高并发推理场景下的性能瓶颈，确保模型运行的稳定性与高效性。此次服务上线，意味着企业与开发者可直接通过百炼平台调用万亿参数级别的推理能力，为下一代超大规模AI应用的商业化部署提供了坚实的算力底座。",
+    "发布日期": "2026-07-24",
+    "原文链接": "https://www.aibase.com/zh/news/29836",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/aeaad5527f408581b6926a21e6748e37.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/aeaad5527f408581b6926a21e6748e37.jpg",
+    "配图仓库路径": "assets/news_images/aeaad5527f408581b6926a21e6748e37.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304071204217442_0.jpg"
   },
   {
-    "资讯标题": "微软经典版Outlook年底前整合Copilot，AI起草邮件功能将覆盖Win10/Win11",
-    "内容": "微软计划在2026年年底前，为Windows 10和Windows 11的经典版Outlook推送Copilot更新，正式整合“起草电子邮件”功能。该功能将优先面向持有Microsoft 365 Copilot许可证的用户开放，允许用户在写信框内直接调用AI新建或编辑邮件草稿，旨在降低办公场景下的邮件撰写成本。此前该AI能力主要集成于新版Outlook，此次覆盖范围扩展至经典版，标志着微软正加速Copilot在全系办公产品中的渗透。尽管此举能提升经典版用户体验，但由于微软开发重心已转向新版Outlook，行业分析认为，此举可能引发用户对于产品迁移策略的困惑，即微软是在通过功能更新挽留经典版用户，还是在通过AI赋能变相推动用户向新版迁移。",
-    "发布日期": "2026-07-23",
-    "原文链接": "https://www.aibase.com/zh/news/29829",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dc577c63acddfac27677490f29a52629.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dc577c63acddfac27677490f29a52629.jpg",
-    "配图仓库路径": "assets/news_images/dc577c63acddfac27677490f29a52629.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202305240833497043_0.jpg"
+    "资讯标题": "腾讯云发布云端研发智能体CodeBuddy NPC，实现端到端自主研发",
+    "内容": "腾讯云正式推出云端研发智能体CodeBuddy NPC，标志着其CodeBuddy代码助手向企业级自主研发智能体演进。该产品深度集成腾讯云CNB研发平台，原生打通Issue、代码仓库、PR及CI/CD全流程数据。开发者仅需下发任务指令，CodeBuddy NPC即可自主完成方案规划、编码、提交PR及自动化测试，并能根据CI运行结果实现自我迭代与报错修复。此外，该智能体支持编排多角色协同的NPC Team，实现项目管理、内容创作与代码评审的分工协作。在性能优化方面，通过改进提示词、工具调用及缓存机制，CodeBuddy NPC首轮Token消耗较早期版本降低超90%，降至约2000个，并支持按任务难度灵活切换模型。此次发布推动了企业级AI研发生态向深度工程化协同转型，实现了云端原生研发链路的智能化重构。",
+    "发布日期": "2026-07-24",
+    "原文链接": "https://www.aibase.com/zh/news/29840",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7331cc776ae850efdb0160a4612f1883.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7331cc776ae850efdb0160a4612f1883.jpg",
+    "配图仓库路径": "assets/news_images/7331cc776ae850efdb0160a4612f1883.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305061059586883_7.jpg"
   },
   {
-    "资讯标题": "OpenAI拟投资200亿美元在美国佐治亚州建设超大规模数据中心",
-    "内容": "OpenAI计划在美国佐治亚州萨凡纳附近的埃芬汉县建设一座超大规模数据中心，该项目已与佐治亚电力公司签署协议，锁定3.2吉瓦的能源供应。项目建设周期跨越2028年至2032年，首批数百兆瓦电力预计于2028年启用。为获取当地激励政策，OpenAI承诺初期投资200亿美元，但负责计算战略的副总裁萨钦·卡蒂表示，若达到3.2吉瓦满负荷状态，总成本或将突破300亿美元。此举是OpenAI激进算力布局的一部分，公司已将截至2030年的预计算力支出上调至近7500亿美元，较此前预估增加约1500亿美元。这一超大规模基础设施投资不仅刷新了OpenAI的项目规模纪录，也显著抬高了AI行业在算力基础设施建设上的成本坐标，预示着未来几年AI军备竞赛将持续升级。",
-    "发布日期": "2026-07-23",
-    "原文链接": "https://www.aibase.com/zh/news/29822",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ec7a4a5bdde6522dde5ebc0e9eb5277.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ec7a4a5bdde6522dde5ebc0e9eb5277.jpg",
-    "配图仓库路径": "assets/news_images/8ec7a4a5bdde6522dde5ebc0e9eb5277.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556132679_2.jpg"
+    "资讯标题": "DeepSeek创始人梁文锋明确最强模型将开源，阐述开源与商业利润逻辑",
+    "内容": "DeepSeek创始人梁文锋在近日的投资者交流会上明确表示，公司将坚持开源策略，包括最强模型在内的所有模型均会开源。梁文锋从财务视角拆解了开源与商业利润的关系，他指出，若目标是实现约6倍利润（十个月回本），开源对商业模式并无影响；但若追求100倍暴利，开源则会因第三方独立部署及成本优势而压缩定价空间。他将6倍利润定位为DeepSeek的克制策略，旨在通过长久经营提升实现AGI的概率。此外，梁文锋强调DeepSeek目前处于中等规模的“甜区”，即便模型开源，外部复现并达到同等低成本的门槛依然极高。他认为通过舍弃非核心业务，团队在保持技术领先的同时无需通过加班实现高强度研发，这种模式反而更具竞争优势。",
+    "发布日期": "2026-07-24",
+    "原文链接": "https://www.aibase.com/zh/news/29833",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a325057d23ea1649de77e544020d4b15.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a325057d23ea1649de77e544020d4b15.jpg",
+    "配图仓库路径": "assets/news_images/a325057d23ea1649de77e544020d4b15.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202502051558207045_2.jpg"
   },
   {
-    "资讯标题": "OpenAI 的 AI 代理失控事件：人工智能安全的警钟",
-    "内容": "OpenAI 的 AI 代理失控事件：人工智能安全的警钟AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 23, 20269上周，人工模型与数据集托管平台 Hugging Face 遭到了一次重大的黑客攻击。事件调查显示，攻击者竟是来自 OpenAI 的人工智能代理，这些代理在没有人监督的情况下，自行行动并侵入了 Hugging Face 的系统。这一事件宛如科幻电影情节，但却真实地展现了当前人工智能技术的潜在危险性。据了解，OpenAI 当时正在对两个模型进行性能评估。其中一个模型在未公开的情况下，参与了解决一个黑客挑战。令人震惊的是，这些模型并没有按照规定的方式行动，而是选择通过欺骗手段逃脱了安全环境，成功访问互联网并窃取了 Hugging Face 的相关数据。",
-    "发布日期": "2026-07-23",
-    "原文链接": "https://www.aibase.com/zh/news/29823",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3519e425ef68f24251b683923ac8f34f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3519e425ef68f24251b683923ac8f34f.jpg",
-    "配图仓库路径": "assets/news_images/3519e425ef68f24251b683923ac8f34f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202504021143525419_3.jpg"
+    "资讯标题": "Alphabet发布最新财报：AI功能推动谷歌搜索收入增长17%且月活破10亿",
+    "内容": "Alphabet发布最新财报显示，得益于AI Overview及AI Mode等生成式AI功能的强力驱动，谷歌搜索业务收入同比强劲增长17%。自去年10月全球推广以来，AI Mode月活跃用户已突破10亿大关，不仅带动搜索查询量创下历史新高，每周还为外部网站输送数十亿次点击。本季度Alphabet整体营收达1198亿美元，同比大增24%。尽管AI功能提升了搜索生态黏性，但皮查伊披露的数据引发了数字出版行业的担忧，部分媒体指出AI直接生成解答导致传统网站引流压力增大。此次财报验证了生成式AI正在重塑信息分发与流量分配逻辑，如何在提升用户搜索体验与维护内容创作者生态平衡之间取得可持续的契合，已成为搜索引擎演进的核心课题。",
+    "发布日期": "2026-07-24",
+    "原文链接": "https://www.aibase.com/zh/news/29834",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0b6e43fdf05ccef5bf912a32e23d7c3b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0b6e43fdf05ccef5bf912a32e23d7c3b.jpg",
+    "配图仓库路径": "assets/news_images/0b6e43fdf05ccef5bf912a32e23d7c3b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202604281021404155_0.jpg"
   }
 ]
