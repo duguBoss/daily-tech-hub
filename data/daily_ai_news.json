@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌CEO皮查伊确认下一代前沿模型Gemini 4已正式投入训练",
-    "内容": "谷歌CEO桑达尔·皮查伊在2026年第二季度财报电话会议上正式确认，下一代前沿模型Gemini 4已投入训练，谷歌为此投入了极大规模的计算资源。按照过往发布节奏，外界预计该模型有望于今年11月或12月正式亮相。面对分析师关于行业竞争的提问，皮查伊坦言谷歌在编程和智能体（Agent）领域仍存在短板，目前团队正高度聚焦这些关键方向。Gemini 4被视为谷歌缩小技术差距、重回行业领先地位的关键一役。皮查伊对目前的训练进展表示欣喜，并强调该模型将通过提升用户体验来回应市场关切。随着Anthropic的Claude系列在编程赛道持续领先以及OpenAI的加速迭代，Gemini 4的发布将成为2026年AI大模型领域的收官之战，其性能表现将直接决定谷歌在模型迭代竞争中的话语权。",
+    "资讯标题": "英伟达拟向Ilya Sutskever创办的SSI投资50亿美元深化AI算力合作",
+    "内容": "英伟达计划向OpenAI联合创始人Ilya Sutskever创立的Safe Superintelligence Inc.(SSI)投资50亿美元，双方已达成长期合作协议。此次合作标志着英伟达在深入了解SSI研发进展后进行的重大战略布局，旨在通过提供旗舰GPU硬件，将SSI的AI训练算力规模提升一个数量级。SSI此前主要依赖谷歌TPU进行模型训练，此次引入英伟达GPU资源，将显著增强其在基础模型训练及安全超级智能研发方面的算力支撑。SSI成立于2024年，专注于开发“安全超级智能”，此前估值已达320亿美元。此次投资不仅体现了英伟达从单一芯片供应商向AI生态核心投资者转型的战略意图，也反映了当前大模型竞争已进入算力、人才与基础设施的综合博弈阶段。通过加码SSI，英伟达进一步巩固了其在下一代人工智能技术路线中的基",
     "发布日期": "2026-07-28",
-    "原文链接": "https://www.aibase.com/zh/news/29906",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5660ecce34ff1d5cc899ef55ac4fa9a7.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5660ecce34ff1d5cc899ef55ac4fa9a7.jpg",
-    "配图仓库路径": "assets/news_images/5660ecce34ff1d5cc899ef55ac4fa9a7.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202312070835429226_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29931",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
   },
   {
-    "资讯标题": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-    "内容": "蚂蚁百灵于7月24日正式发布新一代原生混合推理模型Ling-3.0-Flash。该模型总参数量124B，单次计算激活5.1B，通过底层架构创新实现高“智效比”。技术上，模型采用混合注意力架构，以5:1比例交替堆叠KDA线性注意力层与MLA层，并将Lightning Attention升级为KDA，引入细粒度对角门控以提升长文档记忆精度。此外，每个Token的专家激活比例压缩至1/64，显著降低算力开销。针对Agent场景，Ling-3.0-Flash扩展了超10000个真实交互训练环境，优化了自我纠错与长程规划机制。工程侧引入集群级分级缓存，使长输入首字响应延迟降低60%至80%以上，并配套多智能体协同架构以提升任务稳定性。该模型已上线OpenRouter并限时免费一周，后续将正式开源，旨在为高频线上服务与复杂",
+    "资讯标题": "月之暗面正式开源Kimi K3模型权重，参数规模达2.8万亿",
+    "内容": "月之暗面正式将Kimi K3完整模型权重上传至Hugging Face，并同步发布技术报告。该模型总参数量为2.8万亿，激活参数1040亿，支持100万token上下文，成为全球首个进入3万亿参数级别的开放权重模型。K3在Artificial Analysis智能指数中位列全球第三，并在前端编程竞技场Arena以1679分登顶。随权重发布的Kimi K3 License包含特殊商业条款：年收入超2000万美元的第三方推理或微调服务商需另签协议，月活超1亿或月收入超2000万美元的产品须标注“Kimi K3”。API定价为每百万token输入3美元、输出15美元。此举标志着中国头部模型公司首次在开源协议中对云厂商商业化行为进行明确限制，旨在平衡技术开放与商业利益。",
     "发布日期": "2026-07-28",
-    "原文链接": "https://www.aibase.com/zh/news/29907",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4ee58b827e9b7c6b82d5c832d4dd7a43.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4ee58b827e9b7c6b82d5c832d4dd7a43.jpg",
-    "配图仓库路径": "assets/news_images/4ee58b827e9b7c6b82d5c832d4dd7a43.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0727/6392076260376006868930802.png"
+    "原文链接": "https://www.aibase.com/zh/news/29926",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
+    "配图仓库路径": "assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405240907574564_1.jpg"
   },
   {
-    "资讯标题": "腾讯企业微信AI智能助理“大圆”开启内测，支持一键总结群聊与生成周报",
-    "内容": "腾讯正式开启企业微信AI智能助理“大圆”的内测。该助理深度集成于企业微信生态，手机端通过侧边把手左滑唤起，电脑端则位于左侧边栏，无需切换应用即可使用。在核心功能方面，“大圆”具备“爬楼”能力，能自动提炼99+未读消息重点、总结语音内容并生成待办事项。在办公自动化场景下，它可调用智能文档、表格、会议及日程等数十项原生能力。用户仅需输入指令，系统即可自动检索历史消息、文档与邮件，梳理项目进展并生成周报初稿。此次更新标志着企业微信从通讯协作工具向AI驱动的智能办公中枢转型，通过减少跨应用切换摩擦，旨在提升企业内部信息处理效率与工作流自动化水平。",
+    "资讯标题": "小米MiMo-V2. 5 登顶全球AI大模型调用量榜，周调用量突破10. 5 万亿Token",
+    "内容": "小米MiMo-V2. 5 登顶全球AI大模型调用量榜，周调用量突破10. 5 万亿TokenAIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 28, 202618小米集团近日公布数据显示，小米MiMo-V2.5大模型在全球AI模型调用量排名中升至第一，上周（7月20日—7月26日）周调用量达到10.5万亿Token，环比增长12%，成为全球使用规模最高的AI大模型之一。小米集团董事长特别助理、战略市场部副总经理徐洁云透露，上周全球AI大模型调用量排名前五席位均由中国模型占据，显示中国AI大模型在实际应用和开发者生态中的渗透速度持续提升。其中，小米MiMo-V2.5凭借调用量增长实现排名跃升，成为此次榜单最大变化。",
     "发布日期": "2026-07-28",
-    "原文链接": "https://www.aibase.com/zh/news/29909",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/da65f8f40dada1304b0626c3d5b487b9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/da65f8f40dada1304b0626c3d5b487b9.jpg",
-    "配图仓库路径": "assets/news_images/da65f8f40dada1304b0626c3d5b487b9.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0727/6392076359815145907299282.png"
+    "原文链接": "https://www.aibase.com/zh/news/29924",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bfe4905fcd83dd5691c7c2c481ebff95.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bfe4905fcd83dd5691c7c2c481ebff95.jpg",
+    "配图仓库路径": "assets/news_images/bfe4905fcd83dd5691c7c2c481ebff95.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0728/6392082680823984302100842.jpg"
   },
   {
-    "资讯标题": "腾讯QQ宠物接入混元Hy3大模型实现3D化升级并正式回归",
-    "内容": "腾讯宣布QQ宠物正式回归，此次升级不仅实现形象全面3D化，更深度接入腾讯自研的混元Hy3大模型，赋予虚拟宠物主动回应能力。Hy3模型于7月6日开源，采用MoE混合专家架构，总参数量达2950亿，激活参数210亿，支持256K上下文长度，在推理与智能体任务上表现优异。在玩法上，QQ宠物保留喂食、洗澡、打工等经典机制，并新增性格设定与社交互动功能，宠物将直接嵌入QQ聊天列表与对话框场景。此次更新将顶级AI能力引入亿级用户日常，用户可体验更具沉浸感的养成乐趣，甚至将宠物培养为当红巨星。这一举措标志着QQ宠物从怀旧符号转型为AI驱动的智能陪伴产品，通过大模型技术重构虚拟社交体验。",
+    "资讯标题": "Similarweb报告显示谷歌AI概览出现率升至43%，AI搜索重塑流量格局",
+    "内容": "Similarweb最新报告显示，谷歌AI Overviews在搜索结果中的出现率已从一年前的15%攀升至43%，标志着AI驱动的信息获取正成为搜索主流。数据显示，谷歌AI模式月访问量从2025年6月的1.26亿次增长至2026年5月的2.79亿次，用户搜索习惯正由关键词检索转向长文本对话式查询。这一趋势改变了互联网流量分配，传统出版商面临点击率下滑挑战，尽管AI引用数量增长超5倍，但并未直接转化为等比例的网页访问流量。不过，AI搜索生态也在演进，ChatGPT在5月7日更新搜索功能后，其带来的网页推荐流量占比已从25%提升至近60%。目前，旅游、零售及体育等行业在AI搜索引用中更具优势。谷歌正从网页导航工具转型为信息消费平台，内容生产者需优化内容结构以提升AI可见性，适应AI驱动的新型流量分发模式。",
     "发布日期": "2026-07-28",
-    "原文链接": "https://www.aibase.com/zh/news/29905",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1633c01849890a99f5e57ea0e4ab94bf.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1633c01849890a99f5e57ea0e4ab94bf.jpg",
-    "配图仓库路径": "assets/news_images/1633c01849890a99f5e57ea0e4ab94bf.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0727/6392076022928921659346794.png"
+    "原文链接": "https://www.aibase.com/zh/news/29928",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/584b6e21db16796ad4dde3668af99b45.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/584b6e21db16796ad4dde3668af99b45.jpg",
+    "配图仓库路径": "assets/news_images/584b6e21db16796ad4dde3668af99b45.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604281021404155_0.jpg"
   },
   {
-    "资讯标题": "美团发布全场景AI Agent平台CatPaw，搭载1.6T参数开源大模型LongCat 2.0",
-    "内容": "7月27日，美团正式上线全场景AI Agent平台CatPaw，该平台搭载了本月开源的1.6T参数大模型LongCat 2.0。LongCat 2.0原生支持1M超长上下文，是首个在五万张国产算力卡上完成全流程训练与推理的万亿参数模型。CatPaw平台将底层算力转化为企业级智能工作台，深度融入美团本地生活全链路认知，针对门店经营、营销转化及履约配送等场景封装了专家技能。该平台支持跨会话长期记忆、自主规划执行及多Agent协同，并提供百毫秒级冷启动与动态扩缩容的工程底座。目前，CatPaw已在美团内部覆盖9万名员工，搭建Agent超3万个。此次发布标志着美团实现了从自研大模型到全场景AI应用的贯通，为本地生活产业的智能化升级提供了规模化落地范式。",
+    "资讯标题": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+    "内容": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 27, 202629Anthropic旗下Claude AI近日曝出一桩令人不安的隐私事件：大量用户主动生成的会话分享链接被Google、必应等搜索引擎公开收录，任何人均可通过搜索直接查看对话内容。这不是后台数据库被黑，而是Anthropic在技术配置上的一个疏漏——未有效阻止搜索引擎爬虫抓取分享链接。问题在于用户对\"分享\"的理解与互联网现实之间存在巨大鸿沟。许多用户以为将分享链接发送给同事或朋友就是安全的，却不清楚一旦链接出现在公开网页、论坛或社交平台上，搜索引擎爬虫就可能顺藤摸瓜完成索引。",
     "发布日期": "2026-07-28",
-    "原文链接": "https://www.aibase.com/zh/news/29913",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1daff02cd0d755b60a94712c7bb7df70.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1daff02cd0d755b60a94712c7bb7df70.jpg",
-    "配图仓库路径": "assets/news_images/1daff02cd0d755b60a94712c7bb7df70.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0727/6392076696601658632554972.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29917",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
+    "配图仓库路径": "assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202605070947057219_0.jpg"
   }
 ]
