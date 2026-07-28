@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "英伟达拟向Ilya Sutskever创办的SSI投资50亿美元深化AI算力合作",
-    "内容": "英伟达计划向OpenAI联合创始人Ilya Sutskever创立的Safe Superintelligence Inc.(SSI)投资50亿美元，双方已达成长期合作协议。此次合作标志着英伟达在深入了解SSI研发进展后进行的重大战略布局，旨在通过提供旗舰GPU硬件，将SSI的AI训练算力规模提升一个数量级。SSI此前主要依赖谷歌TPU进行模型训练，此次引入英伟达GPU资源，将显著增强其在基础模型训练及安全超级智能研发方面的算力支撑。SSI成立于2024年，专注于开发“安全超级智能”，此前估值已达320亿美元。此次投资不仅体现了英伟达从单一芯片供应商向AI生态核心投资者转型的战略意图，也反映了当前大模型竞争已进入算力、人才与基础设施的综合博弈阶段。通过加码SSI，英伟达进一步巩固了其在下一代人工智能技术路线中的基",
+    "资讯标题": "英伟达拟向Ilya Sutskever创办的SSI投资50亿美元深化算力合作",
+    "内容": "英伟达计划向OpenAI联合创始人Ilya Sutskever创立的AI实验室Safe Superintelligence Inc.（SSI）投资50亿美元，双方已达成长期合作协议。此次合作旨在深化AI算力与模型研发布局，SSI未来将大规模采用英伟达旗舰GPU硬件，预计其AI训练算力规模将提升一个数量级。此前，SSI主要依赖谷歌TPU进行模型训练，此次引入英伟达GPU资源将为其基础模型训练及安全超级智能研发提供更强算力支持。SSI于2024年成立，此前曾完成20亿美元融资，估值达320亿美元。英伟达此次加码投资，标志着其正从单纯的AI芯片供应商向AI生态核心投资者转型，通过深度绑定头部AI实验室，进一步巩固其在下一代人工智能基础设施领域的战略地位。",
     "发布日期": "2026-07-28",
     "原文链接": "https://www.aibase.com/zh/news/29931",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "资讯标题": "月之暗面正式开源Kimi K3模型权重，参数规模达2.8万亿",
-    "内容": "月之暗面正式将Kimi K3完整模型权重上传至Hugging Face，并同步发布技术报告。该模型总参数量为2.8万亿，激活参数1040亿，支持100万token上下文，成为全球首个进入3万亿参数级别的开放权重模型。K3在Artificial Analysis智能指数中位列全球第三，并在前端编程竞技场Arena以1679分登顶。随权重发布的Kimi K3 License包含特殊商业条款：年收入超2000万美元的第三方推理或微调服务商需另签协议，月活超1亿或月收入超2000万美元的产品须标注“Kimi K3”。API定价为每百万token输入3美元、输出15美元。此举标志着中国头部模型公司首次在开源协议中对云厂商商业化行为进行明确限制，旨在平衡技术开放与商业利益。",
+    "内容": "月之暗面正式将Kimi K3模型权重上传至Hugging Face并同步发布技术报告。该模型总参数量为2.8万亿，激活参数1040亿，支持100万token上下文，是全球首个进入3万亿参数级别的开放权重模型。K3在Artificial Analysis智能指数中位列全球第三，并在前端编程竞技场Arena以1679分登顶。随权重发布的Kimi K3 License包含特殊商业条款：年收入超2000万美元的第三方推理或微调服务主体需另签协议，月活超1亿或月收入超2000万美元的商业产品须标注“Kimi K3”。API定价为输入3美元/百万token、输出15美元/百万token。此举旨在限制云厂商“搭便车”行为，同时通过差异化定价与协议约束，重塑大模型商业化竞争格局。",
     "发布日期": "2026-07-28",
     "原文链接": "https://www.aibase.com/zh/news/29926",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
@@ -20,18 +20,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405240907574564_1.jpg"
   },
   {
-    "资讯标题": "小米MiMo-V2. 5 登顶全球AI大模型调用量榜，周调用量突破10. 5 万亿Token",
-    "内容": "小米MiMo-V2. 5 登顶全球AI大模型调用量榜，周调用量突破10. 5 万亿TokenAIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 28, 202618小米集团近日公布数据显示，小米MiMo-V2.5大模型在全球AI模型调用量排名中升至第一，上周（7月20日—7月26日）周调用量达到10.5万亿Token，环比增长12%，成为全球使用规模最高的AI大模型之一。小米集团董事长特别助理、战略市场部副总经理徐洁云透露，上周全球AI大模型调用量排名前五席位均由中国模型占据，显示中国AI大模型在实际应用和开发者生态中的渗透速度持续提升。其中，小米MiMo-V2.5凭借调用量增长实现排名跃升，成为此次榜单最大变化。",
+    "资讯标题": "三星电子与博通达成长期合作，预计2030年AI芯片业务规模超2000亿美元",
+    "内容": "三星电子与博通正式达成长期深度合作协议，双方将围绕内存芯片、代工制造及先进封装展开全链条协作，预计到2030年相关业务合作规模将突破2000亿美元。此次合作核心在于将博通的ASIC定制芯片设计能力与三星的先进制造工艺深度整合，博通下一代通信芯片将采用三星sub-2纳米制程生产。此外，双方正联合研发下一代HBM，旨在解决AI模型参数膨胀带来的内存带宽瓶颈。对三星而言，该协议不仅巩固了其在代工市场的竞争地位，更通过HBM4E与HBM5等技术布局，强化了制造全流程的协同效能。此举标志着AI芯片产业正从通用GPU模式转向“设计+制造”深度耦合的定制化阶段，芯片、内存与封装的协同将成为决定硬件性能上限的关键引擎。",
     "发布日期": "2026-07-28",
-    "原文链接": "https://www.aibase.com/zh/news/29924",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bfe4905fcd83dd5691c7c2c481ebff95.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bfe4905fcd83dd5691c7c2c481ebff95.jpg",
-    "配图仓库路径": "assets/news_images/bfe4905fcd83dd5691c7c2c481ebff95.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0728/6392082680823984302100842.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29927",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ba94e005fbe2a3c3e84778fe58e385e3.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ba94e005fbe2a3c3e84778fe58e385e3.jpg",
+    "配图仓库路径": "assets/news_images/ba94e005fbe2a3c3e84778fe58e385e3.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202011091028020272_8.jpg"
   },
   {
-    "资讯标题": "Similarweb报告显示谷歌AI概览出现率升至43%，AI搜索重塑流量格局",
-    "内容": "Similarweb最新报告显示，谷歌AI Overviews在搜索结果中的出现率已从一年前的15%攀升至43%，标志着AI驱动的信息获取正成为搜索主流。数据显示，谷歌AI模式月访问量从2025年6月的1.26亿次增长至2026年5月的2.79亿次，用户搜索习惯正由关键词检索转向长文本对话式查询。这一趋势改变了互联网流量分配，传统出版商面临点击率下滑挑战，尽管AI引用数量增长超5倍，但并未直接转化为等比例的网页访问流量。不过，AI搜索生态也在演进，ChatGPT在5月7日更新搜索功能后，其带来的网页推荐流量占比已从25%提升至近60%。目前，旅游、零售及体育等行业在AI搜索引用中更具优势。谷歌正从网页导航工具转型为信息消费平台，内容生产者需优化内容结构以提升AI可见性，适应AI驱动的新型流量分发模式。",
+    "资讯标题": "Similarweb报告：谷歌AI概览出现率升至43%，AI搜索重塑流量格局",
+    "内容": "Similarweb最新报告显示，谷歌AI概览（AI Overviews）在搜索结果中的出现比例已从一年前的15%激增至43%，标志着AI搜索正成为主流信息获取入口。数据显示，谷歌AI模式访问量从2025年6月的1.26亿次增长至2026年5月的2.79亿次，用户搜索习惯已从关键词搜索转向更自然的对话式查询。这一趋势正重塑互联网流量分配，传统出版商面临AI摘要导致点击率下降的挑战，尽管AI引用数量增长超5倍，但并不直接等同于流量转化。不过，AI搜索生态也在演进，ChatGPT在5月7日更新搜索功能后，其带来的网页推荐流量占比已从25%提升至近60%。行业分析指出，谷歌正从网页导航工具转型为信息消费平台，内容生产者需优化内容结构以提升AI可见性，适应AI驱动的新型流量分发机制。",
     "发布日期": "2026-07-28",
     "原文链接": "https://www.aibase.com/zh/news/29928",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/584b6e21db16796ad4dde3668af99b45.jpg",
@@ -40,13 +40,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604281021404155_0.jpg"
   },
   {
-    "资讯标题": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-    "内容": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 27, 202629Anthropic旗下Claude AI近日曝出一桩令人不安的隐私事件：大量用户主动生成的会话分享链接被Google、必应等搜索引擎公开收录，任何人均可通过搜索直接查看对话内容。这不是后台数据库被黑，而是Anthropic在技术配置上的一个疏漏——未有效阻止搜索引擎爬虫抓取分享链接。问题在于用户对\"分享\"的理解与互联网现实之间存在巨大鸿沟。许多用户以为将分享链接发送给同事或朋友就是安全的，却不清楚一旦链接出现在公开网页、论坛或社交平台上，搜索引擎爬虫就可能顺藤摸瓜完成索引。",
+    "资讯标题": "Anthropic Claude Cowork爆沙箱逃逸漏洞，50万macOS用户面临文件读写风险",
+    "内容": "安全研究人员发现Anthropic旗下AI智能体工具Claude Cowork存在严重安全漏洞，攻击者可利用CVE-2026-46331（代号pedit COW）Linux内核漏洞，从虚拟机沙箱逃逸并获取宿主机文件系统读写权限，潜在影响全球约50万macOS用户。该漏洞通过VirtioFS挂载点突破了虚拟机隔离与用户授权的双层防线，使智能体能以root权限访问Mac本地资源及在线服务凭据。Anthropic目前未发布直接补丁，仅通过更新版本将任务执行默认迁移至云端以绕过本地路径。对于选择继续在本地运行Claude Cowork的用户，官方建议通过禁用非特权用户命名空间、限制文件系统共享及使用严格挂载保护来强化系统配置。此事件凸显了AI智能体本地执行模式下，底层虚拟机隔离机制与用户权限边界的安全性挑战。",
     "发布日期": "2026-07-28",
-    "原文链接": "https://www.aibase.com/zh/news/29917",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
-    "配图仓库路径": "assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202605070947057219_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29934",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6314dca4e5e2a5e21fc3da983dc11f43.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6314dca4e5e2a5e21fc3da983dc11f43.jpg",
+    "配图仓库路径": "assets/news_images/6314dca4e5e2a5e21fc3da983dc11f43.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201811151621141028_13.jpg"
   }
 ]
