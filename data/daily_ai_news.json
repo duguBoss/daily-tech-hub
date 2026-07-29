@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "英伟达拟向Ilya Sutskever创办的SSI投资50亿美元深化算力合作",
-    "内容": "英伟达计划向OpenAI联合创始人Ilya Sutskever创立的AI实验室Safe Superintelligence Inc.（SSI）投资50亿美元，双方已达成长期合作协议。此次合作旨在深化AI算力与模型研发布局，SSI未来将大规模采用英伟达旗舰GPU硬件，预计其AI训练算力规模将提升一个数量级。此前，SSI主要依赖谷歌TPU进行模型训练，此次引入英伟达GPU资源将为其基础模型训练及安全超级智能研发提供更强算力支持。SSI于2024年成立，此前曾完成20亿美元融资，估值达320亿美元。英伟达此次加码投资，标志着其正从单纯的AI芯片供应商向AI生态核心投资者转型，通过深度绑定头部AI实验室，进一步巩固其在下一代人工智能基础设施领域的战略地位。",
-    "发布日期": "2026-07-28",
-    "原文链接": "https://www.aibase.com/zh/news/29931",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
+    "资讯标题": "谷歌AI概览覆盖率升至43%：搜索模式从网页导航转向直接交付答案",
+    "内容": "Similarweb最新报告显示，谷歌AI概览在搜索结果中的出现比例已从一年前的15%跃升至43%，AI模式访问量从2025年6月的1.26亿次增长至2026年5月的2.79亿次。用户搜索习惯正从关键词查询转向长对话式查询，搜索体验已从“帮用户找网页”演变为“直接给答案”。此变革深刻影响流量分配，尽管AI引用数量增长超5倍，但流量转化存在不确定性。以ChatGPT为例，其5月7日搜索更新后，网页推荐流量占比从25%提升至近60%，显示AI产品在引用与导流机制上的优化可改善内容生态。谷歌已从传统导航工具转型为信息消费平台，搜索结果页成为信息交付终点。对内容生产者而言，传统依赖搜索导流的模式正被瓦解，优化内容结构以提升AI可见性成为获取新流量的关键。",
+    "发布日期": "2026-07-29",
+    "原文链接": "https://www.aibase.com/zh/news/29953",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/528f30f7a6d293c1beb9fc0a23e40c30.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/528f30f7a6d293c1beb9fc0a23e40c30.jpg",
+    "配图仓库路径": "assets/news_images/528f30f7a6d293c1beb9fc0a23e40c30.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151642405924_24.jpg"
   },
   {
-    "资讯标题": "月之暗面正式开源Kimi K3模型权重，参数规模达2.8万亿",
-    "内容": "月之暗面正式将Kimi K3模型权重上传至Hugging Face并同步发布技术报告。该模型总参数量为2.8万亿，激活参数1040亿，支持100万token上下文，是全球首个进入3万亿参数级别的开放权重模型。K3在Artificial Analysis智能指数中位列全球第三，并在前端编程竞技场Arena以1679分登顶。随权重发布的Kimi K3 License包含特殊商业条款：年收入超2000万美元的第三方推理或微调服务主体需另签协议，月活超1亿或月收入超2000万美元的商业产品须标注“Kimi K3”。API定价为输入3美元/百万token、输出15美元/百万token。此举旨在限制云厂商“搭便车”行为，同时通过差异化定价与协议约束，重塑大模型商业化竞争格局。",
-    "发布日期": "2026-07-28",
-    "原文链接": "https://www.aibase.com/zh/news/29926",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
-    "配图仓库路径": "assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405240907574564_1.jpg"
+    "资讯标题": "摩尔线程MTT S5000完成适配，成功拉起2.8万亿参数Kimi K3模型",
+    "内容": "摩尔线程宣布，其自研的AI训推一体智算卡MTT S5000已成功适配并稳定拉起月之暗面最新开源的2.8万亿参数Kimi K3模型。此次适配依托于摩尔线程自研的MUSA软件栈，该软件栈作为底层生态底座，实现了芯片算力与开发者调用接口的有效转化。MTT S5000作为摩尔线程的核心算力产品，在本次测试中展现了对超大规模开源模型的支撑能力。随着Kimi K3模型权重与技术报告的公开，摩尔线程通过MUSA架构完成了从底层硬件到上层模型的全链路打通。这一进展标志着国产GPU在处理万亿级参数大模型方面取得关键突破，进一步拓宽了国产算力在复杂AI任务中的应用边界，为行业开发者提供了更多元化的算力基础设施选择。",
+    "发布日期": "2026-07-29",
+    "原文链接": "https://www.aibase.com/zh/news/29961",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/66eb33fc0b7a17b95d2eb21bbdc1c39a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/66eb33fc0b7a17b95d2eb21bbdc1c39a.jpg",
+    "配图仓库路径": "assets/news_images/66eb33fc0b7a17b95d2eb21bbdc1c39a.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304071204230203_3.jpg"
   },
   {
-    "资讯标题": "三星电子与博通达成长期合作，预计2030年AI芯片业务规模超2000亿美元",
-    "内容": "三星电子与博通正式达成长期深度合作协议，双方将围绕内存芯片、代工制造及先进封装展开全链条协作，预计到2030年相关业务合作规模将突破2000亿美元。此次合作核心在于将博通的ASIC定制芯片设计能力与三星的先进制造工艺深度整合，博通下一代通信芯片将采用三星sub-2纳米制程生产。此外，双方正联合研发下一代HBM，旨在解决AI模型参数膨胀带来的内存带宽瓶颈。对三星而言，该协议不仅巩固了其在代工市场的竞争地位，更通过HBM4E与HBM5等技术布局，强化了制造全流程的协同效能。此举标志着AI芯片产业正从通用GPU模式转向“设计+制造”深度耦合的定制化阶段，芯片、内存与封装的协同将成为决定硬件性能上限的关键引擎。",
-    "发布日期": "2026-07-28",
-    "原文链接": "https://www.aibase.com/zh/news/29927",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ba94e005fbe2a3c3e84778fe58e385e3.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ba94e005fbe2a3c3e84778fe58e385e3.jpg",
-    "配图仓库路径": "assets/news_images/ba94e005fbe2a3c3e84778fe58e385e3.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202011091028020272_8.jpg"
+    "资讯标题": "OpenAI发布GPT-Live-Transcribe与GPT-Transcribe两款转录模型",
+    "内容": "OpenAI于7月29日正式通过API上线GPT-Live-Transcribe与GPT-Transcribe两款转录模型。GPT-Live-Transcribe主打低延迟实时转录，定价为每分钟0.017美元；GPT-Transcribe则针对批量异步任务优化，定价为每分钟0.0045美元。新模型核心优势在于上下文感知能力，在Context Aware ASR基准测试中，GPT-Transcribe接入上下文后语义准确率提升至45.2%。性能方面，新模型大幅超越Whisper（whisper-1），在Common Voice覆盖的22种语言中，GPT-Transcribe将转录错误率降至19.27%，远低于Whisper的40.37%；在真实世界录音基准上，其错误率仅为8.98%，显著优于Whisper的15.",
+    "发布日期": "2026-07-29",
+    "原文链接": "https://www.aibase.com/zh/news/29956",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "配图仓库路径": "assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg"
   },
   {
-    "资讯标题": "Similarweb报告：谷歌AI概览出现率升至43%，AI搜索重塑流量格局",
-    "内容": "Similarweb最新报告显示，谷歌AI概览（AI Overviews）在搜索结果中的出现比例已从一年前的15%激增至43%，标志着AI搜索正成为主流信息获取入口。数据显示，谷歌AI模式访问量从2025年6月的1.26亿次增长至2026年5月的2.79亿次，用户搜索习惯已从关键词搜索转向更自然的对话式查询。这一趋势正重塑互联网流量分配，传统出版商面临AI摘要导致点击率下降的挑战，尽管AI引用数量增长超5倍，但并不直接等同于流量转化。不过，AI搜索生态也在演进，ChatGPT在5月7日更新搜索功能后，其带来的网页推荐流量占比已从25%提升至近60%。行业分析指出，谷歌正从网页导航工具转型为信息消费平台，内容生产者需优化内容结构以提升AI可见性，适应AI驱动的新型流量分发机制。",
-    "发布日期": "2026-07-28",
-    "原文链接": "https://www.aibase.com/zh/news/29928",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/584b6e21db16796ad4dde3668af99b45.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/584b6e21db16796ad4dde3668af99b45.jpg",
-    "配图仓库路径": "assets/news_images/584b6e21db16796ad4dde3668af99b45.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604281021404155_0.jpg"
+    "资讯标题": "OpenAI与Anthropic等千名AI员工联名上书呼吁政府管控自动化AI开发",
+    "内容": "来自OpenAI、Anthropic、谷歌和Meta等头部公司的1100多名员工联合签署公开信，呼吁美国政府介入并把控AI发展节奏。此次倡议核心聚焦于“自动化AI开发”，即AI系统具备递归式自我改进能力，可能导致技术演进速度超出人类控制范畴。Anthropic指出其Claude系列模型正快速接近该门槛。签署名单包括Anthropic CEO达里奥·阿莫代伊、OpenAI首席科学家雅库布·帕霍茨基及Meta首席科学家赵晟佳等行业核心人物。OpenAI CEO萨姆·奥尔特曼态度发生显著转变，从2023年拒绝签署类似放缓倡议转为公开支持，认为需建立防护机制以适应新能力水平。行业呼吁政府支持国际合作，开发必要的技术与治理工具，以应对AI军备竞赛中安全保障与治理体系滞后的风险，确保社会有足够时间应对前沿模型带来的潜在挑战",
+    "发布日期": "2026-07-29",
+    "原文链接": "https://www.aibase.com/zh/news/29960",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d01e484e57136c613ef0137fafac685d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d01e484e57136c613ef0137fafac685d.jpg",
+    "配图仓库路径": "assets/news_images/d01e484e57136c613ef0137fafac685d.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308311057053462_2.jpg"
   },
   {
-    "资讯标题": "Anthropic Claude Cowork爆沙箱逃逸漏洞，50万macOS用户面临文件读写风险",
-    "内容": "安全研究人员发现Anthropic旗下AI智能体工具Claude Cowork存在严重安全漏洞，攻击者可利用CVE-2026-46331（代号pedit COW）Linux内核漏洞，从虚拟机沙箱逃逸并获取宿主机文件系统读写权限，潜在影响全球约50万macOS用户。该漏洞通过VirtioFS挂载点突破了虚拟机隔离与用户授权的双层防线，使智能体能以root权限访问Mac本地资源及在线服务凭据。Anthropic目前未发布直接补丁，仅通过更新版本将任务执行默认迁移至云端以绕过本地路径。对于选择继续在本地运行Claude Cowork的用户，官方建议通过禁用非特权用户命名空间、限制文件系统共享及使用严格挂载保护来强化系统配置。此事件凸显了AI智能体本地执行模式下，底层虚拟机隔离机制与用户权限边界的安全性挑战。",
-    "发布日期": "2026-07-28",
-    "原文链接": "https://www.aibase.com/zh/news/29934",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6314dca4e5e2a5e21fc3da983dc11f43.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6314dca4e5e2a5e21fc3da983dc11f43.jpg",
-    "配图仓库路径": "assets/news_images/6314dca4e5e2a5e21fc3da983dc11f43.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201811151621141028_13.jpg"
+    "资讯标题": "Anthropic模型Claude Mythos成功破译HAWK后量子算法及AES-128加密",
+    "内容": "Anthropic旗下AI模型Claude Mythos Preview近日展现出在密码学领域的自主推理与攻击能力，成功发现并破译两项关键加密算法。在针对NIST后量子签名方案候选算法HAWK的测试中，Mythos通过多智能体半自主系统，利用数学格对称性，仅耗时60小时及10万美元API成本便攻破了该方案。此外，针对简化版AES-128加密标准，Mythos在消耗10亿代币后自主研发出“莫比乌斯桥”指纹识别攻击法，将攻击效率提升200至800倍。Anthropic表示上述研究不影响当前实际系统，且已完成漏洞协调披露。为应对AI带来的安全挑战，公司联合苏黎世联邦理工学院等机构推出了CryptanalysisBench基准测试。该进展标志着大模型在复杂数学与密码学分析领域已具备突破性能力，对现有互联网安全假设构成潜",
+    "发布日期": "2026-07-29",
+    "原文链接": "https://www.aibase.com/zh/news/29957",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b91fd4d2b93caa6f33d3d52b21ad89e7.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b91fd4d2b93caa6f33d3d52b21ad89e7.jpg",
+    "配图仓库路径": "assets/news_images/b91fd4d2b93caa6f33d3d52b21ad89e7.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202310180948538535_0.jpg"
   }
 ]
