@@ -1,7 +1,17 @@
 [
   {
-    "资讯标题": "微软发布2026财年Q4财报：投资Anthropic单季获利32亿美元，OpenAI出现减值",
-    "内容": "微软2026财年第四季度财报显示，其AI投资组合出现显著分化：对Anthropic的投资单季带来32亿美元收益，而对OpenAI的投资则出现约6亿美元减值。微软于2025年11月向Anthropic注资50亿美元，并达成Anthropic采购300亿美元Azure云服务的协议，该笔投资已实现明显账面增长。相比之下，微软持有OpenAI约27%股份，本季度减值导致摊薄后每股收益减少约7美分。尽管如此，OpenAI投资在2026财年全年仍贡献了50亿美元收益，推动全年每股收益增加67美分。微软本季度整体营收达900亿美元，净利润358亿美元。此次财报披露折射出微软双线AI投资策略的动态变化，Anthropic在账面表现上已展现出强劲的增长潜力，对行业而言，这标志着微软在头部大模型厂商间的资源配置与回报预期正进入新的",
+    "资讯标题": "腾讯正式开源 AngelSpec 框架，通过多方案协同提升大模型推理吞吐量",
+    "内容": "腾讯技术团队正式开源 AngelSpec 框架，旨在解决大模型自回归解码的高昂成本难题。该框架针对不同任务采用差异化策略：针对高熵多轮对话，引入多token预测机制（MTP）结合训练时测试（TTT）；针对代码与数学推理，利用专有块扩散模型挖掘序列潜力。核心架构 DFly 创新性地混合了目标条件编码骨干与前序条件自回归头，在并行生成的同时优化了块内依赖建模。此外，系统内置动态验证机制，可根据在线负载、硬件条件及前缀置信度自适应调整验证深度，实现计算资源与吞吐效率的平衡。在 Hy3 模型系列的测试中，搭载 DFly 的方案在 4 至 64 并发数下均实现最高平均吞吐量，显著优于传统自回归解码。该开源工具为大模型的工程化落地提供了高效推理支持，开发者可通过 GitHub 获取相关代码。",
+    "发布日期": "2026-07-30",
+    "原文链接": "https://www.aibase.com/zh/news/30001",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/56a316bb9be45a2ce59bd7dff740e373.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/56a316bb9be45a2ce59bd7dff740e373.jpg",
+    "配图仓库路径": "assets/news_images/56a316bb9be45a2ce59bd7dff740e373.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556155027_7.jpg"
+  },
+  {
+    "资讯标题": "微软发布2026财年第四季度财报：Anthropic投资单季收益达32亿美元",
+    "内容": "微软2026财年第四季度财报显示，其AI投资组合表现出现显著分化。微软对Anthropic的投资在当季实现32亿美元收益，而对OpenAI的投资则出现约6亿美元减值，导致摊薄后每股收益减少约7美分。微软于2025年11月向Anthropic投资50亿美元，并达成300亿美元Azure云服务采购协议。尽管OpenAI投资在2026财年全年仍贡献了50亿美元收益，推动每股收益增加67美分，但单季度的账面走势显示微软双线AI投资策略的天平正发生微妙变化。微软本季度整体营收达900亿美元，净利润为358亿美元，全年营收总计3318亿美元。此次财报披露的投资回报差异，反映了微软在头部AI模型厂商布局中的最新财务动态。",
     "发布日期": "2026-07-30",
     "原文链接": "https://www.aibase.com/zh/news/29990",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
@@ -10,43 +20,33 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633428399_20.jpg"
   },
   {
-    "资讯标题": "Waymo发布专用自动驾驶网约车Ojai，深度整合Gemini AI与三屏协同系统",
-    "内容": "Alphabet旗下Waymo正式发布专为共享出行设计的自动驾驶网约车Ojai，该车型实现车载界面重大改版，并深度集成Gemini in Waymo AI助手。乘客可通过语音或屏幕进行空调调节、知识查询及靠边停车指令下达。为保障安全，Gemini系统与底层Waymo Driver驾驶系统物理隔离，无法直接控制车辆移动或获取实时驾驶数据。硬件方面，Ojai配备三块智能屏幕，可根据乘客座位位置分发差异化内容，后排主座拥有完整车控权限。此外，系统新增“Calm Mode”静谧模式，通过自动调暗屏幕及隐藏非必要元素，提升乘车舒适度。此次更新标志着Waymo在自动驾驶座舱交互体验上的重要升级，通过AI与硬件协同，进一步优化了共享出行的智能化与个性化服务水平。",
+    "资讯标题": "Waymo发布首款定制网约车Ojai：集成Gemini AI助手与三屏交互系统",
+    "内容": "Waymo正式发布首款专为网约车场景设计的自动驾驶汽车Ojai，并同步推出车载AI助手Gemini in Waymo及全新三屏交互界面。Ojai内部署的Gemini独立于Waymo Driver驾驶系统，乘客可通过语音指令调节空调、查询行程及周边信息，但该助手不具备车辆控制权限，无法访问实时驾驶数据。此次更新是Waymo数年来首次重大界面改版，三块屏幕根据座位分工明确：右后座乘客可获取完整控制选项，其余屏幕则显示简化行程状态或环境式媒体内容，并提供Calm Mode以调暗屏幕。Waymo旨在通过定制硬件与AI座舱的结合，将车舱打造为乘客可自主使用的灵活空间，近期将邀请更多公众乘客进行体验。",
     "发布日期": "2026-07-30",
-    "原文链接": "https://www.aibase.com/zh/news/29988",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/254a7fe602bd869506e673d4e8f716b0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/254a7fe602bd869506e673d4e8f716b0.jpg",
-    "配图仓库路径": "assets/news_images/254a7fe602bd869506e673d4e8f716b0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811191233051272_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29992",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/165f28dc130ff3ece9ff1836f36573bc.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/165f28dc130ff3ece9ff1836f36573bc.jpg",
+    "配图仓库路径": "assets/news_images/165f28dc130ff3ece9ff1836f36573bc.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0730/6392099966784945354346934.png"
   },
   {
-    "资讯标题": "OpenAI启动ChatGPT for Academic Researchers计划，向10万名科研人员免费开放高级版服务",
-    "内容": "OpenAI正式启动“ChatGPT for Academic Researchers”计划，旨在为科研人员提供更强大的AI技术支持。该计划初期面向部分高校的1万名科研人员开放，未来将逐步扩大至10万名。入选的科研人员可获得使用次数限制更高、上下文窗口更大的高级版ChatGPT，且每位参与者可额外邀请本机构的四位同事共享同等权益。此外，OpenAI计划推出扩展版聊天机器人深度研究功能，支持研究人员从科学期刊等特定资源中更高效地洞察课题。此举将显著提升学术界利用LLM进行科研分析的效率，通过提供更深度的技术工具，助力科研人员在复杂课题研究中获取更精准的洞察，推动AI技术在学术领域的深度应用与落地。",
+    "资讯标题": "OpenAI正式发布GPT-5.6模型家族，包含Sol、Terra与Luna三款新模型",
+    "内容": "OpenAI正式发布GPT-5.6模型家族，涵盖旗舰款Sol、均衡型Terra及高性价比款Luna。该系列通过重构底层技术栈，在提升智能效率的同时显著降低成本。旗舰模型Sol在编码智能体基准测试中超越同类竞品，API成本不足竞品一半；Terra性能与前代持平但价格减半；Luna定价较Sol降低80%。技术层面，OpenAI通过精细化负载均衡、推测解码、缓存优化及自研GPU内核，使端到端服务成本下降，token生成效率提升超15%。此外，智能体编排层引入延迟发现机制以抑制上下文膨胀，并优化对话历史管理以提高提示词缓存命中率。此次更新标志着大模型向“极致效率”转型，旨在通过更具性价比的部署方案，加速AI在复杂场景下的规模化落地。",
     "发布日期": "2026-07-30",
-    "原文链接": "https://www.aibase.com/zh/news/29986",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/63f4eddfb774eabf2eeaf18d0912444d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/63f4eddfb774eabf2eeaf18d0912444d.jpg",
-    "配图仓库路径": "assets/news_images/63f4eddfb774eabf2eeaf18d0912444d.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307061803114746_5.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/29996",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
+    "配图仓库路径": "assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
   },
   {
     "资讯标题": "Meta计划推动数十亿用户进入智能体时代，扎克伯格押注个人AI代理",
-    "内容": "Meta创始人兼CEO马克·扎克伯格在最新财报会议上宣布，公司正全力布局个人AI代理，旨在未来五年内让数十亿用户通过AI处理财务、健康及家庭管理等复杂事务。Meta计划将WhatsApp等即时通讯平台作为AI Agent的核心入口，目前已有超100万家企业在WhatsApp和Messenger上使用AI代理服务。为支撑AI基础设施需求，Meta与贝莱德合作投资约140亿美元在德克萨斯州建设数据中心。尽管Reality Labs部门本季度亏损约46亿美元，且自由现金流同比下降约91%，扎克伯格仍坚持认为AI产品与智能服务具备更高利润潜力。行业竞争正从传统聊天机器人转向能够代表用户执行任务的Agent体系，Meta正通过强化AI基础设施与产品生态，试图将AI代理打造为下一阶段的核心增长引擎。",
+    "内容": "Meta创始人兼首席执行官马克·扎克伯格在最新财报会议上宣布，Meta将全面押注个人AI代理，目标在未来五年内让数十亿用户通过AI代理处理财务、健康及家庭管理等复杂事务。Meta正围绕个人智能体、即时通讯平台及AI基础设施进行战略布局，并将WhatsApp定位为Meta AI服务的主要交互入口。目前，面向企业的AI代理已在WhatsApp和Messenger上线，覆盖超100万家企业。为支撑AI计算需求，Meta与贝莱德合作投资约140亿美元在德克萨斯州建设数据中心。尽管Reality Labs部门本季度亏损约46亿美元，且自由现金流同比下降约91%，扎克伯格仍强调AI产品与智能服务具备更高利润潜力。行业竞争正从传统聊天机器人转向具备执行能力的AI Agent体系，Meta正试图通过将AI从“回答问题”升级为“",
     "发布日期": "2026-07-30",
     "原文链接": "https://www.aibase.com/zh/news/29993",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
     "配图仓库路径": "assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/202605060956253111_0.jpg"
-  },
-  {
-    "资讯标题": "Google DeepMind发布Lyria 3.5音乐生成模型，强化人声情感与创作控制力",
-    "内容": "Google DeepMind正式在Google Flow Music平台推出新一代音乐生成模型Lyria 3.5。此次升级重点提升了音乐性、歌词质量、人声表现力及创作控制力。在技术层面，Lyria 3.5能够构建更复杂且自然的旋律织体，其歌词生成模块增强了对提示词的语义理解与结构意识，确保词作与曲风高度契合。在人声表现上，新模型输出的歌声具备更强的情感张力与清晰度，显著提升了成品感染力。此外，Lyria 3.5优化了交互体验，创作者可更精准地调整输出内容的节奏与时长，实现高效的个性化音乐创作。此次更新标志着AI音乐生成技术在专业应用场景的进一步落地，为创作者提供了更具掌控力的创作工具。",
-    "发布日期": "2026-07-30",
-    "原文链接": "https://www.aibase.com/zh/news/29997",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6e78e8366f490706b760c53ba4ae693d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6e78e8366f490706b760c53ba4ae693d.jpg",
-    "配图仓库路径": "assets/news_images/6e78e8366f490706b760c53ba4ae693d.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0730/6392100263468238114762097.png"
   }
 ]
