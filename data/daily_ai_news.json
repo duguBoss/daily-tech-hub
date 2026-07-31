@@ -1,8 +1,8 @@
 [
   {
     "资讯标题": "腾讯正式开源 AngelSpec 框架，通过多方案协同提升大模型推理吞吐量",
-    "内容": "腾讯技术团队正式开源 AngelSpec 框架，旨在解决大模型自回归解码的高昂成本难题。该框架针对不同任务采用差异化策略：针对高熵多轮对话，引入多token预测机制（MTP）结合训练时测试（TTT）；针对代码与数学推理，利用专有块扩散模型挖掘序列潜力。核心架构 DFly 创新性地混合了目标条件编码骨干与前序条件自回归头，在并行生成的同时优化了块内依赖建模。此外，系统内置动态验证机制，可根据在线负载、硬件条件及前缀置信度自适应调整验证深度，实现计算资源与吞吐效率的平衡。在 Hy3 模型系列的测试中，搭载 DFly 的方案在 4 至 64 并发数下均实现最高平均吞吐量，显著优于传统自回归解码。该开源工具为大模型的工程化落地提供了高效推理支持，开发者可通过 GitHub 获取相关代码。",
-    "发布日期": "2026-07-30",
+    "内容": "腾讯技术团队正式开源 AngelSpec 框架，旨在解决大模型自回归解码的高成本难题。该框架针对不同任务采用差异化策略：在多轮对话任务中，结合多token预测机制（MTP）、训练时测试（TTT）及端到端总变差损失以适应状态分布；在代码与数学推理任务中，利用专有块扩散模型挖掘长跨度序列潜力。核心架构 DFly 创新性地混合了目标条件编码骨干与前序条件自回归头，并引入动态验证机制，可根据在线负载、硬件条件及前缀置信度实时调整验证深度。在 Hy3 模型系列的测试中，搭载 DFly 的方案在 4 至 64 并发数下均实现最高平均吞吐量，显著优于传统自回归解码。AngelSpec 的开源为大模型工程化落地提供了高效推理工具，开发者可通过 GitHub 获取项目代码，相关技术细节已在论文中披露。",
+    "发布日期": "2026-07-31",
     "原文链接": "https://www.aibase.com/zh/news/30001",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/56a316bb9be45a2ce59bd7dff740e373.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/56a316bb9be45a2ce59bd7dff740e373.jpg",
@@ -10,43 +10,33 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556155027_7.jpg"
   },
   {
-    "资讯标题": "微软发布2026财年第四季度财报：Anthropic投资单季收益达32亿美元",
-    "内容": "微软2026财年第四季度财报显示，其AI投资组合表现出现显著分化。微软对Anthropic的投资在当季实现32亿美元收益，而对OpenAI的投资则出现约6亿美元减值，导致摊薄后每股收益减少约7美分。微软于2025年11月向Anthropic投资50亿美元，并达成300亿美元Azure云服务采购协议。尽管OpenAI投资在2026财年全年仍贡献了50亿美元收益，推动每股收益增加67美分，但单季度的账面走势显示微软双线AI投资策略的天平正发生微妙变化。微软本季度整体营收达900亿美元，净利润为358亿美元，全年营收总计3318亿美元。此次财报披露的投资回报差异，反映了微软在头部AI模型厂商布局中的最新财务动态。",
-    "发布日期": "2026-07-30",
-    "原文链接": "https://www.aibase.com/zh/news/29990",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
-    "配图仓库路径": "assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633428399_20.jpg"
+    "资讯标题": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+    "内容": "微软首席执行官萨蒂亚·纳德拉在最新财报电话会议中确认，公司正在开发一款整合Copilot聊天、编码助手及智能代理能力的AI“超级应用”，计划于今年内正式推出，覆盖消费者与商业场景。该应用旨在将Copilot从单一聊天助手升级为协同办公与自动化执行平台，整合产品包括通用Copilot聊天机器人、GitHub Copilot、Copilot Cowork以及具备任务自动执行能力的智能代理系统。微软本季度将重点推动不同Copilot体验的统一，此举标志着AI助手竞争正从单一功能向综合型AI平台演进。在财务层面，人工智能与云业务已成为微软营收增长的核心驱动力。随着大型科技公司加速整合模型、工具与代理能力，AI超级应用有望成为未来企业及个人用户使用人工智能的关键入口。",
+    "发布日期": "2026-07-31",
+    "原文链接": "https://www.aibase.com/zh/news/30009",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
+    "配图仓库路径": "assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202602270950033335_0.jpg"
   },
   {
-    "资讯标题": "Waymo发布首款定制网约车Ojai：集成Gemini AI助手与三屏交互系统",
-    "内容": "Waymo正式发布首款专为网约车场景设计的自动驾驶汽车Ojai，并同步推出车载AI助手Gemini in Waymo及全新三屏交互界面。Ojai内部署的Gemini独立于Waymo Driver驾驶系统，乘客可通过语音指令调节空调、查询行程及周边信息，但该助手不具备车辆控制权限，无法访问实时驾驶数据。此次更新是Waymo数年来首次重大界面改版，三块屏幕根据座位分工明确：右后座乘客可获取完整控制选项，其余屏幕则显示简化行程状态或环境式媒体内容，并提供Calm Mode以调暗屏幕。Waymo旨在通过定制硬件与AI座舱的结合，将车舱打造为乘客可自主使用的灵活空间，近期将邀请更多公众乘客进行体验。",
-    "发布日期": "2026-07-30",
-    "原文链接": "https://www.aibase.com/zh/news/29992",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/165f28dc130ff3ece9ff1836f36573bc.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/165f28dc130ff3ece9ff1836f36573bc.jpg",
-    "配图仓库路径": "assets/news_images/165f28dc130ff3ece9ff1836f36573bc.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0730/6392099966784945354346934.png"
+    "资讯标题": "三星电子发布2026年Q2财报：营业利润暴增1813.8%，AI存储成核心引擎",
+    "内容": "三星电子公布2026年第二季度财报，综合营收达171.5万亿韩元，同比增长130%；营业利润飙升至89.5万亿韩元，同比暴增1813.8%。半导体部门贡献超99%利润，成为绝对盈利引擎。产品层面，高性能HBM4已大规模出货，HBM4E样品完成交付，服务器DRAM及企业级SSD需求强劲。相比之下，手机业务录得7000亿韩元亏损，电视与白电业务亦出现小幅亏损，公司盈利结构呈现极度依赖半导体的“单引擎”模式。尽管业绩创历史新高，但受市场对AI资本开支周期见顶的担忧及内部治理问题影响，三星市值较6月峰值缩水四成。三星预计下半年AI基础设施投入将持续加码，智能体落地将进一步拉动存储需求。",
+    "发布日期": "2026-07-31",
+    "原文链接": "https://www.aibase.com/zh/news/30013",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/966d11ec2d1e9035b153e6b09134c43b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/966d11ec2d1e9035b153e6b09134c43b.jpg",
+    "配图仓库路径": "assets/news_images/966d11ec2d1e9035b153e6b09134c43b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201907311526092928_0.jpg"
   },
   {
-    "资讯标题": "OpenAI正式发布GPT-5.6模型家族，包含Sol、Terra与Luna三款新模型",
-    "内容": "OpenAI正式发布GPT-5.6模型家族，涵盖旗舰款Sol、均衡型Terra及高性价比款Luna。该系列通过重构底层技术栈，在提升智能效率的同时显著降低成本。旗舰模型Sol在编码智能体基准测试中超越同类竞品，API成本不足竞品一半；Terra性能与前代持平但价格减半；Luna定价较Sol降低80%。技术层面，OpenAI通过精细化负载均衡、推测解码、缓存优化及自研GPU内核，使端到端服务成本下降，token生成效率提升超15%。此外，智能体编排层引入延迟发现机制以抑制上下文膨胀，并优化对话历史管理以提高提示词缓存命中率。此次更新标志着大模型向“极致效率”转型，旨在通过更具性价比的部署方案，加速AI在复杂场景下的规模化落地。",
-    "发布日期": "2026-07-30",
-    "原文链接": "https://www.aibase.com/zh/news/29996",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图仓库路径": "assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
-  },
-  {
-    "资讯标题": "Meta计划推动数十亿用户进入智能体时代，扎克伯格押注个人AI代理",
-    "内容": "Meta创始人兼首席执行官马克·扎克伯格在最新财报会议上宣布，Meta将全面押注个人AI代理，目标在未来五年内让数十亿用户通过AI代理处理财务、健康及家庭管理等复杂事务。Meta正围绕个人智能体、即时通讯平台及AI基础设施进行战略布局，并将WhatsApp定位为Meta AI服务的主要交互入口。目前，面向企业的AI代理已在WhatsApp和Messenger上线，覆盖超100万家企业。为支撑AI计算需求，Meta与贝莱德合作投资约140亿美元在德克萨斯州建设数据中心。尽管Reality Labs部门本季度亏损约46亿美元，且自由现金流同比下降约91%，扎克伯格仍强调AI产品与智能服务具备更高利润潜力。行业竞争正从传统聊天机器人转向具备执行能力的AI Agent体系，Meta正试图通过将AI从“回答问题”升级为“",
-    "发布日期": "2026-07-30",
-    "原文链接": "https://www.aibase.com/zh/news/29993",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
-    "配图仓库路径": "assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202605060956253111_0.jpg"
+    "资讯标题": "xAI发布Grok Voice Think Fast 2.0语音模型，提升转录准确率与智能体响应速度",
+    "内容": "xAI正式发布新一代语音识别模型Grok Voice Think Fast 2.0，重点面向语音智能体开发者，在转录准确率、对话策略及工具调用效率上实现显著升级。该模型定价为每分钟0.08美元。在Artificial Analysis基准测试中，Think Fast 2.0综合得分达82.9%，智能体能力评分达56.5%，均优于GPT-Realtime-2.1及Gemini 3.1 Flash。技术性能方面，模型首次音频播放时间降至0.70秒，在复杂噪音环境下转录准确率较前代提升约1.4倍，较Deepgram Nova3等竞品提升1.5至2倍。通过支持语音并行推理及强化学习优化，模型推理标记使用量中位数降至0.4次，工具调用效率大幅提升。目前该模型已在Starlink电话服务中完成A/B测试。2026年8月5日",
+    "发布日期": "2026-07-31",
+    "原文链接": "https://www.aibase.com/zh/news/30002",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
+    "配图仓库路径": "assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311060852081809_0.jpg"
   }
 ]
