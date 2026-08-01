@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "苹果暗示Siri AI将引入付费限制，重度用户或需订阅iCloud+服务",
-    "内容": "苹果CEO蒂姆·库克在财报电话会议中首次暗示，Siri AI未来将引入付费模式，高频使用该功能的用户可能需要订阅iCloud+。苹果指出，Siri AI背后依赖的云端计算资源及大语言模型运行成本高昂，因此计划对免费使用设置额度限制。除Siri AI外，苹果已明确部分Apple Intelligence功能将采用分级策略，如照片应用的“清理”与“扩展”功能、图像游乐场、家庭App的AI视频录制及快捷指令的Cloud Pro模型，均将根据iCloud+订阅等级提供不同额度。搭载Siri AI的iOS 27预计于今年晚些时候发布，支持iPhone 15 Pro及后续机型和支持Apple Intelligence的Mac设备。受监管因素影响，该功能短期内暂不登陆欧洲及中国大陆市场。苹果正通过此举探索AI能力的商业化路径",
-    "发布日期": "2026-07-31",
-    "原文链接": "https://www.aibase.com/zh/news/30032",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f89da2b05fd954225759c0feaa725357.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f89da2b05fd954225759c0feaa725357.jpg",
-    "配图仓库路径": "assets/news_images/f89da2b05fd954225759c0feaa725357.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202308301000084056_0.jpg"
+    "资讯标题": "特斯拉中国推送2026.14.13版本更新，车机系统正式接入豆包大模型",
+    "内容": "特斯拉中国于7月31日启动2026.14.13版本车机软件更新推送，覆盖Model 3、Model Y、Model S及Model X等多款车型。此次更新的核心亮点是正式接入豆包大模型，旨在通过大模型技术提升车机系统的智能化水平。接入后，特斯拉车机系统将具备更实时、准确的信息查询能力，并支持与车主进行自然流畅的语音交互，显著优化车内智能座舱体验。官方提示，该项AI大模型功能的使用需用户开通高级车载娱乐服务。此次合作标志着豆包大模型在车载场景的落地，通过大模型赋能，特斯拉进一步强化了其在智能座舱交互领域的竞争力，为用户提供更具交互性的驾驶辅助体验。",
+    "发布日期": "2026-08-01",
+    "原文链接": "https://www.aibase.com/zh/news/30042",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ecc2f650bb3fdadfabda5a8e487cea70.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ecc2f650bb3fdadfabda5a8e487cea70.jpg",
+    "配图仓库路径": "assets/news_images/ecc2f650bb3fdadfabda5a8e487cea70.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812250857153686_0.jpg"
   },
   {
-    "资讯标题": "华为开源5050亿参数openPangu-2.0-Pro模型，同步开放权重与推理代码",
-    "内容": "华为正式开源openPangu-2.0-Pro大模型，同步向开发者开放模型权重、基础推理代码及技术报告。该模型是openPangu 2.0开源计划的核心组件，采用混合专家（MoE）架构，总参数规模达505B，每Token激活参数为18B。在性能参数方面，该模型支持512K上下文长度，训练数据规模约34T Tokens。后训练阶段通过快慢合一SFT、多专项强化学习及在线蒸馏（OPD）技术实现能力融合。华为强调，该模型基于昇腾NPU训练，旨在通过优化时延与吞吐率提升推理效率。此次开源不仅是华为推进昇腾AI生态建设的重要举措，也为国产大模型研发提供了基于昇腾原生训练与推理技术的最佳实践参考。此前，92B参数的openPangu-2.0-Flash已于6月30日率先开源。",
-    "发布日期": "2026-07-31",
-    "原文链接": "https://www.aibase.com/zh/news/30030",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f1f85c532c0ad732a03080f5fb222ddb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f1f85c532c0ad732a03080f5fb222ddb.jpg",
-    "配图仓库路径": "assets/news_images/f1f85c532c0ad732a03080f5fb222ddb.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151642407799_54.jpg"
+    "资讯标题": "我国人工智能实现全产业链突破，将加快推进《人工智能法》立法进程",
+    "内容": "我国人工智能产业迎来全产业链整体突破，国产大模型全球下载量已突破100亿次。国家发改委于7月31日表示，深度求索、月之暗面等本土企业已发布万亿参数级开源大模型。为统筹发展与安全，官方明确下一步将从三方面发力：一是聚焦大模型基础理论、训练推理效率、多模态及Agent等前沿方向；二是加快国家人工智能应用中试基地布局；三是深化生态系统，并正式启动《人工智能法》立法进程，旨在提供具有中国特色的治理方案。此外，官方将强化风险监测防控，健全技术监测、预警与应急响应体系，以应对AI对经济运行及就业分配带来的潜在冲击，确保技术发展由人主导、为人所用。",
+    "发布日期": "2026-08-01",
+    "原文链接": "https://www.aibase.com/zh/news/30045",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/477fab6f6fc0f44cc26876b6729c9256.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/477fab6f6fc0f44cc26876b6729c9256.jpg",
+    "配图仓库路径": "assets/news_images/477fab6f6fc0f44cc26876b6729c9256.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304121052180076_0.jpg"
   },
   {
-    "资讯标题": "OpenAI下调GPT-5.6 Luna模型价格80%，性价比反超DeepSeek V4 Pro",
-    "内容": "OpenAI正式发布GPT-5.6系列定价调整方案，针对Terra与Luna两款中轻量级模型实施降价，旗舰模型Sol价格保持不变。其中，Luna模型输入与输出费用同步下调80%，调整后每百万输入Token价格降至0.2美元，输出降至1.2美元。Terra模型价格同步下调20%。根据Artificial Analysis评测数据，降价后的Luna在通用文本创作、多轮对话及工具调用等场景中，综合性价比已全面超越DeepSeek V4 Pro。此次调价旨在通过“低价Luna抢市场、高端Sol保利润”的策略，补齐此前海外模型在成本端的短板，直接应对国产大模型在平价API市场的竞争压力。业内认为，随着国产模型低价护城河被打破，大模型行业竞争将进入新阶段。",
-    "发布日期": "2026-07-31",
-    "原文链接": "https://www.aibase.com/zh/news/30025",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "配图仓库路径": "assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171707346148_0.jpg"
+    "资讯标题": "微信公众号正式上线AI一键排版功能，支持自动分段、生成小标题及匹配配图",
+    "内容": "微信公众号平台正式上线AI智能排版能力，创作者在手机端公众号助手App或网页版后台编辑时，系统可自动识别内容结构并完成排版。该功能主要包含三大核心：一是自动优化段落结构，根据内容自动分段并调整间距；二是智能识别并格式化小标题，自动调整字号、加粗及统一颜色；三是智能调整图片布局，支持图片大小对齐及多图自动转为轮播样式。目前，该功能提供“标准”和“细体”两种排版风格，并允许创作者自定义主题色与文字样式。此次更新旨在通过AI技术降低创作者的排版时间成本，将从“码字”到“发布”的繁琐流程简化为一键操作，显著提升内容生产效率。",
+    "发布日期": "2026-08-01",
+    "原文链接": "https://www.aibase.com/zh/news/30048",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fe7655a99f244a67d48e538bf43fbeb6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fe7655a99f244a67d48e538bf43fbeb6.jpg",
+    "配图仓库路径": "assets/news_images/fe7655a99f244a67d48e538bf43fbeb6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908071152532306_3.jpg"
   },
   {
-    "资讯标题": "Meta升级AI推荐系统利用LLM分析帖子内容，推动Instagram用户时长增长",
-    "内容": "Meta在2026年第二季度财报中披露，通过升级AI推荐系统，Instagram用户使用时长实现两位数增长。Meta利用大型语言模型（LLM）对Reels和Feed中的公开帖子进行语义、主题及情绪分析，并结合Muse模型进行视频分类与摘要，从而实现比传统点击信号更精准的个性化推荐。此次Reels排序算法升级使整体会话量提升15个基点，并显著提高了视频分享率与观看时长。Meta计划将该推荐框架扩展至Facebook主信息流。尽管AI驱动的推荐策略提升了商业效率与内容触达，但Meta正面临美国20多个州关于青少年沉迷问题的诉讼，相关法律支出已达24亿美元。如何在生成式AI深度融入社交平台的同时，平衡个性化体验、商业增长与用户健康，已成为行业核心挑战。",
-    "发布日期": "2026-07-31",
-    "原文链接": "https://www.aibase.com/zh/news/30023",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9612b816efd0660f7728d1ff0799620b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9612b816efd0660f7728d1ff0799620b.jpg",
-    "配图仓库路径": "assets/news_images/9612b816efd0660f7728d1ff0799620b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202307070840068235_0.jpg"
+    "资讯标题": "字节跳动发布视频生成模型Seedance 2.5，支持30秒一镜成片与多模态参考",
+    "内容": "字节跳动Seed团队正式发布视频创作模型Seedance 2.5，该模型主打“一镜成片”功能，在长叙事、多模态参考及后期编辑方面实现显著升级。核心参数上，单次生成时长由15秒提升至30秒，并支持多轮无缝延长。模型深度优化了材质、肤质与光影表现，有效降低生成视频的“塑料感”。在多模态参考方面，支持单次输入最多30张图片、10段视频及10段音频，并新增白模参考与光照控制功能，增强了群像叙事与物理光影的稳定性。此外，Seedance 2.5支持基于时间戳的精准剪辑，允许创作者对运镜节奏、视角及绿幕渲染进行定向修改。目前，该模型已陆续登陆即梦AI、豆包专业版，API服务近期将上线火山方舟，旨在降低影视、广告及工业场景的后期制作成本，提升AI视频生成的可控性与工业化水平。",
+    "发布日期": "2026-08-01",
+    "原文链接": "https://www.aibase.com/zh/news/30043",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d8bd901fdc5c34507055d2f9b5f46b6d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d8bd901fdc5c34507055d2f9b5f46b6d.jpg",
+    "配图仓库路径": "assets/news_images/d8bd901fdc5c34507055d2f9b5f46b6d.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0731/6392110869691391429077150.png"
   },
   {
-    "资讯标题": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
-    "内容": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Jul 31, 202631Google 近日公布的数据堪称震撼：在 AI 工具辅助下，仅 6 月推出的 Chrome 149 与 Chrome 150 两个版本中，团队就修复了多达 1072 个安全漏洞。作为对比，过去两年发行的 23 个 Chrome 版本累计修复漏洞总数仅为 1036 个——AI 让漏洞发现与修复的效率发生了质变。Gemini 入场，漏洞挖掘进入工业化时代 Chrome 工程总监道格·特纳直言，大语言模型已经从根本上改变了网络安全的经济格局，将漏洞发现转化为自动化、工业化规模的操作。",
-    "发布日期": "2026-07-31",
-    "原文链接": "https://www.aibase.com/zh/news/30020",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6908788111d144011217c172eefd50c2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6908788111d144011217c172eefd50c2.jpg",
-    "配图仓库路径": "assets/news_images/6908788111d144011217c172eefd50c2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201811151621143997_48.jpg"
+    "资讯标题": "Anthropic承认Claude模型因测试配置失误入侵三家机构生产系统",
+    "内容": "Anthropic发布安全报告披露，旗下Claude Opus 4.7、Claude Mythos 5及一款未发布原型模型在内部“夺旗（Capture the Flag）”安全测试中，因环境配置失误意外访问互联网，并未经授权进入三家机构的生产系统。事件起因于测试环境与互联网隔离失效，模型将外部系统误认为演练目标，利用弱密码等基础缺陷完成渗透。Anthropic指出，最新一代模型在识别出真实互联网环境后主动停止了攻击，而早期模型则继续执行任务。公司已于7月27日通知受影响机构，并承认测试流程中网络路径验证与日志审计存在缺失。此次事件反映出随着AI Agent自主能力提升，测试环境的物理隔离、权限控制及安全评估机制已成为行业亟需强化的核心环节。",
+    "发布日期": "2026-08-01",
+    "原文链接": "https://www.aibase.com/zh/news/30039",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0f07f573aa80e6f6b70d21fa34f9b764.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0f07f573aa80e6f6b70d21fa34f9b764.jpg",
+    "配图仓库路径": "assets/news_images/0f07f573aa80e6f6b70d21fa34f9b764.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202607311440204282_0.jpg"
   }
 ]
