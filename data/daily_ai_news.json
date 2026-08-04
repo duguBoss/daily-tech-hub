@@ -1,27 +1,27 @@
 [
   {
-    "资讯标题": "阿里巴巴发布Qwen3.8-Max大模型，参数量达2.4万亿并即将开源",
-    "内容": "阿里巴巴正式发布新一代基座大模型Qwen3.8-Max，该模型总参数量达2.4万亿，在编程与专业办公场景中性能显著提升。在权威第三方评测榜单Arena中，Qwen3.8-Max综合实力位居行业前列，仅次于Anthropic的Claude系列。目前，Qwen3.8-Max的API接口已上线千问AI平台，并同步接入全新「千问办公」Agent产品。阿里巴巴官方确认，Qwen3.8-Max及Qwen3.8-27B模型计划于下周正式开源。此次发布标志着国产大模型在处理复杂任务能力上的重要突破，为开发者和企业用户提供了更强劲的智能工具支持，进一步推动了AI技术生态的共享与发展。",
+    "资讯标题": "高德升级通用交互式世界模型ABot-World-0实现24小时连续稳定推理",
+    "内容": "高德正式升级自研通用交互式世界模型ABot-World-0，在单张消费级GPU上实现全球首个24小时连续稳定推理，突破了行业内世界模型推理时长仅维持在分钟级的技术瓶颈。针对自回归视频生成中误差累积导致的画面崩坏与物理规律失真问题，高德提出LongForcing长程训练范式，通过将长时间稳定性与开放场景动态建模统一纳入训练目标，有效缓解了分布漂移。目前，ABot-World-0已正式开源，支持单张消费级显卡本地部署，并集成至ABot-World Studio开发平台。此次技术突破显著提升了模型在长时交互、仿真模拟、机器人训练及数字孪生等领域的应用潜力，为交互式世界模型实现长期自主运行提供了关键技术路径。",
     "发布日期": "2026-08-04",
-    "原文链接": "https://www.aibase.com/zh/news/30068",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
-    "配图仓库路径": "assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007232048_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30092",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3f007fa8cb6d9457ce4078887637c736.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3f007fa8cb6d9457ce4078887637c736.jpg",
+    "配图仓库路径": "assets/news_images/3f007fa8cb6d9457ce4078887637c736.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201811151621143684_43.jpg"
   },
   {
-    "资讯标题": "腾讯AI助手“元宝”升级图片理解功能，支持多场景看图问答与决策辅助",
-    "内容": "腾讯旗下AI助手“元宝”近日完成图片理解功能升级，正式推出“遇事不慌，先拍一张”服务场景。此次更新重点优化了文字识别精度、细节感知及跨领域解读逻辑，覆盖医疗健康、生活维修、合同审核、社交沟通及内容创作等高频需求。在专业领域，元宝可精准解读体检报告、药品说明书，梳理用药禁忌；在法律文书方面，系统能自动提炼租房或劳动合同关键条款并提示潜在风险。生活场景中，用户通过拍摄家电故障照片可获取排查指引，上传聊天截图则能生成社交回复话术，或为照片匹配个性化创作文案。目前，用户可通过元宝APP或微信端体验该功能。官方表示，未来将持续拓展垂直场景，降低AI工具使用门槛，以技术解决日常生活中的实际问题。",
+    "资讯标题": "苹果起诉OpenAI窃密案揭露内部数据管理漏洞：前员工离职后仍可访问机密",
+    "内容": "苹果起诉OpenAI窃取商业机密案引发关注，该案件意外暴露了苹果内部数据管理漏洞。由于苹果长期鼓励员工将个人Apple ID与公司配发的iCloud空间绑定，并允许合并存储，导致大量工作文件与个人数据混存。尽管苹果曾推出“Apple Work”文件夹进行管理，但由于账户架构限制，iPhone仅支持单一主Apple ID，导致许多员工将工作与生活文件存入同一账户。这一机制缺陷使得部分员工在离职后，仍能通过个人iCloud账户同步并调阅包括产品发布计划在内的机密文件。该事件不仅为苹果与OpenAI的法律纠纷增添了技术争议，也直接暴露了苹果在企业数据治理与权限隔离方面的软肋，即账户架构未能有效实现离职后的数据权限阻断，导致公司机密资产存在外泄风险。",
     "发布日期": "2026-08-04",
-    "原文链接": "https://www.aibase.com/zh/news/30073",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9d13b6aadaaebb6585bac29cab7bc024.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9d13b6aadaaebb6585bac29cab7bc024.jpg",
-    "配图仓库路径": "assets/news_images/9d13b6aadaaebb6585bac29cab7bc024.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405301426367458_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30087",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97cf32890bed12ea8b3a96c0d7d593b6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97cf32890bed12ea8b3a96c0d7d593b6.jpg",
+    "配图仓库路径": "assets/news_images/97cf32890bed12ea8b3a96c0d7d593b6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812131617128989_7.jpg"
   },
   {
     "资讯标题": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-    "内容": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 3, 202618近日，慕尼黑一家法院对知名AI音乐生成器 Suno 做出了一项重要裁决。法院认定，Suno 在AI模型的训练过程以及最终的输出结果中均构成了版权侵权，并正式驳回了该公司提出的合理使用抗辩。这一判决目前尚未最终生效。此次诉讼由德国音乐版权组织 GEMA 提起，案件主要围绕六首知名歌曲展开，其中包括 Kristina Bach 的《Atemlos durch die Nacht》以及经典曲目《Rasputin》。法院经审理后指出，Suno 的 3.5 版本和 4 版本模型能够准确再现这些知名歌曲中的原创元素。",
+    "内容": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 3, 202621近日，慕尼黑一家法院对知名AI音乐生成器 Suno 做出了一项重要裁决。法院认定，Suno 在AI模型的训练过程以及最终的输出结果中均构成了版权侵权，并正式驳回了该公司提出的合理使用抗辩。这一判决目前尚未最终生效。此次诉讼由德国音乐版权组织 GEMA 提起，案件主要围绕六首知名歌曲展开，其中包括 Kristina Bach 的《Atemlos durch die Nacht》以及经典曲目《Rasputin》。法院经审理后指出，Suno 的 3.5 版本和 4 版本模型能够准确再现这些知名歌曲中的原创元素。",
     "发布日期": "2026-08-04",
     "原文链接": "https://www.aibase.com/zh/news/30079",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ae6726fe6315307510bb850d380822f6.jpg",
@@ -30,23 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091633078246_0.jpg"
   },
   {
-    "资讯标题": "MiniMax正式开源通用视频模型H3，支持2K高清音画生成与多模态输入",
-    "内容": "人工智能企业MiniMax正式开源新一代通用视频模型MiniMax H3，该模型支持全模态生成，可深度融合文本、图像、视频及音频上下文。H3支持4至15秒时长、24 FPS帧率及32 kHz立体声输出，提供多种宽高比选择。通过H3-Regenerate-2K方案，模型可实现2K分辨率重构。在多语言方面，支持包括中、英、日、韩等在内的11种主流语言。架构上，H3由H3-Context-IR上下文中间表示、H3-Base基础生成模块及H3-Regenerate-2K超分重构模块组成。模型提供灵活的输入模式：H3-Base-FL2VA支持首尾帧生成，H3-Base-Ref2VA全模态参考模式支持最多12个文件（含图像、视频、音频）的混合输入。目前，MiniMax H3已基于MiniMax H3 Community L",
+    "资讯标题": "微软测试首款全双工AI语音模型MAI Realtime，支持16种语言听说并行",
+    "内容": "微软正在测试其首款原生实时语音模型MAI Realtime，该模型通过全双工交互技术打破了传统语音助手“轮次交替”的限制，实现听说并行。MAI Realtime支持中文、英语、日语等16种语言，并具备自动语言识别与中途切换能力。系统利用端点检测技术，在用户插话时能即时调整输出，对话体验更接近真人交流。相比此前的MAI-Voice-2和MAI-Transcribe-1.5单向任务模型，MAI Realtime在交互逻辑上实现重大突破。目前测试版提供Victoria和Grant两种语音风格，音质较Copilot现有模式更自然，但暂不支持唱歌或生成非语音音效。微软已邀请部分合作伙伴在MAI Playground平台进行测试，调试面板可实时监控延迟数据与处理步骤，但尚未公布该模型集成至Copilot或Microsoft",
     "发布日期": "2026-08-04",
-    "原文链接": "https://www.aibase.com/zh/news/30069",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
-    "配图仓库路径": "assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556149296_6.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30084",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a8cb3954d53f5c6bc15b7ed65231d1e2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a8cb3954d53f5c6bc15b7ed65231d1e2.jpg",
+    "配图仓库路径": "assets/news_images/a8cb3954d53f5c6bc15b7ed65231d1e2.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0804/6392143036240345895042241.png"
   },
   {
-    "资讯标题": "DeepSeek-V4-Flash正式版上线国家超算互联网并开启API公测",
-    "内容": "DeepSeek正式发布V4-Flash稳定版（DeepSeek-V4-Flash-0731）并同步启动API公测，国家超算互联网平台已上线该模型API调用服务及模型文件下载。该版本经大量后训练，在智能体能力与指令遵循方面显著增强，多项基准测试表现可媲美最强闭源模型。开发者可通过国家超算互联网官网“模型服务”专区一键调用API，或利用平台提供的Notebook环境进行微调、部署与适配。目前，国家超算互联网AI社区已汇集超1700款国内外开源模型，涵盖DeepSeek、GLM、Qwen、Kimi等主流系列，并支持多模型对比与切换。依托全国首个十万卡级超智融合算力资源池，该平台实现了从底层算力到上层模型服务的全链路覆盖，旨在降低AI应用开发门槛，加速国产大模型落地。",
+    "资讯标题": "四川证监局处罚AI造假炒股案：95后利用AI批量编造虚假信息获利被罚48.5万元",
+    "内容": "四川证监局于8月3日公布行政处罚决定书，投资者孙某因利用AI工具批量编造并传播某上市公司纯碱生产故障的虚假信息，并借此交易纯碱期货合约获利，被没收违法所得8.5万元并处罚款40万元，合计罚没48.5万元。2023年11月，孙某通过百度百家号“帝侃”，在两天内利用AI工具连续发布17篇虚假文章，尽管收到律师函要求停止侵权，但其仍同步进行期货交易。监管部门认定，孙某未经核实编造并传播虚假信息，主观故意明显，破坏了期货市场正常信息传播秩序，违反了《期货和衍生品法》。此案是公开报道中罕见的AI造假操纵期货市场处罚案例，明确了监管机构对利用AI技术降低造谣成本、扰乱金融市场行为的严厉打击态度，警示行业及投资者AI造假行为面临的高额违法成本。",
     "发布日期": "2026-08-04",
-    "原文链接": "https://www.aibase.com/zh/news/30076",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c0736f8707d22281ef34a0342d032ba8.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c0736f8707d22281ef34a0342d032ba8.jpg",
-    "配图仓库路径": "assets/news_images/c0736f8707d22281ef34a0342d032ba8.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051439307375_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30086",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/57b0b6d2b1dccf8512d08a2ee295b20f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/57b0b6d2b1dccf8512d08a2ee295b20f.jpg",
+    "配图仓库路径": "assets/news_images/57b0b6d2b1dccf8512d08a2ee295b20f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305251639370937_21.jpg"
   }
 ]
