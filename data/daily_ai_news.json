@@ -1,42 +1,52 @@
 [
   {
-    "资讯标题": "字节跳动拟训练5万亿参数大模型，张一鸣下令严禁内部模型蒸馏",
-    "内容": "字节跳动正计划训练参数规模超5万亿的大语言模型，该规模远超目前国内主流的阿里Qwen 3.8-Max（2.4万亿）及月之暗面K3（2.8万亿）。该项目由Seed Foundation负责人项亮牵头，预训练数据负责人沈科协同，旨在通过超大规模参数实现技术领先。字节创始人张一鸣在内部会议中强调长期主义，明确要求严禁使用开源模型进行蒸馏，并采取API检测等手段限制此类行为，认为蒸馏会干扰长期技术突破。CEO梁汝波在8月6日全员大会上重申，字节将坚持自研路线，不为短期榜单排名牺牲长期目标。此举标志着字节跳动在AGI战略上选择避开行业内卷，通过重构组织资源与研发思路，追求底层技术突破，而非单纯追求短期性能指标。",
-    "发布日期": "2026-08-07",
-    "原文链接": "https://www.aibase.com/zh/news/30181",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/322294f33be68d3d0c10e184cd8905a0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/322294f33be68d3d0c10e184cd8905a0.jpg",
-    "配图仓库路径": "assets/news_images/322294f33be68d3d0c10e184cd8905a0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908052105504517_4.jpg"
+    "资讯标题": "谷歌发布离线翻译设备Gemma Translator，基于树莓派运行51亿参数模型",
+    "内容": "谷歌Creative Lab团队于8月6日发布离线翻译设备Gemma Translator，该设备基于Raspberry Pi 5单板计算机开发，全程无需联网即可实现跨语种对话。核心模型采用谷歌Gemma 4E2B，总参数量51亿，激活参数量23亿，专为资源受限的边缘设备设计。系统通过LiteRT-LM框架执行翻译推理，并集成Moonshine模型进行本地语音转写与合成。用户通过麦克风输入语音后，设备可实时在显示器同步展示译文并由扬声器播报。此举展示了端侧模型从技术演示向独立成品转化的路径，证明了在边缘计算环境下，通过轻量化模型与本地处理框架，可实现无需云端依赖的实时翻译功能，为开发者提供了边缘AI应用落地的参考范式。",
+    "发布日期": "2026-08-08",
+    "原文链接": "https://www.aibase.com/zh/news/30191",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c98465b9990f07b5c8d75ae0e9f5b496.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c98465b9990f07b5c8d75ae0e9f5b496.jpg",
+    "配图仓库路径": "assets/news_images/c98465b9990f07b5c8d75ae0e9f5b496.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0807/6392170817233229284882789.png"
   },
   {
-    "资讯标题": "OpenAI首款AI硬件细节曝光：甜甜圈造型、冰球大小，预计2027年发布",
-    "内容": "OpenAI首款自研AI硬件细节曝光，该产品由OpenAI与前苹果设计师Jony Ive合作开发，预计于2027年发布，售价区间为300至400美元。设备外形呈“甜甜圈”造型，体积约为冰球大小（直径约7.62厘米），定位为无显示屏的家庭智能音箱，支持单手携带。硬件配置方面，该设备集成可移动部件、灯光、摄像头系统及多种传感器，通过自动移动部件提示响应状态。交互机制基于更先进的LLM，旨在提供接近人类交流的自然语音互动，功能类似于手机端ChatGPT的语音模式。此次产品研发标志着OpenAI正式将对话AI能力从软件层面延伸至硬件载体，通过与Jony Ive的深度合作，试图在工业设计与用户体验层面构建差异化竞争壁垒，切入家庭AI companion市场。",
-    "发布日期": "2026-08-07",
-    "原文链接": "https://www.aibase.com/zh/news/30187",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/52d3f21132ebb785afc1bf5c7019f1ff.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/52d3f21132ebb785afc1bf5c7019f1ff.jpg",
-    "配图仓库路径": "assets/news_images/52d3f21132ebb785afc1bf5c7019f1ff.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0807/6392169704410052639766138.png"
+    "资讯标题": "字节跳动计划训练超5万亿参数大模型，规模或居国内首位",
+    "内容": "字节跳动正处于训练超5万亿参数大模型的早期讨论阶段，该模型若成功落地，将成为国内已知规模最大的大模型，性能对标GPT-5.6或Opus 5级别。在算力需求方面，以H100显卡为基准，训练该量级模型需百万张显卡运行35天，或10万张显卡运行约347天。考虑到算力投入与工程周期，字节跳动预计将采取20至30万张显卡进行为期3至4个月的训练，叠加准备与后训练环节，整体研发周期至少需半年至一年。此举旨在显著提升豆包大模型的逻辑推理与综合能力，以缩小与OpenAI、Anthropic等国际头部厂商在超大规模模型领域的差距。目前该计划尚处于早期阶段，最终是否发布仍存在不确定性，核心挑战在于如何通过商业落地实现与天文数字级算力投入相匹配的经济回报。",
+    "发布日期": "2026-08-08",
+    "原文链接": "https://www.aibase.com/zh/news/30189",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d920e5095af766f1e5bde33cf9dac4e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d920e5095af766f1e5bde33cf9dac4e4.jpg",
+    "配图仓库路径": "assets/news_images/d920e5095af766f1e5bde33cf9dac4e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405160815252726_0.jpg"
   },
   {
-    "资讯标题": "OpenAI 计划下周发布全新旗舰模型 Astra，主攻多智能体协同与复杂推理",
-    "内容": "OpenAI 预计于下周发布代号为 mewfour 的全新旗舰模型 Astra，这是继 GPT-4.5 以来公司规模最大的预训练模型。Astra 的核心定位在于多智能体协同与复杂任务自动化，旨在应对长周期、高难度工作流，标志着 OpenAI 从单轮对话向智能体编排的战略转型。在性能表现上，Astra 已展现出极强的逻辑推理能力，内部测试显示其成功解出了 10 个重要开放数学问题，验证了其在深度推理领域的突破。该模型被视为 OpenAI 巩固技术领先地位的关键举措，旨在应对来自 Google Gemini 3.5 Pro 及 Anthropic Claude 系列的激烈竞争。若 Astra 具备成熟的智能体协同能力，将有望成为企业级 AI 应用的核心基础设施，为科研、工程及复杂决策场景提供更强的自动化支持。此次发",
-    "发布日期": "2026-08-07",
-    "原文链接": "https://www.aibase.com/zh/news/30175",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "配图仓库路径": "assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg"
+    "资讯标题": "Alphabet计划举债250亿美元，软银以OpenAI股份抵押贷款100亿美元",
+    "内容": "Alphabet与软银近期通过大规模债务融资筹集AI军备竞赛资金。Alphabet计划发行期限涵盖2年至40年的十份债券，总额达200至250亿美元，资金将专项用于数据中心扩建、TPU研发及模型训练。与此同时，软银集团通过愿景基金2号全资子公司，与高盛、摩根大通等银团签署了2年期100亿美元抵押贷款协议。该笔贷款以软银持有的OpenAI股份作为抵押品，旨在获取即期流动性并保留未来估值收益空间。两家巨头选择债务融资而非股权融资，旨在应对AI基础设施建设的高资本开支与长回报周期，通过锁定长期成本避免稀释股权。这种融资模式反映了AI行业对算力与人才的极高资金依赖，同时也通过抵押优质AI资产释放流动性，为后续的研发与市场竞争提供持续弹药。",
+    "发布日期": "2026-08-08",
+    "原文链接": "https://www.aibase.com/zh/news/30199",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9c890e99ed5addd286fc9001673230f1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9c890e99ed5addd286fc9001673230f1.jpg",
+    "配图仓库路径": "assets/news_images/9c890e99ed5addd286fc9001673230f1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405201504382287_0.jpg"
   },
   {
     "资讯标题": "Adobe与OpenAI深化合作，ChatGPT正式接入70多款Adobe创意工具",
-    "内容": "Adobe与OpenAI合作大幅扩容，自8月6日起，用户可在ChatGPT中直接调用Photoshop、Premiere、Acrobat、Lightroom、Illustrator及InDesign等70多款Adobe工具。用户通过在ChatGPT插件页面添加Adobe插件，输入“@Adobe”及具体任务指令，即可完成照片编辑、视频制作及PDF生成等操作。该插件支持与OpenAI的Codex及Work套件协同，登录Creative Cloud账户后可同步云端文件并调用Adobe Firefly生成式AI模型。Adobe副总裁Forrest Key表示，此举旨在将专业创意工具嵌入用户工作流，但强调插件并非旗舰应用的替代品。此次集成标志着ChatGPT向“超级工作台”演进，通过消除软件切换壁垒，显著提升了创意生产效",
-    "发布日期": "2026-08-07",
+    "内容": "Adobe与OpenAI今日宣布合作扩容，用户现可在ChatGPT中直接调用Photoshop、Premiere、Acrobat等70多款Adobe工具。用户通过在ChatGPT插件页面添加Adobe插件，并输入“@Adobe”指令即可执行照片编辑、视频制作及PDF生成等任务。该插件支持与OpenAI的Codex及Work套件协同，未登录Creative Cloud账户可使用基础功能，登录后则支持云端文件访问及调用Adobe Firefly生成式AI模型。Adobe副总裁Forrest Key表示，此举旨在将专业级工具嵌入AI原生工作流，但强调插件并非旗舰应用的替代品，复杂创作仍需依赖旗舰软件。此次集成标志着ChatGPT向“超级工作台”演进，通过消除软件切换壁垒，显著提升了创意生产流程的效率，同时也强化了Ad",
+    "发布日期": "2026-08-08",
     "原文链接": "https://www.aibase.com/zh/news/30185",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b947ac5e91223bb3eb606c2aa8ca4bc1.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b947ac5e91223bb3eb606c2aa8ca4bc1.jpg",
     "配图仓库路径": "assets/news_images/b947ac5e91223bb3eb606c2aa8ca4bc1.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811260933402293_9.jpg"
+  },
+  {
+    "资讯标题": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+    "内容": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 7, 20264斯坦福大学和 Arc Institute 的研究人员利用基因组语言模型 Evo 生成了约 70 万份病毒基因组候选序列，从中筛选合成 285 份，最终 16 份在实验室中变成了能够复制、感染并杀死大肠杆菌的噬菌体。相关研究 8 月 6 日发表于《科学》杂志，标志着 AI 生成式生物学从设计单个蛋白质或基因，跃升至整套功能性病毒基因组的从头设计。模型输出的并非病毒成品，而是一串串 DNA 序列，研究人员负责筛选、合成并送入大肠杆菌进行验证，大多数实验无反应，少数培养皿上出现透明斑点意味着细菌已被新生病毒裂解。",
+    "发布日期": "2026-08-08",
+    "原文链接": "https://www.aibase.com/zh/news/30192",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ffc5b3771766fc130b009b96177b7cad.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ffc5b3771766fc130b009b96177b7cad.jpg",
+    "配图仓库路径": "assets/news_images/ffc5b3771766fc130b009b96177b7cad.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005281122180332_67.jpg"
   }
 ]
