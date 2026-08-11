@@ -1,17 +1,17 @@
 [
   {
-    "资讯标题": "苹果Apple智能迎来重大升级：Siri正式接入阿里千问大模型",
-    "内容": "苹果官方更新Mac使用手册，宣布国内版Apple智能正式接入阿里巴巴千问大模型。搭载macOS 26.6及以上系统的国行Mac设备，在开启相关权限后，Siri的智能程度与功能上限显著提升。此次升级使Siri具备了更深度的复杂请求处理能力，并新增照片与文稿分析功能，系统内置写作工具也支持文本创作与图像生成。该功能目前仅面向三类用户开放：Apple账户地区设置为中国大陆的用户、未登录Apple账户的国内用户，以及购买国行Mac机型的用户。海外版Mac即便升级系统也无法使用此功能。此次合作使国内用户在办公、图文创作及生活问答场景中，可直接依托本机AI高效处理，无需频繁切换第三方软件，国行版本在本地AI体验上形成了差异化优势。",
+    "资讯标题": "英伟达联合六大金融机构筹集超5000亿美元建设AI算力融资平台",
+    "内容": "8月11日，英伟达宣布与Apollo、贝莱德、黑石、博枫、高盛和KKR六家金融机构达成合作，共同建立独立的算力融资平台，旨在为全球AI基础设施建设筹集超过5000亿美元的第三方资本。英伟达已于8月10日签署谅解备忘录，待最终协议生效后，该平台将通过设立大规模资金池，以具备竞争力的融资利率，向企业、云服务商及AI开发机构提供资金支持。此举旨在缓解客户在数据中心、GPU集群及能源配套建设中的巨额资本压力，加速AI“工厂”的规模化扩张。随着生成式AI模型训练与推理需求激增，英伟达此举标志着AI产业竞争已从单纯的模型与芯片技术层面，深度延伸至算力基础设施与金融资本体系的协同建设，通过降低融资门槛，进一步巩固其在AI算力生态中的核心地位。",
     "发布日期": "2026-08-11",
-    "原文链接": "https://www.aibase.com/zh/news/30209",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5501df55e35a0976c4641b4c1ea4de89.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5501df55e35a0976c4641b4c1ea4de89.jpg",
-    "配图仓库路径": "assets/news_images/5501df55e35a0976c4641b4c1ea4de89.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606091001081219_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30232",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/62b9e13e0dbd0f3c9f62b9537b1ee823.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/62b9e13e0dbd0f3c9f62b9537b1ee823.jpg",
+    "配图仓库路径": "assets/news_images/62b9e13e0dbd0f3c9f62b9537b1ee823.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201811151633429961_46.jpg"
   },
   {
     "资讯标题": "英伟达发布首款开源全双工语音模型NemotronLabs VoiceChat 11B",
-    "内容": "英伟达正式推出首款开源端到端全双工语音对话模型NemotronLabs VoiceChat 11B。该模型摒弃了传统的ASR、LLM与TTS分步架构，采用统一网络实现流式语音理解与生成，平滑轮换延迟低至448毫秒，支持边听边说的全双工交互及中途插话响应。作为首个支持对话中工具调用的开源全双工模型，其引入了独立输出通道与预置“保持”话术机制，可有效处理API调用期间的静默问题。目前该模型仅限研究用途，部署需单张至少80GB显存的高性能GPU，暂未提供托管API。尽管存在长上下文及多轮对话的局限性，但其开放权重与容器设计为联络中心、汽车座舱及智能辅助等领域的开发者提供了新的工程化探索路径。",
+    "内容": "英伟达正式推出首款开源端到端全双工语音对话模型NemotronLabs VoiceChat 11B。该模型摒弃了传统ASR、LLM与TTS分步架构，采用统一网络实现流式语音理解与生成，平滑轮换延迟低至448毫秒，支持边听边说的全双工交互及中途插话响应。作为首个支持对话中工具调用的开源全双工模型，其引入独立输出通道与预置“保持”话术机制，在处理外部API请求时可自动触发过渡台词，避免静默。目前该模型仅限研究用途，部署需单张至少80GB显存的高性能GPU，暂未提供托管API。其开放权重与容器设计为联络中心、汽车座舱及智能无障碍辅助等领域的开发者提供了底层架构参考，但在长上下文及多轮对话场景下仍存在局限性。",
     "发布日期": "2026-08-11",
     "原文链接": "https://www.aibase.com/zh/news/30220",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
@@ -20,33 +20,33 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202010261720420670_6.jpg"
   },
   {
-    "资讯标题": "xAI发布Imagine Image 2.0模型，支持5张参考图融合与智能扩图",
-    "内容": "xAI正式上线Imagine Image 2.0，作为Grok旗下Web端及移动端应用的新一代质量模式，重点提升了复杂指令理解、字体布局规划及小尺寸文字清晰度。该模型支持一次融合最多5张参考图，并提供魔棒与分割工具实现精准局部编辑，同时具备背景移除与透明图像导出功能。新增的智能调整大小功能支持1:2至9:16等多种画幅比例扩展。针对电商、角色设计等场景，xAI推出了模板工作流，确保多轮生成中的视觉风格一致性。在Arena评测中，grok-imagine-image-2在文生图与图像编辑任务中均位列全球第二，得分分别为1320分与1439分。目前该模型API访问计划正在推进中，尚未正式对外开放。",
+    "资讯标题": "腾讯开源浏览器自动化工具BrowserSkill，赋能AI智能体独立执行网页任务",
+    "内容": "腾讯正式开源专为AI Agent设计的浏览器自动化工具BrowserSkill，旨在解决智能体处理网页任务的效率痛点。该工具区别于传统大模型插件，具备三大核心优势：一是支持复用浏览器真实登录状态，无需重复验证；二是采用独立窗口执行指令，不干扰用户当前工作流；三是通过简洁的bsk命令行工具（CLI），实现与Claude Code、Codex及Workbuddy等主流智能体的无缝接入。在技术架构上，BrowserSkill采用CLI独立驱动与扩展中介设计，模型无需直接识别复杂网页底层元素，显著提升了执行速度与稳定性。实测显示，该工具可高效完成知乎话题搜索、社交平台评论抓取及情绪画像生成等任务。BrowserSkill的推出打通了AI智能体与真实网络交互的“最后一公里”，为开发者实现多任务并行处理提供了全新的技术路径",
     "发布日期": "2026-08-11",
-    "原文链接": "https://www.aibase.com/zh/news/30211",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c138c3b3dcce9a3a8be97700f726221b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c138c3b3dcce9a3a8be97700f726221b.jpg",
-    "配图仓库路径": "assets/news_images/c138c3b3dcce9a3a8be97700f726221b.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0810/6392195412019696567326111.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30233",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/622ef85c5eea4801a5ac77e28f2d3f6a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/622ef85c5eea4801a5ac77e28f2d3f6a.jpg",
+    "配图仓库路径": "assets/news_images/622ef85c5eea4801a5ac77e28f2d3f6a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0811/6392203751767614668285327.png"
   },
   {
-    "资讯标题": "OpenAI拟于8月发布10万亿参数GPT-6，年底将推出代号Doug的超大规模模型",
-    "内容": "OpenAI计划于8月发布代号为Astra的GPT-6模型，该模型参数规模预计达10万亿，约为GPT-4的五倍以上。此次发布标志着OpenAI在经历两年模型底座未更新后，正式完成预训练发动机的换代。除GPT-6外，OpenAI预计在11月前推出代号为Doug的更大规模预训练模型，该模型或采用英伟达下一代Vera Rubin芯片进行训练，旨在突破Scaling Laws瓶颈并巩固行业领先地位。此前，OpenAI通过Garlic验证实验克服了十万卡集群的稳定性难题。面对Anthropic旗下Fable 5.1的竞争，OpenAI通过GPT-6与Doug的组合拳布局，意图在ASI领域确立绝对优势。此举反映了硅谷在高性能计算与前沿模型研发上的激烈博弈，行业关注焦点已转向预训练规模的再次跃升。",
+    "资讯标题": "OpenAI完成70亿美元员工股份回购，估值维持8520亿美元",
+    "内容": "OpenAI近日完成了一项约70亿美元的员工股份回购交易，此次回购由公司直接出资，未引入外部投资者。交易对OpenAI的估值维持在8520亿美元，与今年3月的融资估值持平。此次大规模回购旨在为员工提供套现渠道，但也暗示其IPO进程可能延后。尽管OpenAI已于今年6月向美国证券交易委员会秘密提交IPO文件，但面对营收未达预期及CEO奥尔特曼承认的业绩压力，公司选择通过回购规避上市复杂性。在Anthropic等竞争对手盈利压力下，OpenAI正通过削减业务投入、聚焦企业服务等战略调整蓄力。此次回购既是留住核心人才的筹码，也反映出公司在财务数据未达最优状态前，倾向于延长私有化阶段以换取更稳健的长期增长。",
     "发布日期": "2026-08-11",
-    "原文链接": "https://www.aibase.com/zh/news/30212",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图仓库路径": "assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30227",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/730c66fd8008a8495148a3d15a35b002.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/730c66fd8008a8495148a3d15a35b002.jpg",
+    "配图仓库路径": "assets/news_images/730c66fd8008a8495148a3d15a35b002.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719384092_4.jpg"
   },
   {
-    "资讯标题": "Google Chrome 与微软 Edge 提升本地 AI 模型磁盘空间需求至 20GB",
-    "内容": "Google Chrome 与微软 Edge 浏览器近期更新官方要求，将本地 AI 模型运行的空闲磁盘空间门槛提升至 20GB。此次调整旨在支持设备端 AI 功能，以降低延迟并保护隐私。除存储要求外，Edge 浏览器还增设了至少 5.5GB GPU 显存的硬件门槛。若设备可用存储空间降至 10GB 以下，Edge 会自动删除模型以保障浏览器运行。目前，用户可通过 Chrome 设置中的系统页面关闭设备端 AI 功能。这一变化标志着浏览器正从网页渲染工具向 AI 推理引擎转型，但模型体积的五倍增长对 256GB 及以下容量的轻薄本构成了显著存储压力。厂商需在 AI 功能丰富度与硬件资源占用间寻求平衡，以避免因高门槛导致用户关闭相关功能。",
+    "资讯标题": "Meta开源30B参数模型Muse Glimmer，支持消费级硬件本地运行AI Agent",
+    "内容": "Meta于8月10日正式开源300亿参数模型Muse Glimmer，作为今年4月发布的封闭模型Muse Spark的开放版本，采用Apache 2.0许可证。该模型专为消费级硬件上的本地AI Agent设计，支持在配备单块消费级GPU的Mac或PC上离线运行。Muse Glimmer具备多步骤代理能力，可执行工具调用、代码编写调试、文件处理及屏幕截图分析，并支持文本与图像输入，训练覆盖100多种语言。Meta旨在通过该模型实现“始终在线”的个人超级智能，通过本地化处理个人数据以强化隐私保护。尽管Meta采取分层策略，保留了能力更强的Muse Spark作为闭源模型，但Muse Glimmer的发布为开发者提供了构建可负担、高性能本地AI助手的关键工具，进一步推动了个人AI Agent在消费级设备上的普及。",
     "发布日期": "2026-08-11",
-    "原文链接": "https://www.aibase.com/zh/news/30210",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f7974d8b0300cd6534ce38c1aa17cac3.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f7974d8b0300cd6534ce38c1aa17cac3.jpg",
-    "配图仓库路径": "assets/news_images/f7974d8b0300cd6534ce38c1aa17cac3.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201904101223281778_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30231",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "配图仓库路径": "assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605060956253111_0.jpg"
   }
 ]
