@@ -1,52 +1,42 @@
 [
   {
-    "资讯标题": "谷歌发布Gemini 3.7 Flash模型：编码性能显著提升且初始定价下调50%",
-    "内容": "谷歌正式发布Gemini 3.7 Flash，该模型针对代码编写与AI Agent场景进行了深度优化。在性能指标上，FrontierCode基准测试得分从34.4%提升至43.6%，DeepSWE得分从49.0%跃升至65.3%，综合表现超越Claude Sonnet 5与GPT-5.6 Terra。目前，该模型已通过API、AI Studio及Antigravity平台开放。定价方面，Gemini 3.7 Flash初始价格设定为每百万输入代币0.75美元、输出代币3.75美元，较前代产品发布时降低50%，该优惠定价将持续至2026年年底。此次更新通过算法突破实现了性能与成本的双重优化，旨在加速高性价比大模型在复杂编码及自主代理领域的商业化落地进程。",
-    "发布日期": "2026-08-14",
-    "原文链接": "https://www.aibase.com/zh/news/30335",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
-    "配图仓库路径": "assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202601161504560592_0.jpg"
+    "资讯标题": "金山办公灵犀专业版接入DeepSeek-V4-Pro正式版并全量上线",
+    "内容": "2026年8月14日，金山办公旗下AI智能体“灵犀专业版”正式接入DeepSeek-V4-Pro（V4-Pro-0813）及Flash版本，并向全体用户全量开放。DeepSeek-V4-Pro原生支持100万token超长上下文，单次最大输出达38.4万token，在基准测试中表现优于Preview版本。灵犀专业版通过集成该模型，强化了Agent在需求拆解、工具调用及成果交付上的执行链路。该产品区别于传统对话式AI，能深度理解用户历史文档、会议材料及个人偏好，并自主调用文档、表格、浏览器、代码等工具，直接生成可编辑、可溯源的原生Office成果。此次更新显著提升了复杂办公场景下自动化处理的稳定性，用户无需额外配置，在产品内切换即可使用。",
+    "发布日期": "2026-08-15",
+    "原文链接": "https://www.aibase.com/zh/news/30355",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "配图仓库路径": "assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309201735148362_0.jpg"
   },
   {
-    "资讯标题": "微软合并消费级与企业级Copilot并关停多项AI衍生功能",
-    "内容": "微软宣布对AI产品路线图进行重大调整，正式合并消费级Copilot应用与企业级Microsoft 365 Copilot，旨在通过资源聚焦打造更流畅的用户体验。自2026年8月18日起，消费者端将停止提供群聊、AI生成播客、Copilot Labs实验性功能及深度研究（Deep Research）功能，付费专业用户可通过Researcher获取替代体验。同时，Copilot产品形象更新为名为Mico的漂浮小球，独立应用中的历史文件将迁移至OneDrive。此次调整反映了微软对“双线并行”策略的修正，承认个人与工作AI场景存在大量重叠。微软副总裁雅各布·安德鲁表示，应用需通过舍弃无效功能来提升核心竞争力。这一收缩动作标志着大模型应用竞争正从“功能堆砌”转向“高频刚需”，科技巨头正通过精简整合构建生成式AI产品的核",
-    "发布日期": "2026-08-14",
-    "原文链接": "https://www.aibase.com/zh/news/30331",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
-    "配图仓库路径": "assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202602270950033335_0.jpg"
+    "资讯标题": "苹果 HomePod mini 2 预计今年秋季发布，将搭载高性能芯片支持端侧 AI",
+    "内容": "苹果 HomePod mini 2 最快将于今年秋季正式亮相，这是该产品自 2020 年发布以来的首次重大更新。此次迭代的核心在于硬件算力的升级，旨在支撑新一代 Siri 的本地 AI 运算需求。现款 HomePod mini 搭载的 S5 芯片将升级为性能更强的处理器（预计为 S9 或更高规格），以实现更精准的语音理解与逻辑思考能力。在连接性方面，设备将配备更先进的 UWB 超宽带硬件，显著提升跨设备识别与响应速度。此外，新机型在音频表现上也将有所优化。此次更新反映出 AI 能力已成为苹果硬件迭代的关键掣肘，HomePod mini 2 不仅是常规产品换代，更将作为苹果端侧 AI 体验的重要入口，承担起重塑 Siri 语音助手口碑的战略任务。",
+    "发布日期": "2026-08-15",
+    "原文链接": "https://www.aibase.com/zh/news/30359",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d0caae9a70c7ea4f765052ff3020b651.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d0caae9a70c7ea4f765052ff3020b651.jpg",
+    "配图仓库路径": "assets/news_images/d0caae9a70c7ea4f765052ff3020b651.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202011091028004490_6.jpg"
   },
   {
-    "资讯标题": "OpenAI发布Mac版ChatGPT Computer History功能，通过系统事件构建工作记忆",
-    "内容": "OpenAI于8月13日正式推出Mac版ChatGPT的Computer History功能，取代此前的Chronicle研究预览。该功能通过调用macOS辅助功能，直接记录点击、输入、快捷键及应用切换等系统事件，将用户操作转化为结构化记忆，从而实现自动生成工作摘要或找回文件，无需手动提供上下文。在隐私设计上，系统自动排除隐私浏览活动，互动事件仅在本地暂存48小时，生成记忆后即被删除。目前该功能仅面向ChatGPT Pro、Business及Enterprise订阅用户开放，且暂不适用于欧洲经济区、瑞士和英国。此举标志着AI助手从对话工具向系统级工作搭档演进，通过操作系统级别的行为轨迹沉淀，提升AI对用户工作流的理解深度。",
-    "发布日期": "2026-08-14",
-    "原文链接": "https://www.aibase.com/zh/news/30332",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/088c477805629bec3e202da8f8aebf0a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/088c477805629bec3e202da8f8aebf0a.jpg",
-    "配图仓库路径": "assets/news_images/088c477805629bec3e202da8f8aebf0a.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0814/6392229562781101299805293.png"
+    "资讯标题": "智谱发布大模型 GLM-5.3：参数维持7400亿，编程性能提升50%",
+    "内容": "智谱正式发布大模型 GLM-5.3，在基座参数量保持7400亿不变的情况下，通过后训练技术实现性能50%的提升。该模型在 Terminal-Bench 3.0、DeepSWE v1.1 及 Agents' Last Exam 等基准测试中表现显著跃升，编程与 Agent 能力逼近 Claude Fable 5。在自研 Z.ai Code Bench 测试中，GLM-5.3 在 High 档位下准确率达 31.4%，且 Token 利用效率优于 Claude Opus 4.8。产品落地方面，GLM-5.3 已上线 ZCode 和 AutoClaw 工具，并向 TraeWork、扣子等第三方平台开放体验。API 将于近期上线，完整模型权重预计在两周内完成安全加固后开源。目前 GLM Coding Plan 用户额度",
+    "发布日期": "2026-08-15",
+    "原文链接": "https://www.aibase.com/zh/news/30353",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
+    "配图仓库路径": "assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606031120440878_0.jpg"
   },
   {
-    "资讯标题": "OpenAI发布GPT-5.6 Sol超快模式，算力处理速度提升14倍",
-    "内容": "OpenAI正式推出GPT-5.6 Sol“超快”模式，该模式在不降低模型性能的前提下，输出速度最高可达每秒750个token，整体处理速度较标准模式提升14倍。该技术突破核心在于引入Cerebras晶圆级引擎架构，通过内置44GB片上SRAM，有效解决了传统GPU系统的数据传输瓶颈。在“人类终极考试”测试中，该模式仅用11小时即完成2500道题目。GPT-5.6 Sol模式主要面向事件响应、金融研究、实时客服及复杂编程等高强度工作流。由于算力资源有限，OpenAI将根据客户工作负载契合度及算力可用性，采取分批评估与发放访问权限的策略。此前，该版本已于7月完成小范围内部预览。",
-    "发布日期": "2026-08-14",
-    "原文链接": "https://www.aibase.com/zh/news/30329",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cc904e600144364f4971e8aeb13468e2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/cc904e600144364f4971e8aeb13468e2.jpg",
-    "配图仓库路径": "assets/news_images/cc904e600144364f4971e8aeb13468e2.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0814/6392229489986993146328130.png"
-  },
-  {
-    "资讯标题": "DeepSeek 开源首款 Agent 框架 Harness，采用插件式架构实现模块化执行",
-    "内容": "DeepSeek 于8月13日正式开源首款 Agent 框架 DeepSeek Harness v0.1 开发者预览版，采用 MIT 协议。该框架定位为模型执行引擎，核心公式为“Model + Harness = Agent”，旨在通过“一切皆插件”的设计理念，解决当前智能体生态碎片化问题。Harness 基于 Cordis 插件元框架构建，模型、工具、技能、沙箱及存储等组件均可作为独立插件自由替换与重组。开发者无需修改源码，仅需通过配置即可实现功能拼装。目前，Harness 预置了标准、PTC 程序化工具调用、极简及创造四种运行模式，支持开发者在本地部署 Node.js 环境后，通过 npx 命令快速启动 Web 交互界面。该框架内置了项目管理、多智能体编排、上下文管理及联网检索等全套能力，为开发者提供了一套",
-    "发布日期": "2026-08-14",
-    "原文链接": "https://www.aibase.com/zh/news/30334",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
-    "配图仓库路径": "assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723412816_0.jpg"
+    "资讯标题": "反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机",
+    "内容": "反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 14, 20266备受瞩目的谷歌反垄断案迎来关键转折，美国司法部正全力阻止谷歌向各大浏览器支付巨额费用以维持默认搜索引擎地位。然而这一本意在于打破谷歌行业垄断的严厉举措，却意外让 Firefox 浏览器的母公司 Mozilla 陷入了空前的生存危机。作为搜索引擎市场的绝对主导者，谷歌每年在购买默认搜索引擎占位上的支出超过 260 亿美元。尽管法院此前拒绝了全面禁止此项付费的要求，但司法部在上诉中坚持认为，谷歌正利用垄断资金扼杀未来的新兴竞争对手。收入命脉面临切断，独立浏览器厂商陷入绝境 对于高度依赖这笔资金的 Mozilla 而言，司法部推进的付费禁令无疑是一场灭顶之灾。",
+    "发布日期": "2026-08-15",
+    "原文链接": "https://www.aibase.com/zh/news/30351",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2e367f590275fead5741c80659ab9c7c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2e367f590275fead5741c80659ab9c7c.jpg",
+    "配图仓库路径": "assets/news_images/2e367f590275fead5741c80659ab9c7c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908252258295110_3.jpg"
   }
 ]
