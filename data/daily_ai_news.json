@@ -1,7 +1,7 @@
 [
   {
     "资讯标题": "谷歌发布Gemini 3.7 Flash模型：编码性能显著提升且初始定价下调50%",
-    "内容": "谷歌正式发布Gemini 3.7 Flash，该模型针对代码编写与AI Agent场景进行深度优化。在性能指标上，FrontierCode基准测试得分从34.4%提升至43.6%，DeepSWE得分由49.0%跃升至65.3%，在Web开发、文档理解及业务流程自动化方面表现优于Claude Sonnet 5和GPT-5.6 Terra。目前，Gemini 3.7 Flash已通过API、AI Studio及Antigravity平台开放。定价方面，其初始价格设定为每百万输入代币0.75美元、输出代币3.75美元，较前代Gemini 3.6 Flash发布时降低50%，该优惠定价将持续至2026年年底。此次更新通过算法突破实现了性能与成本的双重优化，旨在加速高性价比大模型在复杂编码及自主代理领域的商业化落地进程。",
+    "内容": "谷歌正式发布Gemini 3.7 Flash，该模型针对代码编写与AI Agent场景进行了深度优化。在性能指标上，FrontierCode基准测试得分从34.4%提升至43.6%，DeepSWE得分从49.0%跃升至65.3%，综合表现超越Claude Sonnet 5与GPT-5.6 Terra。目前，该模型已通过API、AI Studio及Antigravity平台开放。定价方面，Gemini 3.7 Flash初始价格设定为每百万输入代币0.75美元、输出代币3.75美元，较前代产品发布时降低50%，该优惠定价将持续至2026年年底。此次更新通过算法突破实现了性能与成本的双重优化，旨在加速高性价比大模型在复杂编码及自主代理领域的商业化落地进程。",
     "发布日期": "2026-08-14",
     "原文链接": "https://www.aibase.com/zh/news/30335",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
@@ -10,8 +10,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202601161504560592_0.jpg"
   },
   {
+    "资讯标题": "微软合并消费级与企业级Copilot并关停多项AI衍生功能",
+    "内容": "微软宣布对AI产品路线图进行重大调整，正式合并消费级Copilot应用与企业级Microsoft 365 Copilot，旨在通过资源聚焦打造更流畅的用户体验。自2026年8月18日起，消费者端将停止提供群聊、AI生成播客、Copilot Labs实验性功能及深度研究（Deep Research）功能，付费专业用户可通过Researcher获取替代体验。同时，Copilot产品形象更新为名为Mico的漂浮小球，独立应用中的历史文件将迁移至OneDrive。此次调整反映了微软对“双线并行”策略的修正，承认个人与工作AI场景存在大量重叠。微软副总裁雅各布·安德鲁表示，应用需通过舍弃无效功能来提升核心竞争力。这一收缩动作标志着大模型应用竞争正从“功能堆砌”转向“高频刚需”，科技巨头正通过精简整合构建生成式AI产品的核",
+    "发布日期": "2026-08-14",
+    "原文链接": "https://www.aibase.com/zh/news/30331",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
+    "配图仓库路径": "assets/news_images/0abdab7b4d7ad50812eef5efd682ce06.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202602270950033335_0.jpg"
+  },
+  {
     "资讯标题": "OpenAI发布Mac版ChatGPT Computer History功能，通过系统事件构建工作记忆",
-    "内容": "OpenAI于8月13日正式推出Mac版ChatGPT的Computer History功能，取代此前的Chronicle研究预览。该功能通过调用macOS辅助功能记录点击、输入、快捷键及应用切换等互动事件，将用户操作转化为结构化记忆，从而实现自动生成工作摘要或找回文件，无需手动提供上下文。在隐私设计上，系统会自动排除隐私浏览活动，互动事件仅在本地暂存最多48小时，生成记忆后即被删除。目前，该功能仅面向ChatGPT Pro、Business及Enterprise订阅用户开放，且暂不适用于欧洲经济区、瑞士和英国。此举标志着AI助手从对话工具向系统级工作搭档演进，通过操作系统级别的行为轨迹沉淀，提升AI对用户工作流的理解深度。",
+    "内容": "OpenAI于8月13日正式推出Mac版ChatGPT的Computer History功能，取代此前的Chronicle研究预览。该功能通过调用macOS辅助功能，直接记录点击、输入、快捷键及应用切换等系统事件，将用户操作转化为结构化记忆，从而实现自动生成工作摘要或找回文件，无需手动提供上下文。在隐私设计上，系统自动排除隐私浏览活动，互动事件仅在本地暂存48小时，生成记忆后即被删除。目前该功能仅面向ChatGPT Pro、Business及Enterprise订阅用户开放，且暂不适用于欧洲经济区、瑞士和英国。此举标志着AI助手从对话工具向系统级工作搭档演进，通过操作系统级别的行为轨迹沉淀，提升AI对用户工作流的理解深度。",
     "发布日期": "2026-08-14",
     "原文链接": "https://www.aibase.com/zh/news/30332",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/088c477805629bec3e202da8f8aebf0a.jpg",
@@ -21,7 +31,7 @@
   },
   {
     "资讯标题": "OpenAI发布GPT-5.6 Sol超快模式，算力处理速度提升14倍",
-    "内容": "OpenAI正式推出GPT-5.6 Sol“超快”模式，该模式在不降低模型性能的前提下，输出速度最高可达每秒750个token，整体处理速度较标准模式提升最高达14倍。该技术突破核心在于引入Cerebras晶圆级引擎架构，通过内置44GB片上SRAM，有效解决了传统GPU系统的数据传输瓶颈。在“人类终极考试”测试中，该模式仅用约11小时即完成2500道题目。GPT-5.6 Sol模式主要面向事件响应、金融研究、实时客户支持及复杂编程等高强度工作流。鉴于算力资源限制，OpenAI将根据客户工作负载契合度及算力可用性，采取分批次评估并逐步发放访问权限的策略。",
+    "内容": "OpenAI正式推出GPT-5.6 Sol“超快”模式，该模式在不降低模型性能的前提下，输出速度最高可达每秒750个token，整体处理速度较标准模式提升14倍。该技术突破核心在于引入Cerebras晶圆级引擎架构，通过内置44GB片上SRAM，有效解决了传统GPU系统的数据传输瓶颈。在“人类终极考试”测试中，该模式仅用11小时即完成2500道题目。GPT-5.6 Sol模式主要面向事件响应、金融研究、实时客服及复杂编程等高强度工作流。由于算力资源有限，OpenAI将根据客户工作负载契合度及算力可用性，采取分批评估与发放访问权限的策略。此前，该版本已于7月完成小范围内部预览。",
     "发布日期": "2026-08-14",
     "原文链接": "https://www.aibase.com/zh/news/30329",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cc904e600144364f4971e8aeb13468e2.jpg",
@@ -30,18 +40,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0814/6392229489986993146328130.png"
   },
   {
-    "资讯标题": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-    "内容": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 14, 20269知情人士透露，按当前业绩计算，OpenAI 年化营收有望突破 400 亿美元，较 2025 年底的水平大致翻倍，为公司的华尔街上市计划注入强劲动力。据不愿具名的知情人士称，OpenAI 近几个月营收加速增长，部分得益于 AI 编程软件业务的快速扩张，订阅业务和仍处于起步阶段的广告业务也带来增长，核心消费者业务继续扩容。OpenAI 对此拒绝置评。营收的加速增长正值 OpenAI 与长期竞争对手 Anthropic 激烈争夺企业客户之际。",
-    "发布日期": "2026-08-14",
-    "原文链接": "https://www.aibase.com/zh/news/30326",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/62eaa11015e5765ca0d7b6cf73e106e2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/62eaa11015e5765ca0d7b6cf73e106e2.jpg",
-    "配图仓库路径": "assets/news_images/62eaa11015e5765ca0d7b6cf73e106e2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502061723412816_0.jpg"
-  },
-  {
-    "资讯标题": "DeepSeek开源首款Agent框架Harness v0.1，采用一切皆插件架构",
-    "内容": "DeepSeek于8月13日正式开源首款Agent框架Harness v0.1开发者预览版，采用MIT协议。该框架定位为模型执行引擎，核心理念为“一切皆插件”，通过Model + Harness = Agent的架构，将模型推理与任务执行解耦。Harness基于Cordis插件元框架构建，模型、工具、技能、沙箱及UI等组件均以独立插件形式存在，支持开发者在配置层面自由拼装，无需修改源码。该框架内置项目管理、多智能体编排、上下文管理及联网检索等能力，并预置标准、PTC程序化调用、极简及创造四种运行模式。开发者可通过Node.js环境使用npx命令快速部署。作为DeepSeek布局Agent赛道的开源基座，Harness旨在解决当前智能体生态碎片化问题，通过高度模块化的设计降低复杂任务智能体的构建门槛，为开发者提供",
+    "资讯标题": "DeepSeek 开源首款 Agent 框架 Harness，采用插件式架构实现模块化执行",
+    "内容": "DeepSeek 于8月13日正式开源首款 Agent 框架 DeepSeek Harness v0.1 开发者预览版，采用 MIT 协议。该框架定位为模型执行引擎，核心公式为“Model + Harness = Agent”，旨在通过“一切皆插件”的设计理念，解决当前智能体生态碎片化问题。Harness 基于 Cordis 插件元框架构建，模型、工具、技能、沙箱及存储等组件均可作为独立插件自由替换与重组。开发者无需修改源码，仅需通过配置即可实现功能拼装。目前，Harness 预置了标准、PTC 程序化工具调用、极简及创造四种运行模式，支持开发者在本地部署 Node.js 环境后，通过 npx 命令快速启动 Web 交互界面。该框架内置了项目管理、多智能体编排、上下文管理及联网检索等全套能力，为开发者提供了一套",
     "发布日期": "2026-08-14",
     "原文链接": "https://www.aibase.com/zh/news/30334",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
