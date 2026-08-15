@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "金山办公灵犀专业版接入DeepSeek-V4-Pro正式版并全量上线",
-    "内容": "2026年8月14日，金山办公旗下AI智能体“灵犀专业版”正式接入DeepSeek-V4-Pro（V4-Pro-0813）及Flash版本，并向全体用户全量开放。DeepSeek-V4-Pro原生支持100万token超长上下文，单次最大输出达38.4万token，在基准测试中表现优于Preview版本。灵犀专业版通过集成该模型，强化了Agent在需求拆解、工具调用及成果交付上的执行链路。该产品区别于传统对话式AI，能深度理解用户历史文档、会议材料及个人偏好，并自主调用文档、表格、浏览器、代码等工具，直接生成可编辑、可溯源的原生Office成果。此次更新显著提升了复杂办公场景下自动化处理的稳定性，用户无需额外配置，在产品内切换即可使用。",
+    "资讯标题": "金山办公灵犀专业版全量接入DeepSeek-V4-Pro正式版模型",
+    "内容": "金山办公旗下AI智能体“灵犀专业版”于2026年8月14日正式接入DeepSeek-V4-Pro（V4-Pro-0813）旗舰模型，并向全体用户全量上线DeepSeek-V4系列（含Flash与Pro版本）。DeepSeek-V4-Pro原生支持100万token超长上下文，单次最大输出达38.4万token，在基准测试中表现优于Preview版本。灵犀专业版通过集成该模型，强化了Agent在需求拆解、工具调用及成果交付上的执行链路，支持自主调用文档、表格、浏览器及代码等工具，处理历史文档、会议材料等复杂办公任务。此次更新旨在提升复杂场景下的自动化处理稳定性，用户在产品内手动切换即可直接调用，最终交付可编辑、可溯源的原生Office成果。",
     "发布日期": "2026-08-15",
     "原文链接": "https://www.aibase.com/zh/news/30355",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "资讯标题": "苹果 HomePod mini 2 预计今年秋季发布，将搭载高性能芯片支持端侧 AI",
-    "内容": "苹果 HomePod mini 2 最快将于今年秋季正式亮相，这是该产品自 2020 年发布以来的首次重大更新。此次迭代的核心在于硬件算力的升级，旨在支撑新一代 Siri 的本地 AI 运算需求。现款 HomePod mini 搭载的 S5 芯片将升级为性能更强的处理器（预计为 S9 或更高规格），以实现更精准的语音理解与逻辑思考能力。在连接性方面，设备将配备更先进的 UWB 超宽带硬件，显著提升跨设备识别与响应速度。此外，新机型在音频表现上也将有所优化。此次更新反映出 AI 能力已成为苹果硬件迭代的关键掣肘，HomePod mini 2 不仅是常规产品换代，更将作为苹果端侧 AI 体验的重要入口，承担起重塑 Siri 语音助手口碑的战略任务。",
+    "内容": "苹果 HomePod mini 2 最快将于今年秋季正式亮相，这是该产品线自 2020 年发布以来的首次重大更新。此次换代的核心驱动力在于 AI 能力的提升，新机型将放弃现款的 S5 芯片，转而搭载性能更强的处理器（预计为 S9 或更高规格），旨在为新一代 Siri 提供必要的本地 AI 运算算力，使其具备更强的理解与思考能力。除算力升级外，HomePod mini 2 还将升级 UWB 超宽带硬件，以提升设备间的识别精度与响应速度，并有望在音频表现上实现优化。苹果此次硬件迭代反映了软件成熟度对产品发布节奏的决定性影响，HomePod mini 2 将作为苹果端侧 AI 体验的重要入口，承担起重塑 Siri 语音交互口碑的关键任务。该产品的发布节奏此前曾因苹果 AI 研发进度而多次推迟，其最终表现将直接检验苹果",
     "发布日期": "2026-08-15",
     "原文链接": "https://www.aibase.com/zh/news/30359",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d0caae9a70c7ea4f765052ff3020b651.jpg",
@@ -20,8 +20,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202011091028004490_6.jpg"
   },
   {
-    "资讯标题": "智谱发布大模型 GLM-5.3：参数维持7400亿，编程性能提升50%",
-    "内容": "智谱正式发布大模型 GLM-5.3，在基座参数量保持7400亿不变的情况下，通过后训练技术实现性能50%的提升。该模型在 Terminal-Bench 3.0、DeepSWE v1.1 及 Agents' Last Exam 等基准测试中表现显著跃升，编程与 Agent 能力逼近 Claude Fable 5。在自研 Z.ai Code Bench 测试中，GLM-5.3 在 High 档位下准确率达 31.4%，且 Token 利用效率优于 Claude Opus 4.8。产品落地方面，GLM-5.3 已上线 ZCode 和 AutoClaw 工具，并向 TraeWork、扣子等第三方平台开放体验。API 将于近期上线，完整模型权重预计在两周内完成安全加固后开源。目前 GLM Coding Plan 用户额度",
+    "资讯标题": "智谱发布大模型 GLM-5.3：参数维持 7400 亿，编程能力逼近 Claude Fable 5",
+    "内容": "智谱正式发布大模型 GLM-5.3，在基座参数维持 7400 亿不变的情况下，通过后训练技术实现性能 50% 的提升。该模型在 Terminal-Bench 3.0、DeepSWE v1.1 及 Agents' Last Exam 等基准测试中表现显著，编程与 Agent 能力逼近 Claude Fable 5。在自研 Z.ai Code Bench 测试中，GLM-5.3 在 High 档位下准确率达 31.4%，且 Token 利用效率优于 Claude Opus 4.8。产品落地方面，GLM-5.3 已上线 ZCode 和 AutoClaw 工具，并向 GLM Coding Plan 用户及 TraeWork、扣子等第三方平台开放体验。API 将于近期上线，完整模型权重计划在两周内完成安全加固后开源。",
     "发布日期": "2026-08-15",
     "原文链接": "https://www.aibase.com/zh/news/30353",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
