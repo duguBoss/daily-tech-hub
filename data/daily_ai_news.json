@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心",
-    "内容": "苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 14, 20265距离 2020 年首次发布已近六年，苹果 HomePod mini 终于要迎来更新。最新消息显示，第二代 HomePod mini 最快将于今年秋季亮相，而迟迟未换代的原因，是为了等待新一代 Siri 的成熟。事实上不止这一款，新款 Apple TV 4K、全尺寸 HomePod 乃至智能家居显示屏等多款产品，都曾因苹果 AI 研发进度而推迟。这反映出 AI 能力已成为苹果硬件迭代的关键掣肘，软件成熟度直接决定了硬件发布的节奏。",
+    "资讯标题": "苹果 HomePod mini 2 预计今年秋季发布，将搭载高性能芯片支持本地 AI 运算",
+    "内容": "苹果 HomePod mini 2 最快将于今年秋季正式亮相，这是该产品线自 2020 年发布以来的首次重大更新。此次换代的核心驱动力在于 AI 能力的提升，新机型将放弃现款的 S5 芯片，转而搭载性能更强的处理器（预计为 S9 或更高规格），旨在为新一代 Siri 提供必要的本地 AI 运算算力，以实现更精准的语音理解与思考能力。除算力升级外，新机型还将配备更先进的 UWB 超宽带硬件，以优化设备间的识别响应速度与跨设备协作体验，并有望在音频表现上实现提升。苹果此举旨在通过硬件迭代，将入门级智能音箱打造为端侧 AI 体验的重要入口，从而改善 Siri 的智能化口碑。该产品的发布节奏反映出苹果硬件迭代已深度绑定软件 AI 的研发进度，未来将通过更强的芯片支撑更复杂的智能家居交互场景。",
     "发布日期": "2026-08-16",
     "原文链接": "https://www.aibase.com/zh/news/30359",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d0caae9a70c7ea4f765052ff3020b651.jpg",
@@ -10,18 +10,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202011091028004490_6.jpg"
   },
   {
-    "资讯标题": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
-    "内容": "百万上下文解锁复杂办公。金山办公灵犀全量上线 DeepSeek-V4正式版双模型AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 14, 202664金山办公旗下 AI 办公智能体“灵犀专业版”于2026年8月14日宣布正式接入DeepSeek最新旗舰模型 DeepSeek-V4-Pro 正式版（V4-Pro-0813），用户无需任何额外配置，在产品内手动切换即可直接体验。作为 DeepSeek 的最新旗舰产品，V4-Pro-0813原生支持高达100万 token 的超长上下文，单次最大输出可达38.4万 token，各项基准测试表现较 Preview 版本实现全面提升。",
+    "资讯标题": "百度GenFlow官宣中文名“库库AI”并推出PC、网页、小程序及企业版",
+    "内容": "8月14日，百度文库网盘通用智能体GenFlow正式官宣中文名“库库AI”，并同步推出独立产品矩阵。此次升级后，百度文库网盘将“库库AI”独立化运营，发布库库AI办公PC客户端、网页端、小程序及企业版，全面覆盖个人办公、移动端及企业级应用场景。数据显示，GenFlow月活用户已突破1亿，AI办公MAU超过2500万。此次产品矩阵的推出，标志着百度进一步强化通用智能体在办公场景的产品化布局。随着AI Agent从单一功能工具向覆盖信息处理、内容生产和办公协同的综合智能体演进，库库AI通过多终端形态的布局，旨在进一步拓展其使用场景与服务边界，提升办公协同效率。",
     "发布日期": "2026-08-16",
-    "原文链接": "https://www.aibase.com/zh/news/30355",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
-    "配图仓库路径": "assets/news_images/d65cf7dd94415ea153fe74fa51499776.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309201735148362_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30354",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b42360a551d2af392abf0b84b34462ba.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b42360a551d2af392abf0b84b34462ba.jpg",
+    "配图仓库路径": "assets/news_images/b42360a551d2af392abf0b84b34462ba.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201912192146016232_0.jpg"
   },
   {
-    "资讯标题": "智谱 GLM-5.3 发布：7400 亿参数没涨，靠后训练硬拉 50% 性能，编程能力逼近 Fable 5",
-    "内容": "智谱 GLM-5.3 发布：7400 亿参数没涨，靠后训练硬拉 50% 性能，编程能力逼近 Fable 5AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 14, 20261338月14日，智谱正式发布大模型 GLM-5.3。基座参数量仍然是7400多亿，跟 GLM-5.2同一套底子，此前传闻的万亿参数升级并没有出现——那枚牌大概被留给了 GLM-5.5。但智谱靠着后训练这招，硬是让 GLM-5.3的性能比上一代提升了50%，在多项主流基准测试中拿下了当前开源模型最高排名，编程与智能体能力接近 Claude Fable5，编程体感超过其他国产模型。几项关键基准的成绩跃升很有说服力。",
+    "资讯标题": "智谱发布大模型 GLM-5.3，通过后训练提升 50% 性能并开源",
+    "内容": "智谱正式发布大模型 GLM-5.3，在维持 7400 亿参数规模不变的前提下，通过后训练技术使模型性能提升 50%。该模型在编程与 Agent 能力上表现突出，编程体感逼近 Claude Fable 5。在关键基准测试中，Terminal-Bench 3.0 得分从 4.6 升至 28.3，DeepSWE v1.1 从 46.2 涨至 66.9。在 Z.ai Code Bench 测试中，GLM-5.3 在 High 档位下准确率达 31.4%，且 Token 利用率优于 Claude Opus 4.8。目前，GLM-5.3 已上线智谱 ZCode 和 AutoClaw 工具，并向 GLM Coding Plan 用户及 TraeWork、扣子等第三方平台开放体验。API 将于近期上线，完整模型权重预计在两周内",
     "发布日期": "2026-08-16",
     "原文链接": "https://www.aibase.com/zh/news/30353",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2005366d3b30a5a217976b7a1e0f1295.jpg",
@@ -40,8 +40,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908252258295110_3.jpg"
   },
   {
-    "资讯标题": "DeepSeek-V4-Pro正式上线硅基流动，支持百万级上下文与三档推理强度",
-    "内容": "DeepSeek-V4-Pro-0813已正式上线硅基流动（SiliconFlow）平台，该模型采用MIT开源协议，核心特性包括1M上下文窗口及低、高、最大三档推理强度，重点优化了编码、工具调用及Agent工作流表现。在定价方面，输入token为1.32美元/百万，输出token为3.96美元/百万，缓存命中价格低至0.44美元/百万。该定价策略旨在降低长上下文场景下的单位运行成本，为依赖反复调用和长文本输入的Agent工作流提供更具性价比的算力支持。此外，硅基流动同步提供DeepSeek-V4-Flash-0731型号，与V4-Pro形成差异化布局：Flash侧重于高性价比的日常生产负载，而V4-Pro则专注于复杂推理与重度智能体任务，满足不同场景下的算力需求。",
+    "资讯标题": "DeepSeek-V4-Pro-0813上线硅基流动，支持百万上下文与三档推理强度",
+    "内容": "DeepSeek-V4-Pro-0813已正式上线硅基流动（SiliconFlow）平台，该模型采用MIT开源协议，核心聚焦于编码、工具调用及智能体（Agent）工作流场景。模型支持1M上下文窗口，并提供低、高、最大三档推理强度供用户选择。在定价方面，输入token为1.32美元/百万，输出token为3.96美元/百万，缓存命中价格低至0.44美元/百万。此次发布与此前主打高性价比的DeepSeek-V4-Flash-0731形成差异化布局，前者侧重复杂推理与重度任务，后者则面向日常生产负载。极低的缓存命中定价为长上下文Agent工作流提供了更具成本效益的运行方案，有效降低了长文本场景下的预算压力，为开发者在复杂推理任务中提供了更明确的单位成本测算锚点。",
     "发布日期": "2026-08-16",
     "原文链接": "https://www.aibase.com/zh/news/30358",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/667255575e16aa4262f5968b93751303.jpg",
