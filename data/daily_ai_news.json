@@ -1,52 +1,42 @@
 [
   {
-    "资讯标题": "颠覆认知!Anthropic单季营收飙升13倍并实现盈利，AI大模型彻底告别“纯烧钱”时代?",
-    "内容": "Anthropic单季营收飙升13倍并实现盈利，AI大模型彻底告别“纯烧钱”时代。AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 17, 202615近年来，关于人工智能大模型研发需要无休止投入巨资的悲观叙事，正被头部企业的最新财报彻底打破。作为全球顶尖的人工智能企业之一，Anthropic近日向潜在投资者披露的财务数据显示其商业化进程迎来了突破性进展。文件显示，Anthropic最近一个完整季度的初步营收已突破115亿美元，较上年同期的7.87亿美元增长超过13倍，而今年第一季度的营收则为47.3亿美元。更为关键的是，伴随着企业级客户付费意愿的集中释放，该公司在2026年第二季度的调整后营业利润已正式转正，展现出极为强劲的现金流创造能力。",
-    "发布日期": "2026-08-17",
-    "原文链接": "https://www.aibase.com/zh/news/30371",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
+    "资讯标题": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台并获评测大满贯",
+    "内容": "阿里巴巴正式在千问AI平台上线Qwen-Audio-3.0系列语音模型，包含Qwen-Audio-3.0-ASR、Qwen-Audio-3.0-TTS及Qwen-Audio-3.0-Realtime。该系列模型在Artificial Analysis今年7月的语音排行榜中，斩获ASR、RealTime及TTS三个核心赛道全球第一。Qwen-Audio-3.0-ASR具备复杂语境识别能力；TTS支持多语种、多方言及情绪语气控制；Realtime实现端到端语音理解，支持随时打断追问与工具调用，已接入千问App、千问办公及Qoder。千问AI平台近期同步更新Qwen3.8-Max、Qwen-image3.0pro及Wan3.0，构建起全模态模型矩阵。为降低开发者调用门槛，平台推出Token Plan订阅服务，个人版最",
+    "发布日期": "2026-08-18",
+    "原文链接": "https://www.aibase.com/zh/news/30399",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
+    "配图仓库路径": "assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007232048_2.jpg"
   },
   {
-    "资讯标题": "英伟达拟向软银旗下SB Energy注资30亿美元以加码OpenAI数据中心生态",
-    "内容": "英伟达正与软银集团支持的清洁能源企业SB Energy展开深入洽谈，计划向其注资最高30亿美元，此举旨在进一步加码OpenAI数据中心生态建设。该投资是英伟达构建AI基础设施版图的核心组成部分，通过资本纽带将AI芯片、数据中心及能源供应紧密连结。除SB Energy外，英伟达还计划为位于俄亥俄州的数据中心园区提供约1000亿美元的信贷支持。尽管此前市场传闻的2500亿美元融资担保规模有所缩减，但英伟达仍通过大规模资本运作，深度扶持产业链关键环节。通过此类布局，英伟达不仅稳固了其在AI算力领域的统治地位，也加速了全球AI基础设施的落地与升级，确保其尖端硬件在大型数据中心项目中获得持续采购与应用。",
-    "发布日期": "2026-08-17",
-    "原文链接": "https://www.aibase.com/zh/news/30374",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
+    "资讯标题": "豆包App上线工作任务远程控制电脑功能，实现跨设备移动办公",
+    "内容": "字节跳动旗下智能助手豆包正式上线“工作任务”模式的远程控制电脑功能，旨在打破办公场景的设备限制。用户将豆包App更新至最新版本后，通过登录同账号、选择“工作任务”模式并完成短信验证码授权，即可在手机端接管并操控已登录的电脑。该功能支持调取本地电脑的文件上下文，可高效处理文档、图片、代码及表格等资料，并支持格式转换、生成总结及图表等复杂操作。此外，该功能还支持单台手机关联多台电脑，实现跨设备联动与文件统一调取。此举精准解决了职场用户在电脑不在身边时的紧急办公需求，通过将智能助手的跨端协同能力落地，为移动办公提供了更灵活的解决方案，进一步提升了跨设备办公的效率与边界。",
+    "发布日期": "2026-08-18",
+    "原文链接": "https://www.aibase.com/zh/news/30402",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f4daca621e2e34f1284b8b3acd9a9847.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f4daca621e2e34f1284b8b3acd9a9847.jpg",
+    "配图仓库路径": "assets/news_images/f4daca621e2e34f1284b8b3acd9a9847.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0817/6392258198611658235753867.jpg"
   },
   {
-    "资讯标题": "支付巨头Stripe以70亿美元收购AI模型聚合平台OpenRouter",
-    "内容": "支付服务提供商Stripe于8月16日正式签署协议，以超过70亿美元的价格收购AI模型聚合平台OpenRouter。OpenRouter成立仅三年，今年5月完成B轮融资时估值约为13亿美元，此次收购价格较彼时增长超五倍。OpenRouter为开发者提供统一API入口，支持调用全球超400种开源及闭源LLM，并提供模型路由、用量统计与计费结算服务，目前已服务超800万开发者。该平台此前通过5.5%的平台服务费获利，其计费体系已深度集成Stripe支付工具。此次收购标志着Stripe正式向AI基础设施领域扩张，旨在将金融基础设施与AI模型调用计量环节深度打通，在多模型并行的行业格局中占据AI“交易层”的战略核心位置。",
-    "发布日期": "2026-08-17",
-    "原文链接": "https://www.aibase.com/zh/news/30373",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4a52fb32071ebcaa7e2befd2e8d1271f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4a52fb32071ebcaa7e2befd2e8d1271f.jpg",
-    "配图仓库路径": "assets/news_images/4a52fb32071ebcaa7e2befd2e8d1271f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304031607020716_0.jpg"
+    "资讯标题": "谷歌宣布Gemini系列模型支持关闭显式AI生成水印",
+    "内容": "谷歌Gemini负责人乔希·伍德沃德宣布，用户在生成图片、视频及音乐时可自主选择关闭显式水印。该功能将陆续覆盖Nano Banana、Omni及Lyria模型，优先在Gemini网页端及视频编辑软件Flow上线，后续扩展至搜索服务。谷歌强调，关闭显式水印仅针对肉眼可见标识，底层的SynthID不可见水印及C2PA标准元数据将继续保留，以确保内容透明度与可验证性。此举旨在降低专业创作者的后期处理成本，用户可通过设置中的媒体水印选项进行切换。此外，谷歌同步开源了Credentio本地验证开发库，支持开发者在应用中嵌入本地校验机制，进一步完善AI生成内容的溯源生态。",
+    "发布日期": "2026-08-18",
+    "原文链接": "https://www.aibase.com/zh/news/30397",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dbe40d60f4b1021c81e661754bb6c99a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dbe40d60f4b1021c81e661754bb6c99a.jpg",
+    "配图仓库路径": "assets/news_images/dbe40d60f4b1021c81e661754bb6c99a.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311151629216895_3.jpg"
   },
   {
-    "资讯标题": "OpenAI推出GPT-5.6 Sol UltraFast模式，每秒生成750 tokens",
-    "内容": "OpenAI正式面向企业用户发布GPT-5.6 Sol UltraFast超快模式预览，该模式由Cerebras提供算力支持，运行速度较标准模式提升14倍，最高生成速率达每秒750 tokens。目前该模式采用申请审核制，企业需提交具体使用场景供官方评估。OpenAI明确该模式专为高实时性业务设计，核心应用场景涵盖实时语音交互、智能化客户支持、商务应用、开发智能体（Agents）、金融深度研究及前沿安全研究。随着预览阶段推进，OpenAI将持续优化Cerebras算力资源，并计划根据反馈逐步扩大覆盖范围，最终通过API接口向更多企业开放此极速AI能力。",
-    "发布日期": "2026-08-17",
-    "原文链接": "https://www.aibase.com/zh/news/30378",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3821f596c4bcbe63094a48e504646b9d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3821f596c4bcbe63094a48e504646b9d.jpg",
-    "配图仓库路径": "assets/news_images/3821f596c4bcbe63094a48e504646b9d.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0817/6392255584933003209546289.png"
-  },
-  {
-    "资讯标题": "ChatGPT更新支持直接编辑Google Drive文件并集成Yelp餐厅预订",
-    "内容": "ChatGPT近日迎来重大功能更新，订阅用户现可直接将Google Drive文件添加至资料库，并在对话界面内完成文档编辑与内容处理。用户通过点击输入框旁“+”按钮选择“从资料库添加”，即可将云盘文件作为上下文，实现解答疑问、生成摘要及编辑操作，无需在不同应用间频繁切换。除云盘集成外，ChatGPT本周还上线了自定义主题的互动测验生成工具，支持自动生成多项选择题。此外，平台正式集成美国餐厅评分软件Yelp，为付费用户提供直接在主页进行餐厅预订及获取优质推荐的服务。此次更新通过深度整合外部生产力工具与生活服务平台，显著提升了ChatGPT作为AI Agent的办公效率与场景化服务能力，进一步优化了用户在单一界面内的交互体验。",
-    "发布日期": "2026-08-17",
-    "原文链接": "https://www.aibase.com/zh/news/30375",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图仓库路径": "assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
+    "资讯标题": "支付宝发布全栈智能体商业底座及AHA协议，商家接入需求排至明年",
+    "内容": "8月17日，支付宝在生态合作伙伴大会上发布国内首个全栈智能体商业底座及AHA（Agent Hub Access）多智能体跨端互联协议体系。该底座旨在助力商家实现从数字经营向智能经营转型，提供智能托管、技能编排及A2A多智能体协同能力。AHA协议体系通过智能交互、互联及设备感知协议，解决跨厂商服务适配难题，支持用户通过“一句话”实现跨端协同与安全履约。目前，支付宝超级服务智能体“阿宝”已完成万余项服务AI化接入，覆盖5大手机品牌及16家主流车企。蚂蚁集团首席执行官韩歆毅表示，智能体商业将在未来6-12个月迎来爆发。为加速生态建设，支付宝联合千问、华为、OPPO、比亚迪等20余家企业共建互联生态，并推出包含免费Token算力及57项原子经营能力开放的激励政策。支付宝事业群总裁李俊透露，自7月AI开发平台上线以来，商",
+    "发布日期": "2026-08-18",
+    "原文链接": "https://www.aibase.com/zh/news/30398",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/51d2bacde52509efe071db18ef91721a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/51d2bacde52509efe071db18ef91721a.jpg",
+    "配图仓库路径": "assets/news_images/51d2bacde52509efe071db18ef91721a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0817/6392258045508738259662229.png"
   }
 ]
