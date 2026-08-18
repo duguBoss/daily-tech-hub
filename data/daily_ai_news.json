@@ -1,17 +1,17 @@
 [
   {
-    "资讯标题": "Synchrony 携手 OpenAI 推动零售商专属信用卡接入 ChatGPT 实现聊天内结账",
-    "内容": "消费金融公司 Synchrony 宣布与 OpenAI 达成企业合作，旨在将零售商专属信用卡集成至 ChatGPT，实现 AI 原生购物与直接结账。作为亚马逊、沃尔玛等品牌的信用卡发行商，Synchrony 计划将借款、奖励及忠诚度计划嵌入聊天界面，推动“代理式电商”（agentic commerce）落地。此前 OpenAI 已与 Visa、Stripe 合作探索交易闭环。Synchrony 首席战略官 Maran Nalluswami 指出，通用信用卡接入 ChatGPT 预计需 6 至 12 个月，专属品牌信用卡因涉及多方协调周期更长。目前，各方正就交易费用分配及商业模式进行协商。此外，Synchrony 将推出 ChatGPT 插件以展示优惠商品及融资方案，并计划在内部部署 OpenAI 最新模型以加速",
+    "资讯标题": "字节跳动联合清华AIR发布CUDA Agent系统，提升大模型编写GPU内核性能",
+    "内容": "字节跳动Seed团队与清华大学智能产业研究院（AIR）联合发布CUDA Agent，这是一个专为训练LLM编写高性能GPU内核设计的智能体强化学习系统。针对大模型生成CUDA代码效率普遍低于传统编译器的问题，CUDA Agent通过集成性能分析工具、正确性校验机制及安全沙盒，利用PPO算法进行150步深度训练。测试显示，该系统在250个任务中通过率达98.8%，且96.8%的生成内核运行速度超越torch.compile。目前，研究团队已开源包含6000个样本的CUDA-Agent-Ops-6K数据集、SKILL.md规范及训练配方。该技术突破有望在AI基础设施、大模型推理、自动驾驶及量化交易等对延迟敏感的行业中发挥重要作用，推动AI在底层代码优化领域的应用进程。",
     "发布日期": "2026-08-18",
-    "原文链接": "https://www.aibase.com/zh/news/30410",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30418",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/322294f33be68d3d0c10e184cd8905a0.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/322294f33be68d3d0c10e184cd8905a0.jpg",
+    "配图仓库路径": "assets/news_images/322294f33be68d3d0c10e184cd8905a0.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908052105504517_4.jpg"
   },
   {
     "资讯标题": "OpenAI承诺2030年前大规模部署英伟达基础设施并建设AI工厂",
-    "内容": "OpenAI正式承诺在2030年前全面大规模部署英伟达AI基础设施，双方深化合作并将在PORTS-Pike建设世界级人工智能工厂。该项目将全面应用英伟达全栈DSX AI工厂平台，涵盖GPU、CPU、网络及基础设施软件，初期规划提供4.25吉瓦产能，未来有望扩展至16吉瓦。此次合作标志着算力竞争逻辑从单一芯片性能转向超节点、集群调度及软件适配的综合系统能力。受此驱动，产业链向网络、存储及运维延伸，国内供应链企业加速切入：麦格米特GB300电源已获批量订单，并推进VeraRubin电源对接；生益科技成为国内唯一通过英伟达M9级超高阶覆铜板认证的企业，正式进入高端AI服务器核心供应链。",
+    "内容": "OpenAI正式承诺在2030年前全面大规模部署英伟达AI基础设施，双方深化合作并将在PORTS-Pike建设世界级人工智能工厂。该项目将全面应用英伟达全栈DSX AI工厂平台，涵盖GPU、CPU、网络及基础设施软件。初期规划提供4.25吉瓦AI工厂产能，未来有望扩展至16吉瓦。此次合作标志着算力竞争逻辑从单一芯片性能转向超节点、集群调度及软件适配等综合系统能力。受此影响，国内供应链加速切入，麦格米特GB300电源产品已获批量订单，并正与北美头部云厂商对接下一代VeraRubin电源；生益科技则作为国内唯一通过英伟达M9级超高阶覆铜板认证的企业，正式进入高端AI服务器核心供应链。行业分析认为，算力产业正向网络、存储及运维等配套环节全面延伸，产业链将迎来长景气周期。",
     "发布日期": "2026-08-18",
     "原文链接": "https://www.aibase.com/zh/news/30409",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/730c66fd8008a8495148a3d15a35b002.jpg",
@@ -21,7 +21,7 @@
   },
   {
     "资讯标题": "OpenAI与SB Energy签署10吉瓦数据中心租约，英伟达注资15亿美元提供兜底",
-    "内容": "OpenAI已与软银旗下SB Energy签署一份为期20年的数据中心租约，该园区落地美国俄亥俄州，规划容量达10吉瓦，旨在打造全球最大的AI算力基地之一。英伟达作为关键参与方，向SB Energy注资15亿美元换取股权，并为项目一期约5吉瓦的电力容量提供资产价值兜底支持，以降低开发商的债务融资成本。作为交换，英伟达将成为该园区一期的独家芯片供应商，并保留将支持范围扩大至全部10吉瓦的选择权。该兜底机制采用分阶段缓释设计，仅覆盖已建成设施，且在OpenAI退出时设有转租及出售优先的风险补偿条款，一期补偿上限约1050亿美元。此举标志着算力巨头通过资产负债表为AI初创企业背书的融资模式进一步深化，通过锁定长期算力需求与供应链话语权，有效缓解了超大规模数据中心建设的融资压力。",
+    "内容": "OpenAI已与软银旗下SB Energy签署一份为期20年的10吉瓦数据中心租约，该项目落地美国俄亥俄州，旨在打造全球规模最大的AI算力基地之一。作为交易核心，英伟达注资15亿美元换取SB Energy股权，并为项目一期约5吉瓦电力容量提供资产价值兜底，以协助开发商降低债务融资成本。该协议明确英伟达为一期项目的独家芯片供应商，并保留将支持范围扩大至全量10吉瓦的选择权。英伟达的兜底机制采用分阶段缓释设计，仅在项目资产售价低于价值时补差额，一期上限约1050亿美元。此举标志着算力巨头通过资产负债表背书，深度介入AI基础设施建设，通过锁定长期租约与芯片供应，缓解了大规模算力基建的融资压力，为行业内的大型AI算力项目提供了新的资本运作范式。",
     "发布日期": "2026-08-18",
     "原文链接": "https://www.aibase.com/zh/news/30407",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
@@ -30,13 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
   },
   {
-    "资讯标题": "Anthropic年化营收突破650亿美元并计划秋季启动IPO",
-    "内容": "人工智能独角兽Anthropic年化营收运行率已于7月底突破650亿美元，较5月的470亿美元显著增长，远超去年底的90亿美元水平。市场预计其2026年全年营收有望达到1000亿至1200亿美元。相比之下，OpenAI同期年化营收约为400亿美元。Anthropic已秘密递交IPO申请，计划于今年秋季上市，目标估值不低于2万亿美元。若该目标达成，将刷新史上最大规模上市交易纪录。此前5月下旬，Anthropic刚以9650亿美元估值完成650亿美元融资。其极高的增长曲线已在资本市场引发高度关注，被视为对OpenAI强有力的竞争挑战。",
+    "资讯标题": "Anthropic年化营收突破650亿美元并秘密递交IPO申请",
+    "内容": "人工智能独角兽Anthropic年化营收运行率已于7月底突破650亿美元，较5月的470亿美元显著增长，远超去年底的90亿美元。市场预计其2026年全年营收有望达到1000亿至1200亿美元，增长曲线表现强劲。目前，Anthropic已秘密递交IPO申请，市场预期其将于今年秋季上市，估值目标不低于2万亿美元。相比之下，OpenAI同期年化营收约为400亿美元。Anthropic在5月下旬刚以9650亿美元估值完成650亿美元融资。若此次IPO顺利完成，将有望成为史上最大规模的上市交易，标志着AI行业资本格局的重大变动。",
     "发布日期": "2026-08-18",
     "原文链接": "https://www.aibase.com/zh/news/30408",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
     "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
+  },
+  {
+    "资讯标题": "AI编程工具Cursor正式推出代码托管服务Origin并开启付费用户测试",
+    "内容": "AI编程工具Cursor正式上线代码托管服务Origin，并向所有付费计划用户开放早期测试版，旨在构建GitHub替代方案。Origin深度集成代码仓库创建、拉取请求及代码浏览功能，支持用户直接创建仓库，或将现有GitHub项目同步至Origin平台，实现评论与代码审查的双向同步。在生态集成方面，Origin测试阶段已接入Vercel、Depot和Buildkite等主流开发与部署工具。官方表示，未来将引入更具前瞻性的智能体功能，通过AI能力深度赋能代码托管与协作流程。此次发布标志着Cursor从单一编辑器向全栈开发生态平台转型，通过深度融合AI能力与托管服务，试图在开发工作流中提供更高效的闭环体验，直接挑战现有主流代码托管平台的市场地位。",
+    "发布日期": "2026-08-18",
+    "原文链接": "https://www.aibase.com/zh/news/30415",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "配图仓库路径": "assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308291638468779_1.jpg"
   }
 ]
