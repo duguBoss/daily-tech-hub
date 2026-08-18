@@ -1,42 +1,42 @@
 [
   {
-    "资讯标题": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台并获评测大满贯",
-    "内容": "阿里巴巴正式在千问AI平台上线Qwen-Audio-3.0系列语音模型，包含Qwen-Audio-3.0-ASR、Qwen-Audio-3.0-TTS及Qwen-Audio-3.0-Realtime。该系列模型在Artificial Analysis今年7月的语音排行榜中，斩获ASR、RealTime及TTS三个核心赛道全球第一。Qwen-Audio-3.0-ASR具备复杂语境识别能力；TTS支持多语种、多方言及情绪语气控制；Realtime实现端到端语音理解，支持随时打断追问与工具调用，已接入千问App、千问办公及Qoder。千问AI平台近期同步更新Qwen3.8-Max、Qwen-image3.0pro及Wan3.0，构建起全模态模型矩阵。为降低开发者调用门槛，平台推出Token Plan订阅服务，个人版最",
+    "资讯标题": "Synchrony 携手 OpenAI 推动零售商专属信用卡接入 ChatGPT 实现聊天内结账",
+    "内容": "消费金融公司 Synchrony 宣布与 OpenAI 达成企业合作，旨在将零售商专属信用卡集成至 ChatGPT，实现 AI 原生购物与直接结账。作为亚马逊、沃尔玛等品牌的信用卡发行商，Synchrony 计划将借款、奖励及忠诚度计划嵌入聊天界面，推动“代理式电商”（agentic commerce）落地。此前 OpenAI 已与 Visa、Stripe 合作探索交易闭环。Synchrony 首席战略官 Maran Nalluswami 指出，通用信用卡接入 ChatGPT 预计需 6 至 12 个月，专属品牌信用卡因涉及多方协调周期更长。目前，各方正就交易费用分配及商业模式进行协商。此外，Synchrony 将推出 ChatGPT 插件以展示优惠商品及融资方案，并计划在内部部署 OpenAI 最新模型以加速",
     "发布日期": "2026-08-18",
-    "原文链接": "https://www.aibase.com/zh/news/30399",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
-    "配图仓库路径": "assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007232048_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30410",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
   },
   {
-    "资讯标题": "豆包App上线工作任务远程控制电脑功能，实现跨设备移动办公",
-    "内容": "字节跳动旗下智能助手豆包正式上线“工作任务”模式的远程控制电脑功能，旨在打破办公场景的设备限制。用户将豆包App更新至最新版本后，通过登录同账号、选择“工作任务”模式并完成短信验证码授权，即可在手机端接管并操控已登录的电脑。该功能支持调取本地电脑的文件上下文，可高效处理文档、图片、代码及表格等资料，并支持格式转换、生成总结及图表等复杂操作。此外，该功能还支持单台手机关联多台电脑，实现跨设备联动与文件统一调取。此举精准解决了职场用户在电脑不在身边时的紧急办公需求，通过将智能助手的跨端协同能力落地，为移动办公提供了更灵活的解决方案，进一步提升了跨设备办公的效率与边界。",
+    "资讯标题": "OpenAI承诺2030年前大规模部署英伟达基础设施并建设AI工厂",
+    "内容": "OpenAI正式承诺在2030年前全面大规模部署英伟达AI基础设施，双方深化合作并将在PORTS-Pike建设世界级人工智能工厂。该项目将全面应用英伟达全栈DSX AI工厂平台，涵盖GPU、CPU、网络及基础设施软件，初期规划提供4.25吉瓦产能，未来有望扩展至16吉瓦。此次合作标志着算力竞争逻辑从单一芯片性能转向超节点、集群调度及软件适配的综合系统能力。受此驱动，产业链向网络、存储及运维延伸，国内供应链企业加速切入：麦格米特GB300电源已获批量订单，并推进VeraRubin电源对接；生益科技成为国内唯一通过英伟达M9级超高阶覆铜板认证的企业，正式进入高端AI服务器核心供应链。",
     "发布日期": "2026-08-18",
-    "原文链接": "https://www.aibase.com/zh/news/30402",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f4daca621e2e34f1284b8b3acd9a9847.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f4daca621e2e34f1284b8b3acd9a9847.jpg",
-    "配图仓库路径": "assets/news_images/f4daca621e2e34f1284b8b3acd9a9847.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0817/6392258198611658235753867.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30409",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/730c66fd8008a8495148a3d15a35b002.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/730c66fd8008a8495148a3d15a35b002.jpg",
+    "配图仓库路径": "assets/news_images/730c66fd8008a8495148a3d15a35b002.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719384092_4.jpg"
   },
   {
-    "资讯标题": "谷歌宣布Gemini系列模型支持关闭显式AI生成水印",
-    "内容": "谷歌Gemini负责人乔希·伍德沃德宣布，用户在生成图片、视频及音乐时可自主选择关闭显式水印。该功能将陆续覆盖Nano Banana、Omni及Lyria模型，优先在Gemini网页端及视频编辑软件Flow上线，后续扩展至搜索服务。谷歌强调，关闭显式水印仅针对肉眼可见标识，底层的SynthID不可见水印及C2PA标准元数据将继续保留，以确保内容透明度与可验证性。此举旨在降低专业创作者的后期处理成本，用户可通过设置中的媒体水印选项进行切换。此外，谷歌同步开源了Credentio本地验证开发库，支持开发者在应用中嵌入本地校验机制，进一步完善AI生成内容的溯源生态。",
+    "资讯标题": "OpenAI与SB Energy签署10吉瓦数据中心租约，英伟达注资15亿美元提供兜底",
+    "内容": "OpenAI已与软银旗下SB Energy签署一份为期20年的数据中心租约，该园区落地美国俄亥俄州，规划容量达10吉瓦，旨在打造全球最大的AI算力基地之一。英伟达作为关键参与方，向SB Energy注资15亿美元换取股权，并为项目一期约5吉瓦的电力容量提供资产价值兜底支持，以降低开发商的债务融资成本。作为交换，英伟达将成为该园区一期的独家芯片供应商，并保留将支持范围扩大至全部10吉瓦的选择权。该兜底机制采用分阶段缓释设计，仅覆盖已建成设施，且在OpenAI退出时设有转租及出售优先的风险补偿条款，一期补偿上限约1050亿美元。此举标志着算力巨头通过资产负债表为AI初创企业背书的融资模式进一步深化，通过锁定长期算力需求与供应链话语权，有效缓解了超大规模数据中心建设的融资压力。",
     "发布日期": "2026-08-18",
-    "原文链接": "https://www.aibase.com/zh/news/30397",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dbe40d60f4b1021c81e661754bb6c99a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dbe40d60f4b1021c81e661754bb6c99a.jpg",
-    "配图仓库路径": "assets/news_images/dbe40d60f4b1021c81e661754bb6c99a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311151629216895_3.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30407",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
   },
   {
-    "资讯标题": "支付宝发布全栈智能体商业底座及AHA协议，商家接入需求排至明年",
-    "内容": "8月17日，支付宝在生态合作伙伴大会上发布国内首个全栈智能体商业底座及AHA（Agent Hub Access）多智能体跨端互联协议体系。该底座旨在助力商家实现从数字经营向智能经营转型，提供智能托管、技能编排及A2A多智能体协同能力。AHA协议体系通过智能交互、互联及设备感知协议，解决跨厂商服务适配难题，支持用户通过“一句话”实现跨端协同与安全履约。目前，支付宝超级服务智能体“阿宝”已完成万余项服务AI化接入，覆盖5大手机品牌及16家主流车企。蚂蚁集团首席执行官韩歆毅表示，智能体商业将在未来6-12个月迎来爆发。为加速生态建设，支付宝联合千问、华为、OPPO、比亚迪等20余家企业共建互联生态，并推出包含免费Token算力及57项原子经营能力开放的激励政策。支付宝事业群总裁李俊透露，自7月AI开发平台上线以来，商",
+    "资讯标题": "Anthropic年化营收突破650亿美元并计划秋季启动IPO",
+    "内容": "人工智能独角兽Anthropic年化营收运行率已于7月底突破650亿美元，较5月的470亿美元显著增长，远超去年底的90亿美元水平。市场预计其2026年全年营收有望达到1000亿至1200亿美元。相比之下，OpenAI同期年化营收约为400亿美元。Anthropic已秘密递交IPO申请，计划于今年秋季上市，目标估值不低于2万亿美元。若该目标达成，将刷新史上最大规模上市交易纪录。此前5月下旬，Anthropic刚以9650亿美元估值完成650亿美元融资。其极高的增长曲线已在资本市场引发高度关注，被视为对OpenAI强有力的竞争挑战。",
     "发布日期": "2026-08-18",
-    "原文链接": "https://www.aibase.com/zh/news/30398",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/51d2bacde52509efe071db18ef91721a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/51d2bacde52509efe071db18ef91721a.jpg",
-    "配图仓库路径": "assets/news_images/51d2bacde52509efe071db18ef91721a.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0817/6392258045508738259662229.png"
+    "原文链接": "https://www.aibase.com/zh/news/30408",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
   }
 ]
