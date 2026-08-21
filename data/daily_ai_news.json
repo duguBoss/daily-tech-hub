@@ -1,7 +1,17 @@
 [
   {
+    "资讯标题": "快手发布2026年二季度财报：总营收355亿元，可灵AI商业化收入同比增长超200%",
+    "内容": "快手科技发布2026年二季度财报，总营收达355亿元，经调整净利润39亿元。AI业务表现亮眼，可灵AI二季度收入超8.5亿元，同比增长超200%，全球用户突破1亿，覆盖224个国家和地区，企业客户近5万家。产品端，可灵AI 3.0系列推出原生4K视频直出功能，3.0 Turbo提升了音画同步与生成效率，并支持AI Agent批量调用。内部运营方面，超92%员工使用自研AI Agent，研发人员AI代码贡献率达60%，需求交付周期缩短超10%。在商业化层面，AI驱动短剧供给增长，真人与AI短剧供给较年初增长超5倍，短剧营销消耗同比增长超100%。此外，超85万商家使用快手AI经营工具，AIGC短视频营销消耗同比增长超70%。快手正通过AI视频生成、大模型及智能Agent技术，全面重构内容生态与商业经营效率。",
+    "发布日期": "2026-08-21",
+    "原文链接": "https://www.aibase.com/zh/news/30500",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2c2feaa9eb0455848b4c03bed485c916.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2c2feaa9eb0455848b4c03bed485c916.jpg",
+    "配图仓库路径": "assets/news_images/2c2feaa9eb0455848b4c03bed485c916.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201907082355045789_6.jpg"
+  },
+  {
     "资讯标题": "宇树科技发布仿生7轴灵巧机械臂R1，起售价9900元",
-    "内容": "宇树科技于8月20日正式发布仿生7轴灵巧机械臂R1，起售价定为9900元。该产品采用七轴联动设计，重复定位精度达0.1毫米，最大臂展650毫米，额定负载2公斤，整机自重仅5.5公斤。R1内置力反馈与碰撞检测功能，支持位置与力矩混合控制，基于Ubuntu环境开发，配备XT30与CAN485接口，官方计划后续开源控制程序及接口。硬件方面，R1支持快速换装夹爪或灵巧手，适用于科研教育、工业装配、移动平台运维及服务机器人等场景。宇树科技强调，R1定位民用，用户需注意其关节减速比较低，动态作业时需针对性优化控制策略以减少位置误差。该产品的推出显著降低了高性能多轴机器人的部署门槛，支持桌面级即放即用，为开发者提供了高性价比的自动化实验与开发平台。",
+    "内容": "宇树科技于8月20日正式发布仿生7轴灵巧机械臂R1，起售价9900元。该产品采用七轴联动设计，重复定位精度达0.1毫米，最大臂展650毫米，额定负载2公斤，整机自重仅5.5公斤。R1内置力反馈与碰撞检测功能，支持位置与力矩混合控制，基于Ubuntu开发环境，配备XT30与CAN485接口，官方计划陆续开源控制程序及接口。其桌面级形态支持“即放即用”，末端可快速换装夹爪或灵巧手。宇树科技将R1定位为民用机器人，核心应用场景涵盖科研教育、工业装配、智能交互及服务机器人领域。官方提示，由于关节减速比较低，整机位置控制刚度有限，动态作业中可能存在位置误差，建议用户针对实际场景进行调试，并避免危险性改造。",
     "发布日期": "2026-08-21",
     "原文链接": "https://www.aibase.com/zh/news/30502",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/005ab36362d1cc71b0d0346919812c2d.jpg",
@@ -11,7 +21,7 @@
   },
   {
     "资讯标题": "Stripe以75亿美元收购AI模型路由平台OpenRouter",
-    "内容": "全球支付巨头Stripe正式确认以75亿美元收购AI模型路由与网关平台OpenRouter，该交易金额较OpenRouter今年5月B轮融资时的13亿美元估值增长超5倍。OpenRouter作为AI底层基础设施，提供统一API入口，支持将请求动态路由至400至500个主流模型，目前拥有超1000万用户，日处理token量突破10万亿。合并后，OpenRouter将保持原名称独立运营，核心产品路线图不变。此次收购旨在将模型选择与路由机制深度集成至Stripe的支付计量栈中，通过整合支付系统与推理路由层，Stripe意在卡位智能体（Agent）经济下的token消耗流管理，实现对AI消费与智能经济运转核心节点的掌控。交易预计在未来数周内完成交割。",
+    "内容": "全球支付巨头Stripe正式确认以75亿美元收购AI模型路由与网关平台OpenRouter，该交易金额较OpenRouter今年5月B轮融资时的13亿美元估值增长超5倍。OpenRouter作为AI基础设施，提供统一入口将请求动态路由至400至500个主流模型，目前拥有超1000万用户，日处理token量突破10万亿。合并后，OpenRouter将保持原名称与使命独立运营，核心产品路线图不变，交易预计在未来数周内完成。Stripe此次收购意在将模型选择与路由机制深度整合至其支付计量栈，通过将支付系统与推理路由层结合，精准掌控Agent经济下的token消耗流，从而卡位AI消费与智能经济运转的核心节点。",
     "发布日期": "2026-08-21",
     "原文链接": "https://www.aibase.com/zh/news/30497",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3e893bf76cd8ff854c424e8e29d4993e.jpg",
@@ -20,33 +30,23 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0820/6392283042135364011565103.png"
   },
   {
-    "资讯标题": "OpenAI升级Codex安全防护体系，新增危险操作拦截与权限控制机制",
-    "内容": "OpenAI近日宣布升级AI编程代理Codex的安全防护体系，旨在降低代理在执行代码任务时误删文件或覆盖数据的风险。针对此前调查发现的系统变量复用（如$HOME变量误用）及路径校验缺失问题，OpenAI采取了多项强化措施：新版Codex要求代理在执行敏感操作前必须验证目标路径，并强制使用独立临时目录以规避系统变量干扰。同时，系统强化了危险命令的识别与拦截机制，并增设了操作审核流程。在权限管理方面，OpenAI提高了Codex Full access权限的准入门槛，通过增加风险提示和升级Auto-review规则，在保障编程效率的同时，有效控制了AI Agent在文件管理和自动化任务中的安全隐患。此次升级标志着AI编程代理在向复杂任务演进过程中，权限控制与操作审计能力正成为核心技术壁垒。",
+    "资讯标题": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
+    "内容": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 21, 20268企业信用卡与费用管理平台Ramp最新数据显示，OpenAI在美国企业AI市场的份额已重新超过Anthropic。数据显示，今年5月Anthropic曾以41%的市场份额领先OpenAI的39%。截至7月，Anthropic份额接近44%，OpenAI则接近40%。Ramp经济学家Ara Kharazian表示，进入第三季度以来，OpenAI在该领域的增长速度已超过Anthropic。该数据覆盖超过7万家美国企业，这些企业通过Ramp的账单支付及企业信用卡产品产生数十亿美元支出，客户以科技行业企业为主。",
     "发布日期": "2026-08-21",
-    "原文链接": "https://www.aibase.com/zh/news/30495",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
-    "配图仓库路径": "assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504021143517728_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30511",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
+    "配图仓库路径": "assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202502061719358642_0.jpg"
   },
   {
-    "资讯标题": "MiniMax发布生产力工具MiniMax Design，支持自然语言驱动视频创作",
-    "内容": "8月20日，MiniMax正式发布生产力工具MiniMax Design，该产品基于原生多模态视频模型H3构建，旨在实现从“操作像素”到“操作语义”的创作范式转变。用户通过自然语言表达创作意图，系统即可自动拆解任务并完成从素材生成到成片的交付。H3模型赋予了该工具强大的多模态理解与参考控制能力，能够处理剧本、角色资产及用户风格偏好等复杂项目级上下文。在商业应用层面，MiniMax Design支持品牌批量生成营销素材、教案转短视频及“3D导演台”镜头预演。为提升灵活性，该工具支持接入ComfyUI等开源生态工作流，允许创作者在云端或本地进行参数微调。通过Agent驱动的工作流，MiniMax Design有效解决了多模态模型在工业化生产中的可控性与连贯性难题。目前，该产品已正式开放下载，用户可访问design.",
+    "资讯标题": "Google Gemma系列开源大模型全球下载量突破10亿次大关",
+    "内容": "Google DeepMind宣布Gemma系列开源大模型全球下载量正式突破10亿次，开发者已构建超十万个模型变体。Gemma凭借高灵活性广泛应用于各类极端环境，包括NASA等机构在轨运行该模型进行星载图像分析与通信路由。在医疗领域，印度NHA将Gemma4整合至Aarogya Setu 2.0处理医疗数据，耶鲁大学基于Gemma构建的C2S-Scale模型成功发现新型癌症治疗途径，MedGemma则被用于临床分诊。此外，研究人员还开发了DolphinGemma用于海豚发声分析。为支持生态发展，Google在GitHub正式推出“Awesome Gemma”资源库，汇集社区项目、微调模型及工具，持续推动AI在视障辅助、离线教育等社会公益领域的应用落地。",
     "发布日期": "2026-08-21",
-    "原文链接": "https://www.aibase.com/zh/news/30503",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/56f861e41fbe88ccc0cdfe84ae21bebd.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/56f861e41fbe88ccc0cdfe84ae21bebd.jpg",
-    "配图仓库路径": "assets/news_images/56f861e41fbe88ccc0cdfe84ae21bebd.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0820/6392283684847076244139174.jpg"
-  },
-  {
-    "资讯标题": "Meta推出Mac版Meta AI桌面应用，支持屏幕共享与语音输入功能",
-    "内容": "Meta正式推出Mac版Meta AI桌面应用，旨在强化AI在生产力场景的交互能力。该应用核心功能包括屏幕窗口共享，允许AI实时理解屏幕内容并提供建议或生成内容；同时支持跨应用语音输入，用户可在其他软件中直接通过语音完成听写任务。此次更新标志着Meta AI从问答工具向智能生产力助手转型，以应对ChatGPT、Gemini及Claude等竞品的竞争。此外，Meta AI现已实现网页、移动端与Mac端的全平台协同，并深度集成Instagram、Facebook账号及Google Workspace。企业用户可利用该助手分析社交内容数据、生成演示文稿与文档，并自动执行周度业绩报告等业务任务。通过整合多模态交互、数据连接与自动化能力，Meta正加速提升其AI产品在办公与创作工作流中的竞争力。",
-    "发布日期": "2026-08-21",
-    "原文链接": "https://www.aibase.com/zh/news/30493",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bde9e51a48b2b8d4a638ea31b6473075.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bde9e51a48b2b8d4a638ea31b6473075.jpg",
-    "配图仓库路径": "assets/news_images/bde9e51a48b2b8d4a638ea31b6473075.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0820/6392281749581794885897712.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30509",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bbd94d914a396e4e2cbb7b2d5c36f9ec.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bbd94d914a396e4e2cbb7b2d5c36f9ec.jpg",
+    "配图仓库路径": "assets/news_images/bbd94d914a396e4e2cbb7b2d5c36f9ec.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0821/6392289937692832878363163.png"
   }
 ]
