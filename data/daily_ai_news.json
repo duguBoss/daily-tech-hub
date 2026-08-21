@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "快手发布2026年二季度财报：总营收355亿元，可灵AI商业化收入同比增长超200%",
-    "内容": "快手科技发布2026年二季度财报，总营收达355亿元，经调整净利润39亿元。AI业务表现亮眼，可灵AI二季度收入超8.5亿元，同比增长超200%，全球用户突破1亿，覆盖224个国家和地区，企业客户近5万家。产品端，可灵AI 3.0系列推出原生4K视频直出功能，3.0 Turbo提升了音画同步与生成效率，并支持AI Agent批量调用。内部运营方面，超92%员工使用自研AI Agent，研发人员AI代码贡献率达60%，需求交付周期缩短超10%。在商业化层面，AI驱动短剧供给增长，真人与AI短剧供给较年初增长超5倍，短剧营销消耗同比增长超100%。此外，超85万商家使用快手AI经营工具，AIGC短视频营销消耗同比增长超70%。快手正通过AI视频生成、大模型及智能Agent技术，全面重构内容生态与商业经营效率。",
+    "资讯标题": "阿里巴巴发布Qwen-UI-Agent模型，在多项GUI基准测试中超越GPT与Claude",
+    "内容": "阿里巴巴于8月20日正式发布GUI智能体基座模型Qwen-UI-Agent，该模型覆盖移动端、电脑端、网页端及DeepSearch环境。在基准测试中，Qwen-UI-Agent表现优异：MobileWorld得分82.1%，领先GPT-5.6Sol与Claude Opus4.8；MobileWorld-Real得分92.2%，超越Gemini3.1Pro等模型；AndroidDaily得分高达97.5%。在OSWorld-Verified与WebArena上，该模型分别取得79.5%与73.6%的成绩，位列对比模型第一。技术层面，Qwen-UI-Agent支持直接执行CLI命令行操作及批量动作输出，并利用100多台真机环境进行训练与评测。安全性方面，模型内置全流程安全机制，在处理支付、隐私授权等敏感场景时会主动",
     "发布日期": "2026-08-21",
-    "原文链接": "https://www.aibase.com/zh/news/30500",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2c2feaa9eb0455848b4c03bed485c916.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2c2feaa9eb0455848b4c03bed485c916.jpg",
-    "配图仓库路径": "assets/news_images/2c2feaa9eb0455848b4c03bed485c916.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201907082355045789_6.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30513",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/861b437c7c4dc66b39136f0247deb1db.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/861b437c7c4dc66b39136f0247deb1db.jpg",
+    "配图仓库路径": "assets/news_images/861b437c7c4dc66b39136f0247deb1db.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0821/6392290085642993506433339.png"
   },
   {
-    "资讯标题": "宇树科技发布仿生7轴灵巧机械臂R1，起售价9900元",
-    "内容": "宇树科技于8月20日正式发布仿生7轴灵巧机械臂R1，起售价9900元。该产品采用七轴联动设计，重复定位精度达0.1毫米，最大臂展650毫米，额定负载2公斤，整机自重仅5.5公斤。R1内置力反馈与碰撞检测功能，支持位置与力矩混合控制，基于Ubuntu开发环境，配备XT30与CAN485接口，官方计划陆续开源控制程序及接口。其桌面级形态支持“即放即用”，末端可快速换装夹爪或灵巧手。宇树科技将R1定位为民用机器人，核心应用场景涵盖科研教育、工业装配、智能交互及服务机器人领域。官方提示，由于关节减速比较低，整机位置控制刚度有限，动态作业中可能存在位置误差，建议用户针对实际场景进行调试，并避免危险性改造。",
+    "资讯标题": "Waymo定制自动驾驶出租车Ojai全面接入Gemini模型",
+    "内容": "Waymo正式宣布将谷歌Gemini人工智能助手深度整合至其定制自动驾驶出租车Ojai中。目前，搭载Gemini的Ojai车型已在洛杉矶、菲尼克斯和旧金山向普通用户开放，并计划于今年晚些时候拓展至丹佛、拉斯维加斯和圣迭戈。乘客在呼叫网约车时，可选择Ojai或捷豹I-Pace车型。处于Beta测试阶段的Gemini助手支持自然语音交互，乘客可通过对话调节车内温度、查找周边兴趣点或获取地标介绍。针对靠边停车等指令，AI会将其转交给底层Waymo Driver系统处理。为确保行车安全，Gemini与自动驾驶底层系统保持高度独立，无法访问实时驾驶数据或干预车辆控制权限。该升级旨在通过智能交互层，为用户提供更舒适、个性化的乘车体验。",
     "发布日期": "2026-08-21",
-    "原文链接": "https://www.aibase.com/zh/news/30502",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/005ab36362d1cc71b0d0346919812c2d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/005ab36362d1cc71b0d0346919812c2d.jpg",
-    "配图仓库路径": "assets/news_images/005ab36362d1cc71b0d0346919812c2d.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0820/6392283309096812149284703.png"
+    "原文链接": "https://www.aibase.com/zh/news/30520",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a5dcb5d109f21a724f0887172d4609f1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a5dcb5d109f21a724f0887172d4609f1.jpg",
+    "配图仓库路径": "assets/news_images/a5dcb5d109f21a724f0887172d4609f1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812181034437587_24.jpg"
   },
   {
-    "资讯标题": "Stripe以75亿美元收购AI模型路由平台OpenRouter",
-    "内容": "全球支付巨头Stripe正式确认以75亿美元收购AI模型路由与网关平台OpenRouter，该交易金额较OpenRouter今年5月B轮融资时的13亿美元估值增长超5倍。OpenRouter作为AI基础设施，提供统一入口将请求动态路由至400至500个主流模型，目前拥有超1000万用户，日处理token量突破10万亿。合并后，OpenRouter将保持原名称与使命独立运营，核心产品路线图不变，交易预计在未来数周内完成。Stripe此次收购意在将模型选择与路由机制深度整合至其支付计量栈，通过将支付系统与推理路由层结合，精准掌控Agent经济下的token消耗流，从而卡位AI消费与智能经济运转的核心节点。",
+    "资讯标题": "OpenAI升级macOS版ChatGPT，新增对苹果原生信息应用的深度控制能力",
+    "内容": "OpenAI近日正式升级macOS版ChatGPT应用，新增对苹果原生“信息”应用的深度交互能力。在获得用户明确授权后，ChatGPT可直接在Mac本地读取、撰写及发送短信，并支持对聊天历史进行智能搜索与摘要生成。该功能需用户在应用内及系统隐私设置中完成多项授权，包括完全磁盘访问权限及联系人调用权限，以确保本地系统集成。OpenAI强调，该设计并非全局索引，而是基于用户主动授权的交互。行业分析认为，此举打破了苹果桌面端系统级应用的壁垒，深入其私有领地，未来将直接对苹果生态内的Siri AI能力及其设备优势构成正面竞争，标志着第三方AI Agent在操作系统层面的深度渗透。",
     "发布日期": "2026-08-21",
-    "原文链接": "https://www.aibase.com/zh/news/30497",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3e893bf76cd8ff854c424e8e29d4993e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3e893bf76cd8ff854c424e8e29d4993e.jpg",
-    "配图仓库路径": "assets/news_images/3e893bf76cd8ff854c424e8e29d4993e.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0820/6392283042135364011565103.png"
+    "原文链接": "https://www.aibase.com/zh/news/30510",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
   },
   {
-    "资讯标题": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
-    "内容": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 21, 20268企业信用卡与费用管理平台Ramp最新数据显示，OpenAI在美国企业AI市场的份额已重新超过Anthropic。数据显示，今年5月Anthropic曾以41%的市场份额领先OpenAI的39%。截至7月，Anthropic份额接近44%，OpenAI则接近40%。Ramp经济学家Ara Kharazian表示，进入第三季度以来，OpenAI在该领域的增长速度已超过Anthropic。该数据覆盖超过7万家美国企业，这些企业通过Ramp的账单支付及企业信用卡产品产生数十亿美元支出，客户以科技行业企业为主。",
-    "发布日期": "2026-08-21",
-    "原文链接": "https://www.aibase.com/zh/news/30511",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
-    "配图仓库路径": "assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502061719358642_0.jpg"
-  },
-  {
-    "资讯标题": "Google Gemma系列开源大模型全球下载量突破10亿次大关",
-    "内容": "Google DeepMind宣布Gemma系列开源大模型全球下载量正式突破10亿次，开发者已构建超十万个模型变体。Gemma凭借高灵活性广泛应用于各类极端环境，包括NASA等机构在轨运行该模型进行星载图像分析与通信路由。在医疗领域，印度NHA将Gemma4整合至Aarogya Setu 2.0处理医疗数据，耶鲁大学基于Gemma构建的C2S-Scale模型成功发现新型癌症治疗途径，MedGemma则被用于临床分诊。此外，研究人员还开发了DolphinGemma用于海豚发声分析。为支持生态发展，Google在GitHub正式推出“Awesome Gemma”资源库，汇集社区项目、微调模型及工具，持续推动AI在视障辅助、离线教育等社会公益领域的应用落地。",
+    "资讯标题": "Google Gemma开源大模型全球下载量突破10亿次，生态变体超十万个",
+    "内容": "Google DeepMind宣布Gemma系列开源大模型全球下载量正式突破10亿次，开发者已构建超十万个模型变体。Gemma凭借高灵活性在极端环境中表现出色，NASA及Satlyt等团队已在轨道上运行该模型，用于星载图像分析与星际通信路由。在医疗领域，印度国家卫生局将Gemma4整合至Aarogya Setu 2.0应用，耶鲁大学基于Gemma构建的C2S-Scale模型成功发现新型癌症治疗途径，MedGemma则被广泛用于临床分诊。此外，DolphinGemma在跨物种交流研究中展现潜力。为进一步支持生态建设，Google在GitHub正式推出“Awesome Gemma”资源库，汇集社区项目、微调模型及开发工具，持续推动Gemma在视障辅助、离线教育等社会公益领域的应用落地。",
     "发布日期": "2026-08-21",
     "原文链接": "https://www.aibase.com/zh/news/30509",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bbd94d914a396e4e2cbb7b2d5c36f9ec.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bbd94d914a396e4e2cbb7b2d5c36f9ec.jpg",
     "配图仓库路径": "assets/news_images/bbd94d914a396e4e2cbb7b2d5c36f9ec.jpg",
     "原始配图链接": "https://upload.chinaz.com/2026/0821/6392289937692832878363163.png"
+  },
+  {
+    "资讯标题": "Adobe正式上线Firefly音频生成工具，支持AI生成音乐、语音和音效",
+    "内容": "Adobe正式推出Firefly音频生成工具，包含“生成音乐”、“生成语音”和“生成音效”三大功能，现已在Firefly桌面及移动Web应用上线。该工具旨在解决视频创作中的版权与授权痛点，生成的音频内容均具备商业安全保障，无需额外订阅即可商用。“生成音乐”可根据视频氛围与节奏提供4个方案；“生成语音”支持Adobe Firefly及ElevenLabs模型，可通过标签调整表现力；“生成音效”支持文本或参考录音生成匹配音效。此外，Adobe持续扩展Firefly第三方模型生态，新增Gemini Omni Flash，并已集成Runway Aleph2.0、Kling2.0等模型。通过整合多模态音视频能力，Adobe进一步完善了Firefly的一站式AI创作工作流，助力创作者高效完成从脚本到音视频的完整内容生产。",
+    "发布日期": "2026-08-21",
+    "原文链接": "https://www.aibase.com/zh/news/30519",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c31c6ca752bfbc9c944621a342beab1b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c31c6ca752bfbc9c944621a342beab1b.jpg",
+    "配图仓库路径": "assets/news_images/c31c6ca752bfbc9c944621a342beab1b.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0821/6392290217494778642422270.jpg"
   }
 ]
