@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "阿里巴巴开源 Qwen-UI-Agent 真机多模态基座模型",
-    "内容": "阿里巴巴正式开源 GUI 智能体基座模型 Qwen-UI-Agent，旨在实现移动端、电脑端及网页端的真实设备自动化操作。该模型在 MobileWorld 测试中取得 82.1% 的得分，在自建的 MobileWorld-Real 真机基准上成功率达 92.2%，并在 OSWorld-Verified 及 WebArena 测试中表现领先。Qwen-UI-Agent 覆盖 100 多台真实手机与 150 多个应用，支持批量动作输出以缩短执行轨迹，并具备超长轨迹在线强化学习能力。在安全性方面，模型内置全过程判断机制，可针对支付、数据删除及隐私授权等敏感场景主动拦截并请求用户确认。该模型通过从模拟环境向真机环境的跨越，显著提升了 Agent 在复杂真实设备上的任务执行效率与长程任务处理能力。",
+    "资讯标题": "阿里巴巴开源 Qwen-UI-Agent 真机多模态 GUI 智能体基座模型",
+    "内容": "阿里巴巴正式开源 GUI 智能体基座模型 Qwen-UI-Agent，旨在实现移动端、电脑端、网页端及深度搜索环境下的真实设备无缝操作。该模型在 MobileWorld 测试中斩获 82.1% 分数，在自建百台真机基准 MobileWorld-Real 上成功率达 92.2%，在 OSWorld-Verified 与 WebArena 测试中均表现领先。Qwen-UI-Agent 搭建了覆盖 100 多台真机与 150 多个应用的训练环境，支持批量动作输出以缩短执行轨迹，并具备超 100 步长程任务的在线强化学习能力。在安全管控方面，模型内置全过程判断机制，针对支付、隐私授权等敏感场景可主动拦截并请求用户确认。该模型通过从模拟到真实的训练范式，有效提升了 Agent 在复杂真实环境下的操作成功率与安全性，为开发",
     "发布日期": "2026-08-22",
     "原文链接": "https://www.aibase.com/zh/news/30530",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9441ff3cea1797e0f581040dd68e13eb.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "资讯标题": "阿里云千问AI平台接入GLM-5.3与DeepSeek-V4-Pro模型并开放API",
-    "内容": "阿里云千问AI平台（MaaS）近日完成模型矩阵扩容，正式上线智谱GLM-5.3与DeepSeek-V4-Pro旗舰模型，并同步对外开放配套API服务。GLM-5.3重点强化了编程、长程任务执行及网络安全能力；DeepSeek-V4-Pro则针对智能体交互进行升级，适配代码开发与多步骤复杂任务处理。目前，千问AI平台已覆盖文本、代码、语音、图像及视频五大模型赛道，接入包括Qwen3.8-Max、Qwen-Image3.0Pro、Wan3.0及Kimi K3在内的多款主流模型。在商业化层面，平台推出Token Plan套餐服务，支持DeepSeek-V4-Pro、Qwen3.8-Max等模型订阅。开发者可通过API将上述模型能力集成至自有业务系统，并在Qoder、Codex等开发工具中实现模型灵活切换，进一步降低了",
+    "内容": "阿里云千问AI平台（MaaS）近日完成模型矩阵更新，正式上线智谱GLM-5.3与DeepSeek-V4-Pro旗舰模型，并同步对外开放配套API服务。GLM-5.3重点强化了编程、长程任务执行及网络安全能力；DeepSeek-V4-Pro则针对智能体交互进行升级，适配代码开发与多步骤复杂任务处理。目前，千问AI平台已覆盖文本、代码、语音、图像及视频五大模型赛道，聚合了Qwen3.8-Max、Qwen-Image3.0Pro、Wan3.0及Kimi K3等主流模型。在商业化层面，平台推出Token Plan套餐服务，支持用户在Qoder、Codex等开发工具内灵活切换模型。此次更新进一步完善了平台的全场景模型供给，旨在为开发者与企业提供更丰富的选型空间，加速智能体及代码类应用的落地。",
     "发布日期": "2026-08-22",
     "原文链接": "https://www.aibase.com/zh/news/30523",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/368aa05201c9aff87be2716b08304668.jpg",
@@ -20,8 +20,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0821/6392290674864561217923591.jpg"
   },
   {
-    "资讯标题": "豆包工作任务模式上线技能、连接器与工作伙伴功能，转型智能办公平台",
-    "内容": "豆包工作任务模式近日迎来重大更新，正式推出技能、连接器与工作伙伴三大功能，标志着其从单一对话助手向智能办公平台转型。目前平台已上架超200个技能与连接器，并支持用户自主创建专属技能以固化工作流。技能功能允许用户保存个性化工作方法，实现流程复用；连接器则打通了豆包与外部办公工具的壁垒，以飞书连接器为例，用户无需切换页面即可直接处理任务与查找资料。此外，工作伙伴功能提供数据分析、内容策划、科研及金融等领域的专业智能体，支持用户组建智能体小队协同完成复杂任务。用户可通过豆包电脑版侧边栏访问上述功能，通过技能留存标准、连接器调取信息、联合智能体协作，实现办公流程的简化与效率提升。",
+    "资讯标题": "豆包工作任务模式上线技能、连接器与工作伙伴三大功能",
+    "内容": "豆包工作任务模式近日迎来重磅更新，正式上线技能、连接器与工作伙伴三大功能，标志着其从对话助手向智能办公平台转型。目前平台已上架超200个技能与连接器，并支持用户自主创建专属技能以固化工作流。技能功能允许用户将项目周报等工作规范保存为个人技能，实现流程复用；连接器则打通了豆包与飞书等外部办公工具，支持在应用内直接处理任务，减少页面切换。工作伙伴功能提供数据分析、内容策划、科研及金融等领域的专业智能体，用户可组建智能体小队协同完成复杂任务。三大功能既可独立使用，也可自由组合，旨在通过留存工作标准、调取外部信息及多智能体协作，简化办公流程并提升职场效率。用户现可通过豆包电脑版侧边栏进入「技能·连接器·伙伴」入口体验上述功能。",
     "发布日期": "2026-08-22",
     "原文链接": "https://www.aibase.com/zh/news/30525",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f8bb140131f33454b4f6258b393c4b73.jpg",
@@ -31,7 +31,7 @@
   },
   {
     "资讯标题": "OpenAI全面开源Codex Harness，开放AI编程智能体底层运行框架",
-    "内容": "OpenAI近日全面开源Codex Harness，将驱动Codex智能体运行的核心框架向开发者开放。Codex Harness作为连接模型、用户与工具的Agent执行环境，负责管理任务执行、上下文、会话及代码操作。该框架核心包含Agent Loop、线程生命周期管理、工具执行及扩展机制。开发者可通过Codex App Server利用双向JSON-RPC协议将Harness接入不同客户端，获取实时事件流，从而构建IDE、桌面应用等定制化Agent产品。目前，该框架已支撑Codex Web、CLI及macOS应用等场景。OpenAI内部实践显示，基于Harness的工程模式可实现“人类设定目标、Agent执行”的开发闭环。此次开源标志着AI编程竞争从单纯的模型能力转向Agent运行时、工具调用及工程反馈闭环的标",
+    "内容": "OpenAI正式全面开源Codex Harness，向开发者开放驱动Codex智能体运行的核心框架。Codex Harness作为连接模型、用户与工具的底层环境，负责管理Agent Loop、线程生命周期、持久化、身份认证及工具执行机制。开发者可通过Codex App Server利用双向JSON-RPC协议将Harness接入各类客户端，构建IDE插件、桌面应用等定制化Agent。该框架目前已支撑Codex Web、CLI及macOS应用等场景。OpenAI内部实践显示，基于该框架可实现由Agent执行代码的工程闭环，曾支撑5个月内产出100万行代码及1500个Pull Request。此次开源标志着AI编程竞争重心从单纯的模型能力，转向Agent运行时、上下文管理及工程反馈闭环的标准化，助力开发者构建更专业",
     "发布日期": "2026-08-22",
     "原文链接": "https://www.aibase.com/zh/news/30531",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3dc7558b6757f99938aa45834da1392c.jpg",
@@ -40,8 +40,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202303150849416593_0.jpg"
   },
   {
-    "资讯标题": "Anthropic正式上线Claude Platform的Computer Use、Skills API与Files API",
-    "内容": "Anthropic近日宣布Claude Platform的Computer Use、Skills API及Files API正式进入全面可用（GA）阶段。此次更新重点推出浏览器使用工具（Browser use tool），支持网页结构解析，可精准识别并操作特定输入框或按钮。Computer Use功能现支持单轮次执行多项连续动作，并符合HIPAA标准，可在签署BAA后应用于医疗工作负载。Skills API允许企业在代码执行沙盒中管理并运行专属技能指令与脚本。Files API则提供1TB专属存储空间，支持PDF及电子表格等文件处理，速率限制提升至原先的5倍，并具备自动过期机制。上述功能旨在赋能企业构建生产级智能体（Production Agents），开发者可通过Claude Platform调用，且电脑操作",
+    "资讯标题": "Anthropic 在 Claude Platform 正式上线 Computer Use、Skills API 与 Files API",
+    "内容": "Anthropic 宣布 Claude Platform 的 Computer Use、Skills API 及 Files API 进入全面可用阶段。核心更新包括全新的浏览器使用工具，支持网页结构解析，可精准识别并操作特定网页元素。电脑操作功能现支持单次调用执行多项连续动作，并符合 HIPAA 标准，适用于受监管的医疗工作负载。Skills API 允许企业管理专属技能文件夹并在安全沙盒中运行脚本；Files API 提供 1TB 专属存储空间，速率限制提升至原来的 5 倍，支持 PDF 及电子表格等文件引用。此次更新旨在赋能企业构建生产级智能体，实现复杂业务流程自动化。开发者可通过 Microsoft Foundry 使用相关 API，且电脑操作与浏览器使用工具即将登陆 Google Cloud Verte",
     "发布日期": "2026-08-22",
     "原文链接": "https://www.aibase.com/zh/news/30522",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
