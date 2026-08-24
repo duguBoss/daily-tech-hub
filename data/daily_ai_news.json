@@ -1,7 +1,7 @@
 [
   {
     "资讯标题": "阿里巴巴拟配售800亿港元新股，所得资金将全部投入AI基础设施建设",
-    "内容": "阿里巴巴于8月23日宣布，拟向美国境外的非美国人士配售新股，募资总额达800亿港元，这是其2019年港股上市以来首次启动新股配售，且交易已获超额认购。所得款项净额将100%用于投资全栈AI能力及加强AI基础设施建设。根据2027财年第一季度财报，阿里巴巴AI相关产品年化收入（ARR）已突破495亿元人民币，其中AI云与算力服务收入同比增长45%至484.37亿元。公司预计AI资本开支有望在2至3年内收回，并设定阿里云2030年外部商业化收入达1000亿美元、利润率超20%的目标。此次融资反映了阿里巴巴对AI算力长期需求的战略布局，旨在通过大规模资本投入巩固其在AI基础设施领域的竞争力。",
+    "内容": "阿里巴巴于8月23日宣布，拟向美国境外的非美国人士配售总额800亿港元的新股，这是其2019年港股上市以来首次启动新股配售，目前交易已获超额认购。此次募集的款项净额将100%投入全栈AI能力建设及AI基础设施升级。根据2027财年第一季度财报，截至6月30日，阿里巴巴AI相关产品年化收入（ARR）已突破495亿元人民币，其中AI云与算力服务收入达484.37亿元，同比增长45%。公司预计AI资本开支有望在2至3年内收回，并设定阿里云2030年外部商业化收入达1000亿美元、利润率超20%的目标。此次大规模融资反映了阿里巴巴对AI算力长期需求的战略判断，旨在通过强化基础设施投入，进一步巩固其在AI云服务市场的竞争优势。",
     "发布日期": "2026-08-24",
     "原文链接": "https://www.aibase.com/zh/news/30546",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d32db24ac870199f99bf2504ff9a438e.jpg",
@@ -10,18 +10,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/201811151614000705_34.jpg"
   },
   {
-    "资讯标题": "字节跳动Seed部门完成组织架构调整，重构预训练、强化学习与Agent研发链路",
-    "内容": "字节跳动大模型部门Seed于上周完成新一轮组织调整，Seed Foundation Model下设四个一级部门，均向吴永辉汇报。此次重构旨在整合预训练数据、强化学习及模型后训练资源，并明确B端与C端产品模型布局。具体架构为：李成刚负责Pretrain Data，统一管理多模态及超大模型预训练数据；唐晟宇负责Horizon RL，重点推进强化学习以提升模型基础智能；秦禹嘉负责Product Posttrain-Work，专注于B端办公场景的Agentic模型研发；朱文佳负责Product Posttrain-Chat，继续深耕C端对话模型。此次调整通过细化研发链路，将豆包、Dola等产品的底层能力与应用场景深度解耦，旨在通过差异化的模型体系，强化企业办公Agent与消费级对话场景的竞争力。",
+    "资讯标题": "匿名模型Ox Alpha登顶OpenRouter平台，累计调用量突破4万亿Token",
+    "内容": "匿名模型Ox Alpha近日上线OpenRouter后迅速登顶平台模型榜单，并刷新单日模型用量纪录。OpenRouter数据显示，仅Hermes Agent、Claude Code等前五大应用对该模型的累计调用量已超过4万亿Token，标志着其应用场景已从社区尝鲜扩展至全球开发者及Agent真实工作流。OpenRouter官方将Ox Alpha定义为面向编码、持续性Agent任务及生产工作流的推理模型，并确认由匿名第三方开发运营。目前该模型身份尚未揭晓，社区技术分析指出其Tokenizer指纹与智谱GLM系列高度接近，亦有谷歌DeepMind研究员暗示其可能与新版Gemini有关，但各方均未正式认领。Ox Alpha的大规模调用反映出AI Agent正加速进入软件开发与代码执行等实际生产流程，模型在真实工作流中",
     "发布日期": "2026-08-24",
-    "原文链接": "https://www.aibase.com/zh/news/30537",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
-    "配图仓库路径": "assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201906242208064335_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30549",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3f419abb0967fa6658d75dedda0c565c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3f419abb0967fa6658d75dedda0c565c.jpg",
+    "配图仓库路径": "assets/news_images/3f419abb0967fa6658d75dedda0c565c.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0824/6392315990131584735902830.jpg"
   },
   {
     "资讯标题": "Guidelight评估五大AI实验室遏制能力，OpenAI以3分排名第一",
-    "内容": "Guidelight AI Standards近日发布针对前沿AI实验室遏制能力的评估报告，考察Anthropic、Google、OpenAI、Meta和xAI在监控、异常处置、第三方审计及模型关闭等机制上的表现。在满分5分的评估中，OpenAI以3分位居榜首，Anthropic和Meta得分最低。Guidelight定义的“遏制方案”指在AI突破人类控制时，预先明确撤销权限、限制任务及下线模型的应急流程。评估指出，尽管OpenAI曾有暂停工作负载的实践，但各实验室均未公开完整的正式失控应急计划。Google与OpenAI回应称，公开评估无法覆盖其全部内部安全机制。随着AI Agent自主执行能力提升，加州SB53法案及联邦《人工智能终止开关法案》等监管要求日益强化。Guidelight首席科学家Steven ",
+    "内容": "Guidelight AI Standards近日发布前沿AI实验室遏制能力评估报告，考察Anthropic、Google、OpenAI、Meta和xAI五家机构在监控、异常处置及失控模型关闭等方面的机制。评估结果显示，OpenAI以满分5分中的3分位居榜首，Anthropic和Meta得分最低。Guidelight定义的“遏制方案”指在AI突破控制时，明确撤销权限、限制任务及强制下线的应急流程。尽管OpenAI曾披露安全事件后的处理步骤，但仍缺乏正式的未来失控应急计划。Anthropic与Meta目前尚未公开相关响应方案。Google与OpenAI对此回应称，公开评估无法涵盖其全部内部安全机制。随着AI智能体自主执行能力提升，以及加州SB53法案生效和联邦《人工智能终止开关法案》的推进，建立可验证、可执行的“",
     "发布日期": "2026-08-24",
     "原文链接": "https://www.aibase.com/zh/news/30545",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b7d8e20a3e9de72bffce73b4fc005000.jpg",
@@ -30,8 +30,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0824/6392315913109178266857052.jpg"
   },
   {
-    "资讯标题": "Anthropic正式向公众免费开源内部培训平台Claude Academy",
-    "内容": "Anthropic宣布将其内部新员工培训平台Claude Academy全面免费向公众开放，用户注册Claude账号即可访问。该平台包含289个学习资源，涵盖AI基础知识、Claude Code、API调用、智能体（Agents）开发及生产级系统部署等核心技术领域。课程核心基于“AI Fluency 4D”框架，旨在培养用户与AI深度协作的心智模式，而非单纯传授提示词技巧。学员完成课程后可获得官方颁发的结业徽章。此举标志着Anthropic正通过系统化教育资源，帮助开发者与职场人士提升AI协作能力，以应对大模型技术快速迭代带来的行业变革。该平台不仅是技术教学工具，更试图重构AI时代下的生产力学习逻辑。",
+    "资讯标题": "Anthropic正式向公众免费开源内部入职培训平台Claude Academy",
+    "内容": "Anthropic近日宣布将原内部员工培训平台Claude Academy全面免费向公众开放，用户注册Claude账号即可访问。该平台包含289个学习资源，涵盖AI基础知识、Claude Code、API调用、Agents开发及生产级系统部署等核心技术领域。完成课程后，用户可获得官方颁发的结业徽章。Claude Academy的核心教学逻辑基于“AI Fluency 4D”框架，旨在培养用户与AI深度协作的心智模式，强调人类在复杂任务中应具备的思维深度，而非单纯的提示词技巧。此举不仅是Anthropic扩大技术影响力的重要举措，也为开发者及职场人士提供了系统化提升AI协作能力的路径，旨在帮助用户在AI能力快速迭代的背景下，掌握与智能工具高效协作的底层逻辑。",
     "发布日期": "2026-08-24",
     "原文链接": "https://www.aibase.com/zh/news/30539",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "资讯标题": "AI初创公司Hugging Face寻求出售，交易估值或达130亿美元",
-    "内容": "AI初创公司Hugging Face正探索出售事宜，目前已与银行合作评估潜在竞购者的收购兴趣，交易估值预计可达130亿美元或更高。Hugging Face总部位于纽约，是全球核心的开源大模型与数据集托管平台。回顾2023年，该公司在由Salesforce、谷歌与英伟达领投的融资中估值约为45亿美元。若此次出售最终落地，意味着其估值在不到三年内增长近三倍。这一动向反映出开源AI基础设施在当前算力与生态竞争中，已从单纯的社区资产转变为科技巨头争夺的战略级收购标的。对于行业而言，Hugging Face作为AI开发生态的枢纽，其所有权变更可能对开源模型的托管、分发及开发者社区的未来走向产生深远影响。",
+    "内容": "AI初创公司Hugging Face正探索出售事宜，目前已与银行合作评估潜在买家的收购兴趣，交易估值预计将达到130亿美元或更高。Hugging Face总部位于纽约，是全球核心的开源大模型与数据集托管平台。该公司在2023年的融资中估值约为45亿美元，由Salesforce、谷歌与英伟达领投。若此次出售最终落地，意味着其估值在不到三年内翻了近三倍。这一动向反映出在当前AI巨头争夺算力与生态的背景下，作为开源AI基础设施的Hugging Face已从社区资产转变为极具战略价值的收购标的，其归属权变动将对开源AI生态的未来发展产生深远影响。",
     "发布日期": "2026-08-24",
     "原文链接": "https://www.aibase.com/zh/news/30548",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7834f7e3ba20d894d2541c7759924b6a.jpg",
