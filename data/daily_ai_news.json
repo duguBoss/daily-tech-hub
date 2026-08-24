@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里巴巴拟配售800亿港元新股，所得资金将全部投入AI基础设施建设",
-    "内容": "阿里巴巴于8月23日宣布，拟向美国境外的非美国人士配售总额800亿港元的新股，这是其2019年港股上市以来首次启动新股配售，目前交易已获超额认购。此次募集的款项净额将100%投入全栈AI能力建设及AI基础设施升级。根据2027财年第一季度财报，截至6月30日，阿里巴巴AI相关产品年化收入（ARR）已突破495亿元人民币，其中AI云与算力服务收入达484.37亿元，同比增长45%。公司预计AI资本开支有望在2至3年内收回，并设定阿里云2030年外部商业化收入达1000亿美元、利润率超20%的目标。此次大规模融资反映了阿里巴巴对AI算力长期需求的战略判断，旨在通过强化基础设施投入，进一步巩固其在AI云服务市场的竞争优势。",
-    "发布日期": "2026-08-24",
-    "原文链接": "https://www.aibase.com/zh/news/30546",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d32db24ac870199f99bf2504ff9a438e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d32db24ac870199f99bf2504ff9a438e.jpg",
-    "配图仓库路径": "assets/news_images/d32db24ac870199f99bf2504ff9a438e.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201811151614000705_34.jpg"
+    "资讯标题": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+    "内容": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 24, 202626阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发的肝癌诊断AI模型 DAMO LiON，近日登上国际顶级医学期刊《自然·医学》（Nature Medicine）。该模型可通过增强CT影像识别微小肝脏癌变病灶，尤其擅长发现容易被忽略的肝转移。在为期两个月的真实世界前瞻临床试验中，DAMO LiON共辅助阅片1万多名患者，发现了15例原本被漏诊的恶性肿瘤，绝大多数病灶直径仅约1厘米，并推动患者及时接受手术或药物治疗。研究显示，AI辅助阅片后，医生的阅片时间减少27%，对恶性肿瘤的敏感性提升11.5%。",
+    "发布日期": "2026-08-25",
+    "原文链接": "https://www.aibase.com/zh/news/30568",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/21fcf312541b7f62766b8f4a247abd2c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/21fcf312541b7f62766b8f4a247abd2c.jpg",
+    "配图仓库路径": "assets/news_images/21fcf312541b7f62766b8f4a247abd2c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305241345452956_2.jpg"
   },
   {
-    "资讯标题": "匿名模型Ox Alpha登顶OpenRouter平台，累计调用量突破4万亿Token",
-    "内容": "匿名模型Ox Alpha近日上线OpenRouter后迅速登顶平台模型榜单，并刷新单日模型用量纪录。OpenRouter数据显示，仅Hermes Agent、Claude Code等前五大应用对该模型的累计调用量已超过4万亿Token，标志着其应用场景已从社区尝鲜扩展至全球开发者及Agent真实工作流。OpenRouter官方将Ox Alpha定义为面向编码、持续性Agent任务及生产工作流的推理模型，并确认由匿名第三方开发运营。目前该模型身份尚未揭晓，社区技术分析指出其Tokenizer指纹与智谱GLM系列高度接近，亦有谷歌DeepMind研究员暗示其可能与新版Gemini有关，但各方均未正式认领。Ox Alpha的大规模调用反映出AI Agent正加速进入软件开发与代码执行等实际生产流程，模型在真实工作流中",
-    "发布日期": "2026-08-24",
-    "原文链接": "https://www.aibase.com/zh/news/30549",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3f419abb0967fa6658d75dedda0c565c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3f419abb0967fa6658d75dedda0c565c.jpg",
-    "配图仓库路径": "assets/news_images/3f419abb0967fa6658d75dedda0c565c.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0824/6392315990131584735902830.jpg"
+    "资讯标题": "阿里巴巴正式发布视频生成大模型Wan3.0，支持30秒超长视频生成",
+    "内容": "阿里巴巴于8月24日正式推出视频生成大模型Wan3.0，在生成时长、多模态输入及一致性控制方面实现重大突破。Wan3.0将单次视频生成时长提升至30秒，大幅扩展了单一镜头的叙事空间。该模型首次支持doc、xls、ppt、pdf及md等多种主流文档格式输入，实现文字、表格及演示文稿向视频内容的直接转化。针对视频生成中常见的穿帮与风格漂移难题，Wan3.0在角色外貌、道具细节、声音配置及空间关系等维度展现出极强的稳定性，能够精准还原真实世界的物理与逻辑规律。此次升级标志着阿里在视频生成领域的技术跨越，为用户提供更高效、更具逻辑一致性的创作工具，进一步推动了AI视频生成技术在复杂叙事场景下的应用落地。",
+    "发布日期": "2026-08-25",
+    "原文链接": "https://www.aibase.com/zh/news/30567",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/29032d30e952213d5a3850a85b0ab672.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/29032d30e952213d5a3850a85b0ab672.jpg",
+    "配图仓库路径": "assets/news_images/29032d30e952213d5a3850a85b0ab672.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0824/6392317619175436322020442.png"
   },
   {
-    "资讯标题": "Guidelight评估五大AI实验室遏制能力，OpenAI以3分排名第一",
-    "内容": "Guidelight AI Standards近日发布前沿AI实验室遏制能力评估报告，考察Anthropic、Google、OpenAI、Meta和xAI五家机构在监控、异常处置及失控模型关闭等方面的机制。评估结果显示，OpenAI以满分5分中的3分位居榜首，Anthropic和Meta得分最低。Guidelight定义的“遏制方案”指在AI突破控制时，明确撤销权限、限制任务及强制下线的应急流程。尽管OpenAI曾披露安全事件后的处理步骤，但仍缺乏正式的未来失控应急计划。Anthropic与Meta目前尚未公开相关响应方案。Google与OpenAI对此回应称，公开评估无法涵盖其全部内部安全机制。随着AI智能体自主执行能力提升，以及加州SB53法案生效和联邦《人工智能终止开关法案》的推进，建立可验证、可执行的“",
-    "发布日期": "2026-08-24",
-    "原文链接": "https://www.aibase.com/zh/news/30545",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b7d8e20a3e9de72bffce73b4fc005000.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b7d8e20a3e9de72bffce73b4fc005000.jpg",
-    "配图仓库路径": "assets/news_images/b7d8e20a3e9de72bffce73b4fc005000.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0824/6392315913109178266857052.jpg"
+    "资讯标题": "小鹏机器人完成首轮超9亿美元融资，投后估值突破63亿美元",
+    "内容": "小鹏机器人业务正式完成首轮超9亿美元融资，投后估值突破63亿美元（约合430亿元人民币），刷新中国具身智能行业单轮私募股权融资纪录。本轮融资由IDG资本领投，高榕创投参投，腾讯与阿里巴巴作为战略投资者参与，小鹏集团保持控股地位。此次融资将重点用于加速人形机器人量产进程及物理AI模型的研发迭代，旨在推动高阶通用人形机器人迈向全球商业化应用。投资方认为，小鹏人形机器人已具备与海外头部企业竞争的技术实力。该事件标志着具身智能赛道正从技术验证阶段加速向规模化落地转型，吸引了顶级财务与战略资本的深度布局，对国内具身智能产业的估值体系建立及商业化进程具有重要推动作用。",
+    "发布日期": "2026-08-25",
+    "原文链接": "https://www.aibase.com/zh/news/30579",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/aa922de4e89603e4cf704268f29b109a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/aa922de4e89603e4cf704268f29b109a.jpg",
+    "配图仓库路径": "assets/news_images/aa922de4e89603e4cf704268f29b109a.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306211700080506_9.jpg"
   },
   {
-    "资讯标题": "Anthropic正式向公众免费开源内部入职培训平台Claude Academy",
-    "内容": "Anthropic近日宣布将原内部员工培训平台Claude Academy全面免费向公众开放，用户注册Claude账号即可访问。该平台包含289个学习资源，涵盖AI基础知识、Claude Code、API调用、Agents开发及生产级系统部署等核心技术领域。完成课程后，用户可获得官方颁发的结业徽章。Claude Academy的核心教学逻辑基于“AI Fluency 4D”框架，旨在培养用户与AI深度协作的心智模式，强调人类在复杂任务中应具备的思维深度，而非单纯的提示词技巧。此举不仅是Anthropic扩大技术影响力的重要举措，也为开发者及职场人士提供了系统化提升AI协作能力的路径，旨在帮助用户在AI能力快速迭代的背景下，掌握与智能工具高效协作的底层逻辑。",
-    "发布日期": "2026-08-24",
-    "原文链接": "https://www.aibase.com/zh/news/30539",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
+    "资讯标题": "小米发布玄戒O3、O100及D100三款自研AI芯片，构建全生态算力底座",
+    "内容": "小米正式发布玄戒O3、O100、D100三款自研AI芯片，覆盖移动终端、大模型加速及智能驾驶场景，标志着其人车家全生态算力布局完成。旗舰SoC玄戒O3采用3nm制程，集成240亿晶体管，搭载十核全大核CPU及16核G2-Ultra NX GPU，首发支持LPDDR6内存，NPU算力达200TOPS，端侧AI推理速度提升45%，将首发搭载于小米18Fold。玄戒O100为全球首款6nm 3D晶圆级堆叠AI加速芯片，采用Hybrid Bonding工艺，带宽达1.22TB/s，协同O3可实现330Tokens/s的端侧推理速度。玄戒D100则是国内首款3nm智驾AI芯片，支持2000亿参数大模型本地部署。小米通过五年研发投入超210亿元，旨在以玄戒系列芯片作为物理根基，支撑全场景AI战略落地。O100与D100计划",
+    "发布日期": "2026-08-25",
+    "原文链接": "https://www.aibase.com/zh/news/30572",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c3bfb2c52197fb252dbf18402f89d339.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c3bfb2c52197fb252dbf18402f89d339.jpg",
+    "配图仓库路径": "assets/news_images/c3bfb2c52197fb252dbf18402f89d339.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0824/6392318165096077689718227.jpg"
   },
   {
-    "资讯标题": "AI初创公司Hugging Face寻求出售，交易估值或达130亿美元",
-    "内容": "AI初创公司Hugging Face正探索出售事宜，目前已与银行合作评估潜在买家的收购兴趣，交易估值预计将达到130亿美元或更高。Hugging Face总部位于纽约，是全球核心的开源大模型与数据集托管平台。该公司在2023年的融资中估值约为45亿美元，由Salesforce、谷歌与英伟达领投。若此次出售最终落地，意味着其估值在不到三年内翻了近三倍。这一动向反映出在当前AI巨头争夺算力与生态的背景下，作为开源AI基础设施的Hugging Face已从社区资产转变为极具战略价值的收购标的，其归属权变动将对开源AI生态的未来发展产生深远影响。",
-    "发布日期": "2026-08-24",
-    "原文链接": "https://www.aibase.com/zh/news/30548",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7834f7e3ba20d894d2541c7759924b6a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7834f7e3ba20d894d2541c7759924b6a.jpg",
-    "配图仓库路径": "assets/news_images/7834f7e3ba20d894d2541c7759924b6a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005221431331884_1.jpg"
+    "资讯标题": "全球最大AI开源社区Hugging Face寻求整体出售，潜在估值超130亿美元",
+    "内容": "全球最大AI开源社区Hugging Face正考虑整体出售，潜在交易估值或超130亿美元。该公司目前正与银行合作评估潜在竞标者意向，尚未达成最终协议。若交易达成，其估值将较2023年45亿美元的融资额增长近两倍。Hugging Face成立于2016年，作为“AI行业的GitHub”，其平台拥有近300万个公开模型及超100万个数据集，主要提供模型发现、共享与部署基础设施。公司收入来源包括付费订阅、企业托管及算力服务。此次出售意向反映了资本市场对AI基础设施及开发者生态的持续关注。此前，Hugging Face曾于2025年4月收购人形机器人公司Pollen Robotics。尽管面临行业泡沫及安全争议，如今年7月曾遭OpenAI智能体入侵，但其作为连接开发者、模型与算力的核心枢纽，在AI产业链中占据关键地位。",
+    "发布日期": "2026-08-25",
+    "原文链接": "https://www.aibase.com/zh/news/30571",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/487f01ecf26ff4a9ed5d66135ddfcafc.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/487f01ecf26ff4a9ed5d66135ddfcafc.jpg",
+    "配图仓库路径": "assets/news_images/487f01ecf26ff4a9ed5d66135ddfcafc.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202508201007318913_0.jpg"
   }
 ]
