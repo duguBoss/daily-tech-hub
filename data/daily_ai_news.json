@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里巴巴开源 Qwen-UI-Agent 真机多模态 GUI 智能体基座模型",
-    "内容": "阿里巴巴正式开源 GUI 智能体基座模型 Qwen-UI-Agent，旨在实现移动端、电脑端及网页端的真实设备无缝操作。该模型在 MobileWorld 测试中取得 82.1% 的高分，在自建的百台真机基准 MobileWorld-Real 上成功率达 92.2%，并在 OSWorld-Verified 及 WebArena 测试中表现优异。Qwen-UI-Agent 搭建了覆盖 100 多台真机与 150 多个应用的训练环境，支持命令行操作与批量动作输出，能有效缩短执行轨迹。在安全层面，模型内置全过程判断机制，针对支付、隐私授权等敏感场景具备主动拦截与确认功能。此外，该模型支持超过 100 步的超长轨迹在线强化学习，配合自适应课程学习，显著提升了处理复杂长程任务的能力，为开发者提供从模拟环境向真实设备部署的完",
+    "资讯标题": "阿里巴巴拟配售800亿港元新股，所得资金将全部投入AI基础设施建设",
+    "内容": "阿里巴巴于8月23日宣布，拟向美国境外的非美国人士配售新股，募资总额达800亿港元，这是其2019年港股上市以来首次启动新股配售，且交易已获超额认购。所得款项净额将100%用于投资全栈AI能力及加强AI基础设施建设。根据2027财年第一季度财报，阿里巴巴AI相关产品年化收入（ARR）已突破495亿元人民币，其中AI云与算力服务收入同比增长45%至484.37亿元。公司预计AI资本开支有望在2至3年内收回，并设定阿里云2030年外部商业化收入达1000亿美元、利润率超20%的目标。此次融资反映了阿里巴巴对AI算力长期需求的战略布局，旨在通过大规模资本投入巩固其在AI基础设施领域的竞争力。",
     "发布日期": "2026-08-24",
-    "原文链接": "https://www.aibase.com/zh/news/30530",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9441ff3cea1797e0f581040dd68e13eb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9441ff3cea1797e0f581040dd68e13eb.jpg",
-    "配图仓库路径": "assets/news_images/9441ff3cea1797e0f581040dd68e13eb.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0821/6392292177363936161696865.png"
+    "原文链接": "https://www.aibase.com/zh/news/30546",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d32db24ac870199f99bf2504ff9a438e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d32db24ac870199f99bf2504ff9a438e.jpg",
+    "配图仓库路径": "assets/news_images/d32db24ac870199f99bf2504ff9a438e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201811151614000705_34.jpg"
   },
   {
-    "资讯标题": "阿里云千问AI平台接入GLM-5.3与DeepSeek-V4-Pro模型",
-    "内容": "阿里云千问AI平台（MaaS）近日完成模型矩阵扩容，正式上线智谱GLM-5.3与DeepSeek-V4-Pro旗舰大模型，并同步开放配套API服务。GLM-5.3重点强化编程、长程任务执行及网络安全能力；DeepSeek-V4-Pro则针对智能体交互进行升级，适配代码开发与多步骤复杂任务处理。目前，千问AI平台已覆盖文本、代码、语音、图像及视频五大模型赛道，接入包括Qwen3.8-Max、Qwen-Image3.0Pro、Wan3.0及Kimi K3在内的多款主流模型。在商业化层面，平台推出Token Plan套餐服务，支持DeepSeek-V4-Pro、Qwen3.8-Max等模型订阅，开发者可通过API将模型能力集成至自有业务系统，或在Qoder、Codex等开发工具内实现模型自由切换，进一步提升了全场景模",
+    "资讯标题": "字节跳动Seed部门完成组织架构调整，重构预训练、强化学习与Agent研发链路",
+    "内容": "字节跳动大模型部门Seed于上周完成新一轮组织调整，Seed Foundation Model下设四个一级部门，均向吴永辉汇报。此次重构旨在整合预训练数据、强化学习及模型后训练资源，并明确B端与C端产品模型布局。具体架构为：李成刚负责Pretrain Data，统一管理多模态及超大模型预训练数据；唐晟宇负责Horizon RL，重点推进强化学习以提升模型基础智能；秦禹嘉负责Product Posttrain-Work，专注于B端办公场景的Agentic模型研发；朱文佳负责Product Posttrain-Chat，继续深耕C端对话模型。此次调整通过细化研发链路，将豆包、Dola等产品的底层能力与应用场景深度解耦，旨在通过差异化的模型体系，强化企业办公Agent与消费级对话场景的竞争力。",
     "发布日期": "2026-08-24",
-    "原文链接": "https://www.aibase.com/zh/news/30523",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/368aa05201c9aff87be2716b08304668.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/368aa05201c9aff87be2716b08304668.jpg",
-    "配图仓库路径": "assets/news_images/368aa05201c9aff87be2716b08304668.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0821/6392290674864561217923591.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30537",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
+    "配图仓库路径": "assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201906242208064335_2.jpg"
   },
   {
-    "资讯标题": "豆包工作任务模式上线技能、连接器与工作伙伴三大功能",
-    "内容": "豆包工作任务模式近日迎来重大更新，正式上线技能、连接器与工作伙伴三大功能，推动平台从对话助手向智能办公平台转型。目前，平台已上架超200个技能与连接器，并支持用户自主创建专属技能以固化工作流。技能功能允许用户将个性化工作方法（如周报格式）一键保存并复用；连接器则打通了豆包与外部办公工具，以飞书连接器为例，用户无需切换页面即可直接处理任务与查找资料；工作伙伴功能提供数据分析、内容策划、科研及金融等领域的专业智能体，支持用户组建智能体小队协同完成复杂任务。用户可通过豆包电脑版侧边栏体验上述功能，通过技能留存标准、连接器调取信息、智能体协作，实现办公流程的简化与提质增效。",
+    "资讯标题": "Guidelight评估五大AI实验室遏制能力，OpenAI以3分排名第一",
+    "内容": "Guidelight AI Standards近日发布针对前沿AI实验室遏制能力的评估报告，考察Anthropic、Google、OpenAI、Meta和xAI在监控、异常处置、第三方审计及模型关闭等机制上的表现。在满分5分的评估中，OpenAI以3分位居榜首，Anthropic和Meta得分最低。Guidelight定义的“遏制方案”指在AI突破人类控制时，预先明确撤销权限、限制任务及下线模型的应急流程。评估指出，尽管OpenAI曾有暂停工作负载的实践，但各实验室均未公开完整的正式失控应急计划。Google与OpenAI回应称，公开评估无法覆盖其全部内部安全机制。随着AI Agent自主执行能力提升，加州SB53法案及联邦《人工智能终止开关法案》等监管要求日益强化。Guidelight首席科学家Steven ",
     "发布日期": "2026-08-24",
-    "原文链接": "https://www.aibase.com/zh/news/30525",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f8bb140131f33454b4f6258b393c4b73.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f8bb140131f33454b4f6258b393c4b73.jpg",
-    "配图仓库路径": "assets/news_images/f8bb140131f33454b4f6258b393c4b73.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0821/6392291695394424992212344.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30545",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b7d8e20a3e9de72bffce73b4fc005000.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b7d8e20a3e9de72bffce73b4fc005000.jpg",
+    "配图仓库路径": "assets/news_images/b7d8e20a3e9de72bffce73b4fc005000.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0824/6392315913109178266857052.jpg"
   },
   {
-    "资讯标题": "OpenAI全面开源Codex Harness，开放AI编程智能体底层运行框架",
-    "内容": "OpenAI近日全面开源Codex Harness，将驱动Codex智能体运行的核心框架向开发者开放。Codex Harness作为连接模型、用户与工具的Agent执行环境，负责管理任务执行、上下文、会话及代码操作。该框架核心组件包括Agent Loop、线程生命周期管理、工具执行及扩展机制。开发者可通过Codex App Server利用双向JSON-RPC协议将Harness接入IDE、桌面应用等客户端，实现实时事件流交互。目前，该框架已支撑Codex Web、CLI及macOS应用等场景。OpenAI内部实践显示，基于Harness的工程模式可实现“人类设定目标、Agent执行”的自动化闭环，曾支撑内部产品在5个月内生成约100万行代码。此次开源标志着AI编程竞争从单纯的模型能力转向Agent运行时、工具",
+    "资讯标题": "Anthropic正式向公众免费开源内部培训平台Claude Academy",
+    "内容": "Anthropic宣布将其内部新员工培训平台Claude Academy全面免费向公众开放，用户注册Claude账号即可访问。该平台包含289个学习资源，涵盖AI基础知识、Claude Code、API调用、智能体（Agents）开发及生产级系统部署等核心技术领域。课程核心基于“AI Fluency 4D”框架，旨在培养用户与AI深度协作的心智模式，而非单纯传授提示词技巧。学员完成课程后可获得官方颁发的结业徽章。此举标志着Anthropic正通过系统化教育资源，帮助开发者与职场人士提升AI协作能力，以应对大模型技术快速迭代带来的行业变革。该平台不仅是技术教学工具，更试图重构AI时代下的生产力学习逻辑。",
     "发布日期": "2026-08-24",
-    "原文链接": "https://www.aibase.com/zh/news/30531",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3dc7558b6757f99938aa45834da1392c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3dc7558b6757f99938aa45834da1392c.jpg",
-    "配图仓库路径": "assets/news_images/3dc7558b6757f99938aa45834da1392c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202303150849416593_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30539",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
   },
   {
-    "资讯标题": "Anthropic在Claude Platform正式上线Computer Use、Skills API与Files API",
-    "内容": "Anthropic宣布Claude Platform的Computer Use、Skills API及Files API全面进入GA阶段。核心升级包括：Computer Use支持单轮次执行多项连续动作，并符合HIPAA标准，支持医疗领域应用；新增浏览器使用工具，具备网页结构解析能力，可精准识别并操作网页元素。Skills API允许企业托管专属技能文件夹，在代码沙盒中安全运行；Files API提供1TB专属存储空间，支持PDF及电子表格处理，速率限制提升至原先的5倍，并引入自动过期机制。此次更新旨在赋能企业构建生产级智能体，实现复杂业务流程自动化。目前，开发者可通过Microsoft Foundry使用相关API，电脑操作与浏览器使用工具也即将接入Google Cloud Vertex AI，进一步完善企业",
+    "资讯标题": "AI初创公司Hugging Face寻求出售，交易估值或达130亿美元",
+    "内容": "AI初创公司Hugging Face正探索出售事宜，目前已与银行合作评估潜在竞购者的收购兴趣，交易估值预计可达130亿美元或更高。Hugging Face总部位于纽约，是全球核心的开源大模型与数据集托管平台。回顾2023年，该公司在由Salesforce、谷歌与英伟达领投的融资中估值约为45亿美元。若此次出售最终落地，意味着其估值在不到三年内增长近三倍。这一动向反映出开源AI基础设施在当前算力与生态竞争中，已从单纯的社区资产转变为科技巨头争夺的战略级收购标的。对于行业而言，Hugging Face作为AI开发生态的枢纽，其所有权变更可能对开源模型的托管、分发及开发者社区的未来走向产生深远影响。",
     "发布日期": "2026-08-24",
-    "原文链接": "https://www.aibase.com/zh/news/30522",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
-    "配图仓库路径": "assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403050858462025_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30548",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7834f7e3ba20d894d2541c7759924b6a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7834f7e3ba20d894d2541c7759924b6a.jpg",
+    "配图仓库路径": "assets/news_images/7834f7e3ba20d894d2541c7759924b6a.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005221431331884_1.jpg"
   }
 ]
