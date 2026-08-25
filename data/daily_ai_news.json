@@ -1,27 +1,27 @@
 [
   {
-    "资讯标题": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-    "内容": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 24, 202626阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发的肝癌诊断AI模型 DAMO LiON，近日登上国际顶级医学期刊《自然·医学》（Nature Medicine）。该模型可通过增强CT影像识别微小肝脏癌变病灶，尤其擅长发现容易被忽略的肝转移。在为期两个月的真实世界前瞻临床试验中，DAMO LiON共辅助阅片1万多名患者，发现了15例原本被漏诊的恶性肿瘤，绝大多数病灶直径仅约1厘米，并推动患者及时接受手术或药物治疗。研究显示，AI辅助阅片后，医生的阅片时间减少27%，对恶性肿瘤的敏感性提升11.5%。",
+    "资讯标题": "阿里巴巴完成800亿港元新股配售，资金将全额投入AI基础设施建设",
+    "内容": "阿里巴巴于8月24日完成800亿港元（约102亿美元）新股配售定价，所得净额将100%投入全栈AI能力建设与基础设施。本次配售获近3倍超额认购，认购金额超2000亿港元，主权与长线基金认购比例超40%。集团主席蔡崇信与CEO吴泳铭合计增持约1.2亿港元阿里股票，以示对AI战略的信心。目前阿里AI相关产品年化收入已突破495亿元人民币，预计下季度达100亿美元。管理层预期2030年阿里云外部收入将达千亿美元，利润率达20%，AI资本开支有望在2至3年内收回。此次融资标志着阿里全栈布局从算力、芯片进一步向模型与应用领域深化，通过持续投入强化其在AI基础设施市场的竞争壁垒。",
     "发布日期": "2026-08-25",
-    "原文链接": "https://www.aibase.com/zh/news/30568",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/21fcf312541b7f62766b8f4a247abd2c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/21fcf312541b7f62766b8f4a247abd2c.jpg",
-    "配图仓库路径": "assets/news_images/21fcf312541b7f62766b8f4a247abd2c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305241345452956_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30585",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dd9a7cae1bb950ed46cb2400cfd64b2f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dd9a7cae1bb950ed46cb2400cfd64b2f.jpg",
+    "配图仓库路径": "assets/news_images/dd9a7cae1bb950ed46cb2400cfd64b2f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151614000705_33.jpg"
   },
   {
-    "资讯标题": "阿里巴巴正式发布视频生成大模型Wan3.0，支持30秒超长视频生成",
-    "内容": "阿里巴巴于8月24日正式推出视频生成大模型Wan3.0，在生成时长、多模态输入及一致性控制方面实现重大突破。Wan3.0将单次视频生成时长提升至30秒，大幅扩展了单一镜头的叙事空间。该模型首次支持doc、xls、ppt、pdf及md等多种主流文档格式输入，实现文字、表格及演示文稿向视频内容的直接转化。针对视频生成中常见的穿帮与风格漂移难题，Wan3.0在角色外貌、道具细节、声音配置及空间关系等维度展现出极强的稳定性，能够精准还原真实世界的物理与逻辑规律。此次升级标志着阿里在视频生成领域的技术跨越，为用户提供更高效、更具逻辑一致性的创作工具，进一步推动了AI视频生成技术在复杂叙事场景下的应用落地。",
+    "资讯标题": "法律AI独角兽Harvey基于月之暗面Kimi K3模型推出Tenet",
+    "内容": "美国法律AI独角兽Harvey正式宣布，基于月之暗面开放权重模型Kimi K3，通过后训练技术开发出法律专用模型Harvey Tenet。这是中国开放权重模型首次进入美国头部垂直AI公司的训练体系。Harvey目前估值110亿美元，年化收入约3.5亿美元，服务全球超2400家机构及20多万名律师。此前Harvey主要依赖OpenAI和Anthropic等闭源模型提供法律服务，此次Tenet的落地标志着其技术底座从闭源向开放权重模型的战略转型。该事件表明，中国开放权重模型在垂直专业赛道已获得国际头部企业的实质性信任，为国产模型出海提供了新的路径参考。",
     "发布日期": "2026-08-25",
-    "原文链接": "https://www.aibase.com/zh/news/30567",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/29032d30e952213d5a3850a85b0ab672.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/29032d30e952213d5a3850a85b0ab672.jpg",
-    "配图仓库路径": "assets/news_images/29032d30e952213d5a3850a85b0ab672.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0824/6392317619175436322020442.png"
+    "原文链接": "https://www.aibase.com/zh/news/30584",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/34f8ec0f302b1149813b1236ad1a3431.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/34f8ec0f302b1149813b1236ad1a3431.jpg",
+    "配图仓库路径": "assets/news_images/34f8ec0f302b1149813b1236ad1a3431.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304121100054471_0.jpg"
   },
   {
     "资讯标题": "小鹏机器人完成首轮超9亿美元融资，投后估值突破63亿美元",
-    "内容": "小鹏机器人业务正式完成首轮超9亿美元融资，投后估值突破63亿美元（约合430亿元人民币），刷新中国具身智能行业单轮私募股权融资纪录。本轮融资由IDG资本领投，高榕创投参投，腾讯与阿里巴巴作为战略投资者参与，小鹏集团保持控股地位。此次融资将重点用于加速人形机器人量产进程及物理AI模型的研发迭代，旨在推动高阶通用人形机器人迈向全球商业化应用。投资方认为，小鹏人形机器人已具备与海外头部企业竞争的技术实力。该事件标志着具身智能赛道正从技术验证阶段加速向规模化落地转型，吸引了顶级财务与战略资本的深度布局，对国内具身智能产业的估值体系建立及商业化进程具有重要推动作用。",
+    "内容": "小鹏机器人业务正式完成首轮超9亿美元融资，投后估值突破63亿美元（约合430亿元人民币），刷新中国具身智能行业单轮私募股权融资纪录。本轮融资由IDG资本领投，高榕创投参投，腾讯与阿里巴巴作为战略投资者入局，小鹏集团保持控股地位。此次融资资金将重点用于加速人形机器人量产进程，以及物理AI模型的研发迭代，旨在推动高阶通用人形机器人迈向全球商业化应用。投资方认为，小鹏人形机器人已具备与海外头部企业竞争的技术实力。该事件标志着具身智能赛道正从技术验证阶段加速向规模化落地转型，吸引了顶级财务与战略资本的深度布局，对国内具身智能产业的商业化进程具有重要推动意义。",
     "发布日期": "2026-08-25",
     "原文链接": "https://www.aibase.com/zh/news/30579",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/aa922de4e89603e4cf704268f29b109a.jpg",
@@ -30,23 +30,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306211700080506_9.jpg"
   },
   {
-    "资讯标题": "小米发布玄戒O3、O100及D100三款自研AI芯片，构建全生态算力底座",
-    "内容": "小米正式发布玄戒O3、O100、D100三款自研AI芯片，覆盖移动终端、大模型加速及智能驾驶场景，标志着其人车家全生态算力布局完成。旗舰SoC玄戒O3采用3nm制程，集成240亿晶体管，搭载十核全大核CPU及16核G2-Ultra NX GPU，首发支持LPDDR6内存，NPU算力达200TOPS，端侧AI推理速度提升45%，将首发搭载于小米18Fold。玄戒O100为全球首款6nm 3D晶圆级堆叠AI加速芯片，采用Hybrid Bonding工艺，带宽达1.22TB/s，协同O3可实现330Tokens/s的端侧推理速度。玄戒D100则是国内首款3nm智驾AI芯片，支持2000亿参数大模型本地部署。小米通过五年研发投入超210亿元，旨在以玄戒系列芯片作为物理根基，支撑全场景AI战略落地。O100与D100计划",
+    "资讯标题": "Claude Code 官方日志曝出版本映射异常，Opus5 模型性能不稳遭质疑",
+    "内容": "Claude Code 官方日志显示，自 2.1.237 版本起，系统将用户手动选择的“high”推理程度映射至对应“low”档的数值 10，且未在更新日志中说明。针对社区质疑，Claude Code 工程师回应称此举为 API 服务配置测试，该数值无实际意义，不影响整体性能。此外，科技博主 Chubby 指出 Opus5 模型近期表现明显降级，相关工程师承认该模型存在不稳定性，并已将其列为优先修复事项。此次事件引发行业对 AI 模型版本更新透明度及“跑分与真实体感脱钩”问题的广泛讨论。作为数字基础设施，大模型的持续稳定性与版本透明度已成为维护用户信任的核心基石。",
     "发布日期": "2026-08-25",
-    "原文链接": "https://www.aibase.com/zh/news/30572",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c3bfb2c52197fb252dbf18402f89d339.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c3bfb2c52197fb252dbf18402f89d339.jpg",
-    "配图仓库路径": "assets/news_images/c3bfb2c52197fb252dbf18402f89d339.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0824/6392318165096077689718227.jpg"
-  },
-  {
-    "资讯标题": "全球最大AI开源社区Hugging Face寻求整体出售，潜在估值超130亿美元",
-    "内容": "全球最大AI开源社区Hugging Face正考虑整体出售，潜在交易估值或超130亿美元。该公司目前正与银行合作评估潜在竞标者意向，尚未达成最终协议。若交易达成，其估值将较2023年45亿美元的融资额增长近两倍。Hugging Face成立于2016年，作为“AI行业的GitHub”，其平台拥有近300万个公开模型及超100万个数据集，主要提供模型发现、共享与部署基础设施。公司收入来源包括付费订阅、企业托管及算力服务。此次出售意向反映了资本市场对AI基础设施及开发者生态的持续关注。此前，Hugging Face曾于2025年4月收购人形机器人公司Pollen Robotics。尽管面临行业泡沫及安全争议，如今年7月曾遭OpenAI智能体入侵，但其作为连接开发者、模型与算力的核心枢纽，在AI产业链中占据关键地位。",
-    "发布日期": "2026-08-25",
-    "原文链接": "https://www.aibase.com/zh/news/30571",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/487f01ecf26ff4a9ed5d66135ddfcafc.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/487f01ecf26ff4a9ed5d66135ddfcafc.jpg",
-    "配图仓库路径": "assets/news_images/487f01ecf26ff4a9ed5d66135ddfcafc.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202508201007318913_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30588",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
+    "配图仓库路径": "assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171645588927_0.jpg"
   }
 ]
