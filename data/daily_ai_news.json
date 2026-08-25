@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里巴巴完成800亿港元新股配售，资金将全额投入AI基础设施建设",
-    "内容": "阿里巴巴于8月24日完成800亿港元（约102亿美元）新股配售定价，所得净额将100%投入全栈AI能力建设与基础设施。本次配售获近3倍超额认购，认购金额超2000亿港元，主权与长线基金认购比例超40%。集团主席蔡崇信与CEO吴泳铭合计增持约1.2亿港元公司股票，以示对AI战略的支持。目前阿里AI相关产品年化收入已突破495亿元人民币，预计下季度达100亿美元。管理层预期2030年阿里云外部收入将达千亿美元，利润率达20%，AI资本开支预计在2至3年内收回。此次融资标志着阿里正加速从算力、芯片向模型与应用的全栈布局，通过资本投入强化其在AI领域的竞争壁垒。",
-    "发布日期": "2026-08-25",
-    "原文链接": "https://www.aibase.com/zh/news/30585",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dd9a7cae1bb950ed46cb2400cfd64b2f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dd9a7cae1bb950ed46cb2400cfd64b2f.jpg",
-    "配图仓库路径": "assets/news_images/dd9a7cae1bb950ed46cb2400cfd64b2f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151614000705_33.jpg"
+    "资讯标题": "字节跳动发布AI办公智能体“豆包工作”，深度打通飞书生态实现全流程自主执行",
+    "内容": "字节跳动正式发布面向生产力场景的AI Agent产品“豆包工作”，通过自主任务规划、跨工具调用及虚拟桌面操控能力，推动AI办公从内容辅助生成向全流程自主执行演进。该产品支持文档撰写、PPT制作、网页搭建及轻量化系统开发，并创新搭载虚拟桌面功能，允许在后台执行复杂任务的同时保持可视化操作。豆包工作核心优势在于与飞书生态深度整合，能调用群聊、文档、会议纪要及多维表格等企业私有数据，解决通用大模型缺乏业务上下文的痛点。目前已落地项目周报生成、客户需求提炼、业务风险识别及经营策略分析四大场景。在安全层面，依托飞书企业级合规底座，实现任务执行全链路防护。用户现可通过doubao.com/work下载电脑版，官方提供限时30天免费订阅权益，旨在加速AI Agent在企业业务中的规模化落地。",
+    "发布日期": "2026-08-26",
+    "原文链接": "https://www.aibase.com/zh/news/30596",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/acfb503548a4849d4cc98a099927eca1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/acfb503548a4849d4cc98a099927eca1.jpg",
+    "配图仓库路径": "assets/news_images/acfb503548a4849d4cc98a099927eca1.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0825/6392325297168641103799980.jpg"
   },
   {
-    "资讯标题": "英伟达洽谈投资AI搜索公司Perplexity，估值超300亿美元",
-    "内容": "英伟达正洽谈投资AI搜索公司Perplexity，交易对应估值超300亿美元，较一年前增长逾50%。Perplexity年化收入已从2.5亿美元增至超7.5亿美元，增长核心驱动力包括AI代理“Perplexity Computer”的推出，该代理支持自动执行多步骤任务，其高Token消耗进一步推高了收入。Perplexity此前已加入英伟达Nemotron联盟，并计划于2028年前后推进IPO。英伟达近期通过资本布局强化AI产业链，除Perplexity外，还涉及Poolside、Groq及Enfabrica等企业。通过投资AI基础设施与应用公司，英伟达旨在扩大AI生态影响力，并促进GPU等产品采购的收入回流。随着AI应用向Agent演进，英伟达正通过算力与资本双重布局，巩固其在AI产业链的核心地位。",
-    "发布日期": "2026-08-25",
-    "原文链接": "https://www.aibase.com/zh/news/30591",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a7146217b1576a69182e9a05b03a722c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a7146217b1576a69182e9a05b03a722c.jpg",
-    "配图仓库路径": "assets/news_images/a7146217b1576a69182e9a05b03a722c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502251010569558_1.jpg"
+    "资讯标题": "WikiHow正式起诉OpenAI侵权，指控其未经授权抓取超1.1万篇教程训练模型",
+    "内容": "全球协作式生活指南百科WikiHow近日向美国曼哈顿联邦法院提起诉讼，指控OpenAI在未经许可的情况下，擅自抓取其超过11,000篇教程文章用于训练ChatGPT及GPT系列大语言模型，涉嫌侵犯至少1,200项已注册版权。WikiHow在诉状中指出，ChatGPT能够直接复现其文本内容并生成同类教程，导致用户无需访问原网站即可获取答案，严重分流了核心流量并削减了广告收入，打击了创作者生产高质量内容的动力。WikiHow要求法院判令OpenAI进行赔偿，并下达强制禁令阻止其继续侵权。对此，OpenAI发言人回应称，模型训练使用的是公开数据，行为符合“合理使用”原则。此案被视为衡量AI模型训练与传统版权保护边界的关键风向标。",
+    "发布日期": "2026-08-26",
+    "原文链接": "https://www.aibase.com/zh/news/30598",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/029998e3b105360fbdf6e5e3140439aa.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/029998e3b105360fbdf6e5e3140439aa.jpg",
+    "配图仓库路径": "assets/news_images/029998e3b105360fbdf6e5e3140439aa.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304121521487542_6.jpg"
   },
   {
-    "资讯标题": "法律AI独角兽Harvey基于月之暗面Kimi K3模型推出Tenet",
-    "内容": "美国法律AI独角兽Harvey正式宣布，基于月之暗面（Moonshot AI）开放权重模型Kimi K3，通过后训练技术开发出法律专用模型Harvey Tenet。这是中国开放权重模型首次进入美国头部垂直AI公司的训练体系。Harvey此前主要依赖OpenAI与Anthropic等闭源模型，服务全球超2400家机构及20多万名律师。作为估值达110亿美元的行业头部企业，Harvey此次从闭源依赖转向采用中国开源底座，标志着开放权重模型在法律等高门槛垂直赛道已获得实质性信任。该模型落地不仅验证了Kimi K3的技术能力，也为中国开源模型出海提供了重要范式，显示出高性能开源底座在国际专业化应用场景中的竞争力。",
-    "发布日期": "2026-08-25",
-    "原文链接": "https://www.aibase.com/zh/news/30584",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/34f8ec0f302b1149813b1236ad1a3431.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/34f8ec0f302b1149813b1236ad1a3431.jpg",
-    "配图仓库路径": "assets/news_images/34f8ec0f302b1149813b1236ad1a3431.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304121100054471_0.jpg"
+    "资讯标题": "SpaceX在星链业务中部署Grok语音系统，日均处理1.5万通电话",
+    "内容": "SpaceX已将xAI旗下的Grok语音系统全面部署至星链（Starlink）项目，应用于客户支持与销售业务。最新运营数据显示，该AI语音系统目前日均处理超过15000通全球客户咨询及销售电话，并实现每周独立完成超过3000笔商业订单。此次落地标志着大模型语音交互技术已跨越理论验证阶段，在大规模商业化客服与销售场景中具备了实际作战能力。通过将Grok语音系统深度融合至海量业务场景，SpaceX不仅显著降低了传统人工客服与销售团队的运营成本，也为全球高频次商业交互的智能化转型提供了新路径，验证了AI Agent在复杂企业级服务中的高效率与高转化价值。",
+    "发布日期": "2026-08-26",
+    "原文链接": "https://www.aibase.com/zh/news/30609",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6c5eb96e7ca97191fd85c90b5d150e2c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6c5eb96e7ca97191fd85c90b5d150e2c.jpg",
+    "配图仓库路径": "assets/news_images/6c5eb96e7ca97191fd85c90b5d150e2c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412121114588416_0.jpg"
   },
   {
-    "资讯标题": "SpaceX AI旗下Grok Build集成Browser-Use插件，实现浏览器自动化控制",
-    "内容": "SpaceX AI近日宣布为Grok Build平台新增Browser-Use插件，使AI具备直接调用浏览器进行复杂交互的能力。该插件支持调用本地Chrome浏览器（无需API密钥）或隔离的云端浏览器环境，显著提升了Grok在网页自动化领域的应用边界。在功能层面，Grok Build现可自主完成网页浏览、数据抓取、表单填写、网页应用自动化测试及屏幕截图等任务。开发者可通过uvx在本地直接运行该工具，快速构建网页自动化工作流。此次更新标志着Grok向全栈网页智能助手迈出关键一步，通过打通AI与网页交互的物理壁垒，大幅简化了自动化任务的执行流程，为用户提供更高效的网页操作体验。",
-    "发布日期": "2026-08-25",
-    "原文链接": "https://www.aibase.com/zh/news/30586",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "配图仓库路径": "assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403290922581712_0.jpg"
+    "资讯标题": "OpenAI与Kiro达成深度合作，GPT-5.6模型家族正式接入软件开发平台",
+    "内容": "OpenAI与软件开发代理平台Kiro达成深度合作，正式将GPT-5.6模型家族（包含Sol、Terra、Luna）引入Kiro工作流。此次集成覆盖软件规划、构建、审查及测试全生命周期，通过规范驱动开发模式，使模型能精准理解团队代码库与项目需求。在AWS底层优化支持下，GPT-5.6在Terminal-Bench 2.1测试中表现优异，其中Terra模型在完成复杂开发任务时成本削减约82%。开发者可利用该模型将产品创意转化为结构化实现计划，并进行多步骤编码与属性测试。OpenAI与AWS表示，此次合作旨在通过提升模型性价比与运行效率，加速AI原生开发进程，帮助技术团队在软件开发全周期内实现更高投资回报。",
+    "发布日期": "2026-08-26",
+    "原文链接": "https://www.aibase.com/zh/news/30600",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
   },
   {
-    "资讯标题": "OpenAI推出ChatGPT自定义贴纸功能，支持导出至iMessage和WhatsApp",
-    "内容": "OpenAI正式上线ChatGPT自定义贴纸功能，用户可将照片、创意想法或文字提示转化为个性化贴纸，并直接导出至iMessage、WhatsApp或保存至手机相册。该功能支持生成透明背景贴纸，并允许用户创建完整贴纸包。用户可通过上传图片、重新组合素材、视觉风格迁移或文字描述来定制设计。ChatGPT在生成过程中具备智能抠图与图像修复能力，可补全被裁剪的人物部分。导出流程上，用户点击“添加到聊天应用”即可完成操作，其中WhatsApp导出需满足至少3个贴纸的平台限制。生成的贴纸在iMessage中将归类于ChatGPT专属区域。此次更新标志着ChatGPT从单一文本与图像创作工具，向社交内容创作及日常沟通场景的深度融合，为用户提供了更具个性化的交互体验。",
-    "发布日期": "2026-08-25",
-    "原文链接": "https://www.aibase.com/zh/news/30583",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/57fe8bf08fd99fe060fb710f54e6aa19.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/57fe8bf08fd99fe060fb710f54e6aa19.jpg",
-    "配图仓库路径": "assets/news_images/57fe8bf08fd99fe060fb710f54e6aa19.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0825/6392324484082781674659011.jpg"
+    "资讯标题": "Meta将在数周内推出Hatch AI智能体，并于10月发布Watermelon模型",
+    "内容": "Meta计划在未来数周内推出消费级AI智能体平台Hatch，并预计于10月发布下一代AI模型Watermelon。Hatch基于OpenClaw方向开发，旨在从对话式AI转型为可自主执行任务的智能助手，早期版本已支持访问DoorDash、Etsy、Reddit、Yelp及Outlook等第三方服务，并提供可定制化面板以管理工具与技能。在商业化方面，Meta考虑为Hatch引入分级订阅方案，高级版月费最高或达199.99美元，旨在通过直接面向消费者的收入模式降低对广告业务的依赖。Watermelon模型作为Meta最新的研发成果，其具体定位及是否纳入现有模型体系尚待确认。此次布局标志着Meta正加速从模型研发向消费级智能体应用落地转型，直接对标OpenAI与Anthropic等竞争对手，进一步完善其在AI助手市场",
+    "发布日期": "2026-08-26",
+    "原文链接": "https://www.aibase.com/zh/news/30607",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
+    "配图仓库路径": "assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202605060956253111_0.jpg"
   }
 ]
