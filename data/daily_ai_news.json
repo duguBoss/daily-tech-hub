@@ -1,17 +1,7 @@
 [
   {
-    "资讯标题": "字节跳动发布AI办公智能体“豆包工作”，深度打通飞书生态实现全流程自主执行",
-    "内容": "字节跳动正式发布面向生产力场景的AI Agent产品“豆包工作”，通过自主任务规划、跨工具调用及虚拟桌面操控能力，推动AI办公从内容辅助生成向全流程自主执行演进。该产品支持文档撰写、PPT制作、网页搭建及轻量化系统开发，并创新搭载虚拟桌面功能，允许在后台执行复杂任务的同时保持可视化操作。豆包工作核心优势在于与飞书生态深度整合，能调用群聊、文档、会议纪要及多维表格等企业私有数据，解决通用大模型缺乏业务上下文的痛点。目前已落地项目周报生成、客户需求提炼、业务风险识别及经营策略分析四大场景。在安全层面，依托飞书企业级合规底座，实现任务执行全链路防护。用户现可通过doubao.com/work下载电脑版，官方提供限时30天免费订阅权益，旨在加速AI Agent在企业业务中的规模化落地。",
-    "发布日期": "2026-08-26",
-    "原文链接": "https://www.aibase.com/zh/news/30596",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/acfb503548a4849d4cc98a099927eca1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/acfb503548a4849d4cc98a099927eca1.jpg",
-    "配图仓库路径": "assets/news_images/acfb503548a4849d4cc98a099927eca1.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0825/6392325297168641103799980.jpg"
-  },
-  {
     "资讯标题": "WikiHow正式起诉OpenAI侵权，指控其未经授权抓取超1.1万篇教程训练模型",
-    "内容": "全球协作式生活指南百科WikiHow近日向美国曼哈顿联邦法院提起诉讼，指控OpenAI在未经许可的情况下，擅自抓取其超过11,000篇教程文章用于训练ChatGPT及GPT系列大语言模型，涉嫌侵犯至少1,200项已注册版权。WikiHow在诉状中指出，ChatGPT能够直接复现其文本内容并生成同类教程，导致用户无需访问原网站即可获取答案，严重分流了核心流量并削减了广告收入，打击了创作者生产高质量内容的动力。WikiHow要求法院判令OpenAI进行赔偿，并下达强制禁令阻止其继续侵权。对此，OpenAI发言人回应称，模型训练使用的是公开数据，行为符合“合理使用”原则。此案被视为衡量AI模型训练与传统版权保护边界的关键风向标。",
+    "内容": "全球协作式生活指南百科WikiHow近日正式向美国曼哈顿联邦法院提起诉讼，指控OpenAI在未经许可的情况下，擅自抓取其超过11,000篇教程文章用于训练ChatGPT及GPT系列大语言模型，涉嫌侵犯至少1,200项已注册版权。WikiHow在诉状中指出，ChatGPT能够直接复现其文本内容并生成同类教程，导致用户无需访问原网站即可获取答案，严重分流了核心流量与收入来源，并削弱了创作者的生产动力。WikiHow要求法院判令OpenAI进行赔偿，并下达强制禁令以阻止其继续侵权。对此，OpenAI发言人回应称，公司模型训练基于公开数据，且符合“合理使用”法律原则。此案被视为衡量AI模型训练与传统版权保护边界的关键风向标，目前双方尚未就后续进展做出进一步置评。",
     "发布日期": "2026-08-26",
     "原文链接": "https://www.aibase.com/zh/news/30598",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/029998e3b105360fbdf6e5e3140439aa.jpg",
@@ -20,18 +10,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304121521487542_6.jpg"
   },
   {
-    "资讯标题": "SpaceX在星链业务中部署Grok语音系统，日均处理1.5万通电话",
-    "内容": "SpaceX已将xAI旗下的Grok语音系统全面部署至星链（Starlink）项目，应用于客户支持与销售业务。最新运营数据显示，该AI语音系统目前日均处理超过15000通全球客户咨询及销售电话，并实现每周独立完成超过3000笔商业订单。此次落地标志着大模型语音交互技术已跨越理论验证阶段，在大规模商业化客服与销售场景中具备了实际作战能力。通过将Grok语音系统深度融合至海量业务场景，SpaceX不仅显著降低了传统人工客服与销售团队的运营成本，也为全球高频次商业交互的智能化转型提供了新路径，验证了AI Agent在复杂企业级服务中的高效率与高转化价值。",
+    "资讯标题": "OpenAI披露自研Jalapeno芯片，内部测试性能全面超越英伟达GB300",
+    "内容": "OpenAI于8月25日正式披露其自研芯片Jalapeno，在内部性能测试中实现对英伟达GB300系列旗舰硬件的全面反超。该芯片在单位功耗下的AI工作负载处理效率及数据响应速度上均达到行业领先水准，显著提升了高并发、大吞吐量生成式AI任务的推理与训练性能。OpenAI表示，Jalapeno通过软硬件深度协同优化，旨在降低能耗成本并打破算力瓶颈。此次突破标志着OpenAI在芯片设计领域具备了与传统硬件巨头竞争的实力，不仅缓解了对单一供应商的依赖，也预示着全球AI基础设施市场竞争将进入白热化阶段。随着大模型参数规模持续增长，Jalapeno的研发落地将对半导体产业格局产生深远影响。",
     "发布日期": "2026-08-26",
-    "原文链接": "https://www.aibase.com/zh/news/30609",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6c5eb96e7ca97191fd85c90b5d150e2c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6c5eb96e7ca97191fd85c90b5d150e2c.jpg",
-    "配图仓库路径": "assets/news_images/6c5eb96e7ca97191fd85c90b5d150e2c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412121114588416_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30612",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c7d9edadc63c9abf5e536b8b6cc12fd1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c7d9edadc63c9abf5e536b8b6cc12fd1.jpg",
+    "配图仓库路径": "assets/news_images/c7d9edadc63c9abf5e536b8b6cc12fd1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304071204222412_1.jpg"
   },
   {
-    "资讯标题": "OpenAI与Kiro达成深度合作，GPT-5.6模型家族正式接入软件开发平台",
-    "内容": "OpenAI与软件开发代理平台Kiro达成深度合作，正式将GPT-5.6模型家族（包含Sol、Terra、Luna）引入Kiro工作流。此次集成覆盖软件规划、构建、审查及测试全生命周期，通过规范驱动开发模式，使模型能精准理解团队代码库与项目需求。在AWS底层优化支持下，GPT-5.6在Terminal-Bench 2.1测试中表现优异，其中Terra模型在完成复杂开发任务时成本削减约82%。开发者可利用该模型将产品创意转化为结构化实现计划，并进行多步骤编码与属性测试。OpenAI与AWS表示，此次合作旨在通过提升模型性价比与运行效率，加速AI原生开发进程，帮助技术团队在软件开发全周期内实现更高投资回报。",
+    "资讯标题": "OpenAI与Kiro达成合作，GPT-5.6模型家族正式接入软件开发平台",
+    "内容": "OpenAI与软件开发代理平台Kiro达成深度合作，将GPT-5.6模型家族（含Sol、Terra、Luna）全面引入Kiro工作流。此次集成覆盖软件规划、构建、审查及测试全生命周期，支持开发者将高阶设计意图转化为可执行任务。GPT-5.6通过提升Token产出效率，在处理复杂编码任务时具备更高性价比。在AWS底层优化支持下，Terminal-Bench 2.1测试显示，GPT-5.6 Terra在Kiro环境中的运行成本降低约82%。该平台通过规范驱动开发（Specification-driven development），允许模型深度调用代码库与团队规范上下文，实现从创意到落地的高效转化。OpenAI与AWS表示，此举旨在通过模型智能、速度与成本的灵活匹配，助力技术团队提升AI开发投资回报率，加速AI原生编",
     "发布日期": "2026-08-26",
     "原文链接": "https://www.aibase.com/zh/news/30600",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
@@ -40,13 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
   },
   {
-    "资讯标题": "Meta将在数周内推出Hatch AI智能体，并于10月发布Watermelon模型",
-    "内容": "Meta计划在未来数周内推出消费级AI智能体平台Hatch，并预计于10月发布下一代AI模型Watermelon。Hatch基于OpenClaw方向开发，旨在从对话式AI转型为可自主执行任务的智能助手，早期版本已支持访问DoorDash、Etsy、Reddit、Yelp及Outlook等第三方服务，并提供可定制化面板以管理工具与技能。在商业化方面，Meta考虑为Hatch引入分级订阅方案，高级版月费最高或达199.99美元，旨在通过直接面向消费者的收入模式降低对广告业务的依赖。Watermelon模型作为Meta最新的研发成果，其具体定位及是否纳入现有模型体系尚待确认。此次布局标志着Meta正加速从模型研发向消费级智能体应用落地转型，直接对标OpenAI与Anthropic等竞争对手，进一步完善其在AI助手市场",
+    "资讯标题": "Meta计划数周内推出Hatch AI智能体，并于10月发布Watermelon模型",
+    "内容": "Meta计划在未来数周内推出面向消费者的AI智能体平台Hatch，并预计于10月发布下一代AI模型Watermelon。Hatch基于OpenClaw方向开发，旨在从对话式AI转型为可自主执行任务的智能助手。该产品早期版本已支持访问DoorDash、Etsy、Reddit、Yelp和Outlook等第三方服务，并提供可定制化面板以管理智能体技能。在商业化方面，Meta正考虑采用分级订阅方案，高级版本月费最高或达199.99美元，旨在拓展广告之外的收入来源。代号为Watermelon的新模型将于10月亮相，目前尚不确定其是否会整合进现有模型体系。此次布局标志着Meta正加速从模型研发向消费级智能体应用转型，直接与OpenAI、Anthropic等头部厂商在AI助手市场展开竞争，通过提供高额度订阅服务降低对广告业务",
     "发布日期": "2026-08-26",
     "原文链接": "https://www.aibase.com/zh/news/30607",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
     "配图仓库路径": "assets/news_images/24d89f46d98eebd61dd14a8254fff6bb.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/202605060956253111_0.jpg"
+  },
+  {
+    "资讯标题": "Anthropic拟于2026年秋季启动IPO，目标募资千亿美元并锚定2万亿估值",
+    "内容": "Anthropic计划于2026年秋季正式启动IPO，拟募资1000亿美元，并将公司估值锚定在2万亿美元。为支撑该估值，Anthropic在招股书中提出30万亿美元的潜在市场规模（TAM）预测，该数字基于未来全球可被AI替代的工作经济价值与劳动力成本计算，超过了SpaceX此前创下的28.5万亿美元纪录。财务表现方面，Anthropic二季度单季营收达116亿美元，且首次实现调整后营业利润转正，市场预测其年化收入有望在年底冲击千亿规模。尽管财务数据强劲，但分析师指出，受美数据中心建设受阻及海外低价模型竞争加剧影响，二级市场对超高估值的容错率正在降低。该30万亿市场蓝图能否获得资本市场认可，仍需等待9月正式招股书披露后的进一步验证。",
+    "发布日期": "2026-08-26",
+    "原文链接": "https://www.aibase.com/zh/news/30610",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
   }
 ]
