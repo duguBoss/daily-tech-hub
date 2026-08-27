@@ -1,37 +1,27 @@
 [
   {
-    "资讯标题": "阿里千问发布多模态MoE模型Qwen3.8-Flash并开源Qwen3.8-Flash-Next架构",
-    "内容": "阿里千问团队正式发布多模态MoE模型Qwen3.8-Flash，并同步开源下一代底层架构Qwen3.8-Flash-Next。Qwen3.8-Flash总参数量125B，搭载51B N-gram Embedding，每token仅激活6B参数。模型原生支持26万token上下文，通过YaRN技术可扩展至100万token。架构层面，该模型采用GDN+QSA混合注意力架构，在百万token场景下，Prefill与Decode速度分别提升7.6倍与4.9倍；引入Gated Residual机制优化残差流，并采用Muon与AdamW混合优化策略。在成本方面，其训练开销仅为Qwen3.7-Plus的九分之一，API定价为每百万Tokens输入1元、输出3元。性能上，该模型在SWE-bench Pro中取得62.5分，并",
+    "资讯标题": "英伟达发布2027财年半年报：净利润达1180亿美元，新一代Vera Rubin平台全面量产",
+    "内容": "英伟达正式公布2027财年半年报及第二季度业绩，上半年实现营收1778.37亿美元，归母净利润达1180.1亿美元，同比大幅增长161.1%。第二季度单季营收962.21亿美元，同比增长106%，毛利率维持在75%。数据中心业务成为核心驱动力，单季收入达890.23亿美元，同比增长117%。在技术与产品层面，新一代NVIDIA Vera Rubin平台已进入全面量产阶段，首款面向AI智能体的CPU NVIDIA Vera及Groq 3 LPX推理加速器实现投产。此外，英伟达推出NVIDIA Cosmos3及Isaac GR00T人形机器人参考设计，并联合金融机构建立计算融资平台，计划动员超5000亿美元第三方资本支持全球AI基础设施建设。公司预计第三季度营收将达1080亿美元。",
     "发布日期": "2026-08-27",
-    "原文链接": "https://www.aibase.com/zh/news/30654",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b7a76b022cee731aea285ed0769c98ee.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b7a76b022cee731aea285ed0769c98ee.jpg",
-    "配图仓库路径": "assets/news_images/b7a76b022cee731aea285ed0769c98ee.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0827/6392342095330230927060234.png"
+    "原文链接": "https://www.aibase.com/zh/news/30666",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
   },
   {
-    "资讯标题": "英伟达拟以超130亿美元收购开源AI平台Hugging Face",
-    "内容": "英伟达正与开源AI平台Hugging Face深度洽谈收购事宜，拟定估值超过130亿美元。此前微软也曾与Hugging Face进行初步接触，但未进入深入谈判阶段。Hugging Face作为AI领域的“GitHub”，目前托管着数百万个模型与数据集。在商业化表现上，其年化营收已突破1.5亿美元，较2024年的1.3亿美元实现显著增长，付费转化率维持在3%至5%之间，拥有超2000家企业客户。去年年底，Hugging Face曾因担忧主导型投资者干预决策，拒绝了英伟达5亿美元的投资。若此次并购达成，将成为英伟达历史上规模最大的并购案之一。此举旨在强化英伟达的开发者生态与硬件绑定，但同时也引发了行业对其平台中立性的担忧，并可能重塑与AMD、英特尔等芯片厂商的竞争格局。",
+    "资讯标题": "腾讯混元发布极低bit翻译模型，实现1.8B模型压缩至440MB并落地B站",
+    "内容": "腾讯混元团队近日推出Hy-MT2-1.8B端侧翻译模型量化方案，成功将原始3.3GB模型压缩至440MB，并已在哔哩哔哩直播弹幕实时翻译场景中落地。该方案包含两档技术：一是面向中高端设备的2-bit拉伸弹性量化（SEQ）方案，体积压缩至574MB；二是面向全系设备的1.25-bit方案，基于Sherry稀疏高效三值量化技术，通过细粒度稀疏机制实现极致压缩。为适配x86生态，英特尔团队针对该模型进行了向量化、权重重排及VNNI指令融合优化，显著提升了在酷睿处理器上的运行速率。在B站实际业务中，该模型运行时内存占用仅500至700MB，单条弹幕翻译耗时500至800毫秒，在保障隐私安全的同时大幅降低了云端调用成本与带宽开销，实现了从实验室Demo到高并发真实业务场景的跨越。",
     "发布日期": "2026-08-27",
-    "原文链接": "https://www.aibase.com/zh/news/30658",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/487f01ecf26ff4a9ed5d66135ddfcafc.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/487f01ecf26ff4a9ed5d66135ddfcafc.jpg",
-    "配图仓库路径": "assets/news_images/487f01ecf26ff4a9ed5d66135ddfcafc.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202508201007318913_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30673",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
+    "配图仓库路径": "assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604241547318068_0.jpg"
   },
   {
-    "资讯标题": "智谱开源原生多模态大模型GLM-5.3-Flash，推理成本降至Opus 4.8的四十分之一",
-    "内容": "智谱正式开源GLM-5系列首款原生多模态模型GLM-5.3-Flash（320B-A18B）。该模型在Artificial Analysis Intelligence Index测评中获57分，性能与Claude Opus 4.8持平。其核心优势在于极致定价，限时折扣后成本仅为Opus 4.8的四十分之一。技术上，该模型采用稀疏与线性注意力混合架构，并引入流形约束超连接技术，使注意力计算量下降3.01倍，KV缓存缩减4.44倍。模型原生融合视觉能力，支持前端开发、3D建模及专业文档处理。值得注意的是，该模型全量流量由国产芯片集群承载，依托自研推理引擎与EPD分离架构，端到端推理性能提升3倍，硬件效率比肩英伟达主流GPU。目前，GLM-5.3-Flash已开放API接口、在线体验及ZCode、AutoClaw等A",
-    "发布日期": "2026-08-27",
-    "原文链接": "https://www.aibase.com/zh/news/30655",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/39fce04f4420981a50b07e9e068169e1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/39fce04f4420981a50b07e9e068169e1.jpg",
-    "配图仓库路径": "assets/news_images/39fce04f4420981a50b07e9e068169e1.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0827/6392342159911018178550551.png"
-  },
-  {
-    "资讯标题": "亚马逊未来两年将向英伟达追订200万颗GPU用于数据中心建设",
-    "内容": "亚马逊与英伟达于8月26日宣布深化合作，亚马逊计划在未来两年内为AWS数据中心新增部署200万颗英伟达GPU，涵盖Blackwell Ultra、Rubin及Rubin Ultra系列芯片，主要用于大模型训练与推理，预计于2027至2028年陆续交付。此次订单规模较五个月前承诺的100万颗翻倍，显示出大模型算力需求激增。尽管亚马逊持续推进Trainium与Graviton自研芯片以降低成本，但英伟达在高性能算力领域的主导地位依然稳固。除硬件采购外，双方合作扩展至网络、开放模型、CPU及机器人平台，亚马逊将引入Omniverse、Cosmos与Isaac等“物理AI”技术栈优化仓储自动化。英伟达二季度财报显示数据中心营收达890亿美元，同比增长117%，并确认Rubin架构已进入量产阶段，公司正通过大规模基建投入",
+    "资讯标题": "亚马逊未来两年将增购200万颗英伟达GPU用于AWS数据中心",
+    "内容": "亚马逊与英伟达于8月26日宣布深化合作，亚马逊将在未来两年内为AWS数据中心新增部署200万颗英伟达GPU，涵盖Blackwell Ultra、Rubin及Rubin Ultra系列芯片，计划于2027至2028年陆续交付。此次订单较五个月前承诺的100万颗翻倍，旨在满足大模型训练与推理的激增需求。除硬件采购外，双方合作延伸至英伟达网络、Vera CPU、数据软件及机器人平台，亚马逊将引入Omniverse、Cosmos与Isaac技术栈优化仓储自动化。尽管亚马逊持续推进自研Trainium与Graviton芯片以降低依赖，但英伟达凭借此次数百亿美元级订单继续主导其算力基础设施。英伟达二季度财报显示数据中心营收达890亿美元，同比增长117%，并确认Rubin系列已进入量产阶段，显示全球AI算力军备竞赛持续升级",
     "发布日期": "2026-08-27",
     "原文链接": "https://www.aibase.com/zh/news/30662",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a2056d720736f193e77870812afce2a7.jpg",
@@ -40,13 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605061022480039_0.jpg"
   },
   {
-    "资讯标题": "Anthropic与Nscale达成450亿美元算力租赁协议，2027年启用Vera Rubin芯片",
-    "内容": "Anthropic已与英国AI基础设施公司Nscale签署价值约450亿美元的算力租赁协议，合作期限长达6年。该批算力资源将由Nscale位于美国西弗吉尼亚州的旗舰数据中心提供，预计于2027年底正式启用。此次合作的核心在于部署英伟达最新一代Vera Rubin芯片系统，该系统由六款不同芯片协同工作，是Anthropic支撑下一代模型研发的关键底座。这是Anthropic近期大规模扩充算力储备的最新动作，此前其已先后与Volta、AMD、SpaceX、亚马逊及谷歌等达成多项算力合作。随着AI竞赛从模型能力比拼转向基础设施军备赛，Anthropic通过锁定Vera Rubin产能，旨在确保其在下一轮技术跃迁中的竞争优势。此举反映了头部AI厂商为应对模型训练需求，正加速在全球范围内囤积高性能计算资源。",
+    "资讯标题": "Google升级Gemini Live接入Spark智能代理，实现语音操控Gmail与全家桶",
+    "内容": "Google近日对Gemini Live进行重大升级，正式接入智能代理系统Spark，将语音交互从单一对话扩展至生产力场景。用户通过语音指令，即可由Spark在后台跨Google Docs、Sheets、Drive及网页执行复杂多步骤任务，如自动整理文档大纲或生成采购清单。此次更新新增“每日简报”功能，支持语音摘要整合Gmail邮件与Google日历信息，并实现免手操作Gmail，包括搜索、概括、加星标、归档及删除邮件。在上下文理解方面，Gemini Live现能结合Gmail、Google Photos、搜索及YouTube等服务历史，提供更个性化的回应。目前，使用Spark相关功能需订阅Google AI Pro及以上版本，而“每日简报”功能则要求至少订阅Google AI Plus。此次升级标志着Gemi",
     "发布日期": "2026-08-27",
-    "原文链接": "https://www.aibase.com/zh/news/30652",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2a627f1031df4e9dd21aced6d200b734.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2a627f1031df4e9dd21aced6d200b734.jpg",
-    "配图仓库路径": "assets/news_images/2a627f1031df4e9dd21aced6d200b734.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304071204226254_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30669",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94144b689fb240822bd21f2db8ddc42c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94144b689fb240822bd21f2db8ddc42c.jpg",
+    "配图仓库路径": "assets/news_images/94144b689fb240822bd21f2db8ddc42c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621147122_90.jpg"
+  },
+  {
+    "资讯标题": "Anthropic Claude桌面端上线Cowork内置浏览器，支持独立执行网页操作",
+    "内容": "Anthropic近日在Claude桌面端推出Cowork内置浏览器功能，使Claude能够独立完成浏览网页、读取内容、点击按钮及输入文字等操作。该内置浏览器与用户本地浏览器完全隔离，不读取标签页、书签或密码，用户可按需从Chrome、Edge或Firefox导入特定站点的登录态，但银行、邮箱及单点登录站点默认不导入。该功能本周起向Pro、Max及Team用户推送，Enterprise管理员即日起可全组织启用。内置浏览器适用于搜集资料、整理发票等独立任务，而Claude in Chrome则更适合处理已打开的页面。Anthropic提醒，该功能仍存在提示词注入风险，建议用户优先访问可信站点。用户可在设置中根据需求切换内置浏览器或Claude in Chrome模式。",
+    "发布日期": "2026-08-27",
+    "原文链接": "https://www.aibase.com/zh/news/30672",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a21541d1e61e63a720f8b69e1f363587.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a21541d1e61e63a720f8b69e1f363587.jpg",
+    "配图仓库路径": "assets/news_images/a21541d1e61e63a720f8b69e1f363587.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0827/6392344219440825124219215.png"
   }
 ]
