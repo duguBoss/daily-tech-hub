@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "英伟达发布2027财年半年报：净利1180亿美元并实现Vera Rubin平台量产",
-    "内容": "英伟达正式公布2027财年半年报，上半年实现营收1778.37亿美元，归母净利润达1180.1亿美元，同比大幅增长161.1%。第二季度单季营收962.21亿美元，同比增长106%，数据中心业务贡献890.23亿美元，同比增长117%。在硬件与技术进展方面，新一代NVIDIA Vera Rubin平台已进入全面量产阶段，首款面向AI智能体的CPU NVIDIA Vera及Groq 3 LPX推理加速器均已投产。此外，英伟达推出NVIDIA Cosmos3及Isaac GR00T人形机器人参考设计，并计划联合金融机构动员超5000亿美元资本支持全球AI基础设施建设。公司预计第三季度营收将达1080亿美元，毛利率维持在74%左右。英伟达通过持续的硬件迭代与生态扩张，进一步巩固了其在AI算力市场的核心主导地位。",
-    "发布日期": "2026-08-27",
-    "原文链接": "https://www.aibase.com/zh/news/30666",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
+    "资讯标题": "阿里发布全新 Qoder：将 AI 编程 IDE 升级为面向所有人的智能体工作台",
+    "内容": "8月27日，阿里正式发布全新 Qoder，将原有的 AI 编程 IDE 升级为以 Coding 为底座、面向全人群的智能体工作台。该产品支持用户通过自然语言描述目标，由智能体自主完成理解、计划、工具调用及验证闭环。技术层面，Qoder 搭载 Harness 长链路执行底座，具备跨文件编辑、测试执行、自纠错及长期记忆能力，并内置海内外 SOTA 模型及深度适配的 Qwen 系列，通过 Auto 智能路由平衡性能与成本。产品提供编程与通用双模式，集成 40+ 连接器、70+ 插件及 20K+ 技能，支持 Browser Use 与 Computer Use 操作。交互上新增桌面常驻与语音唤起功能。自 2025 年 8 月发布以来，Qoder IDE 已服务超 600 万用户及 10 万家企业。即日起，国际版 qod",
+    "发布日期": "2026-08-28",
+    "原文链接": "https://www.aibase.com/zh/news/30691",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/09bcf9a64753367ba069c7a1f7b80e38.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/09bcf9a64753367ba069c7a1f7b80e38.jpg",
+    "配图仓库路径": "assets/news_images/09bcf9a64753367ba069c7a1f7b80e38.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0828/6392351363486748166147754.png"
   },
   {
-    "资讯标题": "英伟达以129亿美元收购开源AI平台Hugging Face",
-    "内容": "英伟达正式宣布以129亿美元收购开源AI平台Hugging Face，该交易价格约为Hugging Face年营收1.5亿美元的80倍。Hugging Face作为托管开源模型及提供云服务的核心平台，在AI开发者生态中占据领先地位。面对OpenAI、Anthropic等闭源厂商通过自研芯片及引入AMD、Cerebras等供应商以降低对英伟达硬件依赖的趋势，英伟达此举旨在通过整合Hugging Face的开源生态，将其打造为类似OpenRouter的开放权重模型枢纽。此次收购不仅能强化英伟达的云业务布局，更通过掌握开源模型分发入口，为其GPU硬件产品锁定关键开发者群体，从而在闭源实验室算力自主化浪潮中，重新巩固其在AI基础设施领域的话语权。",
-    "发布日期": "2026-08-27",
-    "原文链接": "https://www.aibase.com/zh/news/30677",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2842940a916071785fed87a4a0d02918.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2842940a916071785fed87a4a0d02918.jpg",
-    "配图仓库路径": "assets/news_images/2842940a916071785fed87a4a0d02918.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606031122196331_0.jpg"
+    "资讯标题": "谷歌发布 Gemini Omni 1.1 Flash 视频模型，支持最高 4K 分辨率成片生成",
+    "内容": "谷歌正式推出 Gemini Omni 1.1 Flash 视频生成模型，将视频生成能力从预览阶段提升至 4K 成片交付水平。该模型支持场景扩展功能，用户可基于已有视频以 10 秒步长续写，单条累计最长可达 40 秒。此外，模型提供指定首尾帧功能以实现平滑转场，并支持引入最长 3 秒的视频参考片段，以维持角色与上下文的一致性。在成本结构上，谷歌采取分层定价策略：360p 预览版每秒 0.03 美元，速度较标准版提升 60% 且成本降至三分之一；720p、1080p 及 4K 分辨率的定价分别为每秒 0.1、0.15 和 0.3 美元。此次更新旨在打通从分镜预览到最终成片的全流程，为专业视频创作提供更具性价比的生产链路。",
+    "发布日期": "2026-08-28",
+    "原文链接": "https://www.aibase.com/zh/news/30682",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9f7c3606aeef98616c8daa0b70c39120.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9f7c3606aeef98616c8daa0b70c39120.jpg",
+    "配图仓库路径": "assets/news_images/9f7c3606aeef98616c8daa0b70c39120.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0828/6392350556830243181248258.png"
   },
   {
-    "资讯标题": "腾讯混元发布1.25-bit端侧翻译模型，成功落地B站直播弹幕实时翻译",
-    "内容": "腾讯混元团队近日推出Hy-MT2-1.8B端侧翻译模型极低比特量化方案，成功将模型体积从3.3GB压缩至440MB。该方案包含两档技术：面向中高端设备的2-bit拉伸弹性量化（SEQ）方案，以及面向全系设备的1.25-bit Sherry稀疏高效三值量化方案。通过细粒度稀疏机制与专为CPU设计的STQ内核，模型在保持近乎无损翻译质量的同时，大幅降低了内存占用。此外，英特尔团队针对x86生态进行深度适配，优化了向量化与VNNI指令融合，提升了模型在PC及边缘设备的运行速率。目前，该技术已在哔哩哔哩直播弹幕实时翻译中落地，资源下载包约600MB，运行时内存占用控制在500至700MB，单条弹幕翻译耗时500至800毫秒。此举不仅降低了云端调用成本与带宽开销，还通过本地化运行有效保障了用户隐私安全，实现了从实验室De",
-    "发布日期": "2026-08-27",
-    "原文链接": "https://www.aibase.com/zh/news/30673",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
-    "配图仓库路径": "assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604241547318068_0.jpg"
+    "资讯标题": "英伟达暂停向AI云服务商推行算力营收分成计划以规避反垄断审查",
+    "内容": "英伟达已暂停一项面向AI云服务商的融资计划，该计划原定通过提供信用支持，换取云服务商基于英伟达算力产生的营收分成。此举距离7月推出不足两个月，核心争议在于英伟达既作为硬件供应商，又通过抽成和回租兜底机制介入云业务运营，引发了内部对触发反垄断审查的担忧。此外，英伟达此前要求客户仅能将搭载其芯片的算力转租给“经审批”对象，并倾向将算力分散供给小型初创企业，这种对客户运营的过度干预进一步放大了垄断争议。英伟达发言人对此回应称，该模式旨在助力AI生态获取算力，目前仍在运作并将持续优化。行业分析认为，英伟达此举旨在平衡业务扩张与合规风险，后续或将调整该计划并将其并入其他业务板块，以降低监管压力。",
+    "发布日期": "2026-08-28",
+    "原文链接": "https://www.aibase.com/zh/news/30684",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
+    "配图仓库路径": "assets/news_images/3371edac10193960308e8a3aac430def.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202010261720420670_6.jpg"
   },
   {
-    "资讯标题": "亚马逊追加200万枚英伟达GPU订单，深化全栈AI技术合作",
-    "内容": "亚马逊与英伟达宣布深化战略合作，亚马逊计划在数月前部署超100万枚GPU的基础上，再追加200万枚英伟达GPU订单。该批次涵盖Blackwell Ultra、Rubin及Rubin Ultra架构，预计于2027年至2028年间部署至AWS数据中心。合作不仅限于硬件采购，英伟达全栈技术生态将全面整合进AWS，包括Vera CPU、网络硬件、Omniverse数字孪生平台、Cosmos世界模型、Isaac机器人平台及Jetson边缘计算硬件。此外，AWS的Amazon Bedrock和SageMaker平台将引入英伟达Nemotron系列开源大模型。英伟达为应对持续激增的算力需求，已将供应链与制造能力承诺投入提升至279亿美元。尽管亚马逊持续推进自研Trainium芯片以应对深度学习负载，但此次大规模采购进一步巩",
-    "发布日期": "2026-08-27",
-    "原文链接": "https://www.aibase.com/zh/news/30671",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9328331fc4efec5c1d3e01c7bac78499.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9328331fc4efec5c1d3e01c7bac78499.jpg",
-    "配图仓库路径": "assets/news_images/9328331fc4efec5c1d3e01c7bac78499.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151728183621_1.jpg"
+    "资讯标题": "腾讯发布开源旗舰大模型Hy4preview，总参数770B支持1M上下文",
+    "内容": "腾讯混元于8月28日正式发布新一代开源旗舰大模型Hy4preview，该模型总参数量达770B，激活参数49B，支持1M上下文长度。目前模型已开源至HuggingFace、Github及Modelscope，并同步上线腾讯云TokenHub与OpenRouter。Hy4preview定位真实生产力场景，在软件工程、办公自动化、游戏开发及科研领域表现突出。在游戏开发方面，支持通过MCP接入Unreal5与Unity引擎实现Demo生成；科研领域，其在三维Blaschke–Lebesgue问题体积下界推演及分子动力学模拟中取得显著进展。内部盲测显示，在203个工程任务中，Hy4preview均分2.99，略优于GLM-5.3与Kimi K3。腾讯官方表示，作为Hy4的早期版本，该模型仍存在长思考等待优化问题，后续将",
+    "发布日期": "2026-08-28",
+    "原文链接": "https://www.aibase.com/zh/news/30694",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c7a3045daaa2e5f453c10067fe2c8f77.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c7a3045daaa2e5f453c10067fe2c8f77.jpg",
+    "配图仓库路径": "assets/news_images/c7a3045daaa2e5f453c10067fe2c8f77.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0828/6392352416443036323825194.png"
   },
   {
-    "资讯标题": "Google升级Gemini Live接入Spark智能代理，实现语音操控Gmail与全家桶",
-    "内容": "Google近日对Gemini Live进行重大升级，正式接入智能代理系统Spark，推动其从语音对话工具向生产力Agent转型。此次更新核心在于强化跨应用协作，用户可通过语音指令调用Spark，在Google Docs、Sheets、Drive及网页间执行复杂多步骤任务，如自动整理文档大纲或生成采购清单。此外，Gemini Live新增“每日简报”功能，可整合Gmail邮件与Google日历信息进行语音播报。用户现可通过语音直接对Gmail执行搜索、概括、加星标、归档及删除等操作。在上下文理解方面，Gemini Live现能结合Gmail、Photos、搜索及YouTube等服务历史，输出更具个性化的回应。权限方面，使用Spark相关功能需订阅Google AI Pro及以上版本，而“每日简报”功能则要求至少",
-    "发布日期": "2026-08-27",
-    "原文链接": "https://www.aibase.com/zh/news/30669",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94144b689fb240822bd21f2db8ddc42c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94144b689fb240822bd21f2db8ddc42c.jpg",
-    "配图仓库路径": "assets/news_images/94144b689fb240822bd21f2db8ddc42c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621147122_90.jpg"
+    "资讯标题": "Anthropic发布模型硬件标准MHS，正式进军具身智能与物理AI领域",
+    "内容": "Anthropic于8月27日正式发布模型硬件标准（MHS），标志着其业务重心从数字模型扩展至具身智能与物理AI领域。MHS本质是一套统一的控制与通信标准，充当AI智能体与物理设备间的“翻译层”，旨在让AI在无需人工干预的情况下，自主操控显微镜、液体处理器、机械臂及量子计算设备等具备可编程接口的硬件。在早期闭门测试中，MHS展现了显著的提速效应，制药巨头基因泰克通过该标准实现AI直接操控异构实验设备，将全自动剂量反应曲线实验的开发与运行周期缩短至原来的三分之一。此举意味着大模型竞争已从纯粹的对话交互延伸至物理世界的自动化执行，为生物医药、先进制造等硬科技领域提供了自主化作业的新路径。",
+    "发布日期": "2026-08-28",
+    "原文链接": "https://www.aibase.com/zh/news/30692",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4c5210c4ae4e9870b5fe8584c0f7bf48.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4c5210c4ae4e9870b5fe8584c0f7bf48.jpg",
+    "配图仓库路径": "assets/news_images/4c5210c4ae4e9870b5fe8584c0f7bf48.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0828/6392352289531487301691284.png"
   }
 ]
