@@ -1,8 +1,8 @@
 [
   {
     "资讯标题": "阿里发布全新 Qoder：从 AI 编程 IDE 升级为面向全员的智能体工作台",
-    "内容": "8月27日，阿里正式发布全新 Qoder，将原 AI 编程 IDE 升级为以 Coding 为核心底座的智能体工作台。该平台支持用户通过自然语言描述目标，由系统自主理解上下文、制定计划、调用工具并执行验证。技术层面，Qoder 搭载 Harness 长链路执行底座，实现“读—改—验证—迭代”的自主闭环，具备跨文件编辑、长期记忆及周期提炼技能。模型侧内置海内外 SOTA 模型并深度适配 Qwen 系列，通过 Auto 智能路由平衡效果与成本。产品提供编程与通用双模式，集成 40+ 连接器、70+ 插件及 20K+ 技能，支持 Browser Use 与 Computer Use 操作。交互上新增桌面常驻与语音唤起，实现从“驱动”到“提醒”的范式转变。即日起至9月1日，个人用户可领 2500 Qwen Credit",
-    "发布日期": "2026-08-28",
+    "内容": "8月27日，阿里正式发布全新 Qoder，将原 AI 编程 IDE 升级为以 Coding 为核心底座的智能体工作台。该产品支持用户通过自然语言描述目标，由智能体自主完成计划制定、工具调用、执行及验证。技术层面，Qoder 搭载 Harness 长链路执行底座，实现“读—改—验证—迭代”自主闭环，具备跨文件编辑、长期记忆及周期提炼技能。模型侧内置海内外 SOTA 模型并深度适配 Qwen 系列，通过 Auto 智能路由平衡效果与成本。产品提供编程与通用双模式，集成 40+ 连接器、70+ 插件及 20K+ 技能，支持 Browser Use 与 Computer Use 操作。交互上新增桌面端常驻与语音唤起，实现从“驱动”到“提醒”的范式转变。即日起，国际版 qoder.com 与中国版 qoder.cn 同步",
+    "发布日期": "2026-08-29",
     "原文链接": "https://www.aibase.com/zh/news/30691",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/09bcf9a64753367ba069c7a1f7b80e38.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/09bcf9a64753367ba069c7a1f7b80e38.jpg",
@@ -10,9 +10,19 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0828/6392351363486748166147754.png"
   },
   {
-    "资讯标题": "腾讯发布770B旗舰模型Hy4preview并正式开源",
-    "内容": "腾讯混元团队正式发布全新一代旗舰模型预览版Hy4preview，该模型总参数量达770B，激活参数为49B，支持1M上下文长度。Hy4preview在代码开发、办公分析、游戏原型生成及科学研究等生产力场景表现卓越，内部盲测综合性能优于同类竞品。技术层面，该模型通过优化推理系统，实现端到端吞吐量较基线提升31.8%，并在分子动力学模拟、量子输运器件设计及几何难题求解中取得突破。目前，Hy4preview已全面开源，并上线腾讯云TokenHub与OpenRouter平台，用户可通过元宝、ima等产品体验。该模型将持续与CodeBuddy、WorkBuddy等工具协同，通过广泛的用户反馈加速后续正式版的敏捷迭代。",
-    "发布日期": "2026-08-28",
+    "资讯标题": "谷歌升级搜索AI模式，支持300多家平台机票追踪与酒店预订",
+    "内容": "谷歌于8月27日宣布升级对话式搜索“AI 模式”，正式推出航班价格追踪、酒店预订辅助及积分/里程兑换查询功能。该升级使 AI 模式具备全流程旅行代理能力，用户输入出行信息后，系统可整合全球300多家航空公司及旅行网站的实时数据，并支持创建行程及设置价格追踪提醒，覆盖全球180多个国家和地区。在酒店预订场景中，AI 模式可基于用户偏好推荐房源，并支持通过 Booking.com、Expedia、万豪、希尔顿等合作方界面，结合 Google Pay 完成支付。此外，用户现可通过自然语言直接查询航空里程或酒店积分的兑换额度。此次更新标志着谷歌搜索正从信息检索向具备闭环执行能力的智能化 Agent 演进，深度绑定生成式 AI 与商业交易，重塑消费者的出行决策链条。",
+    "发布日期": "2026-08-29",
+    "原文链接": "https://www.aibase.com/zh/news/30687",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/aad2276ea4c1e6430cb65bb6d53d68fb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/aad2276ea4c1e6430cb65bb6d53d68fb.jpg",
+    "配图仓库路径": "assets/news_images/aad2276ea4c1e6430cb65bb6d53d68fb.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621143997_47.jpg"
+  },
+  {
+    "资讯标题": "腾讯发布770B旗舰模型Hy4preview并正式开源，支持1M上下文",
+    "内容": "腾讯混元团队正式发布全新一代旗舰模型预览版Hy4preview，该模型总参数量达770B，激活参数为49B，支持1M上下文长度。Hy4preview在代码开发、办公分析、游戏开发及科学研究等生产力场景表现卓越，内部盲测综合性能优于同类竞品。在技术指标上，其端到端吞吐量较基线提升31.8%，并在凝聚态物理及数学难题（三维Blaschke–Lebesgue问题）研究中取得突破。目前，Hy4preview已全面开源，并上线腾讯云TokenHub与OpenRouter，用户可通过元宝、ima等产品体验。该模型通过与CodeBuddy、WorkBuddy等工具深度协同，显著增强了长程开发理解与复杂推理能力。腾讯混元团队将基于用户反馈加速迭代，持续推进正式版升级，旨在通过大参数规模与长上下文支持，稳居开源模型第一梯队。",
+    "发布日期": "2026-08-29",
     "原文链接": "https://www.aibase.com/zh/news/30697",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f10b20ccca5c57985cdeb65a0b1f2992.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f10b20ccca5c57985cdeb65a0b1f2992.jpg",
@@ -20,19 +30,9 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0828/6392352718215790941429876.png"
   },
   {
-    "资讯标题": "OpenAI联合苹果前高管向法院申请永久驳回苹果商业秘密诉讼",
-    "内容": "OpenAI携手苹果前高管唐坦（Tang Tan）、刘畅（Chang Liu）及io Products，正式向法院提交请愿书，请求“带偏见地驳回”（dismiss with prejudice）苹果公司此前发起的商业秘密窃取诉讼，旨在彻底阻止苹果未来就相同事由再次起诉。此前，苹果指控上述人员在跳槽期间非法获取机密并指导求职者规避安保审查。OpenAI在最新法律回应中指出，苹果的诉状存在根本性事实缺陷，未能根据《保护商业秘密法》（DTSA）清晰界定特定商业秘密或提供确凿的非法挪用证据，仅依赖模糊描述与主观推测。目前双方诉辩状提交已结束，法院定于10月1日召开动议听证会。此案不仅涉及跨公司人才流动与技术合规边界，其最终裁决结果将对硅谷技术人员流动及AI生态中的知识产权保护标准产生深远影响。",
-    "发布日期": "2026-08-28",
-    "原文链接": "https://www.aibase.com/zh/news/30686",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cf14f2030f6c7ab1f5117bbe659e7142.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/cf14f2030f6c7ab1f5117bbe659e7142.jpg",
-    "配图仓库路径": "assets/news_images/cf14f2030f6c7ab1f5117bbe659e7142.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201811151621148841_112.jpg"
-  },
-  {
-    "资讯标题": "Midjourney正式发布V8.2图像编辑模型，支持指令微调与画布扩展",
-    "内容": "Midjourney近日正式上线V8.2图像编辑模型，标志着其从单一文本生成向精准图像编辑的重大转型。该模型核心支持四大技术特性：一是基于文本指令的图像编辑；二是全新的多图参考机制，单次最多支持融合4张图片；三是局部重绘（inpainting）与画布扩展（outpainting）功能；四是全面兼容个性化设置、情绪板及风格参考（srefs）。用户可通过官网主站、alpha测试网站或Discord频道调用，支持拖拽图片至提示词框或点击“编辑”按钮进行操作。官方表示，该模型目前处于测试初期，针对复杂边缘情况的优化将持续迭代。此次更新旨在为创作者提供更具可控性的专业级视觉创作体验，官方鼓励用户通过任务ID或反馈渠道提交使用建议，以协助开发团队完善功能。",
-    "发布日期": "2026-08-28",
+    "资讯标题": "Midjourney正式上线V8.2图像编辑模型，支持指令微调与画布扩展",
+    "内容": "Midjourney近日正式发布V8.2图像编辑模型并开启测试，标志着其从单一文本生成向精准图像编辑的重大转型。该模型核心支持四大技术特性：一是基于文本指令的图像编辑；二是全新的多图参考机制，单次最多融合4张参考图以替代全景参考；三是局部重绘（inpainting）与画布扩展（outpainting）功能；四是全面兼容个性化设置、情绪板及风格参考（srefs）。用户可通过官网主站、alpha.midjourney.com测试站或Discord频道调用该模型，支持拖拽图片至提示词框或点击编辑按钮等多种交互方式。官方表示，该模型目前处于测试初期，界面将随实验性优化快速迭代，并鼓励用户通过任务ID反馈复杂边缘情况下的生成表现。此次更新显著提升了创作者对视觉内容的控制力，为专业级图像创作提供了更灵活的工作流支持。",
+    "发布日期": "2026-08-29",
     "原文链接": "https://www.aibase.com/zh/news/30690",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ee1ede5743f536d7e046c8acad8c0b4c.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ee1ede5743f536d7e046c8acad8c0b4c.jpg",
@@ -40,9 +40,9 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0828/6392351148693966076800664.png"
   },
   {
-    "资讯标题": "Anthropic发布模型硬件标准MHS，正式进军具身智能与物理AI领域",
-    "内容": "Anthropic于8月27日发布研究预览版“模型硬件标准”（MHS），标志其正式切入具身智能与物理AI赛道。MHS本质是一套统一的控制与通信标准，充当AI智能体与物理设备间的“翻译层”，旨在让AI在无需人工干预的情况下，通过可编程接口直接操控显微镜、液体处理器、机械臂及量子计算设备。该标准旨在推动AI从数字对话转向实体产线操作。在早期闭门测试中，MHS表现出显著的提速效应，制药巨头基因泰克通过该标准赋予AI操控异构实验设备的能力，成功将全自动剂量反应曲线实验的开发与运行周期缩短至原来的三分之一。此举意味着AI竞争已从纯软件模型扩展至物理世界的自主执行与持续学习领域，对生物医药、先进制造等硬科技行业具有重要应用价值。",
-    "发布日期": "2026-08-28",
+    "资讯标题": "Anthropic发布模型硬件标准MHS，正式进军物理AI与具身智能领域",
+    "内容": "Anthropic于8月27日发布研究预览版“模型硬件标准”（MHS），标志其正式切入具身智能与物理AI赛道。MHS本质是一套统一的控制与通信标准，旨在为AI智能体提供“翻译层”，使其能直接操控具备可编程接口的物理设备。该标准支持AI在无需人工干预下，同时调度显微镜、液体处理器、机械臂及量子计算设备，实现全天候自主作业。在生物医药、先进制造等领域的早期闭门测试中，MHS表现优异，基因泰克通过该技术将全自动剂量反应曲线实验的开发与运行周期缩短至原来的三分之一。此举意味着Anthropic将大模型能力从数字对话延伸至实体产线，推动AI从感知物理世界向执行复杂动作及持续学习演进，对工业自动化与科研实验效率提升具有显著影响。",
+    "发布日期": "2026-08-29",
     "原文链接": "https://www.aibase.com/zh/news/30692",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4c5210c4ae4e9870b5fe8584c0f7bf48.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4c5210c4ae4e9870b5fe8584c0f7bf48.jpg",
