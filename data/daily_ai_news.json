@@ -1,17 +1,17 @@
 [
   {
-    "资讯标题": "蚂蚁集团携手中金公司发布金融增强大模型Ling-3.0-flash-Fin",
-    "内容": "蚂蚁集团联合中金公司正式发布蚂蚁百灵旗下首个金融增强大模型Ling-3.0-flash-Fin。该模型基于原有架构，通过海量专业金融语料深度训练，重点强化了投研核心能力及信息检索等四大核心功能。在基准测试中，模型在专业领域表现突出，通用能力亦同步提升。为促进生态建设，双方打造的FinFIRST金融搜索基准即将开源。在开放计划方面，Ling-3.0-flash-Fin将于下周正式开源模型权重，并即日起在OpenRouter平台提供为期一个月的免费API调用服务，旨在为金融机构及开发者提供技术支持，推动金融大模型应用落地。",
+    "资讯标题": "阿里发布全新 Qoder：从 AI 编程 IDE 升级为面向所有人的智能体工作台",
+    "内容": "8月27日，阿里正式发布全新 Qoder，将原有的 AI 编程 IDE 升级为以 Coding 能力为底座的智能体工作台。该平台支持用户通过自然语言描述目标，由智能体自主完成计划制定、工具调用及验证闭环。技术层面，Qoder 搭载 Harness 长链路执行底座，具备跨文件编辑、自纠错及长期记忆能力，并深度适配 Qwen 系列模型，通过 Auto 智能路由平衡效果与成本。产品提供编程与通用双模式，集成 40+ 连接器、70+ 插件及 20K+ 技能，支持 Browser Use 与 Computer Use 操作。此次升级标志着工作范式从“代码工程”转向“智能体任务”，用户群体从专业开发者扩展至产品、运营等非技术人员。即日起，国际版 qoder.com 与中国版 qoder.cn 同步上线，个人用户可领取 Qw",
     "发布日期": "2026-08-30",
-    "原文链接": "https://www.aibase.com/zh/news/30695",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "配图仓库路径": "assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556165277_9.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30691",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/09bcf9a64753367ba069c7a1f7b80e38.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/09bcf9a64753367ba069c7a1f7b80e38.jpg",
+    "配图仓库路径": "assets/news_images/09bcf9a64753367ba069c7a1f7b80e38.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0828/6392351363486748166147754.png"
   },
   {
-    "资讯标题": "腾讯发布开源旗舰大模型Hy4preview，总参数770B支持1M上下文",
-    "内容": "腾讯混元于8月28日正式发布新一代开源旗舰大模型Hy4preview，该模型总参数量达770B，激活参数49B，支持1M上下文长度。目前模型已开源至HuggingFace、Github及Modelscope，并同步上线腾讯云TokenHub与OpenRouter。Hy4preview定位真实生产力场景，在软件工程、办公自动化、游戏开发及科研领域表现突出。在游戏开发中，支持通过MCP接入Unreal5与Unity引擎生成可玩Demo；科研方面，其在三维Blaschke–Lebesgue问题体积下界计算及分子动力学模拟中取得显著进展。内部盲测显示，其工程任务均分2.99/4.00，略优于GLM-5.3与Kimi K3。腾讯官方表示，Hy4preview为Hy4迭代的早期版本，后续将通过敏捷迭代持续优化长思考等已知问",
+    "资讯标题": "腾讯发布开源旗舰大模型Hy4preview：770B参数支持1M上下文",
+    "内容": "腾讯混元于8月28日正式发布新一代开源旗舰大模型Hy4preview，该模型总参数量为770B，激活参数为49B，支持1M上下文长度。目前，模型已在HuggingFace、Github、Modelscope开源，并同步上线腾讯云TokenHub与OpenRouter，用户可在元宝、WorkBuddy等产品中体验。Hy4preview定位真实生产力场景，在软件工程、办公自动化、游戏开发及科研领域表现突出。内部盲测显示，其在203个工程任务中均分达2.99，略优于GLM-5.3与Kimi K3。科研方面，该模型在三维Blaschke–Lebesgue问题体积下界计算及分子动力学模拟中取得显著进展。腾讯表示，Hy4preview作为Hy4的早期版本，后续将通过敏捷迭代持续优化长思考等已知问题。此次开源标志着大模型竞争",
     "发布日期": "2026-08-30",
     "原文链接": "https://www.aibase.com/zh/news/30694",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c7a3045daaa2e5f453c10067fe2c8f77.jpg",
@@ -20,23 +20,33 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0828/6392352416443036323825194.png"
   },
   {
-    "资讯标题": "腾讯WorkBuddy首发接入混元Hy4preview模型并开启两周限免",
-    "内容": "腾讯WorkBuddy于8月28日正式接入腾讯混元新一代开源旗舰模型Hy4preview，实现国内外版本同步上线。Hy4preview总参数量为770B，激活参数为49B，支持1M上下文长度，专为代码编写、办公自动化及科学计算等生产力场景设计。目前该模型已开源至HuggingFace，并同步在腾讯云TokenHub与OpenRouter上线。配合此次接入，腾讯推出为期两周的Hy4preview免费体验期，同时将上一代Hy3模型的免费使用期限延长至9月30日。此次更新旨在通过零门槛体验加速开发者对模型能力的验证，并推动混元大模型在编程与智能办公工作流中的产品化落地。通过开源生态与产品协同，腾讯正进一步强化其在生产力场景下的模型服务能力。",
+    "资讯标题": "OpenAI联合苹果前高管向法院申请永久驳回苹果商业秘密窃取诉讼",
+    "内容": "OpenAI携手苹果前高管唐坦（Tang Tan）、刘畅（Chang Liu）及io Products，正式向法院提交请愿书，请求以“带偏见地驳回”（dismiss with prejudice）方式终结苹果发起的商业秘密窃取诉讼，旨在彻底阻止苹果未来就此事项再次起诉。此前，苹果指控上述前雇员在跳槽过程中非法获取机密并指导他人规避安保审查。OpenAI在最新回应中反驳称，苹果的诉状违反《保护商业秘密法》（DTSA），仅凭模糊描述和主观推测，缺乏界定清晰的商业秘密及确凿的挪用证据。目前双方诉辩状提交已结束，法院定于10月1日召开动议听证会。此案不仅涉及顶尖人才流动与技术合规边界，其裁决结果将对硅谷知识产权保护标准及AI行业人才竞争格局产生深远影响。",
     "发布日期": "2026-08-30",
-    "原文链接": "https://www.aibase.com/zh/news/30699",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2901575237555d0f779df5efde2db3c0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2901575237555d0f779df5efde2db3c0.jpg",
-    "配图仓库路径": "assets/news_images/2901575237555d0f779df5efde2db3c0.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0828/6392353016805308144249832.png"
+    "原文链接": "https://www.aibase.com/zh/news/30686",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cf14f2030f6c7ab1f5117bbe659e7142.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/cf14f2030f6c7ab1f5117bbe659e7142.jpg",
+    "配图仓库路径": "assets/news_images/cf14f2030f6c7ab1f5117bbe659e7142.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201811151621148841_112.jpg"
   },
   {
-    "资讯标题": "国光量超正式发布国内首个“玄幂”量子增强大模型家族",
-    "内容": "国光量超人工智能研究团队近日正式发布国内首个“玄幂”量子增强大模型家族，将前沿量子技术引入大语言模型的决策与推理核心流程。该模型旨在打破纯经典计算的物理边界，主要面向科研和学术领域应用。在核心性能方面，“玄幂”针对科研科普、任务路由及智能体决策等垂直场景进行了深度优化。相较于主流开源模型，该模型在复杂场景下具备更稳定的专业理解能力，能输出更清晰的任务判断，并显著缩短整体决策路径。此次发布标志着量子技术与AI的深度融合，为大模型在复杂逻辑推理与专业科学计算方向的提效增质提供了一种全新的技术路径，推动了AI在特定任务处理上的性能突破。",
+    "资讯标题": "Midjourney正式发布V8.2图像编辑模型，支持指令微调与画布扩展",
+    "内容": "Midjourney近日正式上线V8.2图像编辑模型，标志着其从单一文本生成向精准图像编辑的重大跨越。该模型核心功能包括基于文本指令的图像修改、支持最多4张图片融合的多图参考机制，以及局部重绘（inpainting）与画布扩展（outpainting）功能。V8.2全面兼容个性化设置、情绪板及风格参考（srefs），用户可通过官网、alpha测试站或Discord调用。官方表示，该模型目前处于测试初期，支持通过拖拽图片至提示词框或点击编辑按钮进行操作。针对复杂边缘情况，官方鼓励用户通过任务ID反馈以优化模型表现。此次更新旨在通过深度融合指令微调与视觉控制技术，为创作者提供更具可控性的专业级创作工具，进一步完善Midjourney的图像处理生态。",
     "发布日期": "2026-08-30",
-    "原文链接": "https://www.aibase.com/zh/news/30688",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "配图仓库路径": "assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556165277_9.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30690",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ee1ede5743f536d7e046c8acad8c0b4c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ee1ede5743f536d7e046c8acad8c0b4c.jpg",
+    "配图仓库路径": "assets/news_images/ee1ede5743f536d7e046c8acad8c0b4c.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0828/6392351148693966076800664.png"
+  },
+  {
+    "资讯标题": "Anthropic发布模型硬件标准MHS，正式进军具身智能与物理AI领域",
+    "内容": "Anthropic于8月27日发布研究预览版“模型硬件标准”（MHS），标志着公司首次进军具身智能与物理AI赛道。MHS本质是一套统一的控制与通信标准，旨在为AI智能体提供“翻译层”，使其能直接操控具备可编程接口的物理设备。该标准支持AI在无需人工干预的情况下，同时控制显微镜、液体处理器、机械臂及量子计算设备，实现全天候自主作业。在生物医药、量子计算与先进制造等领域的早期闭门测试中，MHS表现出显著的提速效应。制药巨头基因泰克应用该标准后，将全自动剂量反应曲线实验的开发与运行周期缩短至原来的三分之一。此次发布意味着Anthropic将大模型能力从数字世界的对话交互，正式延伸至物理世界的实体操作与复杂任务执行，推动AI从“大脑”向具备感知与执行能力的“身体”进化。",
+    "发布日期": "2026-08-30",
+    "原文链接": "https://www.aibase.com/zh/news/30692",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4c5210c4ae4e9870b5fe8584c0f7bf48.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4c5210c4ae4e9870b5fe8584c0f7bf48.jpg",
+    "配图仓库路径": "assets/news_images/4c5210c4ae4e9870b5fe8584c0f7bf48.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0828/6392352289531487301691284.png"
   }
 ]
