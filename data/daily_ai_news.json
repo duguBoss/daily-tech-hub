@@ -1,7 +1,17 @@
 [
   {
-    "资讯标题": "音乐巨头联手向AI开炮：索尼华纳正式起诉Anthropic涉嫌大规模版权盗窃",
-    "内容": "音乐巨头联手向AI开炮：索尼华纳正式起诉Anthropic涉嫌大规模版权盗窃AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Aug 31, 202626全球唱片业巨头索尼与华纳近期正式向人工智能独角兽 Anthropic 提起重磅诉讼，指控其犯下了科技发展史上规模最大、性质最恶劣的知识产权侵权行为之一。这场诉讼的核心直指 Anthropic 在开发和运营 Claude 系列 AI 模型时，未经授权非法利用了数万首受版权保护的音乐作品进行模型训练。根据起诉书详细披露的内容，Anthropic 及其创始人 Dario Amodei 和 Benjamin Mann 被指控采取了极其激进且缺乏合规边界的手段来获取训练数据。",
+    "资讯标题": "苹果硬件工程负责人约翰·特努斯将于9月1日正式接任CEO",
+    "内容": "苹果硬件工程负责人约翰·特努斯将于9月1日正式接任CEO，现任CEO蒂姆·库克转任董事会执行主席。特努斯拥有25年硬件研发经验，其任期内首要任务是加速AI战略落地。苹果计划于9月全面推出新版Siri AI，并推进包括智能家居设备、具备环境感知能力的摄像头版AirPods及智能眼镜在内的AI硬件布局。此外，特努斯正推动AI技术渗透至内部研发、硬件测试及设备可靠性提升流程。9月9日苹果将举行新品发布会，这将是特努斯上任后的首次重大活动，外界预计首款折叠屏iPhone有望亮相。面对AI发展滞后、服务业务增长放缓及供应链成本上升等挑战，特努斯需利用硬件优势补齐AI能力短板，重塑苹果在AI时代的竞争力。",
+    "发布日期": "2026-08-31",
+    "原文链接": "https://www.aibase.com/zh/news/30713",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4d5678ac2f49dc7af8547fe649d61094.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4d5678ac2f49dc7af8547fe649d61094.jpg",
+    "配图仓库路径": "assets/news_images/4d5678ac2f49dc7af8547fe649d61094.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202308301000498936_0.jpg"
+  },
+  {
+    "资讯标题": "索尼与华纳正式起诉Anthropic，指控其非法利用版权音乐训练Claude模型",
+    "内容": "索尼与华纳近日正式向Anthropic提起诉讼，指控其在开发Claude系列AI模型过程中，未经授权大规模非法利用受版权保护的音乐作品进行训练。起诉书显示，Anthropic创始人及员工被指控通过BitTorrent及Pirate Library Mirror等渠道获取数百万本盗版图书，并绕过MusixMatch等合法授权平台，直接非法抓取歌词数据。原告方要求法院对每部侵权作品判处最高15万美元赔偿，并对恶意删除版权信息的行为额外追加最高2.5万美元赔偿。若法院裁定胜诉，Anthropic面临的赔偿总额可能高达数十亿美元。此案凸显了AI行业在追求模型参数规模与数据吞吐量时，训练数据合规性已成为决定企业商业命运的关键门槛，标志着内容版权方与AI企业在知识产权领域的博弈进一步升级。",
     "发布日期": "2026-08-31",
     "原文链接": "https://www.aibase.com/zh/news/30707",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97cf32890bed12ea8b3a96c0d7d593b6.jpg",
@@ -10,28 +20,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812131617128989_7.jpg"
   },
   {
-    "资讯标题": "苹果硬件工程副总裁约翰·特努斯将于9月1日正式接任CEO",
-    "内容": "现任苹果硬件工程高级副总裁约翰·特努斯将于9月1日正式接任首席执行官，人工智能将成为其任期内的首要任务。原CEO蒂姆·库克将转任董事会执行主席，负责全球政策沟通。特努斯作为技术派老将，自2001年加入苹果以来，主导了多个品类的硬件工程工作。其上任后的首场大考是9月9日举行的秋季新品发布会，届时将发布iPhone 18 Pro/Max及Ultra系列折叠屏新机。市场关注焦点在于特努斯如何将AI技术深度融入硬件产品，构建全新的AI叙事逻辑。此次高层更迭标志着苹果正式进入由硬件工程背景领导主导的AI转型新阶段，如何在保持硬件领先优势的同时，在AI领域实现技术突破与商业化落地，将是其任期内的核心挑战。",
-    "发布日期": "2026-08-31",
-    "原文链接": "https://www.aibase.com/zh/news/30715",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f24cf4ea681d56161d2f39d5477dfad2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f24cf4ea681d56161d2f39d5477dfad2.jpg",
-    "配图仓库路径": "assets/news_images/f24cf4ea681d56161d2f39d5477dfad2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201908301054372166_6.jpg"
-  },
-  {
-    "资讯标题": "腾讯混元Hy4preview接入WorkBuddy引发高并发，官方紧急扩容推理集群",
-    "内容": "腾讯混元旗舰模型Hy4preview于8月28日在WorkBuddy平台上线，因Agent能力显著升级引发用户与开发者高并发调用，导致任务队列出现排队。腾讯已于8月31日完成推理集群紧急扩容，并持续进行资源动态调配。官方表示，受限于高端算力规模及高峰期调用集中，后续特定时段仍可能出现短时排队。为平抑流量高峰，腾讯将Hy3等既有模型的WorkBuddy限时免费权益延长至2026年9月30日23:59。此次事件反映出生产级AI Agent对实时推理与多步规划能力的需求激增，算力集群的弹性扩容与多模型协同调度能力已成为AI基础设施的核心竞争壁垒。",
-    "发布日期": "2026-08-31",
-    "原文链接": "https://www.aibase.com/zh/news/30711",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
-    "配图仓库路径": "assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604241547318068_0.jpg"
-  },
-  {
     "资讯标题": "华为联合瑞金医院发布瑞智病理大模型RuiPath 2.0并落地90余家医院",
-    "内容": "华为近日联合上海交通大学医学院附属瑞金医院正式发布瑞智病理大模型RuiPath 2.0，该模型已在全国90余家医院投入临床应用。RuiPath 2.0在核心诊断能力上实现显著升级，重点强化了对常见癌症中隐蔽的少见及罕见亚型的识别能力，旨在解决传统病理诊断中易出现的漏诊与误诊痛点。研发团队目前正基于该版本，深入探索病理多模态生成式基础模型在淋巴瘤复杂临床诊断场景中的应用，致力于为医生提供更精准、高效的智能辅助决策工具。此次发布标志着医疗AI在病理诊断领域的进一步落地，通过技术手段提升复杂病理分析的准确性，为临床医疗提供强有力的数字化支撑。",
+    "内容": "华为近日联合上海交通大学医学院附属瑞金医院正式发布瑞智病理大模型RuiPath 2.0，该模型已在全国90余家医院投入临床应用。RuiPath 2.0在核心诊断能力上实现显著升级，重点强化了对常见癌症中隐蔽的少见及罕见亚型的识别能力，旨在解决传统病理诊断中易出现的漏诊与误诊痛点。研发团队目前正基于该版本，深入探索病理多模态生成式基础模型在淋巴瘤复杂临床诊断场景中的应用，致力于为医生提供更精准、高效的智能辅助决策工具。此次发布标志着医疗AI在病理诊断领域的进一步落地，通过技术手段提升复杂病理分析的准确性，为临床医疗提供更强有力的数字化支撑。",
     "发布日期": "2026-08-31",
     "原文链接": "https://www.aibase.com/zh/news/30710",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/58499a5151259817f0c25518927e1502.jpg",
@@ -40,13 +30,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305171431462028_1.jpg"
   },
   {
-    "资讯标题": "Hugging Face开源微型双足机器人Microduck，支持强化学习与Sim2Real",
-    "内容": "Hugging Face旗下Pollen Robotics正式开源微型双足机器人Microduck。该机器人身高25cm、重800g，搭载Rockchip RK3566处理器，以50Hz频率驱动15个舵机。Microduck不仅能行走、捡物、踢球，还支持通过更换轮式配件切换强化学习策略。其核心技术路线基于MuJoCo仿真环境，采用PPO算法结合领域随机化完成Sim2Real迁移，并导出ONNX模型部署。软件架构采用Rust编写，拆分为robotd、updaterd等独立服务，通过Unix Socket与JSON-RPC 2.0通信，具备完善的OTA更新与自动回滚机制。该项目为具身智能开发者提供了从仿真训练到真机部署的完整参考链路，是研究强化学习与机器人运动控制的低成本开发平台。",
+    "资讯标题": "OpenAI完成10万亿参数基座模型Bel预训练，性能超越Astra",
+    "内容": "OpenAI已完成代号为“Bel”的超大规模基座模型预训练，该模型参数量达10万亿级别，旨在突破AGI门槛。Bel在编码、推理及长时程Agent任务表现上均超越Astra，具备数天无人干预的持续运行能力、自我恢复机制，并能协调数百个并行子Agent。该模型深度结合自研芯片“Jalapeño”底层代码，通过递归自我改进机制优化基础设施，大幅降低运营成本。业内预计Bel有望在今年年底或Astra发布后数月内亮相。此次突破标志着OpenAI在世界模型理解深度及算力闭环上的重大进展，将加速从云端大规模Agent集群向个人AI秘书的演进。",
     "发布日期": "2026-08-31",
-    "原文链接": "https://www.aibase.com/zh/news/30705",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6b01c54cae3f6184b4908b1952b93768.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6b01c54cae3f6184b4908b1952b93768.jpg",
-    "配图仓库路径": "assets/news_images/6b01c54cae3f6184b4908b1952b93768.jpg",
-    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0831/26083109163823639907.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30718",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
+    "配图仓库路径": "assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171707346148_0.jpg"
   }
 ]
