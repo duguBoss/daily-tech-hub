@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "美国司法部介入纽约时报诉OpenAI案，主张AI模型训练属于合理使用",
-    "内容": "美国司法部（DOJ）于9月1日向曼哈顿联邦法院提交“利益声明”，正式介入《纽约时报》诉OpenAI版权侵权案，明确支持OpenAI立场，主张AI公司使用受版权保护材料训练大语言模型属于“合理使用”。司法部指出，若版权规则显著增加AI开发难度，将损害美国AI产业竞争力并引发国家安全风险。DOJ强调，大语言模型训练具有“转换性”目的，其创造性潜力与公共利益远超潜在的竞争损害。此举引发原告方强烈反弹，《纽约时报》批评政府牺牲创作者权益以偏袒万亿市值AI公司。该案源于2023年12月，涉及OpenAI及微软非法使用新闻文章训练AI系统的指控。目前，主审法官西德尼·斯坦已要求双方在9月4日前提交简易判决动议。作为AI版权诉讼的标志性事件，此案判决结果将为AI模型训练的合法性确立关键先例，直接影响行业后续的数据获取与合规路",
+    "资讯标题": "阿里千问办公上线首月用户破3000万并开源MyContext上下文底座",
+    "内容": "阿里旗下AI办公产品“千问办公”（QwenWork）上线首月用户数突破3000万，其中企业用户占比超50%。该产品在30天内完成120个版本迭代，并正式开源企业上下文基础设施MyContext，旨在将IM、文档、审批及邮件等异构数据转化为Agent可调用的上下文，目前GitHub已获超3000 Star。技术层面，千问办公联合千问大模型团队推出办公专属模型Qwen3.8-Flash，通过针对多步规划与上下文压缩的专项调优，实现单任务生成速度提升约100%，Token消耗平均减少75%。通过与钉钉深度打通，该产品已支持跨CRM、ERP系统进行数据查询与业务建议。目前，长安汽车、汇付天下、老乡鸡等企业已接入使用，其中长安汽车的线束选型计算效率从两天缩短至5分钟，显著提升了企业核心业务的自动化处理能力。",
     "发布日期": "2026-09-04",
-    "原文链接": "https://www.aibase.com/zh/news/30798",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图仓库路径": "assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30832",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cef188670e7b6d944c825255d07c787.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cef188670e7b6d944c825255d07c787.jpg",
+    "配图仓库路径": "assets/news_images/1cef188670e7b6d944c825255d07c787.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0904/6392411663267921912377173.jpg"
   },
   {
-    "资讯标题": "百度基础模型部引入武钦与魏浩然，加速文心多模态大模型技术升级",
-    "内容": "百度基础模型研发部（BMU）近日完成核心团队重组，引入北美知名Frontier Lab资深研究员武钦强化预训练底层能力，并由原DeepSeek研究员魏浩然出任文心多模态算法负责人。此次人事变动由今年7月上任的BMU负责人孙天祥主导，旨在通过组织与技术革新，对齐国际顶尖AI实验室研发节奏。百度在基础模型领域迭代迅速，2025年6月开源文心大模型4.5系列，9月推出X1.1版本提升事实准确性34.8%，并于11月发布参数规模达2.4万亿的原生全模态文心大模型5.0。此次行业核心人才的加盟，标志着文心大模型在组织效率与多模态技术攻关上进入新阶段，将进一步提升百度在AI基础模型领域的竞争壁垒。",
+    "资讯标题": "英伟达开源 Personal AI Router 软件，实现局域网内 AI 算力调度",
+    "内容": "英伟达正式开源 Personal AI Router（PAIR）测试版，旨在通过局域网调度机制，将多台 Mac、RTX PC 及 DGX Spark 整合为统一的本地 AI 算力集群。该软件支持 M4 及以上芯片的 Mac 与英伟达 RTX 设备，可为 Ollama 和 LM Studio 等本地 AI 工具提供统一请求入口。PAIR 能够自动发现局域网内设备，当某台机器繁忙时，自动将 AI 请求分派至空闲设备处理，有效实现并发负载分担。英伟达强调，该机制侧重于多任务并行处理，而非提升单次回复速度。实测数据显示，在运行 Qwen 3.6 35B A3B 模型时，通过 PAIR 将任务拆分至 5 个子智能体，任务完成时间从单机运行的 18 分钟缩短至 8 分 48 秒。此举简化了多设备 AI 环境的配置流程，用户",
     "发布日期": "2026-09-04",
-    "原文链接": "https://www.aibase.com/zh/news/30805",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
-    "配图仓库路径": "assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556149296_6.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30828",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ce8205aaeca0cbb826530bca9ea0783a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ce8205aaeca0cbb826530bca9ea0783a.jpg",
+    "配图仓库路径": "assets/news_images/ce8205aaeca0cbb826530bca9ea0783a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0904/6392411290929193315164651.png"
   },
   {
-    "资讯标题": "OpenAI官宣自研人形机器人并布局AI硬件，计划2027年启动IPO",
-    "内容": "OpenAI首席执行官Sam Altman正式确认公司将自研人形机器人，并由Aditya Ramesh领导OpenAI Robotics团队，核心逻辑在于机器人硬件与机器学习的深度协同。短期内，OpenAI将研发协助基础设施建设的机器人，长期目标是普及个人机器人。在AI硬件方面，由Jony Ive操刀、代号“Gumdrop”的首款无屏便携AI终端预计2027年发布，售价超300美元，主打手写转录与实时语音交互。为推进硬件矩阵，OpenAI已从苹果、谷歌挖角数百名工程师，并与富士康合作生产。尽管面临苹果关于商业机密的法律诉讼，OpenAI仍加速布局，其2025年年化收入达200亿美元，并计划于2027年正式IPO。目前OpenAI正面临营收增速放缓及运营亏损压力，需应对Anthropic等强劲对手的竞争。",
+    "资讯标题": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
+    "内容": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 4, 20264微软计划从 9 月开始推送 Copilot Studio 调整，AI 智能体在调用工具前将需要经过人工批准。Copilot Studio 是微软用于搭建和管理 AI 智能体的平台，可让智能体连接邮件、工单、支付等业务工具。微软在官方介绍中表示，Copilot Studio 现在允许开发者在 AI 智能体运行特定工具前要求人工审批。通过针对每个工具和每个智能体的开关，任何需要人工审批的工具调用都会暂停，并显示审批请求，说明智能体的意图，以便用户在操作执行前进行批准、批准会话或拒绝。",
     "发布日期": "2026-09-04",
-    "原文链接": "https://www.aibase.com/zh/news/30813",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b3539be74eca7f9adcc48fb6b570bbed.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b3539be74eca7f9adcc48fb6b570bbed.jpg",
-    "配图仓库路径": "assets/news_images/b3539be74eca7f9adcc48fb6b570bbed.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131355463905_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30833",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
+    "配图仓库路径": "assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202602270950033335_0.jpg"
   },
   {
-    "资讯标题": "Nscale斩获Anthropic 450亿美元算力大单，合同总收入突破1000亿美元",
-    "内容": "英国云服务商Nscale近期与Anthropic签署价值450亿美元的算力协议，推动其合同总收入从510亿美元跃升至约1030亿美元。该订单的落地标志着Nscale业务规模实现翻倍增长，目前公司持有的合同平均期限约为5.7年，折算年均合同规模约180亿美元。凭借这一显著的业务扩张，Nscale正加速资本化进程，计划最早于本月启动IPO。此次合作不仅巩固了Nscale在AI算力基础设施领域的市场地位，也反映了当前AI大模型企业对高性能计算资源的巨大需求。随着多项AI客户合同的持续注入，Nscale已成为算力基础设施赛道的重要参与者，其后续上市表现将成为行业关注焦点。",
+    "资讯标题": "OpenAI正式发布前沿大模型GPT-6 Astra，多项基准测试实现性能领跑",
+    "内容": "OpenAI于9月3日正式发布前沿大模型GPT-6 Astra，标志着行业迈入AGI时代。该模型在软件工程、科学及网络安全领域实现代际飞跃，是首个达到OpenAI“准备框架”关键网络安全能力阈值的模型。性能方面，Astra在ARC-AGI-3测试中取得98.6%得分，在FrontierMath Tier4(v2)中得分97.6%，并在GPQA Diamond、DeepSWE v1.1等多项基准测试中全面领跑。Astra配备了全新的监控功能以强化安全防护，能更可靠地拒绝有害网络请求。目前，该模型已向OpenAI Daybreak项目的企业安全客户开放，未来几天将陆续面向ChatGPT Plus、Pro、Business及Enterprise订阅用户推出。定价为每百万输入代币10美元、每百万输出代币50美元。Ast",
     "发布日期": "2026-09-04",
-    "原文链接": "https://www.aibase.com/zh/news/30799",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
-    "配图仓库路径": "assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901101704279841_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30824",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
+    "配图仓库路径": "assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202502061719358642_0.jpg"
   },
   {
-    "资讯标题": "Anthropic发布Claude Fable 5.1模型，强化Agent编码能力并最高降本45%",
-    "内容": "Anthropic正式发布新一代AI模型Claude Fable 5.1及受限变体Mythos 5.1，重点提升Agent编码与科研逻辑能力。Fable 5.1已通过API全量开放，Mythos 5.1则面向网络安全与生命科学领域提供受限访问，且两款模型均为首批内置AI文本水印的Claude产品。性能方面，Fable 5.1在Terminal-Bench 4.0编码测试中得分55.8%，科学研究测试得分52.6%，性能较前代翻倍。安全性上，新模型优化了过滤机制，网络安全误报率降低60%，生物学无害查询误报率下降85%。经济性方面，通过将缓存读取价格降至每百万Token 0.25美元，Fable 5.1在典型工作负载下可节省25%成本，复杂Agent工作流最高降本达45%，旨在解决企业级应用中的高成本痛点，推动高",
+    "资讯标题": "Meta调整工程师AI绩效考核标准，取消Token用量指标并强调代码交付质量",
+    "内容": "Meta已正式调整内部工程师绩效评估标准，明确不再将AI Token使用量或AI采用率仪表盘作为衡量员工影响力的指标。公司高管Maher Saba与Santosh Janardhan联合发布的最新备忘录显示，考核重心已转向工作质量与实际交付效率。目前，Meta内部已有93%的代码变更由AI智能体辅助完成。此次政策调整标志着公司从单纯追求AI工具采用率，转向关注AI在提升代码质量与迭代速度方面的实际产出。此前，Meta曾通过AI Gateway平台监控各团队Token支出，并对异常增长发出警报。随着内部AI使用量激增，预计今年相关工具支出将达数百亿美元。此次考核改革旨在引导工程师更理性地利用AI工具，以实现更高质量的软件交付，而非单纯追求AI使用规模。",
     "发布日期": "2026-09-04",
-    "原文链接": "https://www.aibase.com/zh/news/30801",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/749dfbb4e330d82b400177a19275e366.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/749dfbb4e330d82b400177a19275e366.jpg",
-    "配图仓库路径": "assets/news_images/749dfbb4e330d82b400177a19275e366.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502061719364143_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30830",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/39ed27ad5f25d68f732e3d0b20af20b3.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/39ed27ad5f25d68f732e3d0b20af20b3.jpg",
+    "配图仓库路径": "assets/news_images/39ed27ad5f25d68f732e3d0b20af20b3.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202207271436142427_0.jpg"
   }
 ]
