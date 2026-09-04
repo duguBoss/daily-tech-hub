@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "阿里千问办公上线首月用户破3000万并开源MyContext上下文底座",
-    "内容": "阿里旗下AI办公产品“千问办公”（QwenWork）上线首月用户数突破3000万，其中企业用户占比超50%。该产品在30天内完成120个版本迭代，并正式开源企业上下文基础设施MyContext，旨在将IM、文档、审批及邮件等异构数据转化为Agent可调用的上下文，目前GitHub已获超3000 Star。技术层面，千问办公联合千问大模型团队推出办公专属模型Qwen3.8-Flash，通过针对多步规划与上下文压缩的专项调优，实现单任务生成速度提升约100%，Token消耗平均减少75%。通过与钉钉深度打通，该产品已支持跨CRM、ERP系统进行数据查询与业务建议。目前，长安汽车、汇付天下、老乡鸡等企业已接入使用，其中长安汽车的线束选型计算效率从两天缩短至5分钟，显著提升了企业核心业务的自动化处理能力。",
+    "资讯标题": "阿里千问办公上线首月用户破3000万并开源企业上下文基础设施MyContext",
+    "内容": "阿里旗下AI办公产品“千问办公”（QwenWork）上线首月用户突破3000万，其中企业用户占比超50%。该产品在30天内完成120个版本迭代，并正式开源企业上下文基础设施MyContext，旨在将IM、文档、审批及邮件等异构数据转化为Agent可调用的上下文，目前GitHub已获3000余Star。技术层面，千问办公联合千问大模型团队推出办公专属模型Qwen3.8-Flash，针对多步规划与上下文压缩优化，实现单任务生成速度提升约100%，Token消耗降低75%。通过与钉钉深度打通，Agent可跨CRM、ERP等系统执行复杂业务操作。目前，长安汽车、汇付天下、老乡鸡等企业已接入使用。以长安汽车为例，线束选型计算时间从两天缩短至5分钟，显著提升了企业核心业务的自动化处理效率。",
     "发布日期": "2026-09-04",
     "原文链接": "https://www.aibase.com/zh/news/30832",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cef188670e7b6d944c825255d07c787.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "资讯标题": "英伟达开源 Personal AI Router 软件，实现局域网内 AI 算力调度",
-    "内容": "英伟达正式开源 Personal AI Router（PAIR）测试版，旨在通过局域网调度机制，将多台 Mac、RTX PC 及 DGX Spark 整合为统一的本地 AI 算力集群。该软件支持 M4 及以上芯片的 Mac 与英伟达 RTX 设备，可为 Ollama 和 LM Studio 等本地 AI 工具提供统一请求入口。PAIR 能够自动发现局域网内设备，当某台机器繁忙时，自动将 AI 请求分派至空闲设备处理，有效实现并发负载分担。英伟达强调，该机制侧重于多任务并行处理，而非提升单次回复速度。实测数据显示，在运行 Qwen 3.6 35B A3B 模型时，通过 PAIR 将任务拆分至 5 个子智能体，任务完成时间从单机运行的 18 分钟缩短至 8 分 48 秒。此举简化了多设备 AI 环境的配置流程，用户",
+    "内容": "英伟达正式开源 Personal AI Router（PAIR）测试版，旨在通过局域网自动发现并调度本地 AI 请求，将多台设备组成算力小队。该软件支持 M4 及以上版本 Mac、英伟达 RTX PC 及 DGX Spark，为 Ollama 和 LM Studio 等本地 AI 工具提供统一请求入口。PAIR 的核心机制是并发负载分担，当某台设备繁忙时，系统会自动将任务转向其他空闲设备，无需用户为每台机器单独配置。英伟达演示显示，在运行 Qwen 3.6 35B A3B 模型时，通过将任务拆分给 5 个 AI 子智能体，任务完成时间可从单机运行的 18 分钟缩短至 8 分 48 秒。该工具主要解决多任务并发处理效率问题，而非提升单次 AI 回复的响应速度，为开发者和本地 AI 用户提供了高效的分布式算力管理方",
     "发布日期": "2026-09-04",
     "原文链接": "https://www.aibase.com/zh/news/30828",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ce8205aaeca0cbb826530bca9ea0783a.jpg",
@@ -20,18 +20,18 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0904/6392411290929193315164651.png"
   },
   {
-    "资讯标题": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
-    "内容": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 4, 20264微软计划从 9 月开始推送 Copilot Studio 调整，AI 智能体在调用工具前将需要经过人工批准。Copilot Studio 是微软用于搭建和管理 AI 智能体的平台，可让智能体连接邮件、工单、支付等业务工具。微软在官方介绍中表示，Copilot Studio 现在允许开发者在 AI 智能体运行特定工具前要求人工审批。通过针对每个工具和每个智能体的开关，任何需要人工审批的工具调用都会暂停，并显示审批请求，说明智能体的意图，以便用户在操作执行前进行批准、批准会话或拒绝。",
+    "资讯标题": "微软发布MAI-Transcribe-2语音识别模型，每小时转写费用仅0.10美元",
+    "内容": "微软于9月3日正式发布新一代语音识别模型MAI-Transcribe-2。该模型在FLEURS基准测试中实现5.2%的平均词错误率（WER），在Artificial Analysis排行榜位列第二。性能方面，其长音频处理速度最高可达竞争对手的10倍，处理1小时音频仅需约10秒。MAI-Transcribe-2集成说话人分割、词级时间戳、关键词偏好及自动语言识别等功能，支持印式英语、西英混合语等语码转换，并具备高抗噪性能。开发者可在“逐字转录”与“精简转录”间切换，适配法律、临床及字幕等高合规场景。目前模型已在Microsoft Foundry、MAI Playground及Open Router上线，并提供每小时0.10美元的限时优惠价。该产品的推出通过优化准确率与延迟的帕累托前沿，显著降低了多语言音频的部署门",
     "发布日期": "2026-09-04",
-    "原文链接": "https://www.aibase.com/zh/news/30833",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "配图仓库路径": "assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202602270950033335_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30822",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dcccbb1de732850c95df1cb1ed56696f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dcccbb1de732850c95df1cb1ed56696f.jpg",
+    "配图仓库路径": "assets/news_images/dcccbb1de732850c95df1cb1ed56696f.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0904/6392411054700997695124681.jpg"
   },
   {
-    "资讯标题": "OpenAI正式发布前沿大模型GPT-6 Astra，多项基准测试实现性能领跑",
-    "内容": "OpenAI于9月3日正式发布前沿大模型GPT-6 Astra，标志着行业迈入AGI时代。该模型在软件工程、科学及网络安全领域实现代际飞跃，是首个达到OpenAI“准备框架”关键网络安全能力阈值的模型。性能方面，Astra在ARC-AGI-3测试中取得98.6%得分，在FrontierMath Tier4(v2)中得分97.6%，并在GPQA Diamond、DeepSWE v1.1等多项基准测试中全面领跑。Astra配备了全新的监控功能以强化安全防护，能更可靠地拒绝有害网络请求。目前，该模型已向OpenAI Daybreak项目的企业安全客户开放，未来几天将陆续面向ChatGPT Plus、Pro、Business及Enterprise订阅用户推出。定价为每百万输入代币10美元、每百万输出代币50美元。Ast",
+    "资讯标题": "OpenAI正式发布GPT-6 Astra大模型，多项基准测试实现性能领跑",
+    "内容": "OpenAI于9月3日正式发布前沿大模型GPT-6 Astra，标志着行业迈入AGI时代。该模型在软件工程、科学研究及网络安全领域实现代际飞跃，是首个达到OpenAI“准备框架”关键网络安全能力阈值的模型。性能方面，Astra在ARC-AGI-3测试中取得98.6%的得分，在FrontierMath Tier4(v2)中得分97.6%，并在GPQA Diamond、DeepSWE v1.1等测试中全面领先。安全层面，Astra配备了全新的监控功能，能更可靠地拒绝有害网络请求。目前，该模型已向OpenAI Daybreak项目的企业网络安全客户开放，未来几天将陆续面向ChatGPT Plus、Pro、Business及Enterprise订阅用户推出。定价为每百万输入代币10美元、每百万输出代币50美元。Astr",
     "发布日期": "2026-09-04",
     "原文链接": "https://www.aibase.com/zh/news/30824",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96a1bae977b7f3e2593c5df65697f51c.jpg",
@@ -40,13 +40,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202502061719358642_0.jpg"
   },
   {
-    "资讯标题": "Meta调整工程师AI绩效考核标准，取消Token用量指标并强调代码交付质量",
-    "内容": "Meta已正式调整内部工程师绩效评估标准，明确不再将AI Token使用量或AI采用率仪表盘作为衡量员工影响力的指标。公司高管Maher Saba与Santosh Janardhan联合发布的最新备忘录显示，考核重心已转向工作质量与实际交付效率。目前，Meta内部已有93%的代码变更由AI智能体辅助完成。此次政策调整标志着公司从单纯追求AI工具采用率，转向关注AI在提升代码质量与迭代速度方面的实际产出。此前，Meta曾通过AI Gateway平台监控各团队Token支出，并对异常增长发出警报。随着内部AI使用量激增，预计今年相关工具支出将达数百亿美元。此次考核改革旨在引导工程师更理性地利用AI工具，以实现更高质量的软件交付，而非单纯追求AI使用规模。",
+    "资讯标题": "Google Workspace全线接入Gemini语音交互功能，支持Gmail、Docs与Keep",
+    "内容": "Google Workspace近日宣布全线接入Gemini语音交互功能，深度整合至Gmail、Google Docs和Google Keep三大核心产品，旨在通过自然语言对话替代传统手动输入。在Google Docs中，用户可通过语音指令实时创建、编辑文档，并支持跨应用调用Google Drive资料及多任务处理。Gmail引入深度优化语音交互，用户可直接询问航班、预约等信息，系统自动扫描并提炼邮件内容，将收件箱转化为可语音调用的智能知识库。Google Keep则利用AI深度理解能力，将口述的零散想法自动转录并整理为结构化笔记或待办清单。谷歌首席执行官桑达尔·皮查伊表示，该功能实现了从初稿生成到精细润色的全流程语音操作。此次更新标志着语音输入从单一转录工具向复杂任务处理Agent的演进，推动AI技术在生产力",
     "发布日期": "2026-09-04",
-    "原文链接": "https://www.aibase.com/zh/news/30830",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/39ed27ad5f25d68f732e3d0b20af20b3.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/39ed27ad5f25d68f732e3d0b20af20b3.jpg",
-    "配图仓库路径": "assets/news_images/39ed27ad5f25d68f732e3d0b20af20b3.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202207271436142427_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30829",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/78c90a94a5f5aa0dd7f69497187c4572.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/78c90a94a5f5aa0dd7f69497187c4572.jpg",
+    "配图仓库路径": "assets/news_images/78c90a94a5f5aa0dd7f69497187c4572.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0904/6392411349490676851449562.png"
   }
 ]
