@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "谷歌9月4日起停用安卓端Google Assistant，全面切换至Gemini",
-    "内容": "谷歌于9月4日起正式在安卓手机端停用Google Assistant，并启动用户迁移至Gemini的进程。此次调整覆盖智能手表、耳机及Android Auto等依赖手机智能功能的设备，迁移过程预计持续数周。对于不满足Gemini配置要求的旧设备或未开放地区，Google Assistant将保留一段时间，但大多数用户将在未来一至两个月内失去访问权限。搭载Android的电视、机顶盒及内置Google服务的汽车暂不受影响，后续将通过系统升级完成切换。谷歌此前因完善Gemini功能推迟了原定于2025年底的停用计划。此次变动标志着“嘿，谷歌”交互入口从传统语音助手向生成式AI转型，旨在以Gemini重构Android生态的系统级交互。尽管Gemini能力更强，但在计时器、音乐播放等高频指令的响应稳定性和准确性上仍面",
+    "资讯标题": "谷歌9月4日起停用安卓端Google Assistant，Gemini全面接棒",
+    "内容": "谷歌于9月4日起正式在安卓手机端逐步停用Google Assistant，并将用户迁移至Gemini。此次迁移预计持续数周，受影响范围涵盖智能手表、耳机及Android Auto，而搭载Android的电视、机顶盒及内置Google服务的汽车暂不受影响。谷歌表示，Gemini已具备全面接棒条件，旨在通过生成式AI重构Android生态的系统级交互。对于不满足Gemini配置要求的旧设备或未开放服务的地区，Google Assistant将暂时保留。此次调整标志着“嘿，谷歌”语音指令入口正式转向生成式AI交互。尽管Gemini能力更强，但在计时器、音乐播放及天气查询等高频指令的响应稳定性与准确性上，仍面临用户体验挑战。大多数用户预计将在未来一至两个月内失去对Google Assistant的访问权限。",
     "发布日期": "2026-09-06",
     "原文链接": "https://www.aibase.com/zh/news/30839",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3d4c56ca5191ff6c5b5ae4b6a63a0c6f.jpg",
@@ -10,8 +10,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606101050186220_0.jpg"
   },
   {
-    "资讯标题": "英伟达129亿美元收购Hugging Face，黄仁勋给出最新承诺",
-    "内容": "英伟达129亿美元收购Hugging Face，黄仁勋给出最新承诺AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 4, 202630近日，全球人工智能领域迎来了一场备受瞩目的超级并购。英伟达（NVIDIA）正式宣布，已同意以129.303亿美元(折合约870.92亿元人民币)的价格收购开源人工智能平台 Hugging Face。这一重磅消息瞬间引爆了科技圈，英伟达CEO黄仁勋随后公开发文，详细解释了此次收购的幕后逻辑与未来规划。作为当前全球开源模型开发者的重要聚集地，Hugging Face 已经凝聚了超过1，800万名开发者、研究人员和创作者。平台生态极其繁荣，目前已共享了超过300万个模型、50万个数据集以及100万个应用，同时有超过20万家企业借助该平台寻找、评估、定制和部署人工智能技术",
+    "资讯标题": "英伟达宣布以129.3亿美元收购开源AI平台Hugging Face",
+    "内容": "英伟达（NVIDIA）正式宣布以129.303亿美元收购开源AI平台Hugging Face。Hugging Face目前拥有超1800万开发者，托管了300万个模型、50万个数据集及100万个应用，是全球开源模型核心枢纽。英伟达此前已在该平台发布500多个模型及250多个数据集。英伟达CEO黄仁勋承诺，收购后Hugging Face将保持平台独立与开放属性，继续支持各类开源及开放权重模型，并坚持多云与多加速器环境的发展路线。黄仁勋强调，此举旨在利用英伟达的工程研发与基础设施能力，将开放式AI平台推向新规模，而非将其改造为封闭的硬件入口。该收购将使初创公司、企业及科研机构能更高效地获取并部署先进AI能力，推动AI技术在工厂、医疗、教育等垂直场景的落地，对全球开源人工智能生态格局产生深远影响。",
     "发布日期": "2026-09-06",
     "原文链接": "https://www.aibase.com/zh/news/30843",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
@@ -20,8 +20,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
   },
   {
-    "资讯标题": "OpenAI证实正自研人形机器人及数据中心特种机器人",
-    "内容": "OpenAI CEO山姆·奥尔特曼近日证实，公司正同步推进人形机器人与数据中心特种机器人研发。奥尔特曼强调，机器人形态并非核心，关键在于搭载“机器人大脑”，即最新发布的GPT-6 Astra模型。他认为人形设计在处理人类社会环境任务中具备现实意义，但家用场景并非当前首要任务，基础设施与制造业才是落地重点。为支撑硬件研发，OpenAI Robotics事业部正加速扩招，旧金山地区机器人岗位已增至19个，重点聚焦执行器设计、电磁与齿轮设计等硬件底层技术，旨在实现机器人硬件与机器学习的深度协同。尽管目前尚未披露具体发货日期与产量目标，但OpenAI长期看好消费级机器人市场，并致力于通过定制化机电执行器提升硬件的扭矩密度与量产可行性。",
+    "资讯标题": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
+    "内容": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 4, 202679月3日美东时间上午9点23分左右，全球人工智能领域遭遇了一场罕见的行业大地震。包括ChatGPT、Claude、Grok、谷歌Gemini以及微软Copilot在内的多款海外头部AI服务集体出现故障，大面积陷入瘫痪状态。此次突发的大规模宕机持续了大约3小时40分钟，给大批海外用户的日常办公与技术调用带来了短暂的困扰。与海外大模型的集体掉线形成鲜明对比的是，国内人工智能大模型在同一时间段内保持了平稳高效的正常运行。其中，国内AI代表企业智谱更是通过社交平台公开幽默发文表态称“我们还在线”，展现出了坚实的底层技术韧性与基础设施承载能力。",
+    "发布日期": "2026-09-06",
+    "原文链接": "https://www.aibase.com/zh/news/30837",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
+    "配图仓库路径": "assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304171408571920_1.jpg"
+  },
+  {
+    "资讯标题": "OpenAI证实正研发人形及数据中心特种机器人，核心聚焦机器人大脑",
+    "内容": "OpenAI CEO山姆·奥尔特曼近日证实，公司正同步推进人形机器人与面向数据中心场景的特种机器人研发。奥尔特曼强调，机器人形态并非核心，关键在于“机器人大脑”，即以GPT-6 Astra为代表的智能模型。OpenAI Robotics事业部已由Sora负责人阿迪亚·拉梅什领导，旧金山机器人团队岗位已增至19个，硬件执行器成为研发重点，涵盖执行器设计、电磁与齿轮设计及测试基础设施。奥尔特曼明确，家用机器人并非当前首要任务，基础设施与制造业是落地首选，但长期看好消费级市场。目前OpenAI尚未披露具体发货日期与产量目标。该布局旨在实现机器人硬件研究与机器学习的深度协同，通过定制机电执行器提升扭矩密度与量产可行性。",
     "发布日期": "2026-09-06",
     "原文链接": "https://www.aibase.com/zh/news/30835",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b86d0f100045a3facaa2d35ab82d7c28.jpg",
@@ -31,22 +41,12 @@
   },
   {
     "资讯标题": "Google DeepMind 发布 WeatherNext 3：实现 5 公里分辨率与小时级刷新",
-    "内容": "Google DeepMind 与 Google Research 联合发布 WeatherNext 3 天气预报模型，通过直接输入实时全球静止卫星拼图，解决了传统 AI 模型分辨率低及初始化依赖滞后数据的问题。该模型采用函数生成网络（FGN）网格 Transformer 架构，支持多分辨率输出：最高 0.05°（约 5 公里）的站点级气温与露点，以及 0.1° 的风速、降水与太阳辐射等关键变量。相比前代，WeatherNext 3 刷新频率提升至每小时一次，每天初始化 24 次，并在短时预报中显著提升了降水预测精度，CRPS 指标较基线最高提升 60%。该模型针对可再生能源需求优化，提供 100 米风速及云层分布等数据。目前，用户可通过 BigQuery、Earth Engine 和 Cloud Storag",
+    "内容": "Google DeepMind 与 Google Research 联合发布 WeatherNext 3 天气预报模型，通过直接输入实时全球静止卫星拼图，解决了传统 AI 模型分辨率低及初始化依赖 6 小时滞后数据的问题。该模型采用函数生成网络（FGN）网格 Transformer 架构，支持多分辨率输出：最高 0.05°（约 5 公里）的站点校准气温与露点，以及 0.1° 的风速、降水与太阳辐射等关键变量。WeatherNext 3 每天初始化 24 次，在 00、06、12、18 UTC 周期可预报至 15 天。相比前代，其降水预报 CRPS 指标最高提升 60%，并针对风光发电需求优化了 100 米风速及云层分布输出。目前该模型被 Brightband 评为全球最准确天气模型，预测数据已通过 BigQue",
     "发布日期": "2026-09-06",
     "原文链接": "https://www.aibase.com/zh/news/30841",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ffbe77738741cca256b1fa6bd79cba81.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ffbe77738741cca256b1fa6bd79cba81.jpg",
     "配图仓库路径": "assets/news_images/ffbe77738741cca256b1fa6bd79cba81.jpg",
     "原始配图链接": "https://upload.chinaz.com/2026/0904/6392413152720530146602657.png"
-  },
-  {
-    "资讯标题": "ChatGPT、Claude等海外头部大模型突发集体瘫痪超3小时",
-    "内容": "美东时间9月3日上午9点23分，全球AI领域发生大规模宕机事件，ChatGPT、Claude、Grok、谷歌Gemini及微软Copilot等多款海外头部大模型服务集体瘫痪，故障持续时间长达3小时40分钟，严重影响了海外用户的日常办公与API技术调用。此次突发故障导致海外主流AI服务大面积掉线，而国内大模型在同一时间段内均保持平稳运行。智谱等国内AI企业通过社交平台公开回应称“我们还在线”，侧面印证了国内大模型在底层技术韧性与基础设施承载能力方面的稳定性。此次事件凸显了全球AI服务在集中式架构下的脆弱性，对依赖海外模型进行业务集成的开发者及企业用户而言，基础设施的稳定性与多模型备份策略的重要性再次被推向行业焦点。",
-    "发布日期": "2026-09-06",
-    "原文链接": "https://www.aibase.com/zh/news/30837",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
-    "配图仓库路径": "assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304171408571920_1.jpg"
   }
 ]
