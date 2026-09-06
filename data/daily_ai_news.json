@@ -1,8 +1,8 @@
 [
   {
     "资讯标题": "谷歌9月4日起停用安卓端Google Assistant，全面切换至Gemini",
-    "内容": "谷歌于9月4日起正式在安卓手机端停用Google Assistant，并启动用户向Gemini的全面迁移。此次调整覆盖智能手表、耳机及Android Auto等依赖手机智能功能的设备，迁移过程预计持续数周。对于不满足Gemini配置要求的旧设备或未开放地区，Google Assistant将暂时保留，但多数用户将在未来一至两个月内失去访问权限。Android电视、机顶盒及内置Google服务的汽车暂不受影响，后续将通过系统升级完成切换。谷歌表示，此举旨在将“嘿，谷歌”指令从传统语音助手入口升级为生成式AI交互入口，以重构Android生态的系统级交互。尽管Gemini具备更强的生成式能力，但在计时器、音乐播放及天气查询等高频指令的响应稳定性与准确性上，目前仍面临用户反馈的挑战。",
-    "发布日期": "2026-09-05",
+    "内容": "谷歌于9月4日起正式在安卓手机端逐步停止Google Assistant服务，并将符合条件的用户迁移至Gemini。此次调整覆盖智能手表、耳机及Android Auto等依赖手机智能功能的设备，而Android电视、机顶盒及内置Google服务的汽车暂不受影响。迁移过程预计持续数周，对于不满足Gemini配置要求或未开放服务的地区，Google Assistant将保留一段时间，但大多数用户将在未来两个月内失去访问权限。谷歌表示，此举旨在将“嘿，谷歌”语音入口从传统助手转向生成式AI交互。尽管Gemini在复杂任务处理上具备优势，但在计时器、音乐播放等高频指令的响应稳定性与准确性上仍面临挑战。此次迁移标志着谷歌正通过生成式AI全面重构Android生态的系统级交互逻辑。",
+    "发布日期": "2026-09-06",
     "原文链接": "https://www.aibase.com/zh/news/30839",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3d4c56ca5191ff6c5b5ae4b6a63a0c6f.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3d4c56ca5191ff6c5b5ae4b6a63a0c6f.jpg",
@@ -11,8 +11,8 @@
   },
   {
     "资讯标题": "英伟达宣布以129.3亿美元收购开源AI平台Hugging Face",
-    "内容": "英伟达（NVIDIA）正式宣布以129.303亿美元收购开源AI平台Hugging Face。Hugging Face目前拥有超1800万开发者，托管超过300万个模型、50万个数据集及100万个应用。英伟达此前已在平台发布500多个模型及250多个开放数据集。英伟达CEO黄仁勋承诺，收购完成后Hugging Face将保持平台开放独立属性，继续支持各类开源及开放权重模型，并坚持多云与多加速器环境的发展路线。黄仁勋强调，此举旨在利用英伟达的基础设施与工程能力，将Hugging Face推向全新规模，而非将其改造为封闭的硬件入口。该收购将助力初创公司、企业及科研机构在无需从零训练模型的前提下，灵活调用先进AI能力，推动AI技术在工厂、医院、农场等场景的落地，进一步增强全球开放AI生态的均衡发展。",
-    "发布日期": "2026-09-05",
+    "内容": "英伟达正式宣布以129.303亿美元收购开源人工智能平台Hugging Face。作为全球开源模型核心枢纽，Hugging Face目前拥有超1800万开发者，托管超过300万个模型、50万个数据集及100万个应用，服务超20万家企业。英伟达此前已在该平台发布500多个模型及250多个开放数据集。英伟达CEO黄仁勋承诺，收购完成后Hugging Face将保持独立开放属性，继续支持各类开源及开放权重模型，并坚持多云与多加速器发展路线。黄仁勋强调，此次收购旨在利用英伟达的基础设施与工程能力，将开放式AI平台推向新规模，而非将其改造为封闭的硬件入口。此举意在通过开放权重技术，降低初创公司、高校及企业使用先进AI能力的门槛，推动AI在工厂、医院、课堂等场景的落地，进一步增强全球开放AI生态的均衡发展。",
+    "发布日期": "2026-09-06",
     "原文链接": "https://www.aibase.com/zh/news/30843",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
@@ -20,19 +20,9 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
   },
   {
-    "资讯标题": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
-    "内容": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 4, 202639月3日美东时间上午9点23分左右，全球人工智能领域遭遇了一场罕见的行业大地震。包括ChatGPT、Claude、Grok、谷歌Gemini以及微软Copilot在内的多款海外头部AI服务集体出现故障，大面积陷入瘫痪状态。此次突发的大规模宕机持续了大约3小时40分钟，给大批海外用户的日常办公与技术调用带来了短暂的困扰。与海外大模型的集体掉线形成鲜明对比的是，国内人工智能大模型在同一时间段内保持了平稳高效的正常运行。其中，国内AI代表企业智谱更是通过社交平台公开幽默发文表态称“我们还在线”，展现出了坚实的底层技术韧性与基础设施承载能力。",
-    "发布日期": "2026-09-05",
-    "原文链接": "https://www.aibase.com/zh/news/30837",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
-    "配图仓库路径": "assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304171408571920_1.jpg"
-  },
-  {
     "资讯标题": "OpenAI证实正自研人形机器人及数据中心特种机器人",
-    "内容": "OpenAI CEO山姆·奥尔特曼近日证实，公司正同步推进人形机器人与数据中心特种机器人的研发，核心战略聚焦于打造通用“机器人大脑”。奥尔特曼指出，人形设计旨在适配人类社会环境，但并非所有场景均需拟人形态。目前，OpenAI已发布GPT-6 Astra模型作为机器人核心大脑，并由Sora负责人阿迪亚·拉梅什领导机器人事业部。硬件层面，OpenAI正重点扩招机器人相关岗位，招聘重心涵盖执行器设计、电磁与齿轮设计等领域，旨在实现定制机电执行器的端到端开发。落地节奏上，OpenAI明确家用机器人并非当前首要任务，基础设施与制造业场景为优先方向，但公司长期看好消费级市场潜力。目前，OpenAI尚未公布具体发货日期与产量规划。",
-    "发布日期": "2026-09-05",
+    "内容": "OpenAI CEO山姆·奥尔特曼近日证实，公司正推进机器人研发，布局人形机器人与数据中心特种机器人两条技术路线。奥尔特曼强调，机器人形态并非核心，关键在于“机器人大脑”，新发布的GPT-6 Astra模型被视为机器人落地的核心基础。OpenAI Robotics事业部已由Sora负责人阿迪亚·拉梅什领导，旧金山地区机器人相关岗位扩招至19个，硬件执行器设计成为研发重点，涵盖电磁、齿轮设计及测试基础设施。奥尔特曼表示，家用机器人并非当前首要任务，基础设施与制造业场景是落地重点，但长期看好消费级市场。目前，OpenAI尚未披露具体的发货日期与产量目标，研发核心在于实现机器人硬件与机器学习的深度协同设计。",
+    "发布日期": "2026-09-06",
     "原文链接": "https://www.aibase.com/zh/news/30835",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b86d0f100045a3facaa2d35ab82d7c28.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b86d0f100045a3facaa2d35ab82d7c28.jpg",
@@ -41,12 +31,22 @@
   },
   {
     "资讯标题": "Google DeepMind 发布 WeatherNext 3：实现 5 公里分辨率与小时级刷新",
-    "内容": "Google DeepMind 与 Google Research 联合发布 WeatherNext 3 天气模型，通过引入实时全球静止卫星拼图及原始气象站观测数据训练，解决了传统 AI 模型分辨率低及初始化滞后的痛点。该模型采用函数生成网络（FGN）网格 Transformer 架构，支持多分辨率输出：最高 0.05°（约 5 公里）的 2 米气温与露点，以及 0.1° 的风速、降水与太阳辐射等关键变量。相比前代，WeatherNext 3 刷新频率提升至每小时一次，在 00、06、12、18 UTC 周期可预报至 15 天。在降水预测方面，其 CRPS 较基线最高提升 60%。该模型针对可再生能源需求优化了 100 米风速及云层分布预测，被 Brightband 评为当前最准确的全球天气模型。目前数据已通过",
-    "发布日期": "2026-09-05",
+    "内容": "Google DeepMind 与 Google Research 联合发布 WeatherNext 3 天气模型，通过直接接入实时全球静止卫星拼图与原始气象站观测数据，解决了传统 AI 模型分辨率低及初始化依赖滞后数据的问题。该模型采用函数生成网络（FGN）网格 Transformer 架构，输出分辨率最高达 0.05°（约 5 公里）。在运行机制上，模型实现每小时刷新，其中 00、06、12、18 UTC 可预报至 15 天，其余时段覆盖 48 小时。相比前代，WeatherNext 3 在降水预报方面显著提升，短时预报 CRPS 较基线最高提升 60%。此外，模型针对可再生能源需求，提供 100 米风速、云层分布及太阳辐照等关键变量。目前，该模型预测数据已通过 BigQuery、Earth Engine ",
+    "发布日期": "2026-09-06",
     "原文链接": "https://www.aibase.com/zh/news/30841",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ffbe77738741cca256b1fa6bd79cba81.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ffbe77738741cca256b1fa6bd79cba81.jpg",
     "配图仓库路径": "assets/news_images/ffbe77738741cca256b1fa6bd79cba81.jpg",
     "原始配图链接": "https://upload.chinaz.com/2026/0904/6392413152720530146602657.png"
+  },
+  {
+    "资讯标题": "ChatGPT、Claude等海外头部大模型突发大规模宕机持续超3小时",
+    "内容": "美东时间9月3日上午9点23分，全球AI领域发生罕见故障，ChatGPT、Claude、Grok、谷歌Gemini及微软Copilot等多款海外头部大模型集体瘫痪，服务中断时间长达3小时40分钟，严重影响了海外用户的日常办公与API技术调用。此次大规模宕机暴露了海外主流AI服务在基础设施稳定性方面的脆弱性。与之形成鲜明对比的是，国内大模型在同一时间段内保持了平稳运行。智谱等国内AI企业通过社交平台公开回应称“我们还在线”，侧面印证了国内大模型在底层技术韧性与基础设施承载能力上的可靠性。此次事件对依赖海外模型API的开发者及企业用户敲响了警钟，凸显了在AI应用部署中考虑基础设施冗余与多模型备份策略的必要性。",
+    "发布日期": "2026-09-06",
+    "原文链接": "https://www.aibase.com/zh/news/30837",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
+    "配图仓库路径": "assets/news_images/6c291c0e954e49b085d2530517daa36f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304171408571920_1.jpg"
   }
 ]
