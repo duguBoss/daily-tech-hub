@@ -1,8 +1,8 @@
 [
   {
-    "资讯标题": "最高法发布首部涉人工智能纠纷案件意见，明确AI换脸与大数据杀熟责任",
-    "内容": "最高人民法院正式发布《关于依法审理涉人工智能纠纷案件的意见》，这是国家最高审判机构首部针对AI纠纷的司法裁判规则文件，共5部分24条。该意见重点聚焦AI换脸、大数据杀熟、仿冒名人带货、自动驾驶及知识产权保护等热点。在侵权责任方面，明确未经同意利用AI处理姓名、肖像生成虚拟形象，或使用他人声音作为训练语料并模仿，均构成侵权；擅自制作死者虚拟形象致其权益受损，近亲属可追责。针对大数据杀熟及仿冒名人带货，经营者需承担欺诈责任，消费者可主张惩罚性赔偿。在自动驾驶领域，明确了车辆缺陷与驾驶人过错共同致损时的责任划分，并严厉打击车企对自动驾驶等级的虚假宣传。该意见确立了以人为本、支持创新、筑牢安全的三大原则，旨在通过完善事实查明与证据审查规则，厘清法律边界，保障AI行业健康有序发展，为后续司法实践提供明确指引。",
-    "发布日期": "2026-09-08",
+    "资讯标题": "最高法发布首部涉人工智能纠纷案件意见，明确AI换脸与大数据杀熟侵权责任",
+    "内容": "最高人民法院正式发布《关于依法审理涉人工智能纠纷案件的意见》，这是国家最高审判机构首部涉人工智能司法裁判规则文件，共5部分24条。该意见重点聚焦AI换脸、拟声、大数据杀熟、仿冒名人带货及自动驾驶等热点问题。明确未经同意利用AI生成可识别的自然人肖像、姓名或模仿声音均构成侵权；擅自制作死者虚拟形象致其权益受损的，近亲属可追责。针对大数据杀熟及仿冒带货，经营者需承担侵权责任，消费者可主张惩罚性赔偿。在自动驾驶领域，明确了车辆缺陷与驾驶人过错的责任划分，并严惩车企对自动驾驶等级的虚假宣传。该意见确立了以人为本、支持创新、筑牢安全三大原则，旨在通过完善事实查明与证据审查规则，厘清法律边界，保障人工智能行业健康有序发展。",
+    "发布日期": "2026-09-09",
     "原文链接": "https://www.aibase.com/zh/news/30897",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/477fab6f6fc0f44cc26876b6729c9256.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/477fab6f6fc0f44cc26876b6729c9256.jpg",
@@ -10,43 +10,43 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304121052180076_0.jpg"
   },
   {
-    "资讯标题": "宇树科技实现全球首次世界模型实时驱动人形机器人自主格斗",
-    "内容": "9月7日，宇树科技宣布实现全球首次由世界模型实时驱动的全自主性人形机器人格斗。该技术突破基于UnifoLM-X2-1.0模型，核心解决了世界—动作大模型在瞬时规划、决策及动态交互执行方面的技术瓶颈。在测试中，人形机器人能够在高动态、强交互场景下，实时完成对未来状态的预测与规划，并自主执行搏击动作。宇树科技表示，此次成果验证了世界模型驱动人形机器人大规模落地部署的可行性。该技术标志着人形机器人正从预设动作和固定任务执行，向具备实时感知、动态决策与自主行动能力的复杂交互场景演进，为机器人本体控制与世界模型的深度融合提供了重要实践参考。",
-    "发布日期": "2026-09-08",
-    "原文链接": "https://www.aibase.com/zh/news/30892",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/16bc4f0f92f2ef0c4aa392b9c359cf67.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/16bc4f0f92f2ef0c4aa392b9c359cf67.jpg",
-    "配图仓库路径": "assets/news_images/16bc4f0f92f2ef0c4aa392b9c359cf67.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0908/6392445690411482758630991.jpg"
+    "资讯标题": "微软发布Microsoft 365 Copilot新功能Project Opal，支持AI智能体自动执行长周期任务",
+    "内容": "微软CEO萨提亚·纳德拉宣布为Microsoft 365 Copilot推出Project Opal功能，旨在安全可控环境中支持AI智能体处理复杂、长周期的自动化任务。用户仅需输入目标，AI即可连续工作数小时甚至数天，自动完成素材搜集、数据整理、文档生成及跨应用分发等全流程。技术实现上，用户通过Frontier模块输入指令，系统利用高级推理模型将自然语言转化为动态执行计划，并调度Windows 365 Cloud PC完成浏览器操作与工具调用。在实际应用中，该功能可处理如分析一个月户外影像并自动生成PPT与表格等复杂任务。微软表示，Project Opal在季度合规审计等场景中，每周可为工程师节省最高20小时。该功能标志着AI从处理即时问答向委派型、长期运行的自动化工作流演进，显著提升企业办公效率。",
+    "发布日期": "2026-09-09",
+    "原文链接": "https://www.aibase.com/zh/news/30909",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
+    "配图仓库路径": "assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633428399_20.jpg"
   },
   {
-    "资讯标题": "OpenAI发布GPT-6 Astra模型，零失误通关48个CAPTCHA人机验证关卡",
-    "内容": "OpenAI研究人员近日公开测试视频，展示其最新模型GPT-6 Astra在CAPTCHA（完全自动化的公开图灵测试）验证中，实现了全流程、零失误通关全部48个游戏关卡。此次测试涵盖了多种设计与逻辑挑战，GPT-6 Astra通过强大的多模态理解与环境交互能力，自主且精准地完成了整套复杂验证流程。这一成果标志着顶级AI模型在处理高度视觉化、逻辑化复合任务上取得质的飞跃。传统CAPTCHA作为互联网核心安全机制，旨在区分人类与自动化程序，但随着GPT-6 Astra轻松攻克此类防线，其底层设计理念正面临严峻的信任危机。行业专家指出，随着AI进化，互联网生态亟需构建更立体、智能的新一代身份验证与安全防护体系，以应对AI带来的自动化挑战。",
-    "发布日期": "2026-09-08",
-    "原文链接": "https://www.aibase.com/zh/news/30887",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
+    "资讯标题": "微信支付智能眼镜 SDK 正式上线，Rokid 成为首家适配落地品牌",
+    "内容": "微信支付智能眼镜 SDK 已正式上线，将“扫一扫”支付能力封装为标准 SDK 向智能眼镜厂商开放，Rokid 乐奇 AI 眼镜成为首个适配产品。用户需在手机 App 绑定微信并验证密码，支付时通过语音唤起、扫码、镜腿滑动确认即可完成。该功能目前处于 Beta 阶段，仅支持扫描面对面、个人经营及聚合收款码，暂不支持小程序码识别等其他功能。在安全机制上，该方案采用小额支付模式，基础版每日限额 200 元，若设备具备虹膜或指纹等身份识别功能可提升额度。支付过程需保持眼镜与手机连接，且必须由用户主动确认。此举旨在覆盖便利店、菜市场等高频小额交易场景，未来将向更多具备显示能力的智能眼镜产品开放。",
+    "发布日期": "2026-09-09",
+    "原文链接": "https://www.aibase.com/zh/news/30901",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/81c655a6e7aaf67099c1cb183612e198.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/81c655a6e7aaf67099c1cb183612e198.jpg",
+    "配图仓库路径": "assets/news_images/81c655a6e7aaf67099c1cb183612e198.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0908/6392446450389354935580788.png"
   },
   {
-    "资讯标题": "OpenAI 首席科学家警告：AI 或很快进入自我进化阶段，希望业界自愿放缓",
-    "内容": "OpenAI 首席科学家警告：AI 或很快进入自我进化阶段，希望业界自愿放缓AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 8, 202623OpenAI 首席科学家雅库布·帕乔基（Jakub Pachocki）警告称，人工智能正在以极快速度演进，以至于越来越难以为人类所理解和控制，并表示他期望 AI 实验室出于安全考虑自愿放慢开发速度。“用不了多久，模型就能自我改进”帕乔基在周日发布的一篇文章中写道，在相对较短的时间内，AI 模型已经能够操作电脑、与人类及其他 AI 系统协作，并开展研究项目。他称，用不了多久，这些模型还将能够在没有人类干预的情况下改进自身，这一过程被称为“递归式自我改进”。",
-    "发布日期": "2026-09-08",
-    "原文链接": "https://www.aibase.com/zh/news/30891",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "配图仓库路径": "assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171707346148_0.jpg"
+    "资讯标题": "OpenAI 发布 ChatGPT Images 2.5 模型，支持草图微调并降低生成延迟",
+    "内容": "OpenAI 正式发布 ChatGPT Images 2.5 模型，在提升图像细节与光照表现的同时，将生成延迟最多降低 50%。新版本引入 Sketch 草图功能，用户通过“@Sketch”指令结合手绘与文字描述即可生成精细图像。针对专业设计需求，该模型支持图片内评论标注，实现局部精准修改并保持多轮编辑的一致性。API 层面提供两款模型：GPT-Image-2.5Flare 适用于高批量生成场景，GPT-Image-2.5Sunburst 则专为复杂工作流与精修素材设计，支持最高 3840 像素的单边分辨率。在安全合规方面，所有输出均嵌入 C2PA 元数据与隐形水印，以防范深度伪造。此次更新通过内置海报与商品模板，进一步降低了创作门槛，并允许用户一键分享原始提示词，显著提升了从原型设计到成品输出的生产效率。",
+    "发布日期": "2026-09-09",
+    "原文链接": "https://www.aibase.com/zh/news/30912",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/50a6a532285c6880d17d3147ea580b90.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/50a6a532285c6880d17d3147ea580b90.jpg",
+    "配图仓库路径": "assets/news_images/50a6a532285c6880d17d3147ea580b90.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0909/26090908542128969501.jpg"
   },
   {
-    "资讯标题": "Anthropic签署5170亿美元算力合同，锁定14.8GW计算能力并自建数据中心",
-    "内容": "Anthropic在过去11个月内签署总额达5170亿美元的算力合同，在原有1至2GW算力基础上，新增锁定至少14.8GW计算能力，并正式启动自建数据中心规划。此次激进扩张标志着Anthropic在AI基础设施领域的战略加码，其合同期限已延伸至2030年以后。尽管Anthropic年化营收已突破650亿美元，但面对千亿美元级别的基础设施投入，仍面临巨大的财务压力。行业内部对算力军备竞赛存在分歧，Anthropic CEO达里奥·阿莫代伊与OpenAI CEO萨姆·奥尔特曼近期均对行业过快投资及潜在风险表达了担忧。此次大规模算力布局不仅加剧了与OpenAI在基础设施层面的竞争，也凸显了头部AI企业在追求AGI进程中对能源与算力资源的极致渴求。",
-    "发布日期": "2026-09-08",
-    "原文链接": "https://www.aibase.com/zh/news/30894",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
+    "资讯标题": "DeepSeek开启V4.1-Flash模型内测，强化多模态能力并优化运行速度与成本",
+    "内容": "DeepSeek正式开启V4.1-Flash中间版本内测，该版本引入全新模型结构，在实现原生多模态支持的同时，显著提升了综合性能、运行速度及成本效益。开发者无需更改base_url，仅需将模型名称设为deepseek-v4.1-flash-expires-on-0910即可调用，计费标准与V4-Flash保持一致。外部反馈显示，该版本处理效率极高，速度优势显著。此次迭代是DeepSeek在多模态与性能优化领域的持续演进，此前8月21日上线的V4-Flash-Vision-Exp实验模型已在视觉理解AgentBenchmark测试中表现出色，多模态Agent能力接近Opus-4.8。随着V4全系列模型上线，官方已引入峰谷分时定价机制，进一步优化API调用成本。",
+    "发布日期": "2026-09-09",
+    "原文链接": "https://www.aibase.com/zh/news/30911",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/88d5c7ed189ade1afcca3c01b57e98ee.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/88d5c7ed189ade1afcca3c01b57e98ee.jpg",
+    "配图仓库路径": "assets/news_images/88d5c7ed189ade1afcca3c01b57e98ee.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051542247291_3.jpg"
   }
 ]
