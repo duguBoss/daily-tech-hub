@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "月之暗面启动Kimi企业合作伙伴计划，携手华胜天成与金山云等布局B端",
-    "内容": "9月10日，大模型独角兽月之暗面正式启动“Kimi企业合作伙伴计划”，旨在推动大模型技术向企业级核心业务场景落地。该计划重点解决大模型在企业应用中“最后一公里”的部署难题，月之暗面将向合作伙伴全方位开放模型与Agent底座、工程方法论及能力转型支持。在合作模式上，月之暗面负责提供模型能力与技术体系，合作伙伴则利用行业洞察与客户服务优势，共同培养前线部署工程师（FDE），打通需求诊断、方案设计至生产部署的全流程交付链路。目前，华胜天成、金山云、亚康股份、亚信科技、中软国际等首批行业头部企业已正式加入该计划。此举标志着Kimi正式向企业核心腹地发起冲锋，通过生态协同加速AI大模型在B端市场的商业化落地进程，助力企业将模型能力转化为实际生产力。",
+    "资讯标题": "谷歌正式发布Gemini Windows桌面应用，支持快捷键一键唤醒AI助手",
+    "内容": "谷歌于9月10日正式推出Gemini Windows桌面应用，全面兼容Windows 10与Windows 11操作系统。该应用核心亮点在于全局快捷键功能，用户通过“Alt+Space”即可在任意界面快速唤起Gemini助手，显著提升多任务处理效率。在功能集成方面，Gemini桌面端支持深度联动Gmail、Google Drive等办公套件，实现跨应用信息检索与内容生成。此外，该应用集成了Nano Banana图像生成技术及Gemini Omni视频生成能力，满足用户多元化的创作需求。谷歌官方表示，此次发布旨在优化PC端的AI交互体验，未来将持续迭代并上线更多原生桌面功能，进一步拓展AI在个人电脑端的应用边界，为办公场景提供更高效的生产力支持。",
     "发布日期": "2026-09-11",
-    "原文链接": "https://www.aibase.com/zh/news/30959",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cd142ab71708e2d762c90af314dcda41.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/cd142ab71708e2d762c90af314dcda41.jpg",
-    "配图仓库路径": "assets/news_images/cd142ab71708e2d762c90af314dcda41.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0910/6392465092445134985744936.png"
+    "原文链接": "https://www.aibase.com/zh/news/30976",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
   },
   {
-    "资讯标题": "千问发布新款AI眼镜N1：首次集成虹膜识别技术，取消显示屏设计",
-    "内容": "千问新款AI眼镜N1在2026年外滩大会AI支付展区正式亮相。该产品主打身份核验功能，首次引入虹膜识别技术，官方宣称其误识率低于百万分之一，支持在复杂环境下通过眼动追踪收银设备，实现佩戴即核验。硬件设计方面，N1取消了显示屏配置，展台工作人员表示该设计调整将使其定价低于此前发布的S1型号。作为千问AI硬件布局的最新产品，N1延续了此前在世界人工智能大会上展示的眼动追踪等技术路径。目前该眼镜处于保密展示阶段，外观被遮蔽材料包裹。此次发布进一步丰富了千问的AI眼镜产品矩阵，通过去屏幕化策略降低硬件成本，旨在加速AI支付与身份识别场景的落地应用。",
+    "资讯标题": "环球音乐与ElevenLabs达成多年战略合作，共建授权AI音乐创作平台",
+    "内容": "环球音乐集团（UMG）与AI音频公司ElevenLabs达成多年许可协议及战略合作，这是ElevenLabs首次与主流唱片公司建立合作。双方将共同构建一个基于授权音乐和艺人参与的全新AI音乐创作平台，旨在让乐迷与艺人及词曲作者共同创作音乐。该平台支持混音、串烧、全新演绎及个性化语音体验，未来还将开发更多乐迷互动产品。UMG首席执行官Lucian Grainge表示，此次合作旨在通过负责任的AI技术激发音乐发现，加深艺人与乐迷互动，并为创意社群开拓新的收入来源。该合作标志着主流音乐产业在AI版权合规化与创作工具化方向迈出重要一步，通过ElevenLabs的音频技术优势，将人类艺术创作的商业与创意边界进一步拓展。",
     "发布日期": "2026-09-11",
-    "原文链接": "https://www.aibase.com/zh/news/30963",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/117f80e4b1094a3672b622b60dd3ad22.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/117f80e4b1094a3672b622b60dd3ad22.jpg",
-    "配图仓库路径": "assets/news_images/117f80e4b1094a3672b622b60dd3ad22.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811200922100614_9.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30978",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/091dfe2ce71d391ac0a259bc412fbd0a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/091dfe2ce71d391ac0a259bc412fbd0a.jpg",
+    "配图仓库路径": "assets/news_images/091dfe2ce71d391ac0a259bc412fbd0a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0911/6392471470785489805446118.png"
   },
   {
-    "资讯标题": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
-    "内容": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 10, 202621美国加利福尼亚州州长加文·纽森（Gavin Newsom）正式签署了一揽子具有里程碑意义的人工智能监管法案。值得关注的是，这批旨在强化前沿大模型安全风险评估、透明度披露以及防范灾难性网络攻击的新法案，在此前的立法博弈中获得了包括 OpenAI 与 Anthropic 在内的多家硅谷 AI 头部企业的罕见背书与公开支持。",
+    "资讯标题": "商汤科技正式上线AI办公智能体“小浣熊”移动端App",
+    "内容": "商汤科技宣布AI办公智能体“小浣熊”移动端App正式上线，同步提供iOS与安卓版本，实现跨终端协同办公。该产品核心功能在于支持自然语音交互，用户通过手机长按输入需求，即可触发电脑端持续执行任务，满足用户离开工位后的成果查看、分享与接续需求。技术层面，“小浣熊”搭载商汤自研的“多模态智能体创作引擎”，具备从碎片化信息中提取意图的能力，并支持“长链条思考”及企业内外信息融合。此次移动端上线旨在提升办公场景的灵活性与响应效率。目前，用户提交App反馈问卷可获得1000积分奖励。该智能体的落地，标志着商汤在AI Agent领域进一步强化了移动端与桌面端的联动能力，为行业提供了一种高效的办公自动化解决方案。",
     "发布日期": "2026-09-11",
-    "原文链接": "https://www.aibase.com/zh/news/30960",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30981",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2930c04d4ae28c1be95df490bc3bbb1c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2930c04d4ae28c1be95df490bc3bbb1c.jpg",
+    "配图仓库路径": "assets/news_images/2930c04d4ae28c1be95df490bc3bbb1c.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0911/6392471653400261121862722.png"
   },
   {
-    "资讯标题": "亚马逊Prime Video正式上线AI口型同步技术，解决跨语言配音音画不同步问题",
-    "内容": "亚马逊于9月9日正式在Prime Video平台上线AI口型同步功能，通过融合生成式AI与视觉特效技术，实现演员嘴部动作与配音音轨的精准对齐。该功能旨在解决跨语言配音中常见的音画脱节痛点，提升全球化内容分发的视听体验。目前，该技术已率先应用于德国剧集《贵族高中:我们之间的鸿沟》第一季及第二季的英语配音版，并确认将于12月9日覆盖该剧第三季。亚马逊此前已在《熙德:传奇》等12部作品中进行过AI辅助配音试验，此次正式上线标志着该技术进入规模化应用阶段。随着Meta和YouTube等平台相继布局自动配音与口型同步赛道，流媒体行业正迎来内容本地化技术的全面升级，未来该功能将逐步扩展至更多影视作品中。",
+    "资讯标题": "OpenAI正式上线GPT-Live-1 API，支持全双工实时语音交互与智能体调用",
+    "内容": "OpenAI正式上线GPT-Live-1 API，旨在为开发者提供全双工实时语音应用支持。该模型将语音理解与输出深度整合，打破了传统“语音转文字-推理-文字转语音”的链路，大幅降低系统延迟。GPT-Live-1支持打断处理、背景噪声过滤及字母数字理解，开发者可通过系统提示词调整对话风格，并配置工具调用与智能体框架。在Full Duplex Bench测试中，其表现较GPT-Realtime-2.1提升30%，并在Tau3端到端语音智能体任务中表现领先。目前该API前端语音层定价为0.05美元/分钟，后端模型费用另计。OpenAI同步新增了Quartz、Ripple、Vesper等12款全新语音选项。该模型已在Speak等平台应用，显著降低了用户思考停顿时的误打断率，为餐厅预订、客户服务等电话智能体场景提供了更自",
     "发布日期": "2026-09-11",
-    "原文链接": "https://www.aibase.com/zh/news/30961",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/49f125bc8c3dbb51e113e278c27e3d02.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/49f125bc8c3dbb51e113e278c27e3d02.jpg",
-    "配图仓库路径": "assets/news_images/49f125bc8c3dbb51e113e278c27e3d02.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308111005430160_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30973",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/192f1c269d01ae55ac393351ceca4e4c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/192f1c269d01ae55ac393351ceca4e4c.jpg",
+    "配图仓库路径": "assets/news_images/192f1c269d01ae55ac393351ceca4e4c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0911/26091108521389430822.jpg"
   },
   {
-    "资讯标题": "OpenAI升级ChatGPT语音模式，Pro套餐新增GPT-6 Astra调用权限",
-    "内容": "OpenAI 9月10日宣布升级ChatGPT语音模式，用户现可自由选择模型及推理深度，Pro套餐用户更可调用GPT-5.6 Sol或GPT-6 Astra模型。当语音模式执行网络搜索或复杂推理时，系统将自动调用指定模型，且每次转交底层文本模型处理均计为一条消息。此次更新同步调整了GPT-Live每日限额规则：Go套餐提供3小时GPT-Live-1 mini时长；Plus提供3小时GPT-Live-1时长；Pro套餐（100美元/月）提供15小时GPT-Live-1时长，Pro套餐（200美元/月）则支持无限制使用。此外，Plus与Pro用户在用尽语音额度后，将不再降级切换至GPT-Live mini，原有的“Instant/Medium/High”三档语音智能等级已正式停用。此次调整旨在简化使用逻辑，通过明确",
+    "资讯标题": "OpenAI因算力需求超载暂停ChatGPT Pro 200美元档新用户注册与升级",
+    "内容": "OpenAI于9月10日发布公告，宣布即日起暂时暂停ChatGPT Pro 200美元档（Pro 20X）的新用户注册及等级升级服务。此次调整覆盖了Free、Go、Plus及Pro 100美元档的所有用户。对于已订阅200美元档的现有用户，其当前权益暂不受影响，100美元档订阅服务也保持正常。OpenAI明确了限制细则：若现有200美元档用户主动取消订阅或降级，在当前计费周期结束后将无法再次购买该档位，该限制将持续至官方宣布恢复为止。此次调整直接反映了OpenAI在应对高阶算力需求时的资源压力，对于寻求高性能模型调用权限的开发者及重度用户而言，短期内获取该档位服务的渠道已被关闭，行业需关注后续算力扩容进度及服务恢复时间点。",
     "发布日期": "2026-09-11",
-    "原文链接": "https://www.aibase.com/zh/news/30968",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图仓库路径": "assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/30974",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0c14482b238d41c83794b59f99443cb7.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0c14482b238d41c83794b59f99443cb7.jpg",
+    "配图仓库路径": "assets/news_images/0c14482b238d41c83794b59f99443cb7.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811221128346506_0.jpg"
   }
 ]
