@@ -1,17 +1,7 @@
 [
   {
-    "资讯标题": "智谱完成50亿美元新一轮融资，将全面加速下一代GLM递归自我改进研发",
-    "内容": "智谱于9月13日宣布完成约50亿美元大额融资，资金将重点投入下一代GLM基础模型研发、完全自训练体系构建及算力基础设施建设。核心技术路径聚焦“完全自训练”，即让新一代GLM在上一代模型构建的智能环境中进行训练，形成递归式自我改进循环。研发重点涵盖自动化生成与筛选训练数据、任务环境搭建及长程推理能力提升。工程层面，智谱将持续推进国产芯片适配、深度算子开发与推理效率优化。此次融资标志着智谱在扩大模型训练规模的同时，正通过模型深度参与训练资源构建与底层工程优化，探索更高效率的技术迭代范式，为其下一代模型的算法体系与底层设施奠定完整研发基础。",
-    "发布日期": "2026-09-14",
-    "原文链接": "https://www.aibase.com/zh/news/31009",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2baaa58d47b95d420ecac165763f6ef0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2baaa58d47b95d420ecac165763f6ef0.jpg",
-    "配图仓库路径": "assets/news_images/2baaa58d47b95d420ecac165763f6ef0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202406051435016830_1.jpg"
-  },
-  {
-    "资讯标题": "微软在Microsoft 365 Copilot中正式引入SpaceXAI Grok模型",
-    "内容": "微软于9月12日宣布，正式在Microsoft 365 Copilot中集成SpaceXAI的Grok模型，该模型已在Word、Excel与PowerPoint中上线。此次接入属于Microsoft Frontier项目的一部分，目前以有限预览形式向特定客户开放，旨在评估Grok在办公场景下的实际效能。这是微软继引入Anthropic Claude系列后，进一步深化多模型架构策略的关键举措。在合规性方面，SpaceXAI已被纳入微软在线服务子处理器列表，企业IT管理员需显式开启功能方可访问，并拥有数据处理的完全控制权。目前，该预览服务暂不向欧盟、欧洲自由贸易联盟国家及英国用户开放。通过对Grok进行负责任AI审核与安全验证，微软正推动企业级AI生态从单一供应商锁定向多元模型并存的模式演进。",
+    "资讯标题": "微软在Microsoft 365 Copilot中正式集成SpaceXAI Grok模型",
+    "内容": "微软于9月12日宣布，正式在Microsoft 365 Copilot中引入SpaceXAI的Grok模型，该模型已在Word、Excel和PowerPoint中上线。此次集成作为Microsoft Frontier项目的一部分，目前向特定客户开放有限预览，旨在评估Grok在办公场景的实际效能。这是微软继引入Anthropic Claude系列后，进一步深化多模型架构、摆脱单一模型依赖的关键举措。在合规性方面，SpaceXAI已被纳入微软在线服务子处理器列表，企业IT管理员需显式开启功能方可访问，并拥有完整的数据处理控制权。需注意，预览期内该服务暂不向欧盟、欧洲自由贸易联盟国家及英国的Frontier用户开放。微软已对Grok完成负责任AI审核与安全验证，此举标志着企业级AI正加速向多元模型并存的生态演进。",
     "发布日期": "2026-09-14",
     "原文链接": "https://www.aibase.com/zh/news/31013",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
@@ -20,33 +10,43 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202602270950033335_0.jpg"
   },
   {
-    "资讯标题": "OpenAI宣布下线GPT-5.3-Codex-Spark模型，该模型仅存活7个月",
-    "内容": "OpenAI Codex负责人Tibo宣布，GPT-5.3-Codex-Spark模型将于下周正式退役。该模型于今年2月12日发布，作为OpenAI首个脱离英伟达技术栈、运行在Cerebras WSE-3晶圆级芯片上的生产模型，主打实时编程，曾实现每秒1200 Token的生成速度。然而，Spark因牺牲智能换取速度导致准确率不足，在Terminal-Bench 2.0中仅获58.4%评分，且存在API捏造等问题。随着8月13日Cerebras推出Ultrafast模式，旗舰模型GPT-5.6 Sol已能在保持高智能的同时实现极速推理，使得Spark作为“蒸馏版小模型”的定位失去意义。此次下线是OpenAI模型库激进换血的一部分，标志着“快”已从独立模型演变为旗舰模型的一项标配档位。Spark作为过渡期探路者，",
+    "资讯标题": "字节跳动发布豆包手机助手消费者版，支持指纹唤醒与跨应用Agent自动执行",
+    "内容": "字节跳动正式发布豆包手机助手消费者版，通过整合AI键、本地记忆与跨应用Agent技术，推动手机AI从问答向自动办事演进。交互方面，AI键支持指纹锁屏一键唤醒，并支持语音连续对话与屏幕识别功能。记忆能力上，助手经授权可检索相册、短信等本地数据，并接入飞书妙记实现办公场景下的录音转写与总结。Agent执行层面，该版本支持模拟点击与工具调用，覆盖电商比价、出行服务等场景，并支持多任务排队与锁屏进度查看。安全方面，采用端云结合处理，引入SAEP协议进行分层分级管理，已获ISO27001、27701、42001及等保三级认证。目前该助手延续与中兴、努比亚的合作适配。业内分析认为，该版本将系统权限、记忆与自动执行深度串联，有望成为核心AI入口，但第三方应用稳定性与敏感操作授权仍是行业面临的挑战。",
+    "发布日期": "2026-09-14",
+    "原文链接": "https://www.aibase.com/zh/news/31017",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a66c70e0228eccd53173e2b9874f772c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a66c70e0228eccd53173e2b9874f772c.jpg",
+    "配图仓库路径": "assets/news_images/a66c70e0228eccd53173e2b9874f772c.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0914/6392497898119220878090923.jpg"
+  },
+  {
+    "资讯标题": "京东发布并开源可交互视听世界模型EchoWM，JoyAI-Echo1.5实现10分钟长视频生成",
+    "内容": "京东在JDD大会上发布并开源可交互视听世界模型EchoWM，同时推出JoyAI-Echo1.5音视频生成模型。EchoWM通过原生联合生成720P视频与音效，支持第一人称导航及多轮连续探索，在WBench Navigation评测中位列第一。JoyAI-Echo1.5采用音视频Memory Bank架构，实现10分钟以上长视频持续生成，在2张H200 GPU支持下，480P分辨率下可达24fps的1:1等时生成速度，并配备Director Agent负责分镜规划与成片组装。此外，京东预告将于10月发布强化商业视频生成与物理规律呈现的JoyAI-Video模型。京东此次还展示了涵盖零售、物流、医疗、工业及政务五大领域的行业模型与智能体，旨在推动AI从数字内容生成向动态环境感知与具身智能演练演进，构建从真实数据到模",
+    "发布日期": "2026-09-14",
+    "原文链接": "https://www.aibase.com/zh/news/31024",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0c5f55c8a7ee81612328c89ec9b1008d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0c5f55c8a7ee81612328c89ec9b1008d.jpg",
+    "配图仓库路径": "assets/news_images/0c5f55c8a7ee81612328c89ec9b1008d.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0914/6392498323007741201373084.png"
+  },
+  {
+    "资讯标题": "xAI完成Grok 4.8模型训练，参数量达2.5万亿并采用全新C++软件栈",
+    "内容": "xAI首席执行官埃隆·马斯克宣布，Grok 4.8模型将于本周完成训练，随后正式进入强化学习阶段。该模型参数量达到2.5万亿，且在训练过程中采用了全新的C++软件栈。此前，Grok 4.7的发布曾因强化学习阶段的回复长度惩罚问题出现延期，模型在处理复杂任务时表现出过早放弃及缺乏自我回查能力，此次Grok 4.8的训练旨在解决此类技术瓶颈。随着2.5万亿参数规模的达成，xAI通过底层软件栈的重构，进一步提升了模型在复杂逻辑推理与任务执行中的表现，这对大模型训练效率及推理能力的优化具有重要行业参考意义。",
+    "发布日期": "2026-09-14",
+    "原文链接": "https://www.aibase.com/zh/news/31018",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
+    "配图仓库路径": "assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403290922581712_0.jpg"
+  },
+  {
+    "资讯标题": "OpenAI宣布关停GPT-5.3-Codex-Spark模型，下周正式退役",
+    "内容": "OpenAI Codex负责人Tibo宣布，史上最快模型GPT-5.3-Codex-Spark将于下周正式退役。该模型于今年2月12日发布，存续期仅7个月。作为OpenAI首个脱离英伟达技术栈、运行在Cerebras WSE-3晶圆级芯片上的生产模型，Spark曾以每秒1200 Token的极速主打实时编程。然而，其本质为“蒸馏版小模型”，在Terminal-Bench 2.0评测中准确率仅58.4%，远低于完整版GPT-5.3-Codex的77.3%，开发者反馈存在API捏造及JSON格式不稳定问题。随着8月13日Cerebras推出Ultrafast模式，旗舰模型GPT-5.6 Sol已能在保持高智能的同时实现极速推理，导致Spark因用量下滑被淘汰。此次关停标志着OpenAI模型策略的转变：速度不再由专用",
     "发布日期": "2026-09-14",
     "原文链接": "https://www.aibase.com/zh/news/31021",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
     "配图仓库路径": "assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405110933330041_0.jpg"
-  },
-  {
-    "资讯标题": "DeepSeek 传闻将发布 3 万亿参数 Code 2.0 模型，主打电脑控制功能",
-    "内容": "DeepSeek 计划于 9 月推出全新旗舰大模型 DeepSeek Code 2.0，该模型参数量将突破 3 万亿，旨在通过 AI 自动操作电脑完成复杂任务。在产品布局上，DeepSeek 近期已发布架构大幅升级的 V4.1Flash，并确认后续将推出 V4.1Pro 系列。Code 2.0 延续了 DeepSeek 开源开放的传统，其性能目标直指 Mythos 5.1 和 GPT-6 Astra 等前沿模型。相较于目前国内主流模型（如 K3 的 2.8 万亿、Qwen 3.8 Max 的 2.4 万亿及 V4 Pro 的 1.6 万亿参数），Code 2.0 在参数规模上实现显著跃升。此次产品迭代通过多路线并行策略，进一步强化了 DeepSeek 在代码生成与逻辑推理领域的竞争力，旨在通过 Agent 化的",
-    "发布日期": "2026-09-14",
-    "原文链接": "https://www.aibase.com/zh/news/31014",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/da843633b4ac67272f7891943b557d56.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/da843633b4ac67272f7891943b557d56.jpg",
-    "配图仓库路径": "assets/news_images/da843633b4ac67272f7891943b557d56.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051542238080_0.jpg"
-  },
-  {
-    "资讯标题": "Anthropic与Rum Group签署137亿美元算力采购协议",
-    "内容": "Anthropic与Rum Group正式签署一份为期六年的算力采购协议，合同总价值达137亿美元。Rum Group作为一家具备社交媒体背景及特定政治关联的企业，此次合作将进一步扩充Anthropic的算力储备。该协议是Anthropic近期大规模算力布局的重要组成部分，此前其已与Google、SpaceX及Nscale等厂商达成合作。目前，Anthropic通过多方协议累计锁定的算力规模已达14.8吉瓦，未来十年总投入预计最高可达5170亿美元。此次与Rum Group的交易旨在应对Claude Code与Cowork等产品需求激增带来的算力压力，通过持续加厚算力底座，确保其AI模型训练与推理业务的稳定性，进一步巩固其在高性能计算资源获取方面的竞争优势。",
-    "发布日期": "2026-09-14",
-    "原文链接": "https://www.aibase.com/zh/news/31019",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b4f4448480253fe844402095282b8821.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b4f4448480253fe844402095282b8821.jpg",
-    "配图仓库路径": "assets/news_images/b4f4448480253fe844402095282b8821.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901011927018011_10.jpg"
   }
 ]
