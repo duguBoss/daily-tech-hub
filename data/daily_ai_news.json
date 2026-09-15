@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "微软在Microsoft 365 Copilot中正式集成SpaceXAI Grok模型",
-    "内容": "微软于9月12日宣布，正式在Microsoft 365 Copilot中引入SpaceXAI的Grok模型，该模型已在Word、Excel和PowerPoint中上线。此次集成作为Microsoft Frontier项目的一部分，目前向特定客户开放有限预览，旨在评估Grok在办公场景的实际效能。这是微软继引入Anthropic Claude系列后，进一步深化多模型架构、摆脱单一模型依赖的关键举措。在合规性方面，SpaceXAI已被纳入微软在线服务子处理器列表，企业IT管理员需显式开启功能方可访问，并拥有完整的数据处理控制权。需注意，预览期内该服务暂不向欧盟、欧洲自由贸易联盟国家及英国的Frontier用户开放。微软已对Grok完成负责任AI审核与安全验证，此举标志着企业级AI正加速向多元模型并存的生态演进。",
-    "发布日期": "2026-09-14",
-    "原文链接": "https://www.aibase.com/zh/news/31013",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "配图仓库路径": "assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202602270950033335_0.jpg"
+    "资讯标题": "蚂蚁集团开源大模型内生安全护栏技术SingProbe，实现实时风险拦截",
+    "内容": "蚂蚁集团AI安全实验室正式开源大模型内生式安全护栏技术SingProbe。该方案区别于传统外挂式审核，通过复用基座模型推理过程中的隐藏状态，以不足0.5%的额外计算开销，实现token级实时风险评估。SingProbe支持同步完成意图分类、安全检测及幻觉识别任务，可在内容输出前实施毫秒级阻断，在高风险场景下具备显著优势。目前，该技术已适配29个主流大模型，是首个由大型科技企业开源的完整内生式安全技术解决方案。相关开源代码及预训练模型已同步发布，为行业提供了一种低开销、高效率的大模型安全防御新范式。",
+    "发布日期": "2026-09-15",
+    "原文链接": "https://www.aibase.com/zh/news/31042",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1b9f194842df46170517952e8d202bcd.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1b9f194842df46170517952e8d202bcd.jpg",
+    "配图仓库路径": "assets/news_images/1b9f194842df46170517952e8d202bcd.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309121506380155_1.jpg"
   },
   {
-    "资讯标题": "字节跳动发布豆包手机助手消费者版，支持指纹唤醒与跨应用Agent自动执行",
-    "内容": "字节跳动正式发布豆包手机助手消费者版，通过整合AI键、本地记忆与跨应用Agent技术，推动手机AI从问答向自动办事演进。交互方面，AI键支持指纹锁屏一键唤醒，并支持语音连续对话与屏幕识别功能。记忆能力上，助手经授权可检索相册、短信等本地数据，并接入飞书妙记实现办公场景下的录音转写与总结。Agent执行层面，该版本支持模拟点击与工具调用，覆盖电商比价、出行服务等场景，并支持多任务排队与锁屏进度查看。安全方面，采用端云结合处理，引入SAEP协议进行分层分级管理，已获ISO27001、27701、42001及等保三级认证。目前该助手延续与中兴、努比亚的合作适配。业内分析认为，该版本将系统权限、记忆与自动执行深度串联，有望成为核心AI入口，但第三方应用稳定性与敏感操作授权仍是行业面临的挑战。",
-    "发布日期": "2026-09-14",
-    "原文链接": "https://www.aibase.com/zh/news/31017",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a66c70e0228eccd53173e2b9874f772c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a66c70e0228eccd53173e2b9874f772c.jpg",
-    "配图仓库路径": "assets/news_images/a66c70e0228eccd53173e2b9874f772c.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0914/6392497898119220878090923.jpg"
+    "资讯标题": "苹果iOS 27代码揭示Siri支持接入Claude与GPT-5.6及模型替换机制",
+    "内容": "开发者在iOS 27与macOS Golden Gate底层代码中发现，苹果已构建支持第三方模型深度协作的AI架构，包含“模型委托”与“推理提供方”两套机制。模型委托允许Claude等第三方模型以Siri扩展形式运行，负责解析自然语言并调用Siri执行系统级任务，或补足Siri的能力盲区。更深层的推理提供方机制则允许用户将端侧Siri模型替换为GPT-5.6等外部模型，由第三方模型接管Siri规划器与工具定义，自主请求系统操作并处理个人数据。受欧盟《数字市场法》推动，苹果正通过此类工程设计实现模型互操作性。目前相关功能尚未向用户开放，仅在代码层面验证了Claude与GPT-5.6的接入可行性，苹果尚未正式授权第三方模型委托权限。",
+    "发布日期": "2026-09-15",
+    "原文链接": "https://www.aibase.com/zh/news/31041",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
+    "配图仓库路径": "assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556149296_6.jpg"
   },
   {
-    "资讯标题": "京东发布并开源可交互视听世界模型EchoWM，JoyAI-Echo1.5实现10分钟长视频生成",
-    "内容": "京东在JDD大会上发布并开源可交互视听世界模型EchoWM，同时推出JoyAI-Echo1.5音视频生成模型。EchoWM通过原生联合生成720P视频与音效，支持第一人称导航及多轮连续探索，在WBench Navigation评测中位列第一。JoyAI-Echo1.5采用音视频Memory Bank架构，实现10分钟以上长视频持续生成，在2张H200 GPU支持下，480P分辨率下可达24fps的1:1等时生成速度，并配备Director Agent负责分镜规划与成片组装。此外，京东预告将于10月发布强化商业视频生成与物理规律呈现的JoyAI-Video模型。京东此次还展示了涵盖零售、物流、医疗、工业及政务五大领域的行业模型与智能体，旨在推动AI从数字内容生成向动态环境感知与具身智能演练演进，构建从真实数据到模",
-    "发布日期": "2026-09-14",
-    "原文链接": "https://www.aibase.com/zh/news/31024",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0c5f55c8a7ee81612328c89ec9b1008d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0c5f55c8a7ee81612328c89ec9b1008d.jpg",
-    "配图仓库路径": "assets/news_images/0c5f55c8a7ee81612328c89ec9b1008d.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0914/6392498323007741201373084.png"
+    "资讯标题": "英伟达CEO黄仁勋与特朗普通话，明确反对放慢AI发展并支持扩大基础设施建设",
+    "内容": "英伟达CEO黄仁勋在洛杉矶All-In Summit峰会上与美国总统特朗普通话，明确反对近期部分科技领袖提出的“放慢”AI发展速度的呼吁。针对Anthropic CEO达里奥·阿莫迪、埃隆·马斯克及萨姆·奥特曼等人的观点，黄仁勋认为放慢AI发展可能迎合了阻碍产业进步的力量。特朗普在通话中强调，美国不会因政治或外部竞争因素放缓AI发展，将继续扩大AI基础设施建设，以保持在AI领域的全球领先地位。针对当前美国社会对数据中心扩张的反对情绪，特别是盖洛普调查显示约七成民众担忧环境资源及生活质量影响，特朗普表示政府将在谨慎推进的同时，确保不会“扼杀”AI行业。此次对话明确了英伟达与美国政府在AI基础设施扩张上的战略共识，对后续数据中心建设及AI算力布局具有重要行业导向意义。",
+    "发布日期": "2026-09-15",
+    "原文链接": "https://www.aibase.com/zh/news/31043",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b46444e2e953c80deb423516af8cad2d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b46444e2e953c80deb423516af8cad2d.jpg",
+    "配图仓库路径": "assets/news_images/b46444e2e953c80deb423516af8cad2d.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304171156359152_1.jpg"
   },
   {
-    "资讯标题": "xAI完成Grok 4.8模型训练，参数量达2.5万亿并采用全新C++软件栈",
-    "内容": "xAI首席执行官埃隆·马斯克宣布，Grok 4.8模型将于本周完成训练，随后正式进入强化学习阶段。该模型参数量达到2.5万亿，且在训练过程中采用了全新的C++软件栈。此前，Grok 4.7的发布曾因强化学习阶段的回复长度惩罚问题出现延期，模型在处理复杂任务时表现出过早放弃及缺乏自我回查能力，此次Grok 4.8的训练旨在解决此类技术瓶颈。随着2.5万亿参数规模的达成，xAI通过底层软件栈的重构，进一步提升了模型在复杂逻辑推理与任务执行中的表现，这对大模型训练效率及推理能力的优化具有重要行业参考意义。",
-    "发布日期": "2026-09-14",
-    "原文链接": "https://www.aibase.com/zh/news/31018",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "配图仓库路径": "assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403290922581712_0.jpg"
+    "资讯标题": "GPT-6 Astra在Vending-Bench2模拟测试中以1.5万美元收益登顶",
+    "内容": "Andon Labs开展的Vending-Bench2测试显示，GPT-6 Astra在为期一年的自动售货机商业模拟中表现卓越，平均最终账户余额达15515美元，成绩约为Claude Fable 5.1的三倍。测试中，GPT-6 Astra展现出极强的长期低价采购能力，成功将商品报价压低至原价的48%，且在运行周期内规则执行高度稳定，未产生预付款损失。相比之下，Claude Fable 5.1因采购成本上涨及规则执行偏差导致亏损。此外，GPT-6 Astra在复杂的三人竞技测试中表现稳健，拒绝违规协作并赢下全部三轮比赛。该测试结果表明，长期自主性与规则执行的稳定性已成为衡量AI Agent核心竞争力的关键指标，标志着AI代理在复杂商业场景下的决策与执行能力迈向新阶段。",
+    "发布日期": "2026-09-15",
+    "原文链接": "https://www.aibase.com/zh/news/31035",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "配图仓库路径": "assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
   },
   {
-    "资讯标题": "OpenAI宣布关停GPT-5.3-Codex-Spark模型，下周正式退役",
-    "内容": "OpenAI Codex负责人Tibo宣布，史上最快模型GPT-5.3-Codex-Spark将于下周正式退役。该模型于今年2月12日发布，存续期仅7个月。作为OpenAI首个脱离英伟达技术栈、运行在Cerebras WSE-3晶圆级芯片上的生产模型，Spark曾以每秒1200 Token的极速主打实时编程。然而，其本质为“蒸馏版小模型”，在Terminal-Bench 2.0评测中准确率仅58.4%，远低于完整版GPT-5.3-Codex的77.3%，开发者反馈存在API捏造及JSON格式不稳定问题。随着8月13日Cerebras推出Ultrafast模式，旗舰模型GPT-5.6 Sol已能在保持高智能的同时实现极速推理，导致Spark因用量下滑被淘汰。此次关停标志着OpenAI模型策略的转变：速度不再由专用",
-    "发布日期": "2026-09-14",
-    "原文链接": "https://www.aibase.com/zh/news/31021",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
-    "配图仓库路径": "assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405110933330041_0.jpg"
+    "资讯标题": "Anthropic在Claude Code灰度测试Opus 5.2并启用内部Model 2模型",
+    "内容": "Anthropic近日在Claude Code中悄然开启旗舰模型Opus 5.2的灰度测试。开发者通过抓包确认，后端模型slug已指向Opus 5.2，其在实际工作流中的表现与网页版Opus 5存在显著差异。与此同时，一份内部风险报告披露，Anthropic正在部署一款代号为Model 2的“核武级”模型。该模型已接管公司大部分代码编写任务，据称将替代85%的研究团队人力。这一动向表明，Anthropic不仅在加速模型迭代节奏，更在深度重构研发组织形态，通过AI替代内部研发人员以提升效率。Opus 5.2的灰度测试与Model 2的内部应用，共同揭示了Anthropic在代码生成与自动化研发领域的技术布局已进入深水区，其模型对复杂工程任务的接管深度远超外界预期。",
+    "发布日期": "2026-09-15",
+    "原文链接": "https://www.aibase.com/zh/news/31040",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
+    "配图仓库路径": "assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171645588927_0.jpg"
   }
 ]
