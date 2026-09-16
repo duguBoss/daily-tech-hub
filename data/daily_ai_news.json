@@ -1,8 +1,8 @@
 [
   {
-    "资讯标题": "苹果新一代 Apple Intelligence 上线，Siri AI 以测试版登场：能读屏、懂语境、跨设备续聊，欧盟和中国暂不可用",
-    "内容": "苹果新一代 Apple Intelligence 上线，Siri AI 以测试版登场：能读屏、懂语境、跨设备续聊，欧盟和中国暂不可用AIbase基地发布于AI新闻资讯 · 2 分钟阅读 · Sep 15, 202620苹果今天正式发布新一代 Apple Intelligence，端出了被彻底重构的 Siri AI。这个全新版本的 Siri 具备个人语境理解、广泛的世界知识、屏幕内容感知能力，以及更丰富的系统级应用操作，从今天起以英文测试版随2027系统更新推出，下个月扩展到法语、日语、韩语、葡萄牙语和西班牙语。Siri AI 最直观的变化是\"懂你\"。",
-    "发布日期": "2026-09-15",
+    "资讯标题": "苹果发布新一代 Apple Intelligence，重构版 Siri AI 开启测试",
+    "内容": "苹果正式发布新一代 Apple Intelligence，核心亮点为彻底重构的 Siri AI。该版本具备个人语境理解、屏幕内容感知及跨设备续聊能力，支持系统级应用操作与第三方生态接入。技术架构上，Apple Foundation Models 与 Google Gemini 合作定制，运行于端侧及 Private Cloud Compute。Siri AI 现以英文测试版随 iOS 27 等系统更新推出，支持 iPhone 16 及 M1 芯片以上设备。功能涵盖写作润色、照片重构、通话智能处理及健康洞察等。隐私方面，通过 Secure Exclave 硬件隔离处理音频并加密同步。需注意，Siri AI 及相关功能目前在欧盟及中国市场暂不可用，且服务器端模型功能设有每日额度，未来将提供付费扩展。该更新旨在通过系",
+    "发布日期": "2026-09-16",
     "原文链接": "https://www.aibase.com/zh/news/31053",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e1d34acb046479a5d6474c4a20caff12.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e1d34acb046479a5d6474c4a20caff12.jpg",
@@ -10,9 +10,19 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0915/6392506552794473396185796.png"
   },
   {
-    "资讯标题": "字节跳动整合豆包飞书火山引擎，加码企业级AI市场与生产力工具",
-    "内容": "字节跳动CEO梁汝波在2026飞书未来无限大会上宣布，字节已完成豆包、飞书、火山引擎三方力量的组织整合，全面加码企业AI市场。梁汝波指出，大模型Agent已进入可用阶段，但必须与模型能力及协作环境紧密融合才能产生价值。为此，字节将三者纳入统一生产力体系：豆包负责提供智能与Agent能力，处理日常办公任务；飞书作为协作平台，承载组织上下文与工作流嵌入；火山引擎则提供模型、算力及开发工具，支持企业构建专属Agent。此次调整旨在推动AI在组织内部的规模化落地，通过系统性的工作方式变革，将智能转化为生产力。字节明确将持续加大ToB领域投入，利用三方协同优势，支持企业搭建并接入各类Agent，实现人、工作环境与AI的深度协作。",
-    "发布日期": "2026-09-15",
+    "资讯标题": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+    "内容": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 15, 20266据知情人士透露，早在 Anthropic 首席执行官达里奥·阿莫代伊上周六呼吁 AI 企业协同开展技术测试与审计之前，Anthropic、OpenAI 与谷歌就已经展开磋商，计划携手成立一家 AI 行业标准机构。知情人士称，自 7 月起，三家公司的 CEO 层级之下代表已成立工作组定期开会磋商。",
+    "发布日期": "2026-09-16",
+    "原文链接": "https://www.aibase.com/zh/news/31060",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e42d697780af71f7a17601062ed29944.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e42d697780af71f7a17601062ed29944.jpg",
+    "配图仓库路径": "assets/news_images/e42d697780af71f7a17601062ed29944.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621140403_6.jpg"
+  },
+  {
+    "资讯标题": "字节跳动整合豆包、飞书与火山引擎，全面加码企业级AI市场",
+    "内容": "9月15日，字节跳动CEO梁汝波在2026飞书未来无限大会上宣布，字节已完成组织架构调整，将豆包、飞书、火山引擎三方力量整合，聚焦生产力产品并加码企业AI市场。梁汝波指出，Agent、模型与协作环境必须紧密融合才能产生价值，此次整合旨在推动AI在组织内规模化落地。具体分工上，豆包工作提供智能与Agent能力，处理写案、查询等日常任务；飞书作为协作平台，承载聊天、文档、会议及权限管理，嵌入工作流；火山引擎则提供模型、算力及开发工具，支持企业搭建专属Agent。字节认为，企业应用AI不仅是工具升级，更是工作方式的系统变革。通过此次整合，字节将持续加大ToB投入，助力企业将智能转化为生产力，应对AI时代带来的组织重构挑战。",
+    "发布日期": "2026-09-16",
     "原文链接": "https://www.aibase.com/zh/news/31054",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
@@ -20,23 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201906242208064335_2.jpg"
   },
   {
-    "资讯标题": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
-    "内容": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 15, 202631.0k开发者“pdfu”对 iOS 27 和 macOS Golden Gate 进行深入挖掘后发现，苹果已在其私有框架中把新版 Siri AI 架构设计为可与第三方 AI 模型深度协作。相关演示视频显示，Anthropic 的 Claude、OpenAI 的 GPT-5.6 模型均可接入 Siri 框架。模型委托：Claude 以扩展形式接入，能补上 Siri 做不了的事其中一项机制名为“模型委托”（Model Delegation），允许 Claude 以 Siri 扩展的形式出现，与目前内置的 ChatGPT 扩展类似。",
-    "发布日期": "2026-09-15",
-    "原文链接": "https://www.aibase.com/zh/news/31046",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6d6fdf6bf810162436e39ef9c98b3d9d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6d6fdf6bf810162436e39ef9c98b3d9d.jpg",
-    "配图仓库路径": "assets/news_images/6d6fdf6bf810162436e39ef9c98b3d9d.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302031001306596_0.jpg"
+    "资讯标题": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+    "内容": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 15, 202612上海人工智能实验室开源了基础大模型书生-S2。它的通用能力跻身开源第一梯队，而在生物、材料、化学以及多项科学长程任务上，表现已经能比肩顶尖闭源模型。架构是这次最值得说的地方。书生-S2采用 Memory Decoder 架构，引入可插拔的专业记忆模块——等于给模型装了一个能随时换装的\"外挂大脑\":需要深耕某个专业领域时插上对应记忆，不必重训整个模型，同时又不会牺牲原本的通用能力。这种设计让领域扩展和通用性第一次不再互相拉扯。",
+    "发布日期": "2026-09-16",
+    "原文链接": "https://www.aibase.com/zh/news/31056",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96be815c6ac81d9ff05a839af2088d38.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96be815c6ac81d9ff05a839af2088d38.jpg",
+    "配图仓库路径": "assets/news_images/96be815c6ac81d9ff05a839af2088d38.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556144476_5.jpg"
   },
   {
-    "资讯标题": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-    "内容": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 15, 20261今日清晨，Anthropic 的新旗舰 Opus 5.2 悄悄上线，在 Claude Code 中开启灰度测试。开发者反馈，调用时的表现与网页版 Opus 5 差异明显，有人抓包后发现后端模型 slug 已经指向 Opus 5.2——也就是说，这个尚未官宣的新版本已经跑在部分开发者的真实工作流里了。更劲爆的是同期流传出的 Anthropic 内部风险报告。报告显示，公司内部正在动用一款尚未发布的\"核武器级别\" Model 2，它已经接管了公司大部分代码编写工作，据称将替代 85% 的研究团队。",
-    "发布日期": "2026-09-15",
-    "原文链接": "https://www.aibase.com/zh/news/31040",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
-    "配图仓库路径": "assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171645588927_0.jpg"
+    "资讯标题": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
+    "内容": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 16, 20261Meta周二推出全新订阅服务Meta One，为Facebook、Instagram和WhatsApp用户提供更丰富的AI功能及高级服务，进一步推动Muse AI模型商业化。套餐支持使用Muse Image、Muse Video生成图片和视频，并可在Instagram中使用AI驱动的Restyle工具，同时增加语音效果及创意工具的使用额度。Meta One面向个人用户提供每月7.99美元的核心套餐和19.99美元的高级套餐，均包含Facebook Plus、Instagram Plus和WhatsApp Plus权益，高级版提供更广泛的AI使用权限。",
+    "发布日期": "2026-09-16",
+    "原文链接": "https://www.aibase.com/zh/news/31068",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/53dd65e81e0cc9ee6eae1ac65bed4fc1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/53dd65e81e0cc9ee6eae1ac65bed4fc1.jpg",
+    "配图仓库路径": "assets/news_images/53dd65e81e0cc9ee6eae1ac65bed4fc1.jpg",
+    "原始配图链接": "https://techcrunch.com/wp-content/uploads/2026/09/01_Plans-for-Individuals-and-AI-Power-Users_Carousel-01-1.webp?w=680"
   }
 ]
