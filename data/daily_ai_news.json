@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌发布Gemini 3.8 Live及Extended Thinking，强化实时语音推理与任务执行",
-    "内容": "谷歌正式发布Gemini 3.8 Live与Gemini 3.8 Live Extended Thinking，两款模型现已登陆Gemini API及Google AI Studio。核心升级在于支持AI在持续语音对话中后台执行工具与API调用，实现语音与思考同步处理，无需中断交流。模型支持97种语言自动检测及中途切换，并具备近实时视觉定位能力。性能方面，Extended Thinking版本在Big Bench Audio测试中达到97.7%，Gemini 3.8 Live在Speech Agent Arena排名第二。谷歌已与Agora、LiveKit、Vercel等平台达成合作，并为所有生成音频嵌入SynthID水印。此次更新标志着语音AI从单纯的“听与说”向具备持续推理与多任务处理能力的智能体形态演进，",
-    "发布日期": "2026-09-16",
-    "原文链接": "https://www.aibase.com/zh/news/31073",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9f37ad9d7c886865ebd33c5267301615.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9f37ad9d7c886865ebd33c5267301615.jpg",
-    "配图仓库路径": "assets/news_images/9f37ad9d7c886865ebd33c5267301615.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0916/6392514987318384993460612.jpg"
+    "资讯标题": "阿里千问 Qwen3.8-27B 登顶 Hugging Face 成为史上最受欢迎开源模型",
+    "内容": "9月16日，阿里千问旗下开源大模型 Qwen3.8-27B 在 Hugging Face 平台正式登顶，成为该平台历史上最受欢迎（Most likes）的开源模型。此次排名基于开发者社区的真实点赞数据，而非传统的基准测试跑分或参数规模。Qwen3.8-27B 在竞争中超越了 FLUX.1、DeepSeek-R1、Kimi-K3 以及 Meta-Llama-3 等行业头部模型。这一成绩标志着 Qwen3.8-27B 在实用性、易用性及社区口碑方面获得了开发者的高度认可，反映出其在开源生态中已具备极强的竞争优势与用户粘性，成为当前开源大模型领域的重要标杆。",
+    "发布日期": "2026-09-17",
+    "原文链接": "https://www.aibase.com/zh/news/31101",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
+    "配图仓库路径": "assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556149296_6.jpg"
   },
   {
-    "资讯标题": "苹果在iPhone 18 Pro/Max引入Apple Reference Image功能实现像素级硬件签名",
-    "内容": "苹果公司于9月15日发布Apple Reference Image功能，正式在iPhone 18 Pro及iPhone 18 Pro Max机型上引入像素级真实图像标注。该功能通过在拍摄瞬间于SEP（Secure Enclave Processor）内对关键元数据进行硬件签名，生成不可伪造的“数字负片”，旨在对抗AI伪造图片。系统通过加密时间戳服务绑定拍摄时间的上下界，确保图像来源真实且防篡改。与传统后期元数据签名不同，该技术实现了“拍时签名”，配合Private Cloud Compute验证链，为新闻机构及证据留存场景提供全链路可信验证。此举将图像真实性验证前置至传感器层面，显著提升了图像来源的可追溯性与防伪能力，为行业建立可信图像标准提供了硬件级解决方案。",
-    "发布日期": "2026-09-16",
-    "原文链接": "https://www.aibase.com/zh/news/31084",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f065d41fe8aaab72de1f068f1d0e36f4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f065d41fe8aaab72de1f068f1d0e36f4.jpg",
-    "配图仓库路径": "assets/news_images/f065d41fe8aaab72de1f068f1d0e36f4.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0916/6392515560874815935458030.png"
+    "资讯标题": "谷歌发布多语言AI新战略，Gemini 3.5支持超300种语言并推进千种语言计划",
+    "内容": "谷歌近日发布全球语言智能战略，宣布其AI技术已支持超300种语言，覆盖全球86%人口。核心技术升级包括从多步管线转向原生音频智能，使Gemini 3.5 Live Translate实现70种语言实时口语翻译，并能捕捉情感线索。Gemini 3.5 Transcribe则赋能Gboard实现高精度语音转写与跨语种切换。为覆盖低资源语种，谷歌推进“1,000种语言计划”，利用通用语音模型（USM）及WAXAL、Project Vaani等开源数据集进行训练。针对离线场景，谷歌推出TranslateGemma轻量级模型，支持55种语言在端侧高效运行。此外，谷歌还发布了基于50多种手语训练的SL2T技术，并深度整合至搜索、安卓等九大核心平台。该战略旨在通过技术手段打破语言壁垒，在尊重文化多样性的前提下，提升全球用户在",
+    "发布日期": "2026-09-17",
+    "原文链接": "https://www.aibase.com/zh/news/31094",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9f9887da5263e924469d0516a820aeec.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9f9887da5263e924469d0516a820aeec.jpg",
+    "配图仓库路径": "assets/news_images/9f9887da5263e924469d0516a820aeec.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0916/6392516913360147129084792.png"
   },
   {
-    "资讯标题": "华为小艺 Work 开启内测，支持跨端远程指挥并接管多台电脑",
-    "内容": "华为于9月16日正式开启小艺 Work 内测，该AI工作助理定位办公、开发及创意创作场景，支持鸿蒙手机、平板及Windows电脑。用户可通过鸿蒙电脑端小艺App预约，或下载Windows客户端（版本0.6.9）。核心功能包括任务自主拆解、工具调用及跨端协同，用户可远程下发任务并实时查看进度，支持同时连接多台电脑执行任务。该服务涵盖研究分析、编程及内容创作，任务执行环境可选云电脑或本地电脑。备案信息显示，小艺 Work 集成了DeepSeek、华为云盘古NLP、MiniMax、智谱及Moonshot等模型算法。会员体系采用AI点数计费，按任务复杂度消耗。华为强调，小艺 Work 的记忆功能用于跨会话同步个人偏好与工作信息，明确承诺不用于模型训练。付费会员数据保留7天，免费会员数据失效后将立即删除。",
-    "发布日期": "2026-09-16",
-    "原文链接": "https://www.aibase.com/zh/news/31083",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/87e8b2c1c084a1697362cc7a9f6e321a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/87e8b2c1c084a1697362cc7a9f6e321a.jpg",
-    "配图仓库路径": "assets/news_images/87e8b2c1c084a1697362cc7a9f6e321a.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0916/6392515529803089154164095.jpg"
+    "资讯标题": "火山引擎发布豆包大模型 2.1 Pro 0915 版本，强化 Agent 交付与多模态 Coding 能力",
+    "内容": "9月16日，火山引擎正式发布豆包大模型 2.1 Pro 0915 版本，该模型 API 已全量上线火山方舟，豆包客户端、TRAE 及 Doubao-Seed-Evolving 同步完成升级。新版本在 Agent 任务交付上强化了证据溯源与数据核验，显著降低模型幻觉，提升了金融投研等场景的分析稳健性。在多模态 Coding 层面，模型增强了跨文件工程理解能力，并利用 VLM 技术实现设计稿至代码的转换。视频推理能力实现跨帧信息整合，支持 SOP 对照与专业领域操作解析。此外，图像理解在 3D 物体识别、工程图纸及复杂表格提取方面精度提升。得益于 Token 效率优化，图像与视频推理的 Token 消耗较上一代降低 30% 以上，有效降低了高频业务场景的推理成本。",
+    "发布日期": "2026-09-17",
+    "原文链接": "https://www.aibase.com/zh/news/31090",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/38c13e061176179fc3f13e045d546db2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/38c13e061176179fc3f13e045d546db2.jpg",
+    "配图仓库路径": "assets/news_images/38c13e061176179fc3f13e045d546db2.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171658595298_0.jpg"
   },
   {
-    "资讯标题": "OpenAI 宣布 GPT-5.5 模型将于 10 月 14 日正式下线并移除",
-    "内容": "OpenAI 于 9 月 16 日正式宣布，GPT-5.5 模型将于 10 月 14 日起从 ChatGPT、ChatGPT Work 及 Codex 平台中全面下线，该调整覆盖所有订阅方案。GPT-5.5 于今年 4 月 24 日发布，核心优势在于相比 GPT-5.4 能显著降低任务执行中的 Token 消耗。针对此次模型停用，OpenAI 明确建议 Codex 用户尽快完成迁移，目前官方提供的替代方案为 GPT-5.6 Sol 或 GPT-6 Astra 模型。此次调整意味着依赖 GPT-5.5 的开发者与企业用户需在 10 月 14 日前完成模型适配与切换，以避免业务中断。OpenAI 此举旨在通过精简模型矩阵，引导用户向更高性能的 GPT-5.6 Sol 及 GPT-6 Astra 迁移，从而优化整体计",
-    "发布日期": "2026-09-16",
-    "原文链接": "https://www.aibase.com/zh/news/31070",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "配图仓库路径": "assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg"
+    "资讯标题": "Cloudflare上线Disallow AI Training设置，支持拒绝AI训练并保留搜索爬取",
+    "内容": "Cloudflare正式推出“Disallow AI Training”新设置，旨在帮助网站管理员在允许搜索引擎抓取内容的同时，精准拦截用于AI模型训练的爬虫。该功能通过识别“Accountable”（可问责）爬虫实现差异化管理，目前苹果、谷歌及微软已承诺遵守此设置。对于此前已在Training选项中选择“Block”或“Block on pages with ads”的存量客户，系统将自动迁移至该新设置。官方提醒，拦截AI训练爬虫可能对网站搜索排名产生潜在影响。此外，谷歌计划在未来几周推出Google-Extended URL层级透明度工具，苹果正开发同类工具，微软则预计于2027年初通过robots.txt协议支持拒绝AI训练。此举为网站内容所有者提供了更细粒度的版权与数据控制权，平衡了SEO流量获取与AI",
+    "发布日期": "2026-09-17",
+    "原文链接": "https://www.aibase.com/zh/news/31098",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c42ba4933e6f6859ed739365f587a783.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c42ba4933e6f6859ed739365f587a783.jpg",
+    "配图仓库路径": "assets/news_images/c42ba4933e6f6859ed739365f587a783.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005281122381754_93.jpg"
   },
   {
-    "资讯标题": "Anthropic 推出 Salesforce in Claude 插件，实现 CRM 数据深度集成与自动化管理",
-    "内容": "Anthropic 于 9 月 15 日正式发布 Salesforce in Claude 插件测试版，将 Salesforce 平台的客户数据、商机及销售管道全面接入 Claude。该插件集成 37 项销售业务功能，支持在用户授权下安全读取 Salesforce 和 Slack 业务信息，并可在人工批准后主动更新销售记录。目前，该插件已向所有付费 Claude 用户开放测试，并已在 GitLab、西门子及 Legora 等企业落地，覆盖约 7000 名一线销售人员。此举旨在通过 AI 赋能客户研究、会议准备及管道分析，显著提升销售人员的 CRM 管理效率与业务决策能力。",
-    "发布日期": "2026-09-16",
-    "原文链接": "https://www.aibase.com/zh/news/31072",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/19eac7cf8de7d3a828a9704bb12670da.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/19eac7cf8de7d3a828a9704bb12670da.jpg",
-    "配图仓库路径": "assets/news_images/19eac7cf8de7d3a828a9704bb12670da.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719377307_3.jpg"
+    "资讯标题": "Anthropic 发布 Claude 中小企业版重大升级，集成 27 个应用与 43 项工作流",
+    "内容": "Anthropic 于 2026 年 9 月 15 日宣布升级中小企业版 Claude，新增 43 项高效工作流及 27 个主流商业软件深度集成。此次更新重点覆盖 Shopify、Salesforce、TikTok、Atlassian、Zoom、Stripe 等平台，构建起涵盖财务、营销、客服与运营的完整生态矩阵。核心功能包括“每周简报”、“线索智能响应”、“智能提案生成”、“营销内容引擎”及“月末对账与结账”，旨在解决业务拓展与日常管理痛点。在安全治理方面，系统默认采用“人工审批”模式，并承诺不使用商业数据进行模型训练，严格继承企业原有权限。为降低技术门槛，Anthropic 同步启动秋季巡回培训计划，将通过线下工作坊与线上直播课程，助力中小企业实现数字化转型。",
+    "发布日期": "2026-09-17",
+    "原文链接": "https://www.aibase.com/zh/news/31092",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
+    "配图仓库路径": "assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403050858462025_0.jpg"
   }
 ]
