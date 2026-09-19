@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "智谱发布GLM-5.3-FlashX大模型，API推理速度达200tokens/s",
-    "内容": "智谱AI正式发布GLM-5.3-FlashX大模型，并同步上线API服务。该模型作为GLM-5.3-Flash的升级版，在保持原有智能水平与定价策略的基础上，通过深度推理优化，将最高输出速度提升至200tokens/s。智谱依托10万张国产芯片算力底座，旨在为企业与开发者提供高吞吐、低延迟的推理解决方案。GLM-5.3-FlashX的前身曾以“Ox Alpha”代号在海外获得广泛关注。此次升级不仅强化了模型在高并发商用场景下的竞争力，也进一步推动了国产大模型的普惠化落地。目前，开发者可通过官方API文档接入该模型，非技术用户亦可在智谱BigModel平台体验中心进行试用。",
+    "资讯标题": "智谱发布GLM-5.3-FlashX大模型，推理速度提升至200tokens/s",
+    "内容": "智谱AI正式发布GLM-5.3-FlashX大模型，并同步上线API服务。该模型作为GLM-5.3-Flash的升级版，在维持原有智能水平与定价策略的基础上，将最高输出速度提升至200tokens/s，旨在为企业与开发者提供高吞吐、低延迟的推理解决方案。GLM-5.3-Flash的前身曾以“Ox Alpha”代号在海外获得广泛关注。此次提速得益于智谱依托10万张国产芯片构建的算力底座，以及针对推理环节的深度优化。FlashX的推出进一步强化了该模型在高并发商用场景下的竞争力。目前，开发者可通过官方API文档接入使用，非技术用户亦可在智谱BigModel平台的体验中心进行测试。此次升级标志着国产大模型在推理效率优化与普惠化落地方面取得显著进展，为大规模商业化应用提供了更具性价比的算力支撑。",
     "发布日期": "2026-09-19",
     "原文链接": "https://www.aibase.com/zh/news/31160",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/04cb8e5b087b49e30d638223a8478ecc.jpg",
@@ -10,8 +10,18 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0918/6392533679824982686347952.jpg"
   },
   {
+    "资讯标题": "吴恩达公开批评AI灭绝论，称其更像科幻小说并质疑监管动机",
+    "内容": "人工智能专家吴恩达近日公开批评当前关于“AI生存风险”的论调，认为将AI可能导致人类灭绝的担忧视为科学结论缺乏依据，更接近科幻小说情节。吴恩达指出，近期AI安全议题的升温，部分源于前Anthropic和OpenAI研究员雅各布·考克森（Jacob Coxon）的辞职及指控，以及Anthropic CEO达里奥·阿莫代伊和OpenAI负责人萨姆·奥尔特曼对放缓前沿模型开发步伐的呼吁。吴恩达认为，这波公关造势可能意在影响监管走向。他强调，行业应区分可验证的安全风险与虚构的生存威胁，主张通过受控测试、工程防护和迭代改进来解决网络安全等实际问题，而非盲目减速。他呼吁业界继续推进AI发展，将技术重心聚焦于能够产生社会价值的实际应用场景，通过解决具体的工程挑战来持续改进和保护AI技术。",
+    "发布日期": "2026-09-19",
+    "原文链接": "https://www.aibase.com/zh/news/31163",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3af6e5c847fe88758314ef75b4272d72.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3af6e5c847fe88758314ef75b4272d72.jpg",
+    "配图仓库路径": "assets/news_images/3af6e5c847fe88758314ef75b4272d72.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131354273285_5.jpg"
+  },
+  {
     "资讯标题": "千问上线原生全模态模型 Qwen3.8-Omni-Flash，支持1M上下文与音视频Agent",
-    "内容": "千问于9月18日正式上线新一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频及视频输入，并具备1M长上下文处理能力。该模型重点强化音视频Agentic应用，覆盖视频剪辑、MV创作及音视频对话等复杂工作流。在30项基准评测中，其平均得分较 Qwen3.5-Omni-Plus 提升超26%。具体性能上，WildClawBench-MM提升36.5分，AliMeeting的DER/cpWER指标显著优化至3.35/17.18。官方表示其音频能力已超越 Gemini3.8Flash，且API音频输入价格降幅超98%。为支持长程任务与实时交互，千问同步开源 Qwen-Live Harness 并扩展 Qwen-MM-Plugins，在Agentic Understanding模式下，Token",
+    "内容": "千问于9月18日正式上线新一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频及视频输入，并具备1M长上下文处理能力。该模型在30项基准评测中平均得分较 Qwen3.5-Omni-Plus 提升超26%，在 WildClawBench-MM、AgenticVBench 等测试中表现显著。Qwen3.8-Omni-Flash 重点强化了以音视频为核心的 Agentic 能力，覆盖视频剪辑、影视制作及音视频对话等复杂工作流。官方表示其音频能力已超过 Gemini3.8Flash，且 API 音视频输入价格降幅超93%。为支持长程任务与实时交互，千问同步开源 Qwen-Live Harness 并扩展 Qwen-MM-Plugins，在 Agentic Understanding 模式下 T",
     "发布日期": "2026-09-19",
     "原文链接": "https://www.aibase.com/zh/news/31156",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cdb1e521066d63109942b9237fdbae8b.jpg",
