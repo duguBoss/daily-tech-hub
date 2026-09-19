@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "智谱发布GLM-5.3-FlashX大模型，推理速度提升至200tokens/s",
-    "内容": "智谱AI正式发布GLM-5.3-FlashX大模型，并同步上线API服务。该模型作为GLM-5.3-Flash的升级版，在保持原有智能水平与定价策略的基础上，将最高输出速度提升至200tokens/s，旨在为企业与开发者提供高吞吐、低延迟的推理服务。智谱依托10万张国产芯片算力底座，通过深度推理优化实现了性能突破。GLM-5.3-Flash前身曾以“Ox Alpha”代号在海外获得广泛关注，此次FlashX版本的推出，进一步强化了其在高并发商用场景下的竞争力。目前，开发者可通过官方API文档接入，普通用户也可在智谱BigModel体验中心进行试用。此次升级标志着国产大模型在推理效率优化与普惠化落地方面取得重要进展，为大规模商业化应用提供了更具性价比的算力支撑。",
+    "资讯标题": "智谱发布GLM-5.3-FlashX大模型，API推理速度达200tokens/s",
+    "内容": "智谱AI正式发布GLM-5.3-FlashX大模型，并同步上线API服务。该模型作为GLM-5.3-Flash的升级版，在保持原有智能水平与定价策略的基础上，通过深度推理优化，将最高输出速度提升至200tokens/s。智谱依托10万张国产芯片算力底座，旨在为企业与开发者提供高吞吐、低延迟的推理解决方案。GLM-5.3-FlashX的前身曾以“Ox Alpha”代号在海外获得广泛关注。此次升级不仅强化了模型在高并发商用场景下的竞争力，也进一步推动了国产大模型的普惠化落地。目前，开发者可通过官方API文档接入该模型，非技术用户亦可在智谱BigModel平台体验中心进行试用。",
     "发布日期": "2026-09-19",
     "原文链接": "https://www.aibase.com/zh/news/31160",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/04cb8e5b087b49e30d638223a8478ecc.jpg",
@@ -10,8 +10,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0918/6392533679824982686347952.jpg"
   },
   {
-    "资讯标题": "千问发布原生全模态模型 Qwen3.8-Omni-Flash，支持1M上下文与音视频Agent",
-    "内容": "千问于9月18日正式上线新一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频及视频输入，并具备1M长上下文处理能力。该模型在30项基准评测中平均得分较 Qwen3.5-Omni-Plus 提升超26%，其中 WildClawBench-MM 提升36.5分，AgenticVBench 提升22.3分。官方表示，其音视频能力已接近 Gemini3.8Flash，音频能力实现超越，且 API 音视频输入价格降幅超93%。针对长程工作流，千问扩展了 Qwen-MM-Plugins 并开源 Qwen-Live Harness，在 Agentic Understanding 模式下，Token 消耗降低约45.7%。此外，该模型在研发环节表现突出，通过自主迭代将四川话识别错误率降低约40.7%",
+    "资讯标题": "千问上线原生全模态模型 Qwen3.8-Omni-Flash，支持1M上下文与音视频Agent",
+    "内容": "千问于9月18日正式上线新一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频及视频输入，并具备1M长上下文处理能力。该模型重点强化音视频Agentic应用，覆盖视频剪辑、MV创作及音视频对话等复杂工作流。在30项基准评测中，其平均得分较 Qwen3.5-Omni-Plus 提升超26%。具体性能上，WildClawBench-MM提升36.5分，AliMeeting的DER/cpWER指标显著优化至3.35/17.18。官方表示其音频能力已超越 Gemini3.8Flash，且API音频输入价格降幅超98%。为支持长程任务与实时交互，千问同步开源 Qwen-Live Harness 并扩展 Qwen-MM-Plugins，在Agentic Understanding模式下，Token",
     "发布日期": "2026-09-19",
     "原文链接": "https://www.aibase.com/zh/news/31156",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cdb1e521066d63109942b9237fdbae8b.jpg",
@@ -21,7 +21,7 @@
   },
   {
     "资讯标题": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
-    "内容": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 18, 20261Anthropic 对外披露了内部研发自动化统计数据。截至今年 8 月，Claude 已主导公司 26% 的 AI 研发任务，而在 2 月这一占比还不足 1%，增长速度十分惊人。六级自动化框架：超 90% 达到人机协作，但没有“完全自主”Anthropic 采用六级自动化框架评估 AI 参与程度，其中 AL4 级别定义为“AI 主导”：人类只给出高层目标指令，由 AI 完成任务的绝大部分流程，人负责监督审核。目前超过 90% 的研发工作都达到人机协作及以上等级，但没有任何研发任务实现完全无人自主（AL5），AI 始终不能脱离人类监管。",
+    "内容": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 18, 20262Anthropic 对外披露了内部研发自动化统计数据。截至今年 8 月，Claude 已主导公司 26% 的 AI 研发任务，而在 2 月这一占比还不足 1%，增长速度十分惊人。六级自动化框架：超 90% 达到人机协作，但没有“完全自主”Anthropic 采用六级自动化框架评估 AI 参与程度，其中 AL4 级别定义为“AI 主导”：人类只给出高层目标指令，由 AI 完成任务的绝大部分流程，人负责监督审核。目前超过 90% 的研发工作都达到人机协作及以上等级，但没有任何研发任务实现完全无人自主（AL5），AI 始终不能脱离人类监管。",
     "发布日期": "2026-09-19",
     "原文链接": "https://www.aibase.com/zh/news/31169",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
