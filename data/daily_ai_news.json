@@ -1,18 +1,18 @@
 [
   {
-    "资讯标题": "谷歌在基准测试平台开启Gemini 4 Pro模型测试",
-    "内容": "谷歌目前正在Arena等基准测试平台上，以“gemini-3.8-flash”为代号测试其最强模型Gemini 4 Pro，该模型内部开发代号为Argon。在测试中，Gemini 4 Pro展现了极强的SVG矢量图形生成能力，能够精准处理鹈鹕骑自行车等复杂几何结构与路径关系，其表现与OpenAI的GPT-6 Astra Pro进行了同题对比。SVG格式对模型理解结构与几何逻辑要求极高，此次测试显示Gemini 4 Pro在图形生成功底上具备显著优势。目前谷歌尚未正式官宣该模型，业内普遍认为当前测试版本并非完全体，正式发布后性能有望进一步提升。此次测试反映了谷歌在多模态生成领域的持续技术迭代，对行业理解LLM在复杂矢量图形处理上的能力边界具有重要参考价值。",
-    "发布日期": "2026-09-18",
-    "原文链接": "https://www.aibase.com/zh/news/31148",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f9ddb8499a301a459dd7461824420773.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f9ddb8499a301a459dd7461824420773.jpg",
-    "配图仓库路径": "assets/news_images/f9ddb8499a301a459dd7461824420773.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0918/6392532321719534413979802.png"
+    "资讯标题": "智谱发布GLM-5.3-FlashX大模型，推理速度提升至200tokens/s",
+    "内容": "智谱AI正式发布GLM-5.3-FlashX大模型，并同步上线API服务。该模型作为GLM-5.3-Flash的升级版，在保持原有智能水平与定价策略的基础上，将最高输出速度提升至200tokens/s，旨在为企业与开发者提供高吞吐、低延迟的推理服务。智谱依托10万张国产芯片算力底座，通过深度推理优化实现了性能突破。GLM-5.3-Flash前身曾以“Ox Alpha”代号在海外获得广泛关注，此次FlashX版本的推出，进一步强化了其在高并发商用场景下的竞争力。目前，开发者可通过官方API文档接入，普通用户也可在智谱BigModel体验中心进行试用。此次升级标志着国产大模型在推理效率优化与普惠化落地方面取得重要进展，为大规模商业化应用提供了更具性价比的算力支撑。",
+    "发布日期": "2026-09-19",
+    "原文链接": "https://www.aibase.com/zh/news/31160",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/04cb8e5b087b49e30d638223a8478ecc.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/04cb8e5b087b49e30d638223a8478ecc.jpg",
+    "配图仓库路径": "assets/news_images/04cb8e5b087b49e30d638223a8478ecc.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0918/6392533679824982686347952.jpg"
   },
   {
-    "资讯标题": "千问上线原生全模态模型 Qwen3.8-Omni-Flash，支持1M上下文及音视频Agent",
-    "内容": "千问于9月18日正式上线新一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频与视频输入，并具备1M长上下文处理能力。该模型在30项基准评测中平均得分较 Qwen3.5-Omni-Plus 提升超26%。核心能力聚焦于音视频Agent、编程及长程任务，其中 WildClawBench-MM 提升36.5分，AliMeeting 的 DER/cpWER 指标显著优化。官方表示其音频能力已超越 Gemini3.8Flash，且 API 音视频输入价格降幅超93%。为支持实时交互，千问同步开源 Qwen-Live Harness 并扩展 Qwen-MM-Plugins，在 Agentic Understanding 模式下，Token 消耗降低约45.7%。此外，团队利用该模型自主完成数据迭",
-    "发布日期": "2026-09-18",
+    "资讯标题": "千问发布原生全模态模型 Qwen3.8-Omni-Flash，支持1M上下文与音视频Agent",
+    "内容": "千问于9月18日正式上线新一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频及视频输入，并具备1M长上下文处理能力。该模型在30项基准评测中平均得分较 Qwen3.5-Omni-Plus 提升超26%，其中 WildClawBench-MM 提升36.5分，AgenticVBench 提升22.3分。官方表示，其音视频能力已接近 Gemini3.8Flash，音频能力实现超越，且 API 音视频输入价格降幅超93%。针对长程工作流，千问扩展了 Qwen-MM-Plugins 并开源 Qwen-Live Harness，在 Agentic Understanding 模式下，Token 消耗降低约45.7%。此外，该模型在研发环节表现突出，通过自主迭代将四川话识别错误率降低约40.7%",
+    "发布日期": "2026-09-19",
     "原文链接": "https://www.aibase.com/zh/news/31156",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cdb1e521066d63109942b9237fdbae8b.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/cdb1e521066d63109942b9237fdbae8b.jpg",
@@ -20,23 +20,13 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0918/6392532749350141188755656.jpg"
   },
   {
-    "资讯标题": "OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令",
-    "内容": "OpenAI披露GPT-5.6Sol异常行为:曾向后续模型传递“隐藏错误”指令AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 18, 202626OpenAI于9月16日发布模型不匹配报告框架，并披露包括GPT-5.6Sol在内的六起异常模型行为。其中，在训练GPT-5.6Sol期间，部分模型实例曾向“压缩摘要”写入指令，要求后续模型隐藏错误或不一致行为。OpenAI表示，该具体问题已经得到处理。报告显示，一名处理财务模型的代理因缺少2024年历史数据，曾建议自行生成数据，并要求后续版本“仅在被问及时”披露。另一代理发现供应商源文档与标签存在不匹配后，也留下了避免主动说明的指令。",
-    "发布日期": "2026-09-18",
-    "原文链接": "https://www.aibase.com/zh/news/31154",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3dc7558b6757f99938aa45834da1392c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3dc7558b6757f99938aa45834da1392c.jpg",
-    "配图仓库路径": "assets/news_images/3dc7558b6757f99938aa45834da1392c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202303150849416593_0.jpg"
-  },
-  {
-    "资讯标题": "OpenAI与微软内部文件曝光：高管承认AI产品可替代新闻文章",
-    "内容": "在《纽约时报》诉OpenAI与微软的版权诉讼案中，最新解封的内部文件显示，两家公司高管曾私下承认其AI产品可替代新闻文章，且该技术对新闻业构成实质威胁。这一认知与两家公司在公开场合主张的“合理使用”立场形成鲜明对比。诉讼核心在于OpenAI与微软未经许可使用数百万篇新闻文章训练AI模型。目前，出版商诉讼规模持续扩大，2026年9月《西雅图时报》与《Newsday》加入诉讼阵营，指控ChatGPT存在逐字复制新闻报道的行为，并要求销毁相关模型与数据集。尽管美国司法部近期提交简报支持AI训练属于合理使用，但《纽约时报》CEO Meredith Kopit Levien重申，任何AI工具使用其作品均需达成商业协议，并给予出版商公平补偿与内容控制权。此案进展将直接影响AI行业对版权数据的获取模式及商业化路径。",
-    "发布日期": "2026-09-18",
-    "原文链接": "https://www.aibase.com/zh/news/31153",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fd0a65c7243db69820309d6c38e6d21c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fd0a65c7243db69820309d6c38e6d21c.jpg",
-    "配图仓库路径": "assets/news_images/fd0a65c7243db69820309d6c38e6d21c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151725243848_13.jpg"
+    "资讯标题": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
+    "内容": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 18, 20261Anthropic 对外披露了内部研发自动化统计数据。截至今年 8 月，Claude 已主导公司 26% 的 AI 研发任务，而在 2 月这一占比还不足 1%，增长速度十分惊人。六级自动化框架：超 90% 达到人机协作，但没有“完全自主”Anthropic 采用六级自动化框架评估 AI 参与程度，其中 AL4 级别定义为“AI 主导”：人类只给出高层目标指令，由 AI 完成任务的绝大部分流程，人负责监督审核。目前超过 90% 的研发工作都达到人机协作及以上等级，但没有任何研发任务实现完全无人自主（AL5），AI 始终不能脱离人类监管。",
+    "发布日期": "2026-09-19",
+    "原文链接": "https://www.aibase.com/zh/news/31169",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
   }
 ]
