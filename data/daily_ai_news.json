@@ -1,32 +1,42 @@
 [
   {
-    "资讯标题": "吴恩达公开回应AI末日论，主张聚焦现实工程安全而非科幻叙事",
-    "内容": "AI研究者吴恩达于9月17日接受采访时明确表示，近期关于AI可能导致人类生存风险的警告更偏向科幻叙事，而非科学判断。针对前Anthropic和OpenAI研究员Jacob Coxon离职引发的超级AI安全争论，以及Sam Altman等CEO提出的放缓前沿模型发展主张，吴恩达持不同观点。他认为，科技行业应避免被此类叙事分散注意力，转而通过受控测试、工程防护和迭代改进来解决网络安全、模型对齐及代理失控等可验证的现实安全问题。吴恩达强调，行业应继续推进AI发展，将其更多应用于产生社会价值的场景，而非将人类灭绝风险作为当前AI治理的核心判断依据。这一表态标志着AI安全讨论正从抽象的生存威胁论，向更具实操性的工程治理与前沿模型治理方向演进。",
+    "资讯标题": "迪士尼任命原Character.AI CEO阿南德为首位首席技术官",
+    "内容": "迪士尼于9月18日宣布，原Character.AI CEO卡兰迪普·阿南德（Kalidip Anand）将于10月2日正式出任公司首位首席技术官（CTO）兼高级执行副总裁，直接向CEO乔什·达马罗汇报。阿南德将统管迪士尼的企业技术、基础设施、数据与AI平台，以及产品与工程业务，旨在推动公司技术开发与交付方式的现代化。达马罗强调，阿南德在基础设施、消费科技及AI领域的复合经验，将助力迪士尼实现技术服务于创意的战略目标。在加入迪士尼前，阿南德曾带领Character.AI实现高速增长，并构建了全球活跃度极高的消费级AI用户群体。此次人事变动还伴随部分Character.AI技术团队成员的加入。值得注意的是，迪士尼此前曾因版权问题向Character.AI发出过停止侵权函，此次招揽人才标志着迪士尼在AI战略布局上的重",
     "发布日期": "2026-09-20",
-    "原文链接": "https://www.aibase.com/zh/news/31161",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e646ecd29055c89e3b78746923577760.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e646ecd29055c89e3b78746923577760.jpg",
-    "配图仓库路径": "assets/news_images/e646ecd29055c89e3b78746923577760.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405231159157322_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31182",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/380fb1b5b60975a1a0b1d6c39525f5a5.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/380fb1b5b60975a1a0b1d6c39525f5a5.jpg",
+    "配图仓库路径": "assets/news_images/380fb1b5b60975a1a0b1d6c39525f5a5.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307061550005544_0.jpg"
   },
   {
-    "资讯标题": "千问上线原生全模态模型 Qwen3.8-Omni-Flash，支持1M上下文",
-    "内容": "千问于9月18日正式上线新一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频及视频输入，并具备1M长上下文处理能力。该模型在30项基准评测中平均得分较 Qwen3.5-Omni-Plus 提升超26%。在核心能力方面，WildClawBench-MM 提升36.5分，AliMeeting 的 DER/cpWER 指标显著优化。官方表示其音视频能力接近 Gemini3.8Flash，音频能力更优，且API音视频输入价格降幅超93%。针对 Agentic 工作流，千问扩展了 Qwen-MM-Plugins 并开源 Qwen-Live Harness，在 Agentic Understanding 模式下，Token 消耗降低约45.7%。此外，同步推出的 Realtime 版本是首个支持",
+    "资讯标题": "中国电信开源星辰大模型Xing4.0-29B-A4B，实现全栈国产化适配",
+    "内容": "中国电信于9月17日正式开源星辰大模型Xing4.0-29B-A4B。该模型总参数量29B，激活参数4B，原生支持256K上下文并可扩展至512K。作为国内首个实现从昇腾芯片训练到推理部署全栈国产化的百亿参数模型，其在SuperCLUE评测中智能体能力得分93.52，位列第三。该模型通过4-bit量化将显存占用压至15GB，使RTX 3090/4090等消费级显卡即可本地运行长上下文任务。在生态兼容性方面，Xing4.0-29B-A4B支持LLaMA-Factory、MindFormers微调，适配SGLang、vLLM及KTransformers推理框架，并对OpenCode、Claude Code等Agent框架进行定向调优。目前模型已上线HuggingFace、GitHub、魔搭、Gitee及魔乐社区，为",
     "发布日期": "2026-09-20",
-    "原文链接": "https://www.aibase.com/zh/news/31156",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/cdb1e521066d63109942b9237fdbae8b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/cdb1e521066d63109942b9237fdbae8b.jpg",
-    "配图仓库路径": "assets/news_images/cdb1e521066d63109942b9237fdbae8b.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0918/6392532749350141188755656.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31179",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5afc3b3c3a405bca8f3b8d121f00e301.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5afc3b3c3a405bca8f3b8d121f00e301.jpg",
+    "配图仓库路径": "assets/news_images/5afc3b3c3a405bca8f3b8d121f00e301.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0920/6392549446577096627516583.png"
   },
   {
-    "资讯标题": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
-    "内容": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 18, 20263Anthropic 对外披露了内部研发自动化统计数据。截至今年 8 月，Claude 已主导公司 26% 的 AI 研发任务，而在 2 月这一占比还不足 1%，增长速度十分惊人。六级自动化框架：超 90% 达到人机协作，但没有“完全自主”Anthropic 采用六级自动化框架评估 AI 参与程度，其中 AL4 级别定义为“AI 主导”：人类只给出高层目标指令，由 AI 完成任务的绝大部分流程，人负责监督审核。目前超过 90% 的研发工作都达到人机协作及以上等级，但没有任何研发任务实现完全无人自主（AL5），AI 始终不能脱离人类监管。",
+    "资讯标题": "Unity发布Claude Code与OpenAI Codex插件，集成31项AI开发技能",
+    "内容": "Unity正式发布由官方维护的Claude Code与OpenAI Codex插件，旨在将AI代码代理深度集成至游戏引擎开发流程。其中Codex版本内置31项开发技能，覆盖从零创建项目到旧项目迁移至URP（通用渲染管线）等核心场景，适配Unity 6及更高版本。此前通用AI代理在处理Unity开发时常因引用过时文档导致代码错误，此次官方插件通过将代理与引擎标准开发流程直接对接，为AI提供了实时更新的官方开发指南。此举标志着Unity正式介入AI Agent在3D内容生产领域的应用标准制定，通过官方工具链降低开发者使用AI辅助开发的门槛，解决AI生成代码与引擎版本不兼容的痛点，加速AI代理在游戏开发工作流中的落地应用。",
     "发布日期": "2026-09-20",
-    "原文链接": "https://www.aibase.com/zh/news/31169",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31188",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
+    "配图仓库路径": "assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504021143517728_1.jpg"
+  },
+  {
+    "资讯标题": "OpenAI推出ChatGPT官方Word插件，支持免费用户使用并接入文档编辑",
+    "内容": "OpenAI正式推出ChatGPT官方Word插件，面向全球所有账号计划开放，包括免费用户在内均可直接体验。该插件集成于Word文档中，支持将零散笔记整理为初稿、生成长报告摘要、调整语气风格及统一术语等功能。权益方面，免费用户调用基础模型，企业用户可预览高级模型，且插件额度与Codex等工具共享。在隐私与交互边界上，插件仅读取当前文档，不与网页版ChatGPT聊天记录互通。随着ChatGPT入驻，Word文档编辑环境已形成微软Copilot、Claude for Word与ChatGPT三方并存的竞争格局。此外，ChatGPT桌面版新增Appshots功能，支持截取任意窗口内容进行分析，进一步降低了AI调用门槛。用户在文档撰写中的角色正加速从内容创作者向指令发布者与决策者转型。",
+    "发布日期": "2026-09-20",
+    "原文链接": "https://www.aibase.com/zh/news/31184",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
   }
 ]
