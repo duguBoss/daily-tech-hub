@@ -1,42 +1,52 @@
 [
   {
-    "资讯标题": "迪士尼任命原Character.AI CEO阿南德为首位首席技术官",
-    "内容": "迪士尼于9月18日宣布，原Character.AI CEO卡兰迪普·阿南德将于10月2日正式出任公司首位首席技术官（CTO）兼高级执行副总裁，直接向CEO乔什·达马罗汇报。阿南德将统管迪士尼的企业技术、基础设施、数据与AI平台，以及产品与工程业务，旨在推动公司技术开发与交付方式的现代化。达马罗强调，阿南德在基础设施、消费科技及AI领域的复合经验，将助力迪士尼实现技术服务于创意及协同运营的战略目标。除阿南德外，迪士尼还从Character.AI技术团队吸纳了部分人才。阿南德此前曾任职于Brex及Meta，在Character.AI期间主导了消费级AI平台的快速增长。此次任命标志着迪士尼在强化AI布局与技术整合方面迈出关键一步，通过引入外部AI领军人才，进一步提升其在数字娱乐与技术基础设施领域的竞争力。",
-    "发布日期": "2026-09-20",
-    "原文链接": "https://www.aibase.com/zh/news/31182",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/380fb1b5b60975a1a0b1d6c39525f5a5.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/380fb1b5b60975a1a0b1d6c39525f5a5.jpg",
-    "配图仓库路径": "assets/news_images/380fb1b5b60975a1a0b1d6c39525f5a5.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307061550005544_0.jpg"
+    "资讯标题": "阶跃全量开放Step 5 Preview模型：600B稀疏MoE架构仅激活27B",
+    "内容": "阶跃正式全量开放新一代旗舰基座模型Step 5 Preview，该模型专为Agentic任务设计，采用稀疏MoE架构，总参数量600B，每次推理仅激活27B。模型原生支持100万Token上下文窗口，并具备多模态输入能力。在Artificial Analysis的Intelligence Index中，其得分位列全球开源模型前三，单任务成本仅为Claude Opus 5的八分之一。在ALE-CLI、FrontierFinance及DRACO等高难度基准测试中，表现仅次于GPT-6 Astra或Claude Opus 5。在长周期任务实验中，Step 5 Preview在24小时内自主优化MLA GPU内核，峰值性能达508 TFLOPS，超越Claude Opus 5的493 TFLOPS。此外，该模型在编程、",
+    "发布日期": "2026-09-21",
+    "原文链接": "https://www.aibase.com/zh/news/31196",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/21c648715dd3c4007778cb5b5a9cc5ea.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/21c648715dd3c4007778cb5b5a9cc5ea.jpg",
+    "配图仓库路径": "assets/news_images/21c648715dd3c4007778cb5b5a9cc5ea.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0920/6392551469706235019093456.png"
   },
   {
-    "资讯标题": "中国电信开源星辰大模型Xing4.0-29B-A4B，实现全栈国产化适配",
-    "内容": "中国电信于9月17日正式开源星辰大模型Xing4.0-29B-A4B。该模型总参数量29B，激活参数4B，原生支持256K上下文并可扩展至512K。作为国内首个实现从昇腾芯片训练到推理部署全栈国产化的百亿参数模型，其在SuperCLUE评测中智能体能力获93.52分，位列第三。该模型经4-bit量化后显存占用仅15GB，支持RTX3090/4090等消费级显卡本地部署。在生态兼容性方面，模型支持LLaMA-Factory、MindFormers微调，适配SGLang、vLLM、KTransformers推理框架，并对OpenCode、Claude Code等Agent框架进行定向调优。目前，模型已上线HuggingFace、GitHub、魔搭、Gitee及魔乐社区，为开发者提供全栈国产化的开源技术选择。",
-    "发布日期": "2026-09-20",
-    "原文链接": "https://www.aibase.com/zh/news/31179",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5afc3b3c3a405bca8f3b8d121f00e301.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5afc3b3c3a405bca8f3b8d121f00e301.jpg",
-    "配图仓库路径": "assets/news_images/5afc3b3c3a405bca8f3b8d121f00e301.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0920/6392549446577096627516583.png"
+    "资讯标题": "微信AI团队开源知识管理框架WeKnora 0.8.0，支持沙箱执行技能",
+    "内容": "微信AI团队正式开源知识管理框架WeKnora 0.8.0版本，该框架采用MIT协议，旨在解决大模型落地中知识库仅能检索无法执行的痛点。核心功能包括：anydoc解析支持PDF、Word、Markdown等多种格式直接导入，并结合GraphRAG技术将文档转化为结构化知识图谱，提升复杂关联问题的回答准确度。最关键的创新在于Skill Sandbox Runtime，允许将知识库内容封装为“技能”，并在Docker、E2B或CubeSandbox等沙箱环境中安全执行，实现从“建议方案”到“可验证结果”的闭环。此外，WeKnora还集成了长期记忆功能，采用模块化架构，支持从个人到企业的多种应用场景，为开发者提供了一套完整的解析、组织、检索、执行及记忆处理方案。",
+    "发布日期": "2026-09-21",
+    "原文链接": "https://www.aibase.com/zh/news/31201",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3ab5fee05d3a5c9c09aa9954906e4498.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3ab5fee05d3a5c9c09aa9954906e4498.jpg",
+    "配图仓库路径": "assets/news_images/3ab5fee05d3a5c9c09aa9954906e4498.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308291638475569_2.jpg"
   },
   {
-    "资讯标题": "Unity发布Claude Code与OpenAI Codex官方插件，集成31项开发技能",
-    "内容": "Unity正式发布由官方维护的Claude Code与OpenAI Codex两款插件，旨在为AI代码代理提供成套开发技能，适配Unity 6及更高版本。其中Codex版本内置31项开发技能，覆盖从零创建新项目到旧项目迁移至URP（通用渲染管线）等核心场景。该插件通过将AI代理与游戏引擎标准开发流程深度绑定，解决了通用AI代理因依赖过时文档导致代码生成质量不佳的问题，相当于为AI提供了实时更新的官方开发指南。此举标志着Unity正式下场规范AI代理在游戏与3D内容开发中的应用标准，通过官方工具链直接赋能开发者，降低AI辅助开发的门槛，并进一步巩固其在3D内容生产AI化趋势中的技术生态位。",
-    "发布日期": "2026-09-20",
-    "原文链接": "https://www.aibase.com/zh/news/31188",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
-    "配图仓库路径": "assets/news_images/d31c874a40da853b25b61f2dbfa23f9f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504021143517728_1.jpg"
+    "资讯标题": "剪映发布全新AI能力：专业版上线剪映Hub，移动端推出AI助手小映",
+    "内容": "剪映在“AI新创作发布会”上推出多项AI功能，正式发布专业版工作台“剪映 Hub”、智能创作Agent“剪映助手”及移动端AI助手“小映”。此次更新旨在打造覆盖全场景的智能创作平台，其中“剪映 Hub”作为一站式工作台，配合新上线的“AI Ultra会员”，进一步强化了专业创作能力。移动端AI助手“小映”则支持多种创作场景，并具备AI营销专家功能。在创作者生态方面，剪映升级了“剪同款”范式，推出“模板作者AI助手”、激励计划及“剪映创作合伙人”计划，通过技术与服务双重升级，助力不同阶段创作者提升生产效率。此次发布标志着剪映从单一剪辑工具向全场景智能创作平台的战略转型，通过引入Agent技术和专业级工作台，显著降低了专业创作门槛，并为创作者提供了更完善的商业化与技术支持体系。",
+    "发布日期": "2026-09-21",
+    "原文链接": "https://www.aibase.com/zh/news/31206",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1c075a7726f3ec4ed87744056cf1f609.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1c075a7726f3ec4ed87744056cf1f609.jpg",
+    "配图仓库路径": "assets/news_images/1c075a7726f3ec4ed87744056cf1f609.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202002222214165697_3.jpg"
   },
   {
-    "资讯标题": "OpenAI推出ChatGPT官方Word插件，免费用户可直接调用AI辅助写作",
-    "内容": "OpenAI正式推出ChatGPT官方Word插件，面向全球所有账号开放，免费用户亦可直接体验。该插件集成于Word文档侧边栏，支持将笔记整理为初稿、生成长报告摘要、调整语气及统一术语等功能。付费与企业账号可进一步接入外部素材并保存常用技能，但插件额度与Codex等工具共享，且不支持跨文档读取或与网页版聊天记录互通。目前，Word文档内已形成微软Copilot、Claude for Word与ChatGPT插件三方竞争格局。此外，ChatGPT桌面版新增Appshots功能，支持截取任意软件窗口内容进行分析，进一步降低了AI调用门槛。此次更新标志着办公软件生态持续被AI重塑，用户在文档撰写中的角色正从内容创作者向指令发布者与决策者转变。",
-    "发布日期": "2026-09-20",
-    "原文链接": "https://www.aibase.com/zh/news/31184",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
+    "资讯标题": "上纬启元发布Q1与T1人形机器人，搭载自研260克鸡蛋关节",
+    "内容": "9月20日，上纬启元正式发布启元Q1与启元T1两款人形机器人。启元Q1定位个人机器人，身高88厘米，支持外观结构件定制及性格、语音自定义；启元T1则支持轮足与四足形态切换，为全球首个可变形个人机器人。硬件核心在于自研的“鸡蛋关节”，该关节重量仅260克，直径47毫米，峰值扭矩密度达85N·m/kg，属行业量产体积最小级别。生态方面，启元机器人与腾讯云达成合作，两款产品正式接入WorkBuddy，成为首个接入该平台的具身智能企业。上述产品已于8月23日开启预订，标志着消费级人形机器人在形态可变、外观定制及AI能力开放接入方向的进一步探索。",
+    "发布日期": "2026-09-21",
+    "原文链接": "https://www.aibase.com/zh/news/31205",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d4a75f8e20753c660876c6ffb27c71a5.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d4a75f8e20753c660876c6ffb27c71a5.jpg",
+    "配图仓库路径": "assets/news_images/d4a75f8e20753c660876c6ffb27c71a5.jpg",
+    "原始配图链接": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/wUkEn9n52fFJ4Bt1xcamAxAoKAaM2RXl0sxBnrFQkXFv3bHPsVjGHjeWcHqcCQAIsmzwlS5lhAlFtnePBgbuNibj7jC9Mibk8RQSRvs3RQkicU/640?wx_fmt=jpeg&amp;from=appmsg&amp;tp=wxpic&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=2"
+  },
+  {
+    "资讯标题": "OpenAI、Anthropic及DeepSeek等十余款大模型将于双节前后密集发布",
+    "内容": "双节前后全球AI行业迎来密集发布期，包括OpenAI、Anthropic、DeepSeek及阶跃星辰在内的多家厂商将推出超10款大模型。OpenAI计划补齐GPT-6全系产品，包括Sol、Terra及Luna版本；Anthropic将跳过5.1版本直接发布Opus 5.2与Fable 5.2。国内方面，阶跃星辰Step 5 Preview已率先上线。DeepSeek备受关注的V4.1 Pro预计将采用CED架构，参数量有望冲击3万亿级别。此外，阿里Qwen4系列、Kimi K3.1、小米Mimo V2.6、智谱GLM-5.5及MiniMax M3.1等模型均在排队发布中。此次密集更新涵盖了从万亿参数旗舰到本地部署小模型的全产品线，行业竞争焦点已转向架构优化与参数规模的进一步突破，这对大模型市场的算力需求及应用落",
+    "发布日期": "2026-09-21",
+    "原文链接": "https://www.aibase.com/zh/news/31200",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "配图仓库路径": "assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901101704279841_1.jpg"
   }
 ]
