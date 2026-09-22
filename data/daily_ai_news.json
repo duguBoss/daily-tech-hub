@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
-    "内容": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍AIbase基地发布于AI新闻资讯 · 2 分钟阅读 · Sep 21, 202643微软用 AI 代理将 GitHub Copilot 运行时从 TypeScript 全量移植至 Rust，整个过程只花了约 12 万美元的 token 成本加一名工程师三周时间。这个运行时比多数用户想象得更要命：它支撑着 GitHub Copilot CLI、Copilot App、SDK 和 Copilot 云 Agent，还会出现在 VS Code、Visual Studio、Excel、Outlook、PowerPoint 以及一堆微软云服务中。",
+    "资讯标题": "阿里平头哥发布AI芯片真武V900，算力较M890提升至三倍",
+    "内容": "在2026云栖大会上，阿里平头哥正式发布新一代AI芯片真武V900，其算力性能达到上一代真武M890的三倍。该芯片支持构建单一集群扩展至50万卡，旨在为前沿AI模型训练与推理提供大规模算力支撑。阿里集团CEO吴泳铭表示，自研M890 AI超节点已具备支撑2万亿参数大模型推理的能力，并于本季度在阿里云数据中心实现规模化上架。此外，阿里同步布局端侧AI生态，正式开源千问2.7B模型并推出移动端AI解决方案。通过从真武V900芯片、超大规模集群到云端基础设施及端侧模型的全栈布局，阿里正构建覆盖模型训练、推理及终端部署的完整算力体系，以满足不同场景下的AI算力需求。",
     "发布日期": "2026-09-22",
-    "原文链接": "https://www.aibase.com/zh/news/31240",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "配图仓库路径": "assets/news_images/6cac54587de973a64b1801adb05b2d26.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202602270950033335_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31260",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c7d9edadc63c9abf5e536b8b6cc12fd1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c7d9edadc63c9abf5e536b8b6cc12fd1.jpg",
+    "配图仓库路径": "assets/news_images/c7d9edadc63c9abf5e536b8b6cc12fd1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304071204222412_1.jpg"
   },
   {
-    "资讯标题": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-    "内容": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 21, 202630让人担心的事还是发生了。安全研究者扒出，OpenAI通过内部代号为bazaar的广告平台，搭起了一条跨站追踪的完整链路。当一名用户打开ChatGPT时，客户端会先生成一串随机标识符，并取走一个绑定了该用户账号的JWT令牌，随后在跨站环境下写入一个名为__obi的跨站cookie。这枚cookie就像一张贴着身份的标签，当用户日后访问那些装了OpenAI广告像素的第三方网站时，网页上的浏览动作会被直接关联回其ChatGPT账号。更值得注意的是，这种关联并不以你在ChatGPT里输入过什么为前提。",
+    "资讯标题": "腾讯发布混元图像3.5预览版：支持多图融合与2K输出，API调用仅需0.15元",
+    "内容": "腾讯正式发布混元图像3.5（Hy Image3.5 preview）预览版，在画质、排版及修图能力上较上一代提升约30%。该模型核心升级在于画字精准度与布局理解力，并支持最多5张参考图同时输入进行风格融合，最高支持2K分辨率输出。在成本控制方面，通过腾讯云API调用生成一张2K图片仅需0.15元，且实行废图不计费策略。内部盲测显示，该模型表现与Seedream 5.0 pro持平，优于多款同类竞品。目前，Hy Image3.5 preview已在元宝、ima等腾讯系产品上线，开发者可通过腾讯云API直接调用。灰度测试数据显示，用户画图需求量增长超50%，在影视分镜绘制、海报设计等场景中显著提升了批量出图效率。",
     "发布日期": "2026-09-22",
-    "原文链接": "https://www.aibase.com/zh/news/31234",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31258",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/943dfcd819a66e4ad7d52ee93bf22803.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/943dfcd819a66e4ad7d52ee93bf22803.jpg",
+    "配图仓库路径": "assets/news_images/943dfcd819a66e4ad7d52ee93bf22803.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0922/6392567073134811804741412.jpg"
   },
   {
-    "资讯标题": "OpenAI正研发自主Agent功能，对标GrokBot全天候协作并防御Meta Muse",
-    "内容": "OpenAI正在内部研发两项核心Agent功能，旨在通过自动化技术强化消费级AI生态。首先，OpenAI正开发一项对标SpaceX旗下GrokBot的新功能，该功能支持用户创建全天候在线的AI协作伙伴，能够自动处理日常事务、管理各类软件并在后台执行协同工作。其次，OpenAI内部正同步推进个人AI助手研发，直接对标Meta近期发布的Muse产品。通过这两条技术路线，OpenAI试图在消费级Agent赛道形成合围之势，不仅要实现AI对浏览器及各类应用的直接操控，还要构建能够不眠不休执行任务的数字搭档。此举标志着OpenAI正从单一的生成式AI交互向具备自主执行能力的Agent架构转型，旨在通过深度集成提升用户在复杂工作流中的自动化协作效率。",
+    "资讯标题": "小米发布并开源MiMo-V2.6系列模型，以46分登顶最强开源模型",
+    "内容": "小米于9月22日正式发布并开源MiMo-V2.6系列模型，包含MiMo-V2.6-Pro与MiMo-V2.6-Flash两款原生全模态模型，权重及技术报告已上线HuggingFace。该系列采用RSI（递归自我改进）路径，在不到6天的Live RL训练中，通过更大Batch（1568样本、1M上下文）及冻结MoE Router等技术，显著提升了任务通过率。在Artificial Analysis智能指数中，MiMo-V2.6-Pro以46分位居开源模型榜首，性能在Design Arena评测中已接近Claude Opus5与GPT-5.6Sol。该模型具备3D游戏生成、具身机械臂控制及复杂科研任务处理能力，并在Lean4中完成了Li–Yorke混沌定理的形式化。小米同步上线MiMo Desktop客户端与开放平",
     "发布日期": "2026-09-22",
-    "原文链接": "https://www.aibase.com/zh/news/31244",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "配图仓库路径": "assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171707346148_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31249",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4670fd772851c0777dab435803f6b12e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4670fd772851c0777dab435803f6b12e.jpg",
+    "配图仓库路径": "assets/news_images/4670fd772851c0777dab435803f6b12e.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0922/6392566664105742312554222.jpg"
+  },
+  {
+    "资讯标题": "华为云CodeArts全面升级，发布全球首个鸿蒙专属AI编码智能体",
+    "内容": "华为云CodeArts正式上线鸿蒙编码大模型、码道鸿蒙智能体及鸿蒙开发者实践中心，打造全球首个专为鸿蒙生态设计的AI编码智能体。核心组件鸿蒙编码大模型依托鸿蒙增强训练体系，在代码生成质量、编译通过率及Token消耗效率上实现优化。配套的鸿蒙编码智能体集成DevEco CLI等首创能力，覆盖从编码、调试到构建的全流程，实现开发环节的自动化衔接。此外，鸿蒙开发者实践中心提供云端实战环境与多场景案例，旨在降低新手开发门槛。此次升级旨在打通鸿蒙应用从创意构思到最终上架的全生命周期，通过AI辅助显著提升开发效率，解决鸿蒙生态开发者在复杂开发流程中的痛点，推动鸿蒙原生应用的高效产出。",
+    "发布日期": "2026-09-22",
+    "原文链接": "https://www.aibase.com/zh/news/31261",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8be91497157abcc04a7d5da3ff0d153e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8be91497157abcc04a7d5da3ff0d153e.jpg",
+    "配图仓库路径": "assets/news_images/8be91497157abcc04a7d5da3ff0d153e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202505130955209021_3.jpg"
   },
   {
     "资讯标题": "OpenAI成立数学与AI顾问组，神秘模型24天攻破百余项世界级数学难题",
-    "内容": "OpenAI于9月22日宣布成立“数学与AI顾问组”，并披露其8月28日启动训练的神秘模型在24天内成功解决100多个数学领域开放问题，包括纳维-斯托克斯千年大奖难题。该顾问组设在普林斯顿高等研究院，由9位顶尖数学家组成，其中包括Timothy Gowers、Martin Hairer及Edward Witten三位菲尔兹奖得主。顾问组独立于OpenAI运作，成员不领取报酬，旨在就AI数学成果的评审、传播及学术标准提供建议。针对该模型展现出的惊人进展速度，OpenAI表示正审慎评估相关数学能力的开发与部署策略，并寻求与数学界建立更充分的交流机制，以应对此前学界对AI解决数学难题可能带来的负面影响所表达的担忧。该顾问组将重点评估AI工具在支持数学研究与学习中的应用价值。",
+    "内容": "OpenAI于9月22日宣布成立“数学与AI顾问组”，并披露其8月28日启动训练的神秘模型在24天内攻克了100多个数学领域开放问题，包括纳维-斯托克斯千年大奖难题。该顾问组设在普林斯顿高等研究院，由9位顶尖数学家组成，其中包括Timothy Gowers、Martin Hairer和Edward Witten三位菲尔兹奖得主。该组织独立于OpenAI运作，成员不领取报酬，旨在就AI数学成果的评审、传播及学术标准提供建议。OpenAI表示，该模型在数学领域的突破速度令内部专家感到惊讶，公司正审慎评估如何部署相关数学能力。此举旨在回应学界对AI解决数学难题可能带来的负面影响及学术伦理的担忧，加强与数学界的沟通与协作，确保AI在基础科学领域的开发与应用符合学术规范。",
     "发布日期": "2026-09-22",
     "原文链接": "https://www.aibase.com/zh/news/31247",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f39d013c609928964b3655cf21265248.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f39d013c609928964b3655cf21265248.jpg",
     "配图仓库路径": "assets/news_images/f39d013c609928964b3655cf21265248.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271614190416_1.jpg"
-  },
-  {
-    "资讯标题": "Anthropic内测Claude Opus 5.5：跳级直冲GPT-6，百万Token价格降至4美元",
-    "内容": "Anthropic下一代模型Claude Opus 5.5疑遭内测泄露，该版本跳过5.2直接迭代，预计最快于本周二发布。性能方面，Opus 5.5在3D建模、代码重构及长程规划能力上显著优于现款Opus 5。流出的API定价显示，百万Token输入价格降至4美元，输出为20美元，缓存读取单价低至0.2美元，旨在通过高性价比抢占开发者市场。此外，Claude Fable 5.2也在同步内测，其原生JS生成及3D渲染能力大幅提升。此次突袭被视为Anthropic在IPO前夕，针对OpenAI GPT-6及Google Gemini 4竞争格局的战略布局，意在通过激进的价格策略与技术迭代，抢占开发者生态份额。",
-    "发布日期": "2026-09-22",
-    "原文链接": "https://www.aibase.com/zh/news/31231",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
-    "配图仓库路径": "assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171645588927_0.jpg"
   }
 ]
