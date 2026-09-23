@@ -1,17 +1,7 @@
 [
   {
-    "资讯标题": "苹果暂缓AI可穿戴吊坠研发，战略重心转向手表、耳机与智能眼镜",
-    "内容": "苹果已正式推迟一款配备摄像头的AI可穿戴吊坠项目。该设备原计划通过摄像头持续采集视觉数据，并由新一代Siri AI助手处理，旨在作为“iPhone常开摄像头”使用。随着吊坠项目暂缓，苹果的AI硬件战略已转向以现有生态设备为核心，重点强化Apple Watch的AI能力，并计划在2027年推出配备摄像头的新款AirPods及智能眼镜。此外，苹果正探索一款以健康管理为核心、采用无屏设计的可穿戴设备，意图与WHOOP等竞品展开竞争。此次调整标志着苹果从独立AI设备探索，转向通过Apple Watch、耳机等现有产品线，逐步扩展视觉、语音及健康监测等AI交互场景，以深化其在可穿戴领域的AI布局。",
-    "发布日期": "2026-09-23",
-    "原文链接": "https://www.aibase.com/zh/news/31292",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/557aaab861454d01b2978ad87c798b98.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/557aaab861454d01b2978ad87c798b98.jpg",
-    "配图仓库路径": "assets/news_images/557aaab861454d01b2978ad87c798b98.jpg",
-    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0923/26092310172975013901.jpg"
-  },
-  {
-    "资讯标题": "OpenAI 发布 GPT-6 Sol 与 Luna 模型，API 价格腰斩并优化编程与智能体性能",
-    "内容": "OpenAI 正式发布 GPT-6 系列新成员 GPT-6 Sol 与 GPT-6 Luna，旨在以更低成本提供接近 GPT-6 Astra 的顶尖性能。两款模型 API 价格较 GPT-5.6 降低 50%，并优化了提示缓存以提升响应速度。在核心性能上，GPT-6 Sol 在 AutomationBench 业务流程测试中优于 Claude Opus 5，且成本仅为其 9%；在 DeepSWE v1.1 编程测试中取得 68.8% 成绩，单任务成本降低约 80%。此外，两款模型在 OSWorld 2.0 计算机操作测试中表现强劲，且大幅提升了事实可靠性与对齐水平。OpenAI 为其赋予了更简洁的沟通风格，减少了冗余术语。目前，GPT-6 Sol 与 Luna 已在 ChatGPT Work、Codex 及 A",
+    "资讯标题": "OpenAI 发布 GPT-6 Sol 与 Luna 模型，API 价格腰斩并优化编程性能",
+    "内容": "OpenAI 正式发布 GPT-6 系列新模型 GPT-6 Sol 与 GPT-6 Luna，旨在以更低成本提供接近 GPT-6 Astra 的专业性能。两款模型的 API 价格较 GPT-5.6 降低 50%，并引入优化后的提示缓存以提升上下文重用效率。在性能方面，GPT-6 Sol 在 AutomationBench 业务流程测试中表现优于 Claude Opus 5，且成本仅为其 9%；在 DeepSWE v1.1 软件工程测试中，Sol 取得 68.8% 的成绩，单任务成本降低约 80%。此外，两款模型针对 AI Coding Agent 工作负载深度优化，事实可靠性提升，且沟通风格更简练。目前，GPT-6 Sol 与 Luna 已在 ChatGPT Work 和 Codex 中向 Plus、Pro、B",
     "发布日期": "2026-09-23",
     "原文链接": "https://www.aibase.com/zh/news/31284",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2b197fe7f34b2a76ffe074fd7b193b08.jpg",
@@ -20,20 +10,20 @@
     "原始配图链接": "https://upload.chinaz.com/2026/0923/6392575235437187773383204.png"
   },
   {
-    "资讯标题": "Meta承认AI代理产品Muse设计深受开源项目OpenClaw影响",
-    "内容": "Meta超级智能实验室（MSL）产品负责人Nat Friedman公开回应称，旗下AI代理产品Muse在产品设计上确实深受开源项目OpenClaw影响，但Muse代码系从零开始构建。此前，社区发现Muse与OpenClaw均包含用于定义AI个性、行为边界的SOUL.md配置文件，且内容高度相似。Friedman表示，团队在今年一月试用OpenClaw后，旨在打造一款安全可靠、易于扩展至数十亿用户的同类产品。Muse目前已登顶美国App Store排行榜，增长速度超过ChatGPT。此次事件反映出头部厂商正快速吸纳开源社区的创新设计范式，通过借鉴并优化开源项目的核心功能，加速个人AI代理产品的市场化落地。Meta官方对此未作进一步补充，仅确认了Friedman的声明。",
+    "资讯标题": "DeepSeek受邀向联合国安理会进行AI潜在风险与安全挑战闭门通报",
+    "内容": "中国人工智能初创企业DeepSeek预计将于本周向联合国安理会进行专题通报，重点阐述人工智能技术发展带来的潜在风险与安全挑战。此次闭门通报标志着国际社会对中国大模型企业在技术治理、风险防控及全球AI安全框架建设中作用的重视。随着AI技术迭代不断刷新边界，如何平衡技术创新与安全红线已成为全球多边治理机制的当务之急。DeepSeek此次受邀分享其对AI风险的研判与实践，为国际社会提供了来自中国科技企业的技术观察视角，反映出全球AI治理正加速向多边协作与深度对话阶段迈进。除DeepSeek外，包括阿里巴巴支持的月之暗面在内的多家中国AI企业也正积极参与全球范围内的通用人工智能长远挑战探讨，共同推动构建更具包容性的国际AI安全治理体系。",
     "发布日期": "2026-09-23",
-    "原文链接": "https://www.aibase.com/zh/news/31282",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/09cdf65ec6fdd9931e76f13d9bd9fd6d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/09cdf65ec6fdd9931e76f13d9bd9fd6d.jpg",
-    "配图仓库路径": "assets/news_images/09cdf65ec6fdd9931e76f13d9bd9fd6d.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202603091539424185_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31290",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
+    "配图仓库路径": "assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051542244255_2.jpg"
   },
   {
-    "资讯标题": "Claude Code v2.1.280发布：Opus 5.5成默认模型并下调百万Token定价",
-    "内容": "Anthropic正式发布Claude Code v2.1.280版本，将Claude Opus 5.5设为默认模型。该模型支持100万Token上下文窗口，定价大幅下调至每百万Token输入4美元、输出20美元，缓存读取仅需0.20美元。此次更新将Pro和Team Standard套餐的默认模型从Sonnet升级为Opus。功能层面，新增CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH环境变量，优化了安全拒绝机制及写入验证逻辑，修复了符号链接路径写入、API错误及子智能体缓存等关键Bug。针对非拉丁语系字符处理、Windows终端显示及语音听写交互进行了专项修复。VS Code端新增多项交互面板，云端侧则优化了GitHub Enterprise Server的token续期及Sla",
+    "资讯标题": "Anthropic发布Claude Opus 5.5模型：成本降40%且编程能力领先GPT-6Astra",
+    "内容": "Anthropic于9月23日发布Claude 5.5系列首款模型Opus 5.5，在提升性能的同时显著优化成本与效率。该模型默认任务成本较Opus 5降低40%，输出速度提升超30%。在9项基准测试中，Opus 5.5在7项中领先Fable 5.1及OpenAI的GPT-6Astra，尤其在编程领域表现突出，Terminal-Bench 4.0、FrontierCode v1.1及CursorBench 4.0均获最高分。长任务处理能力大幅增强，如在HAProxy从C语言到Rust的改写任务中，成本较Fable 5.1降低51%。定价方面，输入与输出Token收费分别为每百万4美元和20美元，缓存读取成本降低60%。安全层面，模型提示词注入防御成功率显著提升，且具备更强的自我报告能力。目前Opus 5.5已上",
     "发布日期": "2026-09-23",
-    "原文链接": "https://www.aibase.com/zh/news/31294",
+    "原文链接": "https://www.aibase.com/zh/news/31283",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
     "配图仓库路径": "assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
