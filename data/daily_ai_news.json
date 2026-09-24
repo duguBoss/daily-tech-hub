@@ -1,32 +1,42 @@
 [
   {
-    "资讯标题": "OpenAI 发布 GPT-6 Sol 与 Luna 模型，API 价格腰斩并优化编程性能",
-    "内容": "OpenAI 正式发布 GPT-6 系列新模型 GPT-6 Sol 与 GPT-6 Luna，旨在以更低成本提供接近 GPT-6 Astra 的专业性能。两款模型的 API 价格较 GPT-5.6 降低 50%，并引入优化后的提示缓存以提升上下文重用效率。在性能方面，GPT-6 Sol 在 AutomationBench 业务流程测试中表现优于 Claude Opus 5，且成本仅为其 9%；在 DeepSWE v1.1 软件工程测试中，Sol 取得 68.8% 的成绩，单任务成本降低约 80%。此外，两款模型针对 AI Coding Agent 工作负载深度优化，事实可靠性提升，且沟通风格更简练。目前，GPT-6 Sol 与 Luna 已在 ChatGPT Work 和 Codex 中向 Plus、Pro、B",
-    "发布日期": "2026-09-23",
-    "原文链接": "https://www.aibase.com/zh/news/31284",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2b197fe7f34b2a76ffe074fd7b193b08.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2b197fe7f34b2a76ffe074fd7b193b08.jpg",
-    "配图仓库路径": "assets/news_images/2b197fe7f34b2a76ffe074fd7b193b08.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0923/6392575235437187773383204.png"
+    "资讯标题": "阿里千问发布 Qwen-Audio-3.1 系列五款语音模型，ASR 价格最高下调 95%",
+    "内容": "阿里千问正式发布 Qwen-Audio-3.1 系列语音大模型，涵盖语音识别、合成、实时交互及全新的音频创作模型 Qwen-Audio-3.1-TTS-Next 与音频理解模型 Qwen-Audio-3.1-ASR-Next。此次升级构建了覆盖“理解—生成—交互—创作”的完整音频能力栈。性能方面，ASR 模型支持 30 种语言及 16 种中文方言，首字响应约 160 毫秒，平均 CER 降至 4.55%。TTS-Next 支持 48kHz 输出及人声、音效、环境音的统一生成。实时交互模型采用全双工架构，支持随时插话及多语言切换，并已接入 Qoder、千问办公等 Agent 及多款智能眼镜硬件。为降低门槛，全线模型大幅降价，其中 TTS 降约 70%、Realtime 降约 85%、ASR 降幅达 95%。该系列",
+    "发布日期": "2026-09-24",
+    "原文链接": "https://www.aibase.com/zh/news/31308",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/78a43b17a9331457b5b410836d1f0c3e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/78a43b17a9331457b5b410836d1f0c3e.jpg",
+    "配图仓库路径": "assets/news_images/78a43b17a9331457b5b410836d1f0c3e.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0923/6392577662414276869888079.png"
   },
   {
-    "资讯标题": "DeepSeek受邀向联合国安理会进行AI潜在风险与安全挑战闭门通报",
-    "内容": "中国人工智能初创企业DeepSeek预计将于本周向联合国安理会进行专题通报，重点阐述人工智能技术发展带来的潜在风险与安全挑战。此次闭门通报标志着国际社会对中国大模型企业在技术治理、风险防控及全球AI安全框架建设中作用的重视。随着AI技术迭代不断刷新边界，如何平衡技术创新与安全红线已成为全球多边治理机制的当务之急。DeepSeek此次受邀分享其对AI风险的研判与实践，为国际社会提供了来自中国科技企业的技术观察视角，反映出全球AI治理正加速向多边协作与深度对话阶段迈进。除DeepSeek外，包括阿里巴巴支持的月之暗面在内的多家中国AI企业也正积极参与全球范围内的通用人工智能长远挑战探讨，共同推动构建更具包容性的国际AI安全治理体系。",
-    "发布日期": "2026-09-23",
-    "原文链接": "https://www.aibase.com/zh/news/31290",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
-    "配图仓库路径": "assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051542244255_2.jpg"
+    "资讯标题": "谷歌发布 Gemini 3.8 Flash TTS 系列模型，支持自然语言定制与 30 秒声音复刻",
+    "内容": "谷歌于9月23日正式推出 Gemini 3.8 Flash TTS 与 Gemini 3.8 Flash-Lite TTS 两款文本转语音模型。Gemini 3.8 Flash TTS 侧重角色设计，支持通过自然语言描述定制声音，并能精准控制语气、语速及口音，同时具备仅需 30 秒音频样本即可完成高效声音复刻的能力。Gemini 3.8 Flash-Lite TTS 则专注于大规模音频生成与高效配音场景。两款模型均支持超过 100 种语言和方言，并内置 2000 多种现成声音供开发者开箱即用。此次更新旨在为全球语音应用开发与内容创作提供更精细的底层算力支撑，满足开发者在个性化配音及大规模音频处理方面的多元化需求。",
+    "发布日期": "2026-09-24",
+    "原文链接": "https://www.aibase.com/zh/news/31320",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
   },
   {
-    "资讯标题": "Anthropic发布Claude Opus 5.5模型：成本降40%且编程能力领先GPT-6Astra",
-    "内容": "Anthropic于9月23日发布Claude 5.5系列首款模型Opus 5.5，在提升性能的同时显著优化成本与效率。该模型默认任务成本较Opus 5降低40%，输出速度提升超30%。在9项基准测试中，Opus 5.5在7项中领先Fable 5.1及OpenAI的GPT-6Astra，尤其在编程领域表现突出，Terminal-Bench 4.0、FrontierCode v1.1及CursorBench 4.0均获最高分。长任务处理能力大幅增强，如在HAProxy从C语言到Rust的改写任务中，成本较Fable 5.1降低51%。定价方面，输入与输出Token收费分别为每百万4美元和20美元，缓存读取成本降低60%。安全层面，模型提示词注入防御成功率显著提升，且具备更强的自我报告能力。目前Opus 5.5已上",
-    "发布日期": "2026-09-23",
-    "原文链接": "https://www.aibase.com/zh/news/31283",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
-    "配图仓库路径": "assets/news_images/0bc19e8d5c77782b01d62f0e2d95bcf9.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171645588927_0.jpg"
+    "资讯标题": "Meta发布Ray-Ban Meta Audio无摄像头AI眼镜及第三代带摄版新品",
+    "内容": "Meta在Connect 2026大会发布首款无摄像头AI眼镜Ray-Ban Meta Audio及第三代Ray-Ban Meta。Ray-Ban Meta Audio定价349美元起，舍弃视觉模块以解决隐私争议，专注音频交互、通话及语音翻译，重量降至43克，续航达12小时。第三代带摄像头版升级至1200万像素镜头与6麦克风阵列，支持3K视频录制。全系产品均接入AI助手Muse，并预告杜比全景声捕捉、听力增强及“私密处理”等功能。Ray-Ban Meta Audio将于10月13日开启预订，提供23种镜片与色彩组合。Meta通过纯音频与视觉全功能并行的双轨战略，旨在应对隐私挑战并强化AI可穿戴硬件生态布局。",
+    "发布日期": "2026-09-24",
+    "原文链接": "https://www.aibase.com/zh/news/31318",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c084ef670a42e0e6388d4ae203ffbcfd.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c084ef670a42e0e6388d4ae203ffbcfd.jpg",
+    "配图仓库路径": "assets/news_images/c084ef670a42e0e6388d4ae203ffbcfd.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0924/6392583712669247747966539.png"
+  },
+  {
+    "资讯标题": "Anthropic工程师揭秘Claude写作退化原因：模型训练偏向AI间沟通",
+    "内容": "Anthropic工程师Jackson Kernion近日公开回应了用户关于Claude自Opus 4.6版本以来写作风格退化、出现“Claude腔”的反馈。技术根源在于模型研发重点向数学推理与编程能力倾斜，训练过程中大量引入了面向其他AI模型撰写的技术解释与代码注释，导致模型逐渐习得“写给AI而非人类看”的表达习惯，造成人类读者阅读体验下降。从强化学习机制分析，奖励函数过度侧重AI对信息的解析效果，从而牺牲了人类习惯的叙事节奏与可读性。目前，Anthropic已在最新的Opus 5.5版本中优化了这一问题，其写作表现被评价为Opus 4.6以来最佳，但团队表示完全超越早期版本水平的改进工作仍在持续推进中。",
+    "发布日期": "2026-09-24",
+    "原文链接": "https://www.aibase.com/zh/news/31319",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6a8d756aad1139564b9a989f3b5ce6ff.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6a8d756aad1139564b9a989f3b5ce6ff.jpg",
+    "配图仓库路径": "assets/news_images/6a8d756aad1139564b9a989f3b5ce6ff.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312281011271411_0.jpg"
   }
 ]
