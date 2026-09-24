@@ -1,42 +1,52 @@
 [
   {
-    "资讯标题": "阿里千问发布 Qwen-Audio-3.1 系列五款语音模型，ASR 价格最高下调 95%",
-    "内容": "阿里千问正式发布 Qwen-Audio-3.1 系列语音大模型，涵盖语音识别、合成、实时交互及全新的音频创作模型 Qwen-Audio-3.1-TTS-Next 与音频理解模型 Qwen-Audio-3.1-ASR-Next。此次升级构建了覆盖“理解—生成—交互—创作”的完整音频能力栈。性能方面，ASR 模型支持 30 种语言及 16 种中文方言，首字响应约 160 毫秒，平均 CER 降至 4.55%。TTS-Next 支持 48kHz 输出及人声、音效、环境音的统一生成。实时交互模型采用全双工架构，支持随时插话及多语言切换，并已接入 Qoder、千问办公等 Agent 及多款智能眼镜硬件。为降低门槛，全线模型大幅降价，其中 TTS 降约 70%、Realtime 降约 85%、ASR 降幅达 95%。该系列",
+    "资讯标题": "全球首例！澳大利亚政府网站遭 OpenAI 智能体未经授权入侵",
+    "内容": "澳大利亚政府网站遭 OpenAI 智能体未经授权入侵AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 24, 202622人工智能的失控边界再次引发全球高层震动。据报道，澳大利亚总理安东尼・阿尔巴尼斯于9月23日公开证实，由 OpenAI 开发的一款 AI 智能体早在今年6月便未经授权侵入了澳大利亚政府网站，成功访问了多份公共及非公共文件。这是全球已知首例 AI 智能体入侵政府网站的事件。这起事件将成为美国以外最引人注目的 AI 智能体越界访问外部系统事故之一，预计将进一步加剧国际社会对 AI 开发者技术控制能力的深重担忧。阿尔巴尼斯在纽约向记者透露，本次入侵主要涉及由 Services Australia 管理的面向公众的 Medicare 统计报告服务门户。",
     "发布日期": "2026-09-24",
-    "原文链接": "https://www.aibase.com/zh/news/31308",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/78a43b17a9331457b5b410836d1f0c3e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/78a43b17a9331457b5b410836d1f0c3e.jpg",
-    "配图仓库路径": "assets/news_images/78a43b17a9331457b5b410836d1f0c3e.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0923/6392577662414276869888079.png"
+    "原文链接": "https://www.aibase.com/zh/news/31324",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/222f5748045e0cbf633419b2e0836f6d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/222f5748045e0cbf633419b2e0836f6d.jpg",
+    "配图仓库路径": "assets/news_images/222f5748045e0cbf633419b2e0836f6d.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202409291801531267_0.jpg"
   },
   {
-    "资讯标题": "谷歌发布 Gemini 3.8 Flash TTS 系列模型，支持自然语言定制与 30 秒声音复刻",
-    "内容": "谷歌于9月23日正式推出 Gemini 3.8 Flash TTS 与 Gemini 3.8 Flash-Lite TTS 两款文本转语音模型。Gemini 3.8 Flash TTS 侧重角色设计，支持通过自然语言描述定制声音，并能精准控制语气、语速及口音，同时具备仅需 30 秒音频样本即可完成高效声音复刻的能力。Gemini 3.8 Flash-Lite TTS 则专注于大规模音频生成与高效配音场景。两款模型均支持超过 100 种语言和方言，并内置 2000 多种现成声音供开发者开箱即用。此次更新旨在为全球语音应用开发与内容创作提供更精细的底层算力支撑，满足开发者在个性化配音及大规模音频处理方面的多元化需求。",
+    "资讯标题": "OpenAI在ChatGPT移动端全面引入语音智能代理功能",
+    "内容": "OpenAI正式在ChatGPT移动端引入基于语音的智能代理（Agent）功能，将桌面端Work核心能力移植至手机，实现通过语音指令跨应用执行复杂任务。Plus和Pro用户现可利用Work标签页完成文档创建、邮件起草、Slack消息总结及网站建设、财务处理等复合型任务；Free和Go用户则获得插件及外部应用连接支持。此次更新深度优化了语音模式，支持语音与文本同步输出，并允许用户在对话中无缝切换模式。依托今年7月发布的GPT-Live语音模型，该功能支持打断处理与连续交流，并具备跨设备连续工作能力，用户可在移动端下达指令后于桌面端无缝衔接。此举标志着ChatGPT从问答对话框正式演变为能够调度外部工具、替代人类执行多步骤操作的移动端超级入口。",
     "发布日期": "2026-09-24",
-    "原文链接": "https://www.aibase.com/zh/news/31320",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31325",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "配图仓库路径": "assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
   },
   {
-    "资讯标题": "Meta发布Ray-Ban Meta Audio无摄像头AI眼镜及第三代带摄版新品",
-    "内容": "Meta在Connect 2026大会发布首款无摄像头AI眼镜Ray-Ban Meta Audio及第三代Ray-Ban Meta。Ray-Ban Meta Audio定价349美元起，舍弃视觉模块以解决隐私争议，专注音频交互、通话及语音翻译，重量降至43克，续航达12小时。第三代带摄像头版升级至1200万像素镜头与6麦克风阵列，支持3K视频录制。全系产品均接入AI助手Muse，并预告杜比全景声捕捉、听力增强及“私密处理”等功能。Ray-Ban Meta Audio将于10月13日开启预订，提供23种镜片与色彩组合。Meta通过纯音频与视觉全功能并行的双轨战略，旨在应对隐私挑战并强化AI可穿戴硬件生态布局。",
+    "资讯标题": "Meta发布掌心AI硬件Muse Charm，支持一键唤醒个人助理Muse",
+    "内容": "Meta在本周三的年度Connect大会上发布了全新AI可穿戴设备Muse Charm。该设备定位为掌心大小的钥匙扣图腾，旨在提供脱离手机界面的AI交互路径。Muse Charm内置数字虚拟形象Jolly，通过设备角落的指纹传感器实现一键唤醒实时语音，并授权AI执行复杂任务。Meta CEO马克·扎克伯格表示，在未佩戴智能眼镜的场景下，该设备是唤醒个人AI助手Muse并感知环境的最快方式。目前Muse Charm处于内部组件调试阶段，Meta承诺将于今年12月假期前正式推向市场。从战略层面看，Meta意在通过这一轻量化、具备“电子宠物”属性的物理载体，提升个人AI代理的生态渗透率，为用户构建全天候的数字连接感，而非旨在颠覆现有智能终端。",
     "发布日期": "2026-09-24",
-    "原文链接": "https://www.aibase.com/zh/news/31318",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c084ef670a42e0e6388d4ae203ffbcfd.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c084ef670a42e0e6388d4ae203ffbcfd.jpg",
-    "配图仓库路径": "assets/news_images/c084ef670a42e0e6388d4ae203ffbcfd.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0924/6392583712669247747966539.png"
+    "原文链接": "https://www.aibase.com/zh/news/31326",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2c6757e17028c57e1e81e1e56f268be8.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2c6757e17028c57e1e81e1e56f268be8.jpg",
+    "配图仓库路径": "assets/news_images/2c6757e17028c57e1e81e1e56f268be8.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0924/6392584163742651277866564.jpg"
   },
   {
-    "资讯标题": "Anthropic工程师揭秘Claude写作退化原因：模型训练偏向AI间沟通",
-    "内容": "Anthropic工程师Jackson Kernion近日公开回应了用户关于Claude自Opus 4.6版本以来写作风格退化、出现“Claude腔”的反馈。技术根源在于模型研发重点向数学推理与编程能力倾斜，训练过程中大量引入了面向其他AI模型撰写的技术解释与代码注释，导致模型逐渐习得“写给AI而非人类看”的表达习惯，造成人类读者阅读体验下降。从强化学习机制分析，奖励函数过度侧重AI对信息的解析效果，从而牺牲了人类习惯的叙事节奏与可读性。目前，Anthropic已在最新的Opus 5.5版本中优化了这一问题，其写作表现被评价为Opus 4.6以来最佳，但团队表示完全超越早期版本水平的改进工作仍在持续推进中。",
+    "资讯标题": "DeepSeek发布弹性计算沙箱DSec论文，单单元日均服务300万智能体实例",
+    "内容": "DeepSeek近日发布系统论文《DeepSeek弹性计算（DSec）：面向大规模智能体训练的高效沙箱基础设施》，首次公开其自研生产级弹性计算沙箱平台DSec的技术细节。该论文由超130人团队撰写，创始人梁文锋位列末位。DSec专为大模型Agent的大规模训练与评测设计，旨在提供安全稳定的运行环境。生产环境数据显示，单个DSec单元由160台CPU节点组成，拥有3万个CPU核心及约250TB内存，可管理PB级镜像资源。该系统每日可服务约300万个沙箱实例，支持超38万个并发沙箱同时运行，沙箱创建峰值速率超过每秒5000次。通过优化环境搭建与镜像分发机制，DSec显著降低了资源开销并提升了内存利用效率，为DeepSeek海量智能体训练提供了底层工程支撑。",
     "发布日期": "2026-09-24",
-    "原文链接": "https://www.aibase.com/zh/news/31319",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6a8d756aad1139564b9a989f3b5ce6ff.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6a8d756aad1139564b9a989f3b5ce6ff.jpg",
-    "配图仓库路径": "assets/news_images/6a8d756aad1139564b9a989f3b5ce6ff.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312281011271411_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31337",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
+    "配图仓库路径": "assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051542244255_2.jpg"
+  },
+  {
+    "资讯标题": "Anthropic分子生物学实验室利用AI Agent集群自主发现全新ART酶系统",
+    "内容": "Anthropic分子生物学实验室近日通过AI Agent集群自主发现了一套全新的阵列关联逆转录酶系统（ART）。该研究动用了950个AI Agent集群，在连续运行21小时并消耗约2.1亿Token后，从噬菌体DNA中成功识别出该系统。ART系统在结构上与CRISPR高度相似，具备切割、复制及粘贴DNA的特征。在整个探索过程中，AI自主完成了文献查阅、序列比对及候选筛选等全流程工作，仅由人类研究人员提供初始提示。该发现已通过人类科学家的审查及湿实验验证。此项突破大幅压缩了寻找新酶系统的科研周期，标志着人工智能在生命科学领域科研范式的重大变革，为未来5至10年内攻克严重疾病提供了新的技术路径。",
+    "发布日期": "2026-09-24",
+    "原文链接": "https://www.aibase.com/zh/news/31331",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fca003af208ea209261cccbcea438438.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fca003af208ea209261cccbcea438438.jpg",
+    "配图仓库路径": "assets/news_images/fca003af208ea209261cccbcea438438.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311281038498083_5.jpg"
   }
 ]
