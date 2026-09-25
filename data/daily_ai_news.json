@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "OpenAI在ChatGPT移动端引入语音智能代理功能，支持跨应用执行复杂任务",
-    "内容": "OpenAI正式在ChatGPT移动端全面引入基于语音的智能代理（Agent）功能，将桌面端Work核心能力移植至手机，实现通过语音指令跨应用执行复杂任务。Plus和Pro用户现可通过语音创建文档、起草邮件、总结Slack消息，甚至调用云端浏览器处理财务任务；Free和Go用户则获得插件及外部应用连接支持。此次更新深度优化了语音模式，支持语音与文字模式的无缝切换，并提供跨设备连续工作能力，用户可在手机下达指令后于电脑端收尾。该功能基于7月推出的GPT-Live语音模型，突破了自然对话与连续交流瓶颈。此次升级标志着ChatGPT从单一问答工具演变为能调度外部工具、替代人类执行多步骤操作的移动端“超级入口”，显著提升了移动场景下的办公效率与多端协同体验。",
-    "发布日期": "2026-09-24",
-    "原文链接": "https://www.aibase.com/zh/news/31325",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "配图仓库路径": "assets/news_images/97e0da57e2103d5ec8cf42c69e3ccbf6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg"
+    "资讯标题": "谷歌确认新一代旗舰模型Gemini 4已进入后训练阶段，有望远早于年底发布",
+    "内容": "谷歌DeepMind负责人科拉伊·卡武克奥卢在AI Agenda Live峰会上确认，新一代旗舰模型Gemini 4已进入后训练初期阶段，有望远早于年底推出。谷歌已跳过此前传闻的Gemini 3.5 Pro，将研发重心全面转向Gemini 4。目前，该模型正处于防护机制开发与安全测试阶段，谷歌工程师已在内部将其应用于Antigravity AI编程工具。卡武克奥卢表示，团队对Gemini 4的早期测试结果感到振奋，未来将保持快速迭代。此次调整反映了谷歌在经历Gemini 3.1及Flash系列模型发布后的战略重心转移，即通过集中资源研发下一代旗舰，以巩固其在LLM领域的技术前沿地位。对于行业关注的AGI议题，谷歌更倾向于聚焦构建可信赖的智能体。",
+    "发布日期": "2026-09-25",
+    "原文链接": "https://www.aibase.com/zh/news/31350",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
   },
   {
-    "资讯标题": "OpenAI CEO 联合国演讲：AI 可能像文艺复兴，也可能引发工业革命式动荡",
-    "内容": "OpenAI CEO 联合国演讲：AI 可能像文艺复兴，也可能引发工业革命式动荡AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 24, 202612OpenAI CEO 萨姆·奥尔特曼（Sam Altman）在联合国安理会就 AI 议题发表讲话，讨论 AI 发展带来的机遇与风险，并呼吁加强国际合作，建立针对前沿 AI 系统的能力评估、风险评估、安全防护和人类监督标准。他表示，随着 AI 能力快速提升，技术的潜在收益与风险都变得更加直接显现——AI 可能更像一场充满创造力与发现的文艺复兴，也可能像一场引发动荡与混乱的工业革命。两条主线：失控风险与权力集中奥尔特曼将 AI 可能带来的严重问题概括为两个方向。",
-    "发布日期": "2026-09-24",
-    "原文链接": "https://www.aibase.com/zh/news/31328",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2200ca057a5c09c9a10950ab6e814963.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2200ca057a5c09c9a10950ab6e814963.jpg",
-    "配图仓库路径": "assets/news_images/2200ca057a5c09c9a10950ab6e814963.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202411221551268104_0.jpg"
+    "资讯标题": "智元第两万台远征A3 Ultra下线交付长隆，六千台半年填满，具身机器人第一次在主题乐园里常态上岗",
+    "内容": "智元第两万台远征A3 Ultra下线交付长隆，六千台半年填满，具身机器人第一次在主题乐园里常态上岗AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 24, 202623智元把具身智能的产能刻度又往前推了一大格。9月24日，第20000台通用具身智能机器人远征A3Ultra在横琴长隆飞船乐园正式走下产线，并当场交到长隆集团手里。从今年3月跨过万台门槛到如今的两万台，这家公司只用了约6个月——产能爬坡的曲线，已经明显进入了加速段。同一天，由智元与长隆联手打造的全球首个大规模具身智能主题乐园在横琴长隆飞船乐园启幕，超过300台智元全系机器人开始在园区里常态化上岗，扎进游客互动、导览、演艺和科普研学等场景。",
+    "发布日期": "2026-09-25",
+    "原文链接": "https://www.aibase.com/zh/news/31344",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a4bff8a49fa33f8572fdc481f881ca00.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a4bff8a49fa33f8572fdc481f881ca00.jpg",
+    "配图仓库路径": "assets/news_images/a4bff8a49fa33f8572fdc481f881ca00.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0924/26092402265553120304.jpg"
   },
   {
-    "资讯标题": "Meta发布掌心AI可穿戴设备Muse Charm，支持一键唤醒个人助理",
-    "内容": "Meta在年度Connect大会上发布了全新AI可穿戴设备Muse Charm，旨在提供脱离手机界面的个人AI代理Muse连接方案。该设备采用掌心大小的钥匙扣形态，配备小型显示屏以展示名为Jolly的数字虚拟形象，具备现代版“电子宠物”风格。交互逻辑上，用户通过轻触设备角落的指纹传感器即可一键唤醒实时语音并授权AI执行任务。Meta CEO马克·扎克伯格表示，在未佩戴智能眼镜的场景下，这是唤醒个人AI助手并感知环境的最快方式。目前Muse Charm内部组件处于最终调试阶段，Meta承诺将于今年12月假期前正式推向市场。该产品作为Meta在可穿戴领域的低风险试水，旨在通过轻量化物理载体提升用户全天候的数字连接感，并推动底层AI代理系统的生态渗透。",
-    "发布日期": "2026-09-24",
-    "原文链接": "https://www.aibase.com/zh/news/31326",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2c6757e17028c57e1e81e1e56f268be8.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2c6757e17028c57e1e81e1e56f268be8.jpg",
-    "配图仓库路径": "assets/news_images/2c6757e17028c57e1e81e1e56f268be8.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0924/6392584163742651277866564.jpg"
+    "资讯标题": "OpenAI在ChatGPT移动端上线语音智能体功能，支持语音指令执行文档与邮件处理",
+    "内容": "OpenAI正式在ChatGPT移动端推出基于语音的智能体功能，旨在将语音交互从简单的问答模式升级为端到端的任务执行。Pro和Plus订阅用户现可通过语音指令直接创建文档、撰写电子邮件、总结Slack消息，并支持创建网站、制作PPT及调用云端浏览器等进阶操作。Free和Go订阅用户则可通过插件连接应用实现相关功能。此次更新强化了ChatGPT的跨平台协作能力，Plus用户可在手机端处理任务后无缝切换至电脑端继续工作，并支持在文本与语音输出间灵活切换。这一升级标志着ChatGPT在移动端生产力场景的深度落地，通过语音交互直接驱动复杂任务处理，显著提升了用户在移动环境下的办公效率。",
+    "发布日期": "2026-09-25",
+    "原文链接": "https://www.aibase.com/zh/news/31347",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dd51c491a1a376446f6771e9bdc289bb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dd51c491a1a376446f6771e9bdc289bb.jpg",
+    "配图仓库路径": "assets/news_images/dd51c491a1a376446f6771e9bdc289bb.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0924/6392585808799673989951595.png"
   },
   {
-    "资讯标题": "DeepSeek发布弹性计算沙箱DSec论文，支持大规模智能体训练",
-    "内容": "DeepSeek发布系统论文《DeepSeek弹性计算（DSec）：面向大规模智能体训练的高效沙箱基础设施》，首次公开其自研生产级弹性计算沙箱平台DSec的技术细节。该论文由超130人团队撰写，创始人梁文锋位列末位。DSec专为大模型智能体（Agent）的大规模训练与评测设计，旨在提供安全稳定的运行环境。生产环境数据显示，单个DSec单元由160台CPU节点组成，拥有3万个CPU核心及约250TB内存，可管理PB级镜像资源。该平台每日可服务约300万个沙箱实例，稳定支撑超38万个并发沙箱运行，沙箱创建峰值速率超每秒5000次。DSec通过优化镜像分发与环境搭建机制，显著降低了资源开销并提升了内存利用效率，为大规模Agent训练提供了底层工程支撑。",
-    "发布日期": "2026-09-24",
-    "原文链接": "https://www.aibase.com/zh/news/31337",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
-    "配图仓库路径": "assets/news_images/96e1a439272c9263333d3cd96c192d9c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051542244255_2.jpg"
+    "资讯标题": "Meta Connect发布会：Muse接入AI眼镜并推出多款智能硬件设备",
+    "内容": "Meta在Connect大会上发布多款AI硬件，核心智能体Muse全面接入智能眼镜。新款Ray-Ban Meta Audio Glasses（无摄像头版）起售价349美元，续航达12小时；Ray-Ban Meta（Gen 3）起售价449美元，搭载1200万像素摄像头。此外，Meta预告了重100克的轻量级VR眼镜，预计2027年春季上市，售价1299美元起；独立终端Muse Charm将于年底前推出。软件层面，Muse已支持通过语音指令指导健身、购物及环境识别，并拥有专属邮箱，Mac端App可实现计算机任务操作。Meta计划通过交易收取费用实现商业化，并为眼镜新增听力增强功能。截至9月21日，Muse已登顶美区App Store与Google Play免费榜，Meta市值达1.9万亿美元。",
+    "发布日期": "2026-09-25",
+    "原文链接": "https://www.aibase.com/zh/news/31346",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0596dd329feb9582c2f0b2e7dba946d3.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0596dd329feb9582c2f0b2e7dba946d3.jpg",
+    "配图仓库路径": "assets/news_images/0596dd329feb9582c2f0b2e7dba946d3.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/0924/6392585801747424885081439.png"
   },
   {
-    "资讯标题": "Anthropic分子生物学实验室利用AI Agent集群自主发现全新ART酶系统",
-    "内容": "Anthropic分子生物学实验室近日取得重大科研突破，通过动用950个AI Agent集群，在连续运行21小时并消耗约2.1亿Token后，从噬菌体DNA中自主发现了一套全新的阵列关联逆转录酶系统（ART）。该系统在结构上与CRISPR高度相似，具备切割、复制及粘贴DNA的特征。在探索过程中，AI自主完成了文献查阅、序列比对及候选筛选等全流程工作，仅由人类研究人员提供初始提示。该发现随后通过人类科学家的审查及湿实验验证得到确认。这一成果大幅压缩了寻找新酶系统的科研周期，证明了AI在生命科学领域的自主探索能力，被认为将彻底改写科研范式，为未来5到10年内攻克严重疾病提供了新的技术路径。",
-    "发布日期": "2026-09-24",
-    "原文链接": "https://www.aibase.com/zh/news/31331",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fca003af208ea209261cccbcea438438.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fca003af208ea209261cccbcea438438.jpg",
-    "配图仓库路径": "assets/news_images/fca003af208ea209261cccbcea438438.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311281038498083_5.jpg"
+    "资讯标题": "DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
+    "内容": "国内大模型公司DeepSeek年化收入已突破10亿美元，较数月前不足5亿美元的水平实现翻倍增长。DeepSeek首席执行官梁文峰在投资者会议上披露，该业绩增长主要源于产品定价上调及开发者与企业端模型采用率的持续攀升。目前，DeepSeek正处于第二轮融资的关键期，计划在10月底前完成500亿元人民币的募资，投后估值预计达到5000亿元人民币，并正紧锣密鼓筹备在上海证券交易所上市。在生成式AI商业化面临盈利审视的背景下，DeepSeek此次融资规模与估值预期均创下国内大模型初创企业一级市场新纪录。这一进展不仅验证了其大模型技术的商业落地能力，也为本土AI企业冲刺公开资本市场提供了重要风向标，显示出资本市场对头部大模型厂商商业化前景的认可。",
+    "发布日期": "2026-09-25",
+    "原文链接": "https://www.aibase.com/zh/news/31351",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/58f6242907fbe1a7a1c35a2eb3f7b308.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/58f6242907fbe1a7a1c35a2eb3f7b308.jpg",
+    "配图仓库路径": "assets/news_images/58f6242907fbe1a7a1c35a2eb3f7b308.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202502051542244255_2.jpg"
   }
 ]
