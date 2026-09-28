@@ -1,8 +1,18 @@
 [
   {
-    "资讯标题": "谷歌确认新一代旗舰模型 Gemini 4 已进入后训练阶段，有望远早于年底推出",
-    "内容": "谷歌DeepMind负责人科拉伊·卡武克奥卢在AI Agenda Live峰会上确认，新一代旗舰模型Gemini 4已进入后训练初期阶段，有望远早于年底发布。谷歌决定跳过Gemini 3.5 Pro，将研发重心全面转向Gemini 4。目前，该模型已在谷歌内部用于Antigravity AI编程工具，并同步进行防护机制开发与安全测试。卡武克奥卢表示，团队对早期测试结果感到振奋，未来将保持快速迭代。此前谷歌曾发布Gemini 3.1及多款Flash系列模型，此次Gemini 4作为自Gemini 3系列后的首款下一代旗舰，旨在通过强化后训练提升模型行为的可靠性。针对行业竞争，谷歌强调当前核心目标是构建值得信任的智能体，而非单纯讨论AGI的实现。",
-    "发布日期": "2026-09-27",
+    "资讯标题": "高通联手PrismML发布1-bit Bonsai模型，实现智能眼镜离线识图",
+    "内容": "在2026骁龙峰会上，高通与PrismML联合发布1-bit Bonsai视觉模型，并在骁龙AR1 Gen 1智能眼镜平台上实现本地离线运行。该模型基于Bonsai 1.7B版本构建，通过1-bit量化技术，将内存占用压缩至传统4-bit模型的1/4，在相同内存容量下可容纳约4倍参数，且文本Token生成速度提升一倍。此项技术突破使AI眼镜无需连接云端，即可在本地完成物体识别、文字翻译及环境问答等任务。通过降低内存需求与推理功耗，该方案有效缓解了智能眼镜在续航与发热方面的痛点，显著提升了设备的佩戴体验与交互效率，为轻量化AR设备的端侧AI部署提供了关键技术路径。",
+    "发布日期": "2026-09-28",
+    "原文链接": "https://www.aibase.com/zh/news/31349",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d30f485c348078e8271be7d7806fa038.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d30f485c348078e8271be7d7806fa038.jpg",
+    "配图仓库路径": "assets/news_images/d30f485c348078e8271be7d7806fa038.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202011082114188511_15.jpg"
+  },
+  {
+    "资讯标题": "谷歌确认新一代旗舰模型Gemini 4已进入后训练阶段，有望远早于年底推出",
+    "内容": "谷歌DeepMind负责人科拉伊·卡武克奥卢在AI Agenda Live峰会上确认，新一代旗舰模型Gemini 4已进入后训练（Post-training）初期阶段，有望远早于年底发布。谷歌已跳过此前计划的Gemini 3.5 Pro，将研发重心全面转向Gemini 4。目前，该模型正处于防护机制开发与安全测试阶段，谷歌工程师已在内部利用其运行Antigravity AI编程工具。卡武克奥卢表示，团队对Gemini 4的早期测试结果感到振奋，未来将保持快速迭代。此次调整反映了谷歌在Gemini 3.1系列之后，优先通过Flash模型提升学习效率，并集中资源攻坚下一代旗舰技术的战略转变。对于行业关注的AGI议题，谷歌强调当前核心目标是构建值得信任的智能体（Agent），而非单纯讨论AGI的实现。",
+    "发布日期": "2026-09-28",
     "原文链接": "https://www.aibase.com/zh/news/31350",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
@@ -10,39 +20,29 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
   },
   {
-    "资讯标题": "智元第两万台远征A3 Ultra下线交付长隆，六千台半年填满，具身机器人第一次在主题乐园里常态上岗",
-    "内容": "智元第两万台远征A3 Ultra下线交付长隆，六千台半年填满，具身机器人第一次在主题乐园里常态上岗AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Sep 24, 202646智元把具身智能的产能刻度又往前推了一大格。9月24日，第20000台通用具身智能机器人远征A3Ultra在横琴长隆飞船乐园正式走下产线，并当场交到长隆集团手里。从今年3月跨过万台门槛到如今的两万台，这家公司只用了约6个月——产能爬坡的曲线，已经明显进入了加速段。同一天，由智元与长隆联手打造的全球首个大规模具身智能主题乐园在横琴长隆飞船乐园启幕，超过300台智元全系机器人开始在园区里常态化上岗，扎进游客互动、导览、演艺和科普研学等场景。",
-    "发布日期": "2026-09-27",
-    "原文链接": "https://www.aibase.com/zh/news/31344",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a4bff8a49fa33f8572fdc481f881ca00.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a4bff8a49fa33f8572fdc481f881ca00.jpg",
-    "配图仓库路径": "assets/news_images/a4bff8a49fa33f8572fdc481f881ca00.jpg",
-    "原始配图链接": "https://pic.chinaz.com/thumb/2026/0924/26092402265553120304.jpg"
+    "资讯标题": "OpenAI计划于9月29日发布代号为「O」的全新常驻型AI智能助手",
+    "内容": "OpenAI计划在即将举行的OpenAI DevDay上正式推出代号为「O」的常驻型AI助手，该项目内部代号为Aeon。与传统需用户主动触发的对话模式不同，这款助手具备持续运行能力，并可能拥有独立的数字身份。目前，相关配置线索已在ChatGPT配置文件中被发现。该产品的核心功能，包括系统权限级别、任务场景支持、长期记忆及定时任务等具体参数，仍待官方在发布会上揭晓。行业猜测该软件智能体或与此前传闻的甜甜圈形状硬件设备存在业务关联。此次发布标志着AI交互形态从被动响应向主动常驻的重大演进，若其具备深度的系统级集成能力，将对现有Agent生态及用户交互习惯产生深远影响。",
+    "发布日期": "2026-09-28",
+    "原文链接": "https://www.aibase.com/zh/news/31358",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "配图仓库路径": "assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405110933330041_0.jpg"
   },
   {
-    "资讯标题": "OpenAI在ChatGPT移动端上线语音智能体功能，支持语音指令执行任务",
-    "内容": "OpenAI近日宣布ChatGPT移动端新增基于语音的智能体功能，用户通过语音指令即可完成文档撰写、邮件总结及Slack消息处理等任务。该功能将语音交互从传统的问答模式升级为端到端的任务执行。Pro和Plus订阅用户可利用该智能体创建文档、制作PPT、构建网站及调用云端浏览器；Free和Go订阅用户则可通过插件连接应用使用。此外，Plus用户可在文本与语音间无缝切换，并支持跨设备协同，实现手机端处理工作后在电脑端无缝衔接。此次更新标志着ChatGPT在移动端生产力场景的进一步深化，通过语音交互直接驱动复杂任务的自动化执行，显著提升了移动办公的交互效率。",
-    "发布日期": "2026-09-27",
-    "原文链接": "https://www.aibase.com/zh/news/31347",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dd51c491a1a376446f6771e9bdc289bb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dd51c491a1a376446f6771e9bdc289bb.jpg",
-    "配图仓库路径": "assets/news_images/dd51c491a1a376446f6771e9bdc289bb.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0924/6392585808799673989951595.png"
-  },
-  {
-    "资讯标题": "Meta发布多款AI眼镜及Muse智能体，Muse全面接入硬件生态",
-    "内容": "Meta在Connect大会发布多款AI硬件，核心智能体Muse全面接入智能眼镜。硬件方面，Meta推出无摄像头版Ray-Ban Meta Audio Glasses（349美元，续航12小时）及Ray-Ban Meta Gen 3（449美元，1200万像素摄像头）。此外，轻量级Meta VR Glasses将于2027年春季上市，起售价1299美元；独立终端Muse Charm预计年底推出。软件层面，Muse已接入眼镜，支持语音交互、环境理解及购物辅助，并拥有专属邮箱及Mac端操作能力。扎克伯格表示，Muse未来将通过交易实现商业化。Meta还计划为眼镜增加听力增强功能。截至9月21日，Muse已登顶美区App Store与Google Play免费榜。此次发布标志着Meta正将AI、智能眼镜与VR硬件深度",
-    "发布日期": "2026-09-27",
-    "原文链接": "https://www.aibase.com/zh/news/31346",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0596dd329feb9582c2f0b2e7dba946d3.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0596dd329feb9582c2f0b2e7dba946d3.jpg",
-    "配图仓库路径": "assets/news_images/0596dd329feb9582c2f0b2e7dba946d3.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/0924/6392585801747424885081439.png"
+    "资讯标题": "Meta发布AI智能体Muse并开启内测，支持视频化身、系统级代控与眼镜接入",
+    "内容": "Meta在Connect 2026开发者大会上正式发布个人AI智能体应用Muse的多项重磅功能，并于9月25日开启抢先体验计划。此次迭代核心在于多模态与端侧智能体布局：Muse新增实时视频交互的数字虚拟形象，Mac端应用获得系统级代控权限以执行复杂任务，并全面接入Meta AI智能眼镜，支持语音指令即时交互。在测试策略上，Meta采用“Prompt触发”机制，用户通过发送特定提示词即可登记排队，旨在精准筛选高黏性AI爱好者以获取高质量反馈。此次更新标志着Meta将AI Agent从单一对话框向跨终端、跨系统全天候助理演进，通过打通桌面底层权限与智能穿戴设备，进一步强化其在智能体赛道的竞争优势。",
+    "发布日期": "2026-09-28",
+    "原文链接": "https://www.aibase.com/zh/news/31360",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
+    "配图仓库路径": "assets/news_images/42dbdc0a3601a48b39e1e771fac576ec.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202207271436142427_0.jpg"
   },
   {
     "资讯标题": "DeepSeek年化收入突破10亿美元，拟募资500亿元冲刺上交所上市",
-    "内容": "DeepSeek年化收入已突破10亿美元大关，较数月前实现翻倍增长，公司正筹备在上海证券交易所上市。首席执行官梁文峰在投资者会议上披露，业绩增长主要得益于产品定价上调及模型在开发者与企业端的采用率攀升。DeepSeek目前正进行第二轮融资，计划在10月底前完成500亿元人民币的募资，投后估值预计达5000亿元人民币。此次融资与上市计划不仅印证了其大模型技术的商业落地能力，更创下国内大模型初创企业一级市场资本规模新纪录。在生成式AI商业化面临盈利审视的背景下，DeepSeek的财务表现与资本运作对本土AI企业冲刺公开资本市场具有重要的风向标意义。",
-    "发布日期": "2026-09-27",
+    "内容": "DeepSeek年化收入已突破10亿美元，较数月前实现翻倍增长，公司正筹备在上海证券交易所上市。首席执行官梁文峰在投资者会议上披露，该业绩增长主要归功于模型定价上调及开发者与企业端采用率的提升。目前，DeepSeek正推进第二轮融资，计划在10月底前完成500亿元人民币的募资，投后估值预计达5000亿元人民币。此次融资与上市计划不仅验证了其大模型技术的商业落地能力，更创下国内大模型初创企业一级市场资本规模新纪录。在生成式AI商业化面临盈利审视的背景下，DeepSeek的财务表现与资本运作动向，对本土AI企业冲刺公开资本市场具有显著的风向标意义。",
+    "发布日期": "2026-09-28",
     "原文链接": "https://www.aibase.com/zh/news/31351",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/58f6242907fbe1a7a1c35a2eb3f7b308.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/58f6242907fbe1a7a1c35a2eb3f7b308.jpg",
