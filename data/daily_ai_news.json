@@ -1,7 +1,7 @@
 [
   {
     "资讯标题": "谷歌向免费用户开放Gemini Skills，Gems功能将于11月完成整合",
-    "内容": "谷歌正式宣布将此前仅限Pro和Ultra付费订阅用户使用的Gemini Skills自定义指令服务，全面向所有免费账户用户开放。此次功能迭代旨在降低个性化AI的使用门槛，提升Gemini在大众市场的用户粘性。在系统整合方面，原有的Gems功能确定将于2026年11月17日自动过渡至升级后的Skills系统。升级后的Skills优化了底层交互逻辑，用户在主聊天框输入“/”加对应指令即可唤醒特定AI技能。对于免费用户，系统支持保留既有自定义配置，并可通过专属链接创建新Skills，确保在迁移期间实现无缝衔接。此次调整不仅保留了原有的灵活配置能力，还通过更直观的操作方式提升了交互效率，标志着谷歌在推动AI个性化工具普及化进程中迈出重要一步。",
+    "内容": "谷歌正式宣布将此前仅限Pro和Ultra付费订阅的Gemini Skills自定义指令服务，全面向所有免费账户用户开放。此次调整旨在降低个性化AI工具的使用门槛，提升大众用户体验。在系统整合方面，原有的Gems功能将于2026年11月17日自动过渡至升级后的Skills系统。升级后的Skills优化了底层交互逻辑，用户在主聊天框输入“/”加指令即可唤醒特定AI技能。对于免费用户，系统支持保留既有自定义配置，并可通过专属链接创建新Skills，确保在迁移期间实现无缝衔接。行业分析认为，谷歌此举通过普及个性化AI功能，将进一步增强Gemini在大众消费市场的用户粘性与平台竞争力。",
     "发布日期": "2026-10-04",
     "原文链接": "https://www.aibase.com/zh/news/31435",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "资讯标题": "微软联手哈佛MIT发布生物学世界模型Project Quine，实现抗癌药物快速筛选",
-    "内容": "微软研究院联合哈佛大学与麻省理工学院博德研究所，正式推出实验性多模态AI系统Project Quine。该系统定位为生物学世界模型，旨在打通计算生物学建模与实验室湿实验。Quine的核心在于构建了覆盖基因组学、蛋白质、化学、细胞状态及生物成像的联合表征空间，通过交互式推理框架实现跨模态综合分析，解决了传统药物发现中多领域数据难以统一推理的瓶颈。在实际测试中，Project Quine展现了极高的研发效率，仅用一个周末便成功筛选出抗癌候选物，将药物筛选与验证周期从数月压缩至数天。该系统通过整合多维生物学信息，显著降低了研发成本并加速了治疗路径的发现。目前，微软已启动首届Quine Fellows项目，开放科研人员申请抢先使用，后续计划将该系统逐步推向更广泛的商业化应用场景。",
+    "内容": "微软研究院联合哈佛大学及麻省理工学院博德研究所，正式推出实验性多模态AI系统Project Quine。该系统定位为生物学世界模型，旨在打通计算生物学建模与实验室湿实验的壁垒。Quine的核心在于构建了覆盖基因组学、蛋白质、化学分子、细胞状态及生物成像的联合表征空间，通过交互式推理框架实现多领域信息的跨模态分析。在实际测试中，Project Quine展现出极高的科研效率，仅用一个周末便成功筛选出抗癌候选物，将药物发现与验证周期从数月压缩至数天。该系统通过统一不同生物学模态的表征，解决了传统药物研发中数据孤岛难以协同推理的痛点。目前，微软已启动首届Quine Fellows项目，开放科研人员申请抢先使用，后续计划将该系统逐步推向更广泛的商业化应用场景，以加速生物医药领域的研发进程。",
     "发布日期": "2026-10-04",
     "原文链接": "https://www.aibase.com/zh/news/31444",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/049dadf42e5f697b56c1bd53c8e01875.jpg",
@@ -21,7 +21,7 @@
   },
   {
     "资讯标题": "OpenAI联合红帽与英伟达研发OCE1.0，打造面向AI代理的企业级Kubernetes",
-    "内容": "OpenAI、红帽（Red Hat）与英伟达正联合开发开源智能体框架的企业级版本OpenClaw Enterprise（OCE1.0），旨在解决AI代理在政企环境中的安全与合规难题。该项目由OpenAI内部发起并捐赠给OpenClaw基金会，被定位为“面向代理的Kubernetes”。针对此前OpenClaw因安全机制薄弱被Gartner定性为风险并遭企业封禁的问题，OCE1.0引入了企业级控制平面，原生支持多租户隔离、严苛安全边界控制及标准化代理原语。该框架提供完善的治理与可审计性，允许企业灵活替换底层模型、框架及沙箱方案。红帽副总裁Joe Fernandes强调，OCE1.0旨在推动智能体从消费端探索迈向生产力基础设施，为企业在合规前提下部署高自主性AI提供关键路径，标志着智能体生态进入注重标准化管控的成熟",
+    "内容": "OpenAI、红帽（Red Hat）与英伟达正联合开发开源智能体框架的企业级版本OpenClaw Enterprise（OCE1.0），旨在解决AI代理在政企环境中的安全与合规难题。该项目由OpenAI内部发起并捐赠给OpenClaw基金会，被定位为“面向代理的Kubernetes”。针对此前OpenClaw因安全机制薄弱被Gartner定性为高风险并遭企业封禁的问题，OCE1.0引入了企业级控制平面，原生支持多租户隔离、严苛安全边界控制及标准化代理原语，并提供完善的治理与可审计性。该框架允许企业灵活替换底层模型、框架及沙箱，确保在合规前提下部署高自主性AI。红帽副总裁Joe Fernandes强调，此举旨在推动智能体从消费端探索迈向生产力基础设施，标志着智能体生态进入注重合规隔离与标准化管控的成熟期。",
     "发布日期": "2026-10-04",
     "原文链接": "https://www.aibase.com/zh/news/31439",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
@@ -30,23 +30,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
   },
   {
-    "资讯标题": "Anthropic披露IPO招股书：目标估值2万亿美元，2025年运营亏损超80亿美元",
-    "内容": "Anthropic近日向合作伙伴披露IPO招股书，计划以约2万亿美元估值上市。财务数据显示，公司2025年营收同比增长12倍至46亿美元，其中Claude模型用量计费贡献38亿美元，订阅业务占比不足20%。同期运营亏损翻倍突破80亿美元。公司营收高度依赖亚马逊与谷歌云平台，相关渠道收入占比从2023年的11%激增至47%，并为此支付3.51亿美元抽成。此外，公司面临严峻的算力成本压力，截至2025年底，不可取消的算力托管承诺高达546亿美元，未付账款达9.09亿美元。同时，前两大匿名客户贡献了24%的营收且未签署长期协议，显示出客户留存的不确定性。该招股书揭示了头部大模型厂商在规模化扩张过程中，仍需应对渠道自主权受限、算力刚性支出及营收结构单一等多重经营挑战。",
+    "资讯标题": "Anthropic IPO文件披露：向SpaceX采购845亿美元AI算力",
+    "内容": "Anthropic在最新IPO监管文件中披露，已与SpaceX签署金额上限达845亿美元的算力采购协议，旨在锁定未来数年的AI基础设施资源。该协议规模较今年5月披露的425亿美元翻倍，覆盖SpaceX旗下Colossus 1与Colossus 2数据中心的GPU算力。SpaceX正通过“计算超级工厂”计划加速扩张，目标年底前部署超100万块英伟达Blackwell架构GPU。协议约定Anthropic自2026年5月至2029年5月期间进行采购，并设有灵活条款，允许Anthropic提前90天通知终止合作。此次巨额投入反映了Anthropic在AI基建领域的激进布局，其预计十年内AI基建投入将达5180亿美元。通过与SpaceX、亚马逊、Alphabet及微软等厂商合作，Anthropic正试图在算力资源紧缺的",
     "发布日期": "2026-10-04",
-    "原文链接": "https://www.aibase.com/zh/news/31438",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
-    "配图仓库路径": "assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202605070947057219_0.jpg"
-  },
-  {
-    "资讯标题": "AMD CEO苏姿丰下月访韩洽谈HBM4合作，三星有望进入AI加速器供应链",
-    "内容": "AMD CEO苏姿丰预计将于下月亲赴韩国，与三星电子高层举行会谈，核心议题聚焦于AI芯片技术合作，重点在于敲定三星作为AMD下一代AI加速器HBM4的供应商。双方此前已有合作基础，今年3月曾签署关于AI存储芯片与计算技术的谅解备忘录，当时三星即被传为HBM4优先供应商。此次访韩旨在将合作意向转化为实质订单，以保障AMD未来旗舰芯片的产能与交付节奏。此外，苏姿丰此行还将接触韩国本土NPU企业，意在通过多元化布局，将AI算力链条从内存扩展至专用计算单元。对于行业而言，若三星成功进入AMD供应链，将打破现有HBM市场格局，进一步强化AMD在高性能计算领域的供应链自主权，并对全球AI加速器内存供应体系产生深远影响。",
-    "发布日期": "2026-10-04",
-    "原文链接": "https://www.aibase.com/zh/news/31445",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4913ccd3981ba570d2bd86e12ae78ac2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4913ccd3981ba570d2bd86e12ae78ac2.jpg",
-    "配图仓库路径": "assets/news_images/4913ccd3981ba570d2bd86e12ae78ac2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202011091028011678_7.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31432",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
   }
 ]
