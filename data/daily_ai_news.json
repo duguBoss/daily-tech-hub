@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌向免费用户开放Gemini Skills，Gems功能将于11月完成整合",
-    "内容": "谷歌正式宣布将此前仅限Pro和Ultra付费订阅的Gemini Skills自定义指令服务全面向免费用户开放。此次功能迭代旨在降低个性化AI工具的使用门槛，让大众用户能够通过定制化指令提升交互效率。在系统整合方面，原有的Gems功能将于2026年11月17日自动过渡至升级后的Skills系统。升级后的Skills优化了底层交互逻辑，用户在主聊天框输入“/”加指令即可唤醒特定AI技能。对于免费用户，系统支持完整保留既有配置，并可通过专属链接创建新Skills，确保迁移过程无缝衔接。行业分析认为，谷歌此举通过普及个性化AI能力，将显著增强Gemini在大众消费市场的用户粘性与平台竞争力，进一步推动AI应用向深度定制化方向发展。",
-    "发布日期": "2026-10-07",
-    "原文链接": "https://www.aibase.com/zh/news/31435",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
-    "配图仓库路径": "assets/news_images/3dd79068710eb030bec9c04638f92175.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202601161504560592_0.jpg"
+    "资讯标题": "马斯克宣布Grok Bot将接入Claude等第三方模型实现多模型混合架构",
+    "内容": "埃隆·马斯克宣布X平台旗下的Grok Bot将打破单一模型限制，转型为“任务导向的多模型混合架构”。该系统未来将以获取最佳输出结果为唯一标准，自动为用户选择并调用最合适的后端模型。在处理复杂的文本、图像或音频任务时，Grok Bot将灵活调用包括Claude Opus 5.5、Midjourney和Suno在内的业内顶尖第三方API，不再局限于自研的Grok系列模型。Grok Bot作为2026年8月推出的测试版产品，定位为用户的“常驻型AI同事”。其部署在配备浏览器、文件系统和终端的云端服务器上，具备专属名称、职责及上下文记忆，支持自动登录应用并独立完成多步骤操作。此次架构升级将显著提升Grok Bot在多模态任务中的处理能力，使其能够调用更广泛的行业领先技术，为用户提供更高效的自动化工作流支持。",
+    "发布日期": "2026-10-08",
+    "原文链接": "https://www.aibase.com/zh/news/31453",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
+    "配图仓库路径": "assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311060852081809_0.jpg"
   },
   {
-    "资讯标题": "微软联手哈佛MIT发布生物学世界模型Project Quine，实现抗癌药物快速筛选",
-    "内容": "微软研究院联合哈佛大学及麻省理工学院博德研究所，正式推出实验性多模态AI研究系统Project Quine。该系统定位为生物学世界模型，旨在打通计算生物学建模与实验室湿实验。Quine的核心在于构建了一张覆盖基因组学、蛋白质、化学分子、细胞状态及生物成像的联合表征世界模型，并配套交互式推理框架，实现了多领域生物学信息的跨模态统一分析。在实际测试中，Project Quine展现出极高的研发效率，曾在一个周末内成功筛选出抗癌候选物，将传统药物发现周期从数月压缩至数天。该系统通过整合碎片化的生物数据，有效解决了跨领域推理瓶颈，有望大幅降低药物研发成本并加速治疗路径发现。目前，微软已启动首届Quine Fellows项目，开放科研人员申请抢先使用，后续计划逐步推进至更广泛的商业化场景。",
-    "发布日期": "2026-10-07",
-    "原文链接": "https://www.aibase.com/zh/news/31444",
+    "资讯标题": "微软发布搭载RTX Spark芯片的Surface AI PC并提供千美元开发者补贴",
+    "内容": "微软在旧金山科技周正式发布搭载英伟达RTX Spark芯片的Surface Laptop Ultra及Surface RTX Spark Dev Box工作站。Surface Laptop Ultra起售价2,600美元，最高配置达5,900美元；专为开发者设计的Dev Box起售价6,000美元，预装VS Code、GitHub Copilot CLI及WSL等工具。硬件整合CPU、GPU与统一内存，支持本地高效运行AI模型。软件方面，Windows 11引入“执行容器”功能，降低AI Agents沙盒化门槛。为抢占开发者市场，微软针对MacBook Pro用户提供最高1,000美元以旧换新补贴。戴尔同步跟进，推出搭载RTX Spark的XPS 16 Creator Edition。微软CEO萨蒂亚·纳德拉表",
+    "发布日期": "2026-10-08",
+    "原文链接": "https://www.aibase.com/zh/news/31447",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/049dadf42e5f697b56c1bd53c8e01875.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/049dadf42e5f697b56c1bd53c8e01875.jpg",
     "配图仓库路径": "assets/news_images/049dadf42e5f697b56c1bd53c8e01875.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305240833497043_0.jpg"
   },
   {
-    "资讯标题": "OpenAI联合红帽与英伟达研发OCE1.0，打造面向AI代理的企业级Kubernetes",
-    "内容": "OpenAI、红帽（Red Hat）与英伟达等多方正联合开发开源智能体框架的企业级版本OpenClaw Enterprise（OCE1.0），旨在为政企客户提供具备安全合规能力的“面向代理的Kubernetes”。该项目由OpenAI内部发起并捐赠给OpenClaw基金会。针对此前OpenClaw因安全机制薄弱被Gartner定性为网络安全风险并遭企业封禁的问题，OCE1.0引入了企业级控制平面，原生支持多租户隔离、严苛的安全边界控制及标准化代理原语，并提供完善的治理与可审计性，允许企业灵活替换底层框架、模型及沙箱。红帽副总裁Joe Fernandes强调，该项目旨在推动智能体从消费端探索迈向生产力基础设施。OCE1.0的推出标志着智能体生态进入注重合规隔离与标准化管控的成熟期，为企业在保障系统安全的前提下部署",
-    "发布日期": "2026-10-07",
-    "原文链接": "https://www.aibase.com/zh/news/31439",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图仓库路径": "assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
+    "资讯标题": "博通拟筹集超500亿美元私人债务以支持OpenAI定制AI芯片项目",
+    "内容": "博通正与阿波罗全球管理及黑石集团等机构洽谈，计划筹集超500亿美元私人债务，旨在支持OpenAI的定制AI芯片项目。双方此前已达成合作，计划在2026年下半年至2029年底期间部署10吉瓦的定制AI芯片系统。该笔融资预计于今年年底前完成，核心目标是保障OpenAI相关芯片的产能落地。此外，博通还在为Anthropic安排高达600亿美元的AI芯片融资，其中黑石集团牵头承揽了180亿美元的次级债务。在AI算力需求激增背景下，通过私人债务融资获取资金已成为科技巨头建设数据中心与采购芯片的关键路径，甲骨文与SpaceX等企业也正通过类似渠道筹措巨额资金以加速基础设施布局。",
+    "发布日期": "2026-10-08",
+    "原文链接": "https://www.aibase.com/zh/news/31457",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fa7d464ff0bb21f829b46e0fa3f51c2f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fa7d464ff0bb21f829b46e0fa3f51c2f.jpg",
+    "配图仓库路径": "assets/news_images/fa7d464ff0bb21f829b46e0fa3f51c2f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304231132173466_7.jpg"
   },
   {
-    "资讯标题": "Anthropic披露IPO招股书：拟以2万亿美元估值上市，2025年亏损超80亿美元",
-    "内容": "Anthropic近日向合作伙伴披露IPO招股书，计划以约2万亿美元估值推进上市。财务数据显示，公司2025年营收达46亿美元，同比增长12倍，其中Claude模型用量计费贡献约38亿美元，订阅业务占比不足20%。同期运营亏损翻倍突破80亿美元。公司营收高度依赖亚马逊和谷歌云平台，相关收入占比从2023年的11%激增至47%，并为此支付3.51亿美元渠道抽成。招股书披露，截至2025年底，Anthropic不可取消的算力托管承诺高达546亿美元，未付账款达9.09亿美元。此外，公司前两大匿名客户贡献了24%的营收且未签署长期协议。该财务状况揭示了头部大模型厂商在规模化扩张过程中，面临渠道自主权受限、算力成本刚性承压及客户留存波动等多重挑战。",
-    "发布日期": "2026-10-07",
-    "原文链接": "https://www.aibase.com/zh/news/31438",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
-    "配图仓库路径": "assets/news_images/ab7742c19edc16283651a5f2488dbbf0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202605070947057219_0.jpg"
+    "资讯标题": "OpenAI全量推送GPT-6模型，ChatGPT引入智能UI交互界面",
+    "内容": "OpenAI于10月8日正式向全球用户推送新一代旗舰模型GPT-6，并同步引入全新的“智能UI”交互层。该功能使ChatGPT能根据问题性质，自动生成图表、表单、按钮或可交互小工具，而非仅限于纯文本回复。此次更新覆盖全系用户，付费用户使用GPT-6Sol，免费及Go用户使用GPT-6Luna，两者均针对日常对话进行优化。在交互体验上，GPT-6支持“边想边说”模式，推理过程与答案输出同步进行，显著降低了等待感。官方数据显示，GPT-6Instant在联网搜索场景下的首字响应时间较GPT-5.6Instant缩短了44%。此外，模型在联网搜索质量、信息查找准确度及安全性方面均有提升。智能UI的引入标志着ChatGPT从单一文本生成工具向具备动态呈现能力的智能工作台转型，用户无需跳转外部应用即可在对话框内完成复杂交",
+    "发布日期": "2026-10-08",
+    "原文链接": "https://www.aibase.com/zh/news/31451",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8cb10418610861faa6855ecaa5c5c2dd.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8cb10418610861faa6855ecaa5c5c2dd.jpg",
+    "配图仓库路径": "assets/news_images/8cb10418610861faa6855ecaa5c5c2dd.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1008/6392704713122099602629302.png"
   },
   {
-    "资讯标题": "AMD CEO苏姿丰下月访韩，拟与三星电子敲定HBM4内存供应合作",
-    "内容": "AMD CEO苏姿丰计划于下月亲赴韩国，与三星电子高层进行深度会谈，核心议题聚焦于AI芯片技术合作，重点在于敲定三星作为AMD下一代AI加速器HBM4的内存供应商。双方此前已于今年3月签署围绕AI存储芯片与计算技术的谅解备忘录，此次访问旨在将此前传闻的优先供应意向转化为实质性订单。HBM4作为AI加速器的关键内存层级，其供应稳定性直接决定了AMD未来旗舰芯片的产能与市场节奏。除三星外，苏姿丰此行还计划接触韩国本土NPU企业，意在通过整合内存与专用计算单元，进一步强化AMD在AI算力产业链的布局。此次合作若达成，将标志着三星正式跻身AMD AI加速器核心内存供应链，有助于AMD提升对下一代AI硬件命脉的掌控力。",
-    "发布日期": "2026-10-07",
-    "原文链接": "https://www.aibase.com/zh/news/31445",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4913ccd3981ba570d2bd86e12ae78ac2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4913ccd3981ba570d2bd86e12ae78ac2.jpg",
-    "配图仓库路径": "assets/news_images/4913ccd3981ba570d2bd86e12ae78ac2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202011091028011678_7.jpg"
+    "资讯标题": "Anthropic发布Claude Haiku 5.5模型，成本降低75%并支持调节推理强度",
+    "内容": "Anthropic于10月8日正式发布Claude Haiku 5.5，这是其目前速度最快、能力最强的小型模型。该模型专为高频、成本敏感型场景设计，如文章摘要、内容分类、数据库查询及Agent子任务。Haiku 5.5的平均运行成本较上一代降低约75%，输入与输出价格分别为每百万Token 0.1美元和0.5美元。该版本首次引入可调节推理强度功能，允许用户根据任务需求动态调整思考深度。此外，Anthropic将Sonnet 5.5的缓存读取价格减半至每百万Token 0.1美元，旨在降低Agent系统运行成本约20%。目前，Haiku 5.5已上线Claude Platform、AWS、Google Cloud及微软Azure，企业可直接集成至现有工作流中。",
+    "发布日期": "2026-10-08",
+    "原文链接": "https://www.aibase.com/zh/news/31452",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
   }
 ]
