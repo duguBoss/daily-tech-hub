@@ -1,17 +1,17 @@
 [
   {
-    "资讯标题": "马斯克宣布Grok Bot接入Claude等第三方模型实现多模型混合架构",
-    "内容": "埃隆·马斯克宣布Grok Bot将打破单一模型限制，转型为任务导向的多模型混合架构。该系统未来将以获取最佳输出结果为唯一标准，自动调用最合适的后端模型，不再局限于自研的Grok系列。在处理复杂文本、图像或音频任务时，Grok Bot将灵活接入包括Claude Opus 5.5、Midjourney和Suno在内的业内顶尖第三方API。Grok Bot作为SpaceXAI于2026年8月推出的测试版产品，定位为用户的“常驻型AI同事”。其部署在配备浏览器、文件系统和终端的云端服务器上，支持自动登录应用并独立完成多步骤操作，具备专属名称、职责及上下文记忆。即便用户终端离线，后台任务与定时工作仍可稳定运行，仅在关键决策时触发人工审批，显著提升了AI Agent的执行效率与任务覆盖范围。",
+    "资讯标题": "谷歌调整Gemini订阅策略：10月9日起免费版仅限Flash-Lite模型",
+    "内容": "谷歌自10月9日起调整Gemini个人账户访问权限，全面收紧模型配置。免费用户仅能访问Gemini 3.5-Flash-Lite，不再支持Gemini 3.6 Flash及更高版本。每月4.99美元的AI Plus订阅用户权限被压缩至Flash与Flash-Lite模型，不再支持Gemini 3.1 Pro等高级推理模型。每月19.99美元的Google AI Pro及Ultra订阅用户权益保持不变，仍可使用深度思考（Deep Think）及高级模型。此外，谷歌引入低、中、高三种工作量（Effort）模式，系统根据任务复杂度实时扣减配额。此次调整旨在应对推理成本增长与算力负载，通过阶梯式精细化管控，将高算力模型向高价值付费用户倾斜，标志着大模型商业化进入算力经济效益精细化运营阶段。",
     "发布日期": "2026-10-08",
-    "原文链接": "https://www.aibase.com/zh/news/31453",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
-    "配图仓库路径": "assets/news_images/09656903ecd9ae90ac93424907c5c568.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311060852081809_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31471",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1852f2441e292b932389d773dde75c97.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1852f2441e292b932389d773dde75c97.jpg",
+    "配图仓库路径": "assets/news_images/1852f2441e292b932389d773dde75c97.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202604171655124578_0.jpg"
   },
   {
     "资讯标题": "微软发布搭载英伟达RTX Spark芯片的Surface Laptop Ultra与工作站",
-    "内容": "微软在旧金山科技周正式发布搭载英伟达RTX Spark芯片的Surface Laptop Ultra笔记本及Surface RTX Spark Dev Box工作站。Surface Laptop Ultra起售价2,600美元，顶配可达5,900美元；面向开发者的Dev Box工作站起售价6,000美元，预装VS Code、GitHub Copilot CLI及WSL等工具。该系列设备通过专属CPU、GPU及统一内存架构，支持本地运行AI模型与智能体。微软同步推出重构版Windows 11，引入“Execution Containers”功能，为AI智能体提供安全沙箱环境。CEO萨提亚·纳德拉表示，未来操作系统核心在于提供整合多模型、上下文及操作空间的协同层。为抢占开发者市场，微软推出最高1,000美元的Mac",
+    "内容": "微软在旧金山科技周发布搭载英伟达RTX Spark芯片的Surface Laptop Ultra笔记本及Surface RTX Spark Dev Box工作站。Surface Laptop Ultra起售价2,600美元，顶配可达5,900美元；面向开发者的Dev Box起售价6,000美元，预装VS Code、GitHub Copilot CLI及WSL等工具。该系列设备通过专属CPU、GPU及统一内存架构，支持本地运行各类AI模型与智能体。微软同步推出重构版Windows 11，引入“Execution Containers”功能，为AI智能体提供沙箱隔离环境。CEO萨提亚·纳德拉表示，未来操作系统核心在于提供整合多模型、上下文及操作空间的协同层。为抢占市场，微软针对MacBook Pro用户提供最高1,",
     "发布日期": "2026-10-08",
     "原文链接": "https://www.aibase.com/zh/news/31463",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
@@ -20,8 +20,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812181034453995_26.jpg"
   },
   {
-    "资讯标题": "微软发布 MAI Code1.1Flash 模型并为 GitHub Copilot 引入本地与云端混合推理",
-    "内容": "微软在2026年10月7日的发布会上宣布，将于本月底为 GitHub Copilot 引入本地 AI 模型支持，实现云端与设备端模型的自动调度与自由切换。为解决端侧推理的内存瓶颈，微软推出了 MAI Code1.1Flash 混合专家（MoE）模型，该模型拥有1370亿总参数及68亿激活参数，通过量化与投机解码技术优化了编码响应速度，并率先搭载于新款 Surface Laptop Ultra。开发者可通过 GitHub Copilot CLI、Copilot 应用及 Visual Studio Code 调用该模型，系统通过 Windows 执行容器（MXC）保障代码运行安全。此次升级标志着 AI 编码助手向“云端+端侧”混合架构演进，为高隐私、低延迟开发场景提供了高效的落地方案。",
+    "资讯标题": "微软发布 MAI Code1.1Flash 模型并为 GitHub Copilot 引入本地与云端混合推理支持",
+    "内容": "微软在2026年10月7日的发布会上宣布，将于本月底前为 GitHub Copilot 引入本地 AI 模型支持，实现云端与设备端模型的自动调度与自由切换。核心技术支撑是微软推出的 MAI Code1.1Flash 混合专家（MoE）模型，该模型拥有1370亿总参数及68亿激活参数，通过量化与投机解码技术优化了端侧推理的内存占用与响应速度，并率先搭载于新款 Surface Laptop Ultra。开发者可通过 GitHub Copilot CLI、Copilot 应用及 Visual Studio Code 调用该模型，系统集成微软执行容器（MXC）以保障代码运行安全。此次升级标志着 AI 编码助手向“云端+端侧”混合架构演进，在降低本地部署门槛的同时，为高隐私、低延迟的开发场景提供了高效的落地方案。",
     "发布日期": "2026-10-08",
     "原文链接": "https://www.aibase.com/zh/news/31464",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b67ed5b437d20c79921fc0ab9d1f36b7.jpg",
@@ -30,8 +30,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202411221551273123_1.jpg"
   },
   {
-    "资讯标题": "博通拟筹集超500亿美元私人债务以支持OpenAI定制AI芯片项目",
-    "内容": "博通正与阿波罗全球管理及黑石集团等机构洽谈，计划筹集超500亿美元私人债务，专项支持OpenAI的定制AI芯片项目。双方此前已达成合作，旨在2026年下半年至2029年底期间部署10吉瓦的定制AI芯片系统，该笔融资预计于今年年底前完成，以保障相关芯片产能落地。除OpenAI项目外，博通还正为Anthropic安排高达600亿美元的AI芯片融资，其中黑石集团牵头承揽了180亿美元的次级债务。当前AI算力需求激增，促使科技巨头加速通过私人债务渠道获取资金，用于购买AI芯片及数据中心建设。此举标志着AI基础设施融资模式正向大规模私人债务倾斜，将直接加速头部AI公司在算力硬件层面的布局进程。",
+    "资讯标题": "博通拟筹集超500亿美元私人债务，支持OpenAI定制AI芯片项目落地",
+    "内容": "博通正与阿波罗全球管理及黑石集团洽谈，计划筹集超500亿美元私人债务，专项支持OpenAI的定制AI芯片项目。该融资预计于2026年底前完成，旨在保障2026下半年至2029年底期间，双方合作部署的10吉瓦定制AI芯片系统的产能需求。除OpenAI外，博通还正为Anthropic安排高达600亿美元的AI芯片融资，其中黑石集团牵头承揽了180亿美元的次级债务。在AI算力需求激增背景下，甲骨文、SpaceX等科技巨头亦纷纷通过私人债务渠道筹措资金，以加速数据中心建设及AI芯片采购。此次大规模融资反映了AI基础设施建设对资本的极高依赖，私人债务正成为支撑算力扩张的关键金融工具。",
     "发布日期": "2026-10-08",
     "原文链接": "https://www.aibase.com/zh/news/31457",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fa7d464ff0bb21f829b46e0fa3f51c2f.jpg",
@@ -40,13 +40,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304231132173466_7.jpg"
   },
   {
-    "资讯标题": "OpenAI全量推送GPT-6模型并引入智能UI交互层",
-    "内容": "OpenAI于10月8日正式向全球用户推送新一代旗舰模型GPT-6，全面接替GPT-5.6系列。此次更新核心在于引入“智能UI”交互层，AI不再局限于纯文本输出，可根据需求动态生成图表、表单、计算器及可交互小界面。付费用户使用GPT-6Sol模型，免费及Go用户使用针对日常对话优化的GPT-6Luna模型。此外，GPT-6引入“边想边说”机制，显著降低推理等待时间，联网搜索场景下的首字响应速度较GPT-5.6Instant提升44%。该更新旨在将ChatGPT从文本生成工具升级为具备动态呈现能力的智能工作台，通过根据问题性质自动切换交互形态，大幅提升用户处理复杂任务的效率，并同步优化了联网搜索的准确度与安全性。",
+    "资讯标题": "Anthropic 发布 Claude Haiku 5.5 模型，价格降幅达 90% 但存在隐性成本",
+    "内容": "Anthropic 正式推出轻量级模型 Claude Haiku 5.5，主打高并发、低延迟场景。在 10 万 Token 以内的常规请求中，其输入与输出价格分别降至每百万 Token 0.10 美元和 0.50 美元，账面价格较前代下降 90%。该模型引入自适应思考与动态调节功能，可根据任务复杂度平衡推理深度。值得注意的是，Haiku 5.5 采用了全新分词器，导致相同文本的 Token 消耗量增加 25% 至 30%，实际综合成本降幅约为 75%。此外，当单次请求超过 10 万 Token 时，输入与输出单价将飙升至基础价格的 5 倍。开发者需针对特定工作流精准评估 Token 消耗，以规避潜在的隐性成本陷阱。",
     "发布日期": "2026-10-08",
-    "原文链接": "https://www.aibase.com/zh/news/31451",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8cb10418610861faa6855ecaa5c5c2dd.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8cb10418610861faa6855ecaa5c5c2dd.jpg",
-    "配图仓库路径": "assets/news_images/8cb10418610861faa6855ecaa5c5c2dd.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1008/6392704713122099602629302.png"
+    "原文链接": "https://www.aibase.com/zh/news/31467",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
   }
 ]
