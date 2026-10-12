@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "蚂蚁集团AI产品“灵光”开启新版内测，全面对标Meta Muse智能体",
-    "内容": "蚂蚁集团旗下AI产品“灵光”近日开启新版本小范围内测，核心对标Meta于今年9月发布的个人智能体Muse。该项目筹备半年，计划于本月全面开放。此次升级标志着“灵光”从基础AI助手向具备长期记忆、可主动推进复杂任务的AI原生个人智能体转型。新版本通过调用Skill和MCP协议，实现了跨应用操作能力，支持钉钉发信息及智能家居控制。内测用例聚焦长程、多变量场景，涵盖市场异动追踪、钉钉打卡管理及旅行突发状况下的自动路线重排。此次迭代反映了国内大厂正加速布局主动式AI智能体，推动应用向全流程任务托管深度演进，旨在解决传统AI在复杂任务执行中的痛点。",
+    "资讯标题": "蚂蚁集团AI产品“灵光”开启新版内测，全面对标Meta Muse升级智能体",
+    "内容": "蚂蚁集团旗下AI产品“灵光”近日开启新版本小范围内测，全面对标Meta于今年9月发布的个人智能体Muse。该项目筹备半年，计划于本月全面开放。此次升级核心在于从基础AI助手向具备长期记忆、可主动推进复杂任务的AI原生个人智能体跨越。新版本通过调用Skill和MCP协议，实现了钉钉发信息、控制智能家居等跨应用操作。内测用例聚焦长程、多变量场景，包括追踪市场异动、协助家长管理钉钉打卡，以及在航班延误或景区限流时自动重排旅行路线。此次迭代标志着国内大厂正加速布局主动式AI智能体，推动应用向全流程任务托管深度演进，为用户提供更具自主性的智能化服务。",
     "发布日期": "2026-10-12",
     "原文链接": "https://www.aibase.com/zh/news/31550",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6d785d4bd20eee7402573734c0cc7791.jpg",
@@ -10,33 +10,43 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202511281048052212_0.jpg"
   },
   {
-    "资讯标题": "腾讯云正式开源内部AI协作工具TeamAI，支持跨Agent共享Skill与版本控制",
-    "内容": "腾讯云正式开源内部自用的团队AI协作工具TeamAI，旨在通过Git仓库管理团队的Skill、工作规范及项目知识，实现“一人配置，全员复用”。该工具目前已适配WorkBuddy、CodeBuddy、Claude Code、Cursor等16种主流Agent。其核心逻辑是将AI技能管理流程化，成员提交技能或修改规范时需通过分支管理与合并请求评审，合入后支持会话启动Hook的Agent可自动拉取更新。此外，TeamAI支持模型配置统一下发与安全管控，并能自动记录工具失败经验存入仓库供后续检索。该工具已集成至腾讯云智能体管理平台ClawPro，管理员可通过管控台统一管理Skill与MCP配置，并高效分发至各接入Agent，显著简化了企业级大模型工作流的协作与规范落地。",
+    "资讯标题": "苹果将于10月13日发布HomeView中枢并联合LG开发智能家居硬件",
+    "内容": "苹果计划于10月13日发布新一代智能家居产品，包括搭载A18芯片的智能家居中枢HomeView、搭载S10芯片的HomePod mini及搭载A19芯片的Apple TV。HomeView提供桌面与壁挂两种版本，预计11月中旬上市，其余两款产品将于10月30日开售。HomeView配备显示屏，定位为家庭智能设备的集中控制中枢。此外，苹果正与LG电子合作开发智能门铃、门锁、恒温器及安防摄像头等设备，将以“Apple Home Collection”品牌推出，预计最早于2026年晚些时候上市。此次布局旨在通过家庭控制中枢与配套硬件强化生态联动，进一步拓展智能家居硬件矩阵。目前相关产品规格、售价及具体上市安排仍待苹果官方确认。",
     "发布日期": "2026-10-12",
-    "原文链接": "https://www.aibase.com/zh/news/31546",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/281f72c29056c91d234065fc97b1b348.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/281f72c29056c91d234065fc97b1b348.jpg",
-    "配图仓库路径": "assets/news_images/281f72c29056c91d234065fc97b1b348.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1010/6392724964764138783413937.png"
+    "原文链接": "https://www.aibase.com/zh/news/31558",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/21b4950880151a7a617ad647002b3a2b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/21b4950880151a7a617ad647002b3a2b.jpg",
+    "配图仓库路径": "assets/news_images/21b4950880151a7a617ad647002b3a2b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202208250900441669_0.jpg"
   },
   {
-    "资讯标题": "纽约大学教授盖瑞·马库斯呼吁全网下架联网开放式AI智能体",
-    "内容": "纽约大学教授盖瑞·马库斯（Gary Marcus）近日公开呼吁，要求市场立即下架所有具备联网能力的开放式AI智能体（Agent），直至其技术缺陷与安全隐患得到彻底修复。马库斯指出，近期由Anthropic智能体引发的安全事故及行业内频发的失控事件，证明当前合成智能体尚无法被公众或企业完全信任。他将这些存在漏洞的系统比作刹车失灵的汽车，主张应果断召回。此外，马库斯引用OpenAI前员工大卫·罗宾逊的爆料称，前沿AI公司在安全运行环境上的投入远未达到核电站级别的冗余标准。他批评政府目前仅要求加强信息披露的监管措施力度不足，并警告若不采取强制性临时召回等强硬手段，一旦爆发重大灾难，相关科技企业及监管机构将面临严重后果。此举旨在推动行业重新审视AI Agent的安全性与风险管控机制。",
+    "资讯标题": "腾讯上线AI创作撮合平台「企鹅微单」，支持需求发布、智能匹配与微信内结算",
+    "内容": "腾讯近期在微信生态内正式上线创作撮合平台「企鹅微单」，旨在连接AI创作需求方与具备AI制图、视频剪辑能力的创作者。该平台目前处于早期开放阶段，主要服务于电商商家、短视频团队等需求方，以及掌握AI工具的手艺人。平台内置AI助手协助梳理创作需求，通过需求发布、智能匹配、三方群组沟通、下单付款及验收结算的完整链路，实现交易闭环。手艺人需通过客服渠道提交申请并经审核后入驻。企鹅微单通过标准化交易流程，将分散的AI创作者接入商业化链路，旨在解决AI创作工具变现难的问题。后续平台能否形成稳定的供给与复购，将取决于其定价机制、交付标准及结算规则的进一步完善。",
     "发布日期": "2026-10-12",
-    "原文链接": "https://www.aibase.com/zh/news/31545",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f955a00f3a7fa1a2c4c0e69171113e05.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f955a00f3a7fa1a2c4c0e69171113e05.jpg",
-    "配图仓库路径": "assets/news_images/f955a00f3a7fa1a2c4c0e69171113e05.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305300842486969_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31559",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/aa020c7c8eb55b3d8807dd2605a9dccf.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/aa020c7c8eb55b3d8807dd2605a9dccf.jpg",
+    "配图仓库路径": "assets/news_images/aa020c7c8eb55b3d8807dd2605a9dccf.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1012/6392739774055687178023834.jpg"
   },
   {
-    "资讯标题": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-    "内容": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 10, 202655近期，国内大模型头部企业北京月之暗面科技股份有限公司迎来了又一次重大的工商变更。其注册资本由原先的约1157.53万元人民币正式增至约1437.23万元人民币，增幅大约为24%。值得注意的是，这并非该公司今年以来的首次调整，回顾今年以来的发展历程，其注册资本已经经历多次密集增资，从最初的100万元人民币一路攀升至如今的约1437.23万元。作为国内备受瞩目的 AI 独角兽企业，月之暗面自2023年4月正式成立以来便备受资本市场青睐。目前，公司的法定代表人为杨植麟，核心经营范围涵盖软件开发以及人工智能相关软件开发等前沿领域。",
+    "资讯标题": "亚马逊拟以70亿美元收购AI初创公司Decart，布局跨芯片适配技术",
+    "内容": "亚马逊正与AI初创公司Decart商谈收购事宜，交易潜在估值约为70亿美元。Decart的核心技术在于跨芯片适配软件，该软件充当“万能转接头”，旨在解决AI模型在不同品牌芯片间迁移时的底层适配难题，实现工作负载（workload）的灵活调度。此前，Anthropic曾于今年8月以约60亿美元报价洽购Decart，但于9月退出谈判。Decart此前已累计融资超4亿美元，今年5月估值近40亿美元。对于以云服务和算力为核心业务的亚马逊而言，此举意在通过底层技术打破芯片厂商的生态壁垒，提升其云平台对客户的吸引力，确保模型在不同硬件环境下的无缝运行，从而进一步巩固其在AI基础设施领域的竞争优势。",
     "发布日期": "2026-10-12",
-    "原文链接": "https://www.aibase.com/zh/news/31547",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
-    "配图仓库路径": "assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405240907574564_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31551",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d8495333cc73fd708a9f4b2acf78a186.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d8495333cc73fd708a9f4b2acf78a186.jpg",
+    "配图仓库路径": "assets/news_images/d8495333cc73fd708a9f4b2acf78a186.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005281122130015_60.jpg"
+  },
+  {
+    "资讯标题": "OpenAI将GPT-6.1 Sol默认上下文扩容至500k并取消长文本额外收费",
+    "内容": "OpenAI工程师Thibault Sottiaux宣布，GPT-6.1 Sol模型在Codex与Work环境下的默认上下文长度已从272k tokens提升至500k，增幅约80%。此次升级旨在提升模型处理长篇报告、大型代码库及复杂多轮对话的能力，减少自动压缩带来的信息丢失。除默认窗口扩容外，用户仍可手动将上下文上限调节至1M。配合此次调整，OpenAI宣布不再对长上下文功能收取额外费用，变相降低了重度使用者的成本门槛。官方表示，500k是平衡性能与体验的“甜点区”。这一举措直接优化了长程记忆任务的交互体验，在当前大模型窗口竞争激烈的背景下，通过免除附加费进一步强化了GPT-6.1 Sol的市场竞争力。",
+    "发布日期": "2026-10-12",
+    "原文链接": "https://www.aibase.com/zh/news/31560",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/71193de35e82f8b642dbd82dd58f1caf.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/71193de35e82f8b642dbd82dd58f1caf.jpg",
+    "配图仓库路径": "assets/news_images/71193de35e82f8b642dbd82dd58f1caf.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150931182754_0.jpg"
   }
 ]
