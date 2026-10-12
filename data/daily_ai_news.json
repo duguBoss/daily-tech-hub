@@ -1,18 +1,18 @@
 [
   {
-    "资讯标题": "阿里 Qoder 正式上线 Fast 模式，实现 3 秒响应及 27% 成本降低",
-    "内容": "阿里 Qoder 近日宣布上线全新的 Fast 模式，支持桌面端 0.4.4 及以上版本，覆盖个人版、企业版及 CN 与国际版。CN 版新增 Fast 档位，国际版则将原 Performance 模式自动升级为 Fast 模式。核心性能方面，Fast 模式首次响应时间缩短至 3 秒，相较原 Performance 模式的 8 秒大幅提速，且仅为 Auto 模式响应时间的 1/3。在成本控制上，Credits 消耗从 1.1x 降至 0.8x，降幅约 27%。官方横向测评显示，在 10 个常见开发者任务中，Qoder Fast 的完成用时仅为国内同类产品的 1/3、海外同类产品的 1/4。该模式旨在为日常任务提供更高效、经济的交付方案，后续 Qoder 产品家族将陆续接入此模式。",
-    "发布日期": "2026-10-11",
-    "原文链接": "https://www.aibase.com/zh/news/31538",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/200944a70eb0e53b3faf12634ad19144.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/200944a70eb0e53b3faf12634ad19144.jpg",
-    "配图仓库路径": "assets/news_images/200944a70eb0e53b3faf12634ad19144.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310311416147098_0.jpg"
+    "资讯标题": "蚂蚁集团AI产品“灵光”开启新版内测，全面对标Meta Muse智能体",
+    "内容": "蚂蚁集团旗下AI产品“灵光”近日开启新版本小范围内测，核心对标Meta于今年9月发布的个人智能体Muse。该项目筹备半年，计划于本月全面开放。此次升级标志着“灵光”从基础AI助手向具备长期记忆、可主动推进复杂任务的AI原生个人智能体转型。新版本通过调用Skill和MCP协议，实现了跨应用操作能力，支持钉钉发信息及智能家居控制。内测用例聚焦长程、多变量场景，涵盖市场异动追踪、钉钉打卡管理及旅行突发状况下的自动路线重排。此次迭代反映了国内大厂正加速布局主动式AI智能体，推动应用向全流程任务托管深度演进，旨在解决传统AI在复杂任务执行中的痛点。",
+    "发布日期": "2026-10-12",
+    "原文链接": "https://www.aibase.com/zh/news/31550",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6d785d4bd20eee7402573734c0cc7791.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6d785d4bd20eee7402573734c0cc7791.jpg",
+    "配图仓库路径": "assets/news_images/6d785d4bd20eee7402573734c0cc7791.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202511281048052212_0.jpg"
   },
   {
-    "资讯标题": "腾讯云正式开源内部团队协作工具 TeamAI，支持跨 Agent 共享 Skill",
-    "内容": "腾讯云正式开源内部自用的团队 AI 协作工具 TeamAI，该工具基于 Git 构建，旨在将团队的 Skill、工作规范及工具配置统一纳入 Git 仓库管理，实现“一人配置，全员复用”。TeamAI 目前已适配 WorkBuddy、CodeBuddy、Claude Code、Cursor 等 16 种主流 Agent。团队成员提交技能或修改规范时，系统支持通过分支管理与合并请求进行评审，确认合入后，支持会话启动 Hook 的 Agent 可自动拉取最新更新。此外，该工具支持模型配置统一下发与安全管控，并能将 Agent 的纠正记录与失败经验整理存入仓库，供后续检索参考。TeamAI 已集成至腾讯云智能体管理平台 ClawPro，管理员可通过管控台统一管理 Skill 与 MCP 配置，并高效分发至已接入的各个 ",
-    "发布日期": "2026-10-11",
+    "资讯标题": "腾讯云正式开源内部AI协作工具TeamAI，支持跨Agent共享Skill与版本控制",
+    "内容": "腾讯云正式开源内部自用的团队AI协作工具TeamAI，旨在通过Git仓库管理团队的Skill、工作规范及项目知识，实现“一人配置，全员复用”。该工具目前已适配WorkBuddy、CodeBuddy、Claude Code、Cursor等16种主流Agent。其核心逻辑是将AI技能管理流程化，成员提交技能或修改规范时需通过分支管理与合并请求评审，合入后支持会话启动Hook的Agent可自动拉取更新。此外，TeamAI支持模型配置统一下发与安全管控，并能自动记录工具失败经验存入仓库供后续检索。该工具已集成至腾讯云智能体管理平台ClawPro，管理员可通过管控台统一管理Skill与MCP配置，并高效分发至各接入Agent，显著简化了企业级大模型工作流的协作与规范落地。",
+    "发布日期": "2026-10-12",
     "原文链接": "https://www.aibase.com/zh/news/31546",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/281f72c29056c91d234065fc97b1b348.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/281f72c29056c91d234065fc97b1b348.jpg",
@@ -20,33 +20,23 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1010/6392724964764138783413937.png"
   },
   {
-    "资讯标题": "微软发布决策模型Microsoft-Decision-1，36项基准测试夺冠",
-    "内容": "微软正式推出专注于结构化决策任务的AI模型Microsoft-Decision-1。该模型基于Qwen3.5-9B底座进行专项后训练，在覆盖15万道问题的36项权威基准测试中均位列第一。其核心功能在于从预设选项中精准选取最优解并提供概率评分，适用于路由分发、内容分类等业务场景，可无缝嵌入现有AI Agent及工作流系统。在性能与成本方面，该模型具备极高鲁棒性，决策翻转率极低。定价策略极具竞争力，输入端每百万tokens仅需0.042美元，输出端免费。目前，该模型已通过微软AI开发平台向开发者开放，后续计划接入OpenRouter平台。Microsoft-Decision-1在保持与大型模型相当质量的同时，实现了运行速度的跨越式提升，显著降低了复杂工作流的部署成本。",
-    "发布日期": "2026-10-11",
-    "原文链接": "https://www.aibase.com/zh/news/31533",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
+    "资讯标题": "纽约大学教授盖瑞·马库斯呼吁全网下架联网开放式AI智能体",
+    "内容": "纽约大学教授盖瑞·马库斯（Gary Marcus）近日公开呼吁，要求市场立即下架所有具备联网能力的开放式AI智能体（Agent），直至其技术缺陷与安全隐患得到彻底修复。马库斯指出，近期由Anthropic智能体引发的安全事故及行业内频发的失控事件，证明当前合成智能体尚无法被公众或企业完全信任。他将这些存在漏洞的系统比作刹车失灵的汽车，主张应果断召回。此外，马库斯引用OpenAI前员工大卫·罗宾逊的爆料称，前沿AI公司在安全运行环境上的投入远未达到核电站级别的冗余标准。他批评政府目前仅要求加强信息披露的监管措施力度不足，并警告若不采取强制性临时召回等强硬手段，一旦爆发重大灾难，相关科技企业及监管机构将面临严重后果。此举旨在推动行业重新审视AI Agent的安全性与风险管控机制。",
+    "发布日期": "2026-10-12",
+    "原文链接": "https://www.aibase.com/zh/news/31545",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f955a00f3a7fa1a2c4c0e69171113e05.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f955a00f3a7fa1a2c4c0e69171113e05.jpg",
+    "配图仓库路径": "assets/news_images/f955a00f3a7fa1a2c4c0e69171113e05.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305300842486969_0.jpg"
   },
   {
-    "资讯标题": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
-    "内容": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 10, 20262近日，OpenAI 一举公开了722篇前沿数学手稿，其中两篇重磅论文直接瞄准了数学界的世纪难题——挂谷猜想（Kakeya Conjecture）。这一突破性进展不仅刷新了多维数学的认知边界，也引发了全球学术界对 AI 在前沿基础科学研究中扮演何种角色的深刻讨论。在公开的手稿中，两篇核心论文分别聚焦于三维挂谷极大函数猜想以及四维一般挂谷集合的满维证明。其中，针对三维的版本比此前由青年数学家王虹与 Zahl 联合解决的三维挂谷集合版更强。而四维版本则直接将此前四维挂谷集合的维数下界从3.059戏剧性地推进到了满维4。",
-    "发布日期": "2026-10-11",
-    "原文链接": "https://www.aibase.com/zh/news/31535",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
-    "配图仓库路径": "assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405110933330041_0.jpg"
-  },
-  {
-    "资讯标题": "Anthropic旗下Claude协助天体物理学家绘制首张完整紫外全天图",
-    "内容": "天体物理学家利用Anthropic旗下大模型Claude成功绘制出人类历史上首张完整的紫外全天图，涵盖1.19亿颗恒星。该成果填补了过去50年因紫外巡天望远镜避开银河亮区而留下的历史空白，其中约三分之一的天区由Claude基于多波段天文观测数据推算补全。Claude通过调度多智能体，高效完成了数据归集、校准、交叉定标及补全任务，将原本数周的处理周期缩短至数天。经比对，AI补全区域的数据与真实测量值误差仅维持在10%左右，且模型在图像中精准标注了像素的实测或推算属性及误差范围。此次实践证明，AI智能体可有效处理积压的基础科研难题，使研究人员能从繁琐的底层数据处理中抽身，专注于科研方向把控与核心科学问题的识别。",
-    "发布日期": "2026-10-11",
-    "原文链接": "https://www.aibase.com/zh/news/31532",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
-    "配图仓库路径": "assets/news_images/080fe9189b1afd9bb85fd10d4f20ed83.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403050858462025_0.jpg"
+    "资讯标题": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
+    "内容": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 10, 202655近期，国内大模型头部企业北京月之暗面科技股份有限公司迎来了又一次重大的工商变更。其注册资本由原先的约1157.53万元人民币正式增至约1437.23万元人民币，增幅大约为24%。值得注意的是，这并非该公司今年以来的首次调整，回顾今年以来的发展历程，其注册资本已经经历多次密集增资，从最初的100万元人民币一路攀升至如今的约1437.23万元。作为国内备受瞩目的 AI 独角兽企业，月之暗面自2023年4月正式成立以来便备受资本市场青睐。目前，公司的法定代表人为杨植麟，核心经营范围涵盖软件开发以及人工智能相关软件开发等前沿领域。",
+    "发布日期": "2026-10-12",
+    "原文链接": "https://www.aibase.com/zh/news/31547",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
+    "配图仓库路径": "assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405240907574564_1.jpg"
   }
 ]
