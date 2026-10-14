@@ -1,17 +1,17 @@
 [
   {
-    "资讯标题": "苹果发布HomeView等四款智能家居新品，Siri AI全面进驻家庭生态",
-    "内容": "苹果公司在“欢迎回家”发布会上推出四款智能家居新品，正式将基于Apple Foundation Models的Siri AI引入家庭生态。核心产品Apple HomeView智能显示屏采用7英寸Liquid Retina屏幕，支持面部识别与个性化主屏，定价299美元，11月13日发售。新款Apple TV 4K搭载A19芯片，CPU与GPU性能分别提升50%及2倍，支持远场语音唤醒与上下文连续追问。第二代HomePod mini升级S10芯片，支持四声道环绕声系统，售价149美元。此外，苹果联合LG与施耐德电气推出Apple Home Collection系列，涵盖安防摄像头、UWB智能门锁及温控器等设备。此次布局标志着苹果在智能家居领域从单一硬件向AI驱动的深度交互生态转型，通过Siri AI提供更自然的对话",
+    "资讯标题": "苹果诉OpenAI窃密案获进展：法院准其调取招聘材料及LINE聊天记录",
+    "内容": "苹果诉OpenAI窃密案取得关键进展，联邦法官裁定苹果可调取OpenAI招聘相关材料，重点聚焦OpenAI在面试前接触苹果员工的行为，特别是针对其消费硬件与机器人部门岗位的招聘。法院要求OpenAI在5天内提交首批面试清单、指引及技术演示等记录，并在14天内补齐剩余材料。同时，法院批准苹果获取OpenAI员工刘畅、彭艾莉莎的LINE私聊记录，并对上述二人及硬件首席官邓耀谭启动庭外取证。苹果此前指控前员工利用公司笔记本下载未公开的技术规格、工程演示及专属项目数据，意图在面试中泄露以获取职位。尽管法官驳回了苹果关于调取金属表面处理、电源管理等特定研发资料的申请，但允许苹果缩小范围后重新递交。此案核心在于苹果担忧OpenAI研发的消费硬件产品窃取其芯片与图纸等商业秘密，双方围绕硬件人才与技术机密的法律博弈仍在持续。",
     "发布日期": "2026-10-14",
-    "原文链接": "https://www.aibase.com/zh/news/31627",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f018c376cd64e0e60bf82308de3ccbfc.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f018c376cd64e0e60bf82308de3ccbfc.jpg",
-    "配图仓库路径": "assets/news_images/f018c376cd64e0e60bf82308de3ccbfc.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1014/6392756689181270821255999.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31626",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/34f8ec0f302b1149813b1236ad1a3431.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/34f8ec0f302b1149813b1236ad1a3431.jpg",
+    "配图仓库路径": "assets/news_images/34f8ec0f302b1149813b1236ad1a3431.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304121100054471_0.jpg"
   },
   {
     "资讯标题": "英伟达CEO黄仁勋追加20亿美元投资欧洲，并注资四家法国AI初创企业",
-    "内容": "英伟达CEO黄仁勋于10月13日宣布，将在原有基础上追加20亿美元投资欧洲，过去一年英伟达在该地区的总投入已达80亿美元。黄仁勋在巴黎访问期间明确表示“欧洲必须加入AI竞争”，并强调通过开源模型实现技术主权的重要性。此次投资重点布局四家法国初创企业：医疗预约平台Doctolib、企业AI管理软件商Pigment、化学材料AI研发商Entalpic以及机器人技术公司Genesis AI。英伟达此前已与Mistral AI建立深度合作，为其提供4000颗Grace Blackwell GPU用于模型训练。黄仁勋此举旨在通过资本绑定欧洲生态，推动“物理AI”及人形机器人技术发展，同时降低市场对单一美国巨头的依赖。尽管面临欧洲公众对数据中心能耗及模型安全的质疑，英伟达仍计划在全球范围内持续投入数千亿美元，以加速AI应用",
+    "内容": "英伟达CEO黄仁勋于10月13日宣布，将在原有基础上追加20亿美元投资欧洲，此前一年英伟达已在欧洲投入80亿美元。黄仁勋在巴黎访问期间明确表示“欧洲必须加入这场竞争”，并强调通过开源模型实现技术主权的重要性。此次投资重点布局四家法国初创企业：医疗预约平台Doctolib、企业AI管理软件商Pigment、化学材料AI研发商Entalpic以及机器人技术公司Genesis AI。英伟达此前已与Mistral AI建立深度合作，为其提供4000颗Grace Blackwell芯片用于训练Le Chonk模型。通过此次资本注入，英伟达旨在进一步绑定欧洲AI生态，推动其芯片在物理AI及人形机器人领域的应用，以应对市场对单一美国巨头的依赖，并加速欧洲本土AI产业的定制化发展。",
     "发布日期": "2026-10-14",
     "原文链接": "https://www.aibase.com/zh/news/31620",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3371edac10193960308e8a3aac430def.jpg",
@@ -20,33 +20,33 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202010261720420670_6.jpg"
   },
   {
-    "资讯标题": "OpenAI沙特籍工程师因非法安装录音设备窃听高管会议被捕",
-    "内容": "美国司法部公告显示，OpenAI沙特籍工程师Abdulrahman Alfozan因涉嫌在旧金山办公室高管会议室安装隐藏录音设备，已被逮捕并控以“非法拦截口头通信”罪名。Alfozan于2025年7月入职，9月28日在会议室电视机背后的USB端口安装录音装置，该设备于9月30日被OpenAI安全团队发现。调查显示，Alfozan利用生产力工具检索高管会议排期，并通过关联配偶的聊天机器人账户咨询监听技术细节。该会议室涉及专有研究、产品规划及政府合作等核心机密。目前OpenAI已将其解雇并移交FBI处理，官方初步评估认为模型权重、源代码及客户数据未受影响。若罪名成立，Alfozan最高将面临5年监禁及25万美元罚款。此事件暴露了AI巨头在物理安全管控及内部人员权限管理方面的潜在漏洞，引发行业对核心资产保护的深度关注",
+    "资讯标题": "Siri AI 全面进驻智能家居:苹果连发四款重磅新品，开启客厅生态新纪元",
+    "内容": "Siri AI 全面进驻智能家居:苹果连发四款重磅新品，开启客厅生态新纪元AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 14, 202626苹果公司近日举行了主题为“欢迎回家”（Welcome Home）的发布会，一口气推出四项重大公告，正式全面进军此前由亚马逊和谷歌引领的智能家居市场。此次发布的核心主题是全面引入全新升级的 Siri AI（基于 Apple Foundation Models 构建），为家庭生态提供更深度的个性化和自然对话支持。以下是本次发布会的各项核心新品详情: 1. Apple HomeView 智能显示屏作为本次发布会的绝对主角，Apple HomeView是苹果首款智能显示屏。",
     "发布日期": "2026-10-14",
-    "原文链接": "https://www.aibase.com/zh/news/31618",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图仓库路径": "assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31627",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f018c376cd64e0e60bf82308de3ccbfc.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f018c376cd64e0e60bf82308de3ccbfc.jpg",
+    "配图仓库路径": "assets/news_images/f018c376cd64e0e60bf82308de3ccbfc.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1014/6392756689181270821255999.jpg"
   },
   {
-    "资讯标题": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
-    "内容": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 13, 202638据路透社看到的 IDC 报告，2026 年上半年，英伟达在中国数据中心 AI 芯片市场的占有率滑落到 34%。背后推手清晰：美国出口管制捆住了其产品供应，而中国本土对手趁机扩张。IDC 数据显示，今年 1 至 6 月，英伟达在华 AI 加速器（用于训练与运行 AI 模型）出货量仅 67.8 万颗，同比骤降 44%。CEO 黄仁勋早就不止一次炮轰华盛顿的限令，直言这套政策逼着英伟达把中国这块价值 500 亿美元的 AI 芯片市场，拱手送给华为。",
+    "资讯标题": "Google DeepMind发布Gemini 4 Argon模型，单次输出上限提升至百万Token",
+    "内容": "Google DeepMind于9月30日推出新一代前沿模型Gemini 4 Argon，核心突破在于将单次输出上限从64K提升至100万Token，显著增强了长周期任务的连贯性。该模型主攻软件工程、法律、金融及网络安全防御，在DeepSWE v1.1、Vals指数、AutomationBench及LVBench等评测中表现领先。在安全领域，Argon具备自主发现并修补漏洞的能力，CWE-bench v1漏洞修复率达68%。目前该模型采取分阶段发布策略，优先面向可信防御者、开发者及企业用户。定价方面，介绍期每百万输入/输出Token分别为2美元和10美元，后续将调整为4美元和20美元。Google正通过防滥用、防提示注入及强化沙箱等措施加固安全防线，旨在通过高输出能力解决复杂长程工作流中的硬核需求。",
     "发布日期": "2026-10-14",
-    "原文链接": "https://www.aibase.com/zh/news/31617",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4f24aa4d27e1ee5273cde56e6fb8a295.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4f24aa4d27e1ee5273cde56e6fb8a295.jpg",
-    "配图仓库路径": "assets/news_images/4f24aa4d27e1ee5273cde56e6fb8a295.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202005281121329984_8.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31634",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2af7948616e4074c69ff40aec3748ff8.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2af7948616e4074c69ff40aec3748ff8.jpg",
+    "配图仓库路径": "assets/news_images/2af7948616e4074c69ff40aec3748ff8.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1014/6392757271584257697560544.png"
   },
   {
-    "资讯标题": "Higgsfield接入GPT-6 Astra，AI视频生成时长提升至10分钟并解决角色串戏",
-    "内容": "AI视频生成平台Higgsfield宣布接入GPT-6 Astra，将AI生成视频的时长上限从1分钟提升至10分钟。GPT-6 Astra作为核心驱动，通过调用外部工具实现“创意智能体”统筹，有效解决了长视频中角色长相、场景及视觉细节不一致的“串戏”问题。目前，Higgsfield已利用该技术在其拥有近50万订阅者的YouTube频道产出长教学视频。此外，平台还集成了GPT-Image-2.5以提升文字和信息图的渲染稳定性，并借助OpenAI的Codex加速产品迭代。Higgsfield计划下一阶段基于GPT-Live-1探索“语音到视频”的实时创作模式，旨在通过自动化流程降低长内容制作门槛，进一步冲击传统视频制作领域。",
+    "资讯标题": "1400万企业的 AI 同事上线:WorkBuddy 进通讯录，群聊勾选即成任务、产物直接发回企微",
+    "内容": "1400万企业的 AI 同事上线:WorkBuddy 进通讯录，群聊勾选即成任务、产物直接发回企微AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 14, 20262310月14日，腾讯WorkBuddy宣布与企业微信完成深度融合，WorkBuddy客户端现可在企业授权范围内调用消息、文档、会议、微盘等十大能力，并以对话机器人身份进入企业微信通讯录列表，用户可在聊天中直接下达指令。该能力面向已认证企业开放，需将WorkBuddy升级至5.8.0及以上、企业微信升级至5.0.12及以上版本，由管理员在后台统一领用。在具体能力上，WorkBuddy可按「需处理/值得关注/其他」三类归纳企业微信未读消息与未读邮件，并提炼摘要与待办动作。",
     "发布日期": "2026-10-14",
-    "原文链接": "https://www.aibase.com/zh/news/31623",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d8050676c877408762baaa7c6e1e93f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d8050676c877408762baaa7c6e1e93f.jpg",
-    "配图仓库路径": "assets/news_images/5d8050676c877408762baaa7c6e1e93f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704350132_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31632",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ad34c1a45a6938ced3df2b91cf663318.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ad34c1a45a6938ced3df2b91cf663318.jpg",
+    "配图仓库路径": "assets/news_images/ad34c1a45a6938ced3df2b91cf663318.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1014/6392757204065559533970537.jpg"
   }
 ]
