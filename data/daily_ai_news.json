@@ -1,18 +1,38 @@
 [
   {
-    "资讯标题": "昆仑万维发布并开源视频大模型游戏 Matrix-Game 4.0，支持单张消费级显卡运行",
-    "内容": "昆仑万维于10月15日正式发布全球首款可在单张消费级显卡上流畅运行的视频大模型游戏 Matrix-Game 4.0，并同步宣布开源该项目。该版本在技术架构上首次跑通了“代码生成游戏逻辑、结构画面提供结构约束、视频模型实时渲染”的完整技术闭环。Matrix-Game 4.0 的推出解决了以往大模型游戏对高性能算力的极高依赖，显著降低了运行门槛。这一技术突破为游戏原型开发、个性化内容定制以及用户生成内容（UGC）提供了具备落地可行性的全新路径，标志着视频大模型在游戏领域的应用迈向轻量化与普及化，对开发者探索低成本、高效率的游戏创作模式具有重要行业参考价值。",
-    "发布日期": "2026-10-15",
-    "原文链接": "https://www.aibase.com/zh/news/31654",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dbc7173c9858786d61652308aad5fa67.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dbc7173c9858786d61652308aad5fa67.jpg",
-    "配图仓库路径": "assets/news_images/dbc7173c9858786d61652308aad5fa67.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308251431186167_0.jpg"
+    "资讯标题": "阶跃星辰开源Step 5 Preview模型权重，支持百万上下文与MoE架构",
+    "内容": "阶跃星辰正式开源Step 5 Preview模型权重，同步向全球开发者提供BF16与FP8版本权重、技术博客及配套开发工具。该模型采用稀疏MoE架构，总参数量600B，单token激活参数为27B，在保持高效推理的同时，原生支持文本与视觉多模态输入，并具备100万token超长上下文窗口，专为长程复杂Agent任务优化。此前，该模型在OpenRouter调用量排名中曾位居全球第二。目前，模型权重已上线Hugging Face与ModelScope平台，适配主流芯片与推理框架，支持本地部署及离线推理。阶跃星辰通过公开架构设计与训练协同优化细节，旨在降低开发者构建先进智能应用的门槛，加速大模型在垂直与长程应用场景的落地。",
+    "发布日期": "2026-10-16",
+    "原文链接": "https://www.aibase.com/zh/news/31664",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d6b3ddd4e3925de598c1d224d1efc304.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d6b3ddd4e3925de598c1d224d1efc304.jpg",
+    "配图仓库路径": "assets/news_images/d6b3ddd4e3925de598c1d224d1efc304.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307261637346165_3.jpg"
   },
   {
-    "资讯标题": "上海人工智能实验室依托书生科学多模态大模型S2破解三维Ghys猜想",
-    "内容": "上海人工智能实验室近日宣布，科研团队依托“书生科学多模态大模型 S2”（书生-S2），成功破解了困扰数学界长达30年的世界级难题——三维 Ghys 猜想。这是中国科学家首次利用国产大模型攻克世界级数学难题。该研究由大湾区大学许地生教授团队领衔，采用“通专融合”技术路径，通过人机协同完成证明。北京大学董彬教授与刘若川院士团队随后利用自主开发的 SHEAF 框架，对证明过程进行了形式化验证，确凿证实了成果的正确性。三维 Ghys 猜想由法国数学家 Étienne Ghys 于1995年提出，涉及紧致复流形上的全纯 Anosov 系统，是检验 AI 数学推理能力的标志性难题。此次突破不仅验证了国产大模型在尖端科学计算与复杂逻辑推理中的深厚潜力，也为 AI 深度赋能基础科学研究提供了全新的实践范式。",
-    "发布日期": "2026-10-15",
+    "资讯标题": "蚂蚁百灵开源Ling-3.1-flash模型：560B参数部署降至4卡，支持1M上下文",
+    "内容": "10月15日，蚂蚁集团百灵大模型正式开源Ling-3.1-flash。该模型采用混合线性架构，总参数量约560B，激活参数约25B，最高支持1M上下文。在性能方面，模型在办公、医疗、软件工程及终端操作等复杂工作流中表现优异，在GDPVal-AA V2.1评测中获得1673分（ELO），HealthBench Professional得分65.35。针对部署优化，团队通过对routed experts采用MXFP4量化及dense层保持block-FP8，将权重占用从约534GB降至292GB，使Hopper GPU环境下的服务部署需求从8卡降至4卡。该模型主打“智效比”，在Artificial Analysis评测中智能指数达41，输出速度约210 Token/s，混合调用价格约为0.19美元/百万Token。",
+    "发布日期": "2026-10-16",
+    "原文链接": "https://www.aibase.com/zh/news/31660",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/eaf5f8b239f734453aabfbec86083720.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/eaf5f8b239f734453aabfbec86083720.jpg",
+    "配图仓库路径": "assets/news_images/eaf5f8b239f734453aabfbec86083720.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1015/6392766854674324935807908.png"
+  },
+  {
+    "资讯标题": "苹果计划12月在华推出Apple Intelligence，百度与阿里提供技术支持",
+    "内容": "苹果计划于今年12月通过iOS 27.3系统更新，正式在中国大陆推出Apple Intelligence。首批上线功能涵盖iPhone、iPad与Mac的基础AI服务，但今年全新改版的Siri AI助手暂不包含在内。该服务已于7月完成生成式AI服务备案，并于9月29日获得上线许可。在技术合作方面，百度将负责搜索及视觉智能功能，iOS 27 Beta 2固件中已出现“Baidu Visual Search”模块。阿里则作为模型底座提供方，其通义万相与Qwen模型将集成至iOS、iPadOS、macOS及visionOS，支持文本理解、图像生成与内容创作。Apple Intelligence架构由端侧30亿参数模型与云端高性能模型组成，此次通过接入本土大模型与搜索能力，苹果旨在确保国行用户获得合规且完整的系统AI体",
+    "发布日期": "2026-10-16",
+    "原文链接": "https://www.aibase.com/zh/news/31661",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a56476344ae1e88b3abd29f84eb89018.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a56476344ae1e88b3abd29f84eb89018.jpg",
+    "配图仓库路径": "assets/news_images/a56476344ae1e88b3abd29f84eb89018.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202508221608147735_0.jpg"
+  },
+  {
+    "资讯标题": "上海人工智能实验室依托书生科学多模态大模型破解三维Ghys猜想",
+    "内容": "上海人工智能实验室访问学者许地生团队近日利用“书生科学多模态大模型 S2”（书生-S2），成功破解了困扰数学界长达30年的世界级难题——三维 Ghys 猜想。这是中国科学家首次利用国产大模型攻克世界级数学难题。该研究采用“通专融合”技术路径，通过人机协同完成证明，并由北京大学董彬教授、刘若川院士团队利用自主开发的 SHEAF 框架进行形式化验证，确凿证实了成果的正确性。三维 Ghys 猜想由法国数学家 Étienne Ghys 于1995年提出，涉及紧致复流形上的全纯 Anosov 系统，是检验 AI 数学推理能力的试金石。此次突破不仅展现了国产大模型在尖端科学计算与复杂逻辑推理方面的潜力，也为人工智能深度赋能基础科学研究提供了全新的实践路径。",
+    "发布日期": "2026-10-16",
     "原文链接": "https://www.aibase.com/zh/news/31658",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
@@ -20,33 +40,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556149296_6.jpg"
   },
   {
-    "资讯标题": "xAI 发布 Grok Voice 3.0 语音模型，定价维持每分钟 0.08 美元",
-    "内容": "xAI 正式发布 Grok Voice 3.0 语音模型，并通过语音代理 API 全面开放使用，定价维持在每分钟 0.08 美元。该模型在语音到语音（Speech-to-Speech）综合指数测试中以 86.9 分位列榜首，其平均首次音频响应时间仅为 0.81 秒。在核心能力方面，Grok Voice 3.0 的任务成功率位居行业第一，音频推理能力超越谷歌相关模型，语音智能体执行能力紧随 GPT-Live-1 中配版本之后。目前，该模型已深度落地于特斯拉智能语音交互系统，并全面接入 SpaceX 星链（Starlink）客服中心。数据显示，星链客服中心每日处理约 2 万通多语言来电，其中 70% 可由该模型独立解决，无需人工介入。官方强调，Grok Voice 3.0 实现了响应时长低于 1 秒与低成本运营的平",
-    "发布日期": "2026-10-15",
-    "原文链接": "https://www.aibase.com/zh/news/31645",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "配图仓库路径": "assets/news_images/b2713b9bed5394a327bf18f3bba64c64.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202403290922581712_0.jpg"
-  },
-  {
-    "资讯标题": "OpenAI研发下一代旗舰模型，引入循环Transformer技术提升推理能力",
-    "内容": "OpenAI正加速研发下一代旗舰模型，该模型采用与Astra相同的“循环深度”（Recurrent Depth）技术，通过将当前词元多次通过相同Transformer层处理，显著提升数学推理与编程性能。该技术允许较小规模模型以更低成本实现强劲表现。然而，循环推理将计算过程转化为难以人工审查的内部数值，削弱了思维链的可读性。为应对安全挑战，OpenAI已限制Astra的循环次数，并将约10%的总计算能力投入算法对齐与安全研究，相关算力规模达数百兆瓦。目前，该旗舰模型的发布时间仍存在不确定性，需完成内部安全测试及美国政府的外部安全评估。此前微软GPT-6.1Sol技术文章曾意外披露相关细节。此次研发进展凸显了在追求高性能推理的同时，维持模型行为可监控性已成为大模型迭代的核心技术瓶颈。",
-    "发布日期": "2026-10-15",
-    "原文链接": "https://www.aibase.com/zh/news/31646",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c837f4493d467314bec37c70ee75d9b2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c837f4493d467314bec37c70ee75d9b2.jpg",
-    "配图仓库路径": "assets/news_images/c837f4493d467314bec37c70ee75d9b2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202604171707346148_0.jpg"
-  },
-  {
-    "资讯标题": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
-    "内容": "人工智能公司Anthropic在2026年第三季度实现营收168亿美元，并达成调整后盈利。公司于旧金山投资者推介会上披露，截至第三季度已实现正向自由现金流，调整后毛利率达85%，调整后营业利润率超11%。Anthropic计划最早于11月9日当周启动IPO路演，目标在感恩节前挂牌交易，争取年内完成上市。对比2025年全年净亏损近420亿美元的财务状况，此次业绩表现显著改善。目前，Anthropic正面临OpenAI及Meta（Muse Wonder模型）等竞争对手的激烈市场竞争，且需应对AI安全及智能体引发的潜在风险。市场对Anthropic的估值预期在1.8万亿至2万亿美元之间。在当前数据中心运营商上市进程普遍受阻的背景下，Anthropic的IPO进程将成为衡量AI企业商业化能力与资本市场估值的关键风向标。",
-    "发布日期": "2026-10-15",
-    "原文链接": "https://www.aibase.com/zh/news/31653",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
+    "资讯标题": "DeepSeek发布服务补偿通知：将按账号7日内消耗金额全额返还赠金",
+    "内容": "DeepSeek官方开放平台于10月15日发布公告，针对当日8:11至13:04期间发生的API服务故障进行全额补偿。此次故障导致该时段内API服务无法正常使用，平台已完成系统全面排查与整改，通过剥离单点依赖以提升服务稳定性。作为补偿方案，DeepSeek将按用户账号在10月8日至10月14日期间的API消耗金额，以赠金形式全额返还。该赠金将自动发放至用户账户，后续API计费将优先扣除赠金。此次大额补偿机制体现了DeepSeek对开发者生态的重视，同时也为AI大模型厂商在基础设施韧性建设与服务保障方面树立了行业参考标准。",
+    "发布日期": "2026-10-16",
+    "原文链接": "https://www.aibase.com/zh/news/31674",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a325057d23ea1649de77e544020d4b15.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a325057d23ea1649de77e544020d4b15.jpg",
+    "配图仓库路径": "assets/news_images/a325057d23ea1649de77e544020d4b15.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202502051558207045_2.jpg"
   }
 ]
