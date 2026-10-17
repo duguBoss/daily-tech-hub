@@ -1,7 +1,27 @@
 [
   {
-    "资讯标题": "微软完成2.8T参数MAI-Base-2预训练，算力效率领先DeepSeek",
-    "内容": "微软正式完成新一代SOTA基础模型MAI-Base-2的预训练。该模型总参数规模达2.8T，活跃参数为80B，在6000块NVIDIA GB200 GPU集群上耗时38天完成训练。技术指标显示，模型训练期间平均浮点算力利用率为21%，有效吞吐量达89%。微软官方表示，MAI-Base-2的预训练算力效率较DeepSeek-V4-Pro-Base提升了4至12倍。此次性能突破归功于科学化的规模化策略、模型与基础设施的协同设计以及数据规模化处理。该成果标志着微软在超大规模集群训练工程能力上的显著提升，目前微软已启动下一代MAI-Base-3的筹备工作。对于行业而言，此举展示了在算力资源受限背景下，通过算法与硬件协同优化提升单位算力产出的重要性，进一步加剧了基础模型领域的算力效率竞争。",
+    "资讯标题": "贾跃亭旗下 FFAI 发布 FF Nova 人形机器人，售价2490美元",
+    "内容": "贾跃亭旗下 Faraday Future（FFAI）正式发布迷你人形机器人 FF Nova，本体售价2490美元，配套开发者技能包售价390美元。该产品定位为可装入背包的 Physical AI 实验平台，是美国首款售价低于2500美元的入门级具身智能机器人。FF Nova 拥有全身20个自由度，搭载激光雷达、广角视觉及深度感知系统，支持双足行走与自主导航。在软件层面，该机器人接入语音大模型，支持自然对话、声纹识别及 AI Agent 接入，旨在充当云端智能体在物理世界的执行载体。开发生态方面，FF Nova 提供开放 SDK，支持 ROS2 开发流程、OTA 更新及 Sim2Real 强化学习管线。目前产品已开启限量销售，首批面向高校、科研机构及独立开发者，计划分三阶段推进至消费者版本。FF Nova 的推出",
+    "发布日期": "2026-10-17",
+    "原文链接": "https://www.aibase.com/zh/news/31687",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/12fc8adeecb70c5163e246582bfff44c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/12fc8adeecb70c5163e246582bfff44c.jpg",
+    "配图仓库路径": "assets/news_images/12fc8adeecb70c5163e246582bfff44c.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1016/6392774360133014786867807.jpg"
+  },
+  {
+    "资讯标题": "蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明",
+    "内容": "蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 16, 202639北京时间10月15日晚，美国《时代》周刊揭晓了2026年度“全球最佳发明”榜单，蚂蚁集团旗下健康AI应用“蚂蚁阿福”、支付宝AI支付双双入选。其中，蚂蚁阿福是今年唯一入选的中国AI应用，去年的上榜者为DeepSeek。图:蚂蚁阿福入选《时代》年度最佳发明 《时代》年度最佳发明榜单创立于2000年，被业界誉为全球科技创新风向标，每年遴选全球突破性发明和创新成果，根据原创性、效果、影响力等多项关键因素进行评估，覆盖人工智能、医疗健康等多个领域。今年，苹果iPhone Duo、Anthropic Claude Code等产品也同列年度标杆。",
+    "发布日期": "2026-10-17",
+    "原文链接": "https://www.aibase.com/zh/news/31692",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0ba3430d8b6666cfca5c4a1a486342a3.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0ba3430d8b6666cfca5c4a1a486342a3.jpg",
+    "配图仓库路径": "assets/news_images/0ba3430d8b6666cfca5c4a1a486342a3.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1016/6392775507316991758386395.png"
+  },
+  {
+    "资讯标题": "微软完成 MAI-Base-2 预训练，2.8T参数模型算力效率超DeepSeek数倍",
+    "内容": "微软正式完成新一代SOTA基础模型MAI-Base-2的预训练。该模型总参数规模达2.8T，活跃参数为80B，在6000块NVIDIA GB200 GPU集群上耗时38天完成训练。在工程表现上，模型平均浮点算力利用率达21%，有效吞吐量为89%。微软官方表示，MAI-Base-2的预训练算力效率达到DeepSeek-V4-Pro-Base的4至12倍，显著提升了单位算力的产出。微软将此次性能突破归因于科学化的规模化策略、模型与基础设施的协同设计，以及数据规模化处理。随着MAI-Base-2的交付，微软已启动下一代MAI-Base-3的筹备工作。此次发布标志着微软在超大规模模型训练的工程效率上取得关键进展，通过优化算法、硬件与数据配方的协同，进一步拉开了与开源模型在算力成本与训练效率上的差距，持续加码基础模型军备",
     "发布日期": "2026-10-17",
     "原文链接": "https://www.aibase.com/zh/news/31691",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ac28462e70fb53f6c74eb9fb3a49d45e.jpg",
@@ -10,18 +30,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202311281038503909_6.jpg"
   },
   {
-    "资讯标题": "小红书整合Dots部门与核心基础设施团队，强化AI模型与产品协同",
-    "内容": "小红书今日发布全员信，宣布将内部AI一级部门Dots与核心基础设施（Infra）团队打通，旨在推动模型研发、算力资源与产品需求的深度协同。此次调整明确了模型应用优先的战略方向，强调技术与产品的相互增强及用户体验提升。小红书在AI领域布局已久，2024年上线的AI问答助手月活用户已超1亿。2025年初成立的hi lab（人文智能实验室）通过“人文训练师”岗位优化AI人性化表达。2026年4月成立的Dots团队曾开源多模态模型，其dots3模型在IMO国际数学奥林匹克竞赛中获得满分金牌。调整后，Dots将专注于提升工程研发效率与资源利用率，而hi lab将继续深耕长期技术探索。此次组织架构升级标志着小红书进一步将AI技术与实际业务场景深度绑定，通过模型、基础设施与产品的闭环协同，加速AI技术在真实生活长程任务中的落",
-    "发布日期": "2026-10-17",
-    "原文链接": "https://www.aibase.com/zh/news/31701",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
-    "配图仓库路径": "assets/news_images/0538a87b7e512034112df324649e66b1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201907152222434146_3.jpg"
-  },
-  {
-    "资讯标题": "小米开源空间音频大模型MiDashengLM-Spatial并采用Apache2.0协议",
-    "内容": "小米正式发布空间音频理解大模型MiDashengLM-Spatial，并以Apache2.0许可证开源模型权重及推理代码。该模型基于MiDashengLM-7B构建，是业界首个开源的端到端空间音频理解大模型，在传统音频理解基础上，新增了对声音来源及空间分布的感知与推理能力。小米此前已开源Xiaomi Dasheng基座模型及MiDashengLM-7B，相关技术已在智能家居与汽车座舱领域落地超30项应用。此次MiDashengLM-Spatial的开源，旨在推动音频大模型从单一内容理解向空间感知维度演进。未来，该模型将进一步赋能「人车家全生态」，通过增强空间听觉能力优化交互体验，同时为开发者提供空间音频理解领域的研究与应用开发基础。",
+    "资讯标题": "小米开源空间音频理解大模型 MiDashengLM-Spatial 并采用 Apache2.0 协议",
+    "内容": "小米正式发布空间音频理解大模型 MiDashengLM-Spatial，并完整公开模型权重及推理代码，采用 Apache2.0 开源许可证。作为业界首个开源的端到端空间音频理解大模型，该模型基于此前开源的 MiDashengLM-7B 构建，在具备语音、环境音及音乐统一感知能力的基础上，新增了对声音来源及其空间分布的感知与推理能力。小米此前开源的 Xiaomi Dasheng 及 MiDashengLM-7B 模型已在智能家居与汽车座舱等场景落地超过 30 项应用。此次 MiDashengLM-Spatial 的发布，旨在推动音频大模型从内容理解向空间感知维度拓展。未来，该技术将进一步赋能「人车家全生态」，通过增强空间听觉能力优化交互体验，同时为开发者提供空间音频理解领域的研究与应用开发基础。",
     "发布日期": "2026-10-17",
     "原文链接": "https://www.aibase.com/zh/news/31690",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/39e7adb588cccd3b40f4692503e8aa82.jpg",
@@ -30,18 +40,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1016/6392774726128901184659109.jpg"
   },
   {
-    "资讯标题": "基元律动开发者突破30万，推出双11充值永久有效福利",
-    "内容": "大模型聚合分发平台基元律动（Token Rhythm）官方宣布，其入驻开发者数量已突破30万。为降低多模型调用门槛，平台推出双11预售福利，用户单笔充值满50元即可获等额赠送，且所有充值及历史赠送额度均永久有效。基元律动通过单一API Key提供主流模型统一入口，并集成自研开源智能体OpenSquilla实现多模型智能融合路由。此外，平台还上线了新用户实名认领18元额度及邀请奖励机制。基元律动自2026年8月启动API公测以来，已先后与无问芯穹及阿里云达成战略合作。业内认为，随着大模型供给多元化，此类聚合分发平台正成为优化AI开发成本的关键基础设施，此次普惠机制将进一步加速开发者生态的规模化聚拢。",
-    "发布日期": "2026-10-17",
-    "原文链接": "https://www.aibase.com/zh/news/31695",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b3539be74eca7f9adcc48fb6b570bbed.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b3539be74eca7f9adcc48fb6b570bbed.jpg",
-    "配图仓库路径": "assets/news_images/b3539be74eca7f9adcc48fb6b570bbed.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306131355463905_0.jpg"
-  },
-  {
-    "资讯标题": "OpenAI升级ChatGPT浏览器扩展，支持多标签页联动与智能代办",
-    "内容": "OpenAI近日对ChatGPT浏览器扩展程序进行重大升级，正式上线多标签页联动与网页智能代办功能。用户在对话中提及Chrome后，AI助手可读取多个已打开标签页作为上下文，实现跨页面内容比对、资料整理、自动预填表单、起草邮件及下载文件等任务。该扩展全面支持Chrome、Edge、Brave、Opera和Vivaldi，并提供侧边栏交互。在隐私控制方面，OpenAI强调AI助手在首次操作新网站前必须征求用户许可，用户可自主选择授权范围。此外，OpenAI自研浏览器ChatGPT Atlas已正式退役并停止更新，原有的书签与历史记录不会自动迁移至新扩展。此次更新旨在将ChatGPT无缝嵌入主流浏览器工作流，提升跨页面协作效率。需注意，功能可用性受桌面应用版本及账号工作区设置影响，建议用户在涉及敏感信息提交时仔细核",
+    "资讯标题": "OpenAI升级ChatGPT浏览器扩展，支持多标签页联动与网页智能代办",
+    "内容": "OpenAI近日对ChatGPT浏览器扩展程序进行重大升级，正式支持多标签页联动与网页智能代办功能。用户在对话中提及Chrome后，AI助手可读取多个已打开标签页作为上下文，实现跨页面内容比对、资料整理、自动填表、起草邮件及下载文件等操作。该扩展兼容Chrome、Edge、Brave、Opera及Vivaldi，支持侧边栏实时交互。在隐私控制方面，OpenAI强调AI助手在首次操作新网站前必须征求用户明确许可，用户可自主选择授权范围。此外，OpenAI确认自研浏览器ChatGPT Atlas正式退役并下线，原有的标签页、书签及历史记录不会自动迁移至新扩展。此次更新旨在将ChatGPT无缝嵌入主流浏览器工作流，提升用户在浏览器端的自动化处理效率。功能可用性受桌面应用版本及账号工作区设置影响。",
     "发布日期": "2026-10-17",
     "原文链接": "https://www.aibase.com/zh/news/31694",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d8050676c877408762baaa7c6e1e93f.jpg",
