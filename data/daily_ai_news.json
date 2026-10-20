@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "我国首个全国产十万卡AI超集群“曙光8000”在深圳正式亮相",
-    "内容": "在2026全国高性能计算学术大会上，我国首个全国产十万卡AI超集群“曙光8000”真机首次公开亮相。该系统于今年8月正式投入使用，通过高速互联技术整合十万张国产AI加速卡，其峰值算力相当于全人类不间断计算200年的总和。曙光8000采用“超算与智算原生融合”技术路线，在同一算力底座上实现了高精度科学计算与大模型训练推理的兼容，有效解决了单一智算模式下缺乏因果逻辑导致的AI幻觉问题。目前，该集群已服务于新材料研发、创新药研制及人工智能等26个前沿领域的300多种复杂计算任务，并能支持构建“数字孪生大脑”及模拟百亿光年宇宙演化。作为我国算力基础设施迈入十万卡级部署阶段的里程碑，曙光8000为国产高水平科技自立自强提供了关键算力支撑。",
-    "发布日期": "2026-10-19",
-    "原文链接": "https://www.aibase.com/zh/news/31714",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b63c19a215f1ef302247933e7377eef0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b63c19a215f1ef302247933e7377eef0.jpg",
-    "配图仓库路径": "assets/news_images/b63c19a215f1ef302247933e7377eef0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556141137_4.jpg"
+    "资讯标题": "谷歌开源递归自我改进框架Harness²，无需修改模型权重即可提升性能",
+    "内容": "谷歌正式开源递归自我改进（RSI）框架Harness²，该方案无需修改大模型底座权重，通过优化外围运行脚手架（Scaffold）实现性能提升。Harness²引入双层递归架构：任务级递归通过提议-探测-合成机制在开放场景下验证改动；改进级递归则将调试经验沉淀至库中，供Agent检索复用。实测显示，接入Harness²后，GLM-5在WorkBuddy-Bench测试中得分提升11.5分，性能反超原生Gemini 3.5 Flash，并在JobBench及法律基准LAB等领域表现显著。该框架标志着AI从单纯依赖Scaling Law转向Runtime认知工程，支持Agent在运行中自我感知与修补，为开发者提供了一种低成本实现模型持续进化的新路径。",
+    "发布日期": "2026-10-20",
+    "原文链接": "https://www.aibase.com/zh/news/31723",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
+    "配图仓库路径": "assets/news_images/a32dfb79f40f3ed73e377d63b42b5bce.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556149296_6.jpg"
   },
   {
-    "资讯标题": "华盛顿大学等机构发布RFdiffusion3系统，实现原子级蛋白质与核酸设计",
-    "内容": "由华盛顿大学、牛津大学及英伟达组成的国际团队正式公开了生成式AI系统RFdiffusion3的设计方案，该系统具备从单个原子层面设计蛋白质与核酸的能力。RFdiffusion3参考AlphaFold3网络架构，通过直接调整每个原子的三维坐标构建新结构，最多可用14个原子刻画单个氨基酸。相比RFdiffusion2，该系统生成速度提升约十倍，且在41个活性位点对比测试中，有37组表现更优。研究人员可设定氢键条件及原子分布范围等约束，系统能精准输出满足要求的结构。目前，由该系统设计的对氧磷降解酶与肽裂解酶已在真实化学反应中验证了预期功能。该成果于10月16日发表在《科学》期刊，标志着蛋白质工程从结构预测向按功能定制结构迈进，实现了原子级的高精度设计。",
-    "发布日期": "2026-10-19",
-    "原文链接": "https://www.aibase.com/zh/news/31710",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0c0bb339d46262c171972763d290ce62.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0c0bb339d46262c171972763d290ce62.jpg",
-    "配图仓库路径": "assets/news_images/0c0bb339d46262c171972763d290ce62.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307181533376338_16.jpg"
+    "资讯标题": "蚂蚁百灵开源Ming-3.0语音系列，五款模型覆盖合成理解与识别",
+    "内容": "蚂蚁百灵于10月20日正式开源Ming-3.0语音系列，包含Ming-3.0-tts（0.5B、tiny）、Ming-3.0-audio（flash、tiny）与Ming-3.0-asr-tiny共五款模型，权重已上架Hugging Face与ModelScope。该系列覆盖语音合成、音频理解与对话、语音识别三大任务。合成方向支持Voice Design音色定制及导演模式，可精细控制情绪与副语言标签；理解方向采用6.25Hz低帧率音频表征，结合KDA与Gated MLA混合注意力及稀疏MoE架构，实现长音频结构化分析；识别方向引入Context ASR，支持热词与上下文辅助判断。实测显示，Ming-3.0-tts-0.5B在Controlled Voice评测中以1069 Elo位列开放权重模型第一；Ming-",
+    "发布日期": "2026-10-20",
+    "原文链接": "https://www.aibase.com/zh/news/31738",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/434c3214b4f77112934589f5f35e124a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/434c3214b4f77112934589f5f35e124a.jpg",
+    "配图仓库路径": "assets/news_images/434c3214b4f77112934589f5f35e124a.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1020/6392808554122201693775818.jpg"
   },
   {
-    "资讯标题": "Google DeepMind发布Gemini智能体：4个Agent自主组队击败末影龙",
-    "内容": "Google DeepMind近日展示了一项多智能体协作实验，4个Gemini4Argon通用编码智能体在《我的世界》中通过自主分工，历时27小时14分钟成功击败末影龙。不同于以往预设职责的协作模式，这些智能体仅凭游戏内聊天频道和共享笔记进行沟通，全程未操控键鼠，而是通过调用Mineflayer库实时编写2783个程序来执行动作。在累计死亡605次的过程中，智能体通过试错自主摸索出破坏末影水晶的战术，且经独立裁判审计确认无作弊行为。整场挑战中，智能体间仅产生229条沟通消息，展现了极高的协作效率。DeepMind指出，这种无预设架构、长时程、多智能体自主协作能力，标志着AI正从“指令执行”向“自主组队解决复杂难题”的形态演进，未来有望迁移至编码、科研、工程及机器人等领域。",
-    "发布日期": "2026-10-19",
-    "原文链接": "https://www.aibase.com/zh/news/31703",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
+    "资讯标题": "英特尔发布GPU D系列加速卡，最高支持480GB显存专攻万亿参数推理",
+    "内容": "英特尔在OCP全球峰会上正式发布面向AI推理领域的GPU D系列（代号Crescent Island，型号D270）。该系列基于Xe3P架构，专为长上下文处理与多路并发推理设计。核心规格方面，D系列最高支持480GB LPDDR5X显存，显存带宽达1.5TB/s，FP8精度下算力输出为1.3PFLOPS，整卡功耗控制在350W。英特尔表示，单卡可承载3000亿参数模型，八卡系统可运行超1万亿参数模型。通过采用标准PCIe形态与风冷散热设计，该产品无需液冷改造即可部署，降低了企业数据中心的应用门槛。选用LPDDR5X旨在提升能效比并实现超大容量板载，减少模型跨卡拆分的通信开销，适配长Prompt处理及多租户并发场景。目前GPU D系列已进入客户送样阶段，具体售价与上市时间尚未公布。",
+    "发布日期": "2026-10-20",
+    "原文链接": "https://www.aibase.com/zh/news/31722",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/653006262d8058c048ab4344d0e44641.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/653006262d8058c048ab4344d0e44641.jpg",
+    "配图仓库路径": "assets/news_images/653006262d8058c048ab4344d0e44641.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633430117_47.jpg"
   },
   {
-    "资讯标题": "DeepSeek发布V4.1-Flash-1017模型，登顶WebDev榜单且成本降低90%",
-    "内容": "DeepSeek正式发布V4.1-Flash-20261017（Max）版本，该模型在Code Arena的WebDev榜单中位列开源模型第一，总榜排名第12。性能方面，其得分较上月版本提升52分，在WebDev基准测试中超越Kimi K3（Max），且推理成本仅为后者的十分之一。该模型定价为每百万输入token 0.3美元、输出token 1.2美元。目前，DeepSeek-V4.1-Flash-1017已上线网页端、App及API，并完成对DeepSeek Harness v0.2.1-rc.1、腾讯CodeBuddy及WorkBuddy等工具的适配。此次更新通过精简冗余输出与优化复杂任务处理，显著降低了开发者的算力与时间成本，进一步刷新了开源模型在推理性能与性价比方面的帕累托最优边界。",
-    "发布日期": "2026-10-19",
-    "原文链接": "https://www.aibase.com/zh/news/31712",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
-    "配图仓库路径": "assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558199227_0.jpg"
+    "资讯标题": "亚马逊开源TorchNeuron工具，实现PyTorch代码在Trainium芯片上无缝运行",
+    "内容": "亚马逊于10月19日正式推出开源工具TorchNeuron，旨在打破英伟达CUDA在AI算力领域的生态垄断。该工具的核心价值在于，开发者无需重写PyTorch代码，仅需修改一处配置参数，即可将模型训练任务迁移至亚马逊自研的Trainium芯片上运行。在圣何塞北美PyTorch大会发布前夕的测试显示，模型在Trainium与传统芯片上的训练逻辑、学习速度及结果保持高度一致，确保了开发者既有调试工具链的兼容性。亚马逊通过参与PyTorch上游开发，致力于推动框架的“硬件无关化”，降低开发者在不同芯片架构间切换的迁移成本。此举不仅为Trainium芯片铺路，更意在通过开源策略松动GPU生态壁垒，为行业提供更具竞争力的算力选择权，加速AI基础设施的多元化进程。",
+    "发布日期": "2026-10-20",
+    "原文链接": "https://www.aibase.com/zh/news/31735",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c25f1e864b1a596375dec22d63938321.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c25f1e864b1a596375dec22d63938321.jpg",
+    "配图仓库路径": "assets/news_images/c25f1e864b1a596375dec22d63938321.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1020/6392808368558792188336400.png"
   },
   {
-    "资讯标题": "Anthropic拟在上市前捐赠5%股份设立公共利益基金并随估值增长追加",
-    "内容": "Anthropic宣布计划在IPO前设立“公共利益基金”（Public Benefit Fund），初始将划拨5%的股份，并设定动态增资机制：每当公司估值较基准线每上涨50%，基金将额外获得2%的股份。该基金将以全资有限责任公司形式运作，资金用于非营利捐赠、资助特定群体及应对AI对就业的冲击，明确禁止用于政治游说或捐赠。此次动作配合其以共益企业（PBC）架构上市的战略，旨在平衡商业回报与公共利益。加上此前布局，Anthropic累计约20%的股份将服务于公共目的。公司强调，未来数月将披露基金治理结构、估值触发门槛及公共利益报告等细节。此举旨在向资本市场传达其在追求商业增长的同时，将安全与社会责任纳入核心治理框架的立场。",
-    "发布日期": "2026-10-19",
-    "原文链接": "https://www.aibase.com/zh/news/31706",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
+    "资讯标题": "OpenAI紧急启动300亿美元融资，估值目标直指1.4万亿美元",
+    "内容": "OpenAI正加速推进新一轮300亿美元融资，旨在竞争对手Anthropic预计于11月中旬IPO前锁定资本，本轮融资后其估值有望达到1.4万亿美元。目前，软银集团、阿布扎比MGX及现有投资方正就此进行深度洽谈。此次融资节奏远超常规周期，核心动机在于抢占顶尖投资群体，并为高额基础设施投入提供资金支持。对于OpenAI而言，充足的现金流不仅能巩固其在LLM领域的领头羊地位，还能在未来资本市场波动时为公司资产负债表提供缓冲。面对两家AI独角兽的密集融资与上市动作，投资机构需在极短时间内完成评估与决策，AI领域的资本博弈已进入白热化阶段。",
+    "发布日期": "2026-10-20",
+    "原文链接": "https://www.aibase.com/zh/news/31733",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "配图仓库路径": "assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405110933330041_0.jpg"
   }
 ]
