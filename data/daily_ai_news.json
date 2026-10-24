@@ -1,8 +1,8 @@
 [
   {
     "资讯标题": "谷歌发布智能体计算引擎ACE，为AI智能体提供专属微型虚拟机环境",
-    "内容": "谷歌于10月22日正式推出智能体计算引擎（Agent Compute Engine，简称ACE），旨在为AI智能体提供安全、持久且可弹性伸缩的专属计算环境。ACE通过为每个智能体分配硬件隔离的微型虚拟机（microVM），支持智能体安全运行代码、调用工具及操作浏览器。该引擎具备独特的“持久且可暂停”特性，在智能体空闲时自动挂起环境以释放资源，任务触发时可实现不到500毫秒的快速唤醒。在20万个智能体的压测中，ACE通过共享内存和快照复制技术显著提升了单台服务器的承载密度。安全性方面，ACE采用Cloud Hypervisor边界隔离，沙箱内不存储凭据，有效降低数据外泄风险。目前，ACE已服务于Gemini平台及内部强化学习流程，开发者后续可通过Google Cloud直接调用，自主管理智能体环境的镜像、身份与生",
-    "发布日期": "2026-10-23",
+    "内容": "谷歌于10月22日正式推出智能体计算引擎（Agent Compute Engine，简称ACE），旨在为AI智能体提供安全、持久且可弹性伸缩的专属计算环境。ACE通过为每个智能体分配硬件隔离的微型虚拟机（microVM），支持智能体执行代码、调用工具及操作浏览器等复杂任务。该环境具备独立的客户内核与根权限，并利用Cloud Hypervisor实现硬件隔离，从源头降低数据外泄风险。ACE的核心优势在于“持久且可暂停”的特性，在20万个智能体的压测中，环境暂停与恢复过程不到500毫秒，大幅提升了单台服务器的智能体承载密度。目前，ACE已服务于Gemini、Gemini平台及Antigravity等项目，开发者后续可通过Google Cloud直接调用，自主管理智能体环境的镜像、身份与生命周期，底层资源调度则由谷歌",
+    "发布日期": "2026-10-24",
     "原文链接": "https://www.aibase.com/zh/news/31832",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ef68ff4c5f582ea687e38f4a06f7efe3.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ef68ff4c5f582ea687e38f4a06f7efe3.jpg",
@@ -10,39 +10,39 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1023/6392835153509391724734709.png"
   },
   {
-    "资讯标题": "国产大模型 Kimi K3.1 现身 Arena 竞技场，性能对标 GPT-6 Astra",
-    "内容": "国产大模型 Kimi K3.1 近期以代号 Kibitz 现身 Arena 竞技场进行测试，预计将于本月底正式官宣。该模型主攻长程自主任务，强化了游戏与 3D 代码生成能力，并具备操作电脑的 Agent 功能。实测反馈显示，K3.1 在处理复杂图像与 3D 动画生成方面表现出色，性能直追 OpenAI 的 GPT-6 Astra。市场预期 K3.1 有望成为国产模型新标杆，并在 Arena 榜单上冲击 50 分至 60 分区间。行业分析指出，K3.1 若要实现市场翻盘，除性能指标外，还需解决上一代 K3 面临的算力资源瓶颈，提升推理速度并优化性价比，以应对 DeepSeek V4.1 Flash 等高性价比模型的竞争压力。该模型能否在保持高性能的同时，兼顾开发者的可用性与成本控制，将是其后续发展的关键。",
-    "发布日期": "2026-10-23",
-    "原文链接": "https://www.aibase.com/zh/news/31827",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e124310512050357573de65b98226f26.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e124310512050357573de65b98226f26.jpg",
-    "配图仓库路径": "assets/news_images/e124310512050357573de65b98226f26.jpg",
-    "原始配图链接": "https://pic.chinaz.com/thumb/2026/1023/26102310373761331649.jpg"
+    "资讯标题": "SpaceX与特斯拉拟合并，马斯克欲整合汽车火箭与AI业务",
+    "内容": "SpaceX与特斯拉已各自成立特别委员会，正式启动合并事宜的讨论。此次合并旨在整合特斯拉的自动驾驶、人形机器人业务与SpaceX的“超级智能”部门及算力基础设施，构建一个涵盖汽车、火箭与AI的综合体。财务数据显示，SpaceX第三季度AI相关营收达75.6亿美元，主要源于算力租赁。双方此前已在Terafab芯片制造及Macrohard AI项目上展开合作。分析指出，合并的核心逻辑在于消除内部利益冲突，通过统一调配英伟达GPU等稀缺资源，加速AI基建布局。此外，该交易将助力马斯克通过换股方式巩固对特斯拉的控制权，并可能触发薪酬方案的提前解锁。若交易达成，预计合并后第四季度资本支出将逼近500亿美元，现有SpaceX股东权益或被大幅稀释。目前，相关方正推动在2027年上半年完成交易交割。",
+    "发布日期": "2026-10-24",
+    "原文链接": "https://www.aibase.com/zh/news/31842",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ce74afa38ed5795a1b5d3ca55ae39f94.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ce74afa38ed5795a1b5d3ca55ae39f94.jpg",
+    "配图仓库路径": "assets/news_images/ce74afa38ed5795a1b5d3ca55ae39f94.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412121114598351_3.jpg"
   },
   {
-    "资讯标题": "OpenAI拟融资300亿美元，投前估值达1.25万亿美元并筹备IPO",
-    "内容": "OpenAI正接近完成一轮最高300亿美元的融资，投前估值已达1.25万亿美元。本轮融资由阿联酋投资方与Coatue联合领投，被定位为IPO前的过渡性安排。公司计划在下周末前完成协议签署，最终规模待定。OpenAI首席财务官萨拉·弗里亚尔透露，公司已秘密递交上市申请，目标在2027年实现IPO。此次融资资金将重点用于补强算力供给，OpenAI正同步与阿联酋方面商谈商业协议以获取更多计算资源。尽管面临科技股市场波动及利率上行带来的融资环境挑战，OpenAI仍通过此轮融资储备弹药，并与Anthropic的上市进程共同成为市场评估AI赛道热度的关键指标。",
-    "发布日期": "2026-10-23",
-    "原文链接": "https://www.aibase.com/zh/news/31824",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
-    "配图仓库路径": "assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723412816_0.jpg"
+    "资讯标题": "DeepSeek引入联想系资本并聘请中信证券启动IPO进程",
+    "内容": "大模型独角兽DeepSeek近期完成新一轮融资，成功引入君联资本、石溪资本及吉利等多家产业与财务投资者，联想系资本正式进入其股东阵营。在资本动作之外，DeepSeek已于今年9月聘请中信证券担任IPO顾问，最快有望于2027年初推进上市进程。此次融资标志着双方合作从早期的技术适配升级至资本与产业生态深度协同。此前，联想已将DeepSeek模型全面接入其AI PC、服务器及企业AI解决方案中。此次联想系资本的入局，进一步强化了联想AI终端与基础设施业务同头部大模型厂商的绑定，反映出头部AI大模型企业正加速向资本化与产业生态深度融合的新阶段演进。",
+    "发布日期": "2026-10-24",
+    "原文链接": "https://www.aibase.com/zh/news/31835",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/62b95176ef495da074de7b835cd89d91.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/62b95176ef495da074de7b835cd89d91.jpg",
+    "配图仓库路径": "assets/news_images/62b95176ef495da074de7b835cd89d91.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202604241547220382_0.jpg"
   },
   {
-    "资讯标题": "DeepSeek与MiniMax率先完成合规登记，顺利实现开源与海外授权",
-    "内容": "DeepSeek与MiniMax已率先完成相关合规登记手续，并成功实现大模型技术的开源与海外授权。此前，商务部与科技部于10月16日就修订《中国禁止出口限制出口技术目录》公开征求意见，涵盖大模型、智能体、算力集群及信息处理等23项AI技术。此次两家头部企业的合规进展，明确了政策并非“一刀切”限制出口，而是旨在科学、精准地划定技术监管边界。官方表态显示，在保障国家安全与合规底线的前提下，我国将持续为企业开展规范化的国际技术合作与全球化开源生态建设预留明确的政策空间。这一进展消除了行业对AI技术出口政策转向的担忧，为国内大模型企业参与全球化竞争提供了清晰的合规路径与发展预期。",
-    "发布日期": "2026-10-23",
-    "原文链接": "https://www.aibase.com/zh/news/31822",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3f4f345fb66e0ec8d6f69fe149474287.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3f4f345fb66e0ec8d6f69fe149474287.jpg",
-    "配图仓库路径": "assets/news_images/3f4f345fb66e0ec8d6f69fe149474287.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558215737_4.jpg"
+    "资讯标题": "Anthropic联手Theorem Labs利用Claude完成1.8亿行代码形式化验证",
+    "内容": "Anthropic与Theorem Labs合作，利用Claude大模型对RISC-V汇编指令及生产级开源代码库进行机器码级别的形式化验证。在数周内，Claude完成了123个开源库、239个测试入口的分析，产出1.8亿行Rocq数学证明代码。该方法将测试入口转译为数学命题，实现了全路径覆盖，成功识别出模糊测试（fuzzing）无法发现的隐秘逻辑漏洞、潜伏十余年的高危死角及x86硬件缺陷。Claude不仅能定位漏洞，还具备自动生成补丁并进行二次验证的能力。目前，该验证效率以约每两个月翻一番的速度增长，首批证明已公开。按此路径，预计投入1.34亿美元即可在2027年底完成Nix生态95%的机器码验证，为软件安全提供了一种将代码正确性转化为数学定理的全新防御范式。",
+    "发布日期": "2026-10-24",
+    "原文链接": "https://www.aibase.com/zh/news/31834",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/913c5611c44d3700de2470664f5bd30d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/913c5611c44d3700de2470664f5bd30d.jpg",
+    "配图仓库路径": "assets/news_images/913c5611c44d3700de2470664f5bd30d.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202006151540204330_31.jpg"
   },
   {
     "资讯标题": "Anthropic将Agent Skills标准捐赠给Linux基金会旗下AAIF",
-    "内容": "Anthropic于10月22日宣布，将其Agent Skills开放标准正式捐赠给Linux基金会旗下的Agentic AI Foundation（AAIF），实现该标准由单一公司掌控向社区共同治理的转型。Agent Skills作为智能体的“说明书”，通过包含SKILL.md文件、脚本及模板的文件夹，使智能体能跨平台复用特定任务流程与专业知识。自2025年12月发布以来，该标准已被ChatGPT、Cursor、GitHub Copilot及VS Code等70多个平台集成，公开Skills数量近100万个，累计安装量约2.8亿次。此次捐赠包括名称、标志、GitHub组织及agentskills.io域名，旨在确保该标准保持供应商中立与开放性。此举标志着Anthropic继捐赠Model Context Pr",
-    "发布日期": "2026-10-23",
+    "内容": "2026年10月22日，Anthropic正式将Agent Skills开放标准捐赠给Linux基金会旗下的Agentic AI Foundation（AAIF），旨在推动智能体能力规范的社区化治理。Agent Skills本质上是一套智能体“说明书”，通过包含SKILL.md文件、脚本及模板的文件夹，实现特定任务与领域知识在不同产品间的复用。自2025年12月发布以来，该标准已获ChatGPT、Cursor、GitHub Copilot及VS Code等70多个平台集成，公开技能数量近100万个，累计安装量约2.8亿次。此次捐赠涵盖了标准名称、标志、GitHub组织及agentskills.io域名。Anthropic表示，此举旨在确保该标准保持供应商中立与开放性，使其成为行业公认的通用语言，开发者与企业无需",
+    "发布日期": "2026-10-24",
     "原文链接": "https://www.aibase.com/zh/news/31831",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
