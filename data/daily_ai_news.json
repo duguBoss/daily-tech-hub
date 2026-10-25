@@ -1,8 +1,8 @@
 [
   {
     "资讯标题": "谷歌发布智能体计算引擎ACE，为AI智能体提供专属微型虚拟机环境",
-    "内容": "谷歌于10月22日正式推出智能体计算引擎（Agent Compute Engine，简称ACE），旨在为AI智能体提供安全、持久且可弹性伸缩的专属计算环境。ACE通过为每个智能体分配硬件隔离的微型虚拟机（microVM），支持智能体安全地执行代码、调用工具及操作浏览器。该环境具备独立的客户内核与根权限，并利用Cloud Hypervisor边界实现硬件隔离，有效降低数据外泄风险。ACE的核心优势在于“持久且可暂停”的特性，在20万个智能体的压测中，环境的暂停与恢复时间不到500毫秒，大幅提升了单台服务器的智能体承载密度。该引擎此前已应用于Gemini、Gemini平台及Antigravity等内部流程。目前，开发者可通过Google Cloud直接调用ACE，自主管理智能体环境的镜像、身份及网络访问，底层资源调",
-    "发布日期": "2026-10-24",
+    "内容": "谷歌于10月22日正式推出智能体计算引擎（Agent Compute Engine，简称ACE），旨在为AI智能体提供安全、持久且可弹性伸缩的专属计算环境。ACE通过为每个智能体分配硬件隔离的微型虚拟机（microVM），支持智能体执行代码、调用工具及操作浏览器等复杂任务。该环境具备独立内核与根权限，并利用Cloud Hypervisor实现硬件级安全隔离，有效降低数据外泄风险。ACE的核心优势在于其“持久且可暂停”的特性，在20万个智能体的压测中，环境的暂停与恢复时间不到500毫秒，大幅提升了单台服务器的承载能力。该引擎此前已应用于Gemini平台及内部强化学习流程，目前开发者可通过Google Cloud直接调用，自主管理智能体环境的镜像、身份及网络访问，底层资源调度与扩容则由谷歌负责。此举为AI智能体提供",
+    "发布日期": "2026-10-25",
     "原文链接": "https://www.aibase.com/zh/news/31832",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ef68ff4c5f582ea687e38f4a06f7efe3.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ef68ff4c5f582ea687e38f4a06f7efe3.jpg",
@@ -10,9 +10,9 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1023/6392835153509391724734709.png"
   },
   {
-    "资讯标题": "SpaceX 与特斯拉成立特别委员会讨论合并，拟整合汽车、火箭与 AI 业务",
-    "内容": "SpaceX 与特斯拉已各自成立特别委员会，正式启动合并事宜的讨论。此次合并旨在整合特斯拉的自动驾驶、人形机器人技术与 SpaceX 的大模型及算力基础设施，构建一个具备自主决策能力的 AI 综合体。财务数据显示，SpaceX 第三季度“超级智能”部门营收达 75.6 亿美元，其中算力租赁业务贡献显著。双方此前已在 Terafab 晶圆厂及 Macrohard AI 项目上展开早期合作。分析指出，合并的核心驱动力在于消除内部利益冲突、争夺稀缺的 NVIDIA GPU 资源，并帮助马斯克通过换股方式巩固对特斯拉的绝对控制权。若交易达成，马斯克预计将大幅提升净资产，并可能提前解锁天价薪酬方案。目前，市场传闻该交易计划于 2027 年上半年完成。尽管马斯克强调 AI 协同效应，但合并后巨大的资本支出压力及反垄断合规性",
-    "发布日期": "2026-10-24",
+    "资讯标题": "SpaceX与特斯拉拟合并，马斯克欲整合汽车火箭与AI业务",
+    "内容": "SpaceX与特斯拉已各自成立特别委员会，正式启动合并事宜的讨论。该交易旨在整合特斯拉的自动驾驶、人形机器人技术与SpaceX的“超级智能”部门及大模型能力，构建一个能在极端环境下自主决策的AI机器人帝国。财务层面，SpaceX第三季度“SI解决方案与基础设施”营收达70亿美元，主要源于算力租赁。双方此前已共同推进Terafab芯片制造及Macrohard AI项目。分析指出，合并不仅能消除两家公司在AI基建与英伟达芯片资源上的利益冲突，还能通过换股方式巩固马斯克对合并实体的绝对投票控制权。若交易达成，马斯克净资产预计增加1100亿美元，并可能提前解锁天价薪酬方案。目前市场推测交易有望在2027年上半年完成，但合并将导致SpaceX现有股东权益被大幅稀释，且面临反垄断审查挑战。",
+    "发布日期": "2026-10-25",
     "原文链接": "https://www.aibase.com/zh/news/31842",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ce74afa38ed5795a1b5d3ca55ae39f94.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ce74afa38ed5795a1b5d3ca55ae39f94.jpg",
@@ -20,19 +20,9 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412121114598351_3.jpg"
   },
   {
-    "资讯标题": "DeepSeek引入联想系资本并聘请中信证券启动IPO进程",
-    "内容": "大模型独角兽DeepSeek近期完成新一轮融资，成功引入君联资本、石溪资本及吉利等多家产业与财务投资者，联想系资本正式进入其股东阵营。为推进资本化进程，DeepSeek已于今年9月聘任新任CFO，并选定中信证券作为IPO顾问，最快有望于2027年初启动上市。在资本绑定前，联想已将DeepSeek模型全面接入其AI PC、服务器及企业AI解决方案中。此次融资标志着双方合作从技术适配升级至资本与产业生态的深度协同。对于行业而言，此举不仅强化了联想在AI终端与基础设施业务的竞争力，也反映出头部大模型厂商正加速向资本化与产业生态深度融合的新阶段演进。",
-    "发布日期": "2026-10-24",
-    "原文链接": "https://www.aibase.com/zh/news/31835",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/62b95176ef495da074de7b835cd89d91.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/62b95176ef495da074de7b835cd89d91.jpg",
-    "配图仓库路径": "assets/news_images/62b95176ef495da074de7b835cd89d91.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202604241547220382_0.jpg"
-  },
-  {
     "资讯标题": "Anthropic联手Theorem Labs利用Claude完成1.8亿行形式化验证",
-    "内容": "Anthropic与Theorem Labs合作，利用Claude模型对RISC-V汇编指令及生产级开源代码库进行形式化验证。在数周内，Claude完成了123个开源库、239个测试入口的分析，产出1.8亿行Rocq数学证明代码。该方法将测试入口转译为数学命题，实现了全路径覆盖，成功识别出模糊测试（fuzzing）无法发现的隐秘逻辑漏洞、潜伏十余年的高危缺陷及x86处理器硬件错误，并具备自动修复与验证能力。目前，首批证明已公开。该技术将代码正确性转化为数学定理，大幅降低了底层机器码验证的工程门槛。按当前效率推算，预计投入1.34亿美元，至2027年底有望完成Nix生态95%的机器码验证，为软件安全提供了一种全新的自动化防御路径。",
-    "发布日期": "2026-10-24",
+    "内容": "Anthropic与Theorem Labs合作，利用Claude大模型对RISC-V汇编指令及生产级开源代码库进行形式化验证。在数周内，Claude完成了123个开源代码库、239个测试入口的核验，产出1.8亿行Rocq数学证明代码。该方法将测试入口转译为数学命题，实现了全路径覆盖，成功识别出模糊测试（fuzzing）万亿次迭代均未发现的隐秘漏洞、逻辑死角及x86硬件缺陷，并具备自动生成补丁及验证能力。目前，该验证效率以每两个月翻一番的速度增长，首批证明已公开。按规划，投入约1.34亿美元，至2027年底有望完成Nix生态95%机器码的验证。此路径将代码正确性转化为数学定理，显著降低了底层机器码验证的工程门槛，为软件安全提供了全新的防御范式。",
+    "发布日期": "2026-10-25",
     "原文链接": "https://www.aibase.com/zh/news/31834",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/913c5611c44d3700de2470664f5bd30d.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/913c5611c44d3700de2470664f5bd30d.jpg",
@@ -40,13 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202006151540204330_31.jpg"
   },
   {
-    "资讯标题": "Anthropic将Agent Skills开放标准捐赠给Linux基金会旗下AAIF",
-    "内容": "Anthropic于10月22日宣布，正式将Agent Skills开放标准捐赠给Linux基金会旗下的Agentic AI Foundation（AAIF），包括该标准的名称、标志、GitHub组织及agentskills.io域名。Agent Skills作为智能体的“说明书”，通过SKILL.md文件定义特定任务与领域知识，支持智能体在不同产品间复用工作流程。自2025年12月发布以来，该标准已获ChatGPT、Cursor、GitHub Copilot及VS Code等70多个平台集成，公开技能数量近100万个，累计安装量约2.8亿次。此次捐赠旨在推动该标准脱离单一公司掌控，实现由社区共同治理的供应商中立化。Anthropic此前已将Model Context Protocol（MCP）捐赠给AAIF，",
-    "发布日期": "2026-10-24",
+    "资讯标题": "Anthropic将Agent Skills标准捐赠给Linux基金会旗下AAIF",
+    "内容": "10月22日，Anthropic宣布将Agent Skills开放标准正式捐赠给Linux基金会旗下的Agentic AI Foundation（AAIF），实现该标准从单一公司治理向社区共同治理的转型。Agent Skills本质上是一套智能体“说明书”，通过SKILL.md文件定义特定任务或领域知识，支持脚本、模板与参考资料的加载，实现工作流程在不同产品间的跨平台复用。自2025年12月发布以来，该标准已集成至ChatGPT、Cursor、GitHub Copilot及VS Code等70多个平台，公开技能数量近100万个，累计安装量约2.8亿次。此次捐赠包括名称、标志、GitHub组织及agentskills.io域名。Anthropic旨在通过此举确立供应商中立的行业通用语言，确保开发者与企业即便不加入",
+    "发布日期": "2026-10-25",
     "原文链接": "https://www.aibase.com/zh/news/31831",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
     "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
+  },
+  {
+    "资讯标题": "Anthropic、OpenAI与SpaceX拟捐赠近3000亿美元用于AI公益",
+    "内容": "Anthropic、OpenAI与SpaceX三方正酝酿总额近3000亿美元的财富捐赠计划，被视为现代史上最大规模的慈善行动。Anthropic计划将公司5%股份注入新设公益基金，七位创始人承诺捐出80%个人财富，资金拟用于补贴受AI自动化冲击群体及相关研究。OpenAI慈善基金会持有公司约四分之一股份，价值超1800亿美元，已投入8.55亿美元开展项目。马斯克计划明年向美国儿童赠送SpaceX股份，总额预计超110亿美元。此次捐赠主要以股权形式体现，其实际价值高度依赖各公司IPO估值及二级市场股价表现。行业分析认为，此举旨在回应AI技术对就业与社会分配的冲击，通过缓解公众对“AI抢饭碗”的焦虑，为技术商业化进程争取社会信任与支持。",
+    "发布日期": "2026-10-25",
+    "原文链接": "https://www.aibase.com/zh/news/31833",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "配图仓库路径": "assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901101704279841_1.jpg"
   }
 ]
