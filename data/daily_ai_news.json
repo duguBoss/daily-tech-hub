@@ -1,42 +1,42 @@
 [
   {
-    "资讯标题": "Reddit开源子版块r/opensource颁布AI禁令，全面封杀人工智能相关项目",
-    "内容": "Reddit社区r/opensource子版块版主Wolvereness于2026年10月25日宣布实施重大规则调整，全面禁止在该子版块发布任何涉及人工智能及AI生成内容的项目。新规明确，任何使用、制造或旨在供AI使用的开源项目均被禁止，包括包含AI贡献的代码或人工编写的模型上下文协议（MCP）。此举引发行业广泛争议，批评者指出，该禁令将Linux内核等已引入Claude Code等AI辅助编程工具的主流开源项目排除在外。受此影响，部分开发者已创建支持AI的r/TrueOpenSource子版块。该事件反映了开源社区在代码溯源、版权归属及社区治理理念上的深层分歧，或将重塑开源生态的技术边界与治理规则。",
+    "资讯标题": "联想发布AI主机P7预览版：搭载国产双芯，支持本地运行122B大模型",
+    "内容": "10月25日，联想AI主机P7预览版正式亮相。该设备重量仅300克，采用国产双芯架构，一颗芯片负责AI推理，另一颗负责系统调度。性能方面，P7支持本地运行最高122B参数大模型，具备256K超长上下文处理能力，断网状态下推理速度达50Tokens/秒，满载功耗低于30W，运行噪音低于35dBA。软件层面，内置联想天禧AI，支持开箱即用及Agent配置，并具备Auto模式，可根据任务复杂度智能调度本地与云端算力。该主机旨在解决云端AI调用中的隐私泄露、高昂费用及网络不稳定等痛点，实现数据本地化处理。目前，联想已启动“先享计划”，邀请首批用户在编程与办公场景中进行深度试用与共创，以进一步优化产品体验。",
     "发布日期": "2026-10-26",
-    "原文链接": "https://www.aibase.com/zh/news/31860",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/167dab2df750b0cf174b974f5c6caccb.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/167dab2df750b0cf174b974f5c6caccb.jpg",
-    "配图仓库路径": "assets/news_images/167dab2df750b0cf174b974f5c6caccb.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202407250925060737_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31859",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5ea1340f01d9f4107ebc32456719f07b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5ea1340f01d9f4107ebc32456719f07b.jpg",
+    "配图仓库路径": "assets/news_images/5ea1340f01d9f4107ebc32456719f07b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202011082114416497_44.jpg"
   },
   {
-    "资讯标题": "Kimi就K3.1 Pro限流及额度异常致歉，向全体订阅会员补偿25%额度",
-    "内容": "10月26日，Kimi智能助手针对近期K3.1 Pro模型使用体验不佳发布致歉信。此前，月之暗面于10月24日正式发布K3.1 Pro模型，该模型具备3万亿级参数及100万上下文处理能力，上线后因用户集中涌入导致高峰期响应限流及额度异常消耗。针对上述问题，官方承诺在10月26日内为所有有效期内的订阅会员统一补发月度总额25%的额度，若已消耗额度未达25%则直接清零进度条，无需用户申请。此外，Kimi已着手优化后端配置，通过压减不必要的子Agent调用及精简冗长输出，提升额度使用效率。此次事件反映出AI应用在模型能力升级的同时，服务端稳定性与计费透明度仍是影响用户体验的关键挑战。",
+    "资讯标题": "猫王版权方起诉Anthropic索赔4100万美元，指控Claude模型非法训练",
+    "内容": "猫王埃尔维斯·普雷斯利音乐曲库持有方Authentic Brands Group正式向Anthropic提起诉讼，指控其未经许可使用274首猫王经典歌曲训练Claude模型，索赔总额达4100万美元。原告方首席律师理查德·布施指出，Anthropic的商业模式建立在规模化版权侵权之上，Claude模型能生成包括《情不自禁爱上你》等经典曲目的侵权内容。原告要求按每首曲目15万美元的标准赔付，并指控Anthropic在明知防护机制无效的情况下仍放任模型产出侵权内容，存在主观恶意。此案是知名艺人遗产管理方直接针对AI开发公司发起的重大诉讼，其判决结果将为AI企业合法使用音乐曲库划定法律判例标准。当前AI音乐平台通过分析海量作品学习音色与结构，引发了音乐界对版权侵权及AI生成内容替代人类原创的广泛担忧。此前Spotif",
     "发布日期": "2026-10-26",
-    "原文链接": "https://www.aibase.com/zh/news/31855",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "配图仓库路径": "assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604291619214186_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31849",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ca966cf5e5c71fe3981b4ab8175d3235.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ca966cf5e5c71fe3981b4ab8175d3235.jpg",
+    "配图仓库路径": "assets/news_images/ca966cf5e5c71fe3981b4ab8175d3235.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202006031503487838_13.jpg"
   },
   {
-    "资讯标题": "KRAFTON 发布开源模型 Raon-1 mini，采用 MoE 架构对标 Meta 同档模型",
-    "内容": "韩国游戏巨头 KRAFTON 旗下 KRAFTON AI 正式发布 Raon-1 mini 模型预览版。该模型采用混合专家（MoE）架构，总参数量为 30B，单次激活参数为 4B，支持线性注意力机制与推测解码技术。Raon-1 mini 针对韩语与英语进行优化，以 Apache 2.0 协议开源，并提供限时免费 API 试用。官方测试显示，该模型在编程与智能体任务表现上与 Meta 的 Muse Glimmer 30B 相当，但在推理速度与内存占用上更具优势。KRAFTON 此举旨在通过自研底座满足游戏开发中 NPC 对话、剧情生成及代码辅助等高频需求，同时通过开源策略构建开发者生态。该模型切入 30B 这一易于本地部署的体量段，为寻求高性能且可控性强的开发者提供了替代方案。后续 KRAFTON 将持续推进正式",
+    "资讯标题": "Grok发布7分钟AI版《奥德赛》短片，正式进军长篇叙事影视领域",
+    "内容": "Grok近日正式公开时长约7分钟的《奥德赛》系列首集短片，标志着马斯克此前宣布的AI电影项目取得实质性进展。该项目由Grok与Wonder Studios及导演Dev Walker合作完成，全片的人物形象、场景搭建及海上航行等视觉画面均由AI算法生成。此次发布被视为对标克里斯托弗·诺兰版《奥德赛》的尝试，旨在验证生成式AI独立承担大规模影视创作的能力。从样片看，AI生成的海洋场景和人物拟真度较高，但在人物魅力、情感张力及叙事节奏上与传统电影仍存差距。业内分析认为，该短片的核心价值在于展示了生成式AI向长篇叙事影视内容迈出的关键一步，未来AI能否产出具备商业竞争力的电影作品，已成为影视与科技界关注的焦点。",
     "发布日期": "2026-10-26",
-    "原文链接": "https://www.aibase.com/zh/news/31857",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7c1bc6b6934d8f44c44ae83dd663d283.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7c1bc6b6934d8f44c44ae83dd663d283.jpg",
-    "配图仓库路径": "assets/news_images/7c1bc6b6934d8f44c44ae83dd663d283.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1026/6392860617210781443740619.png"
+    "原文链接": "https://www.aibase.com/zh/news/31852",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/131bb79930c05728cd31b0ad70cf3783.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/131bb79930c05728cd31b0ad70cf3783.jpg",
+    "配图仓库路径": "assets/news_images/131bb79930c05728cd31b0ad70cf3783.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/1026/26102609082667235544.jpg"
   },
   {
-    "资讯标题": "Anthropic发布Claude桌面端全新界面，由AI深度参与设计并于3周内上线",
-    "内容": "Anthropic近日正式推出Claude桌面端应用的全新界面，该版本由Claude自身深度参与设计，从构思草图到正式上线仅耗时不到3周。此次改版引入了全新的UI布局与侧边栏功能，展示了LLM在产品设计与工程落地中的高效能。然而，新界面在用户侧引发了争议，部分用户反馈新版信息密度较低，且摒弃了标志性的衬线字体与暖色调背景，整体视觉风格偏向冷峻，与同类产品趋同，对项目面板的可读性造成了一定影响。尽管存在设计争议，但此次更新作为人机协同开发软件界面的创新实践，为AI在产品设计领域的应用提供了重要的行业参考案例。",
+    "资讯标题": "Block发布全新语音模型Dessa，实现本地部署与全双工情感交互",
+    "内容": "Block公司于2026年10月24日正式发布全新语音模型Dessa。该模型采用语音转语音架构，完全基于人类语音数据训练，无需依赖LLM进行知识检索，支持本地部署。Dessa具备全双工交互能力，可同时进行聆听与对话，并能模拟笑声、停顿、哭泣等丰富情感，有效解决了传统文本驱动模型语境缺失的痛点。在硬件适配方面，Dessa可在搭载MacBook M4 Max的消费级设备或单台NVIDIA GPU机架上高效运行。目前，Block已邀请安全研究人员对该模型进行首批测试，以评估其应用表现。作为金融科技公司，Block此次布局旨在通过低成本、高拟真的本地化语音AI，提升企业订单处理等场景的交互体验，标志着语音AI正加速向原生语音交互阶段演进。",
     "发布日期": "2026-10-26",
-    "原文链接": "https://www.aibase.com/zh/news/31858",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31856",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/49f125bc8c3dbb51e113e278c27e3d02.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/49f125bc8c3dbb51e113e278c27e3d02.jpg",
+    "配图仓库路径": "assets/news_images/49f125bc8c3dbb51e113e278c27e3d02.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308111005430160_0.jpg"
   }
 ]
