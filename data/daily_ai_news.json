@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "谷歌 DeepMind 发布世界模型 Genie 4，支持音视频同步与实时交互",
-    "内容": "谷歌 DeepMind 正式发布新一代世界模型 Genie 4，实现虚拟世界的实时交互与音视频同步生成。该模型将单次连贯交互时长提升至 2 分钟，具备空间一致性与永久记忆功能，支持用户通过输入指令实时调整天气、机位及与 NPC 对话。技术架构上，Genie 4 采用双模型协同机制：Gemini Omni 负责维持角色与道具外观一致性，Gemini 3.8 Flash 作为“导演”进行实时画面审查，Gemini 4 Argon 则用于 Apollo 人形机器人的仿真训练。尽管在长时运行下的细节漂移及文字乱码问题仍待优化，但其原生音视频同步能力标志着生成式世界模型的新进展。目前，Genie 4 仅向受信任测试者开放，公众需通过每月 100 美元的 Google AI Ultra 会员资格排队申请使用。",
+    "资讯标题": "谷歌 DeepMind 发布 Genie 4 世界模型，支持音视频同步与实时交互",
+    "内容": "谷歌 DeepMind 正式发布新一代世界模型 Genie 4，该模型具备实时交互能力，单次连贯交互时长达 2 分钟。Genie 4 实现了空间一致性与永久记忆，支持用户通过输入实时调整天气或机位。作为首个原生支持音视频同步生成的世界模型，它能根据场景动态调整环境音效，并支持与 NPC 进行实时对话。技术架构上，Genie 4 采用双模型协同机制：Gemini Omni 负责维持角色与道具外观一致性，Gemini 3.8 Flash 担任实时导演进行逐帧审查，Gemini 4 Argon 则用于 Apollo 人形机器人的仿真训练。尽管在长时运行下的细节漂移及文字乱码问题仍待优化，但其交互性显著提升。目前该模型仅向受信任测试者开放，公众需通过每月 100 美元的 Google AI Ultra 会员资格排队申请",
     "发布日期": "2026-10-28",
     "原文链接": "https://www.aibase.com/zh/news/31921",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6520c62495053d3cde024a8f9d0b3487.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "资讯标题": "蚂蚁百灵开源Ling-3.1-flash-1019模型，强化Personal Agent真实任务处理能力",
-    "内容": "10月28日，蚂蚁集团百灵大模型正式开源Ling-3.1-flash-1019及基础模型Ling-3.1-flash-base。Ling-3.1-flash-1019专为Personal Agent场景优化，在Artificial Analysis Intelligence Index v4.3.2中获44分。测评显示，其在复杂知识工作AA-Briefcase、流程自动化AutomationBench-AA及科学问题求解CritPt等任务中表现显著提升。Ling-3.1-flash-base采用混合线性MoE架构，总参数量约560B，激活参数约25B，在47项benchmark测试中表现优异，并以MIT许可证向开发者开放。该系列模型迭代与“灵光2.0”个人AI助理紧密结合，重点强化模型对复杂工作流、多步骤任务的",
+    "内容": "10月28日，蚂蚁集团百灵大模型正式开源Ling-3.1-flash-1019及基础模型Ling-3.1-flash-base。Ling-3.1-flash-1019在Artificial Analysis Intelligence Index v4.3.2中获44分，重点优化了复杂工作流与多步骤任务表现，其中AutomationBench-AA得分提升至68%，CritPt得分提升至26%。Ling-3.1-flash-base采用混合线性MoE架构，总参数量约560B，激活参数约25B，在47项benchmark测试中表现优异，并以MIT许可证向开发者开放。该系列模型旨在支撑“灵光2.0”等Personal Agent场景，通过跨会话记忆与长程任务调度，实现从即时问答向持续任务管理的演进。百灵表示，研发重点",
     "发布日期": "2026-10-28",
     "原文链接": "https://www.aibase.com/zh/news/31918",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/808c367587d4502d38f24a1dcc75a397.jpg",
@@ -21,7 +21,7 @@
   },
   {
     "资讯标题": "微软发布 MAI-Image-2.7-Preview 图像编辑模型，位列全球榜单第二",
-    "内容": "微软于10月27日正式发布 MAI-Image-2.7-Preview 图像编辑模型。该模型专注于可控图像编辑，用户输入原图及文字指令即可进行风格转换、重新打光、文字符号修改及素材修复。在 Artificial Analysis 的 AA-Image-Editing v2.1 榜单中，该模型以 1193 Elo 分位列全球第二，仅次于 OpenAI 的 GPT Image 2.5 Sunburst（max），在场景与风格处理上领先次优模型 24 个 Elo。相较于 2.6 版本，2.7 在全部 10 个用例及 7 类编辑动作上均有提升，特别是在增强修复、推理编辑、场景风格及文字符号四类能力上达到行业前沿水平。目前，用户可通过 Arena、Artificial Analysis 及 MAI Playground ",
+    "内容": "微软于10月27日正式发布MAI-Image-2.7-Preview，该模型在Artificial Analysis图像编辑榜单中以1193 Elo分位列全球第二，仅次于OpenAI的GPT Image 2.5 Sunburst（max）。MAI-Image-2.7专注于可控图像编辑，用户通过输入原图及文字指令即可实现整体风格转换、重新打光、文字符号修改及复杂素材修复。相比2.6版本，新模型在全部10个用例及7类编辑动作上均有提升，特别是在场景与风格处理上领先次优模型24个Elo。目前，用户可通过Arena、Artificial Analysis及MAI Playground进行体验。作为预览版，该模型尚未开放API、定价及商用时间，模型权重亦未开源。微软官方表示，文生图功能目前处于“即将推出”阶段，具体上线日",
     "发布日期": "2026-10-28",
     "原文链接": "https://www.aibase.com/zh/news/31920",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/01085ad95cd164912a985aa3c5201748.jpg",
@@ -31,7 +31,7 @@
   },
   {
     "资讯标题": "Opera推出WebAI标准，支持浏览器本地运行AI模型",
-    "内容": "浏览器制造商Opera正式推出全新网络标准WebAI，旨在实现AI模型在浏览器端的本地运行，无需依赖云端服务。该标准具备广泛兼容性，目前已演示支持谷歌Gemma及苹果设备端基础模型，主要面向各类开放权重AI系统。WebAI现已在Opera One浏览器中开启预览，后续将扩展至Opera GX及Opera Neon。在功能层面，WebAI支持文本生成、内容分类及信息关系分析。Opera官方表示，本地推理不仅能降低对云端基础设施的依赖，还能将用户数据保留在个人设备上，从而强化隐私控制。尽管本地运行能减少数据外传，但实际性能高度依赖用户设备的硬件配置，且开放权重模型与完全开源存在差异。此举标志着Opera在端侧AI领域的进一步布局，旨在通过将模型运行能力深度融入浏览器，为用户提供隐私性更强的AI交互体验。",
+    "内容": "浏览器制造商Opera正式发布全新网络标准WebAI，旨在实现AI模型在浏览器端的本地化运行，无需依赖云端服务。该标准具备广泛的兼容性，支持各类开放权重AI系统，目前已演示兼容谷歌Gemma模型及苹果设备端基础模型。WebAI现已在Opera One浏览器中开启预览，后续将扩展至Opera GX及Opera Neon。该技术支持文本生成、内容分类及信息关联分析。Opera表示，本地推理模式可减少对云端基础设施的依赖，并提升用户隐私保护水平，将数据留存在个人设备端。不过，该功能的实际性能表现高度依赖用户设备的硬件配置。WebAI的推出标志着Opera在浏览器端侧AI布局的进一步深入，旨在通过本地化运行平衡隐私保护与AI处理能力，为用户提供云端服务之外的替代方案。",
     "发布日期": "2026-10-28",
     "原文链接": "https://www.aibase.com/zh/news/31915",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f09eb7fefeceec77cf6adeaf98553836.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "资讯标题": "OpenAI计划采购谷歌自研AI芯片以实现算力供应链多元化布局",
-    "内容": "OpenAI正计划采购谷歌自研的人工智能芯片，旨在打破对单一算力供应商的依赖，加速硬件供应链的多元化布局。目前，该笔潜在交易的具体财务条款、采购规模及合作细节尚未对外披露。作为大模型领域的头部企业，OpenAI此前在算力构建上高度依赖传统芯片巨头与云服务商。此次拟采购谷歌自研芯片的举动，不仅标志着OpenAI在底层硬件设施策略上的重大调整，也反映出科技巨头在AI算力领域既竞争又合作的复杂态势。此举对行业而言，意味着AI算力市场格局正发生微妙变化，硬件供应的去单一化将成为头部AI厂商降低风险、提升算力韧性的关键路径。",
+    "内容": "OpenAI正计划采购谷歌自研的人工智能芯片，旨在打破对单一算力供应商的依赖，加速推进硬件供应链的多元化布局。目前，该潜在交易的具体财务条款、采购规模及合作细节尚未对外披露。作为大模型领域的头部企业，OpenAI此前在算力构建上高度依赖传统芯片巨头与云服务商。此次拟采购谷歌AI芯片的举措，不仅标志着其在底层硬件设施策略上的重大调整，也反映了科技巨头在AI算力领域既竞争又合作的复杂态势。对于行业而言，此举可能重塑AI硬件市场的竞争格局，降低单一供应商风险，并推动高性能AI芯片市场的多元化发展。",
     "发布日期": "2026-10-28",
     "原文链接": "https://www.aibase.com/zh/news/31910",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1e6ad108dfe19e2bc936f10c1c970f7d.jpg",
