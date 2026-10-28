@@ -1,47 +1,47 @@
 [
   {
-    "资讯标题": "谷歌DeepMind发布实时交互世界模型Genie4，加速具身智能与多模态模拟演进",
-    "内容": "谷歌DeepMind于2026年10月27日正式发布实时交互世界模型Genie4。该模型深度融合Gemini系列核心能力，利用Gemini Omni将模拟锚定于现实世界的外观与行为，并结合其他Gemini模型提供复杂推理支撑。Genie4支持用户实时操控场景，包括动态移动镜头、改变天气及引入角色，并能即时生成包含环境音效、背景音乐及互动对话的原生音频。作为具身智能的关键技术，Genie4为机器人和智能体提供安全虚拟训练环境，同时赋能电影制作、游戏开发及制造业。目前，该模型已向部分受信任测试人员开放，后续将通过Project Genie向Google AI Ultra订阅用户推出，并接入Gemini API和AI Studio，加速前沿模拟技术的商业化落地。",
+    "资讯标题": "谷歌 DeepMind 发布世界模型 Genie 4，支持音视频同步与实时交互",
+    "内容": "谷歌 DeepMind 正式发布新一代世界模型 Genie 4，实现虚拟世界的实时交互与音视频同步生成。该模型将单次连贯交互时长提升至 2 分钟，具备空间一致性与永久记忆功能，支持用户通过输入指令实时调整天气、机位及与 NPC 对话。技术架构上，Genie 4 采用双模型协同机制：Gemini Omni 负责维持角色与道具外观一致性，Gemini 3.8 Flash 作为“导演”进行实时画面审查，Gemini 4 Argon 则用于 Apollo 人形机器人的仿真训练。尽管在长时运行下的细节漂移及文字乱码问题仍待优化，但其原生音视频同步能力标志着生成式世界模型的新进展。目前，Genie 4 仅向受信任测试者开放，公众需通过每月 100 美元的 Google AI Ultra 会员资格排队申请使用。",
     "发布日期": "2026-10-28",
-    "原文链接": "https://www.aibase.com/zh/news/31909",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f4be0b307adb96e5fb09c3aaea4e94a0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f4be0b307adb96e5fb09c3aaea4e94a0.jpg",
-    "配图仓库路径": "assets/news_images/f4be0b307adb96e5fb09c3aaea4e94a0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621145403_65.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31921",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6520c62495053d3cde024a8f9d0b3487.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6520c62495053d3cde024a8f9d0b3487.jpg",
+    "配图仓库路径": "assets/news_images/6520c62495053d3cde024a8f9d0b3487.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1028/6392878476386128495747654.png"
   },
   {
-    "资讯标题": "苹果在 iOS 27.2 系统中接入谷歌 SynthID 技术为 AI 图片添加隐身水印",
-    "内容": "苹果在 iOS 27.2 版本中正式接入谷歌 SynthID 技术，为 AI 生成内容引入像素级隐身水印。该技术通过在像素层面埋入标记，确保 AI 图片在经过裁剪、滤镜或压缩等后期处理后仍能被识别。具体应用场景包括：所有由“图乐园”生成的图片均自带水印；使用 Apple 智能中的“扩展”与“重新构图”功能编辑的照片会被标记为 AI 生成；“清理”功能则根据改动幅度动态触发水印。目前，iOS 系统尚未内置检测入口，用户需通过 SynthID Detector 网页端验证图片真伪。此举标志着手机厂商正将 AI 内容标识功能从第三方工具整合至操作系统底层，旨在应对全球对生成式 AI 内容溯源与透明度的监管要求，为行业建立 AI 内容防伪防线提供系统级参考。",
+    "资讯标题": "蚂蚁百灵开源Ling-3.1-flash-1019模型，强化Personal Agent真实任务处理能力",
+    "内容": "10月28日，蚂蚁集团百灵大模型正式开源Ling-3.1-flash-1019及基础模型Ling-3.1-flash-base。Ling-3.1-flash-1019专为Personal Agent场景优化，在Artificial Analysis Intelligence Index v4.3.2中获44分。测评显示，其在复杂知识工作AA-Briefcase、流程自动化AutomationBench-AA及科学问题求解CritPt等任务中表现显著提升。Ling-3.1-flash-base采用混合线性MoE架构，总参数量约560B，激活参数约25B，在47项benchmark测试中表现优异，并以MIT许可证向开发者开放。该系列模型迭代与“灵光2.0”个人AI助理紧密结合，重点强化模型对复杂工作流、多步骤任务的",
     "发布日期": "2026-10-28",
-    "原文链接": "https://www.aibase.com/zh/news/31904",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b501b3464a32109c86ef8e2889a15882.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b501b3464a32109c86ef8e2889a15882.jpg",
-    "配图仓库路径": "assets/news_images/b501b3464a32109c86ef8e2889a15882.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1027/6392871534623331632025760.png"
+    "原文链接": "https://www.aibase.com/zh/news/31918",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/808c367587d4502d38f24a1dcc75a397.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/808c367587d4502d38f24a1dcc75a397.jpg",
+    "配图仓库路径": "assets/news_images/808c367587d4502d38f24a1dcc75a397.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1028/6392878032987905386425678.jpg"
   },
   {
-    "资讯标题": "英伟达与Meta达成深度合作并投资30亿美元，共同推进Muse模型与AI智能体落地",
-    "内容": "英伟达与Meta宣布建立深度合作伙伴关系，英伟达将向Meta股权发行投资30亿美元，双方将全面扩大在Muse系列模型上的技术合作，以提升推理与训练性能。在技术协同方面，Meta将依托英伟达OpenShell参考架构强化AI智能体安全体系，并利用英伟达Sentry实现跨结构化、非结构化及图数据场景的智能体行为全链路监控。硬件部署上，Meta将扩大部署英伟达Vera Rubin系统、Spectrum-X以太网网络及BlueField-4，以赋能底层AI工作负载的性能与扩展上限。此次合作旨在加速AI智能体从技术验证向工业级实用落地转型，通过算力基础设施与大模型技术的深度绑定，重塑下一代人工智能基础设施的竞争格局。",
+    "资讯标题": "微软发布 MAI-Image-2.7-Preview 图像编辑模型，位列全球榜单第二",
+    "内容": "微软于10月27日正式发布 MAI-Image-2.7-Preview 图像编辑模型。该模型专注于可控图像编辑，用户输入原图及文字指令即可进行风格转换、重新打光、文字符号修改及素材修复。在 Artificial Analysis 的 AA-Image-Editing v2.1 榜单中，该模型以 1193 Elo 分位列全球第二，仅次于 OpenAI 的 GPT Image 2.5 Sunburst（max），在场景与风格处理上领先次优模型 24 个 Elo。相较于 2.6 版本，2.7 在全部 10 个用例及 7 类编辑动作上均有提升，特别是在增强修复、推理编辑、场景风格及文字符号四类能力上达到行业前沿水平。目前，用户可通过 Arena、Artificial Analysis 及 MAI Playground ",
     "发布日期": "2026-10-28",
-    "原文链接": "https://www.aibase.com/zh/news/31902",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/837e8480446dc967b8c6050f597a41dd.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/837e8480446dc967b8c6050f597a41dd.jpg",
-    "配图仓库路径": "assets/news_images/837e8480446dc967b8c6050f597a41dd.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304271137064811_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31920",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/01085ad95cd164912a985aa3c5201748.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/01085ad95cd164912a985aa3c5201748.jpg",
+    "配图仓库路径": "assets/news_images/01085ad95cd164912a985aa3c5201748.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1028/6392878421311318675520097.png"
   },
   {
-    "资讯标题": "月之暗面发布开源旗舰大模型K3.1 Pro，支持2.8T参数与百万上下文",
-    "内容": "月之暗面正式发布开源旗舰大模型K3.1 Pro，该模型参数规模达2.8T，并支持1M Token超长上下文处理。官方确认，K3.1 Pro完整模型权重将于11月4日前全面开源，目前已上线OpenRouter供开发者调用测试。在Artificial Analysis Intelligence Index评测中，该模型以55分位列榜单第四。API定价方面，标准版输入价格为13元/百万Token，输出价格为68元/百万Token，成本较K3版本降低约50%。此外，官方同步推出Highspeed版本，针对高频实时交互场景，输出速度提升至标准版的2至3倍，定价相应翻倍。此次发布旨在通过高性能与灵活的定价策略，满足开发者在不同应用场景下的差异化需求，进一步推动国产大模型生态建设。",
+    "资讯标题": "Opera推出WebAI标准，支持浏览器本地运行AI模型",
+    "内容": "浏览器制造商Opera正式推出全新网络标准WebAI，旨在实现AI模型在浏览器端的本地运行，无需依赖云端服务。该标准具备广泛兼容性，目前已演示支持谷歌Gemma及苹果设备端基础模型，主要面向各类开放权重AI系统。WebAI现已在Opera One浏览器中开启预览，后续将扩展至Opera GX及Opera Neon。在功能层面，WebAI支持文本生成、内容分类及信息关系分析。Opera官方表示，本地推理不仅能降低对云端基础设施的依赖，还能将用户数据保留在个人设备上，从而强化隐私控制。尽管本地运行能减少数据外传，但实际性能高度依赖用户设备的硬件配置，且开放权重模型与完全开源存在差异。此举标志着Opera在端侧AI领域的进一步布局，旨在通过将模型运行能力深度融入浏览器，为用户提供隐私性更强的AI交互体验。",
     "发布日期": "2026-10-28",
-    "原文链接": "https://www.aibase.com/zh/news/31903",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
-    "配图仓库路径": "assets/news_images/771388504ca418bb53c19b1e1546d63c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405240907574564_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31915",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f09eb7fefeceec77cf6adeaf98553836.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f09eb7fefeceec77cf6adeaf98553836.jpg",
+    "配图仓库路径": "assets/news_images/f09eb7fefeceec77cf6adeaf98553836.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201811151639391453_16.jpg"
   },
   {
     "资讯标题": "OpenAI计划采购谷歌自研AI芯片以实现算力供应链多元化布局",
-    "内容": "OpenAI正计划采购谷歌自研的人工智能芯片，旨在打破对单一算力供应商的依赖，加速构建多元化的硬件供应链体系。目前，该潜在交易的具体财务条款、采购规模及合作细节尚未对外披露。作为大模型领域的头部企业，OpenAI此前在算力基础设施上高度依赖传统芯片巨头与云服务商。此次采购计划不仅标志着OpenAI在底层硬件策略上的重大调整，也反映了当前科技巨头在AI算力领域呈现出竞争与合作并存的复杂态势。对于行业而言，此举可能重塑AI芯片市场的竞争格局，并推动算力资源配置向更加开放和多元的方向发展。",
+    "内容": "OpenAI正计划采购谷歌自研的人工智能芯片，旨在打破对单一算力供应商的依赖，加速硬件供应链的多元化布局。目前，该笔潜在交易的具体财务条款、采购规模及合作细节尚未对外披露。作为大模型领域的头部企业，OpenAI此前在算力构建上高度依赖传统芯片巨头与云服务商。此次拟采购谷歌自研芯片的举动，不仅标志着OpenAI在底层硬件设施策略上的重大调整，也反映出科技巨头在AI算力领域既竞争又合作的复杂态势。此举对行业而言，意味着AI算力市场格局正发生微妙变化，硬件供应的去单一化将成为头部AI厂商降低风险、提升算力韧性的关键路径。",
     "发布日期": "2026-10-28",
     "原文链接": "https://www.aibase.com/zh/news/31910",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1e6ad108dfe19e2bc936f10c1c970f7d.jpg",
