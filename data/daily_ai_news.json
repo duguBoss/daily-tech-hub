@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "谷歌 DeepMind 发布 Genie 4 世界模型，支持音视频同步与实时交互",
-    "内容": "谷歌 DeepMind 正式发布新一代世界模型 Genie 4，该模型具备实时交互能力，单次连贯交互时长达 2 分钟。Genie 4 实现了空间一致性与永久记忆，支持用户通过输入实时调整天气或机位。作为首个原生支持音视频同步生成的世界模型，它能根据场景动态调整环境音效，并支持与 NPC 进行实时对话。技术架构上，Genie 4 采用双模型协同机制：Gemini Omni 负责维持角色与道具外观一致性，Gemini 3.8 Flash 担任实时导演进行逐帧审查，Gemini 4 Argon 则用于 Apollo 人形机器人的仿真训练。尽管在长时运行下的细节漂移及文字乱码问题仍待优化，但其交互性显著提升。目前该模型仅向受信任测试者开放，公众需通过每月 100 美元的 Google AI Ultra 会员资格排队申请",
-    "发布日期": "2026-10-28",
-    "原文链接": "https://www.aibase.com/zh/news/31921",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6520c62495053d3cde024a8f9d0b3487.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6520c62495053d3cde024a8f9d0b3487.jpg",
-    "配图仓库路径": "assets/news_images/6520c62495053d3cde024a8f9d0b3487.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1028/6392878476386128495747654.png"
+    "资讯标题": "英伟达拟投资30亿美元入股Meta并深化AI基础设施合作",
+    "内容": "英伟达计划投资30亿美元参与Meta的股权融资，双方将进一步扩大在人工智能领域的战略合作。Meta此次融资旨在筹集最高950亿美元，专项用于人工智能基础设施建设。作为合作核心，Meta将在其下一代AI代理程序中深度集成英伟达基础设施，包括Vera Rubin系统与Vera CPU，并围绕Meta的AI产品Muse展开技术协作。此外，AMD与博通亦表达了合计购买至多50亿美元Meta股票的意向。此举延续了芯片厂商与科技巨头通过资本绑定构建算力生态的模式，即英伟达向客户提供资金，客户再利用资金采购其芯片建设数据中心。这种“循环融资”模式在推动AI基础设施快速扩张的同时，也引发了市场对于真实算力需求匹配度及资本运作可持续性的审视。",
+    "发布日期": "2026-10-29",
+    "原文链接": "https://www.aibase.com/zh/news/31944",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/df6e2b264a845e8866cb9de8ca1699c7.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/df6e2b264a845e8866cb9de8ca1699c7.jpg",
+    "配图仓库路径": "assets/news_images/df6e2b264a845e8866cb9de8ca1699c7.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202606031122196331_0.jpg"
   },
   {
-    "资讯标题": "蚂蚁百灵开源Ling-3.1-flash-1019模型，强化Personal Agent真实任务处理能力",
-    "内容": "10月28日，蚂蚁集团百灵大模型正式开源Ling-3.1-flash-1019及基础模型Ling-3.1-flash-base。Ling-3.1-flash-1019在Artificial Analysis Intelligence Index v4.3.2中获44分，重点优化了复杂工作流与多步骤任务表现，其中AutomationBench-AA得分提升至68%，CritPt得分提升至26%。Ling-3.1-flash-base采用混合线性MoE架构，总参数量约560B，激活参数约25B，在47项benchmark测试中表现优异，并以MIT许可证向开发者开放。该系列模型旨在支撑“灵光2.0”等Personal Agent场景，通过跨会话记忆与长程任务调度，实现从即时问答向持续任务管理的演进。百灵表示，研发重点",
-    "发布日期": "2026-10-28",
-    "原文链接": "https://www.aibase.com/zh/news/31918",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/808c367587d4502d38f24a1dcc75a397.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/808c367587d4502d38f24a1dcc75a397.jpg",
-    "配图仓库路径": "assets/news_images/808c367587d4502d38f24a1dcc75a397.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1028/6392878032987905386425678.jpg"
+    "资讯标题": "OpenAI计划向谷歌采购TPU芯片以实现算力供应链多元化布局",
+    "内容": "OpenAI正计划向谷歌采购TPU（张量处理器）芯片，以降低对英伟达GPU的单一依赖。双方合作历经三个阶段：2025年6月OpenAI首次租用谷歌算力，7月开启TPU早期测试，目前已迈向实质性采购阶段。为支持此计划，OpenAI正招募工程师负责模型在TPU上的底层适配与优化。此前，OpenAI已接入AMD、Cerebras及AWS等供应商，此次转向谷歌TPU进一步削弱了英伟达在AI算力市场的独占性。TrendForce数据显示，英伟达在AI服务器处理器市场的份额预计将从2025年的69.6%下滑至2026年的64%。这一举措标志着头部AI企业正通过技术与供应链多元化，应对日益增长的算力需求及成本压力，行业算力格局正发生显著调整。",
+    "发布日期": "2026-10-29",
+    "原文链接": "https://www.aibase.com/zh/news/31933",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
+    "配图仓库路径": "assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812181034453995_26.jpg"
   },
   {
-    "资讯标题": "微软发布 MAI-Image-2.7-Preview 图像编辑模型，位列全球榜单第二",
-    "内容": "微软于10月27日正式发布MAI-Image-2.7-Preview，该模型在Artificial Analysis图像编辑榜单中以1193 Elo分位列全球第二，仅次于OpenAI的GPT Image 2.5 Sunburst（max）。MAI-Image-2.7专注于可控图像编辑，用户通过输入原图及文字指令即可实现整体风格转换、重新打光、文字符号修改及复杂素材修复。相比2.6版本，新模型在全部10个用例及7类编辑动作上均有提升，特别是在场景与风格处理上领先次优模型24个Elo。目前，用户可通过Arena、Artificial Analysis及MAI Playground进行体验。作为预览版，该模型尚未开放API、定价及商用时间，模型权重亦未开源。微软官方表示，文生图功能目前处于“即将推出”阶段，具体上线日",
-    "发布日期": "2026-10-28",
-    "原文链接": "https://www.aibase.com/zh/news/31920",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/01085ad95cd164912a985aa3c5201748.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/01085ad95cd164912a985aa3c5201748.jpg",
-    "配图仓库路径": "assets/news_images/01085ad95cd164912a985aa3c5201748.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1028/6392878421311318675520097.png"
+    "资讯标题": "Google发布旗舰模型Gemini 4 Carbon，综合性能登顶全球榜单第一",
+    "内容": "Google DeepMind正式发布新一代旗舰大模型Gemini 4 Carbon。在Intelligence Index v5.0评测中，该模型以59分超越Claude Opus 5.5及GPT-6 Astra，重夺全球综合能力榜首。Gemini 4 Carbon核心聚焦长时程工程与网络安全，具备连续数天处理超大型代码库及自主修复隐蔽缺陷的能力。在安全领域，模型实现了漏洞挖掘至代码修复的全流程贯通，SEC-bench Pro得分达88.2%，且在Terminal-Bench 4.0中实现作弊成功率为0%及间接提示词注入防御率100%。目前该模型优先向网络安全专业人员开放，推广期定价为输入2美元/百万Token、输出10美元/百万Token。业内指出，当前头部厂商频繁发布模型但限制公众访问的策略，更侧重于榜单",
+    "发布日期": "2026-10-29",
+    "原文链接": "https://www.aibase.com/zh/news/31934",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/eaa90296847e6e9ea68ded138ad6362d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/eaa90296847e6e9ea68ded138ad6362d.jpg",
+    "配图仓库路径": "assets/news_images/eaa90296847e6e9ea68ded138ad6362d.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1029/6392886057526745968536275.png"
   },
   {
-    "资讯标题": "Opera推出WebAI标准，支持浏览器本地运行AI模型",
-    "内容": "浏览器制造商Opera正式发布全新网络标准WebAI，旨在实现AI模型在浏览器端的本地化运行，无需依赖云端服务。该标准具备广泛的兼容性，支持各类开放权重AI系统，目前已演示兼容谷歌Gemma模型及苹果设备端基础模型。WebAI现已在Opera One浏览器中开启预览，后续将扩展至Opera GX及Opera Neon。该技术支持文本生成、内容分类及信息关联分析。Opera表示，本地推理模式可减少对云端基础设施的依赖，并提升用户隐私保护水平，将数据留存在个人设备端。不过，该功能的实际性能表现高度依赖用户设备的硬件配置。WebAI的推出标志着Opera在浏览器端侧AI布局的进一步深入，旨在通过本地化运行平衡隐私保护与AI处理能力，为用户提供云端服务之外的替代方案。",
-    "发布日期": "2026-10-28",
-    "原文链接": "https://www.aibase.com/zh/news/31915",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f09eb7fefeceec77cf6adeaf98553836.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f09eb7fefeceec77cf6adeaf98553836.jpg",
-    "配图仓库路径": "assets/news_images/f09eb7fefeceec77cf6adeaf98553836.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201811151639391453_16.jpg"
+    "资讯标题": "Anthropic拟向英国及欧洲个人投资者开放IPO认购并冲击全球最大规模上市",
+    "内容": "人工智能独角兽Anthropic在向美国证券交易委员会提交赴美上市申请后，正筹备在纳斯达克挂牌（股票代码：ANT），此次IPO募资规模有望创下全球历史之最。为扩大投资者参与度，Anthropic计划向全球散户分配一定比例股份，并正与英国投资平台RetailBook合作，拟通过英国“公开发行平台”（POP）监管框架，向英国及部分欧洲大陆市场的个人投资者提供直接认购机会。该模式参考了SpaceX的海外上市先例，由RetailBook统筹汇集订单。目前该方案处于推进与协商阶段，最终配售比例及落地细节将根据市场反馈进行动态调整。此举标志着前沿科技巨头在资本运作中进一步向个人投资者开放，旨在让散户共享技术成长红利。",
+    "发布日期": "2026-10-29",
+    "原文链接": "https://www.aibase.com/zh/news/31935",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
   },
   {
-    "资讯标题": "OpenAI计划采购谷歌自研AI芯片以实现算力供应链多元化布局",
-    "内容": "OpenAI正计划采购谷歌自研的人工智能芯片，旨在打破对单一算力供应商的依赖，加速推进硬件供应链的多元化布局。目前，该潜在交易的具体财务条款、采购规模及合作细节尚未对外披露。作为大模型领域的头部企业，OpenAI此前在算力构建上高度依赖传统芯片巨头与云服务商。此次拟采购谷歌AI芯片的举措，不仅标志着其在底层硬件设施策略上的重大调整，也反映了科技巨头在AI算力领域既竞争又合作的复杂态势。对于行业而言，此举可能重塑AI硬件市场的竞争格局，降低单一供应商风险，并推动高性能AI芯片市场的多元化发展。",
-    "发布日期": "2026-10-28",
-    "原文链接": "https://www.aibase.com/zh/news/31910",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1e6ad108dfe19e2bc936f10c1c970f7d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1e6ad108dfe19e2bc936f10c1c970f7d.jpg",
-    "配图仓库路径": "assets/news_images/1e6ad108dfe19e2bc936f10c1c970f7d.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811200922100302_5.jpg"
+    "资讯标题": "Anthropic内部Claude模型攻破Chrome等五大主流系统并发现高危漏洞",
+    "内容": "Anthropic近日发布研究报告，披露其内部Claude研究模型在Chrome、Safari、Android、Windows及Linux五大主流系统中发现大量漏洞，并成功构建5条高危攻击链。在Chrome中，模型挖掘出62个漏洞，含13个沙箱逃逸漏洞；在Safari上，模型通过“一次点击”攻击链绕过同源策略，窃取用户敏感隐私。针对Android，模型利用USB缺陷在Pixel 9锁屏状态下提取照片。在Windows与Linux端，模型分别发现CVE-2026-33096漏洞及CVE-2026-98432零点击远程代码执行漏洞，其中在Linux网络栈中仅耗时53分钟即获取root shell权限。目前相关漏洞均已通过协调披露流程完成修复。此次研究展示了LLM在自动化漏洞挖掘与攻防对抗中的极高上限，涵盖从V8引擎",
+    "发布日期": "2026-10-29",
+    "原文链接": "https://www.aibase.com/zh/news/31945",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4874f5a00ff55f1e2572bbe64943156c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4874f5a00ff55f1e2572bbe64943156c.jpg",
+    "配图仓库路径": "assets/news_images/4874f5a00ff55f1e2572bbe64943156c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621141028_13.jpg"
   }
 ]
