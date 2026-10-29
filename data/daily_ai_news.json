@@ -1,7 +1,17 @@
 [
   {
-    "资讯标题": "英伟达拟投资30亿美元入股Meta并深化AI基础设施合作",
-    "内容": "英伟达计划投资30亿美元参与Meta的股权融资，双方将进一步扩大在人工智能领域的战略合作。Meta此次融资旨在筹集最高950亿美元，专项用于人工智能基础设施建设。作为合作核心，Meta将在其下一代AI代理程序中深度集成英伟达基础设施，包括Vera Rubin系统与Vera CPU，并围绕Meta的AI产品Muse展开技术协作。此外，AMD与博通亦表达了合计购买至多50亿美元Meta股票的意向。此举延续了芯片厂商与科技巨头通过资本绑定构建算力生态的模式，即英伟达向客户提供资金，客户再利用资金采购其芯片建设数据中心。这种“循环融资”模式在推动AI基础设施快速扩张的同时，也引发了市场对于真实算力需求匹配度及资本运作可持续性的审视。",
+    "资讯标题": "谷歌发布 Gemini 4 Carbon 模型，以 59 分重夺 Intelligence Index 榜首",
+    "内容": "Google DeepMind 正式推出新一代旗舰模型 Gemini 4 Carbon，在 Artificial Analysis 的 Intelligence Index v5.0 中以 59 分位列第一，超越 Claude Opus 5.5 与 GPT-6 Astra。该模型在 Arena.ai 的 Text Arena 登顶，Agent Arena 位列第二。Gemini 4 Carbon 核心聚焦长时程工程与网络安全，支持连续数天运转以处理大型代码库。在安全领域，其打通漏洞发现、验证与修复全链路，SEC-bench Pro 达 88.2%，CWE-bench 达 71.0%，安全代码生成成功率较 Argon 提升两倍。可靠性方面，Terminal-Bench 4.0 中模型“作弊”成功率为 0，间接提示",
+    "发布日期": "2026-10-29",
+    "原文链接": "https://www.aibase.com/zh/news/31946",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5fb85d629d94f4850f68d36199c3aa1d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5fb85d629d94f4850f68d36199c3aa1d.jpg",
+    "配图仓库路径": "assets/news_images/5fb85d629d94f4850f68d36199c3aa1d.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1029/6392886563537288654738297.png"
+  },
+  {
+    "资讯标题": "英伟达拟投资30亿美元入股Meta并扩大AI基础设施合作",
+    "内容": "英伟达计划投资30亿美元参与Meta的股权融资，双方将进一步深化在AI基础设施与技术领域的合作。Meta此次融资目标最高为950亿美元，旨在加速AI基础设施建设。作为合作核心，Meta将在下一代AI代理程序中深度集成英伟达硬件，包括Vera Rubin系统与Vera CPU，并围绕Meta的AI产品Muse扩大技术协作。此外，AMD与博通亦表达了合计购买至多50亿美元Meta股票的意向。此举延续了芯片厂商与大型科技公司通过资本绑定构建算力生态的模式，即英伟达向客户提供资金，客户再将其投入至搭载英伟达芯片的数据中心建设中。市场分析指出，这种“循环融资”模式在推动算力扩张的同时，其真实需求匹配度与可持续性正受到行业持续审视。",
     "发布日期": "2026-10-29",
     "原文链接": "https://www.aibase.com/zh/news/31944",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/df6e2b264a845e8866cb9de8ca1699c7.jpg",
@@ -10,38 +20,28 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202606031122196331_0.jpg"
   },
   {
-    "资讯标题": "OpenAI计划向谷歌采购TPU芯片以实现算力供应链多元化布局",
-    "内容": "OpenAI正计划向谷歌采购TPU（张量处理器）芯片，以降低对英伟达GPU的单一依赖。双方合作历经三个阶段：2025年6月OpenAI首次租用谷歌算力，7月开启TPU早期测试，目前已迈向实质性采购阶段。为支持此计划，OpenAI正招募工程师负责模型在TPU上的底层适配与优化。此前，OpenAI已接入AMD、Cerebras及AWS等供应商，此次转向谷歌TPU进一步削弱了英伟达在AI算力市场的独占性。TrendForce数据显示，英伟达在AI服务器处理器市场的份额预计将从2025年的69.6%下滑至2026年的64%。这一举措标志着头部AI企业正通过技术与供应链多元化，应对日益增长的算力需求及成本压力，行业算力格局正发生显著调整。",
+    "资讯标题": "腾讯宣布发布混元Hy4及Hy4flash模型，强化思维链与视觉理解能力",
+    "内容": "腾讯在2026全球数字生态大会上宣布，新一代大语言模型混元Hy4即将发布。相较于此前开源的Hy4preview（770B参数、49B激活参数、1M上下文），Hy4在长程任务处理、真实生产力场景及思维链效率上实现全面提升，并首次引入视觉理解能力。此外，主打极致性价比的Hy4flash模型也将在近期推出，该模型通过模型与产品的深度Co-Design实现高频进化，在继承Hy4视觉理解及Agent能力的基础上，进一步优化实用性。此次更新标志着腾讯混元系列在模型能力与工程化落地方面迈出重要一步，旨在通过更高效的推理与多模态交互，满足行业对复杂生产力任务的深度需求。",
     "发布日期": "2026-10-29",
-    "原文链接": "https://www.aibase.com/zh/news/31933",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
-    "配图仓库路径": "assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812181034453995_26.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31948",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
+    "配图仓库路径": "assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604241547318068_0.jpg"
   },
   {
-    "资讯标题": "Google发布旗舰模型Gemini 4 Carbon，综合性能登顶全球榜单第一",
-    "内容": "Google DeepMind正式发布新一代旗舰大模型Gemini 4 Carbon。在Intelligence Index v5.0评测中，该模型以59分超越Claude Opus 5.5及GPT-6 Astra，重夺全球综合能力榜首。Gemini 4 Carbon核心聚焦长时程工程与网络安全，具备连续数天处理超大型代码库及自主修复隐蔽缺陷的能力。在安全领域，模型实现了漏洞挖掘至代码修复的全流程贯通，SEC-bench Pro得分达88.2%，且在Terminal-Bench 4.0中实现作弊成功率为0%及间接提示词注入防御率100%。目前该模型优先向网络安全专业人员开放，推广期定价为输入2美元/百万Token、输出10美元/百万Token。业内指出，当前头部厂商频繁发布模型但限制公众访问的策略，更侧重于榜单",
+    "资讯标题": "微软2027财年首季从OpenAI相关合作获利100亿美元",
+    "内容": "微软2027财年首季（截至2026年9月30日）财报显示，其通过与OpenAI的合作实现100亿美元收入，占当季923亿美元总营收的近11%。若该增长态势持续，年化规模有望达400亿美元。双方合作深度进一步绑定，根据今年4月修订的协议，OpenAI承诺在2030年前持续向微软分润，并承诺未来额外采购2500亿美元Azure算力资源。尽管微软持有的OpenAI股份比例从6月的25%降至9月的24%，但双方的商业纽带愈发紧密。目前OpenAI仍有72亿美元应收账款挂在微软名下。分析认为，双方已演变为“既是伙伴又是对手”的复杂联盟，在企业客户、生成式AI平台及开发工具领域展开竞争的同时，通过Azure基础设施依赖与长期分成机制实现深度利益捆绑。",
     "发布日期": "2026-10-29",
-    "原文链接": "https://www.aibase.com/zh/news/31934",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/eaa90296847e6e9ea68ded138ad6362d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/eaa90296847e6e9ea68ded138ad6362d.jpg",
-    "配图仓库路径": "assets/news_images/eaa90296847e6e9ea68ded138ad6362d.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1029/6392886057526745968536275.png"
+    "原文链接": "https://www.aibase.com/zh/news/31953",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "配图仓库路径": "assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901101704279841_1.jpg"
   },
   {
-    "资讯标题": "Anthropic拟向英国及欧洲个人投资者开放IPO认购并冲击全球最大规模上市",
-    "内容": "人工智能独角兽Anthropic在向美国证券交易委员会提交赴美上市申请后，正筹备在纳斯达克挂牌（股票代码：ANT），此次IPO募资规模有望创下全球历史之最。为扩大投资者参与度，Anthropic计划向全球散户分配一定比例股份，并正与英国投资平台RetailBook合作，拟通过英国“公开发行平台”（POP）监管框架，向英国及部分欧洲大陆市场的个人投资者提供直接认购机会。该模式参考了SpaceX的海外上市先例，由RetailBook统筹汇集订单。目前该方案处于推进与协商阶段，最终配售比例及落地细节将根据市场反馈进行动态调整。此举标志着前沿科技巨头在资本运作中进一步向个人投资者开放，旨在让散户共享技术成长红利。",
-    "发布日期": "2026-10-29",
-    "原文链接": "https://www.aibase.com/zh/news/31935",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
-  },
-  {
-    "资讯标题": "Anthropic内部Claude模型攻破Chrome等五大主流系统并发现高危漏洞",
-    "内容": "Anthropic近日发布研究报告，披露其内部Claude研究模型在Chrome、Safari、Android、Windows及Linux五大主流系统中发现大量漏洞，并成功构建5条高危攻击链。在Chrome中，模型挖掘出62个漏洞，含13个沙箱逃逸漏洞；在Safari上，模型通过“一次点击”攻击链绕过同源策略，窃取用户敏感隐私。针对Android，模型利用USB缺陷在Pixel 9锁屏状态下提取照片。在Windows与Linux端，模型分别发现CVE-2026-33096漏洞及CVE-2026-98432零点击远程代码执行漏洞，其中在Linux网络栈中仅耗时53分钟即获取root shell权限。目前相关漏洞均已通过协调披露流程完成修复。此次研究展示了LLM在自动化漏洞挖掘与攻防对抗中的极高上限，涵盖从V8引擎",
+    "资讯标题": "Anthropic内部Claude模型攻破五大主流系统并发现大量高危漏洞",
+    "内容": "Anthropic近日发布研究报告，披露其内部Claude研究模型在Chrome、Safari、Android、Windows及Linux五大主流系统中成功发现大量漏洞，并自主串联成5条高危攻击链。在Chrome中，模型挖掘出62个严重漏洞，涵盖沙箱逃逸及渲染进程控制；Safari测试中，模型通过“一次点击”攻击链绕过同源策略，窃取敏感隐私数据。针对Android，模型在Pixel 9锁屏状态下通过USB缺陷提取本地照片。在桌面端，Windows系统被发现CVE-2026-33096高危漏洞，导致HTTP/3服务崩溃；Linux系统则被发现CVE-2026-98432零点击远程代码执行漏洞，模型仅用53分钟便完成内核指针泄露并获取root shell权限。目前，上述漏洞均已通过协调披露流程完成修复。该研究展示了",
     "发布日期": "2026-10-29",
     "原文链接": "https://www.aibase.com/zh/news/31945",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4874f5a00ff55f1e2572bbe64943156c.jpg",
