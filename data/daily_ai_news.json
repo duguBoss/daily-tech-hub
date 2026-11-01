@@ -1,37 +1,17 @@
 [
   {
-    "资讯标题": "谷歌Gemini升级：支持PDF、表格及代码文件在聊天窗口内联编辑",
-    "内容": "谷歌Gemini人工智能助手迎来重大功能升级，正式支持在聊天界面内对生成的文件进行直接修改，实现了“生成-修改”的完整闭环。此次更新覆盖了PDF、谷歌文档、谷歌表格、演示文稿、Markdown、TXT及各类代码文件。其中，PDF预览与编辑功能已同步登陆网页端与移动端，其余格式目前主要支持网页端操作。用户现在可全屏打开文档进行精细编辑，或通过选中特定文本直接向Gemini发起提问及下达修改指令，例如将表格一键转换为图表。此次更新将编辑能力直接内嵌至Gemini独立聊天界面，无需跳转外部应用或依赖Workspace侧边栏，显著提升了办公与内容创作的交互效率。随着对话式AI助手相继补齐内联编辑短板，AI作为生产力工具的边界正被进一步拓宽。",
+    "资讯标题": "签到30天白拿8800额度:豆包向新老用户敞开30天免费订阅",
+    "内容": "签到30天白拿8800额度:豆包向新老用户敞开30天免费订阅AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 30, 202686字节跳动旗下 AI 助手豆包于10月30日上线新一轮免费福利活动，面向新老用户推出签到领额度与新用户订阅权益。新用户登录豆包电脑版即可领取30天免费体验套餐，体验付费订阅级能力。在额度规则方面，豆包近期已更新订阅权益的额度显示与使用规则，标准、加强、高级三档套餐分别对应每7天可用2100、5600、14000额度，使不同档位的资源配额更加清晰透明。面向全体用户，豆包开放每日签到通道，每天可领取200额度，周一额度翻倍。当累计获得额度达到500、2000、5000三个里程碑时，可分别额外获得200、500、1300额度奖励，累计签到30天最多可得8800额度。",
     "发布日期": "2026-11-01",
-    "原文链接": "https://www.aibase.com/zh/news/31992",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31988",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b2f75ad65cfaddc748d95d20d4138910.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b2f75ad65cfaddc748d95d20d4138910.jpg",
+    "配图仓库路径": "assets/news_images/b2f75ad65cfaddc748d95d20d4138910.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1030/6392896575262200368725141.jpg"
   },
   {
-    "资讯标题": "英伟达开源语音转录大模型Nemotron 3.5 Transcribe，支持8人同时识别",
-    "内容": "英伟达正式开源语音转录大模型Nemotron 3.5 Transcribe，该模型采用混合专家模型（MoE）架构，总参数量340亿，每次前向传播激活43亿参数。其核心优势在于强大的多说话人分离能力，最多可同时区分8名说话人并实时判定声音归属。模型支持40种语言转录及31种语言与英语的双向互译，单次可处理长达1小时的连续音频。在性能表现上，该模型在Open ASR英语组评测中词错误率（WER）低至5.33%，在Artificial Analysis非流式测试中WER进一步降至2.8%，位居开源榜单首位。Nemotron 3.5 Transcribe的发布为开发者提供了处理长音频、会议纪要及跨国交流场景的高效基座，显著提升了复杂语音环境下的识别准确率与处理效率。",
-    "发布日期": "2026-11-01",
-    "原文链接": "https://www.aibase.com/zh/news/31987",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
-  },
-  {
-    "资讯标题": "腾讯Marvis上线Coding管家，支持手机远程调用CodeBuddy与Kimi Code Desktop",
-    "内容": "10月29日，腾讯AI管家Marvis正式上线“Coding管家”，通过手机遥控电脑能力，实现对桌面端AI编程工具的远程调用。该功能首批支持CodeBuddy IDE（编程模式）与Kimi Code Desktop，旨在解决用户离开电脑后无法跟进长线AI编程任务的痛点。用户在Marvis移动端通过“手机遥控电脑”入口授权连接后，即可同步查看项目列表与聊天记录，并利用自然语言发送指令、上传文件或照片，相关操作与对话将实时同步至电脑端。为保障远程任务执行，Marvis电脑端同步提供防休眠功能，确保设备持续在线。此次更新将Marvis的服务场景从基础的电脑、文件、软件及浏览器管理，进一步延伸至AI编程领域，通过原生入口替代传统的桌面远程控制，提升了移动端处理复杂编程任务的交互效率与便捷性，未来该功能还将适配更多AI编",
-    "发布日期": "2026-11-01",
-    "原文链接": "https://www.aibase.com/zh/news/31981",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9c0153e4503ef91d314df0659b2fbf2c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9c0153e4503ef91d314df0659b2fbf2c.jpg",
-    "配图仓库路径": "assets/news_images/9c0153e4503ef91d314df0659b2fbf2c.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1030/6392895708665202811922859.png"
-  },
-  {
-    "资讯标题": "百度升级AI搜索及搜索AI API，调用价格降至4.9元/千次",
-    "内容": "百度正式宣布升级百度AI搜索及搜索AI API，旨在拓展应用场景并降低开发者接入成本。核心调整包括搜索AI API推出优惠活动，调用价格低至4.9元/千次。百度App端四大功能同步升级：文心助手从“一次问答”转向“一份交付”，覆盖170余种场景；AI镜头新增动态追踪并支持9种方言实时对话；GUI互动场景数据接入规模提升5倍，涵盖超50亿条数据；AI互动应用新增AI互动剧等内容。此次升级标志着百度AI搜索正从单一检索工具向任务交付、实时交互及内容消费的综合服务形态演进。通过大幅降低API调用门槛，百度意在加速AI搜索能力在企业级应用及第三方产品中的落地，推动行业生态的进一步扩展。",
+    "资讯标题": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+    "内容": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 30, 202670今日，百度正式宣布升级百度AI搜索和搜索AI API，进一步拓展AI搜索的应用场景，并降低开发者调用成本。此次升级重点涉及API服务及百度App四大AI功能。价格方面，全新升级的搜索AI API在活动期间推出优惠价格，低至4.9元/千次，旨在降低企业和开发者接入AI搜索能力的成本。百度App则围绕文心助手、AI镜头、GUI互动场景和AI互动应用进行升级。其中，文心助手从传统的“一次问答”向“一份交付”转变，覆盖170余种应用场景。AI镜头新增动态追踪功能，并支持9种方言实时对话。",
     "发布日期": "2026-11-01",
     "原文链接": "https://www.aibase.com/zh/news/31990",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/832677c3abf303c4a95b4b9406abe79c.jpg",
@@ -40,13 +20,33 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201903211522566250_4.jpg"
   },
   {
-    "资讯标题": "Neuralink脑机接口重大升级：Grok接入大脑实现意念唤醒与操控",
-    "内容": "Neuralink近日完成重大技术升级，成功将AI模型Grok接入人类大脑，使患者能够通过意念直接唤醒并操控AI智能体。在针对渐冻症患者Kenneth的72小时闭关开发中，团队推出了8项关键技术原型。核心功能包括：Neural VAD（神经语音活动检测）实现零按键意念触发；实时神经信号可视化辅助患者进行闭环反馈训练；系统级脑机输入法与iOS锁屏联动，支持无障碍交互。最显著的突破在于Grok智能体的接入，患者默念指令即可唤醒Grok接管电脑操作，将单一意念转化为复杂行为。此外，团队还实现了脑机解码语音与iPhone通话麦克风的音频流对接，助力患者通过意念完成通话。此次升级标志着脑机接口从单纯的信号捕捉迈向人机协同的新阶段，通过AI托管繁琐操作，有效解决了脑机接口带宽限制的瓶颈，让“想到即做到”成为现实。",
+    "资讯标题": "今日宜休发布首批AI睡眠产品:王腾推出ISHO Ring智能戒指与温控系统",
+    "内容": "今日宜休发布首批AI睡眠产品:王腾推出ISHO Ring智能戒指与温控系统AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 30, 20267510月30日，AI睡眠科技生态企业“今日宜休”（ISHO）在北京举行首场新品发布会，创始人兼CEO王腾正式发布ISHO Ring智能戒指、ISHO iFlow智能温控系统及ISHO Intelligence个人睡眠AI技术体系，标志着其正式切入AI睡眠主动干预赛道。该品牌致力于填补科技行业对睡眠8小时的技术创新空白。作为核心硬件，ISHO Ring智能戒指搭载Apollo330B Plus芯片支持端侧AI运行，支持18项生理数据监测及精力分评估，标准版售价1799元，Pro版2199元，将于11月11日发货。",
     "发布日期": "2026-11-01",
-    "原文链接": "https://www.aibase.com/zh/news/31984",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4346e49eb882ea8c7f9302488390c497.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4346e49eb882ea8c7f9302488390c497.jpg",
-    "配图仓库路径": "assets/news_images/4346e49eb882ea8c7f9302488390c497.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304071129375341_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/31980",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4bd29cf4f48aa09a2928ed0312eef49b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4bd29cf4f48aa09a2928ed0312eef49b.jpg",
+    "配图仓库路径": "assets/news_images/4bd29cf4f48aa09a2928ed0312eef49b.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1030/6392895447329003237378738.jpg"
+  },
+  {
+    "资讯标题": "万亿参数开源模型Mistral Large4 登场：用更少Token打平顶级性能",
+    "内容": "万亿参数开源模型Mistral Large4 登场：用更少Token打平顶级性能AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 30, 20265710月30日消息，欧洲人工智能领军企业 Mistral 正式开源了其代号为“Le Chonk”的全新旗舰模型 —— Mistral Large4。作为目前开源权重阵营中体量最为庞大的大模型之一，它拥有高达1万亿参数，并且完全在欧洲本土基础设施上从零开始训练而成，标志着开源大模型在迈向万亿规模与多模态原生融合的道路上取得了实质性突破。性能硬刚与Token效率:拒绝单纯刷分，主打极致性价比 在核心能力与基准测试方面，Mistral Large4展现出了极为强悍的竞争力。",
+    "发布日期": "2026-11-01",
+    "原文链接": "https://www.aibase.com/zh/news/31986",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
+    "配图仓库路径": "assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556160776_8.jpg"
+  },
+  {
+    "资讯标题": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
+    "内容": "AI也能重新编曲和翻唱。Spotify计划推出付费音乐混音服务AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 30, 202624Spotify计划于2027年第一季度推出AI音乐混音服务，允许付费订阅用户利用人工智能对现有歌曲进行重新编曲或翻唱，并考虑每月额外收取4至5美元。公司正争取在2027年2月格莱美奖颁奖典礼前后发布该服务，但具体上线时间和定价尚未最终确定。与通过文本提示生成全新音乐的AI工具不同，Spotify此次服务主要围绕获得授权的现有音乐作品展开，用户可以将民谣改编为舞曲，也可以利用AI模拟一位歌手演唱另一位歌手的作品。版权方面，Spotify已与环球音乐集团、独立唱片公司授权组织Merlin及法国音乐公司Believe达成授权协议，目前仍在与索尼音乐和华纳音乐谈判。",
+    "发布日期": "2026-11-01",
+    "原文链接": "https://www.aibase.com/zh/news/31991",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/95cb1a38c5e331cf40842668ef63dcdd.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/95cb1a38c5e331cf40842668ef63dcdd.jpg",
+    "配图仓库路径": "assets/news_images/95cb1a38c5e331cf40842668ef63dcdd.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/201811151640158656_46.jpg"
   }
 ]
