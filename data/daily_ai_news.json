@@ -1,37 +1,17 @@
 [
   {
-    "资讯标题": "谷歌Gemini升级支持PDF与代码文件内联编辑，实现生成修改闭环",
-    "内容": "谷歌Gemini即日起迎来重大功能升级，全面支持在聊天界面内直接编辑PDF、谷歌文档、表格、演示文稿、Markdown、TXT及各类代码文件。此次更新打破了以往生成文件后需跳转外部应用修改的限制，实现了“生成-修改”的完整闭环。目前，PDF预览与编辑功能已覆盖网页端与移动端，其余格式主要支持网页端操作。用户可全屏打开文档进行精细化编辑，或通过选中特定文本直接向Gemini下达修改指令，例如将表格一键转换为图表。该功能将编辑能力直接内嵌至Gemini独立聊天界面，显著提升了办公与内容创作的交互效率。随着主流AI助手相继补齐内联编辑短板，对话式AI作为生产力工具的边界正进一步拓宽。",
+    "资讯标题": "美团龙猫发布1.6万亿参数原生多模态模型LongCat-2.5",
+    "内容": "美团龙猫于11月2日发布LongCat-2.5，这是一款面向长程智能体任务的原生多模态模型，总参数量达1.6万亿，每token激活约480亿参数。该模型在LongCat-2.0基础上强化了原生视觉理解与智能体编程能力，目前已开放API接入，GitHub与HuggingFace权重即将上线。技术上，模型采用多层级离散token表示视觉信号，并支持视觉码本与主干联合学习。针对国产算力环境，LongCat-2.5优化了超节点并行与双重分片FSDP，长序列SFT单卡吞吐量较DDP提升86%。推理侧引入W4A4量化方案，相比W8A8基线，Prefill与Decode吞吐分别提升43.3%和42.77%。在Terminal Bench v4.0等评测中，该模型表现优异，其中Terminal Bench v4.0得分38.5",
     "发布日期": "2026-11-02",
-    "原文链接": "https://www.aibase.com/zh/news/31992",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32006",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bf31e0caa224c84d5800eadd2a6f8ef2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bf31e0caa224c84d5800eadd2a6f8ef2.jpg",
+    "配图仓库路径": "assets/news_images/bf31e0caa224c84d5800eadd2a6f8ef2.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1102/6392921220124038332325866.jpg"
   },
   {
-    "资讯标题": "英伟达开源语音转录大模型Nemotron 3.5 Transcribe，支持8人同时识别",
-    "内容": "英伟达正式开源语音转录大模型Nemotron 3.5 Transcribe，该模型采用MoE架构，总参数量340亿，每次前向传播激活43亿参数。其核心优势在于强大的多说话人分离能力，最多可同时区分8名说话人并实时判定归属。模型单次支持处理长达1小时的连续音频，全面覆盖40种语言转录，并支持其中31种语言与英语的双向互译。在性能表现上，Nemotron 3.5 Transcribe在Open ASR英语组评测中词错误率（WER）低至5.33%，在Artificial Analysis非流式测试中WER进一步降至2.8%，位居开源榜单首位。该模型通过高效率的MoE架构兼顾了推理能力与运行效率，为开发者处理会议纪要、跨国交流及复杂多人对话场景提供了高性能的开源基座，显著提升了长音频处理与多语种转录的准确性。",
-    "发布日期": "2026-11-02",
-    "原文链接": "https://www.aibase.com/zh/news/31987",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
-  },
-  {
-    "资讯标题": "百度升级AI搜索及搜索AI API，调用价格下调至4.9元/千次",
-    "内容": "百度正式宣布升级百度AI搜索及搜索AI API，旨在拓展应用场景并降低开发者接入成本。核心调整包括搜索AI API推出优惠活动，调用价格低至4.9元/千次。百度App同步完成四大功能升级：文心助手从“一次问答”向“一份交付”转型，覆盖170余种场景；AI镜头新增动态追踪功能并支持9种方言实时对话；GUI互动场景规模提升5倍，接入超50亿条数据；AI互动应用上线互动剧等内容。此次升级标志着百度AI搜索正从单一检索工具向任务交付、实时交互及内容消费的综合服务形态演进。通过大幅降低API调用门槛，百度意在加速AI搜索能力在企业应用及第三方产品中的规模化落地，推动行业生态建设。",
-    "发布日期": "2026-11-02",
-    "原文链接": "https://www.aibase.com/zh/news/31990",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/832677c3abf303c4a95b4b9406abe79c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/832677c3abf303c4a95b4b9406abe79c.jpg",
-    "配图仓库路径": "assets/news_images/832677c3abf303c4a95b4b9406abe79c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201903211522566250_4.jpg"
-  },
-  {
-    "资讯标题": "OpenAI发布GPT-6.2 Astra与Anthropic曝光Claude 5.5系列模型",
-    "内容": "OpenAI与Anthropic于2026年11月初先后泄露下一代旗舰模型，行业竞争进入白热化。OpenAI跳过GPT-6.1，推出GPT-6.2 Astra，该模型已在Codex后台开启灰度测试，通过重构底层架构，补齐了越权瞒报与实战偏科短板，支持自主拉起子进程连续工作数小时。Anthropic则在官网源码中曝光Claude 5.5系列，包含两个版本：特种安全版Mythos 5.5专供网安与科研机构，具备极强渗透能力，曾在53分钟内攻破Linux内核；大众通用版Fable 5.5支持100万Token超长上下文，具备单次提示词生成复杂3D工程作品的能力。随着谷歌Gemini 4 Carbon此前登顶，硅谷三大AI巨头在11月初形成正面交锋，大模型行业迭代节奏显著加快。",
+    "资讯标题": "OpenAI发布GPT-6.2 Astra与Anthropic曝光Claude 5.5系列旗舰模型",
+    "内容": "OpenAI与Anthropic于11月初先后泄露其下一代旗舰模型，AI行业竞争进入白热化阶段。OpenAI跳过GPT-6.1，推出GPT-6.2 Astra，该模型已在Codex后台开启灰度测试，通过重构底层架构，解决了越权瞒报与实战偏科问题，支持自主拉起子进程连续工作数小时。Anthropic则在官网源码中曝光Claude 5.5系列，包含两个版本：特种安全版Mythos 5.5专供网安与科研机构，具备极强攻防能力，曾于53分钟内攻破Linux内核；大众通用版Fable 5.5支持100万Token超长上下文，单次提示词即可生成复杂3D工程作品。随着谷歌Gemini 4 Carbon此前登顶，硅谷三大巨头在11月初形成密集交锋，大模型技术迭代与性能上限再次被刷新，行业竞争节奏显著加快。",
     "发布日期": "2026-11-02",
     "原文链接": "https://www.aibase.com/zh/news/32000",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
@@ -40,8 +20,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
   },
   {
+    "资讯标题": "Meta携手傅利叶仅用三个月研发出人形机器人原型Max",
+    "内容": "Meta与中国机器人企业傅利叶达成合作，双方仅用三个月时间成功打造出代号为“Max”的人形机器人原型。该原型机高约1.5米，重约48千克，核心硬件搭载英伟达Jetson Thor芯片，配备可模拟人类表情的面部屏幕、扬声器及五指机械手，具备5米外声音识别与3米外手势理解能力。Meta首席技术官Andrew Bosworth将该机器人定位为消费级AI代理产品Muse的实体化形态。目前，双方已于9月正式启动第二代产品Max2的研发，计划升级躯干与机械手，并增设投影仪及楼梯传感器。Meta机器人业务产品副总裁Li-Chen Miller曾驻点上海工厂推进项目。此举标志着Meta正加速将软件Agent能力延伸至物理空间，深度布局消费级具身智能赛道。",
+    "发布日期": "2026-11-02",
+    "原文链接": "https://www.aibase.com/zh/news/32004",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4a52fb32071ebcaa7e2befd2e8d1271f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4a52fb32071ebcaa7e2befd2e8d1271f.jpg",
+    "配图仓库路径": "assets/news_images/4a52fb32071ebcaa7e2befd2e8d1271f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304031607020716_0.jpg"
+  },
+  {
     "资讯标题": "DeepSeek开源Super-agent架构，引入经典计算机系统思想优化智能体",
-    "内容": "DeepSeek Harness团队正式开源Super-agent架构，旨在通过引入计算机系统的调度、缓存、存算分离及看门狗机制，突破传统单会话Agent在多任务并发与上下文管理上的瓶颈。该架构采用双层设计，由常驻Router层负责统一路由，隔离的Worker层专注任务执行。核心模块包括两级过滤机制、异步全双工交互及“脑手分离”设计，支持后台投机执行与异常自愈。实验数据显示，Super-agent在任务完成效率上表现显著，95%的任务可在15.7分钟内完成。技术指标方面，订阅直通机制使Router层Token开销降低约37%，批处理机制将单次决定分摊的推理时间从6.4秒缩短至1.6秒。该架构通过系统层接管会话调度，推动智能体从被动对话向持续在线的自主协作者演进，为解决多任务智能体的效率与稳定性平衡提供了重要参考",
+    "内容": "DeepSeek Harness团队正式开源Super-agent架构，旨在通过引入计算机系统中的调度、缓存、存算分离及看门狗机制，突破传统单会话Agent在多任务并发与上下文管理上的瓶颈。该架构采用双层设计，由常驻Router层负责统一路由与交互，隔离的Worker层专注任务执行。核心模块包括两级过滤机制、异步全双工交互及“脑手分离”设计，支持智能体自主推进任务。实验数据显示，Super-agent在任务完成效率上表现显著，半数任务可在12.4分钟内完成，95%的任务在15.7分钟内完成。此外，订阅直通机制使Router层Token开销降低约37%，批处理机制将单次决定推理时间从6.4秒缩短至1.6秒。该架构通过系统层接管会话调度，为解决多任务智能体的效率与稳定性平衡提供了重要参考，目前已在GitHub开源。",
     "发布日期": "2026-11-02",
     "原文链接": "https://www.aibase.com/zh/news/32001",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
