@@ -1,18 +1,28 @@
 [
   {
-    "资讯标题": "签到30天白拿8800额度:豆包向新老用户敞开30天免费订阅",
-    "内容": "签到30天白拿8800额度:豆包向新老用户敞开30天免费订阅AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 30, 202687字节跳动旗下 AI 助手豆包于10月30日上线新一轮免费福利活动，面向新老用户推出签到领额度与新用户订阅权益。新用户登录豆包电脑版即可领取30天免费体验套餐，体验付费订阅级能力。在额度规则方面，豆包近期已更新订阅权益的额度显示与使用规则，标准、加强、高级三档套餐分别对应每7天可用2100、5600、14000额度，使不同档位的资源配额更加清晰透明。面向全体用户，豆包开放每日签到通道，每天可领取200额度，周一额度翻倍。当累计获得额度达到500、2000、5000三个里程碑时，可分别额外获得200、500、1300额度奖励，累计签到30天最多可得8800额度。",
-    "发布日期": "2026-11-01",
-    "原文链接": "https://www.aibase.com/zh/news/31988",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b2f75ad65cfaddc748d95d20d4138910.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b2f75ad65cfaddc748d95d20d4138910.jpg",
-    "配图仓库路径": "assets/news_images/b2f75ad65cfaddc748d95d20d4138910.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1030/6392896575262200368725141.jpg"
+    "资讯标题": "谷歌Gemini升级支持PDF与代码文件内联编辑，实现生成修改闭环",
+    "内容": "谷歌Gemini即日起迎来重大功能升级，全面支持在聊天界面内直接编辑PDF、谷歌文档、表格、演示文稿、Markdown、TXT及各类代码文件。此次更新打破了以往生成文件后需跳转外部应用修改的限制，实现了“生成-修改”的完整闭环。目前，PDF预览与编辑功能已覆盖网页端与移动端，其余格式主要支持网页端操作。用户可全屏打开文档进行精细化编辑，或通过选中特定文本直接向Gemini下达修改指令，例如将表格一键转换为图表。该功能将编辑能力直接内嵌至Gemini独立聊天界面，显著提升了办公与内容创作的交互效率。随着主流AI助手相继补齐内联编辑短板，对话式AI作为生产力工具的边界正进一步拓宽。",
+    "发布日期": "2026-11-02",
+    "原文链接": "https://www.aibase.com/zh/news/31992",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
   },
   {
-    "资讯标题": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-    "内容": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 30, 202673今日，百度正式宣布升级百度AI搜索和搜索AI API，进一步拓展AI搜索的应用场景，并降低开发者调用成本。此次升级重点涉及API服务及百度App四大AI功能。价格方面，全新升级的搜索AI API在活动期间推出优惠价格，低至4.9元/千次，旨在降低企业和开发者接入AI搜索能力的成本。百度App则围绕文心助手、AI镜头、GUI互动场景和AI互动应用进行升级。其中，文心助手从传统的“一次问答”向“一份交付”转变，覆盖170余种应用场景。AI镜头新增动态追踪功能，并支持9种方言实时对话。",
-    "发布日期": "2026-11-01",
+    "资讯标题": "英伟达开源语音转录大模型Nemotron 3.5 Transcribe，支持8人同时识别",
+    "内容": "英伟达正式开源语音转录大模型Nemotron 3.5 Transcribe，该模型采用MoE架构，总参数量340亿，每次前向传播激活43亿参数。其核心优势在于强大的多说话人分离能力，最多可同时区分8名说话人并实时判定归属。模型单次支持处理长达1小时的连续音频，全面覆盖40种语言转录，并支持其中31种语言与英语的双向互译。在性能表现上，Nemotron 3.5 Transcribe在Open ASR英语组评测中词错误率（WER）低至5.33%，在Artificial Analysis非流式测试中WER进一步降至2.8%，位居开源榜单首位。该模型通过高效率的MoE架构兼顾了推理能力与运行效率，为开发者处理会议纪要、跨国交流及复杂多人对话场景提供了高性能的开源基座，显著提升了长音频处理与多语种转录的准确性。",
+    "发布日期": "2026-11-02",
+    "原文链接": "https://www.aibase.com/zh/news/31987",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
+  },
+  {
+    "资讯标题": "百度升级AI搜索及搜索AI API，调用价格下调至4.9元/千次",
+    "内容": "百度正式宣布升级百度AI搜索及搜索AI API，旨在拓展应用场景并降低开发者接入成本。核心调整包括搜索AI API推出优惠活动，调用价格低至4.9元/千次。百度App同步完成四大功能升级：文心助手从“一次问答”向“一份交付”转型，覆盖170余种场景；AI镜头新增动态追踪功能并支持9种方言实时对话；GUI互动场景规模提升5倍，接入超50亿条数据；AI互动应用上线互动剧等内容。此次升级标志着百度AI搜索正从单一检索工具向任务交付、实时交互及内容消费的综合服务形态演进。通过大幅降低API调用门槛，百度意在加速AI搜索能力在企业应用及第三方产品中的规模化落地，推动行业生态建设。",
+    "发布日期": "2026-11-02",
     "原文链接": "https://www.aibase.com/zh/news/31990",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/832677c3abf303c4a95b4b9406abe79c.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/832677c3abf303c4a95b4b9406abe79c.jpg",
@@ -20,33 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201903211522566250_4.jpg"
   },
   {
-    "资讯标题": "今日宜休发布首批AI睡眠产品:王腾推出ISHO Ring智能戒指与温控系统",
-    "内容": "今日宜休发布首批AI睡眠产品:王腾推出ISHO Ring智能戒指与温控系统AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 30, 20267610月30日，AI睡眠科技生态企业“今日宜休”（ISHO）在北京举行首场新品发布会，创始人兼CEO王腾正式发布ISHO Ring智能戒指、ISHO iFlow智能温控系统及ISHO Intelligence个人睡眠AI技术体系，标志着其正式切入AI睡眠主动干预赛道。该品牌致力于填补科技行业对睡眠8小时的技术创新空白。作为核心硬件，ISHO Ring智能戒指搭载Apollo330B Plus芯片支持端侧AI运行，支持18项生理数据监测及精力分评估，标准版售价1799元，Pro版2199元，将于11月11日发货。",
-    "发布日期": "2026-11-01",
-    "原文链接": "https://www.aibase.com/zh/news/31980",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4bd29cf4f48aa09a2928ed0312eef49b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4bd29cf4f48aa09a2928ed0312eef49b.jpg",
-    "配图仓库路径": "assets/news_images/4bd29cf4f48aa09a2928ed0312eef49b.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1030/6392895447329003237378738.jpg"
+    "资讯标题": "OpenAI发布GPT-6.2 Astra与Anthropic曝光Claude 5.5系列模型",
+    "内容": "OpenAI与Anthropic于2026年11月初先后泄露下一代旗舰模型，行业竞争进入白热化。OpenAI跳过GPT-6.1，推出GPT-6.2 Astra，该模型已在Codex后台开启灰度测试，通过重构底层架构，补齐了越权瞒报与实战偏科短板，支持自主拉起子进程连续工作数小时。Anthropic则在官网源码中曝光Claude 5.5系列，包含两个版本：特种安全版Mythos 5.5专供网安与科研机构，具备极强渗透能力，曾在53分钟内攻破Linux内核；大众通用版Fable 5.5支持100万Token超长上下文，具备单次提示词生成复杂3D工程作品的能力。随着谷歌Gemini 4 Carbon此前登顶，硅谷三大AI巨头在11月初形成正面交锋，大模型行业迭代节奏显著加快。",
+    "发布日期": "2026-11-02",
+    "原文链接": "https://www.aibase.com/zh/news/32000",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
   },
   {
-    "资讯标题": "万亿参数开源模型Mistral Large4 登场：用更少Token打平顶级性能",
-    "内容": "万亿参数开源模型Mistral Large4 登场：用更少Token打平顶级性能AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 30, 20265710月30日消息，欧洲人工智能领军企业 Mistral 正式开源了其代号为“Le Chonk”的全新旗舰模型 —— Mistral Large4。作为目前开源权重阵营中体量最为庞大的大模型之一，它拥有高达1万亿参数，并且完全在欧洲本土基础设施上从零开始训练而成，标志着开源大模型在迈向万亿规模与多模态原生融合的道路上取得了实质性突破。性能硬刚与Token效率:拒绝单纯刷分，主打极致性价比 在核心能力与基准测试方面，Mistral Large4展现出了极为强悍的竞争力。",
-    "发布日期": "2026-11-01",
-    "原文链接": "https://www.aibase.com/zh/news/31986",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
-    "配图仓库路径": "assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556160776_8.jpg"
-  },
-  {
-    "资讯标题": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
-    "内容": "AI也能重新编曲和翻唱。Spotify计划推出付费音乐混音服务AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Oct 30, 202626Spotify计划于2027年第一季度推出AI音乐混音服务，允许付费订阅用户利用人工智能对现有歌曲进行重新编曲或翻唱，并考虑每月额外收取4至5美元。公司正争取在2027年2月格莱美奖颁奖典礼前后发布该服务，但具体上线时间和定价尚未最终确定。与通过文本提示生成全新音乐的AI工具不同，Spotify此次服务主要围绕获得授权的现有音乐作品展开，用户可以将民谣改编为舞曲，也可以利用AI模拟一位歌手演唱另一位歌手的作品。版权方面，Spotify已与环球音乐集团、独立唱片公司授权组织Merlin及法国音乐公司Believe达成授权协议，目前仍在与索尼音乐和华纳音乐谈判。",
-    "发布日期": "2026-11-01",
-    "原文链接": "https://www.aibase.com/zh/news/31991",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/95cb1a38c5e331cf40842668ef63dcdd.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/95cb1a38c5e331cf40842668ef63dcdd.jpg",
-    "配图仓库路径": "assets/news_images/95cb1a38c5e331cf40842668ef63dcdd.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/201811151640158656_46.jpg"
+    "资讯标题": "DeepSeek开源Super-agent架构，引入经典计算机系统思想优化智能体",
+    "内容": "DeepSeek Harness团队正式开源Super-agent架构，旨在通过引入计算机系统的调度、缓存、存算分离及看门狗机制，突破传统单会话Agent在多任务并发与上下文管理上的瓶颈。该架构采用双层设计，由常驻Router层负责统一路由，隔离的Worker层专注任务执行。核心模块包括两级过滤机制、异步全双工交互及“脑手分离”设计，支持后台投机执行与异常自愈。实验数据显示，Super-agent在任务完成效率上表现显著，95%的任务可在15.7分钟内完成。技术指标方面，订阅直通机制使Router层Token开销降低约37%，批处理机制将单次决定分摊的推理时间从6.4秒缩短至1.6秒。该架构通过系统层接管会话调度，推动智能体从被动对话向持续在线的自主协作者演进，为解决多任务智能体的效率与稳定性平衡提供了重要参考",
+    "发布日期": "2026-11-02",
+    "原文链接": "https://www.aibase.com/zh/news/32001",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
+    "配图仓库路径": "assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558233072_8.jpg"
   }
 ]
