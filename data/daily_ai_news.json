@@ -1,7 +1,7 @@
 [
   {
     "资讯标题": "美团龙猫发布1.6万亿参数原生多模态模型LongCat-2.5",
-    "内容": "美团龙猫于11月2日发布LongCat-2.5，这是一款面向长程智能体任务的原生多模态模型，总参数量达1.6万亿，每token激活约480亿参数。该模型在LongCat-2.0基础上强化了原生视觉理解与智能体编程能力，目前已开放API接入，GitHub与HuggingFace权重即将上线。技术上，模型采用多层级离散token表示视觉信号，并支持视觉码本与主干联合学习。针对国产算力环境，LongCat-2.5优化了超节点并行与双重分片FSDP，长序列SFT单卡吞吐量较DDP提升86%。推理侧引入W4A4量化方案，相比W8A8基线，Prefill与Decode吞吐分别提升43.3%和42.77%。在Terminal Bench v4.0等评测中，该模型表现优异，其中Terminal Bench v4.0得分38.5",
+    "内容": "美团龙猫于11月2日发布LongCat-2.5，这是一款定位长程智能体任务的原生多模态模型，总参数量达1.6万亿，每token激活约480亿参数。该模型在LongCat-2.0基础上强化了原生视觉理解与智能体编程能力，目前已开放API接入与在线体验，GitHub及HuggingFace权重即将上线。技术上，模型采用多层级离散token表示视觉信号，并结合Agentic RL链路提升智能体泛化能力。针对国产算力环境，LongCat-2.5优化了超节点并行与双重分片FSDP，长序列SFT单卡吞吐量较DDP基线提升86%。推理侧引入W4A4量化方案，相比W8A8基线，Prefill与Decode吞吐分别提升43.3%和42.77%，TTFT与TPOT显著降低。在Terminal Bench v4.0等评测中，该模型表",
     "发布日期": "2026-11-02",
     "原文链接": "https://www.aibase.com/zh/news/32006",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bf31e0caa224c84d5800eadd2a6f8ef2.jpg",
@@ -10,18 +10,28 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1102/6392921220124038332325866.jpg"
   },
   {
-    "资讯标题": "OpenAI发布GPT-6.2 Astra与Anthropic曝光Claude 5.5系列旗舰模型",
-    "内容": "OpenAI与Anthropic于11月初先后泄露其下一代旗舰模型，AI行业竞争进入白热化阶段。OpenAI跳过GPT-6.1，推出GPT-6.2 Astra，该模型已在Codex后台开启灰度测试，通过重构底层架构，解决了越权瞒报与实战偏科问题，支持自主拉起子进程连续工作数小时。Anthropic则在官网源码中曝光Claude 5.5系列，包含两个版本：特种安全版Mythos 5.5专供网安与科研机构，具备极强攻防能力，曾于53分钟内攻破Linux内核；大众通用版Fable 5.5支持100万Token超长上下文，单次提示词即可生成复杂3D工程作品。随着谷歌Gemini 4 Carbon此前登顶，硅谷三大巨头在11月初形成密集交锋，大模型技术迭代与性能上限再次被刷新，行业竞争节奏显著加快。",
+    "资讯标题": "特斯拉量产版Optimus人形机器人首次搭载端到端视觉大模型",
+    "内容": "特斯拉最新量产版Optimus人形机器人迎来重大技术升级，首次全面搭载与FSD同源的端到端视觉大模型。该架构摒弃了传统硬编码程序，采用由神经网络直接驱动的“视觉输入到动作输出”方案，使机器人能通过机载双目摄像头实时生成高精度全身关节控制指令。在测试中，Optimus在应对外力推搡、不平整路面行走及精细抓取任务时，动作流畅度与反应速度显著提升，对标真人水平。硬件方面，特斯拉通过优化轻量化材料与关节电机降低了能耗并提升续航。目前，得克萨斯超级工厂正加速建设专用生产线，推进该机型的大规模量产。此次升级标志着具身智能从实验室走向商业化应用，人形机器人正式进入全栈AI驱动的新时代。",
     "发布日期": "2026-11-02",
-    "原文链接": "https://www.aibase.com/zh/news/32000",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32017",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/64f9fdb26b2a6e877b5e080058b0050e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/64f9fdb26b2a6e877b5e080058b0050e.jpg",
+    "配图仓库路径": "assets/news_images/64f9fdb26b2a6e877b5e080058b0050e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202511051714352063_4.jpg"
   },
   {
-    "资讯标题": "Meta携手傅利叶仅用三个月研发出人形机器人原型Max",
-    "内容": "Meta与中国机器人企业傅利叶达成合作，双方仅用三个月时间成功打造出代号为“Max”的人形机器人原型。该原型机高约1.5米，重约48千克，核心硬件搭载英伟达Jetson Thor芯片，配备可模拟人类表情的面部屏幕、扬声器及五指机械手，具备5米外声音识别与3米外手势理解能力。Meta首席技术官Andrew Bosworth将该机器人定位为消费级AI代理产品Muse的实体化形态。目前，双方已于9月正式启动第二代产品Max2的研发，计划升级躯干与机械手，并增设投影仪及楼梯传感器。Meta机器人业务产品副总裁Li-Chen Miller曾驻点上海工厂推进项目。此举标志着Meta正加速将软件Agent能力延伸至物理空间，深度布局消费级具身智能赛道。",
+    "资讯标题": "OpenAI、谷歌、微软与Anthropic联手制定统一AI爬虫拒绝标准",
+    "内容": "OpenAI、谷歌、微软与Anthropic于11月1日宣布共同采用一套新标准，允许网站主通过统一的robots.txt文件声明拒绝AI抓取。该机制由Anthropic技术负责人Kevin Kelley提交至互联网工程任务组（IETF），旨在将robots.txt的管辖范围从搜索引擎扩展至AI训练领域。此前，网站主需针对不同AI厂商分别登记偏好，新标准实现了一次写入、多家通用的便捷管理。目前，Anthropic已率先采用该标准，OpenAI计划在未来数月内落实，谷歌与微软预计于明年跟进，Meta亦对该通用信号表示支持。此举标志着AI爬虫抓取规则从各家分散管理转向统一化，显著降低了内容发布方管理版权与训练数据的技术门槛，推动了AI训练数据合规化进程。",
+    "发布日期": "2026-11-02",
+    "原文链接": "https://www.aibase.com/zh/news/32011",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "配图仓库路径": "assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308291638468779_1.jpg"
+  },
+  {
+    "资讯标题": "Meta携手傅利叶仅用三月研发出人形机器人原型Max",
+    "内容": "Meta与中国机器人企业傅利叶合作，仅用三个月成功打造出代号为“Max”的人形机器人原型，并于9月启动第二代产品Max2的研发。Max原型机高约1.5米、重48千克，搭载英伟达Jetson Thor芯片，配备可模拟表情的面部屏幕、扬声器及五指机械手，支持5米外语音识别与3米外手势理解。Meta首席技术官Andrew Bosworth将该机器人定义为消费级AI代理产品Muse的实体化形态，Meta机器人业务产品副总裁Li-Chen Miller曾赴上海驻点推进项目。Max2计划升级躯干与机械手，并增设投影仪及楼梯传感器。此举标志着Meta正加速将软件Agent能力延伸至物理环境，积极布局消费级具身智能赛道。",
     "发布日期": "2026-11-02",
     "原文链接": "https://www.aibase.com/zh/news/32004",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4a52fb32071ebcaa7e2befd2e8d1271f.jpg",
@@ -30,13 +40,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304031607020716_0.jpg"
   },
   {
-    "资讯标题": "DeepSeek开源Super-agent架构，引入经典计算机系统思想优化智能体",
-    "内容": "DeepSeek Harness团队正式开源Super-agent架构，旨在通过引入计算机系统中的调度、缓存、存算分离及看门狗机制，突破传统单会话Agent在多任务并发与上下文管理上的瓶颈。该架构采用双层设计，由常驻Router层负责统一路由与交互，隔离的Worker层专注任务执行。核心模块包括两级过滤机制、异步全双工交互及“脑手分离”设计，支持智能体自主推进任务。实验数据显示，Super-agent在任务完成效率上表现显著，半数任务可在12.4分钟内完成，95%的任务在15.7分钟内完成。此外，订阅直通机制使Router层Token开销降低约37%，批处理机制将单次决定推理时间从6.4秒缩短至1.6秒。该架构通过系统层接管会话调度，为解决多任务智能体的效率与稳定性平衡提供了重要参考，目前已在GitHub开源。",
+    "资讯标题": "DeepSeek发布Super-agent原型并开源，实现AI自主多任务调度与执行",
+    "内容": "DeepSeek Harness团队发布技术文章并开源原型dsh-superagent-prototype（MIT协议），旨在将AI从被动响应转变为自主执行任务的Agent系统。该系统采用双层架构：常驻前台的Router负责交互与任务分派，后台为每个任务分配隔离的Worker并行处理，并引入事件驱动、存算分离及Watchdog监督机制。针对多任务瓶颈，该方案突破了传统单Session限制，将并发上限从人的注意力转移至系统吞吐。压测数据显示，在处理300条消息及20项请求时，P95耗时从单Session方案的29.5分钟缩短至15.7分钟。官方强调，该原型已在内部实现缺陷复现、代码审查及自动嗅探潜在Bug等功能。配合V4-Pro模型每百万token约1.32/3.96美元的成本优势，该架构显著提升了Agent的自",
     "发布日期": "2026-11-02",
-    "原文链接": "https://www.aibase.com/zh/news/32001",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
-    "配图仓库路径": "assets/news_images/31ad7bf053179e7d293d02d25e43572c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558233072_8.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32016",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c0736f8707d22281ef34a0342d032ba8.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c0736f8707d22281ef34a0342d032ba8.jpg",
+    "配图仓库路径": "assets/news_images/c0736f8707d22281ef34a0342d032ba8.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051439307375_1.jpg"
   }
 ]
