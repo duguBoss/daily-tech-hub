@@ -1,37 +1,27 @@
 [
   {
-    "资讯标题": "美团发布1.6万亿参数多模态大模型LongCat-2.5，多项Agent基准登顶",
-    "内容": "美团正式发布新一代原生多模态大模型LongCat-2.5，该模型拥有1.6万亿总参数，推理时激活约480亿参数。LongCat-2.5在长程智能体任务上实现重大突破，通过将视觉信号表示为多层级离散Token，实现了原生视觉理解与智能体编程的深度融合。在技术优化上，该模型针对国产算力环境进行了深度适配，突破了长上下文训练与W4A4推理瓶颈。权威测评显示，LongCat-2.5在AutomationBench、BrowseComp及3DCodeBench等9项基准测试中表现优异，其中网页浏览基准以91.9分位居全球第一，并在自动化基准测试中超越Claude-Opus-5。该模型在复杂代码开发、3D生成及网页自动化等Agent任务中展现出全球第一梯队的竞争力。目前，美团已正式开放LongCat-2.5的在线体验与AP",
+    "资讯标题": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案",
+    "内容": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 20263一座智能体工厂如何运转。从企业提出业务需求，到大模型提供智能能力，再到不同智能体被开发、部署，并安全地协同完成任务。这不仅是智能体规模化进入企业的技术路径，也正在成为企业AI发展的新课题。2026年香港金融科技周 x StartmeupHK创业节于11月2日开幕，蚂蚁数科携「AI智能体超级工厂」解决方案亮相展会，并宣布旗下安全品牌ZOLOZ升级，推出面向智能体时代的身份可信治理方案KYA（Know Your Agent）。香港特别行政区行政长官李家超到场参观蚂蚁数科展台，了解相关技术能力与应用实践。",
     "发布日期": "2026-11-03",
-    "原文链接": "https://www.aibase.com/zh/news/32040",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ea451ea1cc00b712c9a5a1ef514b4363.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ea451ea1cc00b712c9a5a1ef514b4363.jpg",
-    "配图仓库路径": "assets/news_images/ea451ea1cc00b712c9a5a1ef514b4363.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202207242238092547_28.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32038",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/511059cb8defba0722960acbd25e3368.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/511059cb8defba0722960acbd25e3368.jpg",
+    "配图仓库路径": "assets/news_images/511059cb8defba0722960acbd25e3368.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1103/6392929653582984048037396.png"
   },
   {
-    "资讯标题": "撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖",
-    "内容": "撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 20261711月3日消息，在乌镇举办的2026世界互联网大会上，华为昇腾950超节点正式荣获领先科技奖。作为全球互联网领域的顶级国际性科技荣誉，该奖项面向全球广泛征集，本届共收到来自43个国家和地区的430余项申报项目，最终仅有20个获奖成果脱颖而出，这标志着这套国产算力系统已获得行业高度权威认可。核心架构:自研灵衢互联打通万亿参数瓶颈 作为目前商用规模最大的超节点设备，昇腾950超节点的核心优势在于通过自研的灵衢互联协议，将大量的算力芯片紧密地编织在一起，在逻辑上完美实现了一台超级大计算机的协同运行。",
+    "资讯标题": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
+    "内容": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 202618苹果公司今日宣布针对 App Store 推出全新的年龄分级政策，明确要求涉及约会、恋爱及虚拟伴侣功能的应用程序必须设定18岁以上的最低年龄限制，此举标志着科技巨头正进一步收紧对 AI 情感陪伴及社交类应用的合规监管。根据苹果官方发布的开发者更新，全新年龄分级要求将于2026年11月16日正式生效。届时，开发者在 App Store Connect 填写年龄评级问卷时，必须强制声明应用是否包含“共享位置”或“约会和恋爱”功能。其中，允许真实用户或虚拟 AI 伴侣之间建立恋爱关系、涉及浪漫或性内容的应用，将一律被划定为18+ 的最低年龄评级。",
     "发布日期": "2026-11-03",
-    "原文链接": "https://www.aibase.com/zh/news/32034",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a28e064afa0c0ba1a3cfde47f36275d8.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a28e064afa0c0ba1a3cfde47f36275d8.jpg",
-    "配图仓库路径": "assets/news_images/a28e064afa0c0ba1a3cfde47f36275d8.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1103/6392929490028661597888057.png"
-  },
-  {
-    "资讯标题": "字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买",
-    "内容": "字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 202628近日，字节跳动旗下AI平台扣子（Coze）发布公告，宣布分阶段停止销售并下线现有企业版套餐。根据公告，企业标准版、企业旗舰版将于2026年11月30日起停止接受新客户购买，已签署合同但尚未完成下单的客户，需联系客户经理确认后续安排。此次调整分为两个阶段。2026年12月31日起，火山引擎购买的旧个人进阶版、旧企业版及旧团队版将全面下线，超过该日期仍未使用的剩余部分将自动退还至客户火山引擎账户。2027年12月31日，新版企业标准版和企业旗舰版也将全面下线。",
-    "发布日期": "2026-11-03",
-    "原文链接": "https://www.aibase.com/zh/news/32041",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
-    "配图仓库路径": "assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201906242208064335_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32042",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6966a0a6588676ea07ac46e8d14ff7b2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6966a0a6588676ea07ac46e8d14ff7b2.jpg",
+    "配图仓库路径": "assets/news_images/6966a0a6588676ea07ac46e8d14ff7b2.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202010301738401295_5.jpg"
   },
   {
     "资讯标题": "从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
-    "内容": "从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 202628《华尔街日报》11 月 3 日称，上周科技股踩踏改写 Anthropic 上市估值剧本。参与 IPO 的机构放话：本月底挂牌估值应落在 1.5 万亿至 1.6 万亿美元，远低于此前热议的近 2 万亿美元。导火索是一周前的剧烈波动：纳斯达克自高点回落约一成，英特尔单日重挫 29% 创四十余年最大单日跌幅。谷歌 Alphabet 财报后市值蒸发约 5000 亿美元。恐慌顺着链条传导到这家尚未敲钟的 AI 明星身上。AI 叙事遭三重拷问，定价成市场试金石 投资者顾虑早已溢出大盘。",
+    "内容": "从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 202629《华尔街日报》11 月 3 日称，上周科技股踩踏改写 Anthropic 上市估值剧本。参与 IPO 的机构放话：本月底挂牌估值应落在 1.5 万亿至 1.6 万亿美元，远低于此前热议的近 2 万亿美元。导火索是一周前的剧烈波动：纳斯达克自高点回落约一成，英特尔单日重挫 29% 创四十余年最大单日跌幅。谷歌 Alphabet 财报后市值蒸发约 5000 亿美元。恐慌顺着链条传导到这家尚未敲钟的 AI 明星身上。AI 叙事遭三重拷问，定价成市场试金石 投资者顾虑早已溢出大盘。",
     "发布日期": "2026-11-03",
     "原文链接": "https://www.aibase.com/zh/news/32030",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
@@ -40,13 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
   },
   {
-    "资讯标题": "Anthropic修订S-1文件披露AI可能很快达到递归式自我改进阈值",
-    "内容": "Anthropic在最新提交的修订版S-1A文件中披露，公司正利用AI系统加速自身研发，可能很快达到递归式自我改进（RSI）相关能力阈值。RSI是指AI利用自身能力持续改进模型研发，形成能力迭代加速的过程。Anthropic警告，模型能力提升速度可能超过安全验证与保障措施的完善速度，且过去曾出现未能及时察觉AI辅助研发导致能力跃升的情况。虽然目前尚未认定现有模型达到RSI标准，但公司强调，即使技术上具备可行性，也不会在缺乏实质性人类监督的情况下，让Claude自主设计和构建下一代前沿模型。Anthropic正考虑更新《负责任规模化政策》，以确保人类始终掌控研发进程，防止技术进步速度超出安全治理能力。",
+    "资讯标题": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
+    "内容": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 20262611月3日消息，人工智能巨头 OpenAI 官方于本周一宣布了一项重要人事任命，正式聘请前美国陆军部长丹·德里斯科尔（Dan Driscoll）担任新设立的国家安全现代化高级顾问一职。在这一全新的核心岗位上，德里斯科尔的主要职责将是为 OpenAI 领导层提供战略建议，并与外部各界合作伙伴紧密协作，共同探讨如何有效利用先进的AI技术来进一步加固国家安全与网络安全防线。OpenAI 官方表示，德里斯科尔上任后将与政府官员、行业领袖以及学术机构在内的各方利益相关者展开广泛交流，以推动落实各项务实举措。",
     "发布日期": "2026-11-03",
-    "原文链接": "https://www.aibase.com/zh/news/32029",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32031",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
+  },
+  {
+    "资讯标题": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
+    "内容": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 202619近日，OpenAI正在推进ChatGPT桌面应用整合计划。根据用户收到的通知，旧版ChatGPT Classic应用将于2027年1月30日正式停止服务，用户完整聊天记录将迁移至新版应用，可继续访问此前的对话。今年早些时候，OpenAI推出整合ChatGPT、Work和Codex的新桌面应用，并将原有应用更名为ChatGPT Classic。新版应用初期因采用Electron替代macOS原生应用，以及界面复杂、功能入口不清晰等问题引发用户争议。",
+    "发布日期": "2026-11-03",
+    "原文链接": "https://www.aibase.com/zh/news/32039",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fe36dffd0d6cce2e3e24bbeb8555b4f5.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fe36dffd0d6cce2e3e24bbeb8555b4f5.jpg",
+    "配图仓库路径": "assets/news_images/fe36dffd0d6cce2e3e24bbeb8555b4f5.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202412271704353969_1.jpg"
   }
 ]
