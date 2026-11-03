@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案",
-    "内容": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 20263一座智能体工厂如何运转。从企业提出业务需求，到大模型提供智能能力，再到不同智能体被开发、部署，并安全地协同完成任务。这不仅是智能体规模化进入企业的技术路径，也正在成为企业AI发展的新课题。2026年香港金融科技周 x StartmeupHK创业节于11月2日开幕，蚂蚁数科携「AI智能体超级工厂」解决方案亮相展会，并宣布旗下安全品牌ZOLOZ升级，推出面向智能体时代的身份可信治理方案KYA（Know Your Agent）。香港特别行政区行政长官李家超到场参观蚂蚁数科展台，了解相关技术能力与应用实践。",
+    "资讯标题": "阿里巴巴在世界互联网大会宣布千问系列开源模型数量已达470款",
+    "内容": "在2026年世界互联网大会上，阿里巴巴董事会主席蔡崇信披露，阿里千问系列已开源超过470款模型，全球累计下载量突破40亿次，衍生模型数量超过33万个。蔡崇信强调，在算力供不应求的背景下，开源是AI普及的关键路径，旨在通过共享权重、训练范式与工具链，降低中小企业研发成本，使AI能力从少数巨头的机房释放。他将阿里的开源策略类比为向全球开放的顶尖大学，认为开源能帮助发展中国家摆脱对特定算力基础设施的依赖。蔡崇信预判，AI未来将从显性话题转变为隐性基础设施，深度渗透至商业业务的各个环节，通过技术共享让更多开发者能够站在巨人肩上进行应用创新。",
     "发布日期": "2026-11-03",
-    "原文链接": "https://www.aibase.com/zh/news/32038",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/511059cb8defba0722960acbd25e3368.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/511059cb8defba0722960acbd25e3368.jpg",
-    "配图仓库路径": "assets/news_images/511059cb8defba0722960acbd25e3368.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1103/6392929653582984048037396.png"
+    "原文链接": "https://www.aibase.com/zh/news/32046",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
+    "配图仓库路径": "assets/news_images/7df97ea9869216546c5f85f40b60b24a.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007232048_2.jpg"
   },
   {
-    "资讯标题": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
-    "内容": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 202618苹果公司今日宣布针对 App Store 推出全新的年龄分级政策，明确要求涉及约会、恋爱及虚拟伴侣功能的应用程序必须设定18岁以上的最低年龄限制，此举标志着科技巨头正进一步收紧对 AI 情感陪伴及社交类应用的合规监管。根据苹果官方发布的开发者更新，全新年龄分级要求将于2026年11月16日正式生效。届时，开发者在 App Store Connect 填写年龄评级问卷时，必须强制声明应用是否包含“共享位置”或“约会和恋爱”功能。其中，允许真实用户或虚拟 AI 伴侣之间建立恋爱关系、涉及浪漫或性内容的应用，将一律被划定为18+ 的最低年龄评级。",
+    "资讯标题": "美团发布1.6万亿参数多模态大模型LongCat-2.5，多项Agent基准登顶",
+    "内容": "美团正式发布新一代原生多模态大模型LongCat-2.5，该模型总参数量达1.6万亿，推理时激活约480亿参数。LongCat-2.5在长程智能体任务中表现突出，通过将视觉信号表示为多层级离散Token，实现了原生视觉理解与智能体编程的深度融合。在国产算力环境下，该模型突破了长上下文训练与W4A4推理瓶颈，显著提升了复杂代码开发与项目构建的端到端工程能力。在权威基准测试中，LongCat-2.5在AutomationBench斩获51.8分，在BrowseComp以91.9分位居榜首，并在3DCodeBench测试中领先同类竞品。该模型在网页自动化、3D生成等Agent任务上展现出全球第一梯队的统治力。目前，美团已正式开放LongCat-2.5的在线体验与API接入通道，支持开发者进行深度试用与集成。",
     "发布日期": "2026-11-03",
-    "原文链接": "https://www.aibase.com/zh/news/32042",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6966a0a6588676ea07ac46e8d14ff7b2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6966a0a6588676ea07ac46e8d14ff7b2.jpg",
-    "配图仓库路径": "assets/news_images/6966a0a6588676ea07ac46e8d14ff7b2.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202010301738401295_5.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32040",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ea451ea1cc00b712c9a5a1ef514b4363.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ea451ea1cc00b712c9a5a1ef514b4363.jpg",
+    "配图仓库路径": "assets/news_images/ea451ea1cc00b712c9a5a1ef514b4363.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202207242238092547_28.jpg"
   },
   {
-    "资讯标题": "从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
-    "内容": "从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 202629《华尔街日报》11 月 3 日称，上周科技股踩踏改写 Anthropic 上市估值剧本。参与 IPO 的机构放话：本月底挂牌估值应落在 1.5 万亿至 1.6 万亿美元，远低于此前热议的近 2 万亿美元。导火索是一周前的剧烈波动：纳斯达克自高点回落约一成，英特尔单日重挫 29% 创四十余年最大单日跌幅。谷歌 Alphabet 财报后市值蒸发约 5000 亿美元。恐慌顺着链条传导到这家尚未敲钟的 AI 明星身上。AI 叙事遭三重拷问，定价成市场试金石 投资者顾虑早已溢出大盘。",
+    "资讯标题": "字节跳动扣子Coze宣布下线企业版套餐，分阶段停止新客购买与服务",
+    "内容": "字节跳动旗下AI平台扣子（Coze）正式宣布对企业版产品体系进行整合，将分阶段停止销售并下线现有企业版套餐。自2026年11月30日起，企业标准版与企业旗舰版停止接受新客户购买；2026年12月31日起，火山引擎渠道的旧个人进阶版、旧企业版及旧团队版全面下线，剩余未用额度将退还至火山引擎账户。对于现有客户，虽允许续费或增购席位，但所有服务到期日均不得晚于2027年12月31日，届时新版企业标准版和旗舰版也将全面下线。官方建议有需求的旧版套餐客户先行退订，再按需购买新版套餐。此次调整旨在推动产品整合，后续面向企业客户的全新产品及套餐方案仍在规划中。此举直接影响企业客户的采购策略与服务迁移安排，相关企业需密切关注后续官方发布的具体替代方案。",
     "发布日期": "2026-11-03",
-    "原文链接": "https://www.aibase.com/zh/news/32030",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32041",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
+    "配图仓库路径": "assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201906242208064335_2.jpg"
   },
   {
-    "资讯标题": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-    "内容": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 20262611月3日消息，人工智能巨头 OpenAI 官方于本周一宣布了一项重要人事任命，正式聘请前美国陆军部长丹·德里斯科尔（Dan Driscoll）担任新设立的国家安全现代化高级顾问一职。在这一全新的核心岗位上，德里斯科尔的主要职责将是为 OpenAI 领导层提供战略建议，并与外部各界合作伙伴紧密协作，共同探讨如何有效利用先进的AI技术来进一步加固国家安全与网络安全防线。OpenAI 官方表示，德里斯科尔上任后将与政府官员、行业领袖以及学术机构在内的各方利益相关者展开广泛交流，以推动落实各项务实举措。",
+    "资讯标题": "OpenAI聘请前美国陆军部长丹尼尔·德里斯科尔担任国家安全高级顾问",
+    "内容": "OpenAI于11月3日宣布，正式聘请今年8月卸任的美国前陆军部长丹尼尔·德里斯科尔（Daniel Driscoll）出任国家安全与现代化事务高级顾问。德里斯科尔现年38岁，曾于2025年成为美国史上最年轻的陆军部长。他将负责协调政府、学界及产业界，推动AI技术在国家安全与网络安全领域的实际应用，并致力于在全球推广符合民主原则的AI技术。此次任命标志着OpenAI在军用领域布局的进一步深化。自2024年修订政策取消“禁止军事用途”限制后，OpenAI已于今年2月与美国国防部签约，将模型部署至机密网络。在竞争对手Anthropic因自主武器议题与五角大楼合作破裂的背景下，OpenAI正加速填补市场空白，通过引入高层政界资源，强化其在国防与公共安全领域的战略影响力。",
     "发布日期": "2026-11-03",
-    "原文链接": "https://www.aibase.com/zh/news/32031",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "配图仓库路径": "assets/news_images/5d9bbadad0955c8f71f85b739f070c20.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32043",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8d94ae718c271947526bf3fae3a9e6c2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8d94ae718c271947526bf3fae3a9e6c2.jpg",
+    "配图仓库路径": "assets/news_images/8d94ae718c271947526bf3fae3a9e6c2.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302112107341554_1.jpg"
   },
   {
-    "资讯标题": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-    "内容": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 202619近日，OpenAI正在推进ChatGPT桌面应用整合计划。根据用户收到的通知，旧版ChatGPT Classic应用将于2027年1月30日正式停止服务，用户完整聊天记录将迁移至新版应用，可继续访问此前的对话。今年早些时候，OpenAI推出整合ChatGPT、Work和Codex的新桌面应用，并将原有应用更名为ChatGPT Classic。新版应用初期因采用Electron替代macOS原生应用，以及界面复杂、功能入口不清晰等问题引发用户争议。",
+    "资讯标题": "Anthropic发布三季度财报：由盈转亏，近9000亿美元算力承诺成IPO考验",
+    "内容": "Anthropic向SEC提交招股书修订稿，披露2026财年第三财季财务数据。尽管营收达170亿美元，环比增长47%，但因短期算力成本激增，公司经营由盈转亏，录得5.67亿美元亏损。三季度算力与基础设施支出环比大增77%至99亿美元，每投入1美元算力带来的收入从2.08美元降至1.72美元。公司披露算力采购与租赁承诺总额达8954亿美元，付款期至2045年，其中未来12个月内到期金额超600亿美元。若计入与谷歌、AMD等未定额合同，总账单或突破1万亿美元。资金流向涵盖博通、谷歌、SpaceX、亚马逊、微软及Nscale、Lambda等产业链核心方。分析认为，巨额刚性算力债务与收入波动的错配，将成为Anthropic冲刺IPO过程中证明商业模式抗周期能力与现金流质量的最大挑战。",
     "发布日期": "2026-11-03",
-    "原文链接": "https://www.aibase.com/zh/news/32039",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/fe36dffd0d6cce2e3e24bbeb8555b4f5.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/fe36dffd0d6cce2e3e24bbeb8555b4f5.jpg",
-    "配图仓库路径": "assets/news_images/fe36dffd0d6cce2e3e24bbeb8555b4f5.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202412271704353969_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32045",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/af1dae73cfc34864d932d7a2c76c32c3.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/af1dae73cfc34864d932d7a2c76c32c3.jpg",
+    "配图仓库路径": "assets/news_images/af1dae73cfc34864d932d7a2c76c32c3.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309071139000461_0.jpg"
   }
 ]
