@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "美团龙猫发布1.6万亿参数原生多模态模型LongCat-2.5",
-    "内容": "美团龙猫于11月2日发布LongCat-2.5，这是一款定位长程智能体任务的原生多模态模型，总参数量达1.6万亿，每token激活约480亿参数。该模型在LongCat-2.0基础上强化了原生视觉理解与智能体编程能力，目前已开放API接入与在线体验，GitHub及HuggingFace权重即将上线。技术上，模型采用多层级离散token表示视觉信号，并结合Agentic RL链路提升智能体泛化能力。针对国产算力环境，LongCat-2.5优化了超节点并行与双重分片FSDP，长序列SFT单卡吞吐量较DDP基线提升86%。推理侧引入W4A4量化方案，相比W8A8基线，Prefill与Decode吞吐分别提升43.3%和42.77%，TTFT与TPOT显著降低。在Terminal Bench v4.0等评测中，该模型表",
-    "发布日期": "2026-11-02",
-    "原文链接": "https://www.aibase.com/zh/news/32006",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bf31e0caa224c84d5800eadd2a6f8ef2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bf31e0caa224c84d5800eadd2a6f8ef2.jpg",
-    "配图仓库路径": "assets/news_images/bf31e0caa224c84d5800eadd2a6f8ef2.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1102/6392921220124038332325866.jpg"
+    "资讯标题": "美团发布1.6万亿参数多模态大模型LongCat-2.5，多项Agent基准登顶",
+    "内容": "美团正式发布新一代原生多模态大模型LongCat-2.5，该模型拥有1.6万亿总参数，推理时激活约480亿参数。LongCat-2.5在长程智能体任务上实现重大突破，通过将视觉信号表示为多层级离散Token，实现了原生视觉理解与智能体编程的深度融合。在技术优化上，该模型针对国产算力环境进行了深度适配，突破了长上下文训练与W4A4推理瓶颈。权威测评显示，LongCat-2.5在AutomationBench、BrowseComp及3DCodeBench等9项基准测试中表现优异，其中网页浏览基准以91.9分位居全球第一，并在自动化基准测试中超越Claude-Opus-5。该模型在复杂代码开发、3D生成及网页自动化等Agent任务中展现出全球第一梯队的竞争力。目前，美团已正式开放LongCat-2.5的在线体验与AP",
+    "发布日期": "2026-11-03",
+    "原文链接": "https://www.aibase.com/zh/news/32040",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ea451ea1cc00b712c9a5a1ef514b4363.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ea451ea1cc00b712c9a5a1ef514b4363.jpg",
+    "配图仓库路径": "assets/news_images/ea451ea1cc00b712c9a5a1ef514b4363.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202207242238092547_28.jpg"
   },
   {
-    "资讯标题": "特斯拉量产版Optimus人形机器人首次搭载端到端视觉大模型",
-    "内容": "特斯拉最新量产版Optimus人形机器人迎来重大技术升级，首次全面搭载与FSD同源的端到端视觉大模型。该架构摒弃了传统硬编码程序，采用由神经网络直接驱动的“视觉输入到动作输出”方案，使机器人能通过机载双目摄像头实时生成高精度全身关节控制指令。在测试中，Optimus在应对外力推搡、不平整路面行走及精细抓取任务时，动作流畅度与反应速度显著提升，对标真人水平。硬件方面，特斯拉通过优化轻量化材料与关节电机降低了能耗并提升续航。目前，得克萨斯超级工厂正加速建设专用生产线，推进该机型的大规模量产。此次升级标志着具身智能从实验室走向商业化应用，人形机器人正式进入全栈AI驱动的新时代。",
-    "发布日期": "2026-11-02",
-    "原文链接": "https://www.aibase.com/zh/news/32017",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/64f9fdb26b2a6e877b5e080058b0050e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/64f9fdb26b2a6e877b5e080058b0050e.jpg",
-    "配图仓库路径": "assets/news_images/64f9fdb26b2a6e877b5e080058b0050e.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202511051714352063_4.jpg"
+    "资讯标题": "撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖",
+    "内容": "撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 20261711月3日消息，在乌镇举办的2026世界互联网大会上，华为昇腾950超节点正式荣获领先科技奖。作为全球互联网领域的顶级国际性科技荣誉，该奖项面向全球广泛征集，本届共收到来自43个国家和地区的430余项申报项目，最终仅有20个获奖成果脱颖而出，这标志着这套国产算力系统已获得行业高度权威认可。核心架构:自研灵衢互联打通万亿参数瓶颈 作为目前商用规模最大的超节点设备，昇腾950超节点的核心优势在于通过自研的灵衢互联协议，将大量的算力芯片紧密地编织在一起，在逻辑上完美实现了一台超级大计算机的协同运行。",
+    "发布日期": "2026-11-03",
+    "原文链接": "https://www.aibase.com/zh/news/32034",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a28e064afa0c0ba1a3cfde47f36275d8.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a28e064afa0c0ba1a3cfde47f36275d8.jpg",
+    "配图仓库路径": "assets/news_images/a28e064afa0c0ba1a3cfde47f36275d8.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1103/6392929490028661597888057.png"
   },
   {
-    "资讯标题": "OpenAI、谷歌、微软与Anthropic联手制定统一AI爬虫拒绝标准",
-    "内容": "OpenAI、谷歌、微软与Anthropic于11月1日宣布共同采用一套新标准，允许网站主通过统一的robots.txt文件声明拒绝AI抓取。该机制由Anthropic技术负责人Kevin Kelley提交至互联网工程任务组（IETF），旨在将robots.txt的管辖范围从搜索引擎扩展至AI训练领域。此前，网站主需针对不同AI厂商分别登记偏好，新标准实现了一次写入、多家通用的便捷管理。目前，Anthropic已率先采用该标准，OpenAI计划在未来数月内落实，谷歌与微软预计于明年跟进，Meta亦对该通用信号表示支持。此举标志着AI爬虫抓取规则从各家分散管理转向统一化，显著降低了内容发布方管理版权与训练数据的技术门槛，推动了AI训练数据合规化进程。",
-    "发布日期": "2026-11-02",
-    "原文链接": "https://www.aibase.com/zh/news/32011",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
-    "配图仓库路径": "assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308291638468779_1.jpg"
+    "资讯标题": "字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买",
+    "内容": "字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 202628近日，字节跳动旗下AI平台扣子（Coze）发布公告，宣布分阶段停止销售并下线现有企业版套餐。根据公告，企业标准版、企业旗舰版将于2026年11月30日起停止接受新客户购买，已签署合同但尚未完成下单的客户，需联系客户经理确认后续安排。此次调整分为两个阶段。2026年12月31日起，火山引擎购买的旧个人进阶版、旧企业版及旧团队版将全面下线，超过该日期仍未使用的剩余部分将自动退还至客户火山引擎账户。2027年12月31日，新版企业标准版和企业旗舰版也将全面下线。",
+    "发布日期": "2026-11-03",
+    "原文链接": "https://www.aibase.com/zh/news/32041",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
+    "配图仓库路径": "assets/news_images/8cb4e67f91eb28ea66ed5002db0c70ff.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201906242208064335_2.jpg"
   },
   {
-    "资讯标题": "Meta携手傅利叶仅用三月研发出人形机器人原型Max",
-    "内容": "Meta与中国机器人企业傅利叶合作，仅用三个月成功打造出代号为“Max”的人形机器人原型，并于9月启动第二代产品Max2的研发。Max原型机高约1.5米、重48千克，搭载英伟达Jetson Thor芯片，配备可模拟表情的面部屏幕、扬声器及五指机械手，支持5米外语音识别与3米外手势理解。Meta首席技术官Andrew Bosworth将该机器人定义为消费级AI代理产品Muse的实体化形态，Meta机器人业务产品副总裁Li-Chen Miller曾赴上海驻点推进项目。Max2计划升级躯干与机械手，并增设投影仪及楼梯传感器。此举标志着Meta正加速将软件Agent能力延伸至物理环境，积极布局消费级具身智能赛道。",
-    "发布日期": "2026-11-02",
-    "原文链接": "https://www.aibase.com/zh/news/32004",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4a52fb32071ebcaa7e2befd2e8d1271f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4a52fb32071ebcaa7e2befd2e8d1271f.jpg",
-    "配图仓库路径": "assets/news_images/4a52fb32071ebcaa7e2befd2e8d1271f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202304031607020716_0.jpg"
+    "资讯标题": "从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
+    "内容": "从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 3, 202628《华尔街日报》11 月 3 日称，上周科技股踩踏改写 Anthropic 上市估值剧本。参与 IPO 的机构放话：本月底挂牌估值应落在 1.5 万亿至 1.6 万亿美元，远低于此前热议的近 2 万亿美元。导火索是一周前的剧烈波动：纳斯达克自高点回落约一成，英特尔单日重挫 29% 创四十余年最大单日跌幅。谷歌 Alphabet 财报后市值蒸发约 5000 亿美元。恐慌顺着链条传导到这家尚未敲钟的 AI 明星身上。AI 叙事遭三重拷问，定价成市场试金石 投资者顾虑早已溢出大盘。",
+    "发布日期": "2026-11-03",
+    "原文链接": "https://www.aibase.com/zh/news/32030",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
   },
   {
-    "资讯标题": "DeepSeek发布Super-agent原型并开源，实现AI自主多任务调度与执行",
-    "内容": "DeepSeek Harness团队发布技术文章并开源原型dsh-superagent-prototype（MIT协议），旨在将AI从被动响应转变为自主执行任务的Agent系统。该系统采用双层架构：常驻前台的Router负责交互与任务分派，后台为每个任务分配隔离的Worker并行处理，并引入事件驱动、存算分离及Watchdog监督机制。针对多任务瓶颈，该方案突破了传统单Session限制，将并发上限从人的注意力转移至系统吞吐。压测数据显示，在处理300条消息及20项请求时，P95耗时从单Session方案的29.5分钟缩短至15.7分钟。官方强调，该原型已在内部实现缺陷复现、代码审查及自动嗅探潜在Bug等功能。配合V4-Pro模型每百万token约1.32/3.96美元的成本优势，该架构显著提升了Agent的自",
-    "发布日期": "2026-11-02",
-    "原文链接": "https://www.aibase.com/zh/news/32016",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c0736f8707d22281ef34a0342d032ba8.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c0736f8707d22281ef34a0342d032ba8.jpg",
-    "配图仓库路径": "assets/news_images/c0736f8707d22281ef34a0342d032ba8.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051439307375_1.jpg"
+    "资讯标题": "Anthropic修订S-1文件披露AI可能很快达到递归式自我改进阈值",
+    "内容": "Anthropic在最新提交的修订版S-1A文件中披露，公司正利用AI系统加速自身研发，可能很快达到递归式自我改进（RSI）相关能力阈值。RSI是指AI利用自身能力持续改进模型研发，形成能力迭代加速的过程。Anthropic警告，模型能力提升速度可能超过安全验证与保障措施的完善速度，且过去曾出现未能及时察觉AI辅助研发导致能力跃升的情况。虽然目前尚未认定现有模型达到RSI标准，但公司强调，即使技术上具备可行性，也不会在缺乏实质性人类监督的情况下，让Claude自主设计和构建下一代前沿模型。Anthropic正考虑更新《负责任规模化政策》，以确保人类始终掌控研发进程，防止技术进步速度超出安全治理能力。",
+    "发布日期": "2026-11-03",
+    "原文链接": "https://www.aibase.com/zh/news/32029",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
   }
 ]
