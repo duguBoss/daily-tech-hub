@@ -1,7 +1,27 @@
 [
   {
+    "资讯标题": "豆包工作正式接入第三方模型，首批上线Kimi、智谱与DeepSeek",
+    "内容": "10月29日，字节跳动旗下办公Agent产品“豆包工作”订阅版与企业订阅版全面接入第三方模型，首批上线Kimi K3.1Pro、GLM5.3及DeepSeek V4.1Flash。此举标志着该产品打破单一自研模型限制，向多元化模型生态转型。功能上线后默认开启，企业用户无需额外采购，调用消耗的Token直接从账户AI点数中扣除。平台管理员可按成员、部门、群组或全员细化权限，并支持在电脑端、移动端、网页端及飞书内嵌等场景配置模型调用。业内分析认为，此举旨在帮助企业根据任务复杂度精细化管理Token成本，实现降本增效。此外，同属字节体系的扣子企业版宣布将于2026年11月30日起停止接受新客户购买。",
+    "发布日期": "2026-11-05",
+    "原文链接": "https://www.aibase.com/zh/news/32104",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d920e5095af766f1e5bde33cf9dac4e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d920e5095af766f1e5bde33cf9dac4e4.jpg",
+    "配图仓库路径": "assets/news_images/d920e5095af766f1e5bde33cf9dac4e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405160815252726_0.jpg"
+  },
+  {
+    "资讯标题": "英伟达联合发布实时交互基准Realtime-Bench，GPT-6-Astra成功率仅44%",
+    "内容": "英伟达携手得克萨斯大学奥斯汀分校发布实时交互任务基准Realtime-Bench，旨在评估AI在动态环境下的实时感知、时间自适应推理及行动时机把握能力。该基准包含50个涵盖八类场景的任务，并设置三种环境推进时钟协议。对全球12款前沿大模型的测试显示，当前主流AI在实时任务中表现欠佳，表现最优的GPT-6-Astra在真实推理耗时场景下的任务成功率仅为44%，高推理强度下三次全成功概率仅36%。研究指出，模型在极低延迟与深度推理之间难以平衡，盲目提升推理强度无法线性提高成功率，且单纯缩短延迟无法解决实时交互难题。Realtime-Bench的推出揭示了当前大模型在实时感知方面的技术瓶颈，为后续迈向AGI的研发提供了关键评估标杆。",
+    "发布日期": "2026-11-05",
+    "原文链接": "https://www.aibase.com/zh/news/32114",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
+    "配图仓库路径": "assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556165277_9.jpg"
+  },
+  {
     "资讯标题": "月之暗面开源 2.8 万亿参数 Kimi K3.1 Pro 模型权重并登顶 Agent Arena",
-    "内容": "11月5日，月之暗面（Moonshot AI）正式在 Hugging Face 开放 Kimi K3.1 Pro 模型权重。该模型采用 MoE 架构，总参数量 2.8 万亿，单次推理激活 1040 亿参数，支持约 100 万 Token 上下文。在 Agent Arena 智能体排行榜中，K3.1 Pro 夺得开放权重模型首位，综合净改进率达 +5.1%。技术细节上，模型引入门控稀疏注意力层以优化长上下文计算开销，并在 Bash Reliability、Steerability 等指标上表现突出。尽管权重已开源，但受限于 5.6TB（BF16）的庞大体积，本地部署门槛极高。在 Terminal-Bench 4.0 基准测试中，该模型以 65.7% 的得分展现出接近 Claude Opus 5.5 的性能水平，为",
+    "内容": "11月5日，月之暗面（Moonshot AI）正式在 Hugging Face 平台开源 2.8 万亿参数的 Kimi K3.1 Pro 模型权重。该模型采用 MoE 架构，单次推理激活 1040 亿参数，支持 100 万 Token 上下文。在 Agent Arena 智能体排行榜中，Kimi K3.1 Pro 夺得开放权重模型首位，综合净改进率达 +5.1%。核心指标方面，其 Bash Reliability 跃居开放模型第一，Steerability 达 +6.5%。技术上，该模型通过门控稀疏注意力层优化了长上下文计算开销，并历经大规模联合强化学习后训练。在 Terminal-Bench 4.0 基准测试中，其得分达 65.7%，表现接近 Claude Opus 5.5。受限于 1.4TB 的 INT4 ",
     "发布日期": "2026-11-05",
     "原文链接": "https://www.aibase.com/zh/news/32100",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
@@ -10,43 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604291619214186_0.jpg"
   },
   {
-    "资讯标题": "国行Apple Intelligence开启Beta测试并接入得物App视觉智能",
-    "内容": "11月4日晚，国行版Apple Intelligence正式启动Beta测试，视觉智能等核心功能同步开放。得物App作为首批接入该功能的应用，实现了与iPhone系统层面的深度打通。用户通过支持该功能的iPhone相机拍摄商品，即可唤起视觉智能，系统自动识别并提供商品详情、历史价格走势、AI深度解读及真实用户评价等全链路信息，并支持一键跳转至得物App商品详情页。此次接入标志着端侧AI在垂直电商场景的实用化落地，通过将商品搜索与信息服务延伸至系统底层，缩短了用户的消费决策链路。业内认为，随着国行Apple Intelligence Beta测试的推进，端侧大模型与垂直电商生态的融合正进入场景深水区，为电商平台开辟了全新的入口级流量与智能交互范式。",
+    "资讯标题": "OpenAI发布全新网络安全模型，自动化挖掘并修复948个Linux内核提权漏洞",
+    "内容": "OpenAI于11月4日发布安全研究报告，展示了一款即将推出的网络安全模型。该模型构建了涵盖漏洞发现、验证、利用及修复的闭环流程。在2026年10月的实战测试中，系统从2308个候选漏洞中动态复现了1724个，并成功生成948个Linux内核提权漏洞利用程序。测试显示，平均每个漏洞利用程序的生成成本仅为1279美元，总API消耗为121万美元。此外，该系统还生成了291个信息泄露漏洞的PoC程序，并能自动编写候选修复补丁。目前，OpenAI已向Linux内核社区提交了数百份严重漏洞报告及对应补丁，显著提升了开源操作系统的安全防护效率。该成果标志着AI在自动化安全攻防领域具备了工业级应用潜力，通过AI驱动的“破”与“立”，大幅降低了漏洞挖掘与修复的经济成本。",
     "发布日期": "2026-11-05",
-    "原文链接": "https://www.aibase.com/zh/news/32099",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bff47ec3836230612fc48fc66bf88809.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bff47ec3836230612fc48fc66bf88809.jpg",
-    "配图仓库路径": "assets/news_images/bff47ec3836230612fc48fc66bf88809.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202112022056449132_4.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32111",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4874f5a00ff55f1e2572bbe64943156c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4874f5a00ff55f1e2572bbe64943156c.jpg",
+    "配图仓库路径": "assets/news_images/4874f5a00ff55f1e2572bbe64943156c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621141028_13.jpg"
   },
   {
-    "资讯标题": "中国科大研发RNA生物大模型structRFM并全面开源，研究成果登上《自然》",
-    "内容": "中国科学技术大学研究团队正式推出RNA序列基础模型structRFM，相关研究成果已发表于《自然》期刊，并向全球科研人员全面开源模型权重、源代码及配对数据。该模型基于约2100万条序列-二级结构配对数据进行双重预训练，能够精准提取序列级、核苷酸级及核苷酸对级三重特征。在性能表现上，structRFM在零样本同源性分类、RNA二级结构预测及三维构象协同优化方面均达到国际前沿水平，并能高效支持剪接位点预测、IRES识别及非编码RNA分类等任务。该模型展现了极强的泛化能力，即使面对新发现的RNA家族也能保持高预测精度，并通过分段策略扩展至长非编码RNA分类。此次开源旨在降低RNA结构解析与创新药研发的门槛，为全球生物信息学研究提供底层技术支撑。",
+    "资讯标题": "Kimi开放平台发布Kimi Hosted Agents，将Harness运行时转为云端托管服务",
+    "内容": "Kimi开放平台正式发布Kimi Hosted Agents，将支撑智能体运行的Harness作为云端服务（Harness as a Service）提供。开发者无需自建运行框架，即可获得7×24小时托管环境，支持长程任务执行与多智能体协作。该服务旨在降低Agent落地门槛，将企业数月的底层工程投入缩短为按需调用的云服务，涵盖代码执行、上下文管理、工具调用及权限控制。平台内置140+ Skills与30+插件，并提供Kimi Inference Hook安全组件，在推理前拦截敏感数据。此外，平台同步上线8个金融Agent模板，支持企业集成至内部系统或嵌入对外产品。通过提供独立沙箱、网络访问控制及执行过程审计，Kimi Hosted Agents助力企业快速实现从原型验证到生产环境的部署。",
     "发布日期": "2026-11-05",
-    "原文链接": "https://www.aibase.com/zh/news/32107",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/63f4eddfb774eabf2eeaf18d0912444d.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/63f4eddfb774eabf2eeaf18d0912444d.jpg",
-    "配图仓库路径": "assets/news_images/63f4eddfb774eabf2eeaf18d0912444d.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307061803114746_5.jpg"
-  },
-  {
-    "资讯标题": "OpenAI或于本周发布GPT-6.2 Astra及Cyber等三款新模型",
-    "内容": "OpenAI计划于当地时间11月6日推出三款新模型，涵盖新一代Astra与Sol系列，以及专攻网络安全的Cyber模型。此次发布旨在同步推进通用智能与安全防护能力，其中Cyber模型将聚焦漏洞筛查与威胁研判。此前，部分Codex用户在后台用量明细中意外发现“gpt-6.2-astra”标识，预示GPT-6.2版本迭代临近。目前，官方尚未公布具体型号编号、定价、上下文窗口长度或基准测试成绩。尽管社交平台已有疑似灰度测试用户反馈新模型在物理效果与动画生成方面表现更佳，但尚无公开基准数据佐证。此次更新的具体发布渠道及技术参数，仍需等待周五官方揭晓。该系列模型的推出，标志着OpenAI正加速将大模型技术深度集成至网络安全攻防场景中。",
-    "发布日期": "2026-11-05",
-    "原文链接": "https://www.aibase.com/zh/news/32108",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
-  },
-  {
-    "资讯标题": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
-    "内容": "OpenAI已将GIF生成器直接内置至ChatGPT，用户可通过文本描述或上传照片生成循环动画。该功能由未公开的Images2.6模型驱动，支持调整播放速度、逐帧查看及编辑，无需第三方软件。OpenAI正向网页、桌面及移动端用户推送该功能。开发者同步获得两款专用API：侧重速度的GPT-Image-2.6Flare与侧重视觉质量的GPT-Image-2.6Sunburst，延续了Images2.5的双版本发布模式。目前，OpenAI平台每周图像创建量已达40亿张。此次集成将动态内容创作直接引入对话界面，显著降低了表情包及简单动画的制作门槛，标志着AI图像生成能力正进一步向主交互窗口收敛。",
-    "发布日期": "2026-11-05",
-    "原文链接": "https://www.aibase.com/zh/news/32098",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8adb212eb16994f63d7812e48c124e7c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8adb212eb16994f63d7812e48c124e7c.jpg",
-    "配图仓库路径": "assets/news_images/8adb212eb16994f63d7812e48c124e7c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202302112107341554_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32112",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/abd4daa7d4d143670eed637e6e3bbe07.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/abd4daa7d4d143670eed637e6e3bbe07.jpg",
+    "配图仓库路径": "assets/news_images/abd4daa7d4d143670eed637e6e3bbe07.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1105/6392947532149370154125113.jpg"
   }
 ]
