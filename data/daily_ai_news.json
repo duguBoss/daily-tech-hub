@@ -1,37 +1,37 @@
 [
   {
-    "资讯标题": "豆包工作正式接入第三方模型，首批上线Kimi、智谱与DeepSeek",
-    "内容": "10月29日，字节跳动旗下办公Agent产品“豆包工作”订阅版与企业订阅版全面接入第三方模型，首批上线Kimi K3.1Pro、GLM5.3及DeepSeek V4.1Flash。此举标志着该产品打破单一自研模型限制，向多元化模型生态转型。功能上线后默认开启，企业用户无需额外采购，调用消耗的Token直接从账户AI点数中扣除。平台管理员可按成员、部门、群组或全员细化权限，并支持在电脑端、移动端、网页端及飞书内嵌等场景配置模型调用。业内分析认为，此举旨在帮助企业根据任务复杂度精细化管理Token成本，实现降本增效。此外，同属字节体系的扣子企业版宣布将于2026年11月30日起停止接受新客户购买。",
+    "资讯标题": "百度正式开源2800亿参数文心5.5Flash Base模型",
+    "内容": "百度于11月5日正式开源文心5.5Flash Base基座模型，该模型采用MoE架构，总参数量达2800亿，激活参数140亿。在知识、推理、数学、代码及长上下文等多项基准测试中，其表现超越DeepSeek-V4-Flash-Base等同类模型，刷新同尺寸SOTA。模型使用33.5万亿Token预训练，支持最高100万Token上下文。技术层面，该模型引入Latent-Gated Sparse Attention机制，通过低秩门控注意力使投影权重参数减少75%，并采用Multi-Router Latent MoE提升专家选择效用。此外，百度优化了分布式Muon优化器并推出FlashMask-4注意力算子，显著提升训练效率。此次开源旨在降低专业模型开发门槛，为开发者构建定制化AI应用提供高效技术底座。",
     "发布日期": "2026-11-05",
-    "原文链接": "https://www.aibase.com/zh/news/32104",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d920e5095af766f1e5bde33cf9dac4e4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d920e5095af766f1e5bde33cf9dac4e4.jpg",
-    "配图仓库路径": "assets/news_images/d920e5095af766f1e5bde33cf9dac4e4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405160815252726_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32118",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3e7f76deb6d2414a445d83a85d5692df.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3e7f76deb6d2414a445d83a85d5692df.jpg",
+    "配图仓库路径": "assets/news_images/3e7f76deb6d2414a445d83a85d5692df.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1105/6392948997404927414541710.jpg"
   },
   {
-    "资讯标题": "英伟达联合发布实时交互基准Realtime-Bench，GPT-6-Astra成功率仅44%",
-    "内容": "英伟达携手得克萨斯大学奥斯汀分校发布实时交互任务基准Realtime-Bench，旨在评估AI在动态环境下的实时感知、时间自适应推理及行动时机把握能力。该基准包含50个涵盖八类场景的任务，并设置三种环境推进时钟协议。对全球12款前沿大模型的测试显示，当前主流AI在实时任务中表现欠佳，表现最优的GPT-6-Astra在真实推理耗时场景下的任务成功率仅为44%，高推理强度下三次全成功概率仅36%。研究指出，模型在极低延迟与深度推理之间难以平衡，盲目提升推理强度无法线性提高成功率，且单纯缩短延迟无法解决实时交互难题。Realtime-Bench的推出揭示了当前大模型在实时感知方面的技术瓶颈，为后续迈向AGI的研发提供了关键评估标杆。",
+    "资讯标题": "中国科大研发RNA生物大模型structRFM并正式开源",
+    "内容": "中国科学技术大学研究团队近日发布RNA序列基础模型structRFM，相关研究成果已发表于《自然》期刊。该模型旨在解决RNA二级结构与三维构象解析难题，团队已全面开源其模型权重、源代码及约2100万条配对数据。structRFM采用双重预训练架构，能精准提取序列级、核苷酸级及核苷酸对级三重特征。在基准测试中，该模型在零样本同源性分类、二级结构预测及三维构象协同优化方面表现优异，并能有效支持剪接位点预测、IRES识别及非编码RNA分类等生物功能推断任务。通过引入结构信息与掩码策略，structRFM展现出极强的泛化能力，即使面对新发现的RNA家族或长非编码RNA，依然能保持高精度预测。此次开源将为全球科研人员提供无门槛工具，显著加速RNA结构解析及创新药物研发进程。",
     "发布日期": "2026-11-05",
-    "原文链接": "https://www.aibase.com/zh/news/32114",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "配图仓库路径": "assets/news_images/f427fa5c2d92a15cc77ab1b6b6a1c035.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556165277_9.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32107",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/63f4eddfb774eabf2eeaf18d0912444d.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/63f4eddfb774eabf2eeaf18d0912444d.jpg",
+    "配图仓库路径": "assets/news_images/63f4eddfb774eabf2eeaf18d0912444d.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307061803114746_5.jpg"
   },
   {
-    "资讯标题": "月之暗面开源 2.8 万亿参数 Kimi K3.1 Pro 模型权重并登顶 Agent Arena",
-    "内容": "11月5日，月之暗面（Moonshot AI）正式在 Hugging Face 平台开源 2.8 万亿参数的 Kimi K3.1 Pro 模型权重。该模型采用 MoE 架构，单次推理激活 1040 亿参数，支持 100 万 Token 上下文。在 Agent Arena 智能体排行榜中，Kimi K3.1 Pro 夺得开放权重模型首位，综合净改进率达 +5.1%。核心指标方面，其 Bash Reliability 跃居开放模型第一，Steerability 达 +6.5%。技术上，该模型通过门控稀疏注意力层优化了长上下文计算开销，并历经大规模联合强化学习后训练。在 Terminal-Bench 4.0 基准测试中，其得分达 65.7%，表现接近 Claude Opus 5.5。受限于 1.4TB 的 INT4 ",
+    "资讯标题": "OpenAI或于本周发布GPT-6.2 Astra及Cyber等三款新模型",
+    "内容": "OpenAI预计将于当地时间11月6日推出三款新模型，涵盖Astra与Sol系列及专攻网络安全的Cyber模型。此次发布前夕，部分Codex用户在后台用量明细中意外发现“gpt-6.2-astra”标识，预示GPT-6.2版本迭代临近。Cyber模型作为新增方向，旨在利用大模型进行漏洞筛查与威胁研判。目前官方尚未披露具体型号编号、上下文窗口长度及基准测试成绩，亦未明确API、ChatGPT或Codex等首发渠道。尽管社交平台已有灰度测试用户反馈新模型在物理效果与动画生成方面表现更顺滑，但尚无公开硬指标佐证。此次更新标志着OpenAI正尝试在同一窗口内整合通用智能与安全防护能力，行业正密切关注周五揭晓的实际性能参数。",
     "发布日期": "2026-11-05",
-    "原文链接": "https://www.aibase.com/zh/news/32100",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "配图仓库路径": "assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604291619214186_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32108",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
   },
   {
-    "资讯标题": "OpenAI发布全新网络安全模型，自动化挖掘并修复948个Linux内核提权漏洞",
-    "内容": "OpenAI于11月4日发布安全研究报告，展示了一款即将推出的网络安全模型。该模型构建了涵盖漏洞发现、验证、利用及修复的闭环流程。在2026年10月的实战测试中，系统从2308个候选漏洞中动态复现了1724个，并成功生成948个Linux内核提权漏洞利用程序。测试显示，平均每个漏洞利用程序的生成成本仅为1279美元，总API消耗为121万美元。此外，该系统还生成了291个信息泄露漏洞的PoC程序，并能自动编写候选修复补丁。目前，OpenAI已向Linux内核社区提交了数百份严重漏洞报告及对应补丁，显著提升了开源操作系统的安全防护效率。该成果标志着AI在自动化安全攻防领域具备了工业级应用潜力，通过AI驱动的“破”与“立”，大幅降低了漏洞挖掘与修复的经济成本。",
+    "资讯标题": "OpenAI发布网络安全模型，自动挖掘并利用948个Linux内核提权漏洞",
+    "内容": "OpenAI于11月4日发布安全研究报告，展示了一款即将推出的网络安全模型。该模型构建了从漏洞发现、验证、利用到修复的自动化闭环流程。在2026年10月的实战测试中，系统从2308个候选漏洞中动态复现了1724个，并成功生成948个Linux内核提权漏洞利用程序。该过程消耗121万美元API额度，平均每个漏洞利用成本仅1279美元。此外，系统还生成了291个信息泄露漏洞的PoC程序，并能为发现的漏洞自动编写候选修复补丁。目前，OpenAI已向Linux内核社区提交了数百份严重漏洞报告及对应补丁，旨在强化开源操作系统的安全底座。该成果展现了AI在自动化攻防领域的工业级应用潜力，显著提升了漏洞挖掘与修复的效率。",
     "发布日期": "2026-11-05",
     "原文链接": "https://www.aibase.com/zh/news/32111",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4874f5a00ff55f1e2572bbe64943156c.jpg",
@@ -40,8 +40,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151621141028_13.jpg"
   },
   {
-    "资讯标题": "Kimi开放平台发布Kimi Hosted Agents，将Harness运行时转为云端托管服务",
-    "内容": "Kimi开放平台正式发布Kimi Hosted Agents，将支撑智能体运行的Harness作为云端服务（Harness as a Service）提供。开发者无需自建运行框架，即可获得7×24小时托管环境，支持长程任务执行与多智能体协作。该服务旨在降低Agent落地门槛，将企业数月的底层工程投入缩短为按需调用的云服务，涵盖代码执行、上下文管理、工具调用及权限控制。平台内置140+ Skills与30+插件，并提供Kimi Inference Hook安全组件，在推理前拦截敏感数据。此外，平台同步上线8个金融Agent模板，支持企业集成至内部系统或嵌入对外产品。通过提供独立沙箱、网络访问控制及执行过程审计，Kimi Hosted Agents助力企业快速实现从原型验证到生产环境的部署。",
+    "资讯标题": "Kimi开放平台发布Hosted Agents，将Agent运行时转为云端托管服务",
+    "内容": "11月5日，Kimi开放平台正式发布Kimi Hosted Agents，将支撑智能体运行的Harness作为云端服务（Harness as a Service）提供。开发者无需自建代码执行环境、上下文管理及工具调用等底层架构，即可获得7×24小时托管环境，支持长程任务执行与多智能体协作。该服务内置140+ Skills与30+插件，并提供独立沙箱、网络权限控制及执行过程审计功能。针对企业安全需求，平台引入Kimi Inference Hook组件，在模型推理前对输入与工具返回内容进行自定义规则过滤。此举将Agent从数月的工程开发周期缩短为按需调用的云服务，大幅降低落地门槛。目前平台已同步上线8个金融领域Agent模板，覆盖投研建模、IPO跟踪等场景，支持企业将其集成至内部运维系统或嵌入对外产品中，实现从原型",
     "发布日期": "2026-11-05",
     "原文链接": "https://www.aibase.com/zh/news/32112",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/abd4daa7d4d143670eed637e6e3bbe07.jpg",
