@@ -1,7 +1,7 @@
 [
   {
     "资讯标题": "蚂蚁百灵发布原生多模态大模型Ling-3.2-flash，三项基准超越Claude Opus 5",
-    "内容": "蚂蚁百灵正式发布原生多模态大模型Ling-3.2-flash，该模型采用MoE架构，总参数量560B，激活参数25B，并支持1M超长上下文窗口。在架构上，Ling-3.2-flash实现了视觉与语言能力的底层原生融合，重点强化了复杂视觉理解、多模态长程Agent、3D理解与交互及医疗多模态四大核心能力。评测显示，该模型在OmniDocBench 1.5、ZEROBench（Sub）及Vision2Web三项基准测试中均超越Anthropic Claude Opus 5，并在DesignArena图像转前端竞技场中跻身前十。目前，Ling-3.2-flash API已在蚂蚁百炼平台上线，全面兼容OpenAI及Anthropic协议规范。定价方面，输入价格为0.30美元/百万词元，输出价格为0.90美元/百万词元，",
+    "内容": "蚂蚁百灵正式发布原生多模态大模型Ling-3.2-flash，该模型采用MoE架构，总参数560B，激活参数25B，支持1M超长上下文窗口。Ling-3.2-flash在复杂视觉理解、多模态长程Agent、3D理解及医疗多模态领域实现升级，并在OmniDocBench 1.5、ZEROBench (Sub)及Vision2Web三项基准测试中超越Claude Opus 5。在DesignArena竞技场中，该模型以1238的Elo分数跻身前十。技术实现上，通过MoE架构平衡了知识储备与推理开销。目前，Ling-3.2-flash API已在蚂蚁百炼平台上线，全面兼容OpenAI及Anthropic协议规范，定价为输入0.30美元/百万词元、输出0.90美元/百万词元，并向用户提供上线后两周的限时免费体验。",
     "发布日期": "2026-11-06",
     "原文链接": "https://www.aibase.com/zh/news/32130",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/18496741d7425f513828b3f697febc75.jpg",
@@ -10,8 +10,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202309121506505395_0.jpg"
   },
   {
-    "资讯标题": "苹果iOS 27.3测试版曝光：HomeView将接入ChatGPT与Claude",
-    "内容": "苹果计划在即将推出的iOS 27.3测试版中，为智能家居中枢设备HomeView增加对ChatGPT、Claude等第三方AI聊天机器人的支持。代码层面证实，HomeView已在iOS 27.3中正式获得Conversational Apps（对话类应用）类别的支持，该标记逻辑类似于CarPlay，用于规范第三方应用的接入。HomeView是苹果于2026年10月13日发布的智能家居显示屏，集成了控制、音乐、视频通话及监控功能。此次更新标志着苹果在智能家居与AI融合方面迈出关键一步，未来HomeView还有望兼作HomeKit安全摄像头使用，进一步拓展其在全屋智能生态中的应用边界与实用价值。",
+    "资讯标题": "苹果iOS 27.3测试版曝光：HomeView将正式接入ChatGPT与Claude",
+    "内容": "苹果计划在即将推出的iOS 27.3测试版中，为智能家居中枢设备HomeView增加对ChatGPT、Claude等第三方AI聊天机器人的支持。代码层面的最新爆料证实，Conversational Apps类别已正式落地，苹果通过该标记规范设备允许运行的第三方应用。作为HomeView车载互联桥接工具的PebblePlay，已在iOS 27.3中获得该类别支持。HomeView是苹果于2026年10月13日发布的智能显示屏，集成了家居控制、音乐播放、视频通话及家庭监控等功能。此次接入第三方AI模型，标志着苹果在智能家居与AI融合方面迈出关键一步。此外，代码线索显示HomeView未来有望兼作HomeKit安全摄像头使用，进一步拓宽其在全屋智能生态中的应用边界与实用价值。",
     "发布日期": "2026-11-06",
     "原文链接": "https://www.aibase.com/zh/news/32138",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0538f7a09d29a1dfbe03e108cca1d9da.jpg",
@@ -20,8 +20,18 @@
     "原始配图链接": "https://pic.chinaz.com/thumb/2026/1106/26110609515465279681.jpg"
   },
   {
+    "资讯标题": "OpenAI正式收购代码管理初创公司Pierre，全面整合Codex开发者工具生态",
+    "内容": "OpenAI于11月4日正式宣布收购代码管理与审查初创公司Pierre，旨在将Pierre的技术栈深度整合至Codex系统中，构建从智能体创建分支到线上部署的现代化软件开发全流程标准。此次收购的核心资产包括高性能分布式存储系统Code Storage，以及用于代码精准定位与变更审查的Trees、Diffs工具，和实时高亮辅助工具Highlights。OpenAI承诺Pierre旗下所有开源项目将保持开源状态并持续贡献，现有客户可继续使用Code Storage服务。通过此次整合，OpenAI将进一步强化Codex在代码导航、审查及大规模项目管理方面的能力，降低开发者处理复杂代码库的门槛，推动AI辅助编程向工程化、全流程化方向演进。",
+    "发布日期": "2026-11-06",
+    "原文链接": "https://www.aibase.com/zh/news/32141",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "配图仓库路径": "assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405110933330041_0.jpg"
+  },
+  {
     "资讯标题": "OpenAI发布网络安全模型GPT-6 Cyber，精准挖掘81个Firefox高危漏洞",
-    "内容": "OpenAI于2026年11月6日正式发布网络安全专用模型GPT-6 Cyber，在漏洞发现、自动化验证及利用开发能力上实现质的飞跃。实战测试中，该模型成功定位并发现81个Firefox高危漏洞，并已协助Mozilla完成修复。在Linux内核测试中，GPT-6 Cyber复现了1724个漏洞，并为其中948个开发出利用程序，性能较前代GPT-5.6 Sol提升5倍以上。在ExploitGym基准测试中，其得分达48.5%，较前代提升约51%。鉴于其强大的渗透能力，OpenAI将该模型安全评级提升至Critical，并实施严格的沙箱隔离与访问限制。目前GPT-6 Cyber尚未全面开放，仅通过API和Codex向经过审核的Daybreak Red客户提供，后续将根据安全评估进展逐步扩大范围。",
+    "内容": "OpenAI于2026年11月6日正式发布网络安全专用模型GPT-6 Cyber，该模型在漏洞发现、自动化验证及利用开发能力上实现质的飞跃。实战测试中，GPT-6 Cyber成功定位81个Firefox高危漏洞并提供复现方案，Mozilla已据此发布修复补丁。在Linux内核测试中，该模型复现1724个漏洞并开发出948个利用程序，产出成果为前代GPT-5.6 Sol的5倍以上。在ExploitGym基准测试中，其得分达48.5%，性能提升约51%。针对其强大的攻防潜力，OpenAI将该模型安全评级提升至Critical，并实施沙箱隔离与专项监测。目前GPT-6 Cyber尚未全面开放，仅通过API和Codex向经过审核的Daybreak Red客户提供，后续将根据安全评估进展逐步扩大范围。",
     "发布日期": "2026-11-06",
     "原文链接": "https://www.aibase.com/zh/news/32132",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/71193de35e82f8b642dbd82dd58f1caf.jpg",
@@ -30,23 +40,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202302150931182754_0.jpg"
   },
   {
-    "资讯标题": "Anthropic推出Claude个人理财功能，支持智能消费分析与账单追踪",
-    "内容": "Anthropic于11月5日正式为Claude推出个人理财（Personal Finance）功能，并于本周面向美国地区的Pro、Max及Ultra订阅用户开启灰度测试。该功能允许用户绑定银行账户，通过自然语言进行财务分析。Claude仅拥有只读权限，无法进行资金划转或投资决策，且不含广告或商业推荐。核心功能包括精细化消费汇总、异常账单与隐藏费用识别、宏观财务问答及自定义数据看板生成。用户可要求Claude列出交易明细以核对数据，但官方强调该功能不提供投资建议。此举标志着Claude从办公助手向个人生活管理场景的深度渗透，旨在通过AI提升用户对个人财务状况的洞察力与管理效率。",
+    "资讯标题": "Meta 个人 AI 助手 Muse 上线实时语音对话与虚拟形象功能",
+    "内容": "Meta 正式为个人 AI 助手 Muse 推出实时语音对话与虚拟形象功能，现已面向美国用户开放，覆盖移动端、网页及 Mac 应用。该功能由 Muse Realtime Voice 与 Muse Realtime Avatar 两个模型协同驱动，前者负责内容与语调生成，后者实时同步表情、口型与动作，实现音画精准匹配。系统支持流式输出 448×768 分辨率、25fps 的竖屏视频，从用户输入到首个音画响应的延迟约为 870 毫秒。交互方面，用户可选择纯语音、侧边栏形象或全屏“面对面”模式，并支持自定义数百种声音风格及虚拟形象。Muse 旨在满足用户在双手忙碌时的语音交互需求，如任务安排、头脑风暴或面试练习。此外，用户还可将虚拟形象的动态内容一键分享至 Instagram、Facebook 和 WhatsApp。",
     "发布日期": "2026-11-06",
-    "原文链接": "https://www.aibase.com/zh/news/32128",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/85eb6c6bbc382b1bfb36920bfc16cbce.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/85eb6c6bbc382b1bfb36920bfc16cbce.jpg",
-    "配图仓库路径": "assets/news_images/85eb6c6bbc382b1bfb36920bfc16cbce.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202607311440204282_0.jpg"
-  },
-  {
-    "资讯标题": "Anthropic与美联社达成内容授权协议，首次付费获取新闻版权",
-    "内容": "Anthropic正式与美联社达成内容授权协议，这是其发展史上首次向新闻出版机构支付费用以获取内容版权。根据协议，Claude聊天机器人将在美国中期选举期间，实时向用户展示并更新美联社提供的权威选举结果数据，并明确标注信息来源。此前，Anthropic坚持通过网络爬虫抓取内容符合“合理使用”原则，但由于多家主流出版商采取屏蔽爬虫的强硬反制措施，导致Claude在处理高时效性热点问题时能力受限。此次合作标志着Anthropic从拒绝付费转向商业谈判，通过合规链路获取一手新闻数据。此举不仅解决了Claude在时效性内容上的短板，也为其后续的合规化发展扫清了潜在法律隐患，使其在版权策略上向OpenAI等竞争对手靠拢。",
-    "发布日期": "2026-11-06",
-    "原文链接": "https://www.aibase.com/zh/news/32137",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0a819a5b8d6daefa91e81940f5f79abd.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0a819a5b8d6daefa91e81940f5f79abd.jpg",
-    "配图仓库路径": "assets/news_images/0a819a5b8d6daefa91e81940f5f79abd.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307121747252562_4.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32143",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "配图仓库路径": "assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605060956253111_0.jpg"
   }
 ]
