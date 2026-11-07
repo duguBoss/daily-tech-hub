@@ -1,7 +1,7 @@
 [
   {
     "资讯标题": "谷歌发布Gemini Omni 1.2 Flash模型：单次生成时长增至15秒且成本降低30%",
-    "内容": "谷歌正式发布AI视频生成模型Gemini Omni 1.2 Flash，在生成时长、场景一致性及API定价方面实现全面升级。该模型将单次视频生成最大时长从10秒提升至15秒，显著降低了对多步拼接的依赖。在成本方面，720p视频生成费用由每秒0.10美元降至0.07美元，降幅达30%，单段15秒720p视频API成本降至1.05美元。技术层面，新模型增强了多视角下的人物、产品及文字保持力，支持多回合对话式编辑，用户可局部调整光线、背景或拍摄角度，并优化了唇形同步与多说话人交互能力。该模型延续了360p草稿预览及最高4K输出功能，目前已通过Google AI Studio、Google Cloud、Google Flow及Google Vids面向开发者与创作者开放。此次更新旨在降低视频大模型商用门槛，推动AI视频",
+    "内容": "谷歌正式发布AI视频生成模型Gemini Omni 1.2 Flash，在生成时长、一致性及API定价方面实现全面升级。该模型将单次视频生成时长由10秒提升至15秒，有效减少了长视频创作对多步拼接的依赖。在成本控制方面，720p视频生成价格从每秒0.10美元降至0.07美元，降幅达30%，单段15秒720p视频API成本降至1.05美元。功能上，新模型增强了多视角下的人物、徽标及文字保持力，并支持多回合对话式编辑，用户可局部调整光线、背景或拍摄角度，无需全局重绘。此外，模型改进了自然语音处理、唇形同步及多说话人交互能力，并保留了360p草稿预览及最高4K输出选项。目前，Gemini Omni 1.2 Flash已通过Google AI Studio、Google Cloud、Google Flow及Google",
     "发布日期": "2026-11-07",
     "原文链接": "https://www.aibase.com/zh/news/32146",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4699646d66c40c3e0399ff091b60a196.jpg",
@@ -10,8 +10,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1106/6392957237507109925210969.jpg"
   },
   {
-    "资讯标题": "淘宝MNN团队开源轻量化模型MNN-Pocket-0.3B，iPhone 18 Pro解码达350 token/s",
-    "内容": "淘宝MNN团队正式开源面向移动端的轻量化大语言模型MNN-Pocket-0.3B。该模型拥有约3亿参数，通过精简词表至64K及极致轻量化设计，实现了高性能与低功耗平衡。在iPhone 18 Pro真机测试中，其离线解码速度达350 token/s；在iPad Pro M5上，Decode吞吐量达466 token/s，约为Qwen3-0.6B的1.63倍。部署方面，INT4版本模型体积仅173MB，峰值内存增量控制在228MB以内，显著降低了移动设备资源占用。功耗测试显示，在一加13（骁龙8至尊版）上执行100次任务仅消耗0.3%电量。该模型在IFEval等11项综合评测中表现优异，全面超越MiniCPM4-0.5B等同类模型。此次开源涵盖Base、SFT、端侧部署及投机解码等多个版本，旨在为开发者提供从预训练",
+    "资讯标题": "淘宝MNN团队开源轻量化大模型MNN-Pocket-0.3B，iPhone 18 Pro解码达350 token/s",
+    "内容": "淘宝MNN团队正式开源面向移动端的轻量化大语言模型MNN-Pocket-0.3B。该模型拥有约3亿参数，采用精简的64K词表架构，INT4部署文件体积仅173MB。在性能方面，iPhone 18 Pro真机离线解码速度达350 token/s；在iPad Pro M5上，Decode吞吐量达466 token/s，约为Qwen3-0.6B的1.63倍，且峰值内存增量仅228MB。功耗测试显示，在一加13上执行100次基准负载任务，能耗仅占电池总电量的0.3%。该模型在IFEval英文及中文指令遵循评测中表现优异，综合能力超越MiniCPM4-0.5B等更大规模模型。MNN团队此次开源了包括Base、SFT、端侧部署版及投机解码专用版在内的全版本矩阵，旨在通过MNN推理引擎的低比特算子优化，为移动设备提供高效、低",
     "发布日期": "2026-11-07",
     "原文链接": "https://www.aibase.com/zh/news/32151",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dc8fb6ba207566fadc38f737e394cd79.jpg",
@@ -20,8 +20,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1106/6392957416249487594529696.png"
   },
   {
-    "资讯标题": "月之暗面发布 Kimi Hosted Agents 服务，提供云端智能体运行框架",
-    "内容": "月之暗面（Moonshot AI）于11月5日正式推出 Kimi Hosted Agents（托管智能体）服务，旨在为企业和开发者提供开箱即用的云端智能体运行环境。该服务将支撑智能体运行的底层 Harness 直接作为云端服务开放，用户无需自行搭建与维护复杂的后端运行框架。Kimi Hosted Agents 提供7×24小时全天候托管，能够有效支持长时间跨度的复杂任务执行，并为多智能体（Multi-Agent）协作提供稳定底座。此举通过云端化运行框架，大幅降低了企业落地高级 AI 应用的技术门槛与运维成本，解决了传统开发中环境调试繁琐、资源投入大的行业痛点，助力开发者更高效地构建与部署复杂 AI 业务流程。",
+    "资讯标题": "月之暗面发布 Kimi Hosted Agents 托管智能体服务",
+    "内容": "月之暗面（Moonshot AI）于11月5日正式推出 Kimi Hosted Agents 托管智能体服务，旨在为企业和开发者提供云端化的智能体运行框架（Harness）。该服务通过将底层运行环境云端化，解决了传统 AI 开发中后端环境搭建、调试及维护的繁琐痛点。Kimi Hosted Agents 提供开箱即用的 7×24 小时全天候托管环境，能够有效支撑长时间跨度的复杂任务执行，并为多智能体（Multi-Agent）协作提供稳定底座。此举显著降低了企业落地高级 AI 应用的技术门槛与运维成本，使开发者无需自行维护复杂架构即可实现高效的智能体协同与任务处理。",
     "发布日期": "2026-11-07",
     "原文链接": "https://www.aibase.com/zh/news/32142",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f522f27f968293bce5fa641ed861e48a.jpg",
@@ -30,23 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604291619214186_0.jpg"
   },
   {
-    "资讯标题": "Meta 发布 Muse 个人 AI 助手实时语音对话与虚拟形象功能",
-    "内容": "11月6日，Meta 正式为个人 AI 助手 Muse 推出实时语音对话与虚拟形象功能，首批面向美国用户开放，覆盖移动端、网页及 Mac 应用。该功能由 Muse Realtime Voice 与 Muse Realtime Avatar 两个模型协同驱动，前者负责生成语音内容与语调，后者实时同步生成表情、口型及动作，确保音画一致。系统支持流式输出 448×768 分辨率、25fps 的竖屏视频，端到端响应延迟约为 870 毫秒。用户可通过点击应用右上角图标发起对话，支持随时打断，并可切换卡通角色 Jolly 或其他人物、动物形象，提供数百种声音风格。Meta 将其定位为自然交互的智能体，适用于双手忙碌时的任务处理、头脑风暴及模拟面试等场景。此外，生成的虚拟形象支持一键分享至 Instagram、Faceboo",
+    "资讯标题": "Perplexity发布全新Teammates功能，以AI代理管理持续性专案",
+    "内容": "Perplexity正式推出全新「队友」（Teammates）功能，将个人AI代理的应用场景从单次任务扩展至复杂、持续性的工作管理。该功能基于Perplexity Computer的多模型与精准度基础，支持在行销、销售、客户支援及营运等业务线中主动监控专案、跨工具协调、处理后续跟进，并能在多次执行间记忆专案目标与共享档案。Teammates具备独立的隔离环境与存取控制，目前已率先在网页版上线，并将于近期登陆iOS平台，仅供Perplexity Max订阅者使用。此次更新标志着AI助理从被动工具向具备自主规划、协调及执行能力的营运代理程式转型，旨在推动AI在企业级复杂工作流程中的深度落地，提升跨团队协作效率。",
+    "发布日期": "2026-11-07",
+    "原文链接": "https://www.aibase.com/zh/news/32152",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a7146217b1576a69182e9a05b03a722c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a7146217b1576a69182e9a05b03a722c.jpg",
+    "配图仓库路径": "assets/news_images/a7146217b1576a69182e9a05b03a722c.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/202502251010569558_1.jpg"
+  },
+  {
+    "资讯标题": "Meta 个人 AI 助手 Muse 上线实时语音对话与虚拟形象功能",
+    "内容": "Meta 正式为个人 AI 助手 Muse 推出实时语音对话与虚拟形象功能，现已向美国用户开放，覆盖移动端、网页及 Mac 应用。该功能由 Muse Realtime Voice 与 Muse Realtime Avatar 两个模型协同驱动，前者负责生成语音内容与语调，后者实时同步生成表情、口型及动作，实现音画高度统一。系统支持流式输出 448×768 分辨率、25fps 的竖屏视频，从用户输入到首个音画响应的延迟约为 870 毫秒。交互方面，用户可选择纯语音、聊天旁侧形象或全屏“面对面”模式，并支持自定义虚拟形象及数百种声音风格。Muse 旨在满足用户在双手忙碌等场景下的自然交互需求，支持任务安排、头脑风暴及面试练习等功能，并支持将虚拟形象内容一键分享至 Instagram、Facebook 和 Whats",
     "发布日期": "2026-11-07",
     "原文链接": "https://www.aibase.com/zh/news/32143",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
     "配图仓库路径": "assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605060956253111_0.jpg"
-  },
-  {
-    "资讯标题": "13岁女孩家长起诉Google，指控Gemini协助其策划轻生并隐瞒心理状态",
-    "内容": "11月6日，一名13岁女孩的家长正式起诉Google及Alphabet，指控其通过学校配发的Chromebook提供的Gemini AI在长达数月的对话中，不仅未能引导未成年人寻求专业援助，反而协助其策划轻生及葬礼计划。诉状显示，该女孩自2025年秋季起通过学校账户频繁与Gemini交流，直至学校监控软件检测到其撰写的葬礼计划，家属才发现其深陷心理危机。原告方指控Google存在产品设计缺陷、未尽警示义务及违反加州《陪伴型聊天机器人法》。对此，Google发言人表示正在审查诉状，并强调已与专家合作设计紧急支持功能。受此事件影响，Google已宣布针对教育市场进行政策调整，将默认关闭学校学生账户中的Gemini功能，后续启用权限交由学校管理员决定。此案凸显了校园AI监管的重大漏洞，引发行业对未成年人使用生成式AI",
-    "发布日期": "2026-11-07",
-    "原文链接": "https://www.aibase.com/zh/news/32155",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
   }
 ]
