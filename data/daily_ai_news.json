@@ -1,42 +1,52 @@
 [
   {
-    "资讯标题": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
-    "内容": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 10, 20261511月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch，为机器人大脑补齐关键的触觉感知能力。该模型基于近5000小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式三类主流传感原理，可将不同信号转化为同一套触觉表征，供不同灵巧手和动作模型使用，让机器人在“看得清楚、想得明白”的同时，进一步补齐精细操作所需的触觉感知。在通用大模型加速演进的时点，选择推出一款面向物理操作闭环的触觉基础模型，传递出蚂蚁灵波对具身原生路线的持续投入和笃定。",
+    "资讯标题": "美团开源1.6万亿参数LongCat-2.5模型，长序列SFT单卡吞吐提升86%",
+    "内容": "美团于11月10日正式开源LongCat-2.5模型，采用MIT协议支持商用。该模型为原生多模态架构，总参数量达1.6万亿，激活参数约480亿，支持百万级上下文，在复杂代码开发、Visual Coding及专业办公场景表现显著。技术上，模型采用视觉表征层与主干统一处理，视觉token支持离线缓存。推理端采用W4A4量化方案，结合FlatQuant优化MoE精度，并配合专用融合算子降低成本。针对国产AI加速器显存限制，美团通过FSDP双重分片与混合词表并行技术，使长序列SFT单卡吞吐量较DDP基线提升86%。此次开源旨在为万亿参数MoE模型的工程落地与国产算力适配提供参考，权重已上线HuggingFace，并同步开放API平台。",
     "发布日期": "2026-11-10",
-    "原文链接": "https://www.aibase.com/zh/news/32203",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8c78bd5cbc2d1756b6df221103ffadb4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8c78bd5cbc2d1756b6df221103ffadb4.jpg",
-    "配图仓库路径": "assets/news_images/8c78bd5cbc2d1756b6df221103ffadb4.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1110/6392990640886818546117557.png"
+    "原文链接": "https://www.aibase.com/zh/news/32206",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6aa8d5c25bacf302439365a89bcfdc67.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6aa8d5c25bacf302439365a89bcfdc67.jpg",
+    "配图仓库路径": "assets/news_images/6aa8d5c25bacf302439365a89bcfdc67.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1110/6392991832946161471491328.jpg"
   },
   {
-    "资讯标题": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
-    "内容": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 10, 202622一个人打游戏总觉得缺个搭子。腾讯把解法塞进了屏幕里。11 月 10 日，腾讯首款专属 AI 游戏陪伴 Agent\"鹅次元\"低调开启内测。作为坐拥海量游戏版权的厂商，腾讯把 AI 从客服和工具，顺势推到了玩家的屏幕旁——这款产品瞄准 PC 玩家，提供拟人化陪伴与实时语音互动，试图在竞技之外补上\"有人陪\"的体验缺口。AI 能\"看\"到你正在打什么 鹅次元的卖点在于实时陪伴而非盲聊：它能读取玩家的游戏画面，再依据屏幕上的实际情景与人搭话。卡关了、看不懂某件装备或机制，随时开口提问，AI 就着当下画面作答。",
+    "资讯标题": "个人版Gemini关联Google Workspace后，部分数据将面临人工审核",
+    "内容": "个人版Gemini在关联Gmail与Google云端硬盘后，部分处理数据将面临人工审核。开发者测试显示，开启应用关联后，Gemini会在用户未明确要求时自动检索邮箱或网盘文件，并可能在回答中展示账单摘要、姓名及邮件片段。谷歌官方确认，经培训的服务提供商人员将对交互记录、邮件及文件摘要进行人工审核，旨在排查系统问题并改进服务。尽管谷歌采取了脱敏措施，如将交互记录与Google账号断开关联，但承认无法完全剔除所有个人信息。此外，若用户开启活动保存，相关数据可能被用于AI模型训练。谷歌建议用户在处理机密信息时保持谨慎，并可在Gemini应用活动设置中关闭保存功能，以防止个人数据被用于模型训练。",
     "发布日期": "2026-11-10",
-    "原文链接": "https://www.aibase.com/zh/news/32202",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/84f1cab0777183bed11899b68df90ea0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/84f1cab0777183bed11899b68df90ea0.jpg",
-    "配图仓库路径": "assets/news_images/84f1cab0777183bed11899b68df90ea0.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1110/6392990587697501989644915.png"
+    "原文链接": "https://www.aibase.com/zh/news/32207",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a3c12a58c3ac5138d12d7a29b7b2971c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a3c12a58c3ac5138d12d7a29b7b2971c.jpg",
+    "配图仓库路径": "assets/news_images/a3c12a58c3ac5138d12d7a29b7b2971c.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1110/6392991889488790567907231.png"
   },
   {
-    "资讯标题": "腾讯正式开启首款AI游戏陪伴Agent“鹅次元”PC端元气首测",
-    "内容": "腾讯近日正式启动旗下首款专属AI游戏陪伴Agent“鹅次元”的元气首测。该产品面向PC端玩家，核心技术亮点在于具备实时屏幕游戏画面感知能力，能够读取并理解游戏画面信息，为玩家提供即时问答支持。在功能生态上，鹅次元支持PC与手机端QQ无缝聊天，并规划了桌宠、一键更换壁纸、嘴替及变声等多元化交互功能。首测阶段首批上线四位性格各异的AI角色，并已针对《无畏契约》、《英雄联盟》及《反恐精英》等主流热门游戏完成专项适配。此次发布标志着腾讯在游戏AI交互与拟人化陪伴垂直领域的实质性布局，推动游戏陪玩与智能助手从单一文字互动向深度视觉理解和实时多模态交互演进，为未来人机游戏交互体验提供了新的落地路径。",
+    "资讯标题": "OpenAI上线控制室系统，实现失控AI智能体35秒内主动阻断",
+    "内容": "OpenAI于11月10日正式上线名为“控制室”的系统，旨在通过主动阻断机制应对失控AI智能体风险。该系统要求所有智能体训练、评估及数据处理任务接入中央服务，研究员需申领唯一任务ID，推理引擎在执行前必须向控制室获取授权。一旦触发停止指令，控制室将拒绝后续推理请求，从而切断模型输出。目前，该机制从接收指令到彻底拦截任务的最长耗时为35秒，OpenAI正致力于将此延迟降至零。此外，所有前沿强化学习任务均已配备独立模型监控器，负责实时监测行为并触发警报。此举标志着AI行业对智能体风险的管控已从理论预案转向工程化落地，通过“AI监控AI”与人工急停开关的组合，有效提升了对高风险任务的实时干预能力。",
     "发布日期": "2026-11-10",
-    "原文链接": "https://www.aibase.com/zh/news/32199",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4a01cf67925e77cd27090de86fe1d4be.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4a01cf67925e77cd27090de86fe1d4be.jpg",
-    "配图仓库路径": "assets/news_images/4a01cf67925e77cd27090de86fe1d4be.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1110/6392990181021528634027091.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32201",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dca20010e949e95e4476df4ec5a4dd37.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dca20010e949e95e4476df4ec5a4dd37.jpg",
+    "配图仓库路径": "assets/news_images/dca20010e949e95e4476df4ec5a4dd37.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1110/6392990413713767446171153.png"
   },
   {
-    "资讯标题": "千问 Qwen4 跑分力压 Opus 5.5，极高性价比展现强劲竞争力",
-    "内容": "千问 Qwen4 跑分力压 Opus 5.5，极高性价比展现强劲竞争力AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 10, 2026218在新一轮即将发布的国产 AI 大模型阵营中，阿里巴巴旗下的千问 Qwen4系列率先展现出强劲的技术爆发力。根据近日泄露的核心评测数据，该系列在专门评估游戏开发创造力的 GameFeel Bench 基准测试中表现亮眼，成功在部分指标上超越了海外顶尖的 Opus5.5，成为首个在该项评测中实现反超的国产大模型。核心跑分超越海外劲敌，本地部署版本紧追主流 此次曝光的测试结果显示，定位轻量的 Qwen4-Flash 取得了49.9分的优异成绩，正式超过了得分47.2分的 Opus5.5xHigh，标志着国产模型在特定垂直领域的创造力表现上达到了全新高度。",
+    "资讯标题": "Meta发布轻量模型Muse Ember，推理性能对标Claude Haiku且成本降至三分之一",
+    "内容": "Meta于11月10日正式推出轻量化模型Muse Ember，旨在提升复杂推理与智能体任务的执行效率。在Artificial Analysis榜单中，Muse Ember综合表现对标Claude Haiku 5.5，但在AutomationBench-AA业务工作流测试中以37.8分大幅领先Haiku的13.9分。该模型支持100万Token上下文窗口及51.2万Token输出，具备处理完整代码库及长文档的能力。作为原生多模态模型，Muse Ember可直接处理文本、图像、音频及视频，无需外挂其他模型。在定价方面，其输入成本为每百万Token 0.10美元，输出成本为0.50美元，仅为Haiku的三分之一。目前，该模型已通过Meta Model API、Google Cloud及Oracle Cloud上线，且",
     "发布日期": "2026-11-10",
-    "原文链接": "https://www.aibase.com/zh/news/32200",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ceebdfcbec3ff731e17fdaba0c48808e.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ceebdfcbec3ff731e17fdaba0c48808e.jpg",
-    "配图仓库路径": "assets/news_images/ceebdfcbec3ff731e17fdaba0c48808e.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007244729_5.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32204",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "配图仓库路径": "assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605060956253111_0.jpg"
+  },
+  {
+    "资讯标题": "Anthropic发布Claude Fable 5.2与Mythos 5.2，千个智能体八天构建操作系统",
+    "内容": "Anthropic于11月10日发布Claude Fable 5.2与Mythos 5.2双模型，在编码、推理、科研及网安领域实现全面进阶，输出速度提升30%，成本降低20%。在FrontierCode 2.0编码基准测试中，Fable 5.2以49.1%的得分超越GPT-6 Astra及Gemini 4 Carbon。在Humanity's Last Exam多学科推理测试中取得74.2%得分，并在VIALS-AA科学视觉推理中以67%领先竞品。该模型展现了强大的长程协作能力，通过调度超过1000个AI智能体，在8天内从零构建出一套包含驱动、文件存储及窗口系统的可启动操作系统。在AA-3D 3D体验构建榜单中，Fable 5.2以1271分的Elo评分显著领先自家Sonnet 5.5与Opus 5.5，且领先",
+    "发布日期": "2026-11-10",
+    "原文链接": "https://www.aibase.com/zh/news/32205",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d82d6648fad3cfa9d7fb3dd086c08fd4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d82d6648fad3cfa9d7fb3dd086c08fd4.jpg",
+    "配图仓库路径": "assets/news_images/d82d6648fad3cfa9d7fb3dd086c08fd4.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1110/6392991667270907874726364.png"
   }
 ]
