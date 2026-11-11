@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "美团开源1.6万亿参数LongCat-2.5模型，长序列SFT单卡吞吐提升86%",
-    "内容": "美团于11月10日正式开源LongCat-2.5模型，采用MIT协议支持商用。该模型为原生多模态架构，总参数量达1.6万亿，激活参数约480亿，支持百万级上下文，在复杂代码开发、Visual Coding及专业办公场景表现显著。技术上，模型采用视觉表征层与主干统一处理，视觉token支持离线缓存。推理端采用W4A4量化方案，结合FlatQuant优化MoE精度，并配合专用融合算子降低成本。针对国产AI加速器显存限制，美团通过FSDP双重分片与混合词表并行技术，使长序列SFT单卡吞吐量较DDP基线提升86%。此次开源旨在为万亿参数MoE模型的工程落地与国产算力适配提供参考，权重已上线HuggingFace，并同步开放API平台。",
-    "发布日期": "2026-11-10",
-    "原文链接": "https://www.aibase.com/zh/news/32206",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6aa8d5c25bacf302439365a89bcfdc67.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6aa8d5c25bacf302439365a89bcfdc67.jpg",
-    "配图仓库路径": "assets/news_images/6aa8d5c25bacf302439365a89bcfdc67.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1110/6392991832946161471491328.jpg"
+    "资讯标题": "阿里预告千问Qwen4大模型并上线Qwen4-Max预览版，限时最低1折",
+    "内容": "11月11日，千问大模型官方预告全新一代Qwen4即将发布，并同步上线Qwen4-Max预览版。该模型在知识理解、世界感知、Coding及Agentic能力上实现进阶，已在复杂编程、专业办公及软件操作等实际任务中取得阶段性成果，但官方暂未披露具体参数与基准测试成绩。目前，Qwen4-Max预览版已接入千问办公、Qoder、千问APP及QwenStudio等自有产品，实现从模型层到应用层的全覆盖。用户可通过阿里Token Plan页面以限时最低1折的价格体验该预览版。此次动作显示千问正将验证重心从参数指标转向开发者生态与真实任务反馈，通过低价策略加速新模型在实际业务场景中的落地与迭代。",
+    "发布日期": "2026-11-11",
+    "原文链接": "https://www.aibase.com/zh/news/32235",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ed2f04b0f142fe8340976086ddccf262.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ed2f04b0f142fe8340976086ddccf262.jpg",
+    "配图仓库路径": "assets/news_images/ed2f04b0f142fe8340976086ddccf262.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1111/6392998948118376109940414.jpg"
   },
   {
-    "资讯标题": "个人版Gemini关联Google Workspace后，部分数据将面临人工审核",
-    "内容": "个人版Gemini在关联Gmail与Google云端硬盘后，部分处理数据将面临人工审核。开发者测试显示，开启应用关联后，Gemini会在用户未明确要求时自动检索邮箱或网盘文件，并可能在回答中展示账单摘要、姓名及邮件片段。谷歌官方确认，经培训的服务提供商人员将对交互记录、邮件及文件摘要进行人工审核，旨在排查系统问题并改进服务。尽管谷歌采取了脱敏措施，如将交互记录与Google账号断开关联，但承认无法完全剔除所有个人信息。此外，若用户开启活动保存，相关数据可能被用于AI模型训练。谷歌建议用户在处理机密信息时保持谨慎，并可在Gemini应用活动设置中关闭保存功能，以防止个人数据被用于模型训练。",
-    "发布日期": "2026-11-10",
-    "原文链接": "https://www.aibase.com/zh/news/32207",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a3c12a58c3ac5138d12d7a29b7b2971c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a3c12a58c3ac5138d12d7a29b7b2971c.jpg",
-    "配图仓库路径": "assets/news_images/a3c12a58c3ac5138d12d7a29b7b2971c.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1110/6392991889488790567907231.png"
+    "资讯标题": "谷歌正式发布旗舰大模型 Gemini 4 Carbon，支持多智能体协作与复杂科学推理",
+    "内容": "Google DeepMind 正式发布旗舰级大模型 Gemini 4 Carbon，全面面向开发者、企业及科研人员开放。该模型聚焦复杂编程、网络安全与科学推理，在 CursorBench 4.0 等多项基准测试中位列第一，且单任务成本较竞品降低超50%。核心功能包括通过 Google Antigravity 平台的 /swarm 功能实现多智能体协同，支持一键生成 3D 游戏及复杂工程建模。在网络安全领域，Carbon 在 Project Fortify 系统中实现 100% 漏洞扫描召回率，并能两小时内发现零日漏洞。科研方面，该模型在 AlphaProof Code 框架下完成 Signal 加密协议的数学证明，并在 CASP17 盲测中显著提升蛋白质同源序列发现效率。目前，Gemini 4 Carbon ",
+    "发布日期": "2026-11-11",
+    "原文链接": "https://www.aibase.com/zh/news/32223",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b81ea066d2cb24de0065610c83bb3ab6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b81ea066d2cb24de0065610c83bb3ab6.jpg",
+    "配图仓库路径": "assets/news_images/b81ea066d2cb24de0065610c83bb3ab6.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1111/6392998526214193503104745.png"
   },
   {
-    "资讯标题": "OpenAI上线控制室系统，实现失控AI智能体35秒内主动阻断",
-    "内容": "OpenAI于11月10日正式上线名为“控制室”的系统，旨在通过主动阻断机制应对失控AI智能体风险。该系统要求所有智能体训练、评估及数据处理任务接入中央服务，研究员需申领唯一任务ID，推理引擎在执行前必须向控制室获取授权。一旦触发停止指令，控制室将拒绝后续推理请求，从而切断模型输出。目前，该机制从接收指令到彻底拦截任务的最长耗时为35秒，OpenAI正致力于将此延迟降至零。此外，所有前沿强化学习任务均已配备独立模型监控器，负责实时监测行为并触发警报。此举标志着AI行业对智能体风险的管控已从理论预案转向工程化落地，通过“AI监控AI”与人工急停开关的组合，有效提升了对高风险任务的实时干预能力。",
-    "发布日期": "2026-11-10",
-    "原文链接": "https://www.aibase.com/zh/news/32201",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dca20010e949e95e4476df4ec5a4dd37.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dca20010e949e95e4476df4ec5a4dd37.jpg",
-    "配图仓库路径": "assets/news_images/dca20010e949e95e4476df4ec5a4dd37.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1110/6392990413713767446171153.png"
+    "资讯标题": "谷歌发布视觉-语言-动作模型Gemini Robotics 2.5，已在奔驰生产线应用",
+    "内容": "谷歌正式发布视觉-语言-动作（VLA）机器人模型Gemini Robotics 2.5，该模型基于Gemini 4 Argon大模型构建，在技能广度、灵巧度及安全性上实现显著提升。测试显示，其任务成功率较前代提升30%至100%，执行速度加快20%至30%。该模型具备极强的通用性，可原生适配多种机器人硬件。在奔驰汽车生产线的概念验证（PoC）中，搭载该模型的人形机器人成功执行零部件拣选与打包任务，操作成功率达96%。安全性方面，模型内置实时物理危险规避机制，并配套开源ASIMOV-Jailbreak测试基准，越狱抵御率高达99.5%。目前，Gemini Robotics 2.5已全面面向谷歌机器人合作伙伴开放，标志着具身智能在工业级高强度、高精度作业场景中迈出关键一步。",
+    "发布日期": "2026-11-11",
+    "原文链接": "https://www.aibase.com/zh/news/32230",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
   },
   {
-    "资讯标题": "Meta发布轻量模型Muse Ember，推理性能对标Claude Haiku且成本降至三分之一",
-    "内容": "Meta于11月10日正式推出轻量化模型Muse Ember，旨在提升复杂推理与智能体任务的执行效率。在Artificial Analysis榜单中，Muse Ember综合表现对标Claude Haiku 5.5，但在AutomationBench-AA业务工作流测试中以37.8分大幅领先Haiku的13.9分。该模型支持100万Token上下文窗口及51.2万Token输出，具备处理完整代码库及长文档的能力。作为原生多模态模型，Muse Ember可直接处理文本、图像、音频及视频，无需外挂其他模型。在定价方面，其输入成本为每百万Token 0.10美元，输出成本为0.50美元，仅为Haiku的三分之一。目前，该模型已通过Meta Model API、Google Cloud及Oracle Cloud上线，且",
-    "发布日期": "2026-11-10",
-    "原文链接": "https://www.aibase.com/zh/news/32204",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
-    "配图仓库路径": "assets/news_images/d5b256fb8d19e8a800496f952486380f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605060956253111_0.jpg"
+    "资讯标题": "OpenAI 推出 ChatGPT Businesses 测试版，支持企业认领门面与部署 AI 客服",
+    "内容": "OpenAI 于 11 月 10 日正式推出 ChatGPT Businesses 测试版，允许企业在 ChatGPT 平台认领商家资料、上架商品并部署专属 AI 客服。通过 Business Hub，企业可验证身份并接入包含价格与库存的自助商品数据源，Shopify 商家支持一键连店。企业可创建 Business Agent 替用户进行比价、答疑及产品对比，相关对话将明确标注以区分常规交互。此外，OpenAI 开放了赞助展示位，企业可将智能体设为广告落地页，赞助内容与常规回答不混排。在隐私保护方面，OpenAI 强调不共享用户私聊数据，商家仅能查看汇总后的被提及次数、点击量及热门话题，且需达到互动门槛方可解锁数据。目前该功能先行向美国合规电商与在线服务企业开放，未来将逐步拓展至更多市场。",
+    "发布日期": "2026-11-11",
+    "原文链接": "https://www.aibase.com/zh/news/32231",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
   },
   {
-    "资讯标题": "Anthropic发布Claude Fable 5.2与Mythos 5.2，千个智能体八天构建操作系统",
-    "内容": "Anthropic于11月10日发布Claude Fable 5.2与Mythos 5.2双模型，在编码、推理、科研及网安领域实现全面进阶，输出速度提升30%，成本降低20%。在FrontierCode 2.0编码基准测试中，Fable 5.2以49.1%的得分超越GPT-6 Astra及Gemini 4 Carbon。在Humanity's Last Exam多学科推理测试中取得74.2%得分，并在VIALS-AA科学视觉推理中以67%领先竞品。该模型展现了强大的长程协作能力，通过调度超过1000个AI智能体，在8天内从零构建出一套包含驱动、文件存储及窗口系统的可启动操作系统。在AA-3D 3D体验构建榜单中，Fable 5.2以1271分的Elo评分显著领先自家Sonnet 5.5与Opus 5.5，且领先",
-    "发布日期": "2026-11-10",
-    "原文链接": "https://www.aibase.com/zh/news/32205",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d82d6648fad3cfa9d7fb3dd086c08fd4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d82d6648fad3cfa9d7fb3dd086c08fd4.jpg",
-    "配图仓库路径": "assets/news_images/d82d6648fad3cfa9d7fb3dd086c08fd4.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1110/6392991667270907874726364.png"
+    "资讯标题": "MiniMax正式开源H3 Image模型，支持4K图像秒级生成并开放API",
+    "内容": "MiniMax正式发布并开源其全新图像生成模型H3 Image，该模型定位为开源图像SOTA，综合性能跻身全球第一梯队。目前，H3 Image已同步开源模型权重并全面开放API接口，用户可通过MiniMax Code、开放平台及海螺AI进行体验。技术层面，H3 Image核心亮点在于支持4K高分辨率图像生成，通过算法与架构优化，生成一张4K精细图像仅需10至20秒。该模型的发布旨在大幅降低高品质视觉创作门槛，通过高效生成速度压缩创作者的尝试周期，为快速调整图像细节与打磨视觉创意提供底层支撑。此次开源不仅丰富了人工智能开源生态，也为开发者和创作者提供了高性能的视觉生成工具，使高分辨率日常设计成为现实。",
+    "发布日期": "2026-11-11",
+    "原文链接": "https://www.aibase.com/zh/news/32227",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
+    "配图仓库路径": "assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202501150943267809_0.jpg"
   }
 ]
