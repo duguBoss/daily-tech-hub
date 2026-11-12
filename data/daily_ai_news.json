@@ -1,37 +1,37 @@
 [
   {
-    "资讯标题": "谷歌发布Gemini Decisions API，搭载Gemini Decision 1模型实现高并发决策",
-    "内容": "谷歌于11月11日正式推出Gemini Decisions API，该接口搭载全新的Gemini Decision 1模型，专为处理是非题、选型题及打分等高频决策场景设计。开发者可上传文本、图像、音频、视频或PDF等多模态材料（最高支持256K Tokens），单次前向计算即可同时处理最多1000个独立问题，并为每个选项输出概率与置信度分数，无需多次API调用。该模型在工具挑选、策略核查、模型路由及上下文质量评估等领域表现突出。性能方面，整段处理延迟控制在150至250毫秒之间。定价策略极具竞争力，输入端价格为每百万Tokens 0.10美元，输出端Tokens完全免费。此外，开发者可手动调节图像与视频分辨率以平衡视觉细节与Token开销。目前，Gemini Decisions API已在Google AI S",
+    "资讯标题": "阿里发布千问大模型 Qwen4，千问 App 同步接入预览版",
+    "内容": "阿里正式宣布推出全新一代千问大模型 Qwen4，该模型在底层架构与核心能力上实现显著进化。Qwen4 在知识理解、世界感知、代码编写、逻辑推理及自动化智能体（Agent）执行表现上均有大幅提升，能够更高效地处理复杂上下文与多模态信息。配合此次官宣，千问 App 已同步接入 Qwen4-Max 预览版，用户现可直接在 App 内体验新模型在日常对话与复杂任务处理中的性能表现。此次迭代标志着千问系列在模型底层架构上的重大升级，旨在通过增强的语义解析与多模态建模能力，进一步提升大模型在实际应用场景中的落地效果，为开发者与用户提供更强大的智能交互支持。",
     "发布日期": "2026-11-12",
-    "原文链接": "https://www.aibase.com/zh/news/32265",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/192786bef6037ee049587bbb3888c62a.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/192786bef6037ee049587bbb3888c62a.jpg",
-    "配图仓库路径": "assets/news_images/192786bef6037ee049587bbb3888c62a.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1112/6393007571290686591524603.png"
+    "原文链接": "https://www.aibase.com/zh/news/32274",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d1a48292d65fb5bbe0b78183b1b15486.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d1a48292d65fb5bbe0b78183b1b15486.jpg",
+    "配图仓库路径": "assets/news_images/d1a48292d65fb5bbe0b78183b1b15486.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007255440_8.jpg"
   },
   {
-    "资讯标题": "谷歌DeepMind发布AlphaGenome 2模型，实现细胞级基因变异预测",
-    "内容": "谷歌DeepMind于11月11日推出AlphaGenome 2，将基因变异预测精度提升至单细胞类型与状态级别。该模型采用条件式架构，通过训练人与小鼠超1.07亿个单细胞图谱，覆盖68种组织。在28类原代免疫细胞的TenK10K测试中，其致病变异识别率达30%，较前代提升近一倍，表达变化预测准确率从23%提升至43%。AlphaGenome 2具备强大的泛化能力，仅需少量单细胞RNA测序数据即可分析未见过的细胞类型，并新增组蛋白修饰、染色质可及性及DNA甲基化预测，支持跨模态推断。目前，该模型已通过AlphaGenome API向非商业研究开放，商业用途需申请私有预览。谷歌强调，该工具仅限科研用途，尚未获得临床或诊断批准，旨在解决复杂疾病基因定位难题。",
+    "资讯标题": "百度发布ERNIE 5.5 Flash Preview模型，将于11月25日前正式开源权重",
+    "内容": "百度正式发布文心大模型ERNIE 5.5 Flash Preview，该模型作为Base版本的后训练版本，采用280B总参数与14B激活参数的混合架构，支持高达1M的超长上下文窗口。目前，该模型的API接口已在百度千帆平台上线，供开发者进行调用测试。在应用层面，ERNIE 5.5 Flash Preview重点展示了其在游戏开发、3D建模、知识工作及视频创作等复杂工作流中的Agent智能体协同能力。百度官方明确，该版本为后训练阶段的中间产物，研发团队将持续根据反馈进行算法优化。此外，百度承诺将于11月25日前正式开源该模型的权重，旨在进一步推动国内人工智能开源生态的发展，为开发者提供更具性能优势的底层模型支持。",
     "发布日期": "2026-11-12",
-    "原文链接": "https://www.aibase.com/zh/news/32261",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b498c4b0df3b7a4a775e07ada9d03bef.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b498c4b0df3b7a4a775e07ada9d03bef.jpg",
-    "配图仓库路径": "assets/news_images/b498c4b0df3b7a4a775e07ada9d03bef.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308311057090837_8.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32278",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f5eade8585a31c487191397abb5a32ba.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f5eade8585a31c487191397abb5a32ba.jpg",
+    "配图仓库路径": "assets/news_images/f5eade8585a31c487191397abb5a32ba.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743129700_3.jpg"
   },
   {
-    "资讯标题": "百度正式推出大模型Token交易平台“词元所”，日均调用量超7000亿",
-    "内容": "百度在百度世界2026开幕式上正式发布大模型Token交易平台“词元所”，旨在解决当前模型资源真实性、服务质量及调用稳定性难以验证的行业痛点。该平台核心主打“验真”与“征信”两大能力，通过模型指纹比对、能力测试及性能可用性测试核验资源，并建立模型提供商信用评级机制，提供中立透明的交易服务。百度创始人李彦宏指出，针对市场中部分词元中转站对模型效果与响应速度缺乏监管的问题，词元所通过全链路实时监测与定期抽检拨测，为大模型调用提供基础设施保障。数据显示，词元所上线一个月内已入驻超过100个供应资源，日均调用次数突破5000万，日均调用Token量超过7000亿。该平台的推出标志着大模型产业链正向资源核验、服务评价与信用体系建设等精细化运营阶段迈进。",
+    "资讯标题": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织",
+    "内容": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 12, 20262811月12日，在2026百度世界大会上，百度创始人李彦宏提出，人工智能不仅是一场技术革命，更是一场组织革命，未来十年，智能组织将成为AI时代的“新厂房”。李彦宏回顾了过去十年AI产业的发展。2016年，他曾将人工智能定义为“新的电脑”。经过十年演进，AI已形成完整的技术体系，构建起以GPU为核心，涵盖芯片、云基础设施、模型层以及以智能体为核心的应用层的全新技术栈。在这一体系中，如果能源是AI产业的上游，组织能力则构成产业下游的重要环节。李彦宏认为，仅将AI作为员工个人工具，已不足以释放其生产力价值。",
     "发布日期": "2026-11-12",
-    "原文链接": "https://www.aibase.com/zh/news/32269",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/71b5cfb7a9d337b39ee10fb3a51d3e01.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/71b5cfb7a9d337b39ee10fb3a51d3e01.jpg",
-    "配图仓库路径": "assets/news_images/71b5cfb7a9d337b39ee10fb3a51d3e01.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202004082215180815_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32268",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7bd0eb34c3886282f6d1a52bf44fd347.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7bd0eb34c3886282f6d1a52bf44fd347.jpg",
+    "配图仓库路径": "assets/news_images/7bd0eb34c3886282f6d1a52bf44fd347.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/1112/26111210453377668685.jpg"
   },
   {
-    "资讯标题": "Runway开源27B世界动作模型Praxis-1，登顶机器人榜单并支持商业化",
-    "内容": "Runway正式开源270亿参数的世界动作模型Praxis-1，采用Apache 2.0许可，开放模型权重及推理微调代码，全面支持商业用途。该模型采用MoE Diffusion Transformer架构，核心优势在于能同时预测视频与动作。在NVIDIA RoboLab-120基准测试中，Praxis-1以46.2%的成功率位居榜首，超越FLUX3Action等竞品。在迁移泛化测试中，其在Google RT-1机器人上的成功率达80.0%。硬件适配方面，Praxis-1支持从H100、B200数据中心GPU到RTX 5090工作站显卡，乃至Jetson Thor边缘侧芯片的部署。开发者可通过GitHub和Hugging Face获取模型，并支持vLLM-Omni推理及LoRA微调。Runway旨在通过此次开源推",
+    "资讯标题": "Runway开源27B世界动作模型Praxis-1，登顶机器人权威榜单并支持商业化",
+    "内容": "Runway正式开源270亿参数的世界动作模型Praxis-1，采用Apache 2.0许可，全面开放模型权重、推理及微调代码。该模型采用MoE Diffusion Transformer架构，核心优势在于能同时预测视频与动作。在NVIDIA RoboLab-120基准测试中，Praxis-1以46.2%的成功率登顶榜首，超越FLUX3Action等竞品。在迁移泛化测试中，其在Google RT-1机器人上的成功率达80.0%。硬件适配方面，Praxis-1支持从H100、B200数据中心GPU到RTX 5090工作站显卡，以及Jetson Thor边缘端侧芯片。开发者可通过GitHub和Hugging Face获取模型，并支持vLLM-Omni推理及LoRA微调。Runway表示，此举旨在提升物理AI的互操作",
     "发布日期": "2026-11-12",
     "原文链接": "https://www.aibase.com/zh/news/32267",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9d67364595409ee9f6582ed6467d4d18.jpg",
@@ -40,13 +40,13 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1112/6393007683492850893339029.png"
   },
   {
-    "资讯标题": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-    "内容": "OpenAI第三季度营收首次突破100亿美元，较第二季度的67亿美元增长近50%，显示出公司在经历年初增长放缓后的强劲复苏。得益于市场需求回升及新AI模型发布，公司调整后营业利润率从第二季度的-150%收窄至第三季度的-109%。目前OpenAI年收入已达500亿美元，公司正通过收紧定价策略、调整折扣、改进模型以及加大企业级产品和AI Agent投入来推动增长。尽管用户规模超10亿，但OpenAI在企业级市场仍面临Anthropic等竞争对手的挑战。Anthropic第三季度营收达170亿美元，其统计口径包含云合作伙伴销售额，而OpenAI仅统计部分分成。面对Meta、亚马逊、微软及谷歌等巨头的激烈竞争，OpenAI需持续应对算力成本、企业市场份额及模型定价等多重压力。",
+    "资讯标题": "Anthropic为Claude API新增effort参数，支持对话中动态调节模型推理强度",
+    "内容": "Anthropic于11月12日为Claude API推出Beta版effort参数，允许开发者在同一对话流中动态调整模型的推理投入程度。该功能通过在消息序列中插入包含output_config.effort配置的空白system消息实现，无需重开会话或重置提示词缓存。该参数从下一条用户消息起生效，支持开发者根据任务复杂度实时切换模型档位。在轻量问答场景下可降低Token消耗与响应延迟，在复杂推理或工具调用环节则可提升回答深度。此机制对长链路智能体（Agent）开发尤为关键，开发者可根据检索与推理需求精准分配算力，在回答质量、响应速度与API调用成本之间实现精细化平衡，从而优化整体运营效率。",
     "发布日期": "2026-11-12",
-    "原文链接": "https://www.aibase.com/zh/news/32258",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
-    "配图仓库路径": "assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502061723419905_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32271",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
   }
 ]
