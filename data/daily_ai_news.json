@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "谷歌发布Gemini Decisions API及Decision 1模型，支持单次处理千题",
-    "内容": "谷歌于11月11日正式推出Gemini Decisions API，搭载专为快速决策场景设计的Gemini Decision 1模型。该API支持文本、图像、音频、视频及PDF等多模态输入，上下文窗口最高达256K Tokens。开发者单次调用即可处理最多1000个独立问题，模型通过一次前向计算输出各选项的概率与置信度分数，显著优化了工具挑选、策略核查及模型路由等任务的执行效率。在性能方面，该API处理延迟控制在150至250毫秒之间。定价策略极具竞争力，输入端价格为每百万Tokens 0.10美元，输出端Tokens完全免费。此外，开发者可根据需求手动调节图像与视频分辨率，以平衡视觉细节与Token开销。目前，Gemini Decisions API已在Google AI Studio上线，并提供免费额度供开",
+    "资讯标题": "谷歌发布Gemini Decisions API，搭载Gemini Decision 1模型实现高并发决策",
+    "内容": "谷歌于11月11日正式推出Gemini Decisions API，该接口搭载全新的Gemini Decision 1模型，专为处理是非题、选型题及打分等高频决策场景设计。开发者可上传文本、图像、音频、视频或PDF等多模态材料（最高支持256K Tokens），单次前向计算即可同时处理最多1000个独立问题，并为每个选项输出概率与置信度分数，无需多次API调用。该模型在工具挑选、策略核查、模型路由及上下文质量评估等领域表现突出。性能方面，整段处理延迟控制在150至250毫秒之间。定价策略极具竞争力，输入端价格为每百万Tokens 0.10美元，输出端Tokens完全免费。此外，开发者可手动调节图像与视频分辨率以平衡视觉细节与Token开销。目前，Gemini Decisions API已在Google AI S",
     "发布日期": "2026-11-12",
     "原文链接": "https://www.aibase.com/zh/news/32265",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/192786bef6037ee049587bbb3888c62a.jpg",
@@ -10,8 +10,8 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1112/6393007571290686591524603.png"
   },
   {
-    "资讯标题": "谷歌 DeepMind 发布 AlphaGenome 2 模型，实现细胞级基因变异预测",
-    "内容": "谷歌 DeepMind 于 11 月 11 日推出 AlphaGenome 2，将基因变异预测精度提升至单个细胞类型与状态。该模型采用条件式架构，通过训练人与小鼠超 1.07 亿个单细胞图谱（覆盖 68 种组织），识别相关变异的能力较上一代提升近两倍。在 TenK10K 测试中，其致病变异识别率达 30%，预测表达变化准确率从 23% 提升至 43%。AlphaGenome 2 具备强大的泛化能力，仅需少量单细胞 RNA 测序数据即可分析未见过的细胞类型，并新增对组蛋白修饰、染色质可及性及 DNA 甲基化的预测，支持跨模态推断。目前，该模型已通过 AlphaGenome API 向非商业研究开放，商业用途需申请私有预览。谷歌明确表示该工具仅限科研用途，尚未获得临床或诊断批准，旨在解决疾病基因定位中细胞异质性带来",
+    "资讯标题": "谷歌DeepMind发布AlphaGenome 2模型，实现细胞级基因变异预测",
+    "内容": "谷歌DeepMind于11月11日推出AlphaGenome 2，将基因变异预测精度提升至单细胞类型与状态级别。该模型采用条件式架构，通过训练人与小鼠超1.07亿个单细胞图谱，覆盖68种组织。在28类原代免疫细胞的TenK10K测试中，其致病变异识别率达30%，较前代提升近一倍，表达变化预测准确率从23%提升至43%。AlphaGenome 2具备强大的泛化能力，仅需少量单细胞RNA测序数据即可分析未见过的细胞类型，并新增组蛋白修饰、染色质可及性及DNA甲基化预测，支持跨模态推断。目前，该模型已通过AlphaGenome API向非商业研究开放，商业用途需申请私有预览。谷歌强调，该工具仅限科研用途，尚未获得临床或诊断批准，旨在解决复杂疾病基因定位难题。",
     "发布日期": "2026-11-12",
     "原文链接": "https://www.aibase.com/zh/news/32261",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b498c4b0df3b7a4a775e07ada9d03bef.jpg",
@@ -20,18 +20,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308311057090837_8.jpg"
   },
   {
-    "资讯标题": "苹果CarPlay正式接入谷歌Gemini，支持Gemini Live语音交互",
-    "内容": "苹果CarPlay已正式接入谷歌Gemini AI，即日起面向全球iOS端Gemini用户分批推送，支持Gemini Live覆盖的所有语言。iPhone 18 Pro等机型用户连接CarPlay后，可通过车机屏幕直接调用Gemini图标发起语音对话。该功能支持随时插话、话题续接及多轮交互，对话内容将同步至手机端Gemini应用，方便停车后查看摘要与笔记。除语音交流外，Gemini还深度集成Gmail与Google日历，可协助驾驶者处理日程、整理邮件、获取每日简报及查询目的地周边信息。用户需确保手机端Gemini应用更新至最新版本并完成Gemini Live首次配置，授予麦克风权限后即可在车机端使用。此次接入标志着苹果车联生态进一步开放，通过引入大模型能力，显著提升了车载语音助手的交互深度与办公辅助效率。",
+    "资讯标题": "百度正式推出大模型Token交易平台“词元所”，日均调用量超7000亿",
+    "内容": "百度在百度世界2026开幕式上正式发布大模型Token交易平台“词元所”，旨在解决当前模型资源真实性、服务质量及调用稳定性难以验证的行业痛点。该平台核心主打“验真”与“征信”两大能力，通过模型指纹比对、能力测试及性能可用性测试核验资源，并建立模型提供商信用评级机制，提供中立透明的交易服务。百度创始人李彦宏指出，针对市场中部分词元中转站对模型效果与响应速度缺乏监管的问题，词元所通过全链路实时监测与定期抽检拨测，为大模型调用提供基础设施保障。数据显示，词元所上线一个月内已入驻超过100个供应资源，日均调用次数突破5000万，日均调用Token量超过7000亿。该平台的推出标志着大模型产业链正向资源核验、服务评价与信用体系建设等精细化运营阶段迈进。",
     "发布日期": "2026-11-12",
-    "原文链接": "https://www.aibase.com/zh/news/32262",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/31723c931fbb5edbec6868466a235a59.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/31723c931fbb5edbec6868466a235a59.jpg",
-    "配图仓库路径": "assets/news_images/31723c931fbb5edbec6868466a235a59.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1112/6393007204263748563155149.png"
+    "原文链接": "https://www.aibase.com/zh/news/32269",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/71b5cfb7a9d337b39ee10fb3a51d3e01.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/71b5cfb7a9d337b39ee10fb3a51d3e01.jpg",
+    "配图仓库路径": "assets/news_images/71b5cfb7a9d337b39ee10fb3a51d3e01.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202004082215180815_1.jpg"
   },
   {
-    "资讯标题": "Runway开源27B世界动作模型Praxis-1，登顶RoboLab-120榜单并支持商业化",
-    "内容": "Runway正式开源270亿参数的世界动作模型Praxis-1，采用Apache 2.0协议，全面开放模型权重、推理及微调代码。该模型采用MoE Diffusion Transformer架构，核心优势在于能同时预测视频与动作。在NVIDIA RoboLab-120基准测试中，Praxis-1以46.2%的成功率位居榜首，超越FLUX3Action及π0.5等模型。在迁移泛化测试中，其在Google RT-1机器人上的成功率从52.4%提升至80.0%。硬件适配方面，Praxis-1支持从H100、B200数据中心GPU到RTX 5090工作站显卡，以及Jetson Thor边缘端侧芯片的部署。开发者可通过GitHub和Hugging Face获取模型，并支持vLLM-Omni、Reactor推理及LoRA微调",
+    "资讯标题": "Runway开源27B世界动作模型Praxis-1，登顶机器人榜单并支持商业化",
+    "内容": "Runway正式开源270亿参数的世界动作模型Praxis-1，采用Apache 2.0许可，开放模型权重及推理微调代码，全面支持商业用途。该模型采用MoE Diffusion Transformer架构，核心优势在于能同时预测视频与动作。在NVIDIA RoboLab-120基准测试中，Praxis-1以46.2%的成功率位居榜首，超越FLUX3Action等竞品。在迁移泛化测试中，其在Google RT-1机器人上的成功率达80.0%。硬件适配方面，Praxis-1支持从H100、B200数据中心GPU到RTX 5090工作站显卡，乃至Jetson Thor边缘侧芯片的部署。开发者可通过GitHub和Hugging Face获取模型，并支持vLLM-Omni推理及LoRA微调。Runway旨在通过此次开源推",
     "发布日期": "2026-11-12",
     "原文链接": "https://www.aibase.com/zh/news/32267",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9d67364595409ee9f6582ed6467d4d18.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "资讯标题": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-    "内容": "OpenAI第三季度营收首次突破100亿美元，较第二季度的67亿美元环比增长近50%，显示出公司在经历增长放缓后的强劲复苏。得益于市场对AI模型需求的提升及近期产品发布，公司调整后营业利润率从第二季度的-150%收窄至第三季度的-109%，盈利状况有所改善。目前OpenAI年收入已达500亿美元，公司正通过收紧定价策略、调整折扣、改进模型以及加大企业级产品和AI Agent投入来驱动增长。尽管用户规模超10亿，但OpenAI在企业级市场仍面临Anthropic等竞争对手的激烈挑战。由于统计口径差异，Anthropic将云合作伙伴销售额计入，而OpenAI仅统计部分分成。面对Meta、亚马逊、微软及谷歌等巨头的竞争，OpenAI在算力成本、市场份额及模型定价方面仍面临多重压力。",
+    "内容": "OpenAI第三季度营收首次突破100亿美元，较第二季度的67亿美元增长近50%，显示出公司在经历年初增长放缓后的强劲复苏。得益于市场需求回升及新AI模型发布，公司调整后营业利润率从第二季度的-150%收窄至第三季度的-109%。目前OpenAI年收入已达500亿美元，公司正通过收紧定价策略、调整折扣、改进模型以及加大企业级产品和AI Agent投入来推动增长。尽管用户规模超10亿，但OpenAI在企业级市场仍面临Anthropic等竞争对手的挑战。Anthropic第三季度营收达170亿美元，其统计口径包含云合作伙伴销售额，而OpenAI仅统计部分分成。面对Meta、亚马逊、微软及谷歌等巨头的激烈竞争，OpenAI需持续应对算力成本、企业市场份额及模型定价等多重压力。",
     "发布日期": "2026-11-12",
     "原文链接": "https://www.aibase.com/zh/news/32258",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/04bd262e29e0472ec5b42c635c48be1b.jpg",
