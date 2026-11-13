@@ -1,52 +1,52 @@
 [
   {
-    "资讯标题": "阿里发布千问大模型 Qwen4，千问 App 同步接入预览版",
-    "内容": "阿里正式宣布推出全新一代千问大模型 Qwen4，该模型在底层架构与核心能力上实现显著进化。Qwen4 在知识理解、世界感知、代码编写、逻辑推理及自动化智能体（Agent）执行表现上均有大幅提升，能够更高效地处理复杂上下文与多模态信息。配合此次官宣，千问 App 已同步接入 Qwen4-Max 预览版，用户现可直接在 App 内体验新模型在日常对话与复杂任务处理中的性能表现。此次迭代标志着千问系列在模型底层架构上的重大升级，旨在通过增强的语义解析与多模态建模能力，进一步提升大模型在实际应用场景中的落地效果，为开发者与用户提供更强大的智能交互支持。",
-    "发布日期": "2026-11-12",
-    "原文链接": "https://www.aibase.com/zh/news/32274",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d1a48292d65fb5bbe0b78183b1b15486.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d1a48292d65fb5bbe0b78183b1b15486.jpg",
-    "配图仓库路径": "assets/news_images/d1a48292d65fb5bbe0b78183b1b15486.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202504151007255440_8.jpg"
+    "资讯标题": "谷歌发布Gemini 4 Hydrogen模型，编程性能与推理速度大幅提升",
+    "内容": "谷歌正式发布新一代大模型Gemini 4 Hydrogen，重点强化编程能力与智能体（Agent）任务处理效率。相比前代Gemini 3.8 Flash，该模型运行速度提升2.5倍，在Terminal-Bench 4.1编程基准测试中得分从18.2%跃升至57%，并显著降低了幻觉率。Gemini 4 Hydrogen支持高达100万词元的输入与输出，API定价为输入每百万词元1.50美元，输出每百万词元7.50美元。谷歌同步推出Orchestrator功能，支持多模型间的动态任务分配与协同。普通用户可通过Gemini应用自动调用该模型，开发者则可通过API接入。此次更新旨在通过更高效的推理与更强的终端操作能力，优化复杂工作流的处理表现。",
+    "发布日期": "2026-11-13",
+    "原文链接": "https://www.aibase.com/zh/news/32298",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "配图仓库路径": "assets/news_images/94403fe671c89a7cd9281f2b8b8205b1.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171655124578_0.jpg"
   },
   {
-    "资讯标题": "百度发布ERNIE 5.5 Flash Preview模型，将于11月25日前正式开源权重",
-    "内容": "百度正式发布文心大模型ERNIE 5.5 Flash Preview，该模型作为Base版本的后训练版本，采用280B总参数与14B激活参数的混合架构，支持高达1M的超长上下文窗口。目前，该模型的API接口已在百度千帆平台上线，供开发者进行调用测试。在应用层面，ERNIE 5.5 Flash Preview重点展示了其在游戏开发、3D建模、知识工作及视频创作等复杂工作流中的Agent智能体协同能力。百度官方明确，该版本为后训练阶段的中间产物，研发团队将持续根据反馈进行算法优化。此外，百度承诺将于11月25日前正式开源该模型的权重，旨在进一步推动国内人工智能开源生态的发展，为开发者提供更具性能优势的底层模型支持。",
-    "发布日期": "2026-11-12",
-    "原文链接": "https://www.aibase.com/zh/news/32278",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f5eade8585a31c487191397abb5a32ba.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f5eade8585a31c487191397abb5a32ba.jpg",
-    "配图仓库路径": "assets/news_images/f5eade8585a31c487191397abb5a32ba.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405161743129700_3.jpg"
+    "资讯标题": "英伟达创始人黄仁勋卸任总裁与CEO",
+    "内容": "英伟达创始人黄仁勋卸任总裁与CEOAIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 13, 202618人工智能行业的权力格局在近日迎来了一场堪称“地震”的剧烈震荡。英伟达官方发布正式公告宣布，创立公司长达33年、几乎将个人影响力与品牌深度绑定的灵魂人物黄仁勋，正式卸任公司总裁、首席执行官和董事职务，消息一出立即引发全球科技界的高度关注与股价波动。从地缘博弈到巨额暗流:算力危机下的“Megaspeed”谜局 要理清这场震荡的来龙去脉，必须将时间拨回到2022年大模型爆发前夕。随着算力成为 AI 时代的战略级资源，美国自当年秋季起对面向中国市场的先进芯片出口实施了严厉禁令。在庞大市场需求的驱动下，市场上逐渐衍生出走私、借道第三国以及跨国远程访问算力等多种迂回路径。",
+    "发布日期": "2026-11-13",
+    "原文链接": "https://www.aibase.com/zh/news/32291",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2842940a916071785fed87a4a0d02918.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2842940a916071785fed87a4a0d02918.jpg",
+    "配图仓库路径": "assets/news_images/2842940a916071785fed87a4a0d02918.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606031122196331_0.jpg"
   },
   {
-    "资讯标题": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织",
-    "内容": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 12, 20262811月12日，在2026百度世界大会上，百度创始人李彦宏提出，人工智能不仅是一场技术革命，更是一场组织革命，未来十年，智能组织将成为AI时代的“新厂房”。李彦宏回顾了过去十年AI产业的发展。2016年，他曾将人工智能定义为“新的电脑”。经过十年演进，AI已形成完整的技术体系，构建起以GPU为核心，涵盖芯片、云基础设施、模型层以及以智能体为核心的应用层的全新技术栈。在这一体系中，如果能源是AI产业的上游，组织能力则构成产业下游的重要环节。李彦宏认为，仅将AI作为员工个人工具，已不足以释放其生产力价值。",
-    "发布日期": "2026-11-12",
-    "原文链接": "https://www.aibase.com/zh/news/32268",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/7bd0eb34c3886282f6d1a52bf44fd347.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/7bd0eb34c3886282f6d1a52bf44fd347.jpg",
-    "配图仓库路径": "assets/news_images/7bd0eb34c3886282f6d1a52bf44fd347.jpg",
-    "原始配图链接": "https://pic.chinaz.com/thumb/2026/1112/26111210453377668685.jpg"
+    "资讯标题": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
+    "内容": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPOAIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 13, 20268CNBC 11 月 13 日披露，OpenAI 刚完成的最新一轮私募融资规模达 150 亿美元（约合 1003 亿元人民币），融资前估值站上 1.25 万亿美元（约 8.36 万亿元）。这比此前媒体放风的约 110 亿美元还要高出一截，且交易尚未正式收口，预计几周内落定。圈内将其定性为\"机会性融资\"——核心目的，是为预计 2027 年启动的 IPO 提前备好粮草。账本上的百亿伤口 弹药背后是醒目的失血。《华尔街日报》数据显示，OpenAI 今年第三季度营收约 100 亿美元，环比猛增近 50%。",
+    "发布日期": "2026-11-13",
+    "原文链接": "https://www.aibase.com/zh/news/32300",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "配图仓库路径": "assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg"
   },
   {
-    "资讯标题": "Runway开源27B世界动作模型Praxis-1，登顶机器人权威榜单并支持商业化",
-    "内容": "Runway正式开源270亿参数的世界动作模型Praxis-1，采用Apache 2.0许可，全面开放模型权重、推理及微调代码。该模型采用MoE Diffusion Transformer架构，核心优势在于能同时预测视频与动作。在NVIDIA RoboLab-120基准测试中，Praxis-1以46.2%的成功率登顶榜首，超越FLUX3Action等竞品。在迁移泛化测试中，其在Google RT-1机器人上的成功率达80.0%。硬件适配方面，Praxis-1支持从H100、B200数据中心GPU到RTX 5090工作站显卡，以及Jetson Thor边缘端侧芯片。开发者可通过GitHub和Hugging Face获取模型，并支持vLLM-Omni推理及LoRA微调。Runway表示，此举旨在提升物理AI的互操作",
-    "发布日期": "2026-11-12",
-    "原文链接": "https://www.aibase.com/zh/news/32267",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9d67364595409ee9f6582ed6467d4d18.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9d67364595409ee9f6582ed6467d4d18.jpg",
-    "配图仓库路径": "assets/news_images/9d67364595409ee9f6582ed6467d4d18.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1112/6393007683492850893339029.png"
+    "资讯标题": "MiniMax正式开源原生4K生图模型H3 Image，登顶全球开放权重榜单",
+    "内容": "MiniMax正式开源其原生4K直出图像模型H3 Image，该模型基于全模态视频模型H3衍生，发布后迅速登顶全球开放权重图像模型榜单。H3 Image在性能上具备显著优势，支持10秒极速出图，并可同时处理多达16张参考图，满足复杂场景下的风格迁移与细节控制需求。在真实感渲染、文字生成、人脸保持、图生图创作及复杂指令遵循等方面表现优异，覆盖日常创意至专业商业生产场景。MiniMax通过开源模型权重构建生态，并结合托管API、订阅计划及商业授权模式，打造可持续发展的商业闭环。此次开源旨在通过技术赋能开发者与企业用户，加速全球衍生生态的形成，进一步巩固其在人工智能图像生成领域的行业地位。",
+    "发布日期": "2026-11-13",
+    "原文链接": "https://www.aibase.com/zh/news/32292",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
+    "配图仓库路径": "assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202501150943267809_0.jpg"
   },
   {
-    "资讯标题": "Anthropic为Claude API新增effort参数，支持对话中动态调节模型推理强度",
-    "内容": "Anthropic于11月12日为Claude API推出Beta版effort参数，允许开发者在同一对话流中动态调整模型的推理投入程度。该功能通过在消息序列中插入包含output_config.effort配置的空白system消息实现，无需重开会话或重置提示词缓存。该参数从下一条用户消息起生效，支持开发者根据任务复杂度实时切换模型档位。在轻量问答场景下可降低Token消耗与响应延迟，在复杂推理或工具调用环节则可提升回答深度。此机制对长链路智能体（Agent）开发尤为关键，开发者可根据检索与推理需求精准分配算力，在回答质量、响应速度与API调用成本之间实现精细化平衡，从而优化整体运营效率。",
-    "发布日期": "2026-11-12",
-    "原文链接": "https://www.aibase.com/zh/news/32271",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
+    "资讯标题": "Claude推出全新Claude Meetings功能，支持以可见参会者身份加入实时视频通话",
+    "内容": "Claude正式推出处于测试阶段的全新会议功能Claude Meetings，允许AI直接作为一名可见的参会者加入实时视频通话。该功能打破了以往AI仅能在会后生成会议纪要的局限，通过实时参与互动，实现对讨论内容的即时记录与分析。目前，Claude Meetings已率先面向Team（团队版）和Enterprise（企业版）套餐用户开放测试。此举标志着Claude在办公协同领域的进一步深耕，旨在通过将AI实时引入视频会议场景，打破企业内部信息孤岛，提升团队沟通与决策效率。随着测试的持续推进，该功能有望为企业级用户提供更加流畅、沉浸的智能协同体验，进一步强化Claude在办公生态中的应用价值。",
+    "发布日期": "2026-11-13",
+    "原文链接": "https://www.aibase.com/zh/news/32297",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/10007140386e2179b000c2131d57eff2.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/10007140386e2179b000c2131d57eff2.jpg",
+    "配图仓库路径": "assets/news_images/10007140386e2179b000c2131d57eff2.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719364143_1.jpg"
   }
 ]
