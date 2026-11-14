@@ -1,17 +1,7 @@
 [
   {
-    "资讯标题": "谷歌联合三星等品牌开启Gemini智能眼镜预售，起售价395美元",
-    "内容": "谷歌正式开启Intelligent Eyewear系列智能眼镜预购，该产品由谷歌联合三星、Gentle Monster及Warby Parker共同打造，起售价为395美元。作为谷歌在具身智能与穿戴设备领域的最新力作，该眼镜深度集成Gemini AI能力，标志着Gemini助手正式跨入端侧可穿戴硬件形态。针对公众关注的隐私问题，谷歌在服务条款中开创性引入“双向隐私”规定，旨在保护拍摄者与周围人群权益。官方明确表示，任何绕过系统隐私保护机制或滥用设备功能的违规行为，谷歌将保留远程锁机的权力。此次发布通过技术与制度双重手段，为智能穿戴设备的隐私边界划定底线，对行业内具身智能硬件的合规化发展具有重要参考意义。",
-    "发布日期": "2026-11-14",
-    "原文链接": "https://www.aibase.com/zh/news/32308",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
-    "配图仓库路径": "assets/news_images/27234ec0b3f822767f2f5a2fd87eb889.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202312070835429226_0.jpg"
-  },
-  {
-    "资讯标题": "腾讯发布实时语音模型Hy Realtime，支持Agentic工具调用与唱歌",
-    "内容": "腾讯混元正式发布实时语音模型Hy Realtime，该模型在语音理解、指令遵循及拟人化表达方面表现优异，并新增Agentic工具调用与唱歌功能。Hy Realtime不仅具备联网搜索等主动执行任务的能力，还实现了更自然的交互体验。目前，该模型已集成至元宝语音通话及腾讯客服等内部产品中，近期将通过腾讯云以API形式向外部开发者开放。此次发布标志着腾讯将自研语音能力从内部场景拓展至外部生态，改变了此前该类能力多依赖第三方提供的局面，为开发者提供更具竞争力的实时语音交互技术方案。",
+    "资讯标题": "腾讯发布实时语音模型Hy Realtime，支持Agentic工具调用与唱歌功能",
+    "内容": "腾讯混元正式发布全新实时语音模型Hy Realtime，该模型在语音理解、指令遵循及拟人化表达方面表现优异，并新增Agentic工具调用与唱歌功能。Hy Realtime已在元宝语音通话及腾讯客服等内部产品中落地应用，近期将通过腾讯云以API形式向外部开发者开放。此次发布标志着腾讯将自研语音能力从内部场景拓展至外部生态，改变了此前同类能力多依赖第三方提供的局面。该模型不仅具备联网搜索等工具调用能力，还通过强化拟人化交互，显著提升了数亿用户的对话体验，是腾讯在实时语音交互领域的重要技术布局。",
     "发布日期": "2026-11-14",
     "原文链接": "https://www.aibase.com/zh/news/32320",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/95a0012445ce86041be0d1531a50a629.jpg",
@@ -20,8 +10,18 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1113/6393018452316774591424004.png"
   },
   {
+    "资讯标题": "独立开发者利用Claude Code完成三元哥德巴赫猜想形式化证明",
+    "内容": "独立开发者Charlie Reams借助Claude Code成功完成三元哥德巴赫猜想的形式化证明，累计产出19.4万行Lean4代码，且所有推理均通过机器严格验证。在证明过程中，Claude Code展现了极高的严谨性，自主识别并修补了数学家Harald Helfgott于2013年原版证明中的11处关键漏洞，涵盖常数错误、不等式失效及引用偏差等问题。此外，研究人员通过AI辅助将证明依赖的外部假设从5项精简至2项，显著提升了证明的严谨性。此次突破标志着数学界对“证明完成”的判定标准正从传统同行评议向机器可验证的形式化方向转变，展示了AI在基础科学研究领域的深度应用潜力。",
+    "发布日期": "2026-11-14",
+    "原文链接": "https://www.aibase.com/zh/news/32317",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b7981a991e67d57eb6ac49ba002353ea.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b7981a991e67d57eb6ac49ba002353ea.jpg",
+    "配图仓库路径": "assets/news_images/b7981a991e67d57eb6ac49ba002353ea.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310270933175014_5.jpg"
+  },
+  {
     "资讯标题": "OpenAI完成150亿美元新一轮融资，估值升至1.25万亿美元",
-    "内容": "OpenAI近日敲定新一轮150亿美元私募融资，融资前估值达到1.25万亿美元。此轮融资被定性为“机会性融资”，旨在为预计2027年的IPO储备资金。财务数据显示，OpenAI今年第三季度营收约100亿美元，环比增长近50%，但同期运营亏损达109亿美元，调整后营业利润率为-109%。尽管营收规模扩张，但模型训练、推理服务及数据中心建设带来的重资产投入，使其仍需依赖外部融资维持运营。此次融资正值行业竞争加剧期，主要竞争对手Anthropic计划于11月19日在纳斯达克上市，其IPO估值上限预计达1.4万亿美元。随着两家头部AI公司相继迈向公开市场，投资者将通过财报直接评估其营收增速与烧钱效率，行业进入资本与技术双重竞速的新阶段。",
+    "内容": "OpenAI近日敲定新一轮150亿美元私募融资，融资前估值达到1.25万亿美元。此轮融资被定性为“机会性融资”，旨在为预计2027年的IPO储备资金。财务数据显示，OpenAI今年第三季度营收约100亿美元，环比增长近50%，但同期运营亏损达109亿美元，调整后营业利润率为-109%，显示公司在模型训练、推理服务及数据中心建设方面仍面临巨大的重资产投入压力。此次融资正值行业竞争加剧期，主要竞争对手Anthropic计划于11月19日在纳斯达克挂牌，其IPO估值上限预计达1.4万亿美元。随着两家头部AI公司相继走向公开市场，投资者将通过财报直接评估其营收增速与烧钱效率，这对行业资本流向及模型商业化路径具有重要参考意义。",
     "发布日期": "2026-11-14",
     "原文链接": "https://www.aibase.com/zh/news/32311",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
@@ -30,8 +30,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg"
   },
   {
-    "资讯标题": "Edge0 开源 145B 端侧大模型，内存占用降低 60% 并支持本地运行",
-    "内容": "开源项目 Edge0 近日正式发布并开源了 Edge0-145B 与 Edge0-120B 模型，以及配套的推理框架与部署工具。作为全球首个可在个人电脑流畅运行的 1450 亿参数模型，Edge0-145B 通过稀疏专家架构（MoE）、端侧协同训练及三层存储智能流水线技术，实现了内存占用缩减 40% 至 60% 的突破。在搭载苹果 M 系列芯片或 RTX 4090/5090 的设备上，其峰值内存占用仅 29GB，解码速度超 80 tokens/s，并支持 128K 至 256K 超长上下文。该模型在 DeepSWE1.1、GPQA-Diamond 等基准测试中表现出色，编程、推理及智能体能力对标云端前沿模型。Edge0 同时发布了涵盖语音、视觉与记忆的完整模型矩阵，目前权重已在 Hugging Face 开源，",
+    "资讯标题": "Edge0 开源 145B 端侧模型，实现个人电脑本地运行并大幅降低内存占用",
+    "内容": "开源项目 Edge0 近日正式发布并开源了 Edge0-145B 与 Edge0-120B 模型，标志着 1450 亿参数大模型首次实现个人电脑本地流畅运行。该模型通过稀疏专家架构（MoE）、端侧协同训练及三层存储智能流水线技术，在保持云端级编程与推理能力的同时，将内存占用降低 40% 至 60%。在搭载苹果 M 系列芯片或 RTX 4090/5090 的设备上，Edge0-145B 峰值内存占用仅 29GB，解码速度超 80 tokens/s，支持 128K 至 256K 上下文。在 DeepSWE1.1 及 GPQA-Diamond 等基准测试中，其表现与主流大体积模型持平。该项目同步开源了统一推理框架与部署工具，并发布了涵盖语音、决策及嵌入模型的完整矩阵。此举旨在推动 AI 从“云端优先”向“端侧优先”范",
     "发布日期": "2026-11-14",
     "原文链接": "https://www.aibase.com/zh/news/32310",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
@@ -40,13 +40,13 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556160776_8.jpg"
   },
   {
-    "资讯标题": "Anthropic启动IPO认购获六倍超额认购，英伟达拟投资100亿美元",
-    "内容": "Anthropic即将进行的IPO认购需求火爆，订单量已达可供股份数的约6倍，承销银行表示将优先照顾现有股东，新投资者面临砍单风险。此次IPO计划募资644亿美元，并配套260亿美元私募配售，总融资额最高达904亿美元，完全稀释后目标估值约1.4万亿美元。英伟达作为关键战略伙伴，计划在私募配售中认购约100亿美元。Anthropic首席执行官达里奥·阿莫代伊将于11月13日与摩根大通CEO戴蒙通过直播推介。公司运营数据表现强劲，截至10月31日，其营收运行率已达810亿美元，较9月底增长100亿美元。此次超额认购反映了资本市场对AI基础设施及大模型头部企业的极高关注，英伟达的深度绑定进一步强化了双方在AI算力与模型应用层面的战略协同。",
+    "资讯标题": "Claude开发商Anthropic启动IPO募资904亿美元，认购倍数超六倍",
+    "内容": "Claude开发商Anthropic正推进其IPO进程，通过IPO募资644亿美元并叠加260亿美元非公开配售，总规模最高达904亿美元，有望超越SpaceX成为史上最大规模的股票发行。目前该交易已吸引超过六倍的认购订单，显示出资本市场对AI公司的强劲需求。在分配策略上，Anthropic将优先满足现有支持者的认购需求，导致新进投资者可能面临配额缩减。此次天价融资被视为AI行业走向公开市场的里程碑事件，尽管目前发行细节仍存在变动可能，但超额认购反映了投资者对Anthropic及Claude模型商业前景的持续看好。Anthropic官方目前尚未对相关募资细节置评。",
     "发布日期": "2026-11-14",
-    "原文链接": "https://www.aibase.com/zh/news/32307",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "配图仓库路径": "assets/news_images/b71cbb1ef0b58e51f834cbf694c2fb5b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32315",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/802f3f27d16f0ba7d0e1fd743e3d256f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/802f3f27d16f0ba7d0e1fd743e3d256f.jpg",
+    "配图仓库路径": "assets/news_images/802f3f27d16f0ba7d0e1fd743e3d256f.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/1113/26111303524055440833.jpg"
   }
 ]
