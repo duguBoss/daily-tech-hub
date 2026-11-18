@@ -1,7 +1,17 @@
 [
   {
+    "资讯标题": "红杉资本与光速创投等机构拟在Anthropic IPO中追加数十亿美元投资",
+    "内容": "人工智能初创公司Anthropic PBC的早期核心风投股东正计划在公司即将进行的首次公开募股（IPO）中追加数十亿美元投资。此次参与加码的机构包括红杉资本（Sequoia Capital）、Iconiq、光速创投（Lightspeed Venture Partners）、Accel以及Altimeter资本管理公司。这些顶级风投机构通过真金白银的投入，展现了对Anthropic在AI大模型领域技术研发实力及企业级市场商业潜力的长期信心。作为全球大模型竞争中的关键玩家，Anthropic凭借其强劲的发展势头持续获得资本市场的高度认可。此次多方机构的联合增持，不仅巩固了现有股东的战略布局，也进一步凸显了资本市场对AI头部初创企业上市前景的坚定支持，预示着AI赛道在资本层面的博弈将持续升温。",
+    "发布日期": "2026-11-18",
+    "原文链接": "https://www.aibase.com/zh/news/32365",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "配图仓库路径": "assets/news_images/0f4300690cd50684397f89db68d9d269.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201901101704279841_1.jpg"
+  },
+  {
     "资讯标题": "微软第二代自研AI加速器Maia 200正式量产，每瓦性能提升1.7倍",
-    "内容": "在11月17日的Ignite 2026活动上，微软宣布第二代自研AI加速器Maia 200正式投入规模化生产。该芯片采用台积电3纳米工艺制造，配备216GB HBM3e内存与272MB片上SRAM，支持FP4与FP8张量核心。在FP4精度下，单颗芯片算力超10 petaFLOPS，并支持通过以太网构建最多6144颗加速器的集群。性能方面，Maia 200在Microsoft Teams、Copilot等AI功能中的每瓦token处理量较现有领先GPU基础设施提升1.7倍。目前，该芯片已在美国、欧洲和澳大利亚的数据中心部署，服务于Microsoft Copilot等生产负载，并计划后续支持GitHub Copilot与Microsoft Foundry。微软目标在2027年将Azure Maia系统扩展至多吉瓦级",
+    "内容": "微软在Ignite 2026活动上宣布，第二代自研AI加速器Maia 200已正式投入规模化生产。该芯片采用台积电3纳米工艺制造，配备216GB HBM3e内存与272MB片上SRAM，支持FP4与FP8张量核心。在FP4精度下，单颗芯片算力超10 petaFLOPS，并支持通过以太网构建最多6144颗加速器的集群。性能方面，Maia 200在Microsoft Teams、Copilot等AI功能中的每瓦token处理量较现有GPU基础设施提升1.7倍。目前，该芯片已在美国、欧洲和澳大利亚的数据中心部署，服务于Microsoft Copilot等生产负载，后续将扩展至GitHub Copilot与Microsoft Foundry。微软计划在2027年将Azure Maia系统扩展至多吉瓦级部署，旨在通过自研",
     "发布日期": "2026-11-18",
     "原文链接": "https://www.aibase.com/zh/news/32364",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3d95eb09ad758c32ba760bf4f26d7690.jpg",
@@ -10,18 +20,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202505231025157294_17.jpg"
   },
   {
-    "资讯标题": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-    "内容": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 18, 202629SEC 昨日（11 月 17 日）公示的注册文件显示，Anthropic 的 A 类普通股已获准登陆纳斯达克全球精选市场——三个层级中门槛最高的“优质大公司”板块，股票代码定为\"ANT\"，发行价区间维持每股 70 至 78 美元（约合 467.5 至 521 元人民币）不变。这桩冲击史上最大 IPO 的交易，又向前迈了一格。8.25 亿股加 260 亿私募，两只手一起募 文件披露，公司拟公开发行 8.25 亿股 A 类普通股，其中公司出约 8.014 亿股、老股东减持约 2365 万股。",
+    "资讯标题": "微软发布首款语音对语音模型 MAI Realtime 1，定价仅为竞品三分之一",
+    "内容": "在 11 月 17 日的 Ignite 2026 大会上，微软正式发布首款语音对语音模型 MAI Realtime 1。该模型专为企业场景设计，支持实时打断、快速确认及多人对话处理，并能调用推理引擎连接企业系统执行预订或客服任务。在 Big Bench Audio 基准测试中，MAI Realtime 1 准确率达 98.9%，每小时输入音频成本仅 1.35 美元，显著低于 GPT-Realtime-2 High（4.14 美元）与 Grok Voice 2.0（4.80 美元）。基础语音使用费为每音频分钟 0.01 美元，推理费用为每百万输入 token 1 美元、输出 5 美元。该模型兼容 OpenAI Realtime API，目前 Agoda、Reservations.ai 已接入试用。微软计划将其集成",
     "发布日期": "2026-11-18",
-    "原文链接": "https://www.aibase.com/zh/news/32362",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "配图仓库路径": "assets/news_images/1cad2a27af8601fe2ccee7556f592387.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32374",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a115baaae6375aa5e09b715011b69c3c.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a115baaae6375aa5e09b715011b69c3c.jpg",
+    "配图仓库路径": "assets/news_images/a115baaae6375aa5e09b715011b69c3c.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1118/6393059700210173229439359.png"
   },
   {
-    "资讯标题": "OpenAI发布GPT-6.2 Astra与Sol模型，API缓存输入成本下调60%",
-    "内容": "OpenAI于11月17日正式发布GPT-6.2 Astra与GPT-6.2 Sol两款新模型。Astra定位专业深度任务，在文档处理、编程及科学研究基准测试中表现卓越；Sol则作为日常通用模型，在保持高效的同时提升了任务处理能力。成本方面，GPT-6.2 Astra的API输入与输出Token价格较前代降低20%，缓存输入价格大幅削减60%，Sol则维持原定价。目前，两款模型已向ChatGPT Work、Codex的Plus、Pro、Enterprise及Edu用户开放，开发者可通过API调用。安全性方面，GPT-6.2系列在网络安全防护上达到“关键”级别，生物与化学能力评估达到“高”级别，官方已同步加强后台安全限制以确保合规应用。",
+    "资讯标题": "OpenAI发布GPT-6.2 Astra与Sol模型，API缓存输入成本降低60%",
+    "内容": "OpenAI于11月17日正式发布GPT-6.2 Astra与GPT-6.2 Sol两款新模型。Astra定位专业深度任务，在文档处理、编程及科学研究基准测试中表现卓越；Sol则作为通用模型，侧重提升日常任务处理效率。在API定价方面，GPT-6.2 Astra的输入与输出Token价格较前代降低20%，缓存输入价格大幅削减60%，Sol则维持原有定价。目前，两款模型已向ChatGPT Work、Codex的Plus、Pro、Enterprise及Edu用户开放，开发者可通过API调用。安全性方面，GPT-6.2系列已达到OpenAI准备框架中网络安全“关键”级别及生物化学能力“高”级别，官方已同步强化后台安全限制，确保技术应用合规可控。",
     "发布日期": "2026-11-18",
     "原文链接": "https://www.aibase.com/zh/news/32367",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
@@ -31,7 +41,7 @@
   },
   {
     "资讯标题": "Anthropic Claude Mythos仅用3天完成AMD MI355X芯片底层适配",
-    "内容": "Anthropic旗下Claude Mythos模型近日实现技术突破，仅用时3天即完成对AMD MI355X芯片近100%的底层内核代码编写，将传统6至12个月的适配周期缩短至72小时。经测试，移植后的模型运行性能与英伟达CUDA优化方案差距仅在8%至12%之间，已达商业化落地标准。此次适配大幅降低了跨芯片门槛，Anthropic已与AMD达成最高2吉瓦的算力供应合作。该进展主要覆盖推理预填充环节，在超大规模分布式训练的多卡协同领域，英伟达CUDA生态仍具技术领先优势。此举虽未彻底颠覆CUDA护城河，但显著推动了算力供应链的多元化与开放进程，为AI硬件生态竞争格局带来结构性松动。",
+    "内容": "Anthropic旗下Claude Mythos模型近日实现技术突破，仅用时3天即完成对AMD MI355X芯片近100%的底层内核代码编写，将传统适配周期从6至12个月大幅压缩至72小时。经测试，移植后的模型运行性能与英伟达CUDA优化方案的差距仅在8%至12%之间，已达商业化落地标准。此次适配大幅降低了跨芯片门槛，Anthropic已与AMD达成最高2吉瓦的算力供应合作。该进展主要覆盖推理预填充环节，在超大规模分布式训练的多卡协同领域，英伟达CUDA生态仍具技术领先优势。此举虽未彻底颠覆CUDA护城河，但显著推动了算力供应链向多元化与开放化演进。",
     "发布日期": "2026-11-18",
     "原文链接": "https://www.aibase.com/zh/news/32366",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/85eb6c6bbc382b1bfb36920bfc16cbce.jpg",
