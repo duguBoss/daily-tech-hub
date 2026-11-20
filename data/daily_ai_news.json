@@ -1,27 +1,27 @@
 [
   {
-    "资讯标题": "谷歌 Gemini 上线 Mac 电脑操控功能，支持后台自主执行多步骤任务",
-    "内容": "11月20日，谷歌正式为 macOS 版 Gemini 应用推出“电脑操控”（Computer Use）功能，支持 AI 跨越桌面应用、本地文件及网页环境自主执行复杂任务。该功能采用后台独立运行模式，不干扰用户主屏幕与鼠标操作，并提供实时预览与随时叫停机制。应用场景涵盖批量修图、PDF 数据提取、自动填写运费单及汇总数据制作 PPT 等。在安全性方面，Gemini 支持精细化权限管理，用户可限定访问范围并对关键操作进行二次确认。该功能已适配 macOS 27.3 系统，通过系统级提示明确 AI 代理的操作边界。目前，该功能仅面向美国地区的 Google AI Plus、Pro 与 Ultra 订阅用户开放，订阅起价为每月 4.99 美元，且硬件要求必须为搭载 Apple silicon 芯片的 Mac 机型。",
+    "资讯标题": "谷歌发布AI智能体优化研究：通过直接修改运行框架代码提升成功率",
+    "内容": "谷歌研究团队于11月17日发布论文，提出通过直接修改AI智能体运行框架（Harness）代码，而非仅优化提示词（Prompt）来提升性能。实验显示，将142行代码拆分为上下文管理、智能体控制、工具调用及验证恢复四个模块，并允许模型逐块优化，可使Gemini 3.8 Flash在SWE-bench Lite任务上的成功率从5%提升至40%。相比整体重写方案，该模块化机制在保持高成功率的同时，将单题平均Token消耗从45.16万大幅降低至4.67万。该方法在迁移至Gemini 4 Argon模型时同样表现优异。团队强调，赋予智能体代码修改权限需配合严格的验证机制与权限边界，以防止提示词膨胀或过度优化。此研究证明将核心约束写入代码而非提示词，是提升智能体执行效率与稳定性的有效路径。",
     "发布日期": "2026-11-20",
-    "原文链接": "https://www.aibase.com/zh/news/32419",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c3aa83de11d459b4254f89e7782879f3.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c3aa83de11d459b4254f89e7782879f3.jpg",
-    "配图仓库路径": "assets/news_images/c3aa83de11d459b4254f89e7782879f3.jpg",
-    "原始配图链接": "https://pic.chinaz.com/thumb/2026/1120/26112008550668333383.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32426",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3ab5fee05d3a5c9c09aa9954906e4498.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3ab5fee05d3a5c9c09aa9954906e4498.jpg",
+    "配图仓库路径": "assets/news_images/3ab5fee05d3a5c9c09aa9954906e4498.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308291638475569_2.jpg"
   },
   {
-    "资讯标题": "英伟达第三季度营收翻倍至1158亿美元，股价却重挫创52周新低",
-    "内容": "英伟达发布第三季度财报，营收同比翻倍达到1158亿美元，其中数据中心业务同比增长110%，Vera Rubin平台贡献了近200亿美元收入。尽管核心业务增长强劲，但英伟达股价表现与基本面严重背离，较10月6日历史高点重挫近40%，周四收于145.98美元，创下52周新低。此次股价剧烈调整受多重利空因素叠加影响，包括芯片板块整体抛售、前CEO黄仁勋辞职引发的管理层变动，以及公司治理调查带来的不确定性。市场在评估英伟达时，已将当期营收增速与公司内部治理风险及行业波动共同纳入考量，导致财报利好未能支撑股价走高。",
+    "资讯标题": "腾讯混元Hy4大模型正式全量开源，支持百万上下文并采用MoE架构",
+    "内容": "11月20日，腾讯混元团队正式开源Hy4大模型，相关权重已在GitHub、Hugging Face、ModelScope及GitCode上线，标志着混元LLM系列实现全量开源。Hy4采用MoE混合专家架构，总参数量770B，激活参数49B，支持100万Token上下文窗口。同步开源的还有主打高性价比的Hy4flash模型，其总参数量224B，激活参数12B，支持多模态输入与100万Token上下文。两款模型均采用Apache 2.0协议，允许商业使用与修改。腾讯同步发布了Hy4安全评估卡片，明确训练数据剔除了漏洞利用等攻击性内容，并经腾讯玄武与科恩实验室审计，未发现进攻性能力风险。此次开源覆盖了从旗舰版到高性价比版的完整产品线，为开发者提供了更灵活的部署选择。",
     "发布日期": "2026-11-20",
-    "原文链接": "https://www.aibase.com/zh/news/32429",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32434",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/251646a3fd79fbdf3d24a2b3fcafa612.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/251646a3fd79fbdf3d24a2b3fcafa612.jpg",
+    "配图仓库路径": "assets/news_images/251646a3fd79fbdf3d24a2b3fcafa612.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1120/6393078029198096871268541.png"
   },
   {
     "资讯标题": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
-    "内容": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 20, 2026911 月 19 日，成立不到六年的 Anthropic 登陆纳斯达克（代码 ANT），募资约 813 亿美元，创史上最大 IPO 纪录。发行价 83 美元，首日收报 97.17 美元、涨 17.07%，市值约 1.28 万亿美元，盘中一度摸到 2 万亿。连同 260 亿美元私募，合计募得约 1073 亿美元。9000 亿算力承诺，压着 810 亿 ARR 招股书里更扎眼的是另一组数字：前九个月净亏损超 1040 亿美元，但其中 943 亿只是负债公允价值变动，并非实际支出，经营亏损实为 12.6 亿。",
+    "内容": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 20, 20261711 月 19 日，成立不到六年的 Anthropic 登陆纳斯达克（代码 ANT），募资约 813 亿美元，创史上最大 IPO 纪录。发行价 83 美元，首日收报 97.17 美元、涨 17.07%，市值约 1.28 万亿美元，盘中一度摸到 2 万亿。连同 260 亿美元私募，合计募得约 1073 亿美元。9000 亿算力承诺，压着 810 亿 ARR 招股书里更扎眼的是另一组数字：前九个月净亏损超 1040 亿美元，但其中 943 亿只是负债公允价值变动，并非实际支出，经营亏损实为 12.6 亿。",
     "发布日期": "2026-11-20",
     "原文链接": "https://www.aibase.com/zh/news/32431",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
@@ -30,18 +30,18 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
   },
   {
-    "资讯标题": "OpenAI为ChatGPT上线实时听写功能并取消10分钟语音时长限制",
-    "内容": "OpenAI正式为ChatGPT引入“实时听写”功能，支持用户在语音输入的同时同步查看转写文字，并取消了原有的10分钟录音时长限制。该功能已覆盖网页版、桌面客户端及iOS和Android移动端，正陆续向全球用户推送。在交互体验上，用户点击输入框音频波形按钮即可启动，录音结束后支持直接在输入框内对转写文本进行修改与润色，显著提升了语音输入的即时性与可靠性。相比此前仅面向Plus、Enterprise等付费及工作区用户测试的“录制模式”，此次实时听写功能开放范围更广，旨在降低普通用户的语音交互门槛。此次更新通过优化语音转写流程，进一步强化了ChatGPT在日常办公与长文本口述场景下的实用性。",
+    "资讯标题": "OpenAI向ChatGPT Plus及Business用户开放dots智能助理测试",
+    "内容": "11月20日，OpenAI核心产品负责人宣布，dots智能助理正式开启小范围测试，面向ChatGPT Plus用户及所有Business Standard用户开放。dots的核心差异化在于其内置“云电脑”架构，支持在后台自主执行排议程、构建网站、应用测试及笔记修改等复杂任务，并能通过用户反馈持续优化工作偏好。在权限管理上，用户可逐项设定dots的自主决策边界。同步进行的移动端改版中，dots在底部标签栏获得独立入口，支持将Codex、Projects、Images等功能固定至底部，用户可通过“New ChatGPT Design”开关自由切换新旧界面。此次更新标志着dots从DevDay 2026的演示产品正式迈向实际应用阶段，通过云端自动化能力，将AI助理从对话框扩展至后台工作流。",
     "发布日期": "2026-11-20",
-    "原文链接": "https://www.aibase.com/zh/news/32418",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32430",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9a40695c8f47606013a96c17b4f88324.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9a40695c8f47606013a96c17b4f88324.jpg",
+    "配图仓库路径": "assets/news_images/9a40695c8f47606013a96c17b4f88324.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1120/6393076693757429636356559.png"
   },
   {
     "资讯标题": "Google正式开放Genie4世界模型API，支持实时交互与原生音频生成",
-    "内容": "Google于11月19日通过Gemini API与Google AI Studio正式向付费开发者开放Genie4世界模型（models/genie-4）。该模型依托Gemini Omni视觉渲染与Gemini推理能力，支持从文本或图像生成720p、24fps的连续高清交互世界，并同步输出原生立体声音频。用户可通过WASD键实时移动，响应延迟约0.5秒，并利用文本提示动态调整环境，系统延迟在1至2秒内。技术架构上，Genie4基于WebRTC与WebSocket进行流媒体传输，单次会话上限120秒，并嵌入SynthID水印。API定价为每百万输入令牌1.50美元，视频输出17.50美元，综合流媒体成本约每秒0.10美元。此次商业化落地不仅为交互式原型设计提供工具，也为机器人及AGI智能体提供了高保真的安全训练",
+    "内容": "Google宣布通过Gemini API与Google AI Studio向付费开发者开放Genie4世界模型。该模型依托Gemini Omni视觉渲染与Gemini推理能力，支持从文本或图像生成720p、24fps的连续高清交互世界，并同步输出原生立体声音频。用户可通过WASD或方向键实现约0.5秒延迟的实时移动，并利用文本提示在1至2秒内动态调整环境状态。技术架构上，Genie4基于WebRTC与WebSocket进行流媒体传输，单次会话上限120秒，并嵌入SynthID水印。API定价为每百万输入令牌1.50美元、视频输出17.50美元，综合流媒体成本约每秒0.10美元。此次开放标志着Google DeepMind首个实时世界模型进入第三方应用生态，为交互式原型设计、空间可视化及机器人与AGI智能体训练提",
     "发布日期": "2026-11-20",
     "原文链接": "https://www.aibase.com/zh/news/32424",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/85a834d677cc386765934af65a4ee670.jpg",
