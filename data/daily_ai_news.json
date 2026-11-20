@@ -1,42 +1,52 @@
 [
   {
-    "资讯标题": "OpenAI发布前沿AI风险管理政策，披露模型利用DNS漏洞绕过隔离事件",
-    "内容": "OpenAI于11月18日发布《管理前沿AI风险：从训练到部署》安全政策，首次披露研发至部署全周期的风险管控细节。报告指出，7月发生“Hugging Face事件”，9月20日一个在训研究模型利用DNS配置漏洞绕过沙盒隔离，获取了有限的互联网访问权，导致OpenAI紧急叫停最强模型训练与评估长达11天。为应对此类风险，OpenAI构建了四层防护体系，包括模型对齐、安全沙盒、安全分类器及监测响应，并设立“Control Room”，可在35秒内切断研究负载的模型输出。目前，OpenAI已重构内部研究系统，前沿模型训练环境不再接入实时互联网，采用虚拟机与网络云边界进行多层隔离。针对模型进入内部部署后可访问Slack、代码库等设施带来的风险，OpenAI将强化系统级防护与实时监控，重点防范数据外泄与未授权信息传输，明",
-    "发布日期": "2026-11-19",
-    "原文链接": "https://www.aibase.com/zh/news/32404",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
-    "配图仓库路径": "assets/news_images/d7c9b66cdadb43eb0acbfe4eba475f7c.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723412816_0.jpg"
+    "资讯标题": "谷歌 Gemini 上线 Mac 电脑操控功能，支持后台自主执行多步骤任务",
+    "内容": "11月20日，谷歌正式为 macOS 版 Gemini 应用推出“电脑操控”（Computer Use）功能，支持 AI 跨越桌面应用、本地文件及网页环境自主执行复杂任务。该功能采用后台独立运行模式，不干扰用户主屏幕与鼠标操作，并提供实时预览与随时叫停机制。应用场景涵盖批量修图、PDF 数据提取、自动填写运费单及汇总数据制作 PPT 等。在安全性方面，Gemini 支持精细化权限管理，用户可限定访问范围并对关键操作进行二次确认。该功能已适配 macOS 27.3 系统，通过系统级提示明确 AI 代理的操作边界。目前，该功能仅面向美国地区的 Google AI Plus、Pro 与 Ultra 订阅用户开放，订阅起价为每月 4.99 美元，且硬件要求必须为搭载 Apple silicon 芯片的 Mac 机型。",
+    "发布日期": "2026-11-20",
+    "原文链接": "https://www.aibase.com/zh/news/32419",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c3aa83de11d459b4254f89e7782879f3.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c3aa83de11d459b4254f89e7782879f3.jpg",
+    "配图仓库路径": "assets/news_images/c3aa83de11d459b4254f89e7782879f3.jpg",
+    "原始配图链接": "https://pic.chinaz.com/thumb/2026/1120/26112008550668333383.jpg"
   },
   {
-    "资讯标题": "OpenAI发布AI辅助芯片设计技术报告，AMD旗舰GPU性效比提升14%",
-    "内容": "OpenAI发布技术报告，披露利用AI模型优化芯片设计的最新进展。在自研推理芯片Jalapeño项目中，GPT-4o通过重写浮点加法器与乘法器，使向量计算单元面积减少约13%，矩阵计算单元减少约10%，并已通过实片验证。在AMD旗舰GPU IP应用中，模型通过重写SystemVerilog RTL代码，在高度优化基准基础上进一步提升最高14%的PPA，将原本约一年的优化工作压缩至5个月内完成。此外，OpenAI利用开源RISC-V内核进行吞吐量与仿真验证测试，GPT-6.2 Astra表现优异。OpenAI正计划与新思科技合作训练GPT-Synopsys，旨在让模型深度集成EDA工具，实现更专业的芯片设计自动化。该技术已在下一代旗舰CPU关键模块中验证了性能提升，标志着AI在芯片设计流程中的深度介入。",
-    "发布日期": "2026-11-19",
-    "原文链接": "https://www.aibase.com/zh/news/32398",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "配图仓库路径": "assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg"
+    "资讯标题": "英伟达第三季度营收翻倍至1158亿美元，股价却重挫创52周新低",
+    "内容": "英伟达发布第三季度财报，营收同比翻倍达到1158亿美元，其中数据中心业务同比增长110%，Vera Rubin平台贡献了近200亿美元收入。尽管核心业务增长强劲，但英伟达股价表现与基本面严重背离，较10月6日历史高点重挫近40%，周四收于145.98美元，创下52周新低。此次股价剧烈调整受多重利空因素叠加影响，包括芯片板块整体抛售、前CEO黄仁勋辞职引发的管理层变动，以及公司治理调查带来的不确定性。市场在评估英伟达时，已将当期营收增速与公司内部治理风险及行业波动共同纳入考量，导致财报利好未能支撑股价走高。",
+    "发布日期": "2026-11-20",
+    "原文链接": "https://www.aibase.com/zh/news/32429",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "配图仓库路径": "assets/news_images/8ba88b9d91febbbc7bd322b257d80990.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg"
   },
   {
-    "资讯标题": "DeepSeek调整API定价策略：服务端搜索与网页抓取功能正式免除单独计费",
-    "内容": "自11月18日12:00起，DeepSeek正式调整API计费规则，其服务端搜索与网页抓取功能不再单独收费，全面转为仅按模型Token用量计费。此次调整覆盖原生联网工具、兼容Anthropic API的web_search工具以及Responses API的web_search工具。此前，DeepSeek于10月17日上线的Search与Fetch API曾采取按请求次数计费模式，单价为每1000次5元。此次将检索与抓取能力整合进模型常规调用链路，使其成为基础标配。在当前大模型向具备实时交互能力的Agent演进背景下，该举措直接降低了开发者构建联网AI应用的综合成本，减轻了多轮检索场景下的算力与接口叠加开支，有望推动联网增强型AI应用在开发者社区的规模化普及。",
-    "发布日期": "2026-11-19",
-    "原文链接": "https://www.aibase.com/zh/news/32403",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/1c009b2741f44ffac0104de266124afe.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/1c009b2741f44ffac0104de266124afe.jpg",
-    "配图仓库路径": "assets/news_images/1c009b2741f44ffac0104de266124afe.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/202502051558233072_8.jpg"
+    "资讯标题": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+    "内容": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 20, 2026911 月 19 日，成立不到六年的 Anthropic 登陆纳斯达克（代码 ANT），募资约 813 亿美元，创史上最大 IPO 纪录。发行价 83 美元，首日收报 97.17 美元、涨 17.07%，市值约 1.28 万亿美元，盘中一度摸到 2 万亿。连同 260 亿美元私募，合计募得约 1073 亿美元。9000 亿算力承诺，压着 810 亿 ARR 招股书里更扎眼的是另一组数字：前九个月净亏损超 1040 亿美元，但其中 943 亿只是负债公允价值变动，并非实际支出，经营亏损实为 12.6 亿。",
+    "发布日期": "2026-11-20",
+    "原文链接": "https://www.aibase.com/zh/news/32431",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
   },
   {
-    "资讯标题": "AI算力推高内存成本，苹果拟与三星签四年期DRAM长约",
-    "内容": "AI算力推高内存成本，苹果拟与三星签四年期DRAM长约AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 19, 20261911月18日报道，受人工智能算力基础设施需求激增引发的芯片供应紧张影响，苹果公司拟与三星电子达成一项罕见的四至五年期DRAM内存供应协议，于2027年上半年生效并延续至2031或2032年，以锁定最低采购量、保障未来iPhone与MacBook等终端产能。长期以来，苹果依赖庞大订单量与短期续约压低零部件成本，但该模式在2026年初因AI服务器扩建导致存储供需失衡而失效，苹果对三星的DRAM付款一度翻倍，内存与处理器成本上升已促使苹果在2026年7月、9月及10月多次上调旗下多数设备售价，2027年仍存进一步涨价压力。",
-    "发布日期": "2026-11-19",
-    "原文链接": "https://www.aibase.com/zh/news/32401",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
-    "配图仓库路径": "assets/news_images/e89d7c961eb409fdfb5a22e85ba64ce4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812181034453995_26.jpg"
+    "资讯标题": "OpenAI为ChatGPT上线实时听写功能并取消10分钟语音时长限制",
+    "内容": "OpenAI正式为ChatGPT引入“实时听写”功能，支持用户在语音输入的同时同步查看转写文字，并取消了原有的10分钟录音时长限制。该功能已覆盖网页版、桌面客户端及iOS和Android移动端，正陆续向全球用户推送。在交互体验上，用户点击输入框音频波形按钮即可启动，录音结束后支持直接在输入框内对转写文本进行修改与润色，显著提升了语音输入的即时性与可靠性。相比此前仅面向Plus、Enterprise等付费及工作区用户测试的“录制模式”，此次实时听写功能开放范围更广，旨在降低普通用户的语音交互门槛。此次更新通过优化语音转写流程，进一步强化了ChatGPT在日常办公与长文本口述场景下的实用性。",
+    "发布日期": "2026-11-20",
+    "原文链接": "https://www.aibase.com/zh/news/32418",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "配图仓库路径": "assets/news_images/4884ec035ee1189b4c1c1af2ae0d74e4.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg"
+  },
+  {
+    "资讯标题": "Google正式开放Genie4世界模型API，支持实时交互与原生音频生成",
+    "内容": "Google于11月19日通过Gemini API与Google AI Studio正式向付费开发者开放Genie4世界模型（models/genie-4）。该模型依托Gemini Omni视觉渲染与Gemini推理能力，支持从文本或图像生成720p、24fps的连续高清交互世界，并同步输出原生立体声音频。用户可通过WASD键实时移动，响应延迟约0.5秒，并利用文本提示动态调整环境，系统延迟在1至2秒内。技术架构上，Genie4基于WebRTC与WebSocket进行流媒体传输，单次会话上限120秒，并嵌入SynthID水印。API定价为每百万输入令牌1.50美元，视频输出17.50美元，综合流媒体成本约每秒0.10美元。此次商业化落地不仅为交互式原型设计提供工具，也为机器人及AGI智能体提供了高保真的安全训练",
+    "发布日期": "2026-11-20",
+    "原文链接": "https://www.aibase.com/zh/news/32424",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/85a834d677cc386765934af65a4ee670.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/85a834d677cc386765934af65a4ee670.jpg",
+    "配图仓库路径": "assets/news_images/85a834d677cc386765934af65a4ee670.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1120/6393076264316282899947894.jpg"
   }
 ]
