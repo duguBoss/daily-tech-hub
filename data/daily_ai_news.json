@@ -1,7 +1,17 @@
 [
   {
+    "资讯标题": "谷歌正式向开发者开放 Genie 4 世界模型 API，每分钟调用成本约 6 美元",
+    "内容": "谷歌于11月19日正式向开发者开放世界模型Genie 4，支持通过Gemini API及AI Studio调用。该模型可根据文本、图像或图文组合，即时生成720p、24fps的连续可交互世界，并同步生成环境音与对白，画面响应延迟在0.2至0.5秒之间。Genie 4主要定位交互原型设计、空间可视化及机器人与智能体训练，世界状态由Gemini模型维持连贯性。计费方面，该服务不设免费层，折算后约6.05美元/分钟。官方提示，单次会话上限为120秒，最佳连贯时长为45至90秒，且用户需显式调用complete()或cancel()接口以停止计费。目前该服务仅由美国数据中心提供，暂不支持持久化3D资产，且仅支持16:9横屏格式。同期，谷歌还发布了推理模型Gemini 4 Neon及Robotics插件。",
+    "发布日期": "2026-11-21",
+    "原文链接": "https://www.aibase.com/zh/news/32435",
+    "配图": "",
+    "配图本地路径": "",
+    "配图仓库路径": "",
+    "原始配图链接": "https://upload.chinaz.com/2026/1120/6393078185273998358979849.png"
+  },
+  {
     "资讯标题": "苹果正研发通用型全功能AI代理，计划于2027年底正式发布",
-    "内容": "苹果公司正加速研发一款通用型全功能AI Agent，旨在与OpenAI、Anthropic及Meta等竞品直接对垒，计划于2027年底发布。该项目由软件工程主管Craig Federighi主导，定位远超现有Siri及Apple Intelligence Suite，具备跨应用操作、网页浏览、代码编写、API调用及多步骤任务规划能力。为保障安全，苹果强调构建强权限模型与沙箱机制，延续端侧隐私保护策略。面对Meta Muse及Google Gemini等竞品在Mac端控制能力的渗透，苹果在macOS 27.3测试版中收紧生态权限，将第三方电脑控制工具的接入步骤从4步增加至14步。此举标志着系统级入口争夺战升级，苹果试图通过生态壁垒与自研AI Agent双管齐下，重构端侧AI竞争格局。",
+    "内容": "苹果公司正加速研发一款通用型全功能AI Agent，旨在与OpenAI、Anthropic及Meta等竞品展开竞争，计划于2027年底正式发布。根据招聘信息，该代理定位远超现有Siri及Apple Intelligence Suite，具备跨应用操作、网页浏览、代码编写、API调用及多步骤任务规划能力。项目由软件工程主管Craig Federighi主导，重点构建强权限模型与沙箱机制以保障端侧隐私。面对Meta Muse及谷歌Gemini在Mac端控制能力的竞争，苹果正通过生态壁垒进行防御，包括在macOS 27.3测试版中增加权限警告，并将第三方ChatGPT电脑控制工具的启用步骤从4步增加至14步。此举标志着系统级AI入口争夺战升级，苹果试图通过自研代理重构端侧AI竞争格局。",
     "发布日期": "2026-11-21",
     "原文链接": "https://www.aibase.com/zh/news/32433",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/119548af0d0ca736099893bcd138f7ef.jpg",
@@ -10,8 +20,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202309041107350472_0.jpg"
   },
   {
-    "资讯标题": "腾讯混元Hy4大模型正式全量开源，支持百万上下文与MoE架构",
-    "内容": "11月20日，腾讯混元团队正式开源Hy4大模型，并同步在GitHub、Hugging Face、ModelScope及GitCode上线模型权重，标志着混元LLM系列实现全量开源。Hy4采用MoE混合专家架构，总参数量770B，激活参数49B，支持100万Token上下文窗口。同时开源的还有高性价比版本Hy4flash，其总参数量224B，激活参数12B，支持多模态输入与百万上下文。全系模型均采用Apache 2.0协议，允许商业使用与修改。腾讯官方同步发布了Hy4安全评估卡片，明确训练数据剔除了漏洞利用等攻击性内容，并经玄武与科恩实验室审计，未发现进攻性能力风险。此次开源覆盖了从旗舰版到轻量版的产品矩阵，为开发者提供了更灵活的部署选择，显著降低了企业级应用与二次开发的门槛。",
+    "资讯标题": "腾讯混元Hy4大模型正式全量开源，支持百万上下文并采用MoE架构",
+    "内容": "11月20日，腾讯混元团队正式开源Hy4大模型，相关权重已上线GitHub、Hugging Face、ModelScope及GitCode平台，标志着混元LLM系列实现全量开源。Hy4采用MoE混合专家架构，总参数量770B，激活参数49B，支持100万Token上下文窗口。同步开源的还有主打高性价比的Hy4flash，其总参数量224B，激活参数12B，支持多模态输入与百万上下文。两款模型均采用Apache 2.0协议，允许商业使用与修改。腾讯同步发布了Hy4安全评估卡片，明确训练数据剔除了漏洞利用等攻击性内容，并经玄武与科恩实验室审计，未发现明显进攻性能力风险。此次开源涵盖Hy3preview、Hy3、Hy4preview、Hy4及Hy4flash全系版本，为开发者提供了从旗舰性能到高性价比部署的多元选择。",
     "发布日期": "2026-11-21",
     "原文链接": "https://www.aibase.com/zh/news/32434",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/251646a3fd79fbdf3d24a2b3fcafa612.jpg",
@@ -20,28 +30,18 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1120/6393078029198096871268541.png"
   },
   {
-    "资讯标题": "微信调整短剧审核标准：12月起强制要求提交AI生成全流程证明视频",
-    "内容": "微信短剧内容中心发布公告，宣布自2026年12月1日起实施两项审核新规。首先，短剧单集最低时长要求由45秒上调至1分钟，旨在提升叙事完整性。其次，针对包含AI生成内容的剧集，平台将“AI制作证明视频”由选填调整为必填项。创作者需提交包含资产列表、剧集列表、对应分镜提示词（Prompt）及部分分镜片段的证明材料，支持PDF、JPG、PNG及MP4格式，单文件不超过10MB，最多上传3个。此举旨在通过工程资产核验机制，解决生成式AI应用中常见的素材盗用与版权归属模糊问题。通过强制要求展示AI生成全流程，微信意在引导行业告别野蛮生长，推动AI短剧向规范化、精品化演进，同时减少因工程文件缺失导致的审核打回，提升平台整体审核效率。",
+    "资讯标题": "OpenAI更新ChatGPT移动端界面并扩展Dots功能至更多订阅用户",
+    "内容": "OpenAI于2026年11月20日正式推出ChatGPT移动端全新界面，将Dots功能扩展至ChatGPT Business Standard及部分Plus订阅用户。此次改版将Dots置于主屏幕底部标签页，并允许用户将Codex、Projects和Images等模块固定至底部导航，显著缩短高频功能访问路径。该测试目前面向年满18岁的Pro用户及部分符合条件的Plus用户，暂不覆盖欧洲经济区、英国、瑞士及韩国。此外，OpenAI深化了ChatGPT Health的跨平台能力，现已支持连接Android Health Connect，可读取睡眠与活动数据，并能根据日程冲突自动调整锻炼时段或提醒预防性护理。桌面端同步支持基于健康数据构建自定义训练追踪网站。此次更新标志着ChatGPT正从单一对话窗口向多工具中枢与主",
     "发布日期": "2026-11-21",
-    "原文链接": "https://www.aibase.com/zh/news/32437",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4fd4b30eb28952348d85be073832bdf1.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4fd4b30eb28952348d85be073832bdf1.jpg",
-    "配图仓库路径": "assets/news_images/4fd4b30eb28952348d85be073832bdf1.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202208261016174200_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32436",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/6600e16afd415b6a99a37c7fc1cc7b03.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/6600e16afd415b6a99a37c7fc1cc7b03.jpg",
+    "配图仓库路径": "assets/news_images/6600e16afd415b6a99a37c7fc1cc7b03.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1120/6393078246052359037633194.jpg"
   },
   {
-    "资讯标题": "OpenAI更新ChatGPT移动端界面并扩大Dots测试，接入Android健康数据",
-    "内容": "11月20日，OpenAI正式推送ChatGPT移动端界面改版，核心调整在于将Dots功能独立为底部标签页，并允许用户将Codex、Projects及Images等常用工具自定义固定至底部，以缩短高频功能访问链路。该更新主要面向ChatGPT Pro用户及部分符合条件的Plus用户，但欧洲经济区、英国、瑞士及韩国暂不开放。同时，Dots测试范围进一步扩大，已覆盖部分Plus用户及Business Standard用户。在健康生态方面，ChatGPT现已支持接入Android Health Connect，用户可同步睡眠与活动数据。Dots功能可调用上述健康信息提供主动式建议，如冲突日程提醒或预防性护理建议。此外，用户现可在ChatGPT桌面端基于健康数据搭建个人追踪网页。OpenAI表示，相关功能将按计划逐步向",
-    "发布日期": "2026-11-21",
-    "原文链接": "https://www.aibase.com/zh/news/32443",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2608a7c7bd332ed8fbb1f8c5903b7d56.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2608a7c7bd332ed8fbb1f8c5903b7d56.jpg",
-    "配图仓库路径": "assets/news_images/2608a7c7bd332ed8fbb1f8c5903b7d56.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1120/6393078466226644906071398.png"
-  },
-  {
-    "资讯标题": "90位诺奖及图灵奖得主联名质疑Anthropic安全人设",
-    "内容": "Anthropic于北京时间11月20日正式登陆纳斯达克，IPO募资813亿美元，市值达1.271万亿美元，首日收涨17.07%。然而上市前夕，近90位诺贝尔奖、图灵奖及菲尔兹奖得主联合发布《MisAnthropic Statement》，公开质疑Anthropic的安全人设。联署者提出三重指控：一是批评其在警示递归自我改进AI风险的同时，仍将相关技术作为核心竞争力推进；二是质疑其利用安全形象吸引资本，实则降低安全标准并游说监管以获取竞争优势；三是认为其借公共安全之名垄断AI技术权力。尽管面临学术界与安全研究者的集体质疑，Anthropic仍创下史上最大规模股票发行纪录。此次事件揭示了AI行业在追求商业化扩张与维持安全承诺之间的深层裂痕，将“安全”与“生意”的矛盾直接带入公开市场，对后续AI监管及行业治理产生深",
+    "资讯标题": "Anthropic上市募资813亿美元，遭90位诺奖及图灵奖得主联名质疑安全人设",
+    "内容": "北京时间11月20日，Anthropic正式登陆纳斯达克，IPO募资813亿美元，市值达1.271万亿美元，首日收涨17.07%。然而上市前夕，近90位涵盖诺贝尔奖、图灵奖、菲尔兹奖得主及AI安全研究者联署发布《MisAnthropic Statement》，公开质疑其“安全人设”。联署者提出三重指控：一是Anthropic在警示递归自我改进AI风险的同时，仍将该技术作为核心竞争力推进；二是质疑其利用安全形象吸引资本，实则降低安全标准并游说监管以获取竞争优势；三是批评其借公共安全之名垄断AI技术权力。尽管面临学术界与安全社区的联合抵制，Anthropic仍创下史上最大规模股票发行纪录。此次争议揭示了AI企业在追求商业扩张与维持安全承诺之间的深层矛盾，将“安全”与“生意”的裂缝带入公开市场，引发行业对AI治理与企",
     "发布日期": "2026-11-21",
     "原文链接": "https://www.aibase.com/zh/news/32438",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
