@@ -1,17 +1,7 @@
 [
   {
-    "资讯标题": "谷歌正式向开发者开放世界模型 Genie 4，每分钟调用成本约 6 美元",
-    "内容": "谷歌于11月19日正式向开发者开放世界模型Genie 4，支持通过Gemini API及AI Studio调用。该模型可根据文本、图像或图文组合，实时生成720p、24fps的可交互世界，并同步生成环境音与对白，画面响应延迟在0.2至0.5秒之间。Genie 4主要面向交互原型设计、空间可视化及机器人与智能体训练场景。在技术限制方面，目前仅支持16:9横屏，无持久化3D资产，且单次会话上限为120秒，最佳连贯性维持在45至90秒。计费方面，该服务不设免费层，按Token计费，折算后视频输出成本约为6.05美元/分钟。官方提醒，用户需显式调用complete()或cancel()接口以停止计费，且目前仅由美国数据中心提供服务。同期，谷歌还发布了推理模型Gemini 4 Neon及Robotics插件。",
-    "发布日期": "2026-11-22",
-    "原文链接": "https://www.aibase.com/zh/news/32435",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3715b1972802d48a6b558e7509cbb221.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3715b1972802d48a6b558e7509cbb221.jpg",
-    "配图仓库路径": "assets/news_images/3715b1972802d48a6b558e7509cbb221.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1120/6393078185273998358979849.png"
-  },
-  {
     "资讯标题": "苹果正研发通用型全功能AI代理，计划于2027年底正式发布",
-    "内容": "苹果公司正加速研发一款通用型全功能AI Agent，旨在与OpenAI、Anthropic及Meta等竞品直接对标，计划于2027年底正式发布。该项目由软件工程主管Craig Federighi主导，定位远超现有Siri及Apple Intelligence Suite。其核心技术涵盖跨应用操作、网页浏览、代码编写与调试、API调用及多步骤任务规划。为确保安全性，苹果将构建强权限模型与沙箱机制，延续端侧隐私保护策略。面对Meta Muse及谷歌Gemini等竞品在Mac端控制能力的快速渗透，苹果正通过收紧生态权限进行防御，例如在macOS 27.3测试版中大幅增加第三方AI工具的授权步骤。此举标志着系统级入口争夺战升级，苹果试图通过生态壁垒与自研AI代理双管齐下，重构端侧AI竞争格局。",
+    "内容": "苹果公司正加速研发一款通用型全功能AI Agent，旨在与OpenAI、Anthropic及Meta等竞品直接竞争，预计于2027年底发布。该项目由软件工程主管Craig Federighi主导，定位远超现有Siri及Apple Intelligence Suite。其核心技术涵盖跨应用操作、网页浏览、代码编写、API调用及多步骤任务规划，并强调强权限模型与沙箱机制下的端侧隐私保护。面对Meta Muse及谷歌Gemini在Mac端控制能力的竞争，苹果正通过收紧macOS生态权限及增加第三方工具调用门槛来构建壁垒。此举标志着系统级AI入口争夺战升级，苹果试图通过自研代理与生态控制双管齐下，重构端侧AI竞争格局。受此消息影响，Meta与Anthropic股价出现波动。",
     "发布日期": "2026-11-22",
     "原文链接": "https://www.aibase.com/zh/news/32433",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/119548af0d0ca736099893bcd138f7ef.jpg",
@@ -20,8 +10,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/202309041107350472_0.jpg"
   },
   {
-    "资讯标题": "腾讯混元Hy4大模型正式全量开源，支持百万上下文与MoE架构",
-    "内容": "11月20日，腾讯混元团队正式宣布Hy4大模型全量开源，模型权重已同步上线GitHub、Hugging Face、ModelScope及GitCode平台。此次开源标志着混元LLM系列实现全系开放，涵盖Hy3系列及Hy4系列。旗舰版Hy4采用MoE混合专家架构，总参数量770B，激活参数49B，支持100万Token上下文窗口。同步开源的还有高性价比版本Hy4flash，总参数量224B，激活参数12B，支持多模态输入及100万Token上下文。两款模型均采用Apache 2.0协议，允许商业使用与修改。腾讯同步发布了Hy4安全评估卡片，明确训练数据剔除了漏洞利用等攻击性内容，并经腾讯玄武与科恩实验室审计，确保模型安全性。此次全量开源为开发者提供了更灵活的部署选择，助力企业级应用落地与二次开发。",
+    "资讯标题": "腾讯混元Hy4大模型全量开源，支持百万上下文并采用MoE架构",
+    "内容": "11月20日，腾讯混元团队正式宣布Hy4大模型全量开源，模型权重已上线GitHub、Hugging Face、ModelScope及GitCode平台。此次开源标志着混元LLM系列全系开放，涵盖Hy3、Hy4及Hy4flash等版本。旗舰版Hy4采用MoE混合专家架构，总参数量770B，激活参数49B，支持100万Token上下文窗口。同步开源的Hy4flash主打高性价比，总参数量224B，激活参数12B，同样支持多模态输入与100万Token上下文。两款模型均采用Apache 2.0协议，允许商业使用与修改。腾讯官方同步发布了模型安全评估卡片，明确训练数据剔除了漏洞利用等攻击性内容，并经由腾讯玄武与科恩实验室审计，确保模型安全性。此次开源为开发者提供了更宽松的二次开发环境，有助于企业级应用落地。",
     "发布日期": "2026-11-22",
     "原文链接": "https://www.aibase.com/zh/news/32434",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/251646a3fd79fbdf3d24a2b3fcafa612.jpg",
@@ -31,7 +21,7 @@
   },
   {
     "资讯标题": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-    "内容": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 20, 202643北京时间 11 月 20 日凌晨，Anthropic 登陆纳斯达克，IPO 募资 813 亿美元，超越 SpaceX 的 750 亿美元纪录，成为史上最大规模股票发行，首日收涨 17.07%，市值 1.271 万亿美元。但比开盘钟声更早响起的，是一封联署公开信——上市前夕，一份名为《MisAnthropic Statement》的声明流传开来，矛头直指这家公司的“安全人设”。诺奖、图灵奖、菲尔兹奖罕见同框 联署名单近 90 人，覆盖平时观点相左的多个阵营：诺贝尔奖、图灵奖、菲尔兹奖得主，AI 安全研究者，开源社区代表，甚至还有加速主义人士。",
+    "内容": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 20, 202644北京时间 11 月 20 日凌晨，Anthropic 登陆纳斯达克，IPO 募资 813 亿美元，超越 SpaceX 的 750 亿美元纪录，成为史上最大规模股票发行，首日收涨 17.07%，市值 1.271 万亿美元。但比开盘钟声更早响起的，是一封联署公开信——上市前夕，一份名为《MisAnthropic Statement》的声明流传开来，矛头直指这家公司的“安全人设”。诺奖、图灵奖、菲尔兹奖罕见同框 联署名单近 90 人，覆盖平时观点相左的多个阵营：诺贝尔奖、图灵奖、菲尔兹奖得主，AI 安全研究者，开源社区代表，甚至还有加速主义人士。",
     "发布日期": "2026-11-22",
     "原文链接": "https://www.aibase.com/zh/news/32438",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
@@ -40,13 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
   },
   {
-    "资讯标题": "微信12月起强制要求AI短剧提交生成全流程证明视频并上调时长门槛",
-    "内容": "微信短剧内容中心发布公告，将于2026年12月1日起正式实施两项审核新规。首先，平台将短剧单集最低时长门槛由45秒上调至1分钟，旨在提升叙事完整性。其次，针对包含AI生成内容的剧集，强制要求提交“AI制作证明视频”。该证明材料需完整展示AI生成全流程，具体涵盖资产列表、剧集列表、对应分镜的提示词（Prompt）及部分分镜播放画面，支持PDF、JPG、PNG及MP4格式，单文件不超过10MB，最多上传3个。此举旨在通过提示词与工程资产核验机制，解决生成式AI在微短剧领域带来的素材盗用与版权归属模糊问题。通过强化工程文件核验，微信不仅能有效减少因资料缺失导致的审核回退，提升审核效率，还将推动AI短剧行业向规范化与精品化演进，确保内容原创真实性。",
+    "资讯标题": "微信调整短剧审核标准：12月起强制要求提交AI生成全流程证明视频",
+    "内容": "微信短剧内容中心发布公告，宣布自2026年12月1日起实施两项审核新规。首先，平台将短剧单集最低时长门槛由45秒上调至1分钟，旨在提升叙事连贯性与用户观看体验。其次，针对包含AI生成内容的剧集，平台将“AI制作证明视频”由选填转为必填项。创作者需提交包含资产列表、剧集列表、分镜对应提示词（Prompt）及部分分镜片段的证明材料，支持PDF、JPG、PNG及MP4格式，单文件不超过10MB，最多上传3个。此举旨在通过工程资产核验机制，解决生成式AI在微短剧领域带来的素材盗用与版权归属模糊问题。通过强制要求展示AI生成全流程，微信意在规范行业内容生产，减少因工程文件缺失导致的审核打回，推动AI短剧向精品化与合规化方向演进。",
     "发布日期": "2026-11-22",
     "原文链接": "https://www.aibase.com/zh/news/32437",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4fd4b30eb28952348d85be073832bdf1.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4fd4b30eb28952348d85be073832bdf1.jpg",
     "配图仓库路径": "assets/news_images/4fd4b30eb28952348d85be073832bdf1.jpg",
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202208261016174200_0.jpg"
+  },
+  {
+    "资讯标题": "OpenAI更新ChatGPT移动端界面并扩大Dots测试与健康数据接入",
+    "内容": "OpenAI于11月20日对ChatGPT移动端进行界面改版，并扩大Dots测试范围及接入Android Health Connect。新版界面将Dots独立为底部标签页，支持用户将Codex、Projects和Images等常用功能自定义固定至底部，以缩短访问链路。该改版主要面向ChatGPT Pro用户及部分Plus用户，但欧洲经济区、英国、瑞士和韩国暂不支持。Dots测试范围已从Pro订阅用户扩展至部分Plus及Business Standard用户。在健康生态方面，ChatGPT现已支持连接Android Health Connect，可调用睡眠、活动量等数据。Dots能基于这些健康信息提供主动式建议，如冲突提醒或预防性护理建议。此外，用户现可在ChatGPT桌面应用中利用健康数据搭建个人追踪网页。Op",
+    "发布日期": "2026-11-22",
+    "原文链接": "https://www.aibase.com/zh/news/32443",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2608a7c7bd332ed8fbb1f8c5903b7d56.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2608a7c7bd332ed8fbb1f8c5903b7d56.jpg",
+    "配图仓库路径": "assets/news_images/2608a7c7bd332ed8fbb1f8c5903b7d56.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1120/6393078466226644906071398.png"
   }
 ]
