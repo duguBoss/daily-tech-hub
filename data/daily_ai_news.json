@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "谷歌Gemini上线GIF生成功能并发布Gemini 4Neon模型",
-    "内容": "谷歌于11月21日为Gemini正式上线GIF生成功能，该功能由视频模型Gemini Omni 1.2 Flash驱动，支持用户通过提示词直接生成循环动态图或表情包。用户可通过主聊天界面或图像与视频工具使用。目前，该功能已向所有Google AI订阅用户开放，并在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国向免费用户提供。此外，谷歌于11月18日推出Gemini 4Neon模型，主攻复杂编程、科研及企业工作流。该模型提供四档推理级别，API定价为输入每百万token 3美元、输出15美元，缓存输入仅需0.15美元。Google AI Pro或Ultra订阅用户现已可在Gemini应用中使用Gemini 4Neon，该模型旨在平衡推理能力、处理速度与成本。",
+    "资讯标题": "谷歌Gemini上线GIF生成功能，由Gemini Omni 1.2 Flash模型驱动",
+    "内容": "谷歌于11月21日为Gemini正式上线GIF生成功能，该功能由视频模型Gemini Omni 1.2 Flash驱动，支持用户通过自然语言描述直接生成循环动态图或表情包。用户可通过主聊天界面输入提示词，或在图像与视频工具中选择GIF格式进行创作。目前，该功能已面向所有Google AI订阅用户开放，并率先在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国的免费用户中启用。此外，谷歌于11月18日推出主攻复杂编程与科研的Gemini 4 Neon模型，该模型提供四档推理级别，API输入定价为每百万token 3美元，输出为15美元，缓存输入为0.15美元。Gemini 4 Neon现已向开发者、企业及Google AI Pro/Ultra订阅用户开放，旨在平衡推理能力、处理速度与成本。",
     "发布日期": "2026-11-23",
     "原文链接": "https://www.aibase.com/zh/news/32465",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c11dc5367b71d70767eeeca6d87bac41.jpg",
@@ -10,43 +10,33 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1123/6393103843736001244098049.png"
   },
   {
-    "资讯标题": "甲骨文完成OpenAI订单融资并确认GPT-6 Astra已启动训练",
-    "内容": "甲骨文于11月20日宣布，已筹集到履行OpenAI合同所需的全部资金，后续无需额外融资。在基础设施建设方面，双方合作的旗舰项目得州Abilene园区已投入GPT-6 Astra的训练，整体接近完工；下一个吉瓦级项目Shackelford已获全部许可；英伟达Vera Rubin机架交付正按计划推进，预计未来几周完成。针对重资产投入的回报周期，甲骨文明确FY2028下半年将实现正自由现金流，并设定FY2029自由现金流超300亿美元的目标，届时将实现由自有资金支撑增长。此举旨在回应市场对算力大单垫资模式的质疑，证明其在支撑OpenAI高强度算力需求的同时，具备稳健的财务造血能力。",
+    "资讯标题": "调用量霸榜三十周，赚钱还差一关：国产模型的两张榜单",
+    "内容": "调用量霸榜三十周，赚钱还差一关：国产模型的两张榜单AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 23, 202632.5kOpenRouter 周榜呈现矛盾：11 月 16 至 22 日全球大模型总调用量 210 万亿 Token，环比增 8.25%。中国模型处理量连续第 30 周压过美国居首，但花钱榜的主角仍是海外模型。流量榜：前九占六席 厂商层面，DeepSeek、智谱、腾讯包揽前四：DeepSeek V4.1-Flash-1017 连续五周居首，周调用 65 万亿 Token。自家 V4.1 Flash 15.4 万亿居次。智谱 GLM 5.3 Flash 12.2 万亿第三。",
     "发布日期": "2026-11-23",
-    "原文链接": "https://www.aibase.com/zh/news/32457",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "配图仓库路径": "assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32467",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/661912c2918980694f530a5fd4b70dfc.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/661912c2918980694f530a5fd4b70dfc.jpg",
+    "配图仓库路径": "assets/news_images/661912c2918980694f530a5fd4b70dfc.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271635326771_0.jpg"
   },
   {
-    "资讯标题": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器",
-    "内容": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 23, 20267OpenAI 首席科学家雅库布·帕霍茨基眼中的大模型，本质是一台压缩器：先造大计算机，在无结构数据上训练出压缩器，再靠提示、微调、强化学习激发潜力。而度量其进步的尺子多年未变——困惑度，即预测下一个 token 的准确程度，数值越低越准。11 月 22 日他发文主张：就用这把尺子给前沿模型开发画一道可核验的限速线。答案一个个冒出来的那个晚上 过去一年多，OpenAI 持续用未解数学难题考模型。当升级到对数困惑度约 0.76 的模型后，长期悬置的开放数学难题答案，竟在同一 Slack 线程里接连出现——对做数学的人而言“感觉很不真实”。",
+    "资讯标题": "蚂蚁百灵医疗健康大模型家族全面开源，发布四款覆盖多模态理解与医疗安全模型",
+    "内容": "蚂蚁百灵医疗健康大模型家族正式全面开源，推出LingSante-3.1-air-VL、LingSante-3.1-flash、LingSante Pulse及LingSante MedGuard四款模型。LingSante-3.1-air-VL为多模态模型，支持图文视频理解，总参数124B但激活参数仅5.5B，适配本地设备部署。LingSante-3.1-flash总参数560B，支持1M Token上下文，具备复杂医学推理与证据核验能力，适用于专业医疗机构。LingSante Pulse专注于150余项疾病的未来六年风险预测，LingSante MedGuard则负责医疗安全、合规及伦理风险防护。此次开源为开发者与医疗机构提供了涵盖健康信息理解、医学推理、风险预测及安全防护的完整AI工具箱，推动医疗AI技术在",
     "发布日期": "2026-11-23",
-    "原文链接": "https://www.aibase.com/zh/news/32466",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e04697974a600f1e7a108e5b45fcb2e4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e04697974a600f1e7a108e5b45fcb2e4.jpg",
-    "配图仓库路径": "assets/news_images/e04697974a600f1e7a108e5b45fcb2e4.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1123/6393103990979648965151938.png"
+    "原文链接": "https://www.aibase.com/zh/news/32469",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
+    "配图仓库路径": "assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307181418295015_2.jpg"
   },
   {
-    "资讯标题": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
-    "内容": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 23, 202621MiniMax 的研究团队让自家的最新内部模型，干了一件此前几乎只有顶级密码学家敢想的事——对密码学前沿方案发起系统性的自动化密码分析。结果出乎意料地硬核:模型发现了一批此前从未公开的算法构造弱点，并把一些原本只停留在论文理论层面、纸上谈兵的攻击方式，一路推进到了秒级或分钟级就能真实执行的状态。也就是说，过去需要耗费大量人力时间、未必跑得通的攻击，如今被 AI 现场跑通了。战果铺开在三条主线上。",
+    "资讯标题": "Thinking Machines Lab开源26.4B循环Transformer模型Inkling2Mini",
+    "内容": "Thinking Machines Lab正式开源循环Transformer架构模型Inkling2Mini，该模型通过在中间12层对每个token循环运行三次，实现“多想少说”的推理优化。Inkling2Mini总参数26.4B，激活参数5.4B，支持文本与图像输入及1M token上下文窗口。在性能方面，该模型在ARC-AGI-2及SWE-Bench Pro v2Hard等基准测试中表现优异，超越同尺寸模型。部署方面，模型采用Apache 2.0许可，支持vLLM、Ollama及Unsloth 1-bit量化，最低仅需9GB内存即可在笔记本上运行。针对循环架构带来的可监测性担忧，官方开源了可变循环研究版本，并提供NDIF白盒访问指南，允许用户干预模型内部激活。该模型已登顶Hugging Face趋势榜，适用",
     "发布日期": "2026-11-23",
-    "原文链接": "https://www.aibase.com/zh/news/32456",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
-    "配图仓库路径": "assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202501150943267809_0.jpg"
-  },
-  {
-    "资讯标题": "Cursor开发商Anysphere向美国国会表态：有意逐步淘汰中国开源大模型",
-    "内容": "AI代码编辑器Cursor开发商Anysphere近日向美国国会提交报告，明确表示有意研究并逐步放弃使用中国公司的开源AI大模型。尽管目前尚未设定明确的全面停用时间表，但此举正值美国官方对本国企业使用中国开源模型进行调查的敏感时期。Cursor今年业务增长的核心驱动力，在于基于月之暗面Kimi K2.5基座模型打造的Composer2模型，该产品显著提升了用户量与编程体验。若彻底剥离中国大模型基座，Cursor将面临高昂的自研训练成本与时间损耗。行业分析认为，随着xAI以600亿美元收购Cursor，其未来基座模型大概率将转向Grok系列。此次表态被视为Cursor在监管压力下进行的战略调整，旨在通过逐步去中国化以符合美国政策导向，尽管其当前技术底座仍高度依赖中国开源生态。",
-    "发布日期": "2026-11-23",
-    "原文链接": "https://www.aibase.com/zh/news/32461",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/36291cef14512cad797ff97f8f54ee4b.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/36291cef14512cad797ff97f8f54ee4b.jpg",
-    "配图仓库路径": "assets/news_images/36291cef14512cad797ff97f8f54ee4b.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606091418429760_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32475",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9f3c40ed08ed9a82daa602cab01372ef.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9f3c40ed08ed9a82daa602cab01372ef.jpg",
+    "配图仓库路径": "assets/news_images/9f3c40ed08ed9a82daa602cab01372ef.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307261637362209_5.jpg"
   }
 ]
