@@ -1,47 +1,47 @@
 [
   {
-    "资讯标题": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将“显著扩大”",
-    "内容": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将“显著扩大”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 23, 20261411月接连端出 Hy4和 Hy4flash 之后，腾讯开始用一场长达120分钟的直面问答，来回应外界“AI 慢了”的质疑。11月21日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨带着团队成员现身技术社区 Reddit，在 AMA（Ask Me Anything）里回答了近百个问题，把混元的研发方向和底牌摊开给开发者看。参数规模是被追问最多的痛点。字节、Kimi 都在向上万亿参数推进，混元为什么还停在7000亿左右。",
+    "资讯标题": "谷歌Gemini上线GIF生成功能并发布Gemini 4Neon模型",
+    "内容": "谷歌于11月21日为Gemini正式上线GIF生成功能，该功能由视频模型Gemini Omni 1.2 Flash驱动，支持用户通过提示词直接生成循环动态图或表情包。用户可通过主聊天界面或图像与视频工具使用。目前，该功能已向所有Google AI订阅用户开放，并在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国向免费用户提供。此外，谷歌于11月18日推出Gemini 4Neon模型，主攻复杂编程、科研及企业工作流。该模型提供四档推理级别，API定价为输入每百万token 3美元、输出15美元，缓存输入仅需0.15美元。Google AI Pro或Ultra订阅用户现已可在Gemini应用中使用Gemini 4Neon，该模型旨在平衡推理能力、处理速度与成本。",
     "发布日期": "2026-11-23",
-    "原文链接": "https://www.aibase.com/zh/news/32460",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
-    "配图仓库路径": "assets/news_images/be4b1431b360d9ee498f60b9a23ac46f.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604241547318068_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32465",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c11dc5367b71d70767eeeca6d87bac41.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c11dc5367b71d70767eeeca6d87bac41.jpg",
+    "配图仓库路径": "assets/news_images/c11dc5367b71d70767eeeca6d87bac41.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1123/6393103843736001244098049.png"
   },
   {
-    "资讯标题": "智谱下周发布 GLM-5.4 模型，3 万亿参数旗舰 GLM-5.5 预计 12 月推出",
-    "内容": "智谱将于下周发布新一代大模型 GLM-5.4，并计划在 12 月推出参数规模超 3 万亿的旗舰模型 GLM-5.5。GLM-5.4 参数规模约为 7000 亿，目前已在小范围进行 Preview 测试。该模型旨在填补现役产品线空缺，解决 GLM-5.3 不支持多模态以及 GLM-5.3 Flash 性能落后的问题，预计将接任主力模型位置。从行业竞争格局看，智谱此次更新距离上次发布已间隔近 100 天。尽管 GLM-5.4 在性能上较前代有明显进步，但业内普遍认为其在与国际顶尖模型（如 Opus 5.5 或 Gemini 4 Argon）的竞争中仍面临挑战。12 月发布的 GLM-5.5 被视为智谱的关键布局，旨在通过超大规模参数在部分场景下实现对标。当前国产大模型面临融资环境趋紧及算力资源限制等多重压力，此次产",
+    "资讯标题": "甲骨文完成OpenAI订单融资并确认GPT-6 Astra已启动训练",
+    "内容": "甲骨文于11月20日宣布，已筹集到履行OpenAI合同所需的全部资金，后续无需额外融资。在基础设施建设方面，双方合作的旗舰项目得州Abilene园区已投入GPT-6 Astra的训练，整体接近完工；下一个吉瓦级项目Shackelford已获全部许可；英伟达Vera Rubin机架交付正按计划推进，预计未来几周完成。针对重资产投入的回报周期，甲骨文明确FY2028下半年将实现正自由现金流，并设定FY2029自由现金流超300亿美元的目标，届时将实现由自有资金支撑增长。此举旨在回应市场对算力大单垫资模式的质疑，证明其在支撑OpenAI高强度算力需求的同时，具备稳健的财务造血能力。",
     "发布日期": "2026-11-23",
-    "原文链接": "https://www.aibase.com/zh/news/32458",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3cc1e26c3c8da5129a7c68bf22527a9f.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3cc1e26c3c8da5129a7c68bf22527a9f.jpg",
-    "配图仓库路径": "assets/news_images/3cc1e26c3c8da5129a7c68bf22527a9f.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1123/6393102456992812256010008.png"
+    "原文链接": "https://www.aibase.com/zh/news/32457",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
+    "配图仓库路径": "assets/news_images/2cb8beb2512d5a53b38af86ce5743167.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061719358642_0.jpg"
   },
   {
-    "资讯标题": "微软CEO纳德拉承认VS Code受Claude Code冲击，正加速集成AI智能体功能",
-    "内容": "微软CEO纳德拉近日公开承认，Anthropic推出的Claude Code在半年内改变了开发者的编程范式，使代码编写从“输入”转向“输出”，导致传统IDE地位受到挑战。面对这一行业变局，微软正通过快速迭代应对，VS Code已于11月密集更新：1.146版本引入智能体收件箱与模型对比功能；1.147版本进一步增加模型路由机制，支持根据任务需求从偏好模型中选型，并新增定时提交智能体请求及浏览器集成。纳德拉指出，未来IDE的核心将从手动编写代码转向编写MD说明文档，微软正通过新一代决策模型推动IDE复兴。此次调整标志着VS Code正从传统的代码编辑器向深度集成AI Agent的开发平台转型，以应对Cursor等竞品带来的生态竞争压力。",
+    "资讯标题": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器",
+    "内容": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 23, 20267OpenAI 首席科学家雅库布·帕霍茨基眼中的大模型，本质是一台压缩器：先造大计算机，在无结构数据上训练出压缩器，再靠提示、微调、强化学习激发潜力。而度量其进步的尺子多年未变——困惑度，即预测下一个 token 的准确程度，数值越低越准。11 月 22 日他发文主张：就用这把尺子给前沿模型开发画一道可核验的限速线。答案一个个冒出来的那个晚上 过去一年多，OpenAI 持续用未解数学难题考模型。当升级到对数困惑度约 0.76 的模型后，长期悬置的开放数学难题答案，竟在同一 Slack 线程里接连出现——对做数学的人而言“感觉很不真实”。",
     "发布日期": "2026-11-23",
-    "原文链接": "https://www.aibase.com/zh/news/32451",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/049dadf42e5f697b56c1bd53c8e01875.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/049dadf42e5f697b56c1bd53c8e01875.jpg",
-    "配图仓库路径": "assets/news_images/049dadf42e5f697b56c1bd53c8e01875.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305240833497043_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32466",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e04697974a600f1e7a108e5b45fcb2e4.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e04697974a600f1e7a108e5b45fcb2e4.jpg",
+    "配图仓库路径": "assets/news_images/e04697974a600f1e7a108e5b45fcb2e4.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1123/6393103990979648965151938.png"
   },
   {
-    "资讯标题": "OpenAI首席科学家提议全行业为模型开发设限，以困惑度作为能力红线",
-    "内容": "OpenAI首席科学家雅库布·帕乔茨基提议，AI行业应共同设定模型开发限制，在研究人员具备充分监控与理解能力前，禁止突破特定的能力界限。该提议的核心抓手是“困惑度”（Perplexity）指标，即通过衡量模型预测文本的能力，将模型性能增长与人类监控水平挂钩。帕乔茨基警告，AI可能在2027年进入自我进化加速期，若监控技术滞后，人类将失去对模型的控制。OpenAI CEO奥特曼对此表示高度支持，称其为公司近期最重要的内容，认为共同限制有助于确保安全与控制。微软AI CEO苏莱曼亦公开响应，宣布微软完全支持该透明度倡议。目前该方案尚未明确初始限制水平及具体实施时间表，行业能否达成共识并建立统一的红线标准，仍取决于其他头部玩家的参与意愿。",
+    "资讯标题": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+    "内容": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 23, 202621MiniMax 的研究团队让自家的最新内部模型，干了一件此前几乎只有顶级密码学家敢想的事——对密码学前沿方案发起系统性的自动化密码分析。结果出乎意料地硬核:模型发现了一批此前从未公开的算法构造弱点，并把一些原本只停留在论文理论层面、纸上谈兵的攻击方式，一路推进到了秒级或分钟级就能真实执行的状态。也就是说，过去需要耗费大量人力时间、未必跑得通的攻击，如今被 AI 现场跑通了。战果铺开在三条主线上。",
     "发布日期": "2026-11-23",
-    "原文链接": "https://www.aibase.com/zh/news/32454",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
-    "配图仓库路径": "assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202405110933330041_0.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32456",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
+    "配图仓库路径": "assets/news_images/9abdfe9eeff39f5692cc055327d0e05b.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202501150943267809_0.jpg"
   },
   {
     "资讯标题": "Cursor开发商Anysphere向美国国会表态：有意逐步淘汰中国开源大模型",
-    "内容": "Cursor开发商Anysphere近日向美国国会提交报告，明确表示有意研究并逐步放弃使用中国公司的开源AI大模型，目前尚未设定具体的全面停用时间表。此举正值美国官方调查美企使用中国开源模型之际。Cursor今年业务增长的核心动力源于基于月之暗面Kimi K2.5基座模型打造的Composer2，该产品显著提升了其编程能力并带动用户量爆发。尽管Anysphere目前依赖Kimi K2.5作为技术地基，但随着xAI以600亿美元收购Cursor，未来其基座模型预计将逐步转向xAI旗下的Grok系列。对于行业而言，此次表态反映了地缘政治压力下AI供应链的潜在重构，若彻底剥离中国开源模型，Cursor将面临高昂的自研训练成本或技术迁移挑战，短期内可能影响其产品迭代效率与性能表现。",
+    "内容": "AI代码编辑器Cursor开发商Anysphere近日向美国国会提交报告，明确表示有意研究并逐步放弃使用中国公司的开源AI大模型。尽管目前尚未设定明确的全面停用时间表，但此举正值美国官方对本国企业使用中国开源模型进行调查的敏感时期。Cursor今年业务增长的核心驱动力，在于基于月之暗面Kimi K2.5基座模型打造的Composer2模型，该产品显著提升了用户量与编程体验。若彻底剥离中国大模型基座，Cursor将面临高昂的自研训练成本与时间损耗。行业分析认为，随着xAI以600亿美元收购Cursor，其未来基座模型大概率将转向Grok系列。此次表态被视为Cursor在监管压力下进行的战略调整，旨在通过逐步去中国化以符合美国政策导向，尽管其当前技术底座仍高度依赖中国开源生态。",
     "发布日期": "2026-11-23",
     "原文链接": "https://www.aibase.com/zh/news/32461",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/36291cef14512cad797ff97f8f54ee4b.jpg",
