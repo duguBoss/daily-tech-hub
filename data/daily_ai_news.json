@@ -1,42 +1,42 @@
 [
   {
-    "资讯标题": "谷歌Gemini上线GIF生成功能，由Gemini Omni 1.2 Flash模型驱动",
-    "内容": "谷歌于11月21日为Gemini正式上线GIF生成功能，该功能由视频模型Gemini Omni 1.2 Flash驱动，支持用户通过自然语言描述直接生成循环动态图或表情包。用户可通过主聊天界面输入提示词，或在图像与视频工具中选择GIF格式进行创作。目前，该功能已面向所有Google AI订阅用户开放，并率先在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国的免费用户中启用。此外，谷歌于11月18日推出主攻复杂编程与科研的Gemini 4 Neon模型，该模型提供四档推理级别，API输入定价为每百万token 3美元，输出为15美元，缓存输入为0.15美元。Gemini 4 Neon现已向开发者、企业及Google AI Pro/Ultra订阅用户开放，旨在平衡推理能力、处理速度与成本。",
-    "发布日期": "2026-11-23",
-    "原文链接": "https://www.aibase.com/zh/news/32465",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/c11dc5367b71d70767eeeca6d87bac41.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/c11dc5367b71d70767eeeca6d87bac41.jpg",
-    "配图仓库路径": "assets/news_images/c11dc5367b71d70767eeeca6d87bac41.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1123/6393103843736001244098049.png"
+    "资讯标题": "黄仁勋官复原职：英伟达董事会一周内戏剧性逆转，股价应声大涨 31%",
+    "内容": "黄仁勋官复原职：英伟达董事会一周内戏剧性逆转，股价应声大涨 31%AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 24, 202621一场围绕英伟达最高权力归属的拉锯，在不到一周的时间里出现了彻底反转。NVIDIA 董事会投票一致通过，恢复黄仁勋的总裁、CEO 及董事职务，消息公布后，股价随即大涨31%。而就在几天前，事情还完全是另一副模样——董事长哈维·琼斯（Harvey Jones）还向投资者明确表示，董事会无意让他回归。促成这次逆转的，是几股力量同时到位。董事会解释，后续的会谈让他们对黄仁勋的坦诚感到满意。与此同时，美国政府高层官员向董事会保证，他的回归不构成国家安全风险。",
+    "发布日期": "2026-11-24",
+    "原文链接": "https://www.aibase.com/zh/news/32490",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bed78301d8259252ffea81705af96e3a.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bed78301d8259252ffea81705af96e3a.jpg",
+    "配图仓库路径": "assets/news_images/bed78301d8259252ffea81705af96e3a.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202209210842315468_0.jpg"
   },
   {
-    "资讯标题": "调用量霸榜三十周，赚钱还差一关：国产模型的两张榜单",
-    "内容": "调用量霸榜三十周，赚钱还差一关：国产模型的两张榜单AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 23, 202632.5kOpenRouter 周榜呈现矛盾：11 月 16 至 22 日全球大模型总调用量 210 万亿 Token，环比增 8.25%。中国模型处理量连续第 30 周压过美国居首，但花钱榜的主角仍是海外模型。流量榜：前九占六席 厂商层面，DeepSeek、智谱、腾讯包揽前四：DeepSeek V4.1-Flash-1017 连续五周居首，周调用 65 万亿 Token。自家 V4.1 Flash 15.4 万亿居次。智谱 GLM 5.3 Flash 12.2 万亿第三。",
-    "发布日期": "2026-11-23",
-    "原文链接": "https://www.aibase.com/zh/news/32467",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/661912c2918980694f530a5fd4b70dfc.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/661912c2918980694f530a5fd4b70dfc.jpg",
-    "配图仓库路径": "assets/news_images/661912c2918980694f530a5fd4b70dfc.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271635326771_0.jpg"
+    "资讯标题": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+    "内容": "告别“抽卡式”AI绘图。商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 24, 20266在AI图像生成领域，开发者与创作者长期面临一个难以回避的痛点:模型生成的画面往往“乍看惊艳，细看翻车”——尤其是文字乱码、排版崩坏、光影逻辑错误等细节问题，让AI绘图长期停留在“盲盒抽奖”阶段，难以直接投入商业生产。近日，商汤科技正式发布并开源 SenseNova U1.6原生多模态模型，直击这一行业痼疾。该模型延续了 U 系列“理解与生成统一”的范式，并首次为8B 级别的开源模型引入了“原生图像自修正”能力，标志着AI绘图正从“单向生成”迈向“闭环质检”的工业化新阶段。",
+    "发布日期": "2026-11-24",
+    "原文链接": "https://www.aibase.com/zh/news/32496",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/3eabceafb469d332ba0c01de640efa18.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/3eabceafb469d332ba0c01de640efa18.jpg",
+    "配图仓库路径": "assets/news_images/3eabceafb469d332ba0c01de640efa18.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1124/6393112571444445815551576.png"
   },
   {
-    "资讯标题": "蚂蚁百灵医疗健康大模型家族全面开源，发布四款覆盖多模态理解与医疗安全模型",
-    "内容": "蚂蚁百灵医疗健康大模型家族正式全面开源，推出LingSante-3.1-air-VL、LingSante-3.1-flash、LingSante Pulse及LingSante MedGuard四款模型。LingSante-3.1-air-VL为多模态模型，支持图文视频理解，总参数124B但激活参数仅5.5B，适配本地设备部署。LingSante-3.1-flash总参数560B，支持1M Token上下文，具备复杂医学推理与证据核验能力，适用于专业医疗机构。LingSante Pulse专注于150余项疾病的未来六年风险预测，LingSante MedGuard则负责医疗安全、合规及伦理风险防护。此次开源为开发者与医疗机构提供了涵盖健康信息理解、医学推理、风险预测及安全防护的完整AI工具箱，推动医疗AI技术在",
-    "发布日期": "2026-11-23",
-    "原文链接": "https://www.aibase.com/zh/news/32469",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
-    "配图仓库路径": "assets/news_images/a6315d9ca34cd01d8d64b38d0f4ce411.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307181418295015_2.jpg"
+    "资讯标题": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
+    "内容": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 24, 202615漏洞爆发到补丁落地之间的那段真空期，一直是安全世界最难受的时刻——系统要么硬着头皮裸奔，要么停机等待修复。OpenAI 在11月24日给出的答案，是联手思科推出开源项目 Shirudo:一款开源 Linux 运行时环境，能让 AI 智能体在系统完全不用停机的前提下，直接对其实施防护。Shirudo 的核心技术打法，是让 AI 智能体编写动态 eBPF 防护规则——eBPF 是 Linux 内核里一种能在不修改内核、不重启系统的前提下动态注入安全逻辑的技术，恰好天生适合“边跑边设防”这件事。",
+    "发布日期": "2026-11-24",
+    "原文链接": "https://www.aibase.com/zh/news/32489",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
+    "配图仓库路径": "assets/news_images/40228632a3893ece841b3cb4f05c2fbb.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202604171707346148_0.jpg"
   },
   {
-    "资讯标题": "Thinking Machines Lab开源26.4B循环Transformer模型Inkling2Mini",
-    "内容": "Thinking Machines Lab正式开源循环Transformer架构模型Inkling2Mini，该模型通过在中间12层对每个token循环运行三次，实现“多想少说”的推理优化。Inkling2Mini总参数26.4B，激活参数5.4B，支持文本与图像输入及1M token上下文窗口。在性能方面，该模型在ARC-AGI-2及SWE-Bench Pro v2Hard等基准测试中表现优异，超越同尺寸模型。部署方面，模型采用Apache 2.0许可，支持vLLM、Ollama及Unsloth 1-bit量化，最低仅需9GB内存即可在笔记本上运行。针对循环架构带来的可监测性担忧，官方开源了可变循环研究版本，并提供NDIF白盒访问指南，允许用户干预模型内部激活。该模型已登顶Hugging Face趋势榜，适用",
-    "发布日期": "2026-11-23",
-    "原文链接": "https://www.aibase.com/zh/news/32475",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/9f3c40ed08ed9a82daa602cab01372ef.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/9f3c40ed08ed9a82daa602cab01372ef.jpg",
-    "配图仓库路径": "assets/news_images/9f3c40ed08ed9a82daa602cab01372ef.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202307261637362209_5.jpg"
+    "资讯标题": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+    "内容": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 24, 202633开源100天，MiniMax 的 H3交出了生态成绩单:开发者们把1个 H3变成了1472个衍生模型，对应1472种具体需求和用法，总下载量超过1.48亿次——平均每秒就有超过17次下载发生，而且新的衍生模型还在源源不断地出现。MiniMax 用一篇长文把这段历程总结成 H3Family，并宣布将持续开源，把 AI 时代多模态创作的代表性社区做下去。H3已经成了连接爱好者、开发者和商业公司的起点。",
+    "发布日期": "2026-11-24",
+    "原文链接": "https://www.aibase.com/zh/news/32493",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/51af869466e3890a8cd7f0bce422ad7f.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/51af869466e3890a8cd7f0bce422ad7f.jpg",
+    "配图仓库路径": "assets/news_images/51af869466e3890a8cd7f0bce422ad7f.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1124/6393111724384596745113680.png"
   }
 ]
