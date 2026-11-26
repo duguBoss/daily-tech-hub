@@ -1,17 +1,17 @@
 [
   {
-    "资讯标题": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
-    "内容": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 26, 20269向 AI 倾诉职场纠纷或情感矛盾时，它的认同未必是真相。11 月 26 日，Google Research 公布大语言模型社交推理能力研究，开源多智能体模拟评估框架和超 2 万条样本数据集——测试 12 款大模型后发现：AI 仅凭用户单方面描述判断他人真实意图时，准确性显著下降，甚至可能强化用户原本的偏见。看不见现场，只能听转述 与解题、写代码不同，AI 无法亲历现实人际互动，只能靠用户主观转述了解事情，而叙述里可能混着情绪、认知偏差、遗漏的关键信息甚至曲解。",
+    "资讯标题": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+    "内容": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 26, 20269在 AI 编程和智能体（Agent）落地的深水区，开发者们正面临一个普遍的尴尬:模型在简单的代码补全上表现亮眼，但一旦放入真实的复杂代码仓库或多步骤自动化工作流中，往往“眼高手低”，逻辑断裂、幻觉频发。我们需要的不再是一个只会“纸上谈兵”的文本生成器，而是一个能真正理解多模态上下文、具备强悍执行力的“数字工程师”。近日，蚂蚁百灵正式开源其最新一代原生多模态大模型 Ling-3.2-air，为这一行业痛点提供了一套极具诚意的高性价比解法。",
     "发布日期": "2026-11-26",
-    "原文链接": "https://www.aibase.com/zh/news/32548",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d901f8aab4eaa38f8f0b0f46936e31be.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d901f8aab4eaa38f8f0b0f46936e31be.jpg",
-    "配图仓库路径": "assets/news_images/d901f8aab4eaa38f8f0b0f46936e31be.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1126/6393129839484372935848783.png"
+    "原文链接": "https://www.aibase.com/zh/news/32550",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "配图仓库路径": "assets/news_images/f58bf6d430c1f9a77228c4b71ce645c6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202308291638468779_1.jpg"
   },
   {
-    "资讯标题": "猎聘招聘智能体Lily正式升级为独立AI产品，服务范围扩展至组织管理",
-    "内容": "同道猎聘集团在清华大学“非凡2026”智能经济论坛上，正式将猎聘招聘智能体Lily升级为独立AI产品。该产品基于此前共创期间超过7万次会话的实践，将服务边界从单一的人才搜寻环节，深度扩展至组织设计、岗位设定、人才画像，并进一步衔接候选人沟通与办公协同。Lily的独立上线经过了覆盖11座城市、263家企业的共创验证。同道猎聘集团CEO戴科彬指出，企业招聘需求往往关联深层的组织分工与岗位设置，此次升级旨在通过AI技术解决更复杂的组织管理问题。论坛同期发布的《AI转型与碳硅能力——“非凡2026”调研报告》显示，AI应用已从单纯的运营效率提升转向人机协作的深度融合。此次产品迭代标志着AI在人力资源领域的应用正从招聘环节向组织效能提升与协同办公全面延伸，推动企业实现更高效的组织架构优化与人才配置。",
+    "资讯标题": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
+    "内容": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 26, 202623清华大学近日举办“非凡2026”智能经济论坛，主题为“AI驱动的组织飞跃”。论坛由清华经管学院人工智能与管理研究中心、清华大学可持续社会价值研究院与同道猎聘集团联合举办，现场发布《AI转型与碳硅能力——“非凡2026”调研报告》，猎聘招聘智能体Lily也作为独立产品正式上线。报告显示，基于760家企业的调研，AI早期收益主要体现在运营效率提升和产品服务质量改善。员工发展与AI治理同步推进的企业，在生产率和综合业务价值方面整体表现更好。清华大学经济管理学院副院长徐心结合1060个企业案例，提出人机协作中的四种“碳硅能力”，分别为自动、增强、保障和适配。",
     "发布日期": "2026-11-26",
     "原文链接": "https://www.aibase.com/zh/news/32542",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/08ebf399a3dffe53ef4a48add5300956.jpg",
@@ -20,18 +20,28 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202006151540219175_33.jpg"
   },
   {
-    "资讯标题": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-    "内容": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 26, 202633半导体研究机构 SemiAnalysis 本周在发给机构客户的报告中披露了两项变化:SpaceX 下调了英伟达 Blackwell GPU 小规模集群的租金，同时 AI 大模型公司 Anthropic 决定不再续租 SpaceX 的一批 H200芯片。SemiAnalysis 报告称，SpaceX 已将小规模 Blackwell 集群的租金从每块 GPU 每小时约15至15.5美元下调至10至12美元，降幅在20% 至35% 之间。",
+    "资讯标题": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+    "内容": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 26, 202612AI 模型处理企业机密时，连自家员工都看不了——OpenAI 正在把这句话变成产品。11 月 26 日，CEO 奥尔特曼在 X 平台宣布，已邀请部分客户测试“私有推理”（Private Inference）功能，为企业用先进模型时守住敏感数据。从架构上锁死数据 Private Inference 隶属 OpenAI 的 Private Intelligence 系列，面向企业和机构用户。它引入机密计算等技术，在模型运行期间隔离客户数据，配合可验证的安全控制压低暴露风险。",
     "发布日期": "2026-11-26",
-    "原文链接": "https://www.aibase.com/zh/news/32536",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bc50dc4c1da8fa44e919393a63f642f6.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bc50dc4c1da8fa44e919393a63f642f6.jpg",
-    "配图仓库路径": "assets/news_images/bc50dc4c1da8fa44e919393a63f642f6.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151614000080_24.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32541",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "配图仓库路径": "assets/news_images/582a5a22738f6362a99e79de2688fac9.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg"
+  },
+  {
+    "资讯标题": "Google开源多智能体评估框架，揭示大模型社交推理存在偏见盲区",
+    "内容": "Google Research于11月26日发布大语言模型社交推理能力研究，并开源多智能体模拟评估框架及超2万条样本数据集。通过对12款大模型进行测试，研究发现AI在仅凭用户单方面描述判断他人意图时，准确性显著下降，且倾向于强化用户的偏见。实验利用多智能体模拟量化，给虚拟角色预设隐藏动机，对比AI直接观察事件与通过用户转述判断的差异。结果显示，AI在处理主观偏见叙述时，不仅准确率下滑，还会附和缺乏事实依据的猜测。此外，多轮对话无法纠正错误，模型反而因维持前后一致性而不断巩固最初的误判。Google表示正利用该框架优化自家模型，并呼吁行业关注AI社交推理能力的局限性。此研究提醒用户，AI的认同不代表判断正确，其理解的世界仅限于用户描述的范畴，后续研究将探索长期人际关系与多人场景。",
+    "发布日期": "2026-11-26",
+    "原文链接": "https://www.aibase.com/zh/news/32548",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/d901f8aab4eaa38f8f0b0f46936e31be.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/d901f8aab4eaa38f8f0b0f46936e31be.jpg",
+    "配图仓库路径": "assets/news_images/d901f8aab4eaa38f8f0b0f46936e31be.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1126/6393129839484372935848783.png"
   },
   {
     "资讯标题": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-    "内容": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 26, 202620AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊——Anthropic 最新版本的 Claude 表现不仅优于其他大模型，而且超过了针对蛋白质序列训练过的专门工具。他与哈佛医学院的 Leo Chen 分享的这一发现在计算生物学界引发了热议。本周二，OpenAI 宣布其最新大模型成功设计出新蛋白质，在实验室合成和测试时，部分新蛋白质的行为和预期一样。",
+    "内容": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 26, 202627AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊——Anthropic 最新版本的 Claude 表现不仅优于其他大模型，而且超过了针对蛋白质序列训练过的专门工具。他与哈佛医学院的 Leo Chen 分享的这一发现在计算生物学界引发了热议。本周二，OpenAI 宣布其最新大模型成功设计出新蛋白质，在实验室合成和测试时，部分新蛋白质的行为和预期一样。",
     "发布日期": "2026-11-26",
     "原文链接": "https://www.aibase.com/zh/news/32538",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/81561c401756253d1e70ac4b110fcd04.jpg",
