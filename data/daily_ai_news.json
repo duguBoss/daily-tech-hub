@@ -1,37 +1,37 @@
 [
   {
-    "资讯标题": "韩国公平交易委员会审查苹果，指控iPhone 16广告误导消费者",
-    "内容": "韩国公平交易委员会近日正式对苹果发起审查，指控其在iPhone 16广告中存在误导行为。监管机构认为，广告画面暗示Genmoji、Image Playground及具备个人背景理解能力的Siri等功能已可用，但实际交付存在严重滞后。以Siri为例，其个人背景理解能力原定于2025年4月在韩国推出，实际推迟至2026年10月上线，延期长达18个月。苹果官方回应称，自Apple Intelligence支持韩语以来已上线多项功能，近期亦推出了支持韩语的Siri AI，公司正配合调查并进行辩护。此前，苹果曾因Apple Intelligence功能可用性表述不清，在美国面临国家广告部门问询及2.5亿美元的集体诉讼和解。此次韩国监管介入，标志着苹果在全球范围内因分阶段推送AI功能而面临的合规压力持续升级。",
+    "资讯标题": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+    "内容": "跟 AI 聊一句花多少钱。DeepSeek 灰度测试“消耗额度”，把账单摊在你面前AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 27, 202670免费的 AI 聊天，背后每句话都在烧钱——DeepSeek 决定把这本账摊开。11 月 26 日起，部分用户反馈其网页端和 App 正在灰度测试“显示本轮消耗额度”功能：完成一轮对话后，界面弹出详情页，展示本次交互消耗的 Token 数与估算金额，价格与 API 持平。个人对话依然免费，但单次对话的计算成本从此可见。一毛钱的账，拆成三笔 从用户截图看，额度按“空闲时段”价格估算，计费拆成三个维度：输入缓存命中部分单价 0.02 元 / 百万 tokens，本轮用量约 18.5 万，折合 0.0037 元。",
     "发布日期": "2026-11-27",
-    "原文链接": "https://www.aibase.com/zh/news/32561",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/54d9b10d637fb48c58e1b624a805a8e4.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/54d9b10d637fb48c58e1b624a805a8e4.jpg",
-    "配图仓库路径": "assets/news_images/54d9b10d637fb48c58e1b624a805a8e4.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202606091001083137_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32557",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
+    "配图仓库路径": "assets/news_images/dbd8258dd3c8d4d98c4d605ceca02ad6.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202502051558199227_0.jpg"
   },
   {
-    "资讯标题": "腾讯混元开源草稿模型DFly2，助力Hy4 flash实现4.2倍推理提速",
-    "内容": "11月26日，腾讯混元正式开源新一代草稿模型DFly2，该模型专为DSA类稀疏注意力大模型及长上下文场景设计，旨在不替换Hy4 flash模型权重的前提下，通过外挂组件方式实现推理加速，单项最高提速达4.2倍。DFly2核心技术在于极致复用目标模型资源，通过KV Share与Index Share机制，使每个draft token仅关注至多2048个key，注意力复杂度与上下文长度解耦，且无需额外显存开销。在19个公开评测集中，DFly2在长文与Agentic任务中的接收长度与加速比表现优于DFlash与DSpark，平均加速比分别提升约12%与30%。该模型对PD分离架构友好，仅需在P到D阶段额外传输末层隐状态。目前，DFly2的权重及完整训练代码已同步上架GitHub与HuggingFace，为开发者提供更",
+    "资讯标题": "腾讯混元发布Hy3D 3.6模型，实现原生3D生成并接入工业生产管线",
+    "内容": "11月27日，腾讯混元正式发布新一代原生3D生成模型Hy3D 3.6。该模型通过底层架构重构，解决了传统AI生成模型网格拓扑混乱、UV不可用及材质缺乏物理真实感等痛点，使生成的3D资产具备“即插即用”的工业级品质。技术上，Hy3D 3.6采用VAE+DiT架构，直接学习3D资产的几何与纹理分布，并结合SFT与DPO偏好对齐优化，支持生成高质量PBR材质贴图，适用于角色、生物及复杂道具创作。目前，该模型已通过腾讯云Token Hub提供API服务，并深度接入腾讯AI创意智能体Miora、游戏资产生成平台LAP及影视AI平台WorkRally。Hy3D 3.6的发布标志着AI 3D生成从“2D拼凑”转向“原生3D学习”，旨在打通从AI生成到Maya、Blender及Unreal Engine等专业生产工作流的最后一",
     "发布日期": "2026-11-27",
-    "原文链接": "https://www.aibase.com/zh/news/32555",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/acc11dd320b9acb835221967e90505a2.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/acc11dd320b9acb835221967e90505a2.jpg",
-    "配图仓库路径": "assets/news_images/acc11dd320b9acb835221967e90505a2.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1126/6393131057472560608391882.png"
+    "原文链接": "https://www.aibase.com/zh/news/32569",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8d99fb89f856083f6a809190c773c3db.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8d99fb89f856083f6a809190c773c3db.jpg",
+    "配图仓库路径": "assets/news_images/8d99fb89f856083f6a809190c773c3db.jpg",
+    "原始配图链接": "https://upload.chinaz.com/2026/1127/6393138889358794589520898.png"
   },
   {
-    "资讯标题": "瑞士联邦网络安全局通报五起AI智能体网络攻击事件，四起关键基础设施被入侵",
-    "内容": "瑞士联邦网络安全局（BACS）于11月26日通报，过去几天内瑞士发生五起由AI智能体发起的网络攻击，其中四起成功入侵目标系统。受影响对象涵盖电力、供水及通信服务等关键基础设施运营方。此次事件标志着AI智能体已从辅助编写恶意软件演变为具备自主规划、多步执行及工具调用能力的攻击工具，能够自动化完成侦察与渗透链条。BACS指出，AI智能体显著降低了攻击门槛，使原本需要专业团队执行的操作变得更易发起。目前官方未披露具体攻击手法、幕后主体及损失细节，但已建议相关企业立即落实网络安全防护手段，并定期开展安全检测。此次事件凸显了关键基础设施在面对AI驱动的自动化攻击时，正面临前所未有的安全挑战。",
+    "资讯标题": "SAP拟裁员至少1万人以推进AI优先战略，重点波及产品工程与销售部门",
+    "内容": "欧洲软件巨头SAP正制定新一轮重组计划，拟削减至少1万个岗位，约占其全球员工总数的9%。此次裁员重点聚焦产品与工程及销售部门，旨在全面转向“AI优先”战略，将AI工具深度嵌入企业应用软件。尽管SAP今年三季度总营收同比增长13%至102.7亿欧元，云业务收入大增26%，但公司仍决定通过组织架构调整优化资源配置。这是SAP三年内第二次启动万人级重组，此前2024年1月已进行过同等规模的裁员。CFO Dominik Asam此前暗示员工人数增长趋势需逆转。目前SAP官方未直接置评，仅表示将持续审视组织架构以确保与战略及客户需求一致。此次人事变动伴随着执行董事会的密集换血，预计具体方案将在明年1月的业绩发布会上进一步明确。",
     "发布日期": "2026-11-27",
-    "原文链接": "https://www.aibase.com/zh/news/32560",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/94912c87f0916d804beb9ff7872035f0.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/94912c87f0916d804beb9ff7872035f0.jpg",
-    "配图仓库路径": "assets/news_images/94912c87f0916d804beb9ff7872035f0.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202306161513254632_1.jpg"
+    "原文链接": "https://www.aibase.com/zh/news/32571",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/273d5f15835d88f2e3c6d7dee4134883.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/273d5f15835d88f2e3c6d7dee4134883.jpg",
+    "配图仓库路径": "assets/news_images/273d5f15835d88f2e3c6d7dee4134883.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201812181034444931_25.jpg"
   },
   {
     "资讯标题": "OpenAI发布预印本证明矩阵乘法最优算法指数ω恰为9/4",
-    "内容": "OpenAI于11月24日发布预印本，正式宣称已证明矩阵乘法指数ω恰好等于9/4。该证明通过将10月证得的上界ω≤9/4与此次证得的下界ω≥9/4合拢，确立了矩阵乘法理论最优算法的渐进幂指数。矩阵乘法指数ω刻画了当矩阵规模n趋于无穷大时，两个n×n矩阵相乘所需算术运算次数的增长速度。若该证明成立，意味着对于任意X>9/4，存在复杂度为O(n^X)的算法；而对于任意Y<9/4，则不存在复杂度为O(n^Y)的算法。OpenAI强调，ω作为渐进量，其理论结论与实际应用中的常数因子、内存访问、并行计算及硬件架构等因素存在区别。目前，相关预印本已上传至OpenAI的GitHub math仓库，该成果对机器学习及图像处理等依赖矩阵运算的领域具有重要的理论参考价值。",
+    "内容": "OpenAI于11月24日发布预印本，正式宣布证明矩阵乘法指数ω恰好等于9/4。该证明通过合并今年10月得出的ω≤9/4结论与此次证实的ω≥9/4，实现了上下界的闭合。矩阵乘法指数ω刻画了当矩阵规模n趋于无穷大时，两个n×n矩阵相乘所需算术运算次数的渐进幂指数，是衡量算法复杂度的核心指标。若该证明成立，意味着对于任意X＞9/4，存在算法使运算次数不超过CX·n^X；而对于任意Y＜9/4，则不存在算法能将运算次数压至CY·n^Y以内。OpenAI强调，ω作为渐进量，其理论最优性在机器学习及图像处理等领域具有重要意义，但实际应用性能仍受硬件结构、内存访问及并行计算等常数因子影响。目前，相关预印本已上传至OpenAI的GitHub math仓库，供行业研究与验证。",
     "发布日期": "2026-11-27",
     "原文链接": "https://www.aibase.com/zh/news/32564",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f39d013c609928964b3655cf21265248.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "资讯标题": "OpenAI修复GPT-6.2计费错误，Astra与Sol模型额度消耗分别增加40%与25%",
-    "内容": "11月27日，OpenAI确认GPT-6.2模型上线初期存在计费逻辑错误，导致Astra与Sol模型套餐额度被错误折扣。修复后，完成相同工作量所需的额度显著增加，其中Astra用户触及上限速度加快40%，Sol加快25%。OpenAI Codex与ChatGPT负责人Thibault Sottiaux强调，尽管额度消耗回归正常，但两款模型相比上一代仍具备更高使用效率。此次错误未波及其他模型，且官方不追溯差额。作为补偿，Go、Plus、Pro及Business套餐用户将获得一次额度重置机会，Business用户在12月31日前可免费使用Fast Mode。此外，OpenAI正小范围测试Chat与Work模式的合并体验，旨在优化智能体执行复杂任务时的切换效率。",
+    "内容": "OpenAI于11月27日紧急修复了GPT-6.2模型上线初期的计费错误。此前，用户在使用Astra和Sol模型时，套餐额度被错误地按折扣价计算。修复后，完成相同工作量所需的额度增加，导致Astra用户触及上限的速度加快40%，Sol用户加快25%。OpenAI Codex与ChatGPT负责人Thibault Sottiaux强调，尽管消耗增加，但这两款模型相比上一代仍具备更高的额度使用效率。此次错误未波及其他模型，且OpenAI不追溯此前少计的差额。作为补偿，Go、Plus、Pro及Business套餐用户将获得一次额度重置机会，Business用户在12月31日前可免费使用Fast Mode。此外，OpenAI正小范围测试Chat与Work模式的合并体验，旨在优化智能体执行多步骤任务的交互流程。",
     "发布日期": "2026-11-27",
     "原文链接": "https://www.aibase.com/zh/news/32559",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/4dd755b64da7d8ada7c3fbf028ebda74.jpg",
