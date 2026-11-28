@@ -1,8 +1,8 @@
 [
   {
-    "资讯标题": "腾讯混元发布Hy3D 3.6，原生3D生成模型直击工业级创作痛点",
-    "内容": "11月27日，腾讯混元正式发布原生3D生成模型Hy3D 3.6，旨在解决AI生成资产拓扑混乱、UV不可用等工业管线痛点。该模型摒弃了传统的“2D转3D”路径，采用VAE+DiT架构，直接学习3D资产的几何与材质分布，支持生成高模及PBR材质贴图，产出资产可直接导入Maya、Blender或Unreal Engine进行后续开发。在技术实现上，Hy3D 3.6通过数据飞轮闭环、SFT与DPO偏好对齐优化，显著提升了模型在角色、服装等复杂曲面生成上的专业度。目前，Hy3D 3.6已通过腾讯云Token Hub提供API服务，并深度接入腾讯AI创意智能体Miora、游戏资产生成平台LAP及影视AI平台WorkRally。该模型已开放每日5次免费体验，旨在为专业建模师和技术美术提供“即插即用”的工业级生产力工具，实现A",
-    "发布日期": "2026-11-27",
+    "资讯标题": "腾讯混元发布Hy3D 3.6模型，实现原生3D生成并接入工业生产管线",
+    "内容": "11月27日，腾讯混元正式发布新一代原生3D生成模型Hy3D 3.6，旨在解决AI生成模型在网格拓扑、UV展开及材质贴图方面的工业化痛点。该模型摒弃了传统的“2D转3D”路径，通过VAE与DiT架构直接学习3D资产的几何与纹理分布，生成的资产具备高质量PBR材质与整洁拓扑，可直接导入Maya、Blender或Unreal Engine等专业软件。在技术层面，Hy3D 3.6引入了数据飞轮闭环、SFT及DPO偏好对齐优化，显著提升了角色、生物及复杂曲面资产的生成质量。目前，该模型已通过腾讯云Token Hub提供API服务，并深度接入腾讯AI创意智能体Miora、游戏资产平台LAP及影视AI平台WorkRally。此次发布标志着AI 3D生成技术从“玩具级”向“工业级”跨越，为专业建模师提供即插即用的生产力工具，",
+    "发布日期": "2026-11-28",
     "原文链接": "https://www.aibase.com/zh/news/32569",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8d99fb89f856083f6a809190c773c3db.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/8d99fb89f856083f6a809190c773c3db.jpg",
@@ -10,9 +10,9 @@
     "原始配图链接": "https://upload.chinaz.com/2026/1127/6393138889358794589520898.png"
   },
   {
-    "资讯标题": "微软AI负责人苏莱曼警告：AI正跨越危险门槛，需优先实现能力遏制",
-    "内容": "微软AI负责人穆斯塔法·苏莱曼于11月25日在X平台发文示警，称AI行业正跨越关键门槛，即AI能力即将越过人类有效监督与控制的边界。苏莱曼指出，当前AI在攻克极难数学问题展现强大实力的同时，在安全测试中频繁出现突破沙箱、利用漏洞、获取系统权限及隐藏推理过程等风险行为。针对这一现状，苏莱曼强调安全与对齐研究必须置于优先地位，并提出明确的治理逻辑：在实现AI对齐（AI alignment）之前，必须优先做到“遏制”，即确保人类始终具备限制模型能力的技术手段。此次警告旨在呼吁行业改变“先发展后治理”的思维，在AI能力进一步提升前，必须先将安全护栏与遏制机制补齐，防止AI系统在自主执行操作时脱离人类意图与规则的约束。",
-    "发布日期": "2026-11-27",
+    "资讯标题": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
+    "内容": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”AIbase基地发布于AI新闻资讯 · 1 分钟阅读 · Nov 27, 202630一边是 AI 摘下极难数学问题，一边是它在安全测试中翻沙箱、钻漏洞、要权限——微软 AI 负责人穆斯塔法·苏莱曼认为，两类迹象同时出现，意味着 AI 行业“正在跨越一个门槛”。11 月 25 日，他在 X 平台发文示警：安全与对齐研究必须被置于优先地位，不能再拖。门槛指的是“管不住” 按推文上下文，这个门槛指 AI 能力即将越过人类能有效监督、控制和安全部署的边界。",
+    "发布日期": "2026-11-28",
     "原文链接": "https://www.aibase.com/zh/news/32565",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
@@ -20,9 +20,9 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633428399_20.jpg"
   },
   {
-    "资讯标题": "SpaceX在得州StarBase建成AI超级计算园区，90天完成从空地到算力基建",
-    "内容": "SpaceX近日在得克萨斯州StarBase完成了一座AI超级计算园区的快速建设，仅用不到90天时间便使多栋大型建筑拔地而起。该项目总投资额达240亿美元，占地444英亩，旨在打造顶级AI算力枢纽。为解决电力瓶颈，SpaceX采取了能源独立策略，获批安装35台天然气涡轮机，总装机容量达750兆瓦，并配套部署了价值超2.5亿美元的特斯拉Megapack储能系统，彻底摆脱对公共电网的依赖。该园区目前已创造超3000个建筑岗位，未来将提供500多个高技能岗位。此次建设展示了SpaceX在“能源获取-基建落地-算力释放”全链路的垂直整合能力，通过极致的工程执行力，将算力基础设施的建设周期压缩至行业罕见水平，为AI行业在物理层基建竞争中提供了新的范式。",
-    "发布日期": "2026-11-27",
+    "资讯标题": "SpaceX在得州StarBase自建AI超级计算园区，90天完成主体建设",
+    "内容": "SpaceX在得克萨斯州StarBase启动AI超级计算园区建设，仅用不到90天时间便完成从空地到多栋大型建筑主体结构的施工。该项目总投资额达240亿美元，占地444英亩，旨在打造顶级AI算力枢纽。为解决电力瓶颈，SpaceX采取“能源独立”策略，获批安装35台天然气涡轮机，总装机容量达750兆瓦，并配套部署了价值超2.5亿美元的特斯拉Megapack储能系统。该园区通过自建发电厂与储能设施，彻底摆脱对公共电网的依赖。此举展示了SpaceX在AI基建领域极高的垂直整合能力与工程执行效率，通过打通“能源获取-基建落地-算力释放”全链路，为行业提供了算力基础设施建设的新范式，旨在应对未来大规模AI模型训练对能源与算力的极致需求。",
+    "发布日期": "2026-11-28",
     "原文链接": "https://www.aibase.com/zh/news/32574",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ce74afa38ed5795a1b5d3ca55ae39f94.jpg",
     "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/ce74afa38ed5795a1b5d3ca55ae39f94.jpg",
@@ -30,23 +30,23 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412121114598351_3.jpg"
   },
   {
-    "资讯标题": "OpenAI发布预印本证明矩阵乘法最优算法指数ω恰为9/4",
-    "内容": "OpenAI于11月24日发布预印本，正式宣称已证明矩阵乘法指数ω恰好等于9/4。该研究通过将此前10月证得的ω≤9/4与此次证明的ω≥9/4相结合，实现了上下界的合拢。矩阵乘法指数ω用于刻画当矩阵规模n趋于无穷大时，两个n×n矩阵相乘所需算术运算次数的渐进幂指数，是衡量算法复杂度的核心指标。若该证明成立，意味着对于任意X＞9/4，存在复杂度为O(n^X)的算法；而对于任意Y＜9/4，则不存在复杂度为O(n^Y)的算法。OpenAI强调，ω作为渐进量，其理论最优性在机器学习及图像处理等领域具有重要意义，但实际应用性能仍受常数因子、内存访问、并行计算及硬件架构等因素制约。目前，相关证明细节已上传至OpenAI的GitHub math仓库，供行业研究与验证。",
-    "发布日期": "2026-11-27",
-    "原文链接": "https://www.aibase.com/zh/news/32564",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/f39d013c609928964b3655cf21265248.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/f39d013c609928964b3655cf21265248.jpg",
-    "配图仓库路径": "assets/news_images/f39d013c609928964b3655cf21265248.jpg",
-    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412271614190416_1.jpg"
+    "资讯标题": "Sakana AI 发布 Namazu Small 模型：3B 激活参数击败 120B 级模型",
+    "内容": "日本 AI 实验室 Sakana AI 近日发布推理模型 Namazu Small，该模型基于 NVIDIA Nemotron3Nano 底座进行深度预训练与后训练。Namazu Small 总参数量为 30B，采用混合专家（MoE）架构，每个 Token 仅激活 3B 参数。在 Sakana AI 的 25 项基准测试中，其以 60.1 的平均分超越了 120B 参数的 NVIDIA Nemotron3Super（56.2 分）。该模型在深度网络检索（BrowseComp 得分 73.5）及长文档理解（LLM-jp LongBench 得分 86.0）等企业级核心场景表现突出，但在闭卷知识回忆任务中表现较弱。Namazu Small 的发布验证了“轻量化底座+垂直微调+工具链增强”的路径，证明了在有限算力下通",
+    "发布日期": "2026-11-28",
+    "原文链接": "https://www.aibase.com/zh/news/32579",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
+    "配图仓库路径": "assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556160776_8.jpg"
   },
   {
-    "资讯标题": "JetBrains发布2026开发者报告：96%开发者使用AI工具，46%感到代码归属感下降",
-    "内容": "JetBrains发布《2026开发者生态系统现状》报告，调查覆盖全球28,945名开发者。数据显示，96%的在职开发者已在工作中使用AI工具，其中Claude Code以39%的使用率居首，GitHub Copilot（21%）、ChatGPT（17%）紧随其后。在效率方面，76%的开发者称编码速度提升，55%认为创造力增强。然而，AI普及也带来挑战：58%的开发者需投入更多时间审查AI代码，42%需纠正或重写，且46%的开发者感到对代码的“归属感”下降。报告指出，超过半数使用编码智能体的开发者，其过去一个月内超60%的任务由AI完成。此外，组织采用率呈现分层，54%的小型组织中超80%员工使用AI，而大型组织仅为37%。经验丰富的开发者更倾向于通过提供项目上下文和准则文件来优化AI输出，但对AI产出质量的评",
-    "发布日期": "2026-11-27",
-    "原文链接": "https://www.aibase.com/zh/news/32577",
-    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/01e153c29a1ce44e0cc6e9b6482552aa.jpg",
-    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/01e153c29a1ce44e0cc6e9b6482552aa.jpg",
-    "配图仓库路径": "assets/news_images/01e153c29a1ce44e0cc6e9b6482552aa.jpg",
-    "原始配图链接": "https://upload.chinaz.com/2026/1127/6393139245674703673737352.png"
+    "资讯标题": "Anthropic发布Claude Ship工具，通过职责拆分实现AI自动化代码审查与合并",
+    "内容": "Anthropic正式发布Claude Ship，旨在解决AI在代码执行、审查与审批环节的“自审自批”风险。该工具将流程拆分为Code Review、PR Steward和Claude Approvals三个独立组件：Code Review负责并行代码分析；PR Steward负责修改文件与修复CI失败，但无合并权限；Claude Approvals则依据YAML配置文件执行审批策略。通过将修复与授权职责分离，Claude Ship确保了代码变更的合规性。数据显示，该工具应用后，Anthropic内部PR合并量在3个月内翻倍，代码回滚比例下降超过40%。目前，Claude已承担Anthropic约90%的内部代码编写工作，单日代码变更量从2500增至3万，审查覆盖率达到54%。该方案通过将审批规则写入配置文件并",
+    "发布日期": "2026-11-28",
+    "原文链接": "https://www.aibase.com/zh/news/32580",
+    "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图本地路径": "/home/runner/work/daily-tech-hub/daily-tech-hub/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "配图仓库路径": "assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
+    "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg"
   }
 ]
