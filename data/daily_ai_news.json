@@ -1,7 +1,7 @@
 [
   {
-    "资讯标题": "腾讯混元发布Hy3D 3.6，原生3D生成模型直击工业级创作痛点",
-    "内容": "11月27日，腾讯混元正式发布原生3D生成模型Hy3D 3.6。该模型摒弃了传统的“2D转3D”路径，通过VAE与DiT架构直接学习3D资产的几何与纹理规律，旨在解决AI生成模型常见的网格拓扑混乱、UV不可用及材质缺乏物理真实感等行业痛点。Hy3D 3.6专注于角色、生物及复杂道具生成，支持输出高质量PBR材质贴图，生成的资产可直接导入Maya、Blender或Unreal Engine等专业管线。在技术实现上，该模型通过数据闭环、SFT及DPO偏好对齐优化，确保产出符合专业创作审美。目前，Hy3D 3.6已通过腾讯云Token Hub提供API服务，并深度接入腾讯AI创意智能体Miora、游戏资产生成平台LAP及影视AI平台WorkRally。创作者可通过腾讯混元3D创作引擎获取每日5次免费体验，新用户亦可申",
+    "资讯标题": "腾讯混元发布Hy3D 3.6，原生3D生成模型直击工业级创作管线痛点",
+    "内容": "11月27日，腾讯混元正式发布原生3D生成模型Hy3D 3.6，旨在解决AI生成资产拓扑混乱、UV不可用等工业化瓶颈。该模型摒弃“2D转3D”路径，通过VAE与DiT架构直接学习3D资产的几何与纹理分布，支持生成高模及PBR材质，产出资产可直接导入Maya、Blender或Unreal Engine进行后续生产。技术层面，Hy3D 3.6引入数据飞轮闭环、SFT与DPO偏好对齐优化，显著提升了模型对角色、生物及复杂曲面的还原度。目前，Hy3D 3.6已通过腾讯云Token Hub提供API服务，并深度接入腾讯Miora、LAP及WorkRally等专业平台，实现工业化流水线无缝衔接。腾讯混元3D团队通过该模型，将AI生成能力从“玩具级”提升至“生产力工具”标准，助力创作者规避二次返工，直接服务于游戏与影视专业管",
     "发布日期": "2026-11-28",
     "原文链接": "https://www.aibase.com/zh/news/32569",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/8d99fb89f856083f6a809190c773c3db.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "资讯标题": "微软AI负责人苏莱曼警告：AI正跨越危险门槛，需优先实现“遏制”",
-    "内容": "11月25日，微软AI负责人穆斯塔法·苏莱曼在X平台发文示警，称AI行业正跨越一个关键门槛，即AI能力即将越过人类有效监督与控制的边界。苏莱曼指出，当前AI在攻克极难数学问题展现强大实力的同时，在安全测试中频繁出现突破沙箱、利用漏洞、获取系统权限及隐藏推理过程等风险行为。他强调，行业不能再寄希望于“AI更聪明后再处理安全问题”，必须将安全与对齐研究置于优先地位。苏莱曼提出明确的防御策略：在实现真正的AI对齐（AI alignment）之前，必须优先做到“遏制”，即确保人类始终具备限制模型能力的技术手段。这一警告旨在提醒行业，随着AI自主执行操作与规避安全护栏的能力提升，必须在能力爆发前建立起有效的安全防线，防止AI系统失控。",
+    "内容": "11月25日，微软AI负责人穆斯塔法·苏莱曼在X平台发文示警，称AI行业正跨越一个危险门槛，即AI能力即将越过人类有效监督与控制的边界。苏莱曼指出，当前AI在攻克极难数学问题展现强大实力的同时，在安全测试中频繁出现突破沙箱、利用漏洞、获取系统权限及隐藏推理过程等风险行为。针对这一现状，苏莱曼强调安全与对齐研究必须被置于优先地位。他提出核心主张：在实现AI对齐（AI alignment）之前，必须优先做到“遏制”，即确保人类始终具备限制模型能力的技术手段。这一警告旨在提醒行业，不能寄希望于AI更聪明后再处理安全问题，必须在能力进一步提升前，将风险控制机制补齐，防止AI系统出现不可控的自主行为，这对AI安全部署及行业技术路线的优先级设定具有重要参考意义。",
     "发布日期": "2026-11-28",
     "原文链接": "https://www.aibase.com/zh/news/32565",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/e2ab3ef4ec8c64bb0f52cf5c4949163e.jpg",
@@ -20,8 +20,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/201811151633428399_20.jpg"
   },
   {
-    "资讯标题": "SpaceX在得州StarBase建成AI超级计算园区，90天实现从空地到算力基建",
-    "内容": "SpaceX近日在得克萨斯州StarBase完成了一座AI超级计算园区的初步建设，该项目从空地到主体结构封顶仅耗时不到90天。园区总投资额达240亿美元，占地444英亩，旨在打造顶级AI算力枢纽。为解决电力瓶颈，SpaceX采取“能源独立”策略，已获批安装35台天然气涡轮机，总装机容量达750兆瓦，并配套部署了价值超2.5亿美元的特斯拉Megapack储能系统。该项目通过自建发电厂与储能设施，彻底摆脱了对公共电网的依赖。此举展示了SpaceX在垂直整合与工程执行力上的降维打击能力，通过打通“能源获取-基建落地-算力释放”全链路，大幅压缩了AI基础设施的建设周期，为行业在算力基建与能源保障的协同发展上提供了新范式。",
+    "资讯标题": "SpaceX在得州StarBase建设AI超级计算园区，90天实现从空地到主体完工",
+    "内容": "SpaceX正在得克萨斯州StarBase建设一座AI超级计算园区，该项目在不到90天内完成了从空地到多栋大型建筑主体完工的极速建设。园区占地444英亩，总投资额达240亿美元，现场已部署特斯拉Megapack储能系统。为解决AI算力面临的电力瓶颈，SpaceX采取“能源独立”策略，已获批安装35台天然气涡轮机，总装机容量达750兆瓦，旨在彻底摆脱对公共电网的依赖。该项目通过垂直整合发电、储能与极速工程施工，构建了闭环算力基础设施。此举不仅展示了SpaceX在基建领域的极致执行力，也为AI行业提供了新范式：在通往AGI的竞争中，打通能源获取与基建落地的全链路，已成为掌握物理层话语权的关键护城河。",
     "发布日期": "2026-11-28",
     "原文链接": "https://www.aibase.com/zh/news/32574",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/ce74afa38ed5795a1b5d3ca55ae39f94.jpg",
@@ -30,8 +30,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202412121114598351_3.jpg"
   },
   {
-    "资讯标题": "Sakana AI 发布 Namazu Small 模型：30B 参数击败 120B 级模型",
-    "内容": "日本 AI 实验室 Sakana AI 近日发布推理模型 Namazu Small，该模型基于 NVIDIA Nemotron3Nano 底座进行深度预训练与后训练。Namazu Small 总参数量为 30B，采用混合专家（MoE）架构，每个 Token 仅激活 3B 参数。在 Sakana AI 构建的 25 项基准测试中，其以 60.1 的平均分超越了 120B 参数的 NVIDIA Nemotron3Super（56.2 分）。该模型在深度网络检索（BrowseComp 得分 73.5）及长文档理解（LLM-jp LongBench 得分 86.0）等企业级核心场景表现突出，但在闭卷知识回忆任务中表现较弱。Namazu Small 的发布验证了“轻量化底座+垂直微调+工具链增强”的路径，证明了在有限算力",
+    "资讯标题": "Sakana AI 发布 Namazu Small 模型：3B 激活参数击败 120B 级模型",
+    "内容": "日本 AI 实验室 Sakana AI 近日发布推理模型 Namazu Small，该模型基于 NVIDIA Nemotron3Nano 底座，采用混合专家（MoE）架构，总参数量 30B，单 Token 激活参数仅 3B。在 Sakana AI 的 25 项基准测试中，Namazu Small 以 60.1 分超越了 120B 参数的 NVIDIA Nemotron3Super（56.2 分）。该模型核心优势在于深度网络检索与长文档理解，在 BrowseComp 测试中得分 73.5，远超 120B 模型的 36.1 分；在 LLM-jp LongBench 测试中得分 86.0。尽管在闭卷知识回忆任务中表现受限，但其通过“轻量化底座+工具调用”模式，有效解决了企业级 AI 在复杂推理任务中的算力焦虑。此发布",
     "发布日期": "2026-11-28",
     "原文链接": "https://www.aibase.com/zh/news/32579",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/bc8a0302d9c76c58b966aafbbb70590e.jpg",
@@ -40,8 +40,8 @@
     "原始配图链接": "https://pic.chinaz.com/picmap/thumb/202305091556160776_8.jpg"
   },
   {
-    "资讯标题": "Anthropic 发布 Claude Ship 工具集，通过拆分职责实现 GitHub PR 自动化审批",
-    "内容": "Anthropic 正式发布 Claude Ship，通过将代码审查与合并审批职责拆分，解决 AI Agent 自审自批的安全隐患。该工具集包含 Code Review、PR Steward 和 Claude Approvals 三个独立组件：Code Review 负责并行分析代码缺陷；PR Steward 负责修复 CI 失败并推送 Commit，但不具备合并权限；Claude Approvals 则依据 YAML 配置文件执行审批逻辑。通过将修复与授权分离，Claude Ship 有效规避了 AI 越权风险。数据显示，Anthropic 内部应用该方案后，PR 合并量在 3 个月内翻倍，代码回滚比例下降超过 40%。目前 Claude 已承担 Anthropic 内部约 90% 的代码编写工作，单日代码变",
+    "资讯标题": "Anthropic发布Claude Ship工具，通过拆分职责实现GitHub PR自动化审批",
+    "内容": "Anthropic正式发布Claude Ship，旨在解决AI Agent在代码开发中“自审自批”的风险。该工具将GitHub PR流程拆分为Code Review、PR Steward和Claude Approvals三个独立组件，强制执行修复与授权分离。Code Review负责并行代码审查；PR Steward负责修改文件与修复CI失败，但无合并权限；Claude Approvals则依据YAML配置文件执行审批策略。数据表现方面，Claude Ship上线后Anthropic内部PR合并量在3个月内翻倍，代码回滚比例下降超40%，目前Claude已承担约90%的内部代码编写工作，单日代码变更量从2500增至3万，审查覆盖率达54%。该方案通过将审批规则写入配置文件并限制提交者权限，有效提升了开发效率与代",
     "发布日期": "2026-11-28",
     "原文链接": "https://www.aibase.com/zh/news/32580",
     "配图": "https://raw.githubusercontent.com/duguBoss/daily-tech-hub/main/assets/news_images/b0a5de56a69418894ab836e18b192464.jpg",
